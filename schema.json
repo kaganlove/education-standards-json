@@ -1,0 +1,27 @@
+{
+    "title": "Education Standards Schema",
+    "type": "object",
+    "properties": {
+        "framework": {
+            "type": "string"
+        },
+        "subject": {
+            "type": "string"
+        },
+        "grade": {
+            "type": "string"
+        },
+        "standards": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+    "required": [
+        "framework",
+        "subject",
+        "grade",
+        "standards"
+    ]
+}
