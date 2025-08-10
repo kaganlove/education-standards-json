@@ -1,0 +1,1911 @@
+{
+  "id": "F0C320FD5A124F13AAB2CB675E9E6CFA",
+  "title": "Software and App Design",
+  "subject": "CTE",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Standards Validation Committee - Arizona Department of Education Technical Standards",
+    "sourceURL": "https://www.azed.gov/sites/default/files/2020/09/SoftwareandAppDesignTSs15120040.pdf",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "0B41FFF6B5114EB0B8A89CE0E70E22D8",
+    "title": "Arizona"
+  },
+  "standards": {
+    "C519E58E94F24FAD90D5C32472D3EEB3": {
+      "id": "C519E58E94F24FAD90D5C32472D3EEB3",
+      "asnIdentifier": null,
+      "position": 30087,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD19.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop and throw custom exception classes",
+      "comments": [],
+      "ancestorIds": [
+        "4A932624798943C19A098AA46DFC2BE4"
+      ],
+      "parentId": "4A932624798943C19A098AA46DFC2BE4"
+    },
+    "A189B4174A1C478085B89AD4DABC0F88": {
+      "id": "A189B4174A1C478085B89AD4DABC0F88",
+      "asnIdentifier": null,
+      "position": 30086,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD19.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Throw standard exception classes",
+      "comments": [],
+      "ancestorIds": [
+        "4A932624798943C19A098AA46DFC2BE4"
+      ],
+      "parentId": "4A932624798943C19A098AA46DFC2BE4"
+    },
+    "8C59F7CBA8DF49AE958D38FD2CBD0D04": {
+      "id": "8C59F7CBA8DF49AE958D38FD2CBD0D04",
+      "asnIdentifier": null,
+      "position": 30085,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD19.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Handle (catch) runtime errors and take appropriate action",
+      "comments": [],
+      "ancestorIds": [
+        "4A932624798943C19A098AA46DFC2BE4"
+      ],
+      "parentId": "4A932624798943C19A098AA46DFC2BE4"
+    },
+    "1C19ACEF5942458DA6151E3A43A6AAEF": {
+      "id": "1C19ACEF5942458DA6151E3A43A6AAEF",
+      "asnIdentifier": null,
+      "position": 30084,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD19.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Handle unexpected return values",
+      "comments": [],
+      "ancestorIds": [
+        "4A932624798943C19A098AA46DFC2BE4"
+      ],
+      "parentId": "4A932624798943C19A098AA46DFC2BE4"
+    },
+    "A9B99F0512C041B2ACF78106F547B5EF": {
+      "id": "A9B99F0512C041B2ACF78106F547B5EF",
+      "asnIdentifier": null,
+      "position": 30083,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD19.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe error handling strategies",
+      "comments": [],
+      "ancestorIds": [
+        "4A932624798943C19A098AA46DFC2BE4"
+      ],
+      "parentId": "4A932624798943C19A098AA46DFC2BE4"
+    },
+    "8F7DAF0E1A35432A897AD825DE95C29E": {
+      "id": "8F7DAF0E1A35432A897AD825DE95C29E",
+      "asnIdentifier": null,
+      "position": 30082,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD19.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify runtime errors",
+      "comments": [],
+      "ancestorIds": [
+        "4A932624798943C19A098AA46DFC2BE4"
+      ],
+      "parentId": "4A932624798943C19A098AA46DFC2BE4"
+    },
+    "4A932624798943C19A098AA46DFC2BE4": {
+      "id": "4A932624798943C19A098AA46DFC2BE4",
+      "asnIdentifier": null,
+      "position": 30081,
+      "depth": 0,
+      "listId": "19",
+      "statementNotation": "SAD19.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EMPLOY RUNTIME AND ERROR HANDLING TECHNIQUES",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2FECA853A745414FB0C086AFE4B25542": {
+      "id": "2FECA853A745414FB0C086AFE4B25542",
+      "asnIdentifier": null,
+      "position": 30080,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "SAD18.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the object-oriented concepts of polymorphism, inheritance, and encapsulation ",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "80D2904A54044234AB3944FBB061FCE4": {
+      "id": "80D2904A54044234AB3944FBB061FCE4",
+      "asnIdentifier": null,
+      "position": 30079,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "SAD18.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the use of an abstract class as opposed to an interface",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "C5EAAF5152F64629A15F87348152A882": {
+      "id": "C5EAAF5152F64629A15F87348152A882",
+      "asnIdentifier": null,
+      "position": 30078,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "SAD18.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a subclass of an existing class",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "FFB66820DEB045529F7879E9244986B1": {
+      "id": "FFB66820DEB045529F7879E9244986B1",
+      "asnIdentifier": null,
+      "position": 30077,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "SAD18.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a user-defined class",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "8FB4E62BC1EF4DF68DDDEB9FBF551EF2": {
+      "id": "8FB4E62BC1EF4DF68DDDEB9FBF551EF2",
+      "asnIdentifier": null,
+      "position": 30076,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD18.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the requirements for constructing new objects by reading the documentation",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "F67433F2D51A4A739A7A9EB609070BFB": {
+      "id": "F67433F2D51A4A739A7A9EB609070BFB",
+      "asnIdentifier": null,
+      "position": 30075,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD18.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Change the state of an object by invoking a modifier method",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "0D817127B3E84CF4BBE6597B17633B06": {
+      "id": "0D817127B3E84CF4BBE6597B17633B06",
+      "asnIdentifier": null,
+      "position": 30074,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD18.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Read the state of an object by invoking accessor methods",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "9D24517D3A614A819A95D1F00CDF5C4E": {
+      "id": "9D24517D3A614A819A95D1F00CDF5C4E",
+      "asnIdentifier": null,
+      "position": 30073,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD18.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Instantiate objects from existing classes",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "56A7E71B5290483AAF66CA854050081F": {
+      "id": "56A7E71B5290483AAF66CA854050081F",
+      "asnIdentifier": null,
+      "position": 30072,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD18.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate among inheritance, composition, and class relationships",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "DD1CA86D4594442282676D029A527A53": {
+      "id": "DD1CA86D4594442282676D029A527A53",
+      "asnIdentifier": null,
+      "position": 30071,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD18.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make a distinction between an object and a class",
+      "comments": [],
+      "ancestorIds": [
+        "39889962CC60456095D508EE19DB8999"
+      ],
+      "parentId": "39889962CC60456095D508EE19DB8999"
+    },
+    "39889962CC60456095D508EE19DB8999": {
+      "id": "39889962CC60456095D508EE19DB8999",
+      "asnIdentifier": null,
+      "position": 30070,
+      "depth": 0,
+      "listId": "18",
+      "statementNotation": "SAD18.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EMPLOY OBJECT-ORIENTED PROGRAMMING TECHNIQUES",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BCC8FAA33B3E498193F84634F6A09F73": {
+      "id": "BCC8FAA33B3E498193F84634F6A09F73",
+      "asnIdentifier": null,
+      "position": 30069,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD17.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate the proper use of SQL database applications that work with different languages (e.g., MongoDB, Microsoft\nAccess, Oracle Databases, and Code.org’s App Lab)",
+      "comments": [],
+      "ancestorIds": [
+        "C0B7E579C02E43E292EE2FBE1BD471C0"
+      ],
+      "parentId": "C0B7E579C02E43E292EE2FBE1BD471C0"
+    },
+    "23C35225EEA847DC9053D318A98D2CFF": {
+      "id": "23C35225EEA847DC9053D318A98D2CFF",
+      "asnIdentifier": null,
+      "position": 30068,
+      "depth": 1,
+      "listId": ".",
+      "statementNotation": "SAD17.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate creating, reading, updating, and dropping a database",
+      "comments": [],
+      "ancestorIds": [
+        "C0B7E579C02E43E292EE2FBE1BD471C0"
+      ],
+      "parentId": "C0B7E579C02E43E292EE2FBE1BD471C0"
+    },
+    "03501D9BE9F14D75AF5DB42FD654F6CA": {
+      "id": "03501D9BE9F14D75AF5DB42FD654F6CA",
+      "asnIdentifier": null,
+      "position": 30067,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD17.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Input/output data from a sequential file or database",
+      "comments": [],
+      "ancestorIds": [
+        "C0B7E579C02E43E292EE2FBE1BD471C0"
+      ],
+      "parentId": "C0B7E579C02E43E292EE2FBE1BD471C0"
+    },
+    "C0B7E579C02E43E292EE2FBE1BD471C0": {
+      "id": "C0B7E579C02E43E292EE2FBE1BD471C0",
+      "asnIdentifier": null,
+      "position": 30066,
+      "depth": 0,
+      "listId": "17",
+      "statementNotation": "SAD17.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "USE AND UPDATE DATA STORAGE AND MANAGEMENT",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0C73CAF2D33843C2AAD6C72A6B074C08": {
+      "id": "0C73CAF2D33843C2AAD6C72A6B074C08",
+      "asnIdentifier": null,
+      "position": 30065,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD16.5.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose correct GUI objects for input and output of data to the GUI interface (e.g., text boxes, labels, radio buttons, check\nboxes, dropdowns, and list boxes)",
+      "comments": [],
+      "ancestorIds": [
+        "A7BE2277978B41E0BEE20666C408D4C5"
+      ],
+      "parentId": "A7BE2277978B41E0BEE20666C408D4C5"
+    },
+    "3E0B635C652A42F69B1BFE91DC14663F": {
+      "id": "3E0B635C652A42F69B1BFE91DC14663F",
+      "asnIdentifier": null,
+      "position": 30064,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD16.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Employ graphics methods to create images at specified locations",
+      "comments": [],
+      "ancestorIds": [
+        "A7BE2277978B41E0BEE20666C408D4C5"
+      ],
+      "parentId": "A7BE2277978B41E0BEE20666C408D4C5"
+    },
+    "6B37875C67A34270A62A94DF5B06EA23": {
+      "id": "6B37875C67A34270A62A94DF5B06EA23",
+      "asnIdentifier": null,
+      "position": 30063,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD16.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the concept of responsive design and applications",
+      "comments": [],
+      "ancestorIds": [
+        "A7BE2277978B41E0BEE20666C408D4C5"
+      ],
+      "parentId": "A7BE2277978B41E0BEE20666C408D4C5"
+    },
+    "F6DD6FEB13704004AEAE34EE85C7D970": {
+      "id": "F6DD6FEB13704004AEAE34EE85C7D970",
+      "asnIdentifier": null,
+      "position": 30062,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD16.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct web pages and applications that are compliant with ADA and sections 504 and 508 standards",
+      "comments": [],
+      "ancestorIds": [
+        "A7BE2277978B41E0BEE20666C408D4C5"
+      ],
+      "parentId": "A7BE2277978B41E0BEE20666C408D4C5"
+    },
+    "5E64AFC57F6F4AF6B1173BF9BF85BBAE": {
+      "id": "5E64AFC57F6F4AF6B1173BF9BF85BBAE",
+      "asnIdentifier": null,
+      "position": 30061,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD16.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply W3C standards and style conventions",
+      "comments": [],
+      "ancestorIds": [
+        "A7BE2277978B41E0BEE20666C408D4C5"
+      ],
+      "parentId": "A7BE2277978B41E0BEE20666C408D4C5"
+    },
+    "A7BE2277978B41E0BEE20666C408D4C5": {
+      "id": "A7BE2277978B41E0BEE20666C408D4C5",
+      "asnIdentifier": null,
+      "position": 30060,
+      "depth": 0,
+      "listId": "16",
+      "statementNotation": "SAD16.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "APPLY USER DESIGN PRINCIPLES TO INCLUDE WEBSITES AND APPLICATIONS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1C0BFB98AA64432DA5AAC59EA5175054": {
+      "id": "1C0BFB98AA64432DA5AAC59EA5175054",
+      "asnIdentifier": null,
+      "position": 30059,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD15.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Restore previous versions of code from the repository",
+      "comments": [],
+      "ancestorIds": [
+        "4875D6EC33A84964873B3C944AD8FA33"
+      ],
+      "parentId": "4875D6EC33A84964873B3C944AD8FA33"
+    },
+    "BA1F836E68684E91B6385EA35A14704C": {
+      "id": "BA1F836E68684E91B6385EA35A14704C",
+      "asnIdentifier": null,
+      "position": 30058,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD15.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain branching and its uses",
+      "comments": [],
+      "ancestorIds": [
+        "4875D6EC33A84964873B3C944AD8FA33"
+      ],
+      "parentId": "4875D6EC33A84964873B3C944AD8FA33"
+    },
+    "53A3C9BB99CF491C9919A1F5C08A9194": {
+      "id": "53A3C9BB99CF491C9919A1F5C08A9194",
+      "asnIdentifier": null,
+      "position": 30057,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD15.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add, push, and pull source code from repository",
+      "comments": [],
+      "ancestorIds": [
+        "4875D6EC33A84964873B3C944AD8FA33"
+      ],
+      "parentId": "4875D6EC33A84964873B3C944AD8FA33"
+    },
+    "A10491B4BE814000B6A57A1DA0E55153": {
+      "id": "A10491B4BE814000B6A57A1DA0E55153",
+      "asnIdentifier": null,
+      "position": 30056,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD15.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a new repository",
+      "comments": [],
+      "ancestorIds": [
+        "4875D6EC33A84964873B3C944AD8FA33"
+      ],
+      "parentId": "4875D6EC33A84964873B3C944AD8FA33"
+    },
+    "7ADBA699F1224A2AA5973C17DC869F69": {
+      "id": "7ADBA699F1224A2AA5973C17DC869F69",
+      "asnIdentifier": null,
+      "position": 30055,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD15.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the purpose of version control systems (e.g., Git and Mercurial)",
+      "comments": [],
+      "ancestorIds": [
+        "4875D6EC33A84964873B3C944AD8FA33"
+      ],
+      "parentId": "4875D6EC33A84964873B3C944AD8FA33"
+    },
+    "4875D6EC33A84964873B3C944AD8FA33": {
+      "id": "4875D6EC33A84964873B3C944AD8FA33",
+      "asnIdentifier": null,
+      "position": 30054,
+      "depth": 0,
+      "listId": "15",
+      "statementNotation": "SAD15.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " USE VERSION CONTROL SYSTEMS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2BF62B61848741A0BB08DCF0DF65B65D": {
+      "id": "2BF62B61848741A0BB08DCF0DF65B65D",
+      "asnIdentifier": null,
+      "position": 30053,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD14.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and interact with an Application Program Interface (API)",
+      "comments": [],
+      "ancestorIds": [
+        "9ACB1B6096DB487C8331986A48D24644"
+      ],
+      "parentId": "9ACB1B6096DB487C8331986A48D24644"
+    },
+    "53A5590AB867455584DC3777E71AC165": {
+      "id": "53A5590AB867455584DC3777E71AC165",
+      "asnIdentifier": null,
+      "position": 30052,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD14.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find and use third party libraries (e.g., web-based and package managers)",
+      "comments": [],
+      "ancestorIds": [
+        "9ACB1B6096DB487C8331986A48D24644"
+      ],
+      "parentId": "9ACB1B6096DB487C8331986A48D24644"
+    },
+    "51B34C6C42FA4873B8932ADFEDE736FE": {
+      "id": "51B34C6C42FA4873B8932ADFEDE736FE",
+      "asnIdentifier": null,
+      "position": 30051,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD14.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use standard library functions",
+      "comments": [],
+      "ancestorIds": [
+        "9ACB1B6096DB487C8331986A48D24644"
+      ],
+      "parentId": "9ACB1B6096DB487C8331986A48D24644"
+    },
+    "9ACB1B6096DB487C8331986A48D24644": {
+      "id": "9ACB1B6096DB487C8331986A48D24644",
+      "asnIdentifier": null,
+      "position": 30050,
+      "depth": 0,
+      "listId": "14",
+      "statementNotation": "SAD14.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "UTILIZE AND CREATE COMMUNITY RESOURCES",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "98000CB04A7C4538BA3F66BB9E4589A5": {
+      "id": "98000CB04A7C4538BA3F66BB9E4589A5",
+      "asnIdentifier": null,
+      "position": 30049,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD13.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform different methods of debugging (e.g., hand-trace code and real time debugging tools)",
+      "comments": [],
+      "ancestorIds": [
+        "9C28AD32C8C244EBB90E0B352E88819C"
+      ],
+      "parentId": "9C28AD32C8C244EBB90E0B352E88819C"
+    },
+    "9D474E48BD524D61A33DCB831BD604C6": {
+      "id": "9D474E48BD524D61A33DCB831BD604C6",
+      "asnIdentifier": null,
+      "position": 30048,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD13.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Categorize, identify, and correct errors in code, including syntax, semantic, logic, and runtime",
+      "comments": [],
+      "ancestorIds": [
+        "9C28AD32C8C244EBB90E0B352E88819C"
+      ],
+      "parentId": "9C28AD32C8C244EBB90E0B352E88819C"
+    },
+    "CAFC2D420E7A4E3F810ABD7D812D95DB": {
+      "id": "CAFC2D420E7A4E3F810ABD7D812D95DB",
+      "asnIdentifier": null,
+      "position": 30047,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD13.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform integration testing including tests within a program to protect execution from bad input or other run-time errors",
+      "comments": [],
+      "ancestorIds": [
+        "9C28AD32C8C244EBB90E0B352E88819C"
+      ],
+      "parentId": "9C28AD32C8C244EBB90E0B352E88819C"
+    },
+    "FE7ABE8FB6C6404398D831612AAA0837": {
+      "id": "FE7ABE8FB6C6404398D831612AAA0837",
+      "asnIdentifier": null,
+      "position": 30046,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD13.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify boundary cases and generate appropriate test data",
+      "comments": [],
+      "ancestorIds": [
+        "9C28AD32C8C244EBB90E0B352E88819C"
+      ],
+      "parentId": "9C28AD32C8C244EBB90E0B352E88819C"
+    },
+    "021AEFBBF6C94049BE837267B9BB89BE": {
+      "id": "021AEFBBF6C94049BE837267B9BB89BE",
+      "asnIdentifier": null,
+      "position": 30045,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD13.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify errors in program modules",
+      "comments": [],
+      "ancestorIds": [
+        "9C28AD32C8C244EBB90E0B352E88819C"
+      ],
+      "parentId": "9C28AD32C8C244EBB90E0B352E88819C"
+    },
+    "9C28AD32C8C244EBB90E0B352E88819C": {
+      "id": "9C28AD32C8C244EBB90E0B352E88819C",
+      "asnIdentifier": null,
+      "position": 30044,
+      "depth": 0,
+      "listId": "13",
+      "statementNotation": "SAD13.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "TEST AND DEBUG TO VERIFY PROGRAM OPERATION",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "06375A3B0BB34A3FB441D81A0C7EB7A1": {
+      "id": "06375A3B0BB34A3FB441D81A0C7EB7A1",
+      "asnIdentifier": null,
+      "position": 30043,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "SAD12.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate the use of return values from modules",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "0087926F11134A9DA0037C3000674D39": {
+      "id": "0087926F11134A9DA0037C3000674D39",
+      "asnIdentifier": null,
+      "position": 30042,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "SAD12.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate the use of parameters to pass data into program modules",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "78E14447759E47E8A747EA731A08A1CB": {
+      "id": "78E14447759E47E8A747EA731A08A1CB",
+      "asnIdentifier": null,
+      "position": 30041,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "SAD12.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate refactoring techniques to reduce repetitious code and improve maintainability",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "AF80333B0E56438DA155F7A652700B7D": {
+      "id": "AF80333B0E56438DA155F7A652700B7D",
+      "asnIdentifier": null,
+      "position": 30040,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "SAD12.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Name identifiers and formatting code by applying recognized conventions",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "C26DD9D00210470289B5E82E73D5E7CB": {
+      "id": "C26DD9D00210470289B5E82E73D5E7CB",
+      "asnIdentifier": null,
+      "position": 30039,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "SAD12.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply industry standards in documentation (e.g., self-documenting code; function-level, program-level, and user-level\ndocumentation)",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "3861FDC4570F4158B305FC24E13206AC": {
+      "id": "3861FDC4570F4158B305FC24E13206AC",
+      "asnIdentifier": null,
+      "position": 30038,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD12.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the purpose of a build system (e.g., make, rake, ant, maven, SCons, and grunt)",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "585BA5944AFB4DEA896BB11382FBD442": {
+      "id": "585BA5944AFB4DEA896BB11382FBD442",
+      "asnIdentifier": null,
+      "position": 30037,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD12.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate between interpreted and compiled code (e.g., steps necessary to run executable code)",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "900629D083444E2FAC50A594CAA5DEB8": {
+      "id": "900629D083444E2FAC50A594CAA5DEB8",
+      "asnIdentifier": null,
+      "position": 30036,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD12.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose the correct method of outputting data with formatting and escaping",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "AE5C511C669146D4BD087CC553D936BD": {
+      "id": "AE5C511C669146D4BD087CC553D936BD",
+      "asnIdentifier": null,
+      "position": 30035,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD12.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose the correct method of assigning input to variables including data sanitization",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "5502AC9A9F334294B21347320BB4E41E": {
+      "id": "5502AC9A9F334294B21347320BB4E41E",
+      "asnIdentifier": null,
+      "position": 30034,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD12.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify correct input/output statements",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "FA71C5081C0E490791DC42161D8435AB": {
+      "id": "FA71C5081C0E490791DC42161D8435AB",
+      "asnIdentifier": null,
+      "position": 30033,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD12.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a program editor to enter and modify code",
+      "comments": [],
+      "ancestorIds": [
+        "0619F7DCC6434060998A9B306547DFD0"
+      ],
+      "parentId": "0619F7DCC6434060998A9B306547DFD0"
+    },
+    "0619F7DCC6434060998A9B306547DFD0": {
+      "id": "0619F7DCC6434060998A9B306547DFD0",
+      "asnIdentifier": null,
+      "position": 30032,
+      "depth": 0,
+      "listId": "12",
+      "statementNotation": "SAD12.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "DEVELOP A PROGRAM ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "92EAC1046A2B4F2CA6432C0B86F72A2B": {
+      "id": "92EAC1046A2B4F2CA6432C0B86F72A2B",
+      "asnIdentifier": null,
+      "position": 30031,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD11.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and implement basic algorithms ",
+      "comments": [],
+      "ancestorIds": [
+        "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+      ],
+      "parentId": "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+    },
+    "F80E5EBC08C7424897B4E2B88B38F622": {
+      "id": "F80E5EBC08C7424897B4E2B88B38F622",
+      "asnIdentifier": null,
+      "position": 30030,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD11.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply pseudocode or graphical representations to plan the structure of a program or module (e.g., flowcharting, white\nboarding, and UML)",
+      "comments": [],
+      "ancestorIds": [
+        "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+      ],
+      "parentId": "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+    },
+    "37A3F4F9B20A46D78CAD65DC788670E7": {
+      "id": "37A3F4F9B20A46D78CAD65DC788670E7",
+      "asnIdentifier": null,
+      "position": 30029,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD11.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop program requirements/specifications and a testing plan (e.g., user stories, automated testing, and test procedures)",
+      "comments": [],
+      "ancestorIds": [
+        "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+      ],
+      "parentId": "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+    },
+    "59657A5862AC4766B9F519E2FC3F0470": {
+      "id": "59657A5862AC4766B9F519E2FC3F0470",
+      "asnIdentifier": null,
+      "position": 30028,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD11.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implement the steps in the System Development Life Cycle (SDLC) (e.g., planning, analysis, design, development, testing,\nimplementation, and maintenance)",
+      "comments": [],
+      "ancestorIds": [
+        "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+      ],
+      "parentId": "BD074AA14E0A4DBCB788C54ECA6FA9BA"
+    },
+    "BD074AA14E0A4DBCB788C54ECA6FA9BA": {
+      "id": "BD074AA14E0A4DBCB788C54ECA6FA9BA",
+      "asnIdentifier": null,
+      "position": 30027,
+      "depth": 0,
+      "listId": "11",
+      "statementNotation": "SAD11.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "DEMONSTRATE PROGRAM ANALYSIS AND DESIGN",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3EBC9A67E6C449F5A6C29AF5A64A1B8A": {
+      "id": "3EBC9A67E6C449F5A6C29AF5A64A1B8A",
+      "asnIdentifier": null,
+      "position": 30026,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD10.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze remote computing tools and services and their application",
+      "comments": [],
+      "ancestorIds": [
+        "D02D8A767F464B2295F20A0D6B43EBC3"
+      ],
+      "parentId": "D02D8A767F464B2295F20A0D6B43EBC3"
+    },
+    "C84817A948784F96AB296DF049CD89BC": {
+      "id": "C84817A948784F96AB296DF049CD89BC",
+      "asnIdentifier": null,
+      "position": 30025,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD10.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use client collaboration sources/platforms (e.g., GitHub, Google Drive, Dropbox, JSFiddle, and browser developer tools)",
+      "comments": [],
+      "ancestorIds": [
+        "D02D8A767F464B2295F20A0D6B43EBC3"
+      ],
+      "parentId": "D02D8A767F464B2295F20A0D6B43EBC3"
+    },
+    "F8B1FAD8E08F4135B262F3F430DEFE94": {
+      "id": "F8B1FAD8E08F4135B262F3F430DEFE94",
+      "asnIdentifier": null,
+      "position": 30024,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD10.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify key components and functions of internet and web specialty browsers",
+      "comments": [],
+      "ancestorIds": [
+        "D02D8A767F464B2295F20A0D6B43EBC3"
+      ],
+      "parentId": "D02D8A767F464B2295F20A0D6B43EBC3"
+    },
+    "D02D8A767F464B2295F20A0D6B43EBC3": {
+      "id": "D02D8A767F464B2295F20A0D6B43EBC3",
+      "asnIdentifier": null,
+      "position": 30023,
+      "depth": 0,
+      "listId": "10",
+      "statementNotation": "SAD10.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "APPLY CLIENT-SIDE INTERNET SOFTWARE",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BF6E0675C61C424385CE674BB2F68A5D": {
+      "id": "BF6E0675C61C424385CE674BB2F68A5D",
+      "asnIdentifier": null,
+      "position": 30022,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD9.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify Internet of Things (IOT) and common communication interfaces (e.g., Bluetooth, NFC, Wi-Fi, and LTE)",
+      "comments": [],
+      "ancestorIds": [
+        "635FE313C6784973816771013A344AED"
+      ],
+      "parentId": "635FE313C6784973816771013A344AED"
+    },
+    "F24A997D151048F9ACA24096BAE92A73": {
+      "id": "F24A997D151048F9ACA24096BAE92A73",
+      "asnIdentifier": null,
+      "position": 30021,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD9.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate among shared hosting, dedicated server, and virtual private server (VPS)",
+      "comments": [],
+      "ancestorIds": [
+        "635FE313C6784973816771013A344AED"
+      ],
+      "parentId": "635FE313C6784973816771013A344AED"
+    },
+    "0202CE244131446084F0C27445A1604E": {
+      "id": "0202CE244131446084F0C27445A1604E",
+      "asnIdentifier": null,
+      "position": 30020,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD9.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify performance issues (e.g., bandwidth, internet connection types, pages loading slowly, resolution, and size graphics)",
+      "comments": [],
+      "ancestorIds": [
+        "635FE313C6784973816771013A344AED"
+      ],
+      "parentId": "635FE313C6784973816771013A344AED"
+    },
+    "B6E8D77636994CACA89DC35D41A97FDD": {
+      "id": "B6E8D77636994CACA89DC35D41A97FDD",
+      "asnIdentifier": null,
+      "position": 30019,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD9.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify services run by web servers [e.g., scripting languages (client- and server-side scripting), databases, and media]",
+      "comments": [],
+      "ancestorIds": [
+        "635FE313C6784973816771013A344AED"
+      ],
+      "parentId": "635FE313C6784973816771013A344AED"
+    },
+    "2A173D4B751B44ADAE13AB155A950F05": {
+      "id": "2A173D4B751B44ADAE13AB155A950F05",
+      "asnIdentifier": null,
+      "position": 30018,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD9.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the components and functions of the internet (e.g., HTTP, HTTPS, FTP, IP addresses, and IMAP)",
+      "comments": [],
+      "ancestorIds": [
+        "635FE313C6784973816771013A344AED"
+      ],
+      "parentId": "635FE313C6784973816771013A344AED"
+    },
+    "F0C533771BA64F4F930B429345400CAD": {
+      "id": "F0C533771BA64F4F930B429345400CAD",
+      "asnIdentifier": null,
+      "position": 30017,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD9.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain cloud-based computing and content delivery networks",
+      "comments": [],
+      "ancestorIds": [
+        "635FE313C6784973816771013A344AED"
+      ],
+      "parentId": "635FE313C6784973816771013A344AED"
+    },
+    "635FE313C6784973816771013A344AED": {
+      "id": "635FE313C6784973816771013A344AED",
+      "asnIdentifier": null,
+      "position": 30016,
+      "depth": 0,
+      "listId": "9",
+      "statementNotation": "SAD9.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "IDENTIFY INTERNET PROTOCOLS AND OPERATIONS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9BAF3992F7CD43DBB5B6619554BF8C3E": {
+      "id": "9BAF3992F7CD43DBB5B6619554BF8C3E",
+      "asnIdentifier": null,
+      "position": 30015,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "SAD8.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the efficiency of linear vs. binary searches [e.g., O(n) and O(log n)] ",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "47D9680D919C410A91455F05CA9C4735": {
+      "id": "47D9680D919C410A91455F05CA9C4735",
+      "asnIdentifier": null,
+      "position": 30014,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD8.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the efficiency of different sorting algorithms (e.g., bubble, insertion, and merge)",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "FCF1CEA09E1E4F6C8B322ADBBA3BD500": {
+      "id": "FCF1CEA09E1E4F6C8B322ADBBA3BD500",
+      "asnIdentifier": null,
+      "position": 30013,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD8.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and use two-dimensional arrays",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "0A6921B0D8D64FA4AB49855890DCC184": {
+      "id": "0A6921B0D8D64FA4AB49855890DCC184",
+      "asnIdentifier": null,
+      "position": 30012,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD8.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Search and sort data in an array",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "C9D3D37CFD7C4B2EBD383BCD56FA4138": {
+      "id": "C9D3D37CFD7C4B2EBD383BCD56FA4138",
+      "asnIdentifier": null,
+      "position": 30011,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD8.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify techniques for declaring, initializing, and modifying user-defined data types",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "FAE6B510F49E4EA893B39ADFF2563C0F": {
+      "id": "FAE6B510F49E4EA893B39ADFF2563C0F",
+      "asnIdentifier": null,
+      "position": 30010,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Distinguish between arrays and hash maps (associative arrays)",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "45D0CDD3998A4B4599934C8AFC96E168": {
+      "id": "45D0CDD3998A4B4599934C8AFC96E168",
+      "asnIdentifier": null,
+      "position": 30009,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate basic uses of arrays including initialization, storage, and retrieval of values",
+      "comments": [],
+      "ancestorIds": [
+        "9ACFC56577824D6DA246A84BB3349DC4"
+      ],
+      "parentId": "9ACFC56577824D6DA246A84BB3349DC4"
+    },
+    "9ACFC56577824D6DA246A84BB3349DC4": {
+      "id": "9ACFC56577824D6DA246A84BB3349DC4",
+      "asnIdentifier": null,
+      "position": 30008,
+      "depth": 0,
+      "listId": "8",
+      "statementNotation": "SAD8.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "UTILIZE BASIC DATA STRUCTURES IN WRITING PROGRAMS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "341B6CF0D2094E9189FBCD085B680299": {
+      "id": "341B6CF0D2094E9189FBCD085B680299",
+      "asnIdentifier": null,
+      "position": 30007,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD7.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compute the values of variables involved with nested loops",
+      "comments": [],
+      "ancestorIds": [
+        "16B96956F4B44F61B63FE4CBD51066A4"
+      ],
+      "parentId": "16B96956F4B44F61B63FE4CBD51066A4"
+    },
+    "2F49D2EF376A4EAE8A63F6114D5F0E44": {
+      "id": "2F49D2EF376A4EAE8A63F6114D5F0E44",
+      "asnIdentifier": null,
+      "position": 30006,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD7.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the correct syntax for nested loops",
+      "comments": [],
+      "ancestorIds": [
+        "16B96956F4B44F61B63FE4CBD51066A4"
+      ],
+      "parentId": "16B96956F4B44F61B63FE4CBD51066A4"
+    },
+    "CA6FF6235D0441A2A158E0BBE2EE2289": {
+      "id": "CA6FF6235D0441A2A158E0BBE2EE2289",
+      "asnIdentifier": null,
+      "position": 30005,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify how loops are controlled (variable conditions and exits)",
+      "comments": [],
+      "ancestorIds": [
+        "16B96956F4B44F61B63FE4CBD51066A4"
+      ],
+      "parentId": "16B96956F4B44F61B63FE4CBD51066A4"
+    },
+    "26226F30A1B342B787BD3CEA3CFA4EDA": {
+      "id": "26226F30A1B342B787BD3CEA3CFA4EDA",
+      "asnIdentifier": null,
+      "position": 30004,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify various types of iteration structure (e.g., while, for, for-each, and recursion) ",
+      "comments": [],
+      "ancestorIds": [
+        "16B96956F4B44F61B63FE4CBD51066A4"
+      ],
+      "parentId": "16B96956F4B44F61B63FE4CBD51066A4"
+    },
+    "16B96956F4B44F61B63FE4CBD51066A4": {
+      "id": "16B96956F4B44F61B63FE4CBD51066A4",
+      "asnIdentifier": null,
+      "position": 30003,
+      "depth": 0,
+      "listId": "7",
+      "statementNotation": "SAD7.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "UTILIZE ITERATIVE STRUCTURES IN WRITING PROGRAMS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "18D76056075B473AA2C1E2A596F4F561": {
+      "id": "18D76056075B473AA2C1E2A596F4F561",
+      "asnIdentifier": null,
+      "position": 30002,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the correct nesting for decision structures",
+      "comments": [],
+      "ancestorIds": [
+        "2B996E9F0B34467E87EF3C2BEF5AE95B"
+      ],
+      "parentId": "2B996E9F0B34467E87EF3C2BEF5AE95B"
+    },
+    "05A241531A404470B2326A04195F1C4F": {
+      "id": "05A241531A404470B2326A04195F1C4F",
+      "asnIdentifier": null,
+      "position": 30001,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate Boolean expressions (e.g., AND, OR, NOT, NOR, and XOR)",
+      "comments": [],
+      "ancestorIds": [
+        "2B996E9F0B34467E87EF3C2BEF5AE95B"
+      ],
+      "parentId": "2B996E9F0B34467E87EF3C2BEF5AE95B"
+    },
+    "20763CF1685A4EFBA83F8859B62528FB": {
+      "id": "20763CF1685A4EFBA83F8859B62528FB",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare values using relational operators (e.g., =, >, <, >=, <=, and not equal)",
+      "comments": [],
+      "ancestorIds": [
+        "2B996E9F0B34467E87EF3C2BEF5AE95B"
+      ],
+      "parentId": "2B996E9F0B34467E87EF3C2BEF5AE95B"
+    },
+    "7C3EDF3134D640278227981429361E64": {
+      "id": "7C3EDF3134D640278227981429361E64",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the correct syntax for decision statements (e.g., if/else, if, and switch case) ",
+      "comments": [],
+      "ancestorIds": [
+        "2B996E9F0B34467E87EF3C2BEF5AE95B"
+      ],
+      "parentId": "2B996E9F0B34467E87EF3C2BEF5AE95B"
+    },
+    "2B996E9F0B34467E87EF3C2BEF5AE95B": {
+      "id": "2B996E9F0B34467E87EF3C2BEF5AE95B",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "SAD6.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "UTILIZE CONDITIONAL STRUCTURES IN WRITING PROGRAMS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B4DDF76C6D774BDFB806D08B1F4879B4": {
+      "id": "B4DDF76C6D774BDFB806D08B1F4879B4",
+      "asnIdentifier": null,
+      "position": 27003,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD85.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify correct and problematic uses of integers, floating-point numbers, and fixed-point numbers in arithmetic",
+      "comments": [],
+      "ancestorIds": [
+        "13E389F1AF894A0EAEF59D0197F25C26"
+      ],
+      "parentId": "13E389F1AF894A0EAEF59D0197F25C26"
+    },
+    "BAC5BD228F9C4B0DADB33EBE417897AC": {
+      "id": "BAC5BD228F9C4B0DADB33EBE417897AC",
+      "asnIdentifier": null,
+      "position": 27002,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret and construct mathematical formulas",
+      "comments": [],
+      "ancestorIds": [
+        "13E389F1AF894A0EAEF59D0197F25C26"
+      ],
+      "parentId": "13E389F1AF894A0EAEF59D0197F25C26"
+    },
+    "A783F963771A4AA198141A3D1DE154A6": {
+      "id": "A783F963771A4AA198141A3D1DE154A6",
+      "asnIdentifier": null,
+      "position": 27001,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and correctly use arithmetic operations applying the order of operations (precedence) with respect to programming",
+      "comments": [],
+      "ancestorIds": [
+        "13E389F1AF894A0EAEF59D0197F25C26"
+      ],
+      "parentId": "13E389F1AF894A0EAEF59D0197F25C26"
+    },
+    "D83643E4B00A4AD383CF91CEA7B55AC6": {
+      "id": "D83643E4B00A4AD383CF91CEA7B55AC6",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use binary to decimal, decimal to hexadecimal, hexadecimal to decimal, binary to hexadecimal, and binary to hexadecimal\nconversions to solve hardware and software problems",
+      "comments": [],
+      "ancestorIds": [
+        "13E389F1AF894A0EAEF59D0197F25C26"
+      ],
+      "parentId": "13E389F1AF894A0EAEF59D0197F25C26"
+    },
+    "1F742D6367EA4377A99E467AB71E381F": {
+      "id": "1F742D6367EA4377A99E467AB71E381F",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply basic mathematics to hardware (e.g., bits, bytes, kilobytes, megabytes, gigabytes, and terabytes)",
+      "comments": [],
+      "ancestorIds": [
+        "13E389F1AF894A0EAEF59D0197F25C26"
+      ],
+      "parentId": "13E389F1AF894A0EAEF59D0197F25C26"
+    },
+    "13E389F1AF894A0EAEF59D0197F25C26": {
+      "id": "13E389F1AF894A0EAEF59D0197F25C26",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "SAD5.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "PERFORM BASIC COMPUTER MATHEMATICS IN INFORMATION TECHNOLOGY",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4BA9D35E1AE7426B8C51B93E9B2C9C20": {
+      "id": "4BA9D35E1AE7426B8C51B93E9B2C9C20",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research industry relevant programming languages (i.e., Java, JavaScript, Python, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "C09AF46B2F87431695008C7ADEE6E96A"
+      ],
+      "parentId": "C09AF46B2F87431695008C7ADEE6E96A"
+    },
+    "B115C675588849F9BD2F14D9EB000DC6": {
+      "id": "B115C675588849F9BD2F14D9EB000DC6",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain complications of storing and manipulating data (i.e., the Big-O notation for analyzing storage and efficiency concerns,\netc.)",
+      "comments": [],
+      "ancestorIds": [
+        "C09AF46B2F87431695008C7ADEE6E96A"
+      ],
+      "parentId": "C09AF46B2F87431695008C7ADEE6E96A"
+    },
+    "5F4DD57E1DAD47018D0DA148323AB435": {
+      "id": "5F4DD57E1DAD47018D0DA148323AB435",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the correct syntax and safe functions for operations on strings, including length, substring, and concatenation",
+      "comments": [],
+      "ancestorIds": [
+        "C09AF46B2F87431695008C7ADEE6E96A"
+      ],
+      "parentId": "C09AF46B2F87431695008C7ADEE6E96A"
+    },
+    "21D34ADDD3E94A51B7026326D3AC1B62": {
+      "id": "21D34ADDD3E94A51B7026326D3AC1B62",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the correct syntax and usage for constants and variables in a program",
+      "comments": [],
+      "ancestorIds": [
+        "C09AF46B2F87431695008C7ADEE6E96A"
+      ],
+      "parentId": "C09AF46B2F87431695008C7ADEE6E96A"
+    },
+    "8641472FA8C74A4D80AADC60DB4B73D5": {
+      "id": "8641472FA8C74A4D80AADC60DB4B73D5",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose the appropriate data type for a given situation",
+      "comments": [],
+      "ancestorIds": [
+        "C09AF46B2F87431695008C7ADEE6E96A"
+      ],
+      "parentId": "C09AF46B2F87431695008C7ADEE6E96A"
+    },
+    "8A971D048A5543FAA74168D940C4E20B": {
+      "id": "8A971D048A5543FAA74168D940C4E20B",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Declare numeric, Boolean, character, string variables, and float and double",
+      "comments": [],
+      "ancestorIds": [
+        "C09AF46B2F87431695008C7ADEE6E96A"
+      ],
+      "parentId": "C09AF46B2F87431695008C7ADEE6E96A"
+    },
+    "C09AF46B2F87431695008C7ADEE6E96A": {
+      "id": "C09AF46B2F87431695008C7ADEE6E96A",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "SAD4.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "UTILIZE PRIMITIVE DATA TYPES AND STRINGS IN WRITING PROGRAMS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1C5DFC8387544DC9B9073F162EA68C7C": {
+      "id": "1C5DFC8387544DC9B9073F162EA68C7C",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify issues and regulations affecting computers, other devices, the internet, and information privacy (e.g., HIPAA, COPPA,\nCISPA, FERPA, PCI, GDPR, and data brokers)",
+      "comments": [],
+      "ancestorIds": [
+        "162CC3D176454B439524C980F932DFF4"
+      ],
+      "parentId": "162CC3D176454B439524C980F932DFF4"
+    },
+    "3BF97B39C56C40D7B927ACCBFF24B18F": {
+      "id": "3BF97B39C56C40D7B927ACCBFF24B18F",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast open source and proprietary systems in relation to legal and ethical issues (e.g., data pricing, use of\npublic and private networks, social networking, industry-related data, and data piracy)",
+      "comments": [],
+      "ancestorIds": [
+        "162CC3D176454B439524C980F932DFF4"
+      ],
+      "parentId": "162CC3D176454B439524C980F932DFF4"
+    },
+    "1E055F1270694F01BB04A44F391E0EAC": {
+      "id": "1E055F1270694F01BB04A44F391E0EAC",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore intellectual property rights including software licensing and software duplication [e.g., Digital Millennium Copyright Act\n(DMCA), software licensing, and software duplication]",
+      "comments": [],
+      "ancestorIds": [
+        "162CC3D176454B439524C980F932DFF4"
+      ],
+      "parentId": "162CC3D176454B439524C980F932DFF4"
+    },
+    "162CC3D176454B439524C980F932DFF4": {
+      "id": "162CC3D176454B439524C980F932DFF4",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "SAD3.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EXAMINE LEGAL AND ETHICAL ISSUES RELATED TO INFORMATION TECHNOLOGY",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "57FDF3F7EC21462E885D882D213C2AA3": {
+      "id": "57FDF3F7EC21462E885D882D213C2AA3",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "SAD2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how software defects relate to software security (e.g., buffer overflows and cross-site scripting)",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "E1D82682F9E4463D9349850AD0D0E309": {
+      "id": "E1D82682F9E4463D9349850AD0D0E309",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "SAD2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the CIA (confidentiality, integrity, and availability) triad",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "0D6474544F1449A9B0408F9633D6BA33": {
+      "id": "0D6474544F1449A9B0408F9633D6BA33",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "SAD2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe methods for sanitizing user input to prevent issues (e.g., buffer overflows and SQL injection)",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "EBBCCD3EAE174F22BF42F8F8A9237A19": {
+      "id": "EBBCCD3EAE174F22BF42F8F8A9237A19",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain best practices to maintain integrity and security in software development (e.g., encryption, hashing, and digital\nsignatures)",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "BF5836F449DF43D7A819BAF72E30AF10": {
+      "id": "BF5836F449DF43D7A819BAF72E30AF10",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify procedures to maintain data integrity and security (e.g., lock the screen, delete unrecognized emails, use trustworthy\nthumb drives, and use approved software)",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "A22ED963B6AD431AB4680F9D8E8EC2DD": {
+      "id": "A22ED963B6AD431AB4680F9D8E8EC2DD",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe potential vulnerabilities in software (e.g., OWASP’s Top 10)",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "7B0C4B674C364CC2952A79337A0C60CF": {
+      "id": "7B0C4B674C364CC2952A79337A0C60CF",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify common computer threats (e.g., viruses, phishing, suspicious email, social engineering, spoofing, identity theft, and\nspamming)",
+      "comments": [],
+      "ancestorIds": [
+        "AE8F3C5D23BA4B60A90621843E985433"
+      ],
+      "parentId": "AE8F3C5D23BA4B60A90621843E985433"
+    },
+    "AE8F3C5D23BA4B60A90621843E985433": {
+      "id": "AE8F3C5D23BA4B60A90621843E985433",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "SAD2.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "RECOGNIZE SECURITY ISSUES",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "23A0C532D3CA455A84561A603C680B33": {
+      "id": "23A0C532D3CA455A84561A603C680B33",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "SAD1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe problem-solving and troubleshooting strategies applicable to software development",
+      "comments": [],
+      "ancestorIds": [
+        "ACD9B9B89C8949378797D18E828D3258"
+      ],
+      "parentId": "ACD9B9B89C8949378797D18E828D3258"
+    },
+    "21CBC570366E4B9299B4CB35B5CA385E": {
+      "id": "21CBC570366E4B9299B4CB35B5CA385E",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "SAD1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain “visualizing” as a problem-solving technique prior to writing code",
+      "comments": [],
+      "ancestorIds": [
+        "ACD9B9B89C8949378797D18E828D3258"
+      ],
+      "parentId": "ACD9B9B89C8949378797D18E828D3258"
+    },
+    "61EEF6335E83488A873C4C47B36F0FB7": {
+      "id": "61EEF6335E83488A873C4C47B36F0FB7",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "SAD1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the process of decomposing a large programming problem into smaller, more manageable procedures",
+      "comments": [],
+      "ancestorIds": [
+        "ACD9B9B89C8949378797D18E828D3258"
+      ],
+      "parentId": "ACD9B9B89C8949378797D18E828D3258"
+    },
+    "A514618C6E1E460B96FD41BED05D42D9": {
+      "id": "A514618C6E1E460B96FD41BED05D42D9",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SAD1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Establish objectives and outcomes for a task",
+      "comments": [],
+      "ancestorIds": [
+        "ACD9B9B89C8949378797D18E828D3258"
+      ],
+      "parentId": "ACD9B9B89C8949378797D18E828D3258"
+    },
+    "ACD9B9B89C8949378797D18E828D3258": {
+      "id": "ACD9B9B89C8949378797D18E828D3258",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "SAD1.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "APPLY PROBLEM-SOLVING AND CRITICAL THINKING SKILLS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

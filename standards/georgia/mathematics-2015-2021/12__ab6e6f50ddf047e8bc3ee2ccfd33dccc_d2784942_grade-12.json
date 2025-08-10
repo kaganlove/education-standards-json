@@ -1,0 +1,745 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2784942_grade-12",
+  "title": "Engineering Calculus (2017)",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2784942",
+    "valid": "2017",
+    "title": "Mathematics Georgia Standards of Excellence - Engineering Calculus",
+    "sourceURL": "https://www.georgiastandards.org/Georgia-Standards/Frameworks/Engineering-Calculus-Standards.pdf",
+    "asnIdentifier": "D2784942",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "7A16A0AD5003418B86BC84E7EF397B3A": {
+      "id": "7A16A0AD5003418B86BC84E7EF397B3A",
+      "asnIdentifier": "S2786745",
+      "position": 55000,
+      "depth": 3,
+      "statementNotation": "MEC.I.1.e",
+      "description": "Interpret the theorems of Green, Stokes, or Gauss and apply them to the study of real-world phenomena.",
+      "ancestorIds": [
+        "5CB0CBBEA20546A0B11F54082E12D35D",
+        "3C7DE185D0624AEFBD5EABF61AF292B1",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "5CB0CBBEA20546A0B11F54082E12D35D"
+    },
+    "DFDF880C72E4490BA947E309705252DE": {
+      "id": "DFDF880C72E4490BA947E309705252DE",
+      "asnIdentifier": "S2786744",
+      "position": 54000,
+      "depth": 3,
+      "statementNotation": "MEC.I.1.d",
+      "description": "Use integrals of vectors to define and apply the gradient, divergence, or the curl",
+      "ancestorIds": [
+        "5CB0CBBEA20546A0B11F54082E12D35D",
+        "3C7DE185D0624AEFBD5EABF61AF292B1",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "5CB0CBBEA20546A0B11F54082E12D35D"
+    },
+    "7D80C8C789E34D898BE98E84EBBD5D29": {
+      "id": "7D80C8C789E34D898BE98E84EBBD5D29",
+      "asnIdentifier": "S2786743",
+      "position": 53000,
+      "depth": 3,
+      "statementNotation": "MEC.I.1.c",
+      "description": "Apply properties of integrals to calculate and represent area, volume, or mass.",
+      "ancestorIds": [
+        "5CB0CBBEA20546A0B11F54082E12D35D",
+        "3C7DE185D0624AEFBD5EABF61AF292B1",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "5CB0CBBEA20546A0B11F54082E12D35D"
+    },
+    "29879A8D53414A2B9C0064DDA31602DF": {
+      "id": "29879A8D53414A2B9C0064DDA31602DF",
+      "asnIdentifier": "S2786742",
+      "position": 52000,
+      "depth": 3,
+      "statementNotation": "MEC.I.1.b",
+      "description": "Evaluate and apply line integrals that are independent of path.",
+      "ancestorIds": [
+        "5CB0CBBEA20546A0B11F54082E12D35D",
+        "3C7DE185D0624AEFBD5EABF61AF292B1",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "5CB0CBBEA20546A0B11F54082E12D35D"
+    },
+    "4B148D828E024CD1B7F5E7CEFED233F9": {
+      "id": "4B148D828E024CD1B7F5E7CEFED233F9",
+      "asnIdentifier": "S2786741",
+      "position": 51000,
+      "depth": 3,
+      "statementNotation": "MEC.I.1.a",
+      "description": "Manipulate integrals by changing the order of integration, introducing variable substitutions, or changing to curvilinear coordinates.",
+      "ancestorIds": [
+        "5CB0CBBEA20546A0B11F54082E12D35D",
+        "3C7DE185D0624AEFBD5EABF61AF292B1",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "5CB0CBBEA20546A0B11F54082E12D35D"
+    },
+    "5CB0CBBEA20546A0B11F54082E12D35D": {
+      "id": "5CB0CBBEA20546A0B11F54082E12D35D",
+      "asnIdentifier": "S2786740",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "MEC.I.1",
+      "description": "Students will apply the techniques of double and triple integration to multivariable scalar- and vector-valued functions.",
+      "ancestorIds": [
+        "3C7DE185D0624AEFBD5EABF61AF292B1",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "3C7DE185D0624AEFBD5EABF61AF292B1"
+    },
+    "3C7DE185D0624AEFBD5EABF61AF292B1": {
+      "id": "3C7DE185D0624AEFBD5EABF61AF292B1",
+      "asnIdentifier": "S2786739",
+      "position": 49000,
+      "depth": 1,
+      "description": "Multidimensional Integration in Engineering Systems",
+      "ancestorIds": [
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "0AB264639AC148B58BA0FAA79C222C59"
+    },
+    "3B8982D74B2145FD922F60C07BB9C209": {
+      "id": "3B8982D74B2145FD922F60C07BB9C209",
+      "asnIdentifier": "S2786738",
+      "position": 48000,
+      "depth": 3,
+      "statementNotation": "MEC.D.1.e",
+      "description": "Utilize partial derivatives in developing the appropriate system balances (ex: mass balance) in engineering problems.",
+      "ancestorIds": [
+        "D7A9FA49C72A4418B8BE7D3AAE9D3BFD",
+        "846B7A3B1AA543C9AA4C4E0F647969DD",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "D7A9FA49C72A4418B8BE7D3AAE9D3BFD"
+    },
+    "414D2970C0B84757BBCF84FC91626C7D": {
+      "id": "414D2970C0B84757BBCF84FC91626C7D",
+      "asnIdentifier": "S2786737",
+      "position": 47000,
+      "depth": 3,
+      "statementNotation": "MEC.D.1.d",
+      "description": "Solve engineering optimization problems by applying partial differentiation or Lagrange multipliers.",
+      "ancestorIds": [
+        "D7A9FA49C72A4418B8BE7D3AAE9D3BFD",
+        "846B7A3B1AA543C9AA4C4E0F647969DD",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "D7A9FA49C72A4418B8BE7D3AAE9D3BFD"
+    },
+    "082BE5FC544C4FA48EF081F1A1C969C1": {
+      "id": "082BE5FC544C4FA48EF081F1A1C969C1",
+      "asnIdentifier": "S2786736",
+      "position": 46000,
+      "depth": 3,
+      "statementNotation": "MEC.D.1.c",
+      "description": "Compute and apply the gradient of multivariable functions.",
+      "ancestorIds": [
+        "D7A9FA49C72A4418B8BE7D3AAE9D3BFD",
+        "846B7A3B1AA543C9AA4C4E0F647969DD",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "D7A9FA49C72A4418B8BE7D3AAE9D3BFD"
+    },
+    "EA0FC75F78314CCC8776CD21B48FF0FA": {
+      "id": "EA0FC75F78314CCC8776CD21B48FF0FA",
+      "asnIdentifier": "S2786735",
+      "position": 45000,
+      "depth": 3,
+      "statementNotation": "MEC.D.1.b",
+      "description": "Use the general chain rule to determine the partial derivatives of composite functions.",
+      "ancestorIds": [
+        "D7A9FA49C72A4418B8BE7D3AAE9D3BFD",
+        "846B7A3B1AA543C9AA4C4E0F647969DD",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "D7A9FA49C72A4418B8BE7D3AAE9D3BFD"
+    },
+    "8B3A1E8B6C4E45E8B4DED16B5421F842": {
+      "id": "8B3A1E8B6C4E45E8B4DED16B5421F842",
+      "asnIdentifier": "S2786734",
+      "position": 44000,
+      "depth": 3,
+      "statementNotation": "MEC.D.1.a",
+      "description": "Compute the first and second partial derivatives of a function.",
+      "ancestorIds": [
+        "D7A9FA49C72A4418B8BE7D3AAE9D3BFD",
+        "846B7A3B1AA543C9AA4C4E0F647969DD",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "D7A9FA49C72A4418B8BE7D3AAE9D3BFD"
+    },
+    "D7A9FA49C72A4418B8BE7D3AAE9D3BFD": {
+      "id": "D7A9FA49C72A4418B8BE7D3AAE9D3BFD",
+      "asnIdentifier": "S2786733",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "MEC.D.1",
+      "description": "Students will evaluate and apply partial differentiation of multivariable functions with two or more independent variables.",
+      "ancestorIds": [
+        "846B7A3B1AA543C9AA4C4E0F647969DD",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "846B7A3B1AA543C9AA4C4E0F647969DD"
+    },
+    "846B7A3B1AA543C9AA4C4E0F647969DD": {
+      "id": "846B7A3B1AA543C9AA4C4E0F647969DD",
+      "asnIdentifier": "S2786732",
+      "position": 42000,
+      "depth": 1,
+      "description": "Differentiation in Engineering",
+      "ancestorIds": [
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "0AB264639AC148B58BA0FAA79C222C59"
+    },
+    "8669A891CE2D4B9ABE9F5AE46DF5296A": {
+      "id": "8669A891CE2D4B9ABE9F5AE46DF5296A",
+      "asnIdentifier": "S2786731",
+      "position": 41000,
+      "depth": 3,
+      "statementNotation": "MEC.A.4.b",
+      "description": "Present a technical design, using computer-generated model, for an assigned design project utilizing the appropriate scientific units (US standards and SI units).",
+      "ancestorIds": [
+        "139A747E0D1F427A8CBB4A957115F10B",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "139A747E0D1F427A8CBB4A957115F10B"
+    },
+    "7767ABE35AC64FF8869CE3323D671F20": {
+      "id": "7767ABE35AC64FF8869CE3323D671F20",
+      "asnIdentifier": "S2786730",
+      "position": 40000,
+      "depth": 3,
+      "statementNotation": "MEC.A.4.a",
+      "description": "Demonstrate fundamentals of technical sketching using computer-generated visuals by using the appropriate mathematics scale.",
+      "ancestorIds": [
+        "139A747E0D1F427A8CBB4A957115F10B",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "139A747E0D1F427A8CBB4A957115F10B"
+    },
+    "139A747E0D1F427A8CBB4A957115F10B": {
+      "id": "139A747E0D1F427A8CBB4A957115F10B",
+      "asnIdentifier": "S2786729",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "MEC.A.4",
+      "description": "Students will use visual and written communication to express basic design elements in the appropriate mathematics notation.",
+      "ancestorIds": [
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "25764452BF1A4230AC28489BC55EEB62"
+    },
+    "6F175003459D41BF969B8C93DCACD45A": {
+      "id": "6F175003459D41BF969B8C93DCACD45A",
+      "asnIdentifier": "S2786728",
+      "position": 38000,
+      "depth": 3,
+      "statementNotation": "MEC.A.3.c",
+      "description": "Calculate regions of continuity of such functions.",
+      "ancestorIds": [
+        "0684658C413748A3B513BC395F617ACC",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "0684658C413748A3B513BC395F617ACC"
+    },
+    "FECB047765BD4E3FA50A361B31BC36E3": {
+      "id": "FECB047765BD4E3FA50A361B31BC36E3",
+      "asnIdentifier": "S2786727",
+      "position": 37000,
+      "depth": 3,
+      "statementNotation": "MEC.A.3.b",
+      "description": "Identify and graph level curves of multivariate functions.",
+      "ancestorIds": [
+        "0684658C413748A3B513BC395F617ACC",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "0684658C413748A3B513BC395F617ACC"
+    },
+    "EB44DA66B0084B729177770F2AED63ED": {
+      "id": "EB44DA66B0084B729177770F2AED63ED",
+      "asnIdentifier": "S2786726",
+      "position": 36000,
+      "depth": 3,
+      "statementNotation": "MEC.A.3.a",
+      "description": "Compute limits of scalar and vector-valued functions.",
+      "ancestorIds": [
+        "0684658C413748A3B513BC395F617ACC",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "0684658C413748A3B513BC395F617ACC"
+    },
+    "0684658C413748A3B513BC395F617ACC": {
+      "id": "0684658C413748A3B513BC395F617ACC",
+      "asnIdentifier": "S2786725",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "MEC.A.3",
+      "description": "Students will investigate functions of two and three independent variables to model engineering systems.",
+      "ancestorIds": [
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "25764452BF1A4230AC28489BC55EEB62"
+    },
+    "74D812DDA8794E23B213EA6CD5B8F960": {
+      "id": "74D812DDA8794E23B213EA6CD5B8F960",
+      "asnIdentifier": "S2786724",
+      "position": 34000,
+      "depth": 3,
+      "statementNotation": "MEC.A.2.c",
+      "description": "Use Gaussian elimination to compute solution sets of linear systems.",
+      "ancestorIds": [
+        "1E3A7EF151404EF28AC84F99DE22BC59",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "1E3A7EF151404EF28AC84F99DE22BC59"
+    },
+    "15B7227666994E7BADE4BD1F2BC2A308": {
+      "id": "15B7227666994E7BADE4BD1F2BC2A308",
+      "asnIdentifier": "S2786723",
+      "position": 33000,
+      "depth": 3,
+      "statementNotation": "MEC.A.2.b",
+      "description": "Express systems of linear equations in matrix equation form.",
+      "ancestorIds": [
+        "1E3A7EF151404EF28AC84F99DE22BC59",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "1E3A7EF151404EF28AC84F99DE22BC59"
+    },
+    "4D574446AAA543D1BC2BF91B3F1B7AC1": {
+      "id": "4D574446AAA543D1BC2BF91B3F1B7AC1",
+      "asnIdentifier": "S2786722",
+      "position": 32000,
+      "depth": 3,
+      "statementNotation": "MEC.A.2.a",
+      "description": "Calculate determinants of matrices.",
+      "ancestorIds": [
+        "1E3A7EF151404EF28AC84F99DE22BC59",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "1E3A7EF151404EF28AC84F99DE22BC59"
+    },
+    "1E3A7EF151404EF28AC84F99DE22BC59": {
+      "id": "1E3A7EF151404EF28AC84F99DE22BC59",
+      "asnIdentifier": "S2786721",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "MEC.A.2",
+      "description": "Students will learn to evaluate matrices and apply their properties to solve engineering problems.",
+      "ancestorIds": [
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "25764452BF1A4230AC28489BC55EEB62"
+    },
+    "52960598FC24429C8525AE4D1C06153C": {
+      "id": "52960598FC24429C8525AE4D1C06153C",
+      "asnIdentifier": "S2786720",
+      "position": 30000,
+      "depth": 3,
+      "statementNotation": "MEC.A.1.c",
+      "description": "Describe the role of vectors in engineering applications, such as modeling the velocity of moving objects or static forces on structures and objects.",
+      "ancestorIds": [
+        "201FA79846B444BA8020C759657ADD47",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "201FA79846B444BA8020C759657ADD47"
+    },
+    "FA4A8A02AC82428FA2A1323BF284388F": {
+      "id": "FA4A8A02AC82428FA2A1323BF284388F",
+      "asnIdentifier": "S2786719",
+      "position": 29000,
+      "depth": 3,
+      "statementNotation": "MEC.A.1.b",
+      "description": "Apply dot and cross products of vectors to express equations of planes, parallelism, perpendicularity, angles.",
+      "ancestorIds": [
+        "201FA79846B444BA8020C759657ADD47",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "201FA79846B444BA8020C759657ADD47"
+    },
+    "844A47D99DF54D768F234F5EE2D3D717": {
+      "id": "844A47D99DF54D768F234F5EE2D3D717",
+      "asnIdentifier": "S2786718",
+      "position": 28000,
+      "depth": 3,
+      "statementNotation": "MEC.A.1.a",
+      "description": "Determine the equations of lines and surfaces using vectors and 3D graphing.",
+      "ancestorIds": [
+        "201FA79846B444BA8020C759657ADD47",
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "201FA79846B444BA8020C759657ADD47"
+    },
+    "201FA79846B444BA8020C759657ADD47": {
+      "id": "201FA79846B444BA8020C759657ADD47",
+      "asnIdentifier": "S2786717",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "MEC.A.1",
+      "description": "Students will apply knowledge of mathematics, science, and engineering design to solve problems.",
+      "ancestorIds": [
+        "25764452BF1A4230AC28489BC55EEB62",
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "25764452BF1A4230AC28489BC55EEB62"
+    },
+    "25764452BF1A4230AC28489BC55EEB62": {
+      "id": "25764452BF1A4230AC28489BC55EEB62",
+      "asnIdentifier": "S2786716",
+      "position": 26000,
+      "depth": 1,
+      "description": "Multi-Dimensional Engineering Analysis",
+      "ancestorIds": [
+        "0AB264639AC148B58BA0FAA79C222C59"
+      ],
+      "parentId": "0AB264639AC148B58BA0FAA79C222C59"
+    },
+    "0AB264639AC148B58BA0FAA79C222C59": {
+      "id": "0AB264639AC148B58BA0FAA79C222C59",
+      "asnIdentifier": "S2786715",
+      "position": 25000,
+      "depth": 0,
+      "description": "Content Standards",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "69DFE6DBE7154548938F95987842F039": {
+      "id": "69DFE6DBE7154548938F95987842F039",
+      "asnIdentifier": "S2786714",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "MEC.PS.6",
+      "description": "Students will explore and summarize the educational requirements and professional expectations associated with engineering career paths.",
+      "ancestorIds": [
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "D3A1EE2E0D554407B66BA18972F01A58"
+    },
+    "454BAEA157EB46A18994E8FCDD7D7C2D": {
+      "id": "454BAEA157EB46A18994E8FCDD7D7C2D",
+      "asnIdentifier": "S2786713",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.5.c",
+      "description": "Building vocabulary knowledge.",
+      "ancestorIds": [
+        "AE20C9CA75C745CBB5202E13617D5876",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "AE20C9CA75C745CBB5202E13617D5876"
+    },
+    "861C669CADA646EEA1F1863927C36AD5": {
+      "id": "861C669CADA646EEA1F1863927C36AD5",
+      "asnIdentifier": "S2786712",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.5.b",
+      "description": "Discussing articles or books.",
+      "ancestorIds": [
+        "AE20C9CA75C745CBB5202E13617D5876",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "AE20C9CA75C745CBB5202E13617D5876"
+    },
+    "64A62BF30C494130848377A0F19C9120": {
+      "id": "64A62BF30C494130848377A0F19C9120",
+      "asnIdentifier": "S2786711",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.5.a",
+      "description": "Reading in all curriculum areas.",
+      "ancestorIds": [
+        "AE20C9CA75C745CBB5202E13617D5876",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "AE20C9CA75C745CBB5202E13617D5876"
+    },
+    "AE20C9CA75C745CBB5202E13617D5876": {
+      "id": "AE20C9CA75C745CBB5202E13617D5876",
+      "asnIdentifier": "S2786710",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "MEC.PS.5",
+      "description": "Students will develop vocabulary and communication skills by reading text material and problem descriptions associated with engineering and technology education.",
+      "ancestorIds": [
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "D3A1EE2E0D554407B66BA18972F01A58"
+    },
+    "8CAAD756044C478D91A27D1D73D81207": {
+      "id": "8CAAD756044C478D91A27D1D73D81207",
+      "asnIdentifier": "S2786709",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.4.c",
+      "description": "Use representations to model and interpret physical, and mathematical phenomena.",
+      "ancestorIds": [
+        "A0757C6829DA4BEB8ABD5ADAF0B8B010",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A0757C6829DA4BEB8ABD5ADAF0B8B010"
+    },
+    "8CAA687067F942A48E253A5D900658A7": {
+      "id": "8CAA687067F942A48E253A5D900658A7",
+      "asnIdentifier": "S2786708",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.4.b",
+      "description": "Select, apply, and translate among mathematical representations to solve problems.",
+      "ancestorIds": [
+        "A0757C6829DA4BEB8ABD5ADAF0B8B010",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A0757C6829DA4BEB8ABD5ADAF0B8B010"
+    },
+    "C5C5B9C68AB94262BA790C0978A5B03A": {
+      "id": "C5C5B9C68AB94262BA790C0978A5B03A",
+      "asnIdentifier": "S2786707",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.4.a",
+      "description": "Create and use representations to organize, record, and communicate mathematical ideas.",
+      "ancestorIds": [
+        "A0757C6829DA4BEB8ABD5ADAF0B8B010",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A0757C6829DA4BEB8ABD5ADAF0B8B010"
+    },
+    "A0757C6829DA4BEB8ABD5ADAF0B8B010": {
+      "id": "A0757C6829DA4BEB8ABD5ADAF0B8B010",
+      "asnIdentifier": "S2786706",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "MEC.PS.4",
+      "description": "Students will represent mathematics in multiple ways.",
+      "ancestorIds": [
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "D3A1EE2E0D554407B66BA18972F01A58"
+    },
+    "7BDA0E48496C405DAE054F42BAB633EB": {
+      "id": "7BDA0E48496C405DAE054F42BAB633EB",
+      "asnIdentifier": "S2786705",
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.3.d",
+      "description": "Describe the issues of necessity that have influenced innovation and technological development.",
+      "ancestorIds": [
+        "A953A0E3263A4223A95FB49C2685C02B",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A953A0E3263A4223A95FB49C2685C02B"
+    },
+    "248602F5E79B4AD1A61E92D98A6AFA4D": {
+      "id": "248602F5E79B4AD1A61E92D98A6AFA4D",
+      "asnIdentifier": "S2786704",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.3.c",
+      "description": "Explain the impact of key persons and historical events and their impact on engineering and society.",
+      "ancestorIds": [
+        "A953A0E3263A4223A95FB49C2685C02B",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A953A0E3263A4223A95FB49C2685C02B"
+    },
+    "E5DC76523E054B968EF9D24A230CF904": {
+      "id": "E5DC76523E054B968EF9D24A230CF904",
+      "asnIdentifier": "S2786703",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.3.b",
+      "description": "Recognize and apply mathematics in contexts outside of mathematics.",
+      "ancestorIds": [
+        "A953A0E3263A4223A95FB49C2685C02B",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A953A0E3263A4223A95FB49C2685C02B"
+    },
+    "DDAD883820E84282A926EE0E9CB96701": {
+      "id": "DDAD883820E84282A926EE0E9CB96701",
+      "asnIdentifier": "S2786702",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.3.a",
+      "description": "Recognize and use connections among mathematical and engineering ideas.",
+      "ancestorIds": [
+        "A953A0E3263A4223A95FB49C2685C02B",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "A953A0E3263A4223A95FB49C2685C02B"
+    },
+    "A953A0E3263A4223A95FB49C2685C02B": {
+      "id": "A953A0E3263A4223A95FB49C2685C02B",
+      "asnIdentifier": "S2786701",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "MEC.PS.3",
+      "description": "Students will describe the history of technological advancement and make connections among mathematical ideas and to other disciplines.",
+      "ancestorIds": [
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "D3A1EE2E0D554407B66BA18972F01A58"
+    },
+    "67B0D1375848408B82E0E8C7DAC951B2": {
+      "id": "67B0D1375848408B82E0E8C7DAC951B2",
+      "asnIdentifier": "S2786700",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.2.c",
+      "description": "Present a technical design, using computer-generated model, for an assigned design roject.",
+      "ancestorIds": [
+        "2175721748C14B0BBADE9C8C67AAAA89",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "2175721748C14B0BBADE9C8C67AAAA89"
+    },
+    "3200DA1E0BCC43D9A03C32DE95411551": {
+      "id": "3200DA1E0BCC43D9A03C32DE95411551",
+      "asnIdentifier": "S2786699",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.2.b",
+      "description": "Communicate and use the language of mathematics to articulate their mathematical thinking coherently.",
+      "ancestorIds": [
+        "2175721748C14B0BBADE9C8C67AAAA89",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "2175721748C14B0BBADE9C8C67AAAA89"
+    },
+    "9FF686D6F72F4D5EA8DFA9DC380E015B": {
+      "id": "9FF686D6F72F4D5EA8DFA9DC380E015B",
+      "asnIdentifier": "S2786698",
+      "position": 8000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.2.a",
+      "description": "Organize and consolidate their mathematical thinking through communication.",
+      "ancestorIds": [
+        "2175721748C14B0BBADE9C8C67AAAA89",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "2175721748C14B0BBADE9C8C67AAAA89"
+    },
+    "2175721748C14B0BBADE9C8C67AAAA89": {
+      "id": "2175721748C14B0BBADE9C8C67AAAA89",
+      "asnIdentifier": "S2786697",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "MEC.PS.2",
+      "description": "Students will use visual and written communication to express basic design elements and will communicate mathematically.",
+      "ancestorIds": [
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "D3A1EE2E0D554407B66BA18972F01A58"
+    },
+    "760F9842B8564E47A1A0C9E25BAC2037": {
+      "id": "760F9842B8564E47A1A0C9E25BAC2037",
+      "asnIdentifier": "S2786696",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.1.d",
+      "description": "Monitor and reflect on the process of mathematical problem solving and interpret problem solutions.",
+      "ancestorIds": [
+        "CDDDC4676A3B48379CE7092F013F2AD9",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "CDDDC4676A3B48379CE7092F013F2AD9"
+    },
+    "B9C7340E41404BAE96CFE97B18B17595": {
+      "id": "B9C7340E41404BAE96CFE97B18B17595",
+      "asnIdentifier": "S2786695",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.1.c",
+      "description": "Apply and adapt a variety of appropriate strategies to solve problems, such as considering realistic constraints relevant to the design of a system, component, or process.",
+      "ancestorIds": [
+        "CDDDC4676A3B48379CE7092F013F2AD9",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "CDDDC4676A3B48379CE7092F013F2AD9"
+    },
+    "0C011D9991004B2D95580B44E9D53324": {
+      "id": "0C011D9991004B2D95580B44E9D53324",
+      "asnIdentifier": "S2786694",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.1.b",
+      "description": "Solve problems that arise in mathematics and in other contexts.",
+      "ancestorIds": [
+        "CDDDC4676A3B48379CE7092F013F2AD9",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "CDDDC4676A3B48379CE7092F013F2AD9"
+    },
+    "6C6B6BA415244A3DABA037F177F51BDC": {
+      "id": "6C6B6BA415244A3DABA037F177F51BDC",
+      "asnIdentifier": "S2786693",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "MEC.PS.1.a",
+      "description": "Build new mathematical knowledge through problem solving.",
+      "ancestorIds": [
+        "CDDDC4676A3B48379CE7092F013F2AD9",
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "CDDDC4676A3B48379CE7092F013F2AD9"
+    },
+    "CDDDC4676A3B48379CE7092F013F2AD9": {
+      "id": "CDDDC4676A3B48379CE7092F013F2AD9",
+      "asnIdentifier": "S2786692",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "MEC.PS.1",
+      "description": "Students will solve engineering-based calculus problems (using appropriate technology).",
+      "ancestorIds": [
+        "D3A1EE2E0D554407B66BA18972F01A58"
+      ],
+      "parentId": "D3A1EE2E0D554407B66BA18972F01A58"
+    },
+    "D3A1EE2E0D554407B66BA18972F01A58": {
+      "id": "D3A1EE2E0D554407B66BA18972F01A58",
+      "asnIdentifier": "S2786691",
+      "position": 1000,
+      "depth": 0,
+      "description": "Process Standards",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

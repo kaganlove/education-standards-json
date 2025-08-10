@@ -1,0 +1,659 @@
+{
+  "id": "C58E54C7C37D4B15AE9357A60BBC3E6F",
+  "title": "Big Idea #2 - Representation & Reasoning: Grades 6-8",
+  "subject": "AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "06",
+    "07",
+    "08"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Big Idea #2: Representation & Reasoning",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recxcTKIhgIFhboVS/fldIxltCXshIi374r/attXwjag0iceIuUIF?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "AC5999EE6F4C46429E3BB61DCB135715": {
+      "id": "AC5999EE6F4C46429E3BB61DCB135715",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In general, classification problems can be solved\nusing decision trees, nearest-neighbor algorithms, or\nneural networks. Prediction problems can be solved\nusing linear regression or neural networks.\nCombinatorial search can make use of several\ndifferent algorithms for growing the search tree.\nSequential decision problems can use either Q tables\nor neural networks to choose the best action. ",
+      "comments": [],
+      "ancestorIds": [
+        "C9EF957E812044788DED8281FE151461",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "C9EF957E812044788DED8281FE151461"
+    },
+    "CD8875EE728347378C12BDB6432CC901": {
+      "id": "CD8875EE728347378C12BDB6432CC901",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: For classifying dogs vs. cats, if all we\nhave are raw images, we cannot use a decision tree\nbecause it would require an astronomical number of\nnodes; we must use a neural network because it can\nefficiently perform feature extraction. But if we already\nhave a description of an animal in terms of features\nsuch as snout length and ear shape, then a decision\ntree could be used.",
+      "comments": [],
+      "ancestorIds": [
+        "C9EF957E812044788DED8281FE151461",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "C9EF957E812044788DED8281FE151461"
+    },
+    "35E1CC5AC9B04E62BC52CE29C29F424C": {
+      "id": "35E1CC5AC9B04E62BC52CE29C29F424C",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The choice of reasoning algorithm depends on\nthe characteristics of the input data and the types of\ndecisions to be made.  ",
+      "comments": [],
+      "ancestorIds": [
+        "C9EF957E812044788DED8281FE151461",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "C9EF957E812044788DED8281FE151461"
+    },
+    "E80631563F684234B6DD3599F4DCC5EF": {
+      "id": "E80631563F684234B6DD3599F4DCC5EF",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Compare several algorithms that could be used\nto solve a specific type of reasoning problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "C9EF957E812044788DED8281FE151461",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "C9EF957E812044788DED8281FE151461"
+    },
+    "C9EF957E812044788DED8281FE151461": {
+      "id": "C9EF957E812044788DED8281FE151461",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Reasoning algorithms)",
+      "comments": [],
+      "ancestorIds": [
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "17330377BDD8495EA62FE7890AC72F27"
+    },
+    "AF53F57CCB444E35AFF135A16D24CF70": {
+      "id": "AF53F57CCB444E35AFF135A16D24CF70",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: spam vs. not-spam (classification),\ntomorrow's high temperature (prediction), solving\npuzzles such as the wolf, goat, and cabbage problem\n(combinatorial search), and playing a video game\nsuch as Super Mario (sequential decision problem). ",
+      "comments": [],
+      "ancestorIds": [
+        "2DD8236482524EB3A82825D7BF8536C8",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "2DD8236482524EB3A82825D7BF8536C8"
+    },
+    "B3DA16D300DE454797EE4A470CBD707F": {
+      "id": "B3DA16D300DE454797EE4A470CBD707F",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Sequential decision problems are\ncovered in Big Idea 3; they are addressed using\nreinforcement learning. ",
+      "comments": [],
+      "ancestorIds": [
+        "2DD8236482524EB3A82825D7BF8536C8",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "2DD8236482524EB3A82825D7BF8536C8"
+    },
+    "6EBD955385C44DDC975C851074144C24": {
+      "id": "6EBD955385C44DDC975C851074144C24",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Prediction problems are similar to classification\nproblems except they estimate a continuous value,\nsuch as height or daily temperature. Sequential\ndecision problems choose the next move for any\ngiven state in order to maximize overall reward.",
+      "comments": [],
+      "ancestorIds": [
+        "2DD8236482524EB3A82825D7BF8536C8",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "2DD8236482524EB3A82825D7BF8536C8"
+    },
+    "0652FB17289C4116BB7DC3DE1768D8A9": {
+      "id": "0652FB17289C4116BB7DC3DE1768D8A9",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Categorize problems as classification, prediction,\ncombinatorial search, or sequential decision\nproblems.\n",
+      "comments": [],
+      "ancestorIds": [
+        "2DD8236482524EB3A82825D7BF8536C8",
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "2DD8236482524EB3A82825D7BF8536C8"
+    },
+    "2DD8236482524EB3A82825D7BF8536C8": {
+      "id": "2DD8236482524EB3A82825D7BF8536C8",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Types of reasoning\nproblems) ",
+      "comments": [],
+      "ancestorIds": [
+        "17330377BDD8495EA62FE7890AC72F27"
+      ],
+      "parentId": "17330377BDD8495EA62FE7890AC72F27"
+    },
+    "17330377BDD8495EA62FE7890AC72F27": {
+      "id": "17330377BDD8495EA62FE7890AC72F27",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "2.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D94CC786561C467DA8E80CC63EC60D08": {
+      "id": "D94CC786561C467DA8E80CC63EC60D08",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: In breadth-first search, all the nodes at\nthe current level of the search tree are expanded, one\nat a time, to generate the next level. Then the next\nlevel is expanded, and the process continues until the\ngoal is reached. Given a graph of friendship relations,\ndetermining whether two people have a friend in\ncommon is a graph search problem. Another graph\nsearch problem is determining the degree of\nseparation of two people, as in \"six degrees of Kevin\nBacon\". ",
+      "comments": [],
+      "ancestorIds": [
+        "D8FBB3DF6193450ABC1EEAE040F3EB97",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "D8FBB3DF6193450ABC1EEAE040F3EB97"
+    },
+    "11266A4B45374B4AB48E6658E7D88A2A": {
+      "id": "11266A4B45374B4AB48E6658E7D88A2A",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Breadth-first search can be used to solve\nproblems that involve reasoning about graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "D8FBB3DF6193450ABC1EEAE040F3EB97",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "D8FBB3DF6193450ABC1EEAE040F3EB97"
+    },
+    "8573A3D80FA045B18FD6A6FBE308A860": {
+      "id": "8573A3D80FA045B18FD6A6FBE308A860",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Model the process of solving a graph search\nproblem using breadth-first search to draw a search\ntree.",
+      "comments": [],
+      "ancestorIds": [
+        "D8FBB3DF6193450ABC1EEAE040F3EB97",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "D8FBB3DF6193450ABC1EEAE040F3EB97"
+    },
+    "D8FBB3DF6193450ABC1EEAE040F3EB97": {
+      "id": "D8FBB3DF6193450ABC1EEAE040F3EB97",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Combinatorial search)",
+      "comments": [],
+      "ancestorIds": [
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "0B8FBAF901664C509A22CA36B93D65F7"
+    },
+    "0F8DDB11CF184984A240F4A47FA482E8": {
+      "id": "0F8DDB11CF184984A240F4A47FA482E8",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Example: to determine whether a kangaroo is a\nmammal, we search for a path in the knowledge\ngraph from the \"kangaroo\" node to the \"mammal\"\nnode that is comprised of \"is-a\" links. Quick intro\narticle.",
+      "comments": [],
+      "ancestorIds": [
+        "A610AED116B049019C7DB4A8524C6852",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "A610AED116B049019C7DB4A8524C6852"
+    },
+    "47AFCD20B10347238102B23D2890D9EF": {
+      "id": "47AFCD20B10347238102B23D2890D9EF",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: The search space of a graph search\nproblem is the set of all paths originating from the\ndesignated start node of the graph. The operators\nused for solving a maze move one node north, south,\neast, or west. In the more general case of graph\nsearch the operators extend a path by adding a new\nnode at the end. Legal moves add a node that is\nreachable by a direct link in the graph. Legal states\nare those reachable by a sequence of legal moves.",
+      "comments": [],
+      "ancestorIds": [
+        "A610AED116B049019C7DB4A8524C6852",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "A610AED116B049019C7DB4A8524C6852"
+    },
+    "2B2B16BFE1EA474089294427BE8732C1": {
+      "id": "2B2B16BFE1EA474089294427BE8732C1",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computers solve mazes, find driving routes, and\nreason about concepts in knowledge graphs using\ngraph search algorithms, which construct search\ntrees.",
+      "comments": [],
+      "ancestorIds": [
+        "A610AED116B049019C7DB4A8524C6852",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "A610AED116B049019C7DB4A8524C6852"
+    },
+    "924F7A0581ED4DD6B2CA48A40DE368DB": {
+      "id": "924F7A0581ED4DD6B2CA48A40DE368DB",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate how a computer can solve a maze, find\na route on a map, or reason about concepts in a\nknowledge graph by drawing a search tree. ",
+      "comments": [],
+      "ancestorIds": [
+        "A610AED116B049019C7DB4A8524C6852",
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "A610AED116B049019C7DB4A8524C6852"
+    },
+    "A610AED116B049019C7DB4A8524C6852": {
+      "id": "A610AED116B049019C7DB4A8524C6852",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(State spaces and\noperators)",
+      "comments": [],
+      "ancestorIds": [
+        "0B8FBAF901664C509A22CA36B93D65F7"
+      ],
+      "parentId": "0B8FBAF901664C509A22CA36B93D65F7"
+    },
+    "0B8FBAF901664C509A22CA36B93D65F7": {
+      "id": "0B8FBAF901664C509A22CA36B93D65F7",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Search",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "787FA3B35C6B49B3997E8D470F379511": {
+      "id": "787FA3B35C6B49B3997E8D470F379511",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2.A.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Each word is a point in a feature space\nwith many dimensions, organized so that words with\nsimilar meanings are close to each other in the\nfeature space. See this Word2VecDemo. ",
+      "comments": [],
+      "ancestorIds": [
+        "06474B67BD3544D99AE85786354D6063",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "06474B67BD3544D99AE85786354D6063"
+    },
+    "089F89BE795143C2B01724290CC18A98": {
+      "id": "089F89BE795143C2B01724290CC18A98",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2.A.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Word embeddings are a key part of neural\nnatural language processing, including machine\ntranslation (e.g., Google Translate) and text\ngeneration systems (BERT, GPT3, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "06474B67BD3544D99AE85786354D6063",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "06474B67BD3544D99AE85786354D6063"
+    },
+    "B955418C24AD417BB4B40EE195A2E688": {
+      "id": "B955418C24AD417BB4B40EE195A2E688",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2.A.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain how word embeddings (which are feature\nvectors) represent words as sequences of numbers. ",
+      "comments": [],
+      "ancestorIds": [
+        "06474B67BD3544D99AE85786354D6063",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "06474B67BD3544D99AE85786354D6063"
+    },
+    "06474B67BD3544D99AE85786354D6063": {
+      "id": "06474B67BD3544D99AE85786354D6063",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature vectors)",
+      "comments": [],
+      "ancestorIds": [
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "40CFBD0523404E8DAE6F32CFE9E3468D"
+    },
+    "7C6854DBCFF74185B49B6A6627F1F068": {
+      "id": "7C6854DBCFF74185B49B6A6627F1F068",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Graphs in AI are used to represent things\nsuch as road maps (where the cities are nodes and\nthe roads are links), mazes, and knowledge graphs. A\nknowledge graph can represent people, places, and\nthings, and the relationships between them. Mind\nmaps are mostly trees but it is possible to have\nmultiple paths to a node, making the map a graph.\nEach node is a concept and the links can be labeled\nwith relations between concepts, or they may be\nunlabeled. ",
+      "comments": [],
+      "ancestorIds": [
+        "07C672640C114672B3676D8D603AB651",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "07C672640C114672B3676D8D603AB651"
+    },
+    "C7FAA4CFBB4A4F0FB30E467DA225DCE6": {
+      "id": "C7FAA4CFBB4A4F0FB30E467DA225DCE6",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: A graph is a collection of labeled nodes\nconnected by labeled links. Every link has a source\nnode and a target node; every node hast a set of\nincoming links and a set of outgoing links. Trees are\na special case of graphs. ",
+      "comments": [],
+      "ancestorIds": [
+        "07C672640C114672B3676D8D603AB651",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "07C672640C114672B3676D8D603AB651"
+    },
+    "87C2C9756EA84A9DA4B65540A8B7DD68": {
+      "id": "87C2C9756EA84A9DA4B65540A8B7DD68",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe the parts of a graph and how those\nparts are related.",
+      "comments": [],
+      "ancestorIds": [
+        "07C672640C114672B3676D8D603AB651",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "07C672640C114672B3676D8D603AB651"
+    },
+    "07C672640C114672B3676D8D603AB651": {
+      "id": "07C672640C114672B3676D8D603AB651",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Data structures) ",
+      "comments": [],
+      "ancestorIds": [
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "40CFBD0523404E8DAE6F32CFE9E3468D"
+    },
+    "4639926BD68848E48BD45F1D8E70F9DF": {
+      "id": "4639926BD68848E48BD45F1D8E70F9DF",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: In the game Chutes and Ladders\n(originally Snakes and Ladders), the squares are\nrepresented as nodes in a graph. Nodes representing\nadjacent squares are connected by \"successor\" lnks.\nNodes whose squares are reachable by chutes or\nladders are connected by \"chute\" or \"ladder\" links. In\na road map, cities are nodes and roads are links. The\nlinks might be labeled with the road name or a\nmileage value. Mind maps are a kind of informal\nknowledge graph used by people, not by computers. ",
+      "comments": [],
+      "ancestorIds": [
+        "82987C16A11E4861AE8FA29606B20AC3",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "82987C16A11E4861AE8FA29606B20AC3"
+    },
+    "8A499C21B48A4F58B7559FFA1F299BD1": {
+      "id": "8A499C21B48A4F58B7559FFA1F299BD1",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The nodes of a graph represent things, and the\nlinks represent relationships between those things.\nLabels supply additional information about what the\nnodes and links represent.",
+      "comments": [],
+      "ancestorIds": [
+        "82987C16A11E4861AE8FA29606B20AC3",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "82987C16A11E4861AE8FA29606B20AC3"
+    },
+    "46D923EF31EB442BB14F26C66F44D7A2": {
+      "id": "46D923EF31EB442BB14F26C66F44D7A2",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate translation of a structure such as a\ngame board. road map, or mind map into a labeled\ngraph and explain the contributions of the\ncomponents. ",
+      "comments": [],
+      "ancestorIds": [
+        "82987C16A11E4861AE8FA29606B20AC3",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "82987C16A11E4861AE8FA29606B20AC3"
+    },
+    "82987C16A11E4861AE8FA29606B20AC3": {
+      "id": "82987C16A11E4861AE8FA29606B20AC3",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Symbolic\nrepresentations)",
+      "comments": [],
+      "ancestorIds": [
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "40CFBD0523404E8DAE6F32CFE9E3468D"
+    },
+    "467DA15649E640889AD240803DEFEDFE": {
+      "id": "467DA15649E640889AD240803DEFEDFE",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Game playing programs operate on\nabstract representations of boards. A chess program\nknows the ranks and files of all 64 squares, but does\nnot represent properties of a physical board such as\nits dimensions or the material it is made of. ",
+      "comments": [],
+      "ancestorIds": [
+        "FDD2A85688CC4625B06C44A85113283E",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "FDD2A85688CC4625B06C44A85113283E"
+    },
+    "3DF55773290740F3AA49DD37AACB8FA2": {
+      "id": "3DF55773290740F3AA49DD37AACB8FA2",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The essential information in a game board is the\nset of squares that make up the board, the\nrelationships among those squares, and the positions\nof the pieces. ",
+      "comments": [],
+      "ancestorIds": [
+        "FDD2A85688CC4625B06C44A85113283E",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "FDD2A85688CC4625B06C44A85113283E"
+    },
+    "9D0CBC6480034CD5AF5273F5661D76C3": {
+      "id": "9D0CBC6480034CD5AF5273F5661D76C3",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Show how a game board (e.g., tic-tac-toe,Chutes\nand Ladders, Monopoly, chess) can be represented\nby a description in plain language. ",
+      "comments": [],
+      "ancestorIds": [
+        "FDD2A85688CC4625B06C44A85113283E",
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "FDD2A85688CC4625B06C44A85113283E"
+    },
+    "FDD2A85688CC4625B06C44A85113283E": {
+      "id": "FDD2A85688CC4625B06C44A85113283E",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction) ",
+      "comments": [],
+      "ancestorIds": [
+        "40CFBD0523404E8DAE6F32CFE9E3468D"
+      ],
+      "parentId": "40CFBD0523404E8DAE6F32CFE9E3468D"
+    },
+    "40CFBD0523404E8DAE6F32CFE9E3468D": {
+      "id": "40CFBD0523404E8DAE6F32CFE9E3468D",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Representation",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

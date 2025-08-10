@@ -1,0 +1,950 @@
+{
+  "id": "6ECBF05C7481401BA0F4F8B0BE0A06FE",
+  "title": "Math IV",
+  "subject": "Mathematics (2016-2024)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "WV Dept of Education TREE",
+    "sourceURL": "https://wvde.state.wv.us/apps/tree/cso/view/ccrm/4hstp",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "F1D13BFFB41F4FC6B4D6132D1B6792F7",
+    "title": "West Virginia"
+  },
+  "standards": {
+    "DCF407D7AEC24B1E946BC57B2F0C7A8C": {
+      "id": "DCF407D7AEC24B1E946BC57B2F0C7A8C",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.40 ",
+      "statementLabel": null,
+      "description": "Apply infinite geometric series models. For example, find the area bounded by a Koch curve.",
+      "ancestorIds": [
+        "4E9BA9169B8D4061AFAD43BF7BD5C802",
+        "C31C8597008341428B9DA4D2AAAE4DE3"
+      ],
+      "parentId": "4E9BA9169B8D4061AFAD43BF7BD5C802"
+    },
+    "2DA1A9D65E4B4A048EC8EFAEDCF6717E": {
+      "id": "2DA1A9D65E4B4A048EC8EFAEDCF6717E",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.39 ",
+      "statementLabel": null,
+      "description": "Develop intuitively that the sum of an infinite series of positive numbers can converge and derive the formula for the sum of an infinite geometric series.",
+      "ancestorIds": [
+        "4E9BA9169B8D4061AFAD43BF7BD5C802",
+        "C31C8597008341428B9DA4D2AAAE4DE3"
+      ],
+      "parentId": "4E9BA9169B8D4061AFAD43BF7BD5C802"
+    },
+    "4E9BA9169B8D4061AFAD43BF7BD5C802": {
+      "id": "4E9BA9169B8D4061AFAD43BF7BD5C802",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 1,
+      "listId": "B. ",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Extend geometric series to infinite geometric series.",
+      "ancestorIds": [
+        "C31C8597008341428B9DA4D2AAAE4DE3"
+      ],
+      "parentId": "C31C8597008341428B9DA4D2AAAE4DE3"
+    },
+    "C93B50D8DA0D46C6819DF9169B936070": {
+      "id": "C93B50D8DA0D46C6819DF9169B936070",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.38 ",
+      "statementLabel": null,
+      "description": "Apply the method of mathematical induction to prove summation formulas. For example, verify thatΣi=1ni2=n(n+1)(2n+1)6 sum from{i=1} to{n} i^2= {n(n+1)(2n+1)} over {6}",
+      "ancestorIds": [
+        "92F7A5EAAD4041F6AC0ABF86FE24A74D",
+        "C31C8597008341428B9DA4D2AAAE4DE3"
+      ],
+      "parentId": "92F7A5EAAD4041F6AC0ABF86FE24A74D"
+    },
+    "0A95E5173FCE4CD0BA588B56EADAD6D0": {
+      "id": "0A95E5173FCE4CD0BA588B56EADAD6D0",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.37 ",
+      "statementLabel": null,
+      "description": "Develop sigma notation and use it to write series in equivalent form. For example, write Σi=1n(3i2+7) {sum from{i=1} to{n} ( 3i^2+7 ) } as 3Σi=1ni2+7Σi=1n1 3 sum from{i=1} to{n} i^2 + 7 sum from{i=1} to{n} 1 .",
+      "ancestorIds": [
+        "92F7A5EAAD4041F6AC0ABF86FE24A74D",
+        "C31C8597008341428B9DA4D2AAAE4DE3"
+      ],
+      "parentId": "92F7A5EAAD4041F6AC0ABF86FE24A74D"
+    },
+    "92F7A5EAAD4041F6AC0ABF86FE24A74D": {
+      "id": "92F7A5EAAD4041F6AC0ABF86FE24A74D",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 1,
+      "listId": "A.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Use sigma notations to evaluate finite sums",
+      "ancestorIds": [
+        "C31C8597008341428B9DA4D2AAAE4DE3"
+      ],
+      "parentId": "C31C8597008341428B9DA4D2AAAE4DE3"
+    },
+    "C31C8597008341428B9DA4D2AAAE4DE3": {
+      "id": "C31C8597008341428B9DA4D2AAAE4DE3",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 0,
+      "listId": "VI.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Series and Informal Limits",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "77736036E6834C0EA5FB105451D2A330": {
+      "id": "77736036E6834C0EA5FB105451D2A330",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.36 ",
+      "statementLabel": null,
+      "description": "Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values. 1. Find the expected payoff for a game of chance. (e.g., Find the expected winnings from a state lottery ticket or a game at a fast food restaurant.) 2. Evaluate and compare strategies on the basis of expected values. (e.g., Compare a high-deductible versus a low-deductible automobile insurance policy using various, but reasonable, chances of having a minor or a major accident.)",
+      "ancestorIds": [
+        "186EF4BA40614A5F84CE697F03D286D5",
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "186EF4BA40614A5F84CE697F03D286D5"
+    },
+    "186EF4BA40614A5F84CE697F03D286D5": {
+      "id": "186EF4BA40614A5F84CE697F03D286D5",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "B.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Use probability to evaluate outcomes of decisions. ",
+      "ancestorIds": [
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "CF5F61DB251642BCB721A907C35BC1E1"
+    },
+    "379A2F63213E4459AFF14FAE6A02316D": {
+      "id": "379A2F63213E4459AFF14FAE6A02316D",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.35 ",
+      "statementLabel": null,
+      "description": "Develop a probability distribution for a random variable defined for a sample space in which probabilities are assigned empirically; find the expected value. For example, find a current data distribution on the number of TV sets per household in the United States, and calculate the expected number of sets per household. How many TV sets would you expect to find in 100 randomly selected households?",
+      "ancestorIds": [
+        "EC9EAFBEFB9F4EB880917A07D5F95D8C",
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "EC9EAFBEFB9F4EB880917A07D5F95D8C"
+    },
+    "75FE2E9B0F434D20969E1A0471C6D01E": {
+      "id": "75FE2E9B0F434D20969E1A0471C6D01E",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.34 ",
+      "statementLabel": null,
+      "description": "Develop a probability distribution for a random variable defined for a sample space in which theoretical probabilities can be calculated; find the expected value. (e.g., Find the theoretical probability distribution for the number of correct answers obtained by guessing on all five questions of a multiple-choice test where each question has four choices, and find the expected grade under various grading schemes.)",
+      "ancestorIds": [
+        "EC9EAFBEFB9F4EB880917A07D5F95D8C",
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "EC9EAFBEFB9F4EB880917A07D5F95D8C"
+    },
+    "9564D44BB691431DAB3B77A5387E6985": {
+      "id": "9564D44BB691431DAB3B77A5387E6985",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.33 ",
+      "statementLabel": null,
+      "description": "Calculate the expected value of a random variable; interpret it as the mean of the probability distribution.",
+      "ancestorIds": [
+        "EC9EAFBEFB9F4EB880917A07D5F95D8C",
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "EC9EAFBEFB9F4EB880917A07D5F95D8C"
+    },
+    "A2E82F62D3AC4136BB2EEA18BA7F7BDF": {
+      "id": "A2E82F62D3AC4136BB2EEA18BA7F7BDF",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.32 ",
+      "statementLabel": null,
+      "description": "Define a random variable for a quantity of interest by assigning a numerical value to each event in a sample space; graph the corresponding probability distribution using the same graphical displays as for data distributions.",
+      "ancestorIds": [
+        "EC9EAFBEFB9F4EB880917A07D5F95D8C",
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "EC9EAFBEFB9F4EB880917A07D5F95D8C"
+    },
+    "EC9EAFBEFB9F4EB880917A07D5F95D8C": {
+      "id": "EC9EAFBEFB9F4EB880917A07D5F95D8C",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "A.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Calculate expected values and use them to solve problems. ",
+      "ancestorIds": [
+        "CF5F61DB251642BCB721A907C35BC1E1"
+      ],
+      "parentId": "CF5F61DB251642BCB721A907C35BC1E1"
+    },
+    "CF5F61DB251642BCB721A907C35BC1E1": {
+      "id": "CF5F61DB251642BCB721A907C35BC1E1",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 0,
+      "listId": "V.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Modeling with Probability",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9F582F09B9D34F68924AC07E65ADBDE3": {
+      "id": "9F582F09B9D34F68924AC07E65ADBDE3",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.31 ",
+      "statementLabel": null,
+      "description": "Give an informal argument using Cavalieri’s principle for the formulas for the volume of a sphere and other solid figures.",
+      "ancestorIds": [
+        "FC6E616B28B8494C8790637150F8DCF3",
+        "2FC5FFCC7F4F44218C6185A9D55F3BBA"
+      ],
+      "parentId": "FC6E616B28B8494C8790637150F8DCF3"
+    },
+    "FC6E616B28B8494C8790637150F8DCF3": {
+      "id": "FC6E616B28B8494C8790637150F8DCF3",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "B.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Explain volume formulas and use them to solve problems.",
+      "ancestorIds": [
+        "2FC5FFCC7F4F44218C6185A9D55F3BBA"
+      ],
+      "parentId": "2FC5FFCC7F4F44218C6185A9D55F3BBA"
+    },
+    "755B29FEFDCD41D89904A03A06DF26E4": {
+      "id": "755B29FEFDCD41D89904A03A06DF26E4",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.30",
+      "statementLabel": null,
+      "description": "Derive the equations of ellipses and hyperbolas given the foci, using the fact that the sum or difference of distances from the foci is constant.",
+      "ancestorIds": [
+        "2FCEF62995EB4AE48BE0B0CEB23B43DD",
+        "2FC5FFCC7F4F44218C6185A9D55F3BBA"
+      ],
+      "parentId": "2FCEF62995EB4AE48BE0B0CEB23B43DD"
+    },
+    "2FCEF62995EB4AE48BE0B0CEB23B43DD": {
+      "id": "2FCEF62995EB4AE48BE0B0CEB23B43DD",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 1,
+      "listId": "A.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Translate between the geometric description and the equation for a conic section",
+      "ancestorIds": [
+        "2FC5FFCC7F4F44218C6185A9D55F3BBA"
+      ],
+      "parentId": "2FC5FFCC7F4F44218C6185A9D55F3BBA"
+    },
+    "2FC5FFCC7F4F44218C6185A9D55F3BBA": {
+      "id": "2FC5FFCC7F4F44218C6185A9D55F3BBA",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 0,
+      "listId": "IV.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Derivations in Analytic Geometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "62316D95202C490C8B7243B41E1F4312": {
+      "id": "62316D95202C490C8B7243B41E1F4312",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.29 ",
+      "statementLabel": null,
+      "description": "Graph trigonometric functions showing key features, including phase shift.",
+      "ancestorIds": [
+        "F307E3773981441192CA189A0BBF8EA2",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "F307E3773981441192CA189A0BBF8EA2"
+    },
+    "F307E3773981441192CA189A0BBF8EA2": {
+      "id": "F307E3773981441192CA189A0BBF8EA2",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "D.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Apply transformations of functions to trigonometric functions. ",
+      "ancestorIds": [
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "FFE1A71A2A0C43C895D22FF837F56C5E"
+    },
+    "30CDFD742B0642A6A936CC1A90DD933A": {
+      "id": "30CDFD742B0642A6A936CC1A90DD933A",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.28 ",
+      "statementLabel": null,
+      "description": "Prove the addition and subtraction formulas for sine, cosine, and tangent and use them to solve problems.",
+      "ancestorIds": [
+        "236409FE78F049B3A43EF2B53E1EC693",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "236409FE78F049B3A43EF2B53E1EC693"
+    },
+    "236409FE78F049B3A43EF2B53E1EC693": {
+      "id": "236409FE78F049B3A43EF2B53E1EC693",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "C.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Prove and apply trigonometric identities.",
+      "ancestorIds": [
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "FFE1A71A2A0C43C895D22FF837F56C5E"
+    },
+    "337A5EEA7DB843A0B67DFC1BD2830965": {
+      "id": "337A5EEA7DB843A0B67DFC1BD2830965",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.27 ",
+      "statementLabel": null,
+      "description": "Solve more general trigonometric equations. (e.g., 2 sin2x + sin x - 1 = 0 can be solved using factoring.",
+      "ancestorIds": [
+        "76919DFD41AF49A49F1345FC080FCE30",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "76919DFD41AF49A49F1345FC080FCE30"
+    },
+    "6A768B7282594A1F9BBD3F31DED7C91B": {
+      "id": "6A768B7282594A1F9BBD3F31DED7C91B",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.26 ",
+      "statementLabel": null,
+      "description": "Use inverse functions to solve trigonometric equations that arise in modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context.",
+      "ancestorIds": [
+        "76919DFD41AF49A49F1345FC080FCE30",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "76919DFD41AF49A49F1345FC080FCE30"
+    },
+    "D5991CA7ACB147B8BF3231D723A2270D": {
+      "id": "D5991CA7ACB147B8BF3231D723A2270D",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.25 ",
+      "statementLabel": null,
+      "description": "Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.",
+      "ancestorIds": [
+        "76919DFD41AF49A49F1345FC080FCE30",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "76919DFD41AF49A49F1345FC080FCE30"
+    },
+    "76919DFD41AF49A49F1345FC080FCE30": {
+      "id": "76919DFD41AF49A49F1345FC080FCE30",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "B.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Model periodic phenomena with trigonometric functions. ",
+      "ancestorIds": [
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "FFE1A71A2A0C43C895D22FF837F56C5E"
+    },
+    "02322F02D3C444C298D6EC933EBCC929": {
+      "id": "02322F02D3C444C298D6EC933EBCC929",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.24 ",
+      "statementLabel": null,
+      "description": "Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.",
+      "ancestorIds": [
+        "CAEDF2575EC04838AB61457DB4D28008",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "CAEDF2575EC04838AB61457DB4D28008"
+    },
+    "18CE92876C074183946A37529276F469": {
+      "id": "18CE92876C074183946A37529276F469",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.23 ",
+      "statementLabel": null,
+      "description": "Use special triangles to determine geometrically the values of sine, cosine, tangent for p/3, p/4 and p/6, and use the unit circle to express the values of sine, cosine, and tangent for p–x, p+x, and 2p–x in terms of their values for x, where x is any real number.",
+      "ancestorIds": [
+        "CAEDF2575EC04838AB61457DB4D28008",
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "CAEDF2575EC04838AB61457DB4D28008"
+    },
+    "CAEDF2575EC04838AB61457DB4D28008": {
+      "id": "CAEDF2575EC04838AB61457DB4D28008",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "A.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Extend the domain of trigonometric functions using the unite circles.",
+      "ancestorIds": [
+        "FFE1A71A2A0C43C895D22FF837F56C5E"
+      ],
+      "parentId": "FFE1A71A2A0C43C895D22FF837F56C5E"
+    },
+    "FFE1A71A2A0C43C895D22FF837F56C5E": {
+      "id": "FFE1A71A2A0C43C895D22FF837F56C5E",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 0,
+      "listId": "III.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Trigonometric and Inverse Trigonometric Functions of Real Numbers",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "640B7D19979E484AA79FF8EFE881165D": {
+      "id": "640B7D19979E484AA79FF8EFE881165D",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.22 ",
+      "statementLabel": null,
+      "description": "Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems involving logarithms and exponents.",
+      "ancestorIds": [
+        "C130ACB3D9484830B2D743ADDFA08C6D",
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "C130ACB3D9484830B2D743ADDFA08C6D"
+    },
+    "6183140529AC4D2AA1387D7F2BDBAD7D": {
+      "id": "6183140529AC4D2AA1387D7F2BDBAD7D",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.21 ",
+      "statementLabel": null,
+      "description": "Find inverse functions.1. Verify by composition that one function is the inverse of another. 2. Read values of an inverse function from a graph or a table, given that the function has an inverse. 3. Produce an invertible function from a non-invertible function by restricting the domain.",
+      "ancestorIds": [
+        "C130ACB3D9484830B2D743ADDFA08C6D",
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "C130ACB3D9484830B2D743ADDFA08C6D"
+    },
+    "C130ACB3D9484830B2D743ADDFA08C6D": {
+      "id": "C130ACB3D9484830B2D743ADDFA08C6D",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "C.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Build new functions from existing functions.",
+      "ancestorIds": [
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "2CB06E0F4BB94FEC8881A09590F1D360"
+    },
+    "0917B018AF3340D2BDDCF8E67A495E8F": {
+      "id": "0917B018AF3340D2BDDCF8E67A495E8F",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.20 ",
+      "statementLabel": null,
+      "description": "Write a function that describes a relationship between two quantities, including composition of functions. For example, if T(y) is the temperature in the atmosphere as a function of height, and h(t) is the height of a weather balloon as a function of time, then T(h(t)) is the temperature at the location of the weather balloon as a function of time.",
+      "ancestorIds": [
+        "311843206BFA42E4BF06A8D6744410D0",
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "311843206BFA42E4BF06A8D6744410D0"
+    },
+    "311843206BFA42E4BF06A8D6744410D0": {
+      "id": "311843206BFA42E4BF06A8D6744410D0",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "B. ",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Build a function that models a relationship between two quantities.",
+      "ancestorIds": [
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "2CB06E0F4BB94FEC8881A09590F1D360"
+    },
+    "7308D6E5ACE14EE98565C4CE1CC2F4A4": {
+      "id": "7308D6E5ACE14EE98565C4CE1CC2F4A4",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.19 ",
+      "statementLabel": null,
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases. Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior.",
+      "ancestorIds": [
+        "2F7C36A51DC546289A78591917F6368B",
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "2F7C36A51DC546289A78591917F6368B"
+    },
+    "2F7C36A51DC546289A78591917F6368B": {
+      "id": "2F7C36A51DC546289A78591917F6368B",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "A.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Analyze functions using different representations",
+      "ancestorIds": [
+        "2CB06E0F4BB94FEC8881A09590F1D360"
+      ],
+      "parentId": "2CB06E0F4BB94FEC8881A09590F1D360"
+    },
+    "2CB06E0F4BB94FEC8881A09590F1D360": {
+      "id": "2CB06E0F4BB94FEC8881A09590F1D360",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 0,
+      "listId": "II.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Analysis and Synthesis of Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7AC56827DFE54D0FA86FD8D85DB49221": {
+      "id": "7AC56827DFE54D0FA86FD8D85DB49221",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.18 ",
+      "statementLabel": null,
+      "description": "Find the inverse of a matrix if it exists and use it to solve systems of linear equations (using technology for matrices of dimension 3 × 3 or greater).",
+      "ancestorIds": [
+        "45BFBF09458C4D3EB1E6FD1F771B4228",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "45BFBF09458C4D3EB1E6FD1F771B4228"
+    },
+    "379C2F81FCC4450D8E80AA8EA0993BF6": {
+      "id": "379C2F81FCC4450D8E80AA8EA0993BF6",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.17 ",
+      "statementLabel": null,
+      "description": "Represent a system of linear equations as a single matrix equation in a vector variable.",
+      "ancestorIds": [
+        "45BFBF09458C4D3EB1E6FD1F771B4228",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "45BFBF09458C4D3EB1E6FD1F771B4228"
+    },
+    "45BFBF09458C4D3EB1E6FD1F771B4228": {
+      "id": "45BFBF09458C4D3EB1E6FD1F771B4228",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "E.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Solve Systems of equations.",
+      "ancestorIds": [
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "CA5187672F034BC68C5C66D63A7986AD"
+    },
+    "F55B74C2A128433497C48526FFBCBB8E": {
+      "id": "F55B74C2A128433497C48526FFBCBB8E",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.16",
+      "statementLabel": null,
+      "description": "Work with 2 × 2 matrices as transformations of the plane and interpret the absolute value of the determinant in terms of area.",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "026B3337199A45F1A3D4B2A32CFDAA33": {
+      "id": "026B3337199A45F1A3D4B2A32CFDAA33",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.15 ",
+      "statementLabel": null,
+      "description": "Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors.",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "E013896581924F859724B4B50744C326": {
+      "id": "E013896581924F859724B4B50744C326",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.14 ",
+      "statementLabel": null,
+      "description": "Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse.",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "FBA9F08EA26940A49DCE8EA8E251B296": {
+      "id": "FBA9F08EA26940A49DCE8EA8E251B296",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.13 ",
+      "statementLabel": null,
+      "description": "Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties.",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "78F397E7877B4E949D8BDC696DB45554": {
+      "id": "78F397E7877B4E949D8BDC696DB45554",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.12 ",
+      "statementLabel": null,
+      "description": "Add, subtract and multiply matrices of appropriate dimensions.",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "62C47AFF996141F2ABE122F5A3DE1965": {
+      "id": "62C47AFF996141F2ABE122F5A3DE1965",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.11 ",
+      "statementLabel": null,
+      "description": "Multiply matrices by scalars to produce new matrices (e.g., as when all of the payoffs in a game are doubled",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "B683950A1FEE4A14BB960A9708FE87D3": {
+      "id": "B683950A1FEE4A14BB960A9708FE87D3",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.10 ",
+      "statementLabel": null,
+      "description": "Use matrices to represent and manipulate data (e.g., to represent payoffs or incidence relationships in a network).",
+      "ancestorIds": [
+        "01C39551B6BE4BA7B4C76CDE607CABA8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "01C39551B6BE4BA7B4C76CDE607CABA8"
+    },
+    "01C39551B6BE4BA7B4C76CDE607CABA8": {
+      "id": "01C39551B6BE4BA7B4C76CDE607CABA8",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "D.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Perform operations on matrices and use matrices in applications",
+      "ancestorIds": [
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "CA5187672F034BC68C5C66D63A7986AD"
+    },
+    "8FDF37FC2E03468196C88F1E9446FEC1": {
+      "id": "8FDF37FC2E03468196C88F1E9446FEC1",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.9",
+      "statementLabel": null,
+      "description": "Multiply a vector by a scalar. 1. Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, vy) = (cvx, cvy). 2. Compute the magnitude of a scalar multiple cv using ∥cv∥=∣c∣⋅∥v∥ . Compute the direction of cv knowing  that when |c|v ? 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).",
+      "ancestorIds": [
+        "87309ECA9D5C44968919C5565D776BB8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "87309ECA9D5C44968919C5565D776BB8"
+    },
+    "3EAFB65355B24C5BB18B178509B658D9": {
+      "id": "3EAFB65355B24C5BB18B178509B658D9",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.8.",
+      "statementLabel": null,
+      "description": "Add and subtract vectors. 1.  Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum  of two vectors is typically not the sum of the magnitudes 2.  Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum  3.  Understand vector subtraction v – w as v + (–w), where –w is the additive inverse of w, with the same magnitude as w  and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order and perform vector subtraction component-wise.",
+      "ancestorIds": [
+        "87309ECA9D5C44968919C5565D776BB8",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "87309ECA9D5C44968919C5565D776BB8"
+    },
+    "87309ECA9D5C44968919C5565D776BB8": {
+      "id": "87309ECA9D5C44968919C5565D776BB8",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "C.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Perform operations on vectors.",
+      "ancestorIds": [
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "CA5187672F034BC68C5C66D63A7986AD"
+    },
+    "500E29358E9B43A1A545038BC04761AB": {
+      "id": "500E29358E9B43A1A545038BC04761AB",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.7 ",
+      "statementLabel": null,
+      "description": "Solve problems involving velocity and other quantities that can be represented by vectors.",
+      "ancestorIds": [
+        "1E9923282F754F36949CBA223B74D949",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "1E9923282F754F36949CBA223B74D949"
+    },
+    "444C0154A69B493B89F21138FB6307F7": {
+      "id": "444C0154A69B493B89F21138FB6307F7",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.6 ",
+      "statementLabel": null,
+      "description": "Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.",
+      "ancestorIds": [
+        "1E9923282F754F36949CBA223B74D949",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "1E9923282F754F36949CBA223B74D949"
+    },
+    "3574D32373934BE5BA2B971F04F16DE9": {
+      "id": "3574D32373934BE5BA2B971F04F16DE9",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.5 ",
+      "statementLabel": null,
+      "description": "Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v).",
+      "ancestorIds": [
+        "1E9923282F754F36949CBA223B74D949",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "1E9923282F754F36949CBA223B74D949"
+    },
+    "1E9923282F754F36949CBA223B74D949": {
+      "id": "1E9923282F754F36949CBA223B74D949",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "B.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Represent and model with vector quantities.",
+      "ancestorIds": [
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "CA5187672F034BC68C5C66D63A7986AD"
+    },
+    "C4B619166D284CA0A8AF3BA4AC796CA6": {
+      "id": "C4B619166D284CA0A8AF3BA4AC796CA6",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.4 ",
+      "statementLabel": null,
+      "description": "Calculate the distance between numbers in the complex plane as the modulus of the difference and the midpoint of a segment as the average of the numbers at its endpoints.",
+      "ancestorIds": [
+        "5DC54D72F55642DD984E6E6C7F39B5DD",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "5DC54D72F55642DD984E6E6C7F39B5DD"
+    },
+    "BCEA0D31809144B0876491619662AEF0": {
+      "id": "BCEA0D31809144B0876491619662AEF0",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.3 ",
+      "statementLabel": null,
+      "description": "Represent addition, subtraction, multiplication and conjugation of complex numbers geometrically on the complex plane; use properties of this representation for computation. (e.g., (–1+3√i)3=8 (-1 + sqrt{3}i)^3 = 8  because (–1+3√i) (-1 + sqrt{3}i) has modulus 2 and argument 120°.",
+      "ancestorIds": [
+        "5DC54D72F55642DD984E6E6C7F39B5DD",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "5DC54D72F55642DD984E6E6C7F39B5DD"
+    },
+    "D26F5F505A2D4635B1D30583C161408F": {
+      "id": "D26F5F505A2D4635B1D30583C161408F",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.2 ",
+      "statementLabel": null,
+      "description": "Represent complex numbers on the complex plane in rectangular and polar form (including real and imaginary numbers), and explain why the rectangular and polar forms of a given complex number represent the same number.",
+      "ancestorIds": [
+        "5DC54D72F55642DD984E6E6C7F39B5DD",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "5DC54D72F55642DD984E6E6C7F39B5DD"
+    },
+    "DC3670BCA5004312B201252A30127464": {
+      "id": "DC3670BCA5004312B201252A30127464",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "M.4HSTP.1 ",
+      "statementLabel": null,
+      "description": "Find the conjugate of a complex number; use conjugates to find moduli (magnitude) and quotients of complex numbers.",
+      "ancestorIds": [
+        "5DC54D72F55642DD984E6E6C7F39B5DD",
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "5DC54D72F55642DD984E6E6C7F39B5DD"
+    },
+    "5DC54D72F55642DD984E6E6C7F39B5DD": {
+      "id": "5DC54D72F55642DD984E6E6C7F39B5DD",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "A.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Perform arithmetic operations with complex numbers ",
+      "ancestorIds": [
+        "CA5187672F034BC68C5C66D63A7986AD"
+      ],
+      "parentId": "CA5187672F034BC68C5C66D63A7986AD"
+    },
+    "CA5187672F034BC68C5C66D63A7986AD": {
+      "id": "CA5187672F034BC68C5C66D63A7986AD",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "I.",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Building Relationships among Complex Numbers, Vectors, and Matrices",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

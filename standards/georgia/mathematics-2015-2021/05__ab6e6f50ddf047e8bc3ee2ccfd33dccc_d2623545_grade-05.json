@@ -1,0 +1,805 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2623545_grade-05",
+  "title": "Grade 5",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "05"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "id": "D2623545",
+    "valid": "2015",
+    "title": "Mathematics Georgia Standards of Excellence - Grade 5",
+    "sourceURL": "https://www.georgiastandards.org/Common-Core/Documents/Grade-K-5-Mathematics-Standards.pdf",
+    "asnIdentifier": "D2623545",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "3B9E54891CB64FD49DEC0F079946F28F": {
+      "depth": 2,
+      "statementNotation": "MGSE5.G.4",
+      "statementLabel": "Standard",
+      "description": "Classify two-dimensional figures in a hierarchy based on properties (polygons, triangles, and quadrilaterals).",
+      "id": "3B9E54891CB64FD49DEC0F079946F28F",
+      "asnIdentifier": "S2635012",
+      "position": 56000,
+      "ancestorIds": [
+        "D2969D0D51BF4E8EBE6DF5177BFE422A",
+        "157F2C3DF0C94B749564B48CE52A4ECA"
+      ],
+      "parentId": "D2969D0D51BF4E8EBE6DF5177BFE422A"
+    },
+    "157507B98BC942C0957342D7977B0E2A": {
+      "id": "157507B98BC942C0957342D7977B0E2A",
+      "asnIdentifier": "S2635011",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "MGSE5.G.3",
+      "statementLabel": "Standard",
+      "description": "Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category.",
+      "comments": [
+        "For example, all rectangles have four right angles and squares are rectangles, so all squares have four right angles."
+      ],
+      "ancestorIds": [
+        "D2969D0D51BF4E8EBE6DF5177BFE422A",
+        "157F2C3DF0C94B749564B48CE52A4ECA"
+      ],
+      "parentId": "D2969D0D51BF4E8EBE6DF5177BFE422A"
+    },
+    "D2969D0D51BF4E8EBE6DF5177BFE422A": {
+      "asnIdentifier": "S2635010",
+      "position": 54000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Classify two-dimensional figures into categories based on their properties.",
+      "id": "D2969D0D51BF4E8EBE6DF5177BFE422A",
+      "ancestorIds": [
+        "157F2C3DF0C94B749564B48CE52A4ECA"
+      ],
+      "parentId": "157F2C3DF0C94B749564B48CE52A4ECA"
+    },
+    "504FC4DD0EA047CFB766135DA350AB1E": {
+      "statementNotation": "MGSE5.G.2",
+      "statementLabel": "Standard",
+      "description": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.",
+      "id": "504FC4DD0EA047CFB766135DA350AB1E",
+      "asnIdentifier": "S2635009",
+      "position": 53000,
+      "depth": 2,
+      "ancestorIds": [
+        "7BC611E6D4BC4466BC3E1AAF8D8B4D7E",
+        "157F2C3DF0C94B749564B48CE52A4ECA"
+      ],
+      "parentId": "7BC611E6D4BC4466BC3E1AAF8D8B4D7E"
+    },
+    "1877143E0B7E48298101C3B3050BD271": {
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "MGSE5.G.1",
+      "statementLabel": "Standard",
+      "description": "Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., x-axis and x-coordinate, y-axis and y-coordinate).",
+      "id": "1877143E0B7E48298101C3B3050BD271",
+      "asnIdentifier": "S2635008",
+      "ancestorIds": [
+        "7BC611E6D4BC4466BC3E1AAF8D8B4D7E",
+        "157F2C3DF0C94B749564B48CE52A4ECA"
+      ],
+      "parentId": "7BC611E6D4BC4466BC3E1AAF8D8B4D7E"
+    },
+    "7BC611E6D4BC4466BC3E1AAF8D8B4D7E": {
+      "id": "7BC611E6D4BC4466BC3E1AAF8D8B4D7E",
+      "asnIdentifier": "S2635007",
+      "position": 51000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Graph points on the coordinate plane to solve real-world and mathematical problems.",
+      "ancestorIds": [
+        "157F2C3DF0C94B749564B48CE52A4ECA"
+      ],
+      "parentId": "157F2C3DF0C94B749564B48CE52A4ECA"
+    },
+    "157F2C3DF0C94B749564B48CE52A4ECA": {
+      "id": "157F2C3DF0C94B749564B48CE52A4ECA",
+      "asnIdentifier": "S2635006",
+      "position": 50000,
+      "depth": 0,
+      "statementNotation": "5.G",
+      "statementLabel": "Domain",
+      "description": "Geometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "753450946115427E99F8A0A31BD1445B": {
+      "statementLabel": "Component",
+      "description": "Recognize volume as additive. Find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real world problems.",
+      "id": "753450946115427E99F8A0A31BD1445B",
+      "asnIdentifier": "S2635005",
+      "position": 49000,
+      "depth": 3,
+      "statementNotation": "MGSE5.MD.5.c",
+      "ancestorIds": [
+        "8D6DF7363E7C4573A39FCE967B6B7AE6",
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "8D6DF7363E7C4573A39FCE967B6B7AE6"
+    },
+    "0B6DBD0DB1CA44C0B75E77982CBCC38C": {
+      "statementNotation": "MGSE5.MD.5.b",
+      "statementLabel": "Component",
+      "description": "Apply the formulas V = l × w × h and V = b × h for rectangular prisms to find volumes of right rectangular prisms with whole number edge lengths in the context of solving real world and mathematical problems.",
+      "id": "0B6DBD0DB1CA44C0B75E77982CBCC38C",
+      "asnIdentifier": "S2635004",
+      "position": 48000,
+      "depth": 3,
+      "ancestorIds": [
+        "8D6DF7363E7C4573A39FCE967B6B7AE6",
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "8D6DF7363E7C4573A39FCE967B6B7AE6"
+    },
+    "79BCE964B0E74E5B916958692CDCCEBA": {
+      "statementLabel": "Component",
+      "description": "Find the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication.",
+      "id": "79BCE964B0E74E5B916958692CDCCEBA",
+      "asnIdentifier": "S2635003",
+      "position": 47000,
+      "depth": 3,
+      "statementNotation": "MGSE5.MD.5.a",
+      "ancestorIds": [
+        "8D6DF7363E7C4573A39FCE967B6B7AE6",
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "8D6DF7363E7C4573A39FCE967B6B7AE6"
+    },
+    "8D6DF7363E7C4573A39FCE967B6B7AE6": {
+      "description": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+      "id": "8D6DF7363E7C4573A39FCE967B6B7AE6",
+      "asnIdentifier": "S2635002",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "MGSE5.MD.5",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "24AA7EA9A1A149A2ACEA5568B62C297E"
+    },
+    "98E812D6683940F5BE766E3472EF8A8F": {
+      "id": "98E812D6683940F5BE766E3472EF8A8F",
+      "asnIdentifier": "S2635001",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "MGSE5.MD.4",
+      "statementLabel": "Standard",
+      "description": "Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units.",
+      "ancestorIds": [
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "24AA7EA9A1A149A2ACEA5568B62C297E"
+    },
+    "A0D970BC46994359A8E7DC47BFFA602B": {
+      "id": "A0D970BC46994359A8E7DC47BFFA602B",
+      "asnIdentifier": "S2635000",
+      "position": 44000,
+      "depth": 3,
+      "statementNotation": "MGSE5.MD.3.b",
+      "statementLabel": "Component",
+      "description": "A solid figure which can be packed without gaps or overlaps using n unit cubes is said to have a volume of n cubic units.",
+      "ancestorIds": [
+        "906859B419F84A81A75CD8896BF2BDDB",
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "906859B419F84A81A75CD8896BF2BDDB"
+    },
+    "61020B3C626B4784A1DD8194CC791656": {
+      "depth": 3,
+      "statementNotation": "MGSE5.MD.3.a",
+      "statementLabel": "Component",
+      "description": "A cube with side length 1 unit, called a \"unit cube,\" is said to have \"one cubic unit\" of volume, and can be used to measure volume.",
+      "id": "61020B3C626B4784A1DD8194CC791656",
+      "asnIdentifier": "S2634999",
+      "position": 43000,
+      "ancestorIds": [
+        "906859B419F84A81A75CD8896BF2BDDB",
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "906859B419F84A81A75CD8896BF2BDDB"
+    },
+    "906859B419F84A81A75CD8896BF2BDDB": {
+      "depth": 2,
+      "statementNotation": "MGSE5.MD.3",
+      "statementLabel": "Standard",
+      "description": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+      "id": "906859B419F84A81A75CD8896BF2BDDB",
+      "asnIdentifier": "S2634998",
+      "position": 42000,
+      "ancestorIds": [
+        "24AA7EA9A1A149A2ACEA5568B62C297E",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "24AA7EA9A1A149A2ACEA5568B62C297E"
+    },
+    "24AA7EA9A1A149A2ACEA5568B62C297E": {
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Geometric measurement: understand concepts of volume and relate volume to multiplication and division.",
+      "id": "24AA7EA9A1A149A2ACEA5568B62C297E",
+      "asnIdentifier": "S2634997",
+      "position": 41000,
+      "ancestorIds": [
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+    },
+    "2B04D433472948F0AA6E0EF10BA6EB12": {
+      "depth": 2,
+      "statementNotation": "MGSE5.MD.2",
+      "statementLabel": "Standard",
+      "description": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Use operations on fractions for this grade to solve problems involving information presented in line plots.",
+      "comments": [
+        "For example, given different measurements of liquid in identical beakers, find the amount of liquid each beaker would contain if the total amount in all the beakers were redistributed equally."
+      ],
+      "id": "2B04D433472948F0AA6E0EF10BA6EB12",
+      "asnIdentifier": "S2634996",
+      "position": 40000,
+      "ancestorIds": [
+        "52712223132E4578B8BA6A82ABFF1A1A",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "52712223132E4578B8BA6A82ABFF1A1A"
+    },
+    "52712223132E4578B8BA6A82ABFF1A1A": {
+      "id": "52712223132E4578B8BA6A82ABFF1A1A",
+      "asnIdentifier": "S2634995",
+      "position": 39000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Represent and interpret data.",
+      "ancestorIds": [
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+    },
+    "8F5006B6834A4DDB81E61080CDD0A069": {
+      "statementNotation": "MGSE5.MD.1",
+      "statementLabel": "Standard",
+      "description": "Convert among different-sized standard measurement units (mass, weight, length, time, etc.) within a given measurement system (customary and metric) (e.g., convert 5cm to 0.05m), and use these conversions in solving multi-step, real word problems.",
+      "id": "8F5006B6834A4DDB81E61080CDD0A069",
+      "asnIdentifier": "S2634994",
+      "position": 38000,
+      "depth": 2,
+      "ancestorIds": [
+        "D9B0106EB49B43F980F4DED62EA7F5CB",
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "D9B0106EB49B43F980F4DED62EA7F5CB"
+    },
+    "D9B0106EB49B43F980F4DED62EA7F5CB": {
+      "description": "Convert like measurement units within a given measurement system.",
+      "id": "D9B0106EB49B43F980F4DED62EA7F5CB",
+      "asnIdentifier": "S2634993",
+      "position": 37000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+      ],
+      "parentId": "D96D5C72CF3543BABB8B5F0A1A25AC0B"
+    },
+    "D96D5C72CF3543BABB8B5F0A1A25AC0B": {
+      "position": 36000,
+      "depth": 0,
+      "statementNotation": "5.MD",
+      "statementLabel": "Domain",
+      "description": "Measurement and Data",
+      "id": "D96D5C72CF3543BABB8B5F0A1A25AC0B",
+      "asnIdentifier": "S2634992",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "826F0EDFD3F748F7A46FA02FD5601F99": {
+      "description": "Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem. For example, how much chocolate will each person get if 3 people share 1/2 lb of chocolate equally? How many 1/3-cup servings are in 2 cups of raisins?",
+      "id": "826F0EDFD3F748F7A46FA02FD5601F99",
+      "asnIdentifier": "S2634991",
+      "position": 35000,
+      "depth": 3,
+      "statementNotation": "MGSE5.NF.7.c",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "498CF487BFBD4EFC9B211EA4D8DDE421",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "498CF487BFBD4EFC9B211EA4D8DDE421"
+    },
+    "F9794372FFE14F8495506DCB07545C1C": {
+      "description": "Interpret division of a whole number by a unit fraction, and compute such quotients. For example, create a story context for 4 ÷ (1/5), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that 4 ÷ (1/5) = 20 because 20 × (1/5) = 4.",
+      "id": "F9794372FFE14F8495506DCB07545C1C",
+      "asnIdentifier": "S2634990",
+      "position": 34000,
+      "depth": 3,
+      "statementNotation": "MGSE5.NF.7.b",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "498CF487BFBD4EFC9B211EA4D8DDE421",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "498CF487BFBD4EFC9B211EA4D8DDE421"
+    },
+    "9E824CF8437044B994A5429BFF5ED01E": {
+      "position": 33000,
+      "depth": 3,
+      "statementNotation": "MGSE5.NF.7.a",
+      "statementLabel": "Component",
+      "description": "Interpret division of a unit fraction by a non-zero whole number, and compute such quotients. For example, create a story context for (1/3) ÷ 4, and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that (1/3) ÷ 4 = 1/12 because (1/12) × 4 = 1/3.",
+      "id": "9E824CF8437044B994A5429BFF5ED01E",
+      "asnIdentifier": "S2634989",
+      "ancestorIds": [
+        "498CF487BFBD4EFC9B211EA4D8DDE421",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "498CF487BFBD4EFC9B211EA4D8DDE421"
+    },
+    "498CF487BFBD4EFC9B211EA4D8DDE421": {
+      "asnIdentifier": "S2634988",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.7",
+      "statementLabel": "Standard",
+      "description": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+      "id": "498CF487BFBD4EFC9B211EA4D8DDE421",
+      "ancestorIds": [
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "19DF1525C38D4437A11F62B18D43B2BC"
+    },
+    "F617E61A378D4DD19FA97E1907B4BB1B": {
+      "description": "Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+      "id": "F617E61A378D4DD19FA97E1907B4BB1B",
+      "asnIdentifier": "S2634987",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.6",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "19DF1525C38D4437A11F62B18D43B2BC"
+    },
+    "89237BBEFC9740CC83C609F4D6AB3D0E": {
+      "statementNotation": "MGSE5.NF.5.b",
+      "statementLabel": "Component",
+      "description": "Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence a/b = (n×a)/(n×b) to the effect of multiplying a/b by 1.",
+      "id": "89237BBEFC9740CC83C609F4D6AB3D0E",
+      "asnIdentifier": "S2634986",
+      "position": 30000,
+      "depth": 3,
+      "ancestorIds": [
+        "3712059F582F46A38F3B4449B207688B",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "3712059F582F46A38F3B4449B207688B"
+    },
+    "076DBCAEC2064BE092F3E400D5685EF0": {
+      "position": 29000,
+      "depth": 3,
+      "statementNotation": "MGSE5.NF.5.a",
+      "statementLabel": "Component",
+      "description": "Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.",
+      "comments": [
+        "Example: 4 x 10 is twice as large as 2 x 10."
+      ],
+      "id": "076DBCAEC2064BE092F3E400D5685EF0",
+      "asnIdentifier": "S2634985",
+      "ancestorIds": [
+        "3712059F582F46A38F3B4449B207688B",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "3712059F582F46A38F3B4449B207688B"
+    },
+    "3712059F582F46A38F3B4449B207688B": {
+      "id": "3712059F582F46A38F3B4449B207688B",
+      "asnIdentifier": "S2634984",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.5",
+      "statementLabel": "Standard",
+      "description": "Interpret multiplication as scaling (resizing), by:",
+      "ancestorIds": [
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "19DF1525C38D4437A11F62B18D43B2BC"
+    },
+    "0D61EF5466D741CCBA83599DA4E7F63B": {
+      "depth": 3,
+      "statementNotation": "MGSE5.NF.4.b",
+      "statementLabel": "Component",
+      "description": "Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths.",
+      "id": "0D61EF5466D741CCBA83599DA4E7F63B",
+      "asnIdentifier": "S2634983",
+      "position": 27000,
+      "ancestorIds": [
+        "8449D28D1366406EBAC645CCECBED91F",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "8449D28D1366406EBAC645CCECBED91F"
+    },
+    "5F5E78A2A7174841827242F5572BADD3": {
+      "statementLabel": "Component",
+      "description": "Apply and use understanding of multiplication to multiply a fraction or whole number by a fraction.",
+      "comments": [
+        "Examples: <img src=\"http://purl.org/ASN/resources/images/D2623545/AoverB.png\" alt=\"StartFraction a Over b EndFraction\" height=\"28\" /> × q as <img src=\"http://purl.org/ASN/resources/images/D2623545/AoverB.png\" alt=\"StartFraction a Over b EndFraction\" height=\"28\" /> × <img src=\"http://purl.org/ASN/resources/images/D2623545/Qover1.png\" alt=\"StartFraction q Over 1 EndFraction\" height=\"28\" /> and <img src=\"http://purl.org/ASN/resources/images/D2623545/AoverB.png\" alt=\"StartFraction a Over b EndFraction\" height=\"28\" /> × <img src=\"http://purl.org/ASN/resources/images/D2623545/CoverD.png\" alt=\"StartFraction c Over d EndFraction\" height=\"28\" /> = <img src=\"http://purl.org/ASN/resources/images/D2623545/ACoverBD.png\" alt=\"StartFraction ac Over bd EndFraction\" height=\"28\" />"
+      ],
+      "id": "5F5E78A2A7174841827242F5572BADD3",
+      "asnIdentifier": "S2634982",
+      "position": 26000,
+      "depth": 3,
+      "statementNotation": "MGSE5.NF.4.a",
+      "ancestorIds": [
+        "8449D28D1366406EBAC645CCECBED91F",
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "8449D28D1366406EBAC645CCECBED91F"
+    },
+    "8449D28D1366406EBAC645CCECBED91F": {
+      "id": "8449D28D1366406EBAC645CCECBED91F",
+      "asnIdentifier": "S2634981",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.4",
+      "statementLabel": "Standard",
+      "description": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+      "ancestorIds": [
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "19DF1525C38D4437A11F62B18D43B2BC"
+    },
+    "FC72104888354BB3BE9274F6673C6344": {
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.3",
+      "statementLabel": "Standard",
+      "description": "Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+      "comments": [
+        "Example: <img src=\"http://purl.org/ASN/resources/images/D2623545/3over5.png\" alt=\"StartFraction 3 Over 5 EndFraction\" height=\"28\" /> can be interpreted as \"3 divided by 5 and as 3 shared by 5\"."
+      ],
+      "id": "FC72104888354BB3BE9274F6673C6344",
+      "asnIdentifier": "S2634980",
+      "ancestorIds": [
+        "19DF1525C38D4437A11F62B18D43B2BC",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "19DF1525C38D4437A11F62B18D43B2BC"
+    },
+    "19DF1525C38D4437A11F62B18D43B2BC": {
+      "id": "19DF1525C38D4437A11F62B18D43B2BC",
+      "asnIdentifier": "S2634979",
+      "position": 23000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+      "ancestorIds": [
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "7B531C69C9F54F52A20E99752F35D86D"
+    },
+    "65C18CD7822A4AFDBFD82DB32B434A46": {
+      "statementLabel": "Standard",
+      "description": "Solve word problems involving addition and subtraction of fractions, including cases of unlike denominators (e.g., by using visual fraction models or equations to represent the problem). Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers. For example, recognize an incorrect result 2/5 + ½ = 3/7, by observing that 3/7 < ½.",
+      "id": "65C18CD7822A4AFDBFD82DB32B434A46",
+      "asnIdentifier": "S2634978",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.2",
+      "ancestorIds": [
+        "EA0CC5E7913F4848B370EE0652FF05FE",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "EA0CC5E7913F4848B370EE0652FF05FE"
+    },
+    "141B65D44E9A488B9DFD903E59928E4B": {
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NF.1",
+      "statementLabel": "Standard",
+      "description": "Add and subtract fractions and mixed numbers with unlike denominators by finding a common denominator and equivalent fractions to produce like denominators.",
+      "id": "141B65D44E9A488B9DFD903E59928E4B",
+      "asnIdentifier": "S2634977",
+      "ancestorIds": [
+        "EA0CC5E7913F4848B370EE0652FF05FE",
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "EA0CC5E7913F4848B370EE0652FF05FE"
+    },
+    "EA0CC5E7913F4848B370EE0652FF05FE": {
+      "statementLabel": "Cluster",
+      "description": "Use equivalent fractions as a strategy to add and subtract fractions.",
+      "id": "EA0CC5E7913F4848B370EE0652FF05FE",
+      "asnIdentifier": "S2634976",
+      "position": 20000,
+      "depth": 1,
+      "ancestorIds": [
+        "7B531C69C9F54F52A20E99752F35D86D"
+      ],
+      "parentId": "7B531C69C9F54F52A20E99752F35D86D"
+    },
+    "7B531C69C9F54F52A20E99752F35D86D": {
+      "depth": 0,
+      "statementNotation": "5.NF",
+      "statementLabel": "Domain",
+      "description": "Number and Operations – Fractions",
+      "id": "7B531C69C9F54F52A20E99752F35D86D",
+      "asnIdentifier": "S2634975",
+      "position": 19000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8B6D8985BCBE4DF08DA5BBE7A234CE28": {
+      "statementLabel": "Standard",
+      "description": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
+      "id": "8B6D8985BCBE4DF08DA5BBE7A234CE28",
+      "asnIdentifier": "S2634974",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.7",
+      "ancestorIds": [
+        "343C4B5426484A2B91D0738CD8047B50",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "343C4B5426484A2B91D0738CD8047B50"
+    },
+    "8E333707516B4E27B2755914167A3D87": {
+      "id": "8E333707516B4E27B2755914167A3D87",
+      "asnIdentifier": "S2634973",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.6",
+      "statementLabel": "Standard",
+      "description": "Fluently divide up to 4-digit dividends and 2-digit divisors by using at least one of the following methods: strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations or concrete models. (e.g., rectangular arrays, area models)",
+      "ancestorIds": [
+        "343C4B5426484A2B91D0738CD8047B50",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "343C4B5426484A2B91D0738CD8047B50"
+    },
+    "181BD238B59F4CC69318064FE0BFBA58": {
+      "description": "Fluently multiply multi-digit whole numbers using the standard algorithm (or other strategies demonstrating understanding of multiplication) up to a 3 digit by 2 digit factor.",
+      "id": "181BD238B59F4CC69318064FE0BFBA58",
+      "asnIdentifier": "S2634972",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.5",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "343C4B5426484A2B91D0738CD8047B50",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "343C4B5426484A2B91D0738CD8047B50"
+    },
+    "343C4B5426484A2B91D0738CD8047B50": {
+      "id": "343C4B5426484A2B91D0738CD8047B50",
+      "asnIdentifier": "S2634971",
+      "position": 15000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+      "ancestorIds": [
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "E8C1DD6BB0E948F69003FF8B57B44FF7"
+    },
+    "47860FC2679148C681EBA7578EFA9158": {
+      "statementLabel": "Standard",
+      "description": "Use place value understanding to round decimals up to the hundredths place.",
+      "id": "47860FC2679148C681EBA7578EFA9158",
+      "asnIdentifier": "S2634970",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.4",
+      "ancestorIds": [
+        "F6BE51C5BC7D48D3BD0AF03379B35009",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "F6BE51C5BC7D48D3BD0AF03379B35009"
+    },
+    "19E49D8F719C40ED937E68F8C46061ED": {
+      "asnIdentifier": "S2634969",
+      "position": 13000,
+      "depth": 3,
+      "statementNotation": "MGSE5.NBT.3.b",
+      "statementLabel": "Component",
+      "description": "Compare two decimals to thousandths based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
+      "id": "19E49D8F719C40ED937E68F8C46061ED",
+      "ancestorIds": [
+        "9437F7142CEF469F97CC62C951FE8087",
+        "F6BE51C5BC7D48D3BD0AF03379B35009",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "9437F7142CEF469F97CC62C951FE8087"
+    },
+    "DA17466DE1A142A9BDF227F1CACB0E4A": {
+      "depth": 3,
+      "statementNotation": "MGSE5.NBT.3.a",
+      "statementLabel": "Component",
+      "description": "Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., 347.392 = 3 × 100 + 4 × 10 + 7 × 1 + 3 × (1/10) + 9 × (1/100) + 2 × (1/1000).",
+      "id": "DA17466DE1A142A9BDF227F1CACB0E4A",
+      "asnIdentifier": "S2634968",
+      "position": 12000,
+      "ancestorIds": [
+        "9437F7142CEF469F97CC62C951FE8087",
+        "F6BE51C5BC7D48D3BD0AF03379B35009",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "9437F7142CEF469F97CC62C951FE8087"
+    },
+    "9437F7142CEF469F97CC62C951FE8087": {
+      "id": "9437F7142CEF469F97CC62C951FE8087",
+      "asnIdentifier": "S2634967",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.3",
+      "statementLabel": "Standard",
+      "description": "Read, write, and compare decimals to thousandths.",
+      "ancestorIds": [
+        "F6BE51C5BC7D48D3BD0AF03379B35009",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "F6BE51C5BC7D48D3BD0AF03379B35009"
+    },
+    "C1E0F5CFCA4E49D28DA88AB16982D8C1": {
+      "statementLabel": "Standard",
+      "description": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.",
+      "id": "C1E0F5CFCA4E49D28DA88AB16982D8C1",
+      "asnIdentifier": "S2634966",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.2",
+      "ancestorIds": [
+        "F6BE51C5BC7D48D3BD0AF03379B35009",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "F6BE51C5BC7D48D3BD0AF03379B35009"
+    },
+    "ECE860348800487187382B55B73D3738": {
+      "asnIdentifier": "S2634965",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "MGSE5.NBT.1",
+      "statementLabel": "Standard",
+      "description": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left.",
+      "id": "ECE860348800487187382B55B73D3738",
+      "ancestorIds": [
+        "F6BE51C5BC7D48D3BD0AF03379B35009",
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "F6BE51C5BC7D48D3BD0AF03379B35009"
+    },
+    "F6BE51C5BC7D48D3BD0AF03379B35009": {
+      "id": "F6BE51C5BC7D48D3BD0AF03379B35009",
+      "asnIdentifier": "S2634964",
+      "position": 8000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Understand the place value system.",
+      "ancestorIds": [
+        "E8C1DD6BB0E948F69003FF8B57B44FF7"
+      ],
+      "parentId": "E8C1DD6BB0E948F69003FF8B57B44FF7"
+    },
+    "E8C1DD6BB0E948F69003FF8B57B44FF7": {
+      "description": "Number and Operations in Base Ten",
+      "id": "E8C1DD6BB0E948F69003FF8B57B44FF7",
+      "asnIdentifier": "S2634963",
+      "position": 7000,
+      "depth": 0,
+      "statementNotation": "5.NBT",
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "977EE03354E54030BEB832E525E81A70": {
+      "id": "977EE03354E54030BEB832E525E81A70",
+      "asnIdentifier": "S2634962",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "MGSE5.OA.3",
+      "statementLabel": "Standard",
+      "description": "Generate two numerical patterns using a given rule. Identify apparent relationships between corresponding terms by completing a function table or input/output table. Using the terms created, form and graph ordered pairs on a coordinate plane.",
+      "ancestorIds": [
+        "8BCEC9A6234F405C84DDE66C3316A2F0",
+        "E857C6CDE43646B18045F950AE191373"
+      ],
+      "parentId": "8BCEC9A6234F405C84DDE66C3316A2F0"
+    },
+    "8BCEC9A6234F405C84DDE66C3316A2F0": {
+      "id": "8BCEC9A6234F405C84DDE66C3316A2F0",
+      "asnIdentifier": "S2634961",
+      "position": 5000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Analyze patterns and relationships.",
+      "ancestorIds": [
+        "E857C6CDE43646B18045F950AE191373"
+      ],
+      "parentId": "E857C6CDE43646B18045F950AE191373"
+    },
+    "E04294CAADB643A8803ACE3897EF86B3": {
+      "asnIdentifier": "S2634960",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "MGSE5.OA.2",
+      "statementLabel": "Standard",
+      "description": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. For example, express the calculation \"add 8 and 7, then multiply by 2\" as 2 × (8 + 7). Recognize that 3 × (18932 + 921) is three times as large as 18932 + 921, without having to calculate the indicated sum or product.",
+      "id": "E04294CAADB643A8803ACE3897EF86B3",
+      "ancestorIds": [
+        "15C0831F63294C24912B3A261964106F",
+        "E857C6CDE43646B18045F950AE191373"
+      ],
+      "parentId": "15C0831F63294C24912B3A261964106F"
+    },
+    "230B2660E39143A58ABA53F69EFCB22F": {
+      "statementNotation": "MGSE5.OA.1",
+      "statementLabel": "Standard",
+      "description": "Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
+      "id": "230B2660E39143A58ABA53F69EFCB22F",
+      "asnIdentifier": "S2634959",
+      "position": 3000,
+      "depth": 2,
+      "ancestorIds": [
+        "15C0831F63294C24912B3A261964106F",
+        "E857C6CDE43646B18045F950AE191373"
+      ],
+      "parentId": "15C0831F63294C24912B3A261964106F"
+    },
+    "15C0831F63294C24912B3A261964106F": {
+      "id": "15C0831F63294C24912B3A261964106F",
+      "asnIdentifier": "S2634958",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Write and interpret numerical expressions.",
+      "ancestorIds": [
+        "E857C6CDE43646B18045F950AE191373"
+      ],
+      "parentId": "E857C6CDE43646B18045F950AE191373"
+    },
+    "E857C6CDE43646B18045F950AE191373": {
+      "statementLabel": "Domain",
+      "description": "Operations and Algebraic Thinking",
+      "id": "E857C6CDE43646B18045F950AE191373",
+      "asnIdentifier": "S2634957",
+      "position": 1000,
+      "depth": 0,
+      "statementNotation": "5.OA",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

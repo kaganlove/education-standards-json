@@ -1,0 +1,515 @@
+{
+  "id": "27D1AF28D2F54DD3A69C057DDA772BD0_D2956024_grades-09-10-11-12",
+  "title": "Foundations (9-12)",
+  "subject": "Computer Science (2017-)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2956024",
+    "valid": "2017",
+    "title": "Computer Science Foundations",
+    "sourceURL": "http://www.doe.virginia.gov/testing/sol/standards_docs/computer-science/2017/stds_compsci_csf.pdf",
+    "asnIdentifier": "D2956024",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "27D1AF28D2F54DD3A69C057DDA772BD0",
+    "title": "Virginia"
+  },
+  "standards": {
+    "3ED06BDC542E4B44868E256CD920CFEC": {
+      "id": "3ED06BDC542E4B44868E256CD920CFEC",
+      "asnIdentifier": "S2963304",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "CSF.25",
+      "statementLabel": "Standard",
+      "description": "The student will explain the privacy concerns related to the collection and generation of data through automated processes that are not always evident to users.",
+      "ancestorIds": [
+        "C90847DBD63C4C07B68643E93650BC13"
+      ],
+      "parentId": "C90847DBD63C4C07B68643E93650BC13"
+    },
+    "D47C1D0614034A7DB79D2F6F4A66F168": {
+      "id": "D47C1D0614034A7DB79D2F6F4A66F168",
+      "asnIdentifier": "S2963303",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "CSF.24",
+      "statementLabel": "Standard",
+      "description": "The student will explain the beneficial and harmful effects that intellectual property laws can have on innovation, including the impact of open source software.",
+      "ancestorIds": [
+        "C90847DBD63C4C07B68643E93650BC13"
+      ],
+      "parentId": "C90847DBD63C4C07B68643E93650BC13"
+    },
+    "D01B57AFD0024D0C809C42DEB16CE317": {
+      "id": "D01B57AFD0024D0C809C42DEB16CE317",
+      "asnIdentifier": "S2963302",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "CSF.23",
+      "statementLabel": "Standard",
+      "description": "The student will evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",
+      "ancestorIds": [
+        "C90847DBD63C4C07B68643E93650BC13"
+      ],
+      "parentId": "C90847DBD63C4C07B68643E93650BC13"
+    },
+    "5FF49C2816F7437E8691778446016C6E": {
+      "id": "5FF49C2816F7437E8691778446016C6E",
+      "asnIdentifier": "S2963301",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "CSF.22",
+      "statementLabel": "Standard",
+      "description": "The student will use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.",
+      "ancestorIds": [
+        "C90847DBD63C4C07B68643E93650BC13"
+      ],
+      "parentId": "C90847DBD63C4C07B68643E93650BC13"
+    },
+    "C90847DBD63C4C07B68643E93650BC13": {
+      "id": "C90847DBD63C4C07B68643E93650BC13",
+      "asnIdentifier": "S2963300",
+      "position": 34000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Impacts of Computing",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9A651ED7761644DF8FB8FA8B02CA0273": {
+      "id": "9A651ED7761644DF8FB8FA8B02CA0273",
+      "asnIdentifier": "S2963299",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "CSF.21.b",
+      "statementLabel": "Standard",
+      "description": "using version control to create and refine programs.",
+      "ancestorIds": [
+        "2A8CC8E59E544EFD94D70F47BD9C3CDF",
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "2A8CC8E59E544EFD94D70F47BD9C3CDF"
+    },
+    "3ACBC2A92CD44E7CAEA74DB872569473": {
+      "id": "3ACBC2A92CD44E7CAEA74DB872569473",
+      "asnIdentifier": "S2963298",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "CSF.21.a",
+      "statementLabel": "Standard",
+      "description": "demonstrating an understanding that program development is an ongoing process that requires adjusting and debugging along the way; and",
+      "ancestorIds": [
+        "2A8CC8E59E544EFD94D70F47BD9C3CDF",
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "2A8CC8E59E544EFD94D70F47BD9C3CDF"
+    },
+    "2A8CC8E59E544EFD94D70F47BD9C3CDF": {
+      "id": "2A8CC8E59E544EFD94D70F47BD9C3CDF",
+      "asnIdentifier": "S2963297",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "CSF.21",
+      "statementLabel": "Standard",
+      "description": "The student will create programs",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "31731198507845C28D6784E600935480": {
+      "id": "31731198507845C28D6784E600935480",
+      "asnIdentifier": "S2963296",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "CSF.20",
+      "statementLabel": "Standard",
+      "description": "The student will apply simple algorithms to a collection of data.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "DCA928FFA0394E35926CEB0AD4FA11E7": {
+      "id": "DCA928FFA0394E35926CEB0AD4FA11E7",
+      "asnIdentifier": "S2963295",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "CSF.19",
+      "statementLabel": "Standard",
+      "description": "The student will use predefined functions to simplify the solution of a complex problem.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "F3FC64212677428AB6A327BCFEE928D9": {
+      "id": "F3FC64212677428AB6A327BCFEE928D9",
+      "asnIdentifier": "S2963294",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "CSF.18",
+      "statementLabel": "Standard",
+      "description": "The student will apply the basic operations used with numeric and non-numeric data types in developing programs.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "FA9693A501994DC59B78CFD79F0487F5": {
+      "id": "FA9693A501994DC59B78CFD79F0487F5",
+      "asnIdentifier": "S2963293",
+      "position": 27000,
+      "depth": 1,
+      "statementNotation": "CSF.17",
+      "statementLabel": "Standard",
+      "description": "The student will trace the execution of an algorithm, illustrating output and changes in values of named variables.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "F5C85F0EA2EE4BE29575CD8C2BD5FF3B": {
+      "id": "F5C85F0EA2EE4BE29575CD8C2BD5FF3B",
+      "asnIdentifier": "S2963292",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "CSF.16",
+      "statementLabel": "Standard",
+      "description": "The student will implement a program that accepts input values, stores them in appropriately named variables, and produces output.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "FBB48613035A4151B1A25DF438D3B462": {
+      "id": "FBB48613035A4151B1A25DF438D3B462",
+      "asnIdentifier": "S2963291",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "CSF.15.c",
+      "statementLabel": "Standard",
+      "description": "iteration.",
+      "ancestorIds": [
+        "A8E986110D674BF592291D6D62093DBF",
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "A8E986110D674BF592291D6D62093DBF"
+    },
+    "8D70ECDD174D489BB2D7257FD6A2FC1F": {
+      "id": "8D70ECDD174D489BB2D7257FD6A2FC1F",
+      "asnIdentifier": "S2963290",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "CSF.15.b",
+      "statementLabel": "Standard",
+      "description": "conditional execution; and",
+      "ancestorIds": [
+        "A8E986110D674BF592291D6D62093DBF",
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "A8E986110D674BF592291D6D62093DBF"
+    },
+    "91D534656FEA43BC988578CF9A144B7E": {
+      "id": "91D534656FEA43BC988578CF9A144B7E",
+      "asnIdentifier": "S2963289",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "CSF.15.a",
+      "statementLabel": "Standard",
+      "description": "sequencing of instructions;",
+      "ancestorIds": [
+        "A8E986110D674BF592291D6D62093DBF",
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "A8E986110D674BF592291D6D62093DBF"
+    },
+    "A8E986110D674BF592291D6D62093DBF": {
+      "id": "A8E986110D674BF592291D6D62093DBF",
+      "asnIdentifier": "S2963288",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "CSF.15",
+      "statementLabel": "Standard",
+      "description": "The student will design and implement algorithms using",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "7B18EA063E8A47A09F1204ED922D2B46": {
+      "id": "7B18EA063E8A47A09F1204ED922D2B46",
+      "asnIdentifier": "S2963287",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "CSF.14",
+      "statementLabel": "Standard",
+      "description": "The student will design and iteratively develop programs for practical intent or personal expression, incorporating feedback from users.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "DC01A6DC8AAB4340932DA09A9B64A982": {
+      "id": "DC01A6DC8AAB4340932DA09A9B64A982",
+      "asnIdentifier": "S2963286",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "CSF.13",
+      "statementLabel": "Standard",
+      "description": "The student will identify the expected output of a program given a problem and some input.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "A2EC57D3A51946CABC4A43D5AFABA1EC": {
+      "id": "A2EC57D3A51946CABC4A43D5AFABA1EC",
+      "asnIdentifier": "S2963285",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "CSF.12",
+      "statementLabel": "Standard",
+      "description": "The student will develop a program working individually and in teams using a text-based language.",
+      "ancestorIds": [
+        "5614E47EF317429290678A5A04BBFD5D"
+      ],
+      "parentId": "5614E47EF317429290678A5A04BBFD5D"
+    },
+    "5614E47EF317429290678A5A04BBFD5D": {
+      "id": "5614E47EF317429290678A5A04BBFD5D",
+      "asnIdentifier": "S2963284",
+      "position": 18000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Algorithms and Programming",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2A61620E8F224D2D8BD5ACCA3E93F6A6": {
+      "id": "2A61620E8F224D2D8BD5ACCA3E93F6A6",
+      "asnIdentifier": "S2963283",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "CSF.11",
+      "statementLabel": "Standard",
+      "description": "The student will use data analysis tools and techniques to identify patterns in data representing complex systems.",
+      "ancestorIds": [
+        "16F2F076F4EE408CBF13E46DEF5A5855"
+      ],
+      "parentId": "16F2F076F4EE408CBF13E46DEF5A5855"
+    },
+    "ACD809394FDF411C94AC972F7F74FAD5": {
+      "id": "ACD809394FDF411C94AC972F7F74FAD5",
+      "asnIdentifier": "S2963282",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "CSF.10",
+      "statementLabel": "Standard",
+      "description": "The student will create interactive data visualizations using software tools to help others better understand real-world phenomena.",
+      "ancestorIds": [
+        "16F2F076F4EE408CBF13E46DEF5A5855"
+      ],
+      "parentId": "16F2F076F4EE408CBF13E46DEF5A5855"
+    },
+    "52ACF44EE66E417288FF5D871141D241": {
+      "id": "52ACF44EE66E417288FF5D871141D241",
+      "asnIdentifier": "S2963281",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "CSF.9",
+      "statementLabel": "Standard",
+      "description": "The student will evaluate the tradeoffs in how data elements are organized and where data is stored.",
+      "ancestorIds": [
+        "16F2F076F4EE408CBF13E46DEF5A5855"
+      ],
+      "parentId": "16F2F076F4EE408CBF13E46DEF5A5855"
+    },
+    "16F2F076F4EE408CBF13E46DEF5A5855": {
+      "id": "16F2F076F4EE408CBF13E46DEF5A5855",
+      "asnIdentifier": "S2963280",
+      "position": 14000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Data and Analysis",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5D9D552AEFDD443D974BEF9BF00D6554": {
+      "id": "5D9D552AEFDD443D974BEF9BF00D6554",
+      "asnIdentifier": "S2963279",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "CSF.8",
+      "statementLabel": "Standard",
+      "description": "The student will write or adapt a program to validate its input and to avoid certain kinds of vulnerabilities.",
+      "ancestorIds": [
+        "5A6CC7AD09C146178ECB2EEF58803A05"
+      ],
+      "parentId": "5A6CC7AD09C146178ECB2EEF58803A05"
+    },
+    "9967D32D068043E0864912589422EF27": {
+      "id": "9967D32D068043E0864912589422EF27",
+      "asnIdentifier": "S2963278",
+      "position": 12000,
+      "depth": 1,
+      "statementNotation": "CSF.7",
+      "statementLabel": "Standard",
+      "description": "The student will explain typical tradeoffs between usability and security and recommend security measures in a given scenario based on these (or other) tradeoffs.",
+      "ancestorIds": [
+        "5A6CC7AD09C146178ECB2EEF58803A05"
+      ],
+      "parentId": "5A6CC7AD09C146178ECB2EEF58803A05"
+    },
+    "FFDE44B83FFF45338FA9372FBD0BBCCD": {
+      "id": "FFDE44B83FFF45338FA9372FBD0BBCCD",
+      "asnIdentifier": "S2963277",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "CSF.6",
+      "statementLabel": "Standard",
+      "description": "The student will give examples of ways to protect sensitive data (assets) from malware and other computer attacks and evaluate them according to multiple criteria.",
+      "ancestorIds": [
+        "5A6CC7AD09C146178ECB2EEF58803A05"
+      ],
+      "parentId": "5A6CC7AD09C146178ECB2EEF58803A05"
+    },
+    "50B23D1E1A0E4ED7B8B842623ACCFFBD": {
+      "id": "50B23D1E1A0E4ED7B8B842623ACCFFBD",
+      "asnIdentifier": "S2963276",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "CSF.5",
+      "statementLabel": "Standard",
+      "description": "The student will identify and explain ways that sensitive data (assets) can be threatened by malware and other computer attacks, using appropriate terminology.",
+      "ancestorIds": [
+        "5A6CC7AD09C146178ECB2EEF58803A05"
+      ],
+      "parentId": "5A6CC7AD09C146178ECB2EEF58803A05"
+    },
+    "5A6CC7AD09C146178ECB2EEF58803A05": {
+      "id": "5A6CC7AD09C146178ECB2EEF58803A05",
+      "asnIdentifier": "S2963275",
+      "position": 9000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Cybersecurity",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "682397246E824511ABF53B8DF7BB472F": {
+      "id": "682397246E824511ABF53B8DF7BB472F",
+      "asnIdentifier": "S2963274",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "CSF.4",
+      "statementLabel": "Standard",
+      "description": "The student will evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology and addressing.",
+      "ancestorIds": [
+        "D1A337E825604EF58031142DD61B5C57"
+      ],
+      "parentId": "D1A337E825604EF58031142DD61B5C57"
+    },
+    "C8E78F88A99047D4B3542C9BB32465D6": {
+      "id": "C8E78F88A99047D4B3542C9BB32465D6",
+      "asnIdentifier": "S2963273",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "CSF.3",
+      "statementLabel": "Standard",
+      "description": "The student will explain the role of protocols in transmitting data across networks and the Internet.",
+      "ancestorIds": [
+        "D1A337E825604EF58031142DD61B5C57"
+      ],
+      "parentId": "D1A337E825604EF58031142DD61B5C57"
+    },
+    "B6FC5BA25D414E3CB81E636291191195": {
+      "id": "B6FC5BA25D414E3CB81E636291191195",
+      "asnIdentifier": "S2963272",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "CSF.2",
+      "statementLabel": "Standard",
+      "description": "The student will model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the Internet, and reassembled at the destination.",
+      "ancestorIds": [
+        "D1A337E825604EF58031142DD61B5C57"
+      ],
+      "parentId": "D1A337E825604EF58031142DD61B5C57"
+    },
+    "D1A337E825604EF58031142DD61B5C57": {
+      "id": "D1A337E825604EF58031142DD61B5C57",
+      "asnIdentifier": "S2963271",
+      "position": 5000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Networks and the Internet",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "943728EEC8D94DC9B444A3A7198C0C15": {
+      "id": "943728EEC8D94DC9B444A3A7198C0C15",
+      "asnIdentifier": "S2963270",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "CSF.1.b",
+      "statementLabel": "Standard",
+      "description": "explore the relationship between hardware and software using the Internet of Things.",
+      "ancestorIds": [
+        "D1FC1DDDE6C64DC28E47A5814CD9EFE5",
+        "68DEFE302A3D48C0B923450CBA828D71"
+      ],
+      "parentId": "D1FC1DDDE6C64DC28E47A5814CD9EFE5"
+    },
+    "CE1443FBC7BF4D2FA387A4BCB5C6587D": {
+      "id": "CE1443FBC7BF4D2FA387A4BCB5C6587D",
+      "asnIdentifier": "S2963269",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "CSF.1.a",
+      "statementLabel": "Standard",
+      "description": "compare the structures, functions, and interactions between application software, system software, and hardware; and",
+      "ancestorIds": [
+        "D1FC1DDDE6C64DC28E47A5814CD9EFE5",
+        "68DEFE302A3D48C0B923450CBA828D71"
+      ],
+      "parentId": "D1FC1DDDE6C64DC28E47A5814CD9EFE5"
+    },
+    "D1FC1DDDE6C64DC28E47A5814CD9EFE5": {
+      "id": "D1FC1DDDE6C64DC28E47A5814CD9EFE5",
+      "asnIdentifier": "S2963268",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "CSF.1",
+      "statementLabel": "Standard",
+      "description": "The student will",
+      "ancestorIds": [
+        "68DEFE302A3D48C0B923450CBA828D71"
+      ],
+      "parentId": "68DEFE302A3D48C0B923450CBA828D71"
+    },
+    "68DEFE302A3D48C0B923450CBA828D71": {
+      "id": "68DEFE302A3D48C0B923450CBA828D71",
+      "asnIdentifier": "S2963267",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Computing Systems",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

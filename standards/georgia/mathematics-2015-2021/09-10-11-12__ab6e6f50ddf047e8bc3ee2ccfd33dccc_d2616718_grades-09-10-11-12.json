@@ -1,0 +1,877 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2616718_grades-09-10-11-12",
+  "title": "Geometry",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated",
+    "title": "CC BY 3.0 US"
+  },
+  "document": {
+    "sourceURL": "https://www.georgiastandards.org/Common-Core/Documents/Geometry-Standards.pdf",
+    "asnIdentifier": "D2616718",
+    "publicationStatus": "Deprecated",
+    "id": "D2616718",
+    "valid": "2015",
+    "title": "Mathematics Georgia Standards of Excellence - Geometry"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "9139A2B5BB0E445D8741FBEDFF3976CA": {
+      "asnIdentifier": "S2616961",
+      "position": 68000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.7",
+      "description": "Apply the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B), and interpret the answers in context.",
+      "id": "9139A2B5BB0E445D8741FBEDFF3976CA",
+      "ancestorIds": [
+        "66891F1761324D729368DC881AC387E1",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "66891F1761324D729368DC881AC387E1"
+    },
+    "998ED87032D74C54B26B4B466C9A79EF": {
+      "id": "998ED87032D74C54B26B4B466C9A79EF",
+      "asnIdentifier": "S2616960",
+      "position": 67000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.6",
+      "description": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in context.",
+      "ancestorIds": [
+        "66891F1761324D729368DC881AC387E1",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "66891F1761324D729368DC881AC387E1"
+    },
+    "66891F1761324D729368DC881AC387E1": {
+      "id": "66891F1761324D729368DC881AC387E1",
+      "asnIdentifier": "S2616959",
+      "position": 66000,
+      "depth": 1,
+      "description": "Use the rules of probability to compute probabilities of compound events in a uniform probability model",
+      "ancestorIds": [
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "5D92F1FAC991466D9861C463A2EC64A6"
+    },
+    "03822E5B48854D4198CA8EA104A7488D": {
+      "statementNotation": "MGSE9-12.S.CP.5",
+      "description": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.",
+      "comments": [
+        "For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer."
+      ],
+      "id": "03822E5B48854D4198CA8EA104A7488D",
+      "asnIdentifier": "S2616958",
+      "position": 65000,
+      "depth": 2,
+      "ancestorIds": [
+        "C5799B351E454C5D8EA85D60291B83BE",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "C5799B351E454C5D8EA85D60291B83BE"
+    },
+    "A5D540624A2D467DBFC261D237C4501B": {
+      "statementNotation": "MGSE9-12.S.CP.4",
+      "description": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities.",
+      "comments": [
+        "For example, use collected data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results."
+      ],
+      "id": "A5D540624A2D467DBFC261D237C4501B",
+      "asnIdentifier": "S2616957",
+      "position": 64000,
+      "depth": 2,
+      "ancestorIds": [
+        "C5799B351E454C5D8EA85D60291B83BE",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "C5799B351E454C5D8EA85D60291B83BE"
+    },
+    "8D46778B04334DA482E310756CF48142": {
+      "statementNotation": "MGSE9-12.S.CP.3",
+      "description": "Understand the conditional probability of A given B as P (A and B)/P(B). Interpret independence of A and B in terms of conditional probability; that is the conditional probability of A given B is the same as the probability of A and the conditional probability of B given A is the same as the probability of B.",
+      "id": "8D46778B04334DA482E310756CF48142",
+      "asnIdentifier": "S2616956",
+      "position": 63000,
+      "depth": 2,
+      "ancestorIds": [
+        "C5799B351E454C5D8EA85D60291B83BE",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "C5799B351E454C5D8EA85D60291B83BE"
+    },
+    "8D244D9EFE2F4DA2ADBC4BDA5439B824": {
+      "description": "Understand that if two events A and B are independent, the probability of A and B occurring together is the product of their probabilities, and that if the probability of two events A and B occurring together is the product of their probabilities, the two events are independent.",
+      "id": "8D244D9EFE2F4DA2ADBC4BDA5439B824",
+      "asnIdentifier": "S2616955",
+      "position": 62000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.2",
+      "ancestorIds": [
+        "C5799B351E454C5D8EA85D60291B83BE",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "C5799B351E454C5D8EA85D60291B83BE"
+    },
+    "E7EC859305274CBCAFC26DC6E3068339": {
+      "description": "Describe categories of events as subsets of a sample space using unions, intersections, or complements of other events (or, and, not).",
+      "id": "E7EC859305274CBCAFC26DC6E3068339",
+      "asnIdentifier": "S2616954",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.1",
+      "ancestorIds": [
+        "C5799B351E454C5D8EA85D60291B83BE",
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "C5799B351E454C5D8EA85D60291B83BE"
+    },
+    "C5799B351E454C5D8EA85D60291B83BE": {
+      "description": "Understand independence and conditional probability and use them to interpret data",
+      "id": "C5799B351E454C5D8EA85D60291B83BE",
+      "asnIdentifier": "S2616953",
+      "position": 60000,
+      "depth": 1,
+      "ancestorIds": [
+        "5D92F1FAC991466D9861C463A2EC64A6"
+      ],
+      "parentId": "5D92F1FAC991466D9861C463A2EC64A6"
+    },
+    "5D92F1FAC991466D9861C463A2EC64A6": {
+      "description": "Conditional Probability and the Rules of Probability",
+      "id": "5D92F1FAC991466D9861C463A2EC64A6",
+      "asnIdentifier": "S2616952",
+      "position": 59000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6D6BD221525747A1B8DC6D6758A84F57": {
+      "statementNotation": "MGSE9-12.G.MG.3",
+      "description": "Apply geometric methods to solve design problems",
+      "comments": [
+        "e.g., designing an object or structure to satisfy physical constraints or minimize cost; working with typographic grid systems based on ratios"
+      ],
+      "id": "6D6BD221525747A1B8DC6D6758A84F57",
+      "asnIdentifier": "S2616951",
+      "position": 58000,
+      "depth": 2,
+      "ancestorIds": [
+        "F3E5184CBD32435B932A6176E18C416B",
+        "AAEC6CF282EC4497A0AD475173986A5A"
+      ],
+      "parentId": "F3E5184CBD32435B932A6176E18C416B"
+    },
+    "4EA20C65C3F447B294D6A1E78E383A50": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.MG.2",
+      "description": "Apply concepts of density based on area and volume in modeling situations",
+      "comments": [
+        "e.g., persons per square mile, BTUs per cubic foot"
+      ],
+      "id": "4EA20C65C3F447B294D6A1E78E383A50",
+      "asnIdentifier": "S2616950",
+      "position": 57000,
+      "ancestorIds": [
+        "F3E5184CBD32435B932A6176E18C416B",
+        "AAEC6CF282EC4497A0AD475173986A5A"
+      ],
+      "parentId": "F3E5184CBD32435B932A6176E18C416B"
+    },
+    "E7EEF836ADF645BA9357D7F56F97D66A": {
+      "comments": [
+        "e.g., modeling a tree trunk or a human torso as a cylinder"
+      ],
+      "id": "E7EEF836ADF645BA9357D7F56F97D66A",
+      "asnIdentifier": "S2616949",
+      "position": 56000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.MG.1",
+      "description": "Use geometric shapes, their measures, and their properties to describe objects",
+      "ancestorIds": [
+        "F3E5184CBD32435B932A6176E18C416B",
+        "AAEC6CF282EC4497A0AD475173986A5A"
+      ],
+      "parentId": "F3E5184CBD32435B932A6176E18C416B"
+    },
+    "F3E5184CBD32435B932A6176E18C416B": {
+      "depth": 1,
+      "description": "Apply geometric concepts in modeling situations",
+      "id": "F3E5184CBD32435B932A6176E18C416B",
+      "asnIdentifier": "S2616948",
+      "position": 55000,
+      "ancestorIds": [
+        "AAEC6CF282EC4497A0AD475173986A5A"
+      ],
+      "parentId": "AAEC6CF282EC4497A0AD475173986A5A"
+    },
+    "AAEC6CF282EC4497A0AD475173986A5A": {
+      "id": "AAEC6CF282EC4497A0AD475173986A5A",
+      "asnIdentifier": "S2616947",
+      "position": 54000,
+      "depth": 0,
+      "description": "Modeling with Geometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3508140A16DB409FBA26E93FB9917BAB": {
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.4",
+      "description": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+      "id": "3508140A16DB409FBA26E93FB9917BAB",
+      "asnIdentifier": "S2616946",
+      "ancestorIds": [
+        "F05CA339C23646AAB3D50030F46D26F3",
+        "78A75A0EDE92404191284BB7D55B8656"
+      ],
+      "parentId": "F05CA339C23646AAB3D50030F46D26F3"
+    },
+    "F05CA339C23646AAB3D50030F46D26F3": {
+      "depth": 1,
+      "description": "Visualize relationships between two-dimensional and three-dimensional objects",
+      "id": "F05CA339C23646AAB3D50030F46D26F3",
+      "asnIdentifier": "S2616945",
+      "position": 52000,
+      "ancestorIds": [
+        "78A75A0EDE92404191284BB7D55B8656"
+      ],
+      "parentId": "78A75A0EDE92404191284BB7D55B8656"
+    },
+    "C4A2238645E14D2392D3B6BB222CE5AA": {
+      "description": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+      "id": "C4A2238645E14D2392D3B6BB222CE5AA",
+      "asnIdentifier": "S2616944",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.3",
+      "ancestorIds": [
+        "3DB550FE0F5C4A7A8F9E81A10EA7E573",
+        "78A75A0EDE92404191284BB7D55B8656"
+      ],
+      "parentId": "3DB550FE0F5C4A7A8F9E81A10EA7E573"
+    },
+    "652A752401B54EB585981DC06C33CE45": {
+      "description": "Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures.",
+      "id": "652A752401B54EB585981DC06C33CE45",
+      "asnIdentifier": "S2616943",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.2",
+      "ancestorIds": [
+        "3DB550FE0F5C4A7A8F9E81A10EA7E573",
+        "78A75A0EDE92404191284BB7D55B8656"
+      ],
+      "parentId": "3DB550FE0F5C4A7A8F9E81A10EA7E573"
+    },
+    "8DD178044CD14E4F8C8F9F0F06FBACE4": {
+      "id": "8DD178044CD14E4F8C8F9F0F06FBACE4",
+      "asnIdentifier": "S2616942",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.1",
+      "description": "Give informal arguments for geometric formulas.<ol type=\"a\"><li>Give informal arguments for the formulas of the circumference of a circle and area of a circle using dissection arguments and informal limit arguments.</li><li>Give informal arguments for the formula of the volume of a cylinder, pyramid, and cone using Cavalieri's principle.</li></ol>",
+      "ancestorIds": [
+        "3DB550FE0F5C4A7A8F9E81A10EA7E573",
+        "78A75A0EDE92404191284BB7D55B8656"
+      ],
+      "parentId": "3DB550FE0F5C4A7A8F9E81A10EA7E573"
+    },
+    "3DB550FE0F5C4A7A8F9E81A10EA7E573": {
+      "id": "3DB550FE0F5C4A7A8F9E81A10EA7E573",
+      "asnIdentifier": "S2616941",
+      "position": 48000,
+      "depth": 1,
+      "description": "Explain volume formulas and use them to solve problems",
+      "ancestorIds": [
+        "78A75A0EDE92404191284BB7D55B8656"
+      ],
+      "parentId": "78A75A0EDE92404191284BB7D55B8656"
+    },
+    "78A75A0EDE92404191284BB7D55B8656": {
+      "depth": 0,
+      "description": "Geometric Measurement and Dimension",
+      "id": "78A75A0EDE92404191284BB7D55B8656",
+      "asnIdentifier": "S2616940",
+      "position": 47000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "836A675503244D5DAAB044DF7E5A0A56": {
+      "asnIdentifier": "S2616939",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.7",
+      "description": "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.",
+      "id": "836A675503244D5DAAB044DF7E5A0A56",
+      "ancestorIds": [
+        "21EAE0135E2E4C488347435A8F0D1378",
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "21EAE0135E2E4C488347435A8F0D1378"
+    },
+    "9B2A270E036448339F4E92E4F20D6221": {
+      "asnIdentifier": "S2616938",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.6",
+      "description": "Find the point on a directed line segment between two given points that partitions the segment in a given ratio.",
+      "id": "9B2A270E036448339F4E92E4F20D6221",
+      "ancestorIds": [
+        "21EAE0135E2E4C488347435A8F0D1378",
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "21EAE0135E2E4C488347435A8F0D1378"
+    },
+    "E2AF962104C24568B3F0F9B05FEAF847": {
+      "comments": [
+        "e.g., find the equation of a line parallel or perpendicular to a given line that passes through a given point"
+      ],
+      "id": "E2AF962104C24568B3F0F9B05FEAF847",
+      "asnIdentifier": "S2616937",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.5",
+      "description": "Prove the slope criteria for parallel and perpendicular lines and use them to solve geometric problems.",
+      "ancestorIds": [
+        "21EAE0135E2E4C488347435A8F0D1378",
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "21EAE0135E2E4C488347435A8F0D1378"
+    },
+    "1DA830421E0844649156E9ADE0D5AF97": {
+      "id": "1DA830421E0844649156E9ADE0D5AF97",
+      "asnIdentifier": "S2616936",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.4",
+      "description": "Use coordinates to prove simple geometric theorems algebraically.",
+      "comments": [
+        "For example, prove or disprove that a figure defined by four given points in the coordinate plane is a rectangle; prove or disprove that the point (1, √3) lies on the circle centered at the origin and containing the point (0,2)."
+      ],
+      "ancestorIds": [
+        "21EAE0135E2E4C488347435A8F0D1378",
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "21EAE0135E2E4C488347435A8F0D1378"
+    },
+    "21EAE0135E2E4C488347435A8F0D1378": {
+      "position": 42000,
+      "depth": 1,
+      "description": "Use coordinates to prove simple geometric theorems algebraically",
+      "id": "21EAE0135E2E4C488347435A8F0D1378",
+      "asnIdentifier": "S2617048",
+      "ancestorIds": [
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+    },
+    "D9C8CF2C917D4A89B74BA85705C4424D": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.1",
+      "description": "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find the center and radius of a circle given by an equation.",
+      "id": "D9C8CF2C917D4A89B74BA85705C4424D",
+      "asnIdentifier": "S2616934",
+      "position": 41000,
+      "ancestorIds": [
+        "AE8B04EB3BDD425D8237DA0E6830B6BC",
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "AE8B04EB3BDD425D8237DA0E6830B6BC"
+    },
+    "AE8B04EB3BDD425D8237DA0E6830B6BC": {
+      "description": "Translate between the geometric description and the equation for a conic section",
+      "id": "AE8B04EB3BDD425D8237DA0E6830B6BC",
+      "asnIdentifier": "S2616933",
+      "position": 40000,
+      "depth": 1,
+      "ancestorIds": [
+        "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+      ],
+      "parentId": "D4E3D01A4B554A0BBBB61C4EAF8CB961"
+    },
+    "D4E3D01A4B554A0BBBB61C4EAF8CB961": {
+      "id": "D4E3D01A4B554A0BBBB61C4EAF8CB961",
+      "asnIdentifier": "S2616932",
+      "position": 39000,
+      "depth": 0,
+      "description": "Expressing Geometric Properties with Equations",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "05DF6B539709461C8DB360B2EC9740B7": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.5",
+      "description": "Derive using similarity the fact that the length of the arc intercepted by an angle is proportional to the radius, and define the radian measure of the angle as the constant of proportionality; derive the formula for the area of a sector.",
+      "id": "05DF6B539709461C8DB360B2EC9740B7",
+      "asnIdentifier": "S2616931",
+      "position": 38000,
+      "ancestorIds": [
+        "A2693D093BDB4DEE9938CA7EC4F1DF59",
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "A2693D093BDB4DEE9938CA7EC4F1DF59"
+    },
+    "A2693D093BDB4DEE9938CA7EC4F1DF59": {
+      "id": "A2693D093BDB4DEE9938CA7EC4F1DF59",
+      "asnIdentifier": "S2616930",
+      "position": 37000,
+      "depth": 1,
+      "description": "Find arc lengths and areas of sectors of circles",
+      "ancestorIds": [
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "0634A1511F974475A390E68B59CA5F6A"
+    },
+    "0662A16750A24702B54EBD1EA9D1A0E6": {
+      "description": "Construct a tangent line from a point outside a given circle to the circle.",
+      "id": "0662A16750A24702B54EBD1EA9D1A0E6",
+      "asnIdentifier": "S2616929",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.4",
+      "ancestorIds": [
+        "13DDC78E57E04B66AF2EC69868C761FB",
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "13DDC78E57E04B66AF2EC69868C761FB"
+    },
+    "F3E1F18E53014866AF5F20558349B49C": {
+      "id": "F3E1F18E53014866AF5F20558349B49C",
+      "asnIdentifier": "S2616928",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.3",
+      "description": "Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle.",
+      "ancestorIds": [
+        "13DDC78E57E04B66AF2EC69868C761FB",
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "13DDC78E57E04B66AF2EC69868C761FB"
+    },
+    "4B73B63614FF484CA269758ED9A1BB52": {
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.2",
+      "description": "Identify and describe relationships among inscribed angles, radii, chords, tangents, and secants. Include the relationship between central, inscribed, and circumscribed angles; inscribed angles on a diameter are right angles; the radius of a circle is perpendicular to the tangent where the radius intersects the circle.",
+      "id": "4B73B63614FF484CA269758ED9A1BB52",
+      "asnIdentifier": "S2616927",
+      "ancestorIds": [
+        "13DDC78E57E04B66AF2EC69868C761FB",
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "13DDC78E57E04B66AF2EC69868C761FB"
+    },
+    "930DA5F17D6C4329AC4374A53F4EFB60": {
+      "id": "930DA5F17D6C4329AC4374A53F4EFB60",
+      "asnIdentifier": "S2616926",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.1",
+      "description": "Understand that all circles are similar.",
+      "ancestorIds": [
+        "13DDC78E57E04B66AF2EC69868C761FB",
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "13DDC78E57E04B66AF2EC69868C761FB"
+    },
+    "13DDC78E57E04B66AF2EC69868C761FB": {
+      "id": "13DDC78E57E04B66AF2EC69868C761FB",
+      "asnIdentifier": "S2616925",
+      "position": 32000,
+      "depth": 1,
+      "description": "Understand and apply theorems about circles",
+      "ancestorIds": [
+        "0634A1511F974475A390E68B59CA5F6A"
+      ],
+      "parentId": "0634A1511F974475A390E68B59CA5F6A"
+    },
+    "0634A1511F974475A390E68B59CA5F6A": {
+      "id": "0634A1511F974475A390E68B59CA5F6A",
+      "asnIdentifier": "S2616924",
+      "position": 31000,
+      "depth": 0,
+      "description": "Circles",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8E62A2870197491C87AD9626F4206F3E": {
+      "id": "8E62A2870197491C87AD9626F4206F3E",
+      "asnIdentifier": "S2616923",
+      "position": 30000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.8",
+      "description": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.",
+      "ancestorIds": [
+        "A9C67248FB4C4FEBA1B801F9FD420D63",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "A9C67248FB4C4FEBA1B801F9FD420D63"
+    },
+    "19A6670E090C4279BC8883FEE95CCD15": {
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.7",
+      "description": "Explain and use the relationship between the sine and cosine of complementary angles.",
+      "id": "19A6670E090C4279BC8883FEE95CCD15",
+      "asnIdentifier": "S2616922",
+      "ancestorIds": [
+        "A9C67248FB4C4FEBA1B801F9FD420D63",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "A9C67248FB4C4FEBA1B801F9FD420D63"
+    },
+    "4F083AF9AED5480C9DFD3B29697AD276": {
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.6",
+      "description": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+      "id": "4F083AF9AED5480C9DFD3B29697AD276",
+      "asnIdentifier": "S2616921",
+      "ancestorIds": [
+        "A9C67248FB4C4FEBA1B801F9FD420D63",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "A9C67248FB4C4FEBA1B801F9FD420D63"
+    },
+    "A9C67248FB4C4FEBA1B801F9FD420D63": {
+      "id": "A9C67248FB4C4FEBA1B801F9FD420D63",
+      "asnIdentifier": "S2616920",
+      "position": 27000,
+      "depth": 1,
+      "description": "Define trigonometric ratios and solve problems involving right triangles",
+      "ancestorIds": [
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "D55CB2159DD14D7084D5EDC04904C78B"
+    },
+    "4CCD2B5413E14FD9BE8C0E509DC8223A": {
+      "id": "4CCD2B5413E14FD9BE8C0E509DC8223A",
+      "asnIdentifier": "S2616919",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.5",
+      "description": "Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures.",
+      "ancestorIds": [
+        "0CFDB5A1A895415E9BC99B2DA79A187F",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "0CFDB5A1A895415E9BC99B2DA79A187F"
+    },
+    "26908F3E2EBF411BAF85A33C9D7B5E55": {
+      "id": "26908F3E2EBF411BAF85A33C9D7B5E55",
+      "asnIdentifier": "S2616918",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.4",
+      "description": "Prove theorems about triangles. Theorems include: a line parallel to one side of a triangle divides the other two proportionally, (and its converse); the Pythagorean Theorem using triangle similarity.",
+      "ancestorIds": [
+        "0CFDB5A1A895415E9BC99B2DA79A187F",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "0CFDB5A1A895415E9BC99B2DA79A187F"
+    },
+    "0CFDB5A1A895415E9BC99B2DA79A187F": {
+      "description": "Prove theorems involving similarity",
+      "id": "0CFDB5A1A895415E9BC99B2DA79A187F",
+      "asnIdentifier": "S2616917",
+      "position": 24000,
+      "depth": 1,
+      "ancestorIds": [
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "D55CB2159DD14D7084D5EDC04904C78B"
+    },
+    "82191E5FA743475EBB74AD7C9BC7AC81": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.3",
+      "description": "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.",
+      "id": "82191E5FA743475EBB74AD7C9BC7AC81",
+      "asnIdentifier": "S2616916",
+      "position": 23000,
+      "ancestorIds": [
+        "71F2EE1D10464E65861C489C9101BC8D",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "71F2EE1D10464E65861C489C9101BC8D"
+    },
+    "359B12D9F32D40CDA9162D65A6AD81DF": {
+      "id": "359B12D9F32D40CDA9162D65A6AD81DF",
+      "asnIdentifier": "S2616915",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.2",
+      "description": "Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar; explain, using similarity transformations, the meaning of similarity for triangles as the equality of all corresponding pairs of angles and the proportionality of all corresponding pairs of sides.",
+      "ancestorIds": [
+        "71F2EE1D10464E65861C489C9101BC8D",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "71F2EE1D10464E65861C489C9101BC8D"
+    },
+    "B9B04841A3E94404A7AC5E94F7DC315A": {
+      "id": "B9B04841A3E94404A7AC5E94F7DC315A",
+      "asnIdentifier": "S2616914",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.1",
+      "description": "Verify experimentally the properties of dilations given by a center and a scale factor.<ol type=\"a\"><li>The dilation of a line not passing through the center of the dilation results in a parallel line and leaves a line passing through the center unchanged.</li><li>The dilation of a line segment is longer or shorter according to the ratio given by the scale factor.</li></ol>",
+      "ancestorIds": [
+        "71F2EE1D10464E65861C489C9101BC8D",
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "71F2EE1D10464E65861C489C9101BC8D"
+    },
+    "71F2EE1D10464E65861C489C9101BC8D": {
+      "id": "71F2EE1D10464E65861C489C9101BC8D",
+      "asnIdentifier": "S2616913",
+      "position": 20000,
+      "depth": 1,
+      "description": "Understand similarity in terms of similarity transformations",
+      "ancestorIds": [
+        "D55CB2159DD14D7084D5EDC04904C78B"
+      ],
+      "parentId": "D55CB2159DD14D7084D5EDC04904C78B"
+    },
+    "D55CB2159DD14D7084D5EDC04904C78B": {
+      "id": "D55CB2159DD14D7084D5EDC04904C78B",
+      "asnIdentifier": "S2616912",
+      "position": 19000,
+      "depth": 0,
+      "description": "Similarity, Right Triangles, and Trigonometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A5209275741248139927FE9AEB52F349": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.13",
+      "description": "Construct an equilateral triangle, a square, and a regular hexagon, each inscribed in a circle.",
+      "id": "A5209275741248139927FE9AEB52F349",
+      "asnIdentifier": "S2616911",
+      "position": 18000,
+      "ancestorIds": [
+        "79A7CB933D8241D3BA9BEE72EBD352FD",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "79A7CB933D8241D3BA9BEE72EBD352FD"
+    },
+    "55AB55DF915345B995F47BAA00CD2A87": {
+      "id": "55AB55DF915345B995F47BAA00CD2A87",
+      "asnIdentifier": "S2616910",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.12",
+      "description": "Make formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.). Copying a segment; copying an angle; bisecting a segment; bisecting an angle; constructing perpendicular lines, including the perpendicular bisector of a line segment; and constructing a line parallel to a given line through a point not on the line.",
+      "ancestorIds": [
+        "79A7CB933D8241D3BA9BEE72EBD352FD",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "79A7CB933D8241D3BA9BEE72EBD352FD"
+    },
+    "79A7CB933D8241D3BA9BEE72EBD352FD": {
+      "id": "79A7CB933D8241D3BA9BEE72EBD352FD",
+      "asnIdentifier": "S2616909",
+      "position": 16000,
+      "depth": 1,
+      "description": "Make geometric constructions",
+      "ancestorIds": [
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "9B70291F5D2E47E58A625656C67C3066"
+    },
+    "9547339043174459B9F0FA65FEB15FBC": {
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.11",
+      "description": "Prove theorems about parallelograms. Theorems include: opposite sides are congruent, opposite angles are congruent, the diagonals of a parallelogram bisect each other, and conversely, rectangles are parallelograms with congruent diagonals.",
+      "id": "9547339043174459B9F0FA65FEB15FBC",
+      "asnIdentifier": "S2616908",
+      "ancestorIds": [
+        "95CDF584261742D3A4E78F25EACE1125",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "95CDF584261742D3A4E78F25EACE1125"
+    },
+    "F63F03C574BD44E1BC84E6F67783705B": {
+      "description": "Prove theorems about triangles. Theorems include: measures of interior angles of a triangle sum to 180 degrees; base angles of isosceles triangles are congruent; the segment joining midpoints of two sides of a triangle is parallel to the third side and half the length; the medians of a triangle meet at a point.",
+      "id": "F63F03C574BD44E1BC84E6F67783705B",
+      "asnIdentifier": "S2616907",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.10",
+      "ancestorIds": [
+        "95CDF584261742D3A4E78F25EACE1125",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "95CDF584261742D3A4E78F25EACE1125"
+    },
+    "DF9C38DCFCE94E99A64B98097318F50F": {
+      "asnIdentifier": "S2616906",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.9",
+      "description": "Prove theorems about lines and angles. Theorems include: vertical angles are congruent; when a transversal crosses parallel lines, alternate interior angles are congruent and corresponding angles are congruent; points on a perpendicular bisector of a line segment are exactly those equidistant from the segment's endpoints.",
+      "id": "DF9C38DCFCE94E99A64B98097318F50F",
+      "ancestorIds": [
+        "95CDF584261742D3A4E78F25EACE1125",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "95CDF584261742D3A4E78F25EACE1125"
+    },
+    "95CDF584261742D3A4E78F25EACE1125": {
+      "description": "Prove geometric theorems",
+      "id": "95CDF584261742D3A4E78F25EACE1125",
+      "asnIdentifier": "S2616905",
+      "position": 12000,
+      "depth": 1,
+      "ancestorIds": [
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "9B70291F5D2E47E58A625656C67C3066"
+    },
+    "AE6F7167CE9C4C35991501F89E11D7AA": {
+      "asnIdentifier": "S2616904",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.8",
+      "description": "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.",
+      "id": "AE6F7167CE9C4C35991501F89E11D7AA",
+      "ancestorIds": [
+        "A85932F29E884F3490F27C9BD8DE6B73",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "A85932F29E884F3490F27C9BD8DE6B73"
+    },
+    "3E20D92BD6BA4F858B52467AFE973A3C": {
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.7",
+      "description": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent if and only if corresponding pairs of sides and corresponding pairs of angles are congruent.",
+      "id": "3E20D92BD6BA4F858B52467AFE973A3C",
+      "asnIdentifier": "S2616903",
+      "ancestorIds": [
+        "A85932F29E884F3490F27C9BD8DE6B73",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "A85932F29E884F3490F27C9BD8DE6B73"
+    },
+    "E3B03B8915A74C8D867CF077BDA7CBFA": {
+      "asnIdentifier": "S2616902",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.6",
+      "description": "Use geometric descriptions of rigid motions to transform figures and to predict the effect of a given rigid motion on a given figure; given two figures, use the definition of congruence in terms of rigid motions to decide if they are congruent.",
+      "id": "E3B03B8915A74C8D867CF077BDA7CBFA",
+      "ancestorIds": [
+        "A85932F29E884F3490F27C9BD8DE6B73",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "A85932F29E884F3490F27C9BD8DE6B73"
+    },
+    "A85932F29E884F3490F27C9BD8DE6B73": {
+      "id": "A85932F29E884F3490F27C9BD8DE6B73",
+      "asnIdentifier": "S2616901",
+      "position": 8000,
+      "depth": 1,
+      "description": "Understand congruence in terms of rigid motions",
+      "ancestorIds": [
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "9B70291F5D2E47E58A625656C67C3066"
+    },
+    "66AD314C45984705BD90671D44622DCF": {
+      "id": "66AD314C45984705BD90671D44622DCF",
+      "asnIdentifier": "S2616900",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.5",
+      "description": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure using, e.g., graph paper, tracing paper, or geometry software. Specify a sequence of transformations that will carry a given figure onto another.",
+      "ancestorIds": [
+        "10E1DFCFB6614CD08A52C176EFFA44BC",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "10E1DFCFB6614CD08A52C176EFFA44BC"
+    },
+    "0EB3B30E0ADB489995A84148FC8E94BF": {
+      "id": "0EB3B30E0ADB489995A84148FC8E94BF",
+      "asnIdentifier": "S2616899",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.4",
+      "description": "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular lines, parallel lines, and line segments.",
+      "ancestorIds": [
+        "10E1DFCFB6614CD08A52C176EFFA44BC",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "10E1DFCFB6614CD08A52C176EFFA44BC"
+    },
+    "200F6F80835243D0BBF1DA4866F50FB7": {
+      "id": "200F6F80835243D0BBF1DA4866F50FB7",
+      "asnIdentifier": "S2616898",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.3",
+      "description": "Given a rectangle, parallelogram, trapezoid, or regular polygon, describe the rotations and reflections that carry it onto itself.",
+      "ancestorIds": [
+        "10E1DFCFB6614CD08A52C176EFFA44BC",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "10E1DFCFB6614CD08A52C176EFFA44BC"
+    },
+    "29D48D002F914F259BF84FAAC11F7394": {
+      "description": "Represent transformations in the plane using, e.g., transparencies and geometry software; describe transformations as functions that take points in the plane as inputs and give other points as outputs. Compare transformations that preserve distance and angle to those that do not (e.g., translation versus horizontal stretch).",
+      "id": "29D48D002F914F259BF84FAAC11F7394",
+      "asnIdentifier": "S2616897",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.2",
+      "ancestorIds": [
+        "10E1DFCFB6614CD08A52C176EFFA44BC",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "10E1DFCFB6614CD08A52C176EFFA44BC"
+    },
+    "832512F0BFE44CDBB1F9E12456C8162F": {
+      "id": "832512F0BFE44CDBB1F9E12456C8162F",
+      "asnIdentifier": "S2616896",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.1",
+      "description": "Know precise definitions of angle, circle, perpendicular line, parallel line, and line segment, based on the undefined notions of point, line, distance along a line, and distance around a circular arc.",
+      "ancestorIds": [
+        "10E1DFCFB6614CD08A52C176EFFA44BC",
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "10E1DFCFB6614CD08A52C176EFFA44BC"
+    },
+    "10E1DFCFB6614CD08A52C176EFFA44BC": {
+      "id": "10E1DFCFB6614CD08A52C176EFFA44BC",
+      "asnIdentifier": "S2616895",
+      "position": 2000,
+      "depth": 1,
+      "description": "Experiment with transformations in the plane",
+      "ancestorIds": [
+        "9B70291F5D2E47E58A625656C67C3066"
+      ],
+      "parentId": "9B70291F5D2E47E58A625656C67C3066"
+    },
+    "9B70291F5D2E47E58A625656C67C3066": {
+      "asnIdentifier": "S2616894",
+      "position": 1000,
+      "depth": 0,
+      "description": "Congruence",
+      "id": "9B70291F5D2E47E58A625656C67C3066",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,931 @@
+{
+  "id": "88D46DB6FFA8435690223E39C0AD4A1E",
+  "title": "Trigonometry",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Mathematics Standards of Learning for Virginia Public Schools",
+    "sourceURL": "https://www.doe.virginia.gov/home/showpublisheddocument/48908/638325354847170000",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "27D1AF28D2F54DD3A69C057DDA772BD0",
+    "title": "Virginia"
+  },
+  "standards": {
+    "0AF7DB8214C245E398636DEEA44B78EF": {
+      "id": "0AF7DB8214C245E398636DEEA44B78EF",
+      "asnIdentifier": null,
+      "position": 1062,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.IE.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Verify and justify algebraic solutions to trigonometric equations and inequalities, using\ngraphing technology.",
+      "comments": [],
+      "ancestorIds": [
+        "EC82F5C54C2645E9AEF56183E69CB653",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "AE0400CECD454ACCB8E894C56CB34803": {
+      "id": "AE0400CECD454ACCB8E894C56CB34803",
+      "asnIdentifier": null,
+      "position": 1061,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.IE.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve trigonometric inequalities algebraically and graphically.",
+      "comments": [],
+      "ancestorIds": [
+        "EC82F5C54C2645E9AEF56183E69CB653",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "2204FF9FA5E74DC3BAD5CD73F91A4920": {
+      "id": "2204FF9FA5E74DC3BAD5CD73F91A4920",
+      "asnIdentifier": null,
+      "position": 1060,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.IE.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve trigonometric equations with and without restricted domains algebraically and\ngraphically.",
+      "comments": [],
+      "ancestorIds": [
+        "EC82F5C54C2645E9AEF56183E69CB653",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "EC82F5C54C2645E9AEF56183E69CB653": {
+      "id": "EC82F5C54C2645E9AEF56183E69CB653",
+      "asnIdentifier": null,
+      "position": 1058,
+      "depth": 1,
+      "listId": "IE.3",
+      "statementNotation": "T.IE.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will solve trigonometric equations and inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "BBAF1BDFC06C44F5951969462F2D6417"
+    },
+    "1F81C3502EDE49458FFD630FFCCB6D8D": {
+      "id": "1F81C3502EDE49458FFD630FFCCB6D8D",
+      "asnIdentifier": null,
+      "position": 1057,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.IE.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the sum, difference, and half-angle identities to evaluate trigonometric function values\nof angles that are not integer multiples of the special angles to solve problems, including\ncontextual situations.",
+      "comments": [],
+      "ancestorIds": [
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "0B060552D3944E69A2B4D1DF008B2C79": {
+      "id": "0B060552D3944E69A2B4D1DF008B2C79",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 4,
+      "listId": "v",
+      "statementNotation": "T.IE.2.a.v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "half-angle identities.",
+      "comments": [],
+      "ancestorIds": [
+        "C34159C8122C49E58EF1E1A24777B3D8",
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "C34159C8122C49E58EF1E1A24777B3D8"
+    },
+    "90C9AD8F36C0432191739B7093DEA8A1": {
+      "id": "90C9AD8F36C0432191739B7093DEA8A1",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 4,
+      "listId": "iv",
+      "statementNotation": "T.IE.2.a.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "double-angle identities; and",
+      "comments": [],
+      "ancestorIds": [
+        "C34159C8122C49E58EF1E1A24777B3D8",
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "C34159C8122C49E58EF1E1A24777B3D8"
+    },
+    "F0CC1E41E5B74DFC8E9E09152765445A": {
+      "id": "F0CC1E41E5B74DFC8E9E09152765445A",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 4,
+      "listId": "iii",
+      "statementNotation": "T.IE.2.a.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "sum and difference identities;",
+      "comments": [],
+      "ancestorIds": [
+        "C34159C8122C49E58EF1E1A24777B3D8",
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "C34159C8122C49E58EF1E1A24777B3D8"
+    },
+    "808D5A94C78E412B996A40FE826E85BC": {
+      "id": "808D5A94C78E412B996A40FE826E85BC",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 4,
+      "listId": "ii",
+      "statementNotation": "T.IE.2.a.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Pythagorean identities;",
+      "comments": [],
+      "ancestorIds": [
+        "C34159C8122C49E58EF1E1A24777B3D8",
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "C34159C8122C49E58EF1E1A24777B3D8"
+    },
+    "A2C7FF776D494695AF04487680BD8874": {
+      "id": "A2C7FF776D494695AF04487680BD8874",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 4,
+      "listId": "i",
+      "statementNotation": "T.IE.2.a.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "reciprocal identities;",
+      "comments": [],
+      "ancestorIds": [
+        "C34159C8122C49E58EF1E1A24777B3D8",
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "C34159C8122C49E58EF1E1A24777B3D8"
+    },
+    "C34159C8122C49E58EF1E1A24777B3D8": {
+      "id": "C34159C8122C49E58EF1E1A24777B3D8",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.IE.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use trigonometric identities to make algebraic substitutions to simplify and verify\ntrigonometric identities. The basic trigonometric identities include ",
+      "comments": [],
+      "ancestorIds": [
+        "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "7047EA6D8D7041E4B8C3FCF5AC50ABB9": {
+      "id": "7047EA6D8D7041E4B8C3FCF5AC50ABB9",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 1,
+      "listId": "IE.2",
+      "statementNotation": "T.IE.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will use basic trigonometric identity substitutions to simplify and verify\ntrigonometric identities.",
+      "comments": [],
+      "ancestorIds": [
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "BBAF1BDFC06C44F5951969462F2D6417"
+    },
+    "F5899D05A0AC4019AA55BEA576067270": {
+      "id": "F5899D05A0AC4019AA55BEA576067270",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.IE.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate composite functions that involve trigonometric functions and inverse trigonometric\nfunctions. ",
+      "comments": [],
+      "ancestorIds": [
+        "69357A60DBB5402A98DFA1FAA87B0385",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "C99C1089E9D64EFA95C4AFAC698C9C47": {
+      "id": "C99C1089E9D64EFA95C4AFAC698C9C47",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.IE.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine angle measures by using the inverse trigonometric functions, with and without a\ngraphing technology. ",
+      "comments": [],
+      "ancestorIds": [
+        "69357A60DBB5402A98DFA1FAA87B0385",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "E7D5DC81535A4B4D9EA48846AB32BAA1": {
+      "id": "E7D5DC81535A4B4D9EA48846AB32BAA1",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.IE.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the values of trigonometric functions, with and without graphing technology.",
+      "comments": [],
+      "ancestorIds": [
+        "69357A60DBB5402A98DFA1FAA87B0385",
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": null
+    },
+    "69357A60DBB5402A98DFA1FAA87B0385": {
+      "id": "69357A60DBB5402A98DFA1FAA87B0385",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 1,
+      "listId": "IE.1",
+      "statementNotation": "T.IE.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will evaluate expressions involving the six trigonometric functions and the\ninverse sine, cosine, and tangent functions. ",
+      "comments": [],
+      "ancestorIds": [
+        "BBAF1BDFC06C44F5951969462F2D6417"
+      ],
+      "parentId": "BBAF1BDFC06C44F5951969462F2D6417"
+    },
+    "BBAF1BDFC06C44F5951969462F2D6417": {
+      "id": "BBAF1BDFC06C44F5951969462F2D6417",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identities and Equations",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "ECC1020484784130BF63C8BC6CDCD393": {
+      "id": "ECC1020484784130BF63C8BC6CDCD393",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.GT.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph inverse trigonometric functions.",
+      "comments": [],
+      "ancestorIds": [
+        "96BEE2998DA84D47A173DF8A63119C21",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "1432D9F3F44A4C6BA033F7F70E19B8EB": {
+      "id": "1432D9F3F44A4C6BA033F7F70E19B8EB",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.GT.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the restrictions on the domain of an inverse trigonometric function to determine a value\nof the inverse trigonometric function.",
+      "comments": [],
+      "ancestorIds": [
+        "96BEE2998DA84D47A173DF8A63119C21",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "1E0C5ECE7D9E40ABA41CFC2D6CA19EF9": {
+      "id": "1E0C5ECE7D9E40ABA41CFC2D6CA19EF9",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.GT.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the domain and range of the inverse trigonometric functions.",
+      "comments": [],
+      "ancestorIds": [
+        "96BEE2998DA84D47A173DF8A63119C21",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "96BEE2998DA84D47A173DF8A63119C21": {
+      "id": "96BEE2998DA84D47A173DF8A63119C21",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 1,
+      "listId": "GT.2",
+      "statementNotation": "T.GT.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will graph the six inverse trigonometric functions.",
+      "comments": [],
+      "ancestorIds": [
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": "207BA15BAA3C4DEAA76BF04BE2A487C4"
+    },
+    "B836AD69A8D141D284B1A51E5277E475": {
+      "id": "B836AD69A8D141D284B1A51E5277E475",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "T.GT.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply trigonometric functions and their graphs to represent periodic phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "0EE5E513309F4AEF8A0737FCFF56D518",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "B37373D969224248AE6352294901A434": {
+      "id": "B37373D969224248AE6352294901A434",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "T.GT.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sketch the graph of a transformed sine, cosine, and tangent function written in standard form\nby using transformations for at least a two-period interval, including both positive and\nnegative values for the domain.",
+      "comments": [],
+      "ancestorIds": [
+        "0EE5E513309F4AEF8A0737FCFF56D518",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "F718B09AEB5C4266AE253FC0C7B8D6F0": {
+      "id": "F718B09AEB5C4266AE253FC0C7B8D6F0",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.GT.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the effects of changing the parameters (A, B, C, or D in the standard form of a\ntrigonometric equation) on the graph of the function using graphing technology.",
+      "comments": [],
+      "ancestorIds": [
+        "0EE5E513309F4AEF8A0737FCFF56D518",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "02088D4BB2A8468AA2F0F113279B9398": {
+      "id": "02088D4BB2A8468AA2F0F113279B9398",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.GT.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the domain and range, amplitude, period, and asymptote locations for a\ntrigonometric function, given a graph or an equation.",
+      "comments": [],
+      "ancestorIds": [
+        "0EE5E513309F4AEF8A0737FCFF56D518",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "C42719D312B04C788D6931A85F1DAF33": {
+      "id": "C42719D312B04C788D6931A85F1DAF33",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.GT.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sketch the graph of the six parent trigonometric functions (sine, cosine, tangent, cosecant,\nsecant, and cotangent) for at least a two-period interval. ",
+      "comments": [],
+      "ancestorIds": [
+        "0EE5E513309F4AEF8A0737FCFF56D518",
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": null
+    },
+    "0EE5E513309F4AEF8A0737FCFF56D518": {
+      "id": "0EE5E513309F4AEF8A0737FCFF56D518",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "GT.1",
+      "statementNotation": "T.GT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will graph and analyze trigonometric functions and apply trigonometric\nfunctions to represent periodic phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "207BA15BAA3C4DEAA76BF04BE2A487C4"
+      ],
+      "parentId": "207BA15BAA3C4DEAA76BF04BE2A487C4"
+    },
+    "207BA15BAA3C4DEAA76BF04BE2A487C4": {
+      "id": "207BA15BAA3C4DEAA76BF04BE2A487C4",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graphs of Trigonometric Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D451A7E959B3454690348080202C7D19": {
+      "id": "D451A7E959B3454690348080202C7D19",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.CT.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply knowledge of right triangle trigonometry, special right triangles, and the properties of\nthe unit circle to determine trigonometric functions values of special angles (0°, 30°, 45°, 60°,\nand 90°) and their related angles in degree and radians without the use of technology.",
+      "comments": [],
+      "ancestorIds": [
+        "5F32F54886854E96B20266679549D24C",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "42A8B6A4A29D4AD4B4AD50BA9FB1B1D4": {
+      "id": "42A8B6A4A29D4AD4B4AD50BA9FB1B1D4",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.CT.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define the six circular trigonometric functions of an angle in standard position on the unit\ncircle.",
+      "comments": [],
+      "ancestorIds": [
+        "5F32F54886854E96B20266679549D24C",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "FB567275EA3C4955B18E8A0F3A129F0A": {
+      "id": "FB567275EA3C4955B18E8A0F3A129F0A",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.CT.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert between radian and degree measure of special angles of the unit circle without the\nuse of technology. ",
+      "comments": [],
+      "ancestorIds": [
+        "5F32F54886854E96B20266679549D24C",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "5F32F54886854E96B20266679549D24C": {
+      "id": "5F32F54886854E96B20266679549D24C",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "CT.2",
+      "statementNotation": "T.CT.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will develop and apply the properties of the unit circle in degrees and\nradians.",
+      "comments": [],
+      "ancestorIds": [
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+    },
+    "E1B6748D4CFA42C599566AA679B27898": {
+      "id": "E1B6748D4CFA42C599566AA679B27898",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 3,
+      "listId": "j",
+      "statementNotation": "T.CT.1.j",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the area of a sector of a circle.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "2370014CA2224184A71249B7B52D283C": {
+      "id": "2370014CA2224184A71249B7B52D283C",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "T.CT.1.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the length of an arc of a circle in radians.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "9C98619010FB4A178F052E57C2EEA8E3": {
+      "id": "9C98619010FB4A178F052E57C2EEA8E3",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 3,
+      "listId": "h",
+      "statementNotation": "T.CT.1.h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given one trigonometric function value, determine the other five trigonometric function\nvalues.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "64AEB2226D2C47399BB3D7D4A22D141D": {
+      "id": "64AEB2226D2C47399BB3D7D4A22D141D",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "T.CT.1.g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the value of any trigonometric function (sine, cosine, tangent, cosecant, secant, and\ncotangent) when given a point on the terminal side of an angle in standard position. ",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "ED98E1F89F5140D3BAA683CE77BA63FB": {
+      "id": "ED98E1F89F5140D3BAA683CE77BA63FB",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "T.CT.1.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw a reference right triangle when given the value of a trigonometric function of an angle\n(sine, cosine, tangent, cosecant, secant, and cotangent).",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "8066762F791F40988226BBA817A73403": {
+      "id": "8066762F791F40988226BBA817A73403",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "T.CT.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw a reference right triangle when given a point on the terminal side of an angle in standard\nposition.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "6BD7A1AB25BE4BAFB25DB8306411242E": {
+      "id": "6BD7A1AB25BE4BAFB25DB8306411242E",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "T.CT.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the quadrant or axis in/on which the terminal side of an angle lies.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "E5BF6FD7B2B14CCC86EADF38E22436A2": {
+      "id": "E5BF6FD7B2B14CCC86EADF38E22436A2",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.CT.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find both positive and negative coterminal angles for a given angle. ",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "6C2771D2571A47A2AB95049C8524B253": {
+      "id": "6C2771D2571A47A2AB95049C8524B253",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.CT.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the degree and radian measure of angles to include both negative and positive\nrotations in the coordinate plane.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "83D065127C784790A3DBF88BD1C52C77": {
+      "id": "83D065127C784790A3DBF88BD1C52C77",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.CT.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define a radian as a unit of angle measure and determine the relationship between the radian\nmeasure of an angle and the length of the intercepted arc in a circle.",
+      "comments": [],
+      "ancestorIds": [
+        "C49D7F415C04442D9E28984825CEE9B9",
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": null
+    },
+    "C49D7F415C04442D9E28984825CEE9B9": {
+      "id": "C49D7F415C04442D9E28984825CEE9B9",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "CT.1",
+      "statementNotation": "T.CT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will determine the degree and radian measure of angles; sketch angles in\nstandard position on a coordinate plane; and determine the sine, cosine, tangent, cosecant, secant, and cotangent of an angle, given a point on the terminal side of an\nangle in standard position or the value of a trigonometric function of the angle.",
+      "comments": [],
+      "ancestorIds": [
+        "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+      ],
+      "parentId": "A2AD9046569A4E1DAC9A0F20AB8EF7C3"
+    },
+    "A2AD9046569A4E1DAC9A0F20AB8EF7C3": {
+      "id": "A2AD9046569A4E1DAC9A0F20AB8EF7C3",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Circular Trigonometry",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F6E522432C5648AA85AFB2B894AFFC5C": {
+      "id": "F6E522432C5648AA85AFB2B894AFFC5C",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.TT.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems that integrate the use of the Law of Sines and the Law of Cosines and the\ntriangle area formula (Area = 1\n2\nabsinC, where a and b are triangle sides and C is the included\nangle) to find the area of any triangle, including those in contextual problems.",
+      "comments": [],
+      "ancestorIds": [
+        "787322EA334041429754573F249868DF",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "32E96260AA234929BDA80EC19A0367F2": {
+      "id": "32E96260AA234929BDA80EC19A0367F2",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.TT.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize the ambiguous case when applying the Law of Sines and the potential for two\ntriangle solutions in some situations. ",
+      "comments": [],
+      "ancestorIds": [
+        "787322EA334041429754573F249868DF",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "69536FF2427F459FB8BDA1D0994FD58E": {
+      "id": "69536FF2427F459FB8BDA1D0994FD58E",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.TT.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the Law of Sines, and the Law of Cosines, as appropriate, to find missing sides and\nangles in non-right triangles.",
+      "comments": [],
+      "ancestorIds": [
+        "787322EA334041429754573F249868DF",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "787322EA334041429754573F249868DF": {
+      "id": "787322EA334041429754573F249868DF",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "TT.2",
+      "statementNotation": "T.TT.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will find the area of any triangle and solve for the lengths of the sides and\nmeasures of the angles in a non-right triangle using the Law of Sines and the Law of\nCosines. ",
+      "comments": [],
+      "ancestorIds": [
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": "AE7628560500431A8D07240B6839AAC1"
+    },
+    "691A633F7BF94911B3BBC514675A3FDC": {
+      "id": "691A633F7BF94911B3BBC514675A3FDC",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "T.TT.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent and solve contextual problems involving right triangles, including problems\ninvolving angles of elevation and depression. ",
+      "comments": [],
+      "ancestorIds": [
+        "2C594FA2082F4FA9B07DF2B1247801D3",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "DAADE95C04C84531B96B2FA6E5E973F5": {
+      "id": "DAADE95C04C84531B96B2FA6E5E973F5",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "T.TT.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the trigonometric functions, the Pythagorean Theorem, the Law of Sines, and the Law of\nCosines to solve contextual problems. ",
+      "comments": [],
+      "ancestorIds": [
+        "2C594FA2082F4FA9B07DF2B1247801D3",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "CDC26BB726FA43D7B6FB69D4267FED78": {
+      "id": "CDC26BB726FA43D7B6FB69D4267FED78",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "T.TT.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the relationships between side lengths in special right triangles (30°-60°-90° and\n45°-45°-90°).",
+      "comments": [],
+      "ancestorIds": [
+        "2C594FA2082F4FA9B07DF2B1247801D3",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "76C9A362FE5F4B6499C9AF3DD64EE442": {
+      "id": "76C9A362FE5F4B6499C9AF3DD64EE442",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "T.TT.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and represent the six triangular trigonometric ratios (sine, cosine, tangent, cosecant,\nsecant, and cotangent) of an angle in a right triangle.",
+      "comments": [],
+      "ancestorIds": [
+        "2C594FA2082F4FA9B07DF2B1247801D3",
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": null
+    },
+    "2C594FA2082F4FA9B07DF2B1247801D3": {
+      "id": "2C594FA2082F4FA9B07DF2B1247801D3",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "TT.1",
+      "statementNotation": "T.TT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will determine the sine, cosine, tangent, cotangent, secant, and cosecant of\nthe acute angles in a right triangle and use these ratios to solve for missing sides and\nangle measures, including application in contextual problems.",
+      "comments": [],
+      "ancestorIds": [
+        "AE7628560500431A8D07240B6839AAC1"
+      ],
+      "parentId": "AE7628560500431A8D07240B6839AAC1"
+    },
+    "AE7628560500431A8D07240B6839AAC1": {
+      "id": "AE7628560500431A8D07240B6839AAC1",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Triangle Trigonometry",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

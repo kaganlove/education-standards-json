@@ -1,0 +1,3053 @@
+{
+  "id": "1C77BE47DA4D4E58BEBDDB2165C67B2B",
+  "title": "AS Level",
+  "subject": "Computer Science AS Level: Cambridge International AS Level for Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Specification Cambridge International",
+    "sourceURL": "http://www.cie.org.uk/images/202629-2017-2019-syllabus.pdf"
+  },
+  "jurisdiction": {
+    "id": "435B39603C684724B759AAEBDD1B509B",
+    "title": "St-Ignatius School"
+  },
+  "standards": {
+    "5FD1D207635549C2B54DC8C9AD6A9120": {
+      "id": "5FD1D207635549C2B54DC8C9AD6A9120",
+      "asnIdentifier": null,
+      "position": 206000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.12.3.3",
+      "statementLabel": null,
+      "description": "understand the need for stub testing",
+      "ancestorIds": [
+        "E317C11348ED43EEBF580397387F5FAB",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "E317C11348ED43EEBF580397387F5FAB"
+    },
+    "3F4F6125ACD44221A2C254ED53DB2932": {
+      "id": "3F4F6125ACD44221A2C254ED53DB2932",
+      "asnIdentifier": null,
+      "position": 205000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.12.3.2",
+      "statementLabel": null,
+      "description": " choose suitable data for white-box testing",
+      "ancestorIds": [
+        "E317C11348ED43EEBF580397387F5FAB",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "E317C11348ED43EEBF580397387F5FAB"
+    },
+    "361D247DC4854752BF2AC202025D2010": {
+      "id": "361D247DC4854752BF2AC202025D2010",
+      "asnIdentifier": null,
+      "position": 204000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.12.3.1",
+      "statementLabel": null,
+      "description": "choose suitable data for black-box testing",
+      "ancestorIds": [
+        "E317C11348ED43EEBF580397387F5FAB",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "E317C11348ED43EEBF580397387F5FAB"
+    },
+    "E317C11348ED43EEBF580397387F5FAB": {
+      "id": "E317C11348ED43EEBF580397387F5FAB",
+      "asnIdentifier": null,
+      "position": 203000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.12.3",
+      "statementLabel": null,
+      "description": "Testing Strategies",
+      "ancestorIds": [
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "04890B70FF744AE4AE7330F145246FCC"
+    },
+    "334021B812BD4A1D90F22A05063EFE48": {
+      "id": "334021B812BD4A1D90F22A05063EFE48",
+      "asnIdentifier": null,
+      "position": 202000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.12.2.3",
+      "statementLabel": null,
+      "description": "correct identified errors",
+      "ancestorIds": [
+        "0CC102121693419290A1C28A7AD08D70",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "0CC102121693419290A1C28A7AD08D70"
+    },
+    "42BDE1D923C3400F979C0A002CC003A1": {
+      "id": "42BDE1D923C3400F979C0A002CC003A1",
+      "asnIdentifier": null,
+      "position": 201000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.12.2.2",
+      "statementLabel": null,
+      "description": "locate and identify the different types of errors:\n– syntax errors\n– logic errors\n– run-time errors",
+      "ancestorIds": [
+        "0CC102121693419290A1C28A7AD08D70",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "0CC102121693419290A1C28A7AD08D70"
+    },
+    "FE4D6CB49B81432A9E1F7CA15F032AAA": {
+      "id": "FE4D6CB49B81432A9E1F7CA15F032AAA",
+      "asnIdentifier": null,
+      "position": 200000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.12.2.1",
+      "statementLabel": null,
+      "description": "show understanding of ways of exposing faults in programs and ways of avoiding faults",
+      "ancestorIds": [
+        "0CC102121693419290A1C28A7AD08D70",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "0CC102121693419290A1C28A7AD08D70"
+    },
+    "0CC102121693419290A1C28A7AD08D70": {
+      "id": "0CC102121693419290A1C28A7AD08D70",
+      "asnIdentifier": null,
+      "position": 199000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.12.2",
+      "statementLabel": null,
+      "description": "Program Testing",
+      "ancestorIds": [
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "04890B70FF744AE4AE7330F145246FCC"
+    },
+    "8015BF5676A14173A5A1AD62E236CB95": {
+      "id": "8015BF5676A14173A5A1AD62E236CB95",
+      "asnIdentifier": null,
+      "position": 198000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.12.1.3",
+      "statementLabel": null,
+      "description": "describe features found in a typical Integrated Development Environment (IDE):\n– for coding, including context-sensitive prompts\n– for initial error detection, including dynamic syntax checks\n– for presentation, including prettyprint, expand and collapse code blocks\n– for debugging, including: single stepping, breakpoints, variables/expressions report window",
+      "ancestorIds": [
+        "97CA2C2060044CF8A1C9624DC84F4636",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "97CA2C2060044CF8A1C9624DC84F4636"
+    },
+    "3C1241B46EB04583A3C8D32231326C67": {
+      "id": "3C1241B46EB04583A3C8D32231326C67",
+      "asnIdentifier": null,
+      "position": 197000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.12.1.2",
+      "statementLabel": null,
+      "description": "show understanding of how to write, translate, test and run a high-level language program",
+      "ancestorIds": [
+        "97CA2C2060044CF8A1C9624DC84F4636",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "97CA2C2060044CF8A1C9624DC84F4636"
+    },
+    "C3B7AD13EE6B47BFAE51594A9EB0CA00": {
+      "id": "C3B7AD13EE6B47BFAE51594A9EB0CA00",
+      "asnIdentifier": null,
+      "position": 196000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.12.1.1",
+      "statementLabel": null,
+      "description": "show understanding of the design, coding and testing stages in the program development cycle",
+      "ancestorIds": [
+        "97CA2C2060044CF8A1C9624DC84F4636",
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "97CA2C2060044CF8A1C9624DC84F4636"
+    },
+    "97CA2C2060044CF8A1C9624DC84F4636": {
+      "id": "97CA2C2060044CF8A1C9624DC84F4636",
+      "asnIdentifier": null,
+      "position": 195000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.12.1",
+      "statementLabel": null,
+      "description": "Programming",
+      "ancestorIds": [
+        "04890B70FF744AE4AE7330F145246FCC"
+      ],
+      "parentId": "04890B70FF744AE4AE7330F145246FCC"
+    },
+    "04890B70FF744AE4AE7330F145246FCC": {
+      "id": "04890B70FF744AE4AE7330F145246FCC",
+      "asnIdentifier": null,
+      "position": 194000,
+      "depth": 0,
+      "listId": "12",
+      "statementNotation": "1.12",
+      "statementLabel": null,
+      "description": "Software development",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7C0A48E3F396439C957B42B6D711D349": {
+      "id": "7C0A48E3F396439C957B42B6D711D349",
+      "asnIdentifier": null,
+      "position": 193000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "1.11.6.8",
+      "statementLabel": null,
+      "description": "write programs containing several components and showing good use of resources",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "98042853E4BF474987C4C74842A677EB": {
+      "id": "98042853E4BF474987C4C74842A677EB",
+      "asnIdentifier": null,
+      "position": 192000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "1.11.6.7",
+      "statementLabel": null,
+      "description": "use the terminology associated with procedures and functions: procedure/function header,\nprocedure/function interface, parameter, argument, return value\n– given pseudocode will use the following structure for function defi nitions:\n FUNCTION  RETURNS  // function has no\n parameters\n \n ENDFUNCTION\n FUNCTION  (: )\n RETURNS  // function has one or more parameters\n \n ENDFUNCTION\n– a function is used in an expression, for example\n○ x ← SQRT(n)\n○ WHILE NOT EOF()",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "31145F9569A94E67829719BD4F4EB81A": {
+      "id": "31145F9569A94E67829719BD4F4EB81A",
+      "asnIdentifier": null,
+      "position": 191000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.11.6.6",
+      "statementLabel": null,
+      "description": "explain where in the construction of an algorithm it is appropriate to use a function",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "1019A96A0C704B02A62D439F122A531B": {
+      "id": "1019A96A0C704B02A62D439F122A531B",
+      "asnIdentifier": null,
+      "position": 190000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.11.6.5",
+      "statementLabel": null,
+      "description": "use a function",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "31DF8B82A59640BC845B7969F52CEF44": {
+      "id": "31DF8B82A59640BC845B7969F52CEF44",
+      "asnIdentifier": null,
+      "position": 189000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.11.6.4",
+      "statementLabel": null,
+      "description": "show understanding of passing parameters by value\n PROCEDURE  (BYVALUE : )\n \n ENDPROCEDURE\n– a call is made to the procedure using CALL  ()",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "930771A504B5457986675D9A01A7E180": {
+      "id": "930771A504B5457986675D9A01A7E180",
+      "asnIdentifier": null,
+      "position": 188000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.11.6.3",
+      "statementLabel": null,
+      "description": "show understanding of passing parameters by reference\n PROCEDURE  (BYREF : )\n \n ENDPROCEDURE",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "98A74AB18B4E44C2BA7165C53A330B8E": {
+      "id": "98A74AB18B4E44C2BA7165C53A330B8E",
+      "asnIdentifier": null,
+      "position": 187000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.11.6.2",
+      "statementLabel": null,
+      "description": "explain where in the construction of an algorithm it would be appropriate to use a procedure\n– given pseudocode will use the following structure for procedure defi nitions:\n PROCEDURE \n \n ENDPROCEDURE\n– a procedure may have none, one or more parameters\n– a parameter can be passed by reference or by value",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "AD5B626349774C1799038E3AC6EF32BC": {
+      "id": "AD5B626349774C1799038E3AC6EF32BC",
+      "asnIdentifier": null,
+      "position": 186000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.11.6.1",
+      "statementLabel": null,
+      "description": "use a procedure",
+      "ancestorIds": [
+        "ADF69CFF17654B7599750F07BC637479",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "ADF69CFF17654B7599750F07BC637479"
+    },
+    "ADF69CFF17654B7599750F07BC637479": {
+      "id": "ADF69CFF17654B7599750F07BC637479",
+      "asnIdentifier": null,
+      "position": 185000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "1.11.6",
+      "statementLabel": null,
+      "description": "Structured Programming",
+      "ancestorIds": [
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "B950AE2310814C26B6A983F5E1DAA6C1"
+    },
+    "F44CC81FCA134BAAB7859BAC98C012D6": {
+      "id": "F44CC81FCA134BAAB7859BAC98C012D6",
+      "asnIdentifier": null,
+      "position": 184000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.11.5.2",
+      "statementLabel": null,
+      "description": "use the information provided in technical documentation describing functions/procedures",
+      "ancestorIds": [
+        "DAB02F772B5947B587FE4DA01DB98AF8",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "DAB02F772B5947B587FE4DA01DB98AF8"
+    },
+    "BAB19F3082B6409088E8B08136DEC352": {
+      "id": "BAB19F3082B6409088E8B08136DEC352",
+      "asnIdentifier": null,
+      "position": 183000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.11.5.1",
+      "statementLabel": null,
+      "description": "use a subset of the built-in functions and library routines supported by the chosen programming\nlanguage. This should include those used for:\n– string/character manipulation\n– formatting of numbers\n– random number generator",
+      "ancestorIds": [
+        "DAB02F772B5947B587FE4DA01DB98AF8",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "DAB02F772B5947B587FE4DA01DB98AF8"
+    },
+    "DAB02F772B5947B587FE4DA01DB98AF8": {
+      "id": "DAB02F772B5947B587FE4DA01DB98AF8",
+      "asnIdentifier": null,
+      "position": 182000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "1.11.5",
+      "statementLabel": null,
+      "description": "Built-in Functions",
+      "ancestorIds": [
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "B950AE2310814C26B6A983F5E1DAA6C1"
+    },
+    "C4548B0339C3420D9AC0D4D2CC370C76": {
+      "id": "C4548B0339C3420D9AC0D4D2CC370C76",
+      "asnIdentifier": null,
+      "position": 181000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.11.4.4",
+      "statementLabel": null,
+      "description": " justify why one loop structure may be better suited to a problem than the others",
+      "ancestorIds": [
+        "68CF45C5D65E46CD89212AC931A98CE0",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "68CF45C5D65E46CD89212AC931A98CE0"
+    },
+    "CC44CABA5F2C4A33B4168DF5CDA0488F": {
+      "id": "CC44CABA5F2C4A33B4168DF5CDA0488F",
+      "asnIdentifier": null,
+      "position": 180000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.11.4.3",
+      "statementLabel": null,
+      "description": "use a ‘pre-condition’ loop\n– given pseudocode will use the following structure:\n WHILE \n \n ENDWHILE",
+      "ancestorIds": [
+        "68CF45C5D65E46CD89212AC931A98CE0",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "68CF45C5D65E46CD89212AC931A98CE0"
+    },
+    "124608BB24EC44029F5A9892DC0E621A": {
+      "id": "124608BB24EC44029F5A9892DC0E621A",
+      "asnIdentifier": null,
+      "position": 179000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.11.4.2",
+      "statementLabel": null,
+      "description": " use a ‘post-condition’ loop:\n– given pseudocode will use the following structure:\n REPEAT\n \n UNTIL ",
+      "ancestorIds": [
+        "68CF45C5D65E46CD89212AC931A98CE0",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "68CF45C5D65E46CD89212AC931A98CE0"
+    },
+    "DE510F214F034841A37D0F3ADFD4C2F3": {
+      "id": "DE510F214F034841A37D0F3ADFD4C2F3",
+      "asnIdentifier": null,
+      "position": 178000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.11.4.1",
+      "statementLabel": null,
+      "description": "use a ‘count-controlled’ loop:\n– given pseudocode will use the following structure:\n FOR  ←  TO \n \n ENDFOR\n– alternatively:\n FOR  ←  TO  STEP \n \n ENDFOR",
+      "ancestorIds": [
+        "68CF45C5D65E46CD89212AC931A98CE0",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "68CF45C5D65E46CD89212AC931A98CE0"
+    },
+    "68CF45C5D65E46CD89212AC931A98CE0": {
+      "id": "68CF45C5D65E46CD89212AC931A98CE0",
+      "asnIdentifier": null,
+      "position": 177000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "1.11.4",
+      "statementLabel": null,
+      "description": "Iteration",
+      "ancestorIds": [
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "B950AE2310814C26B6A983F5E1DAA6C1"
+    },
+    "4DA015280EED49969809093693595F6F": {
+      "id": "4DA015280EED49969809093693595F6F",
+      "asnIdentifier": null,
+      "position": 176000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.11.3.2",
+      "statementLabel": null,
+      "description": "use a ‘CASE’ structure\n– given pseudocode will use the following structure:\n CASE OF \n : \n : \n ...\n ENDCASE\n– alternatively:\n CASE OF \n : \n : \n ...\n OTHERWISE \n ENDCASE",
+      "ancestorIds": [
+        "624820E191814AE2A8AD3F6238466DCD",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "624820E191814AE2A8AD3F6238466DCD"
+    },
+    "34AE94901C66421E8A7093B5A7BC67C9": {
+      "id": "34AE94901C66421E8A7093B5A7BC67C9",
+      "asnIdentifier": null,
+      "position": 175000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.11.3.1",
+      "statementLabel": null,
+      "description": " use an ‘IF’ structure including the ‘ELSE’ clause and nested IF statements\n– given pseudocode will use the following structure:\n IF \n THEN\n \n ENDIF\n– or, including an ‘else’ clause:\n IF \n THEN\n \n ELSE\n \n ENDIF",
+      "ancestorIds": [
+        "624820E191814AE2A8AD3F6238466DCD",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "624820E191814AE2A8AD3F6238466DCD"
+    },
+    "624820E191814AE2A8AD3F6238466DCD": {
+      "id": "624820E191814AE2A8AD3F6238466DCD",
+      "asnIdentifier": null,
+      "position": 174000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.11.3",
+      "statementLabel": null,
+      "description": "Selection",
+      "ancestorIds": [
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "B950AE2310814C26B6A983F5E1DAA6C1"
+    },
+    "8F2B798A1E6D418C9F441B4327841632": {
+      "id": "8F2B798A1E6D418C9F441B4327841632",
+      "asnIdentifier": null,
+      "position": 173000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.11.2.2",
+      "statementLabel": null,
+      "description": "appreciate that program coding is a transferable skill ",
+      "ancestorIds": [
+        "1E44D3A6D3BC47A8A1C1882FA1DA366D",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "1E44D3A6D3BC47A8A1C1882FA1DA366D"
+    },
+    "D05FAA5AF4644B2CA8CB1F8A4E60C728": {
+      "id": "D05FAA5AF4644B2CA8CB1F8A4E60C728",
+      "asnIdentifier": null,
+      "position": 172000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.11.2.1",
+      "statementLabel": null,
+      "description": "recognise the basic control structures in a high-level language other than the one chosen to be\nstudied in depth",
+      "ancestorIds": [
+        "1E44D3A6D3BC47A8A1C1882FA1DA366D",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "1E44D3A6D3BC47A8A1C1882FA1DA366D"
+    },
+    "1E44D3A6D3BC47A8A1C1882FA1DA366D": {
+      "id": "1E44D3A6D3BC47A8A1C1882FA1DA366D",
+      "asnIdentifier": null,
+      "position": 171000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.11.2",
+      "statementLabel": null,
+      "description": "Transferable skills",
+      "ancestorIds": [
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "B950AE2310814C26B6A983F5E1DAA6C1"
+    },
+    "D295D9D63BB24956B52B55A3653B9917": {
+      "id": "D295D9D63BB24956B52B55A3653B9917",
+      "asnIdentifier": null,
+      "position": 170000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.11.1.3",
+      "statementLabel": null,
+      "description": "write program statements for:\n– the declaration of variables and constants\n– the assignment of values to variables and constants\n– expressions involving any of the arithmetic or logical operators\n– input from the keyboard and output to the console\n given pseudocode will use the following structures:\n DECLARE  :  // declaration\n CONSTANT  = \n  ←  or  // assignment\n INPUT \n OUTPUT \n OUTPUT ",
+      "ancestorIds": [
+        "DE120EE0465C46BDB5B47378184A620C",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "DE120EE0465C46BDB5B47378184A620C"
+    },
+    "BDB84FB4F1C8477CA04603B7B61B4AE8": {
+      "id": "BDB84FB4F1C8477CA04603B7B61B4AE8",
+      "asnIdentifier": null,
+      "position": 169000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.11.1.2",
+      "statementLabel": null,
+      "description": "implement and write a program from a given design presented as either a program flowchart or\npseudocode",
+      "ancestorIds": [
+        "DE120EE0465C46BDB5B47378184A620C",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "DE120EE0465C46BDB5B47378184A620C"
+    },
+    "FF41EE5C504645079BB0263F26052D2D": {
+      "id": "FF41EE5C504645079BB0263F26052D2D",
+      "asnIdentifier": null,
+      "position": 168000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.11.1.1",
+      "statementLabel": null,
+      "description": "write a program in a high-level language ",
+      "ancestorIds": [
+        "DE120EE0465C46BDB5B47378184A620C",
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "DE120EE0465C46BDB5B47378184A620C"
+    },
+    "DE120EE0465C46BDB5B47378184A620C": {
+      "id": "DE120EE0465C46BDB5B47378184A620C",
+      "asnIdentifier": null,
+      "position": 167000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.11.1",
+      "statementLabel": null,
+      "description": "Programming basics",
+      "ancestorIds": [
+        "B950AE2310814C26B6A983F5E1DAA6C1"
+      ],
+      "parentId": "B950AE2310814C26B6A983F5E1DAA6C1"
+    },
+    "B950AE2310814C26B6A983F5E1DAA6C1": {
+      "id": "B950AE2310814C26B6A983F5E1DAA6C1",
+      "asnIdentifier": null,
+      "position": 166000,
+      "depth": 0,
+      "listId": "11",
+      "statementNotation": "1.11",
+      "statementLabel": null,
+      "description": "Programming ",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EBC319A91BA84D8FA416643F3D123B41": {
+      "id": "EBC319A91BA84D8FA416643F3D123B41",
+      "asnIdentifier": null,
+      "position": 165000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.10.3.3",
+      "statementLabel": null,
+      "description": "write program code for simple file handling of a text fi le, consisting of several lines of text",
+      "ancestorIds": [
+        "455E19D2657946B29FE9594561C17440",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "455E19D2657946B29FE9594561C17440"
+    },
+    "A8B623F4EC3A43D2A47251567AC25C09": {
+      "id": "A8B623F4EC3A43D2A47251567AC25C09",
+      "asnIdentifier": null,
+      "position": 164000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.10.3.2",
+      "statementLabel": null,
+      "description": "use pseudocode for file handling: OPENFILE  FOR READ/WRITE/APPEND // Open file (understand the difference between various file modes) READFILE , // Read a line of text from the file WRITEFILE , // Write a line of text to the file CLOSEFILE  // Close file EOF() // function to test for the end of the file",
+      "ancestorIds": [
+        "455E19D2657946B29FE9594561C17440",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "455E19D2657946B29FE9594561C17440"
+    },
+    "3E48C59A94B64772A1D4039EC6AA6629": {
+      "id": "3E48C59A94B64772A1D4039EC6AA6629",
+      "asnIdentifier": null,
+      "position": 163000,
+      "depth": 2,
+      "listId": "1 ",
+      "statementNotation": "1.10.3.1",
+      "statementLabel": null,
+      "description": "show understanding of why files are needed",
+      "ancestorIds": [
+        "455E19D2657946B29FE9594561C17440",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "455E19D2657946B29FE9594561C17440"
+    },
+    "455E19D2657946B29FE9594561C17440": {
+      "id": "455E19D2657946B29FE9594561C17440",
+      "asnIdentifier": null,
+      "position": 162000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.10.3",
+      "statementLabel": null,
+      "description": "Files",
+      "ancestorIds": [
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "05AF4BEF11174A95AF460147CD09D9EE"
+    },
+    "F808A921683D4C528493FDE55194CD65": {
+      "id": "F808A921683D4C528493FDE55194CD65",
+      "asnIdentifier": null,
+      "position": 161000,
+      "depth": 2,
+      "listId": "6 ",
+      "statementNotation": "1.10.2.6",
+      "statementLabel": null,
+      "description": "given pseudocode will use the following structures:\n DECLARE  : ARRAY[:] OF \n DECLARE  : ARRAY[:,[:]\nOF ",
+      "ancestorIds": [
+        "388D2284DD2C411C95BA64BCA3385557",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "388D2284DD2C411C95BA64BCA3385557"
+    },
+    "C73B5235C93744AE94C268B769302910": {
+      "id": "C73B5235C93744AE94C268B769302910",
+      "asnIdentifier": null,
+      "position": 160000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.10.2.5",
+      "statementLabel": null,
+      "description": " write algorithms/program code to process array data including:\n– sorting using a bubble sort\n– searching using a linear search",
+      "ancestorIds": [
+        "388D2284DD2C411C95BA64BCA3385557",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "388D2284DD2C411C95BA64BCA3385557"
+    },
+    "EBF32E8211914C7491CF46FC53F3FA8D": {
+      "id": "EBF32E8211914C7491CF46FC53F3FA8D",
+      "asnIdentifier": null,
+      "position": 159000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.10.2.4",
+      "statementLabel": null,
+      "description": "write program code using 1D and 2D arrays",
+      "ancestorIds": [
+        "388D2284DD2C411C95BA64BCA3385557",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "388D2284DD2C411C95BA64BCA3385557"
+    },
+    "4A5C50D52AB64EBEB0114ADEBABCF26E": {
+      "id": "4A5C50D52AB64EBEB0114ADEBABCF26E",
+      "asnIdentifier": null,
+      "position": 158000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.10.2.3",
+      "statementLabel": null,
+      "description": "use pseudocode for 1D and 2D arrays (pseudocode will use square brackets to contain the array\nsubscript, for example a 1D array as A[1:n] and a 2D array as C[1:m, 1:n])",
+      "ancestorIds": [
+        "388D2284DD2C411C95BA64BCA3385557",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "388D2284DD2C411C95BA64BCA3385557"
+    },
+    "F2B9B524C80D4BBF8612ABBFA023C293": {
+      "id": "F2B9B524C80D4BBF8612ABBFA023C293",
+      "asnIdentifier": null,
+      "position": 157000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.10.2.2",
+      "statementLabel": null,
+      "description": "select a suitable data structure (1D or 2D array) to use for a given task",
+      "ancestorIds": [
+        "388D2284DD2C411C95BA64BCA3385557",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "388D2284DD2C411C95BA64BCA3385557"
+    },
+    "798C835EDC924743A2484753C614AD7C": {
+      "id": "798C835EDC924743A2484753C614AD7C",
+      "asnIdentifier": null,
+      "position": 156000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.10.2.1",
+      "statementLabel": null,
+      "description": "use the technical terms associated with arrays including upper and lower bound",
+      "ancestorIds": [
+        "388D2284DD2C411C95BA64BCA3385557",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "388D2284DD2C411C95BA64BCA3385557"
+    },
+    "388D2284DD2C411C95BA64BCA3385557": {
+      "id": "388D2284DD2C411C95BA64BCA3385557",
+      "asnIdentifier": null,
+      "position": 155000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.10.2",
+      "statementLabel": null,
+      "description": "Arrays",
+      "ancestorIds": [
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "05AF4BEF11174A95AF460147CD09D9EE"
+    },
+    "B91DE4509BB8473A8D0B5BE329D22144": {
+      "id": "B91DE4509BB8473A8D0B5BE329D22144",
+      "asnIdentifier": null,
+      "position": 154000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.10.1.3",
+      "statementLabel": null,
+      "description": "show understanding of how character and string data are represented by software including the\nASCII and Unicode character sets",
+      "ancestorIds": [
+        "C995E04ED77F4F028CDB55FAFC5FF4A4",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "C995E04ED77F4F028CDB55FAFC5FF4A4"
+    },
+    "AE05A251437F45C19FE02E3990F9AF89": {
+      "id": "AE05A251437F45C19FE02E3990F9AF89",
+      "asnIdentifier": null,
+      "position": 153000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.10.1.2",
+      "statementLabel": null,
+      "description": "use in practical programming the data types that are common to procedural high-level languages:\ninteger, real, char, string, Boolean, date (pseudocode will use the following data types:\n INTEGER, REAL, CHAR, STRING, BOOLEAN, DATE, ARRAY, FILE)",
+      "ancestorIds": [
+        "C995E04ED77F4F028CDB55FAFC5FF4A4",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "C995E04ED77F4F028CDB55FAFC5FF4A4"
+    },
+    "4D3077C2805F46B9AA687469CD7E08A7": {
+      "id": "4D3077C2805F46B9AA687469CD7E08A7",
+      "asnIdentifier": null,
+      "position": 152000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.10.1.1",
+      "statementLabel": null,
+      "description": "select appropriate data types for a problem solution",
+      "ancestorIds": [
+        "C995E04ED77F4F028CDB55FAFC5FF4A4",
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "C995E04ED77F4F028CDB55FAFC5FF4A4"
+    },
+    "C995E04ED77F4F028CDB55FAFC5FF4A4": {
+      "id": "C995E04ED77F4F028CDB55FAFC5FF4A4",
+      "asnIdentifier": null,
+      "position": 151000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.10.1",
+      "statementLabel": null,
+      "description": "Data Types",
+      "ancestorIds": [
+        "05AF4BEF11174A95AF460147CD09D9EE"
+      ],
+      "parentId": "05AF4BEF11174A95AF460147CD09D9EE"
+    },
+    "05AF4BEF11174A95AF460147CD09D9EE": {
+      "id": "05AF4BEF11174A95AF460147CD09D9EE",
+      "asnIdentifier": null,
+      "position": 150000,
+      "depth": 0,
+      "listId": "10",
+      "statementNotation": "1.10",
+      "statementLabel": null,
+      "description": "Data representation",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2AA6982E02AF459C96B1B78B2FF2A40D": {
+      "id": "2AA6982E02AF459C96B1B78B2FF2A40D",
+      "asnIdentifier": null,
+      "position": 149000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.9.4.2",
+      "statementLabel": null,
+      "description": "analyse an existing program and make amendments to enhance functionality",
+      "ancestorIds": [
+        "B03E26AB5559422FAFCCE136C755792C",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "B03E26AB5559422FAFCCE136C755792C"
+    },
+    "0A3EBD09C64E41B7B4A12D851B603D81": {
+      "id": "0A3EBD09C64E41B7B4A12D851B603D81",
+      "asnIdentifier": null,
+      "position": 148000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.9.4.1",
+      "statementLabel": null,
+      "description": "make amendments to an algorithm and data structure in response to specification changes",
+      "ancestorIds": [
+        "B03E26AB5559422FAFCCE136C755792C",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "B03E26AB5559422FAFCCE136C755792C"
+    },
+    "B03E26AB5559422FAFCCE136C755792C": {
+      "id": "B03E26AB5559422FAFCCE136C755792C",
+      "asnIdentifier": null,
+      "position": 147000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "1.9.4",
+      "statementLabel": null,
+      "description": "Adaptive Maintenance",
+      "ancestorIds": [
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "7C567A3D20D04DAD864783F8FB2818E8"
+    },
+    "26C0B48BEE01477E9E7F4E3F1BDEDDD7": {
+      "id": "26C0B48BEE01477E9E7F4E3F1BDEDDD7",
+      "asnIdentifier": null,
+      "position": 146000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CM3",
+      "statementLabel": null,
+      "description": "amend the algorithm if required",
+      "ancestorIds": [
+        "15907D5FEE5A489F88E14A3EFF12BB35",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "15907D5FEE5A489F88E14A3EFF12BB35"
+    },
+    "161D95275FBE4A96820C19E201912F5A": {
+      "id": "161D95275FBE4A96820C19E201912F5A",
+      "asnIdentifier": null,
+      "position": 145000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CM2",
+      "statementLabel": null,
+      "description": "identify any error(s) in the algorithm by using the completed trace table",
+      "ancestorIds": [
+        "15907D5FEE5A489F88E14A3EFF12BB35",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "15907D5FEE5A489F88E14A3EFF12BB35"
+    },
+    "0C7E47CB696641F0995F4BC38757FEFC": {
+      "id": "0C7E47CB696641F0995F4BC38757FEFC",
+      "asnIdentifier": null,
+      "position": 144000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CM1",
+      "statementLabel": null,
+      "description": "perform white-box testing by:\n– selecting suitable data\n– using a trace table ",
+      "ancestorIds": [
+        "15907D5FEE5A489F88E14A3EFF12BB35",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "15907D5FEE5A489F88E14A3EFF12BB35"
+    },
+    "15907D5FEE5A489F88E14A3EFF12BB35": {
+      "id": "15907D5FEE5A489F88E14A3EFF12BB35",
+      "asnIdentifier": null,
+      "position": 143000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.9.3",
+      "statementLabel": null,
+      "description": "Corrective Maintenance",
+      "ancestorIds": [
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "7C567A3D20D04DAD864783F8FB2818E8"
+    },
+    "D90449E3CA3440058E6FE4617A0780A4": {
+      "id": "D90449E3CA3440058E6FE4617A0780A4",
+      "asnIdentifier": null,
+      "position": 142000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.9.2.4",
+      "statementLabel": null,
+      "description": "derive equivalent pseudocode from a structure chart",
+      "ancestorIds": [
+        "A9F4EB50ACFC4B98B02DAE50AE961B07",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "A9F4EB50ACFC4B98B02DAE50AE961B07"
+    },
+    "B43C4ED083DD4168BCE52EF08711E282": {
+      "id": "B43C4ED083DD4168BCE52EF08711E282",
+      "asnIdentifier": null,
+      "position": 141000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.9.2.3",
+      "statementLabel": null,
+      "description": "construct a structure chart for a given problem",
+      "ancestorIds": [
+        "A9F4EB50ACFC4B98B02DAE50AE961B07",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "A9F4EB50ACFC4B98B02DAE50AE961B07"
+    },
+    "50E5F7E29DB546EFBFCA19FEA30841EB": {
+      "id": "50E5F7E29DB546EFBFCA19FEA30841EB",
+      "asnIdentifier": null,
+      "position": 140000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.9.2.2",
+      "statementLabel": null,
+      "description": "describe the purpose of a structure chart",
+      "ancestorIds": [
+        "A9F4EB50ACFC4B98B02DAE50AE961B07",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "A9F4EB50ACFC4B98B02DAE50AE961B07"
+    },
+    "2658E722F11C4EC7AB92B1D2E13B9918": {
+      "id": "2658E722F11C4EC7AB92B1D2E13B9918",
+      "asnIdentifier": null,
+      "position": 139000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.9.2.1",
+      "statementLabel": null,
+      "description": "use a structure chart to express the parameters passed between the various modules/\nprocedures/functions which are part of the algorithm design",
+      "ancestorIds": [
+        "A9F4EB50ACFC4B98B02DAE50AE961B07",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "A9F4EB50ACFC4B98B02DAE50AE961B07"
+    },
+    "A9F4EB50ACFC4B98B02DAE50AE961B07": {
+      "id": "A9F4EB50ACFC4B98B02DAE50AE961B07",
+      "asnIdentifier": null,
+      "position": 138000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.9.2",
+      "statementLabel": null,
+      "description": "Structured Chart",
+      "ancestorIds": [
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "7C567A3D20D04DAD864783F8FB2818E8"
+    },
+    "E99FA0ED889246CF955197AE7037CDD0": {
+      "id": "E99FA0ED889246CF955197AE7037CDD0",
+      "asnIdentifier": null,
+      "position": 137000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.9.1.11",
+      "statementLabel": null,
+      "description": "use logic statements to define parts of an algorithm solution",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "52575CCDF489479B8CB7F3A00BED6AEB": {
+      "id": "52575CCDF489479B8CB7F3A00BED6AEB",
+      "asnIdentifier": null,
+      "position": 136000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "1.9.1.10",
+      "statementLabel": null,
+      "description": "show an appreciation of why logic statements are used to define parts of an algorithm solution",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "EB524400F2A84E54A00D45BD75E0B639": {
+      "id": "EB524400F2A84E54A00D45BD75E0B639",
+      "asnIdentifier": null,
+      "position": 135000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "1.9.1.9",
+      "statementLabel": null,
+      "description": "decompose a problem into sub-tasks leading to the concept of a program module (procedure/\nfunction)",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "3DD73A870F3F4A6E84D4FA2BBAD3E6A5": {
+      "id": "3DD73A870F3F4A6E84D4FA2BBAD3E6A5",
+      "asnIdentifier": null,
+      "position": 134000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "1.9.1.8",
+      "statementLabel": null,
+      "description": "use the process of stepwise refinement to express an algorithm to a level of detail from which\nthe task may be programmed",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "98EF767355384F699A587C3F8B5F73AF": {
+      "id": "98EF767355384F699A587C3F8B5F73AF",
+      "asnIdentifier": null,
+      "position": 133000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "1.9.1.7",
+      "statementLabel": null,
+      "description": "derive pseudocode from a given program flowchart or vice versa",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "F6777FDF97AF4845BA51A22E1A3DD280": {
+      "id": "F6777FDF97AF4845BA51A22E1A3DD280",
+      "asnIdentifier": null,
+      "position": 132000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.9.1.6",
+      "statementLabel": null,
+      "description": "derive pseudocode or a program flowchart from a structured English description of a problem",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "199410AB73274ADC8219A4CF72C66AFD": {
+      "id": "199410AB73274ADC8219A4CF72C66AFD",
+      "asnIdentifier": null,
+      "position": 131000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.9.1,5",
+      "statementLabel": null,
+      "description": "document a simple algorithm using:\n– structured English\n– pseudocode (on the examination paper, any given pseudocode will be presented using the\nCourier New font)\n– program flowchart ",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "5AC69FA359FA49778DA72AB7999238EC": {
+      "id": "5AC69FA359FA49778DA72AB7999238EC",
+      "asnIdentifier": null,
+      "position": 130000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.9.1.4",
+      "statementLabel": null,
+      "description": "show understanding that simple algorithms consist of input, process, output at various stages",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "F21038361D35482A9D593087AAE40040": {
+      "id": "F21038361D35482A9D593087AAE40040",
+      "asnIdentifier": null,
+      "position": 129000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.9.1.3",
+      "statementLabel": null,
+      "description": "show understanding that many algorithms are expressed using the four basic constructs of\nassignment, sequence, selection and repetition",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "9FB66EC0242041AA910C107F7FA1AE19": {
+      "id": "9FB66EC0242041AA910C107F7FA1AE19",
+      "asnIdentifier": null,
+      "position": 128000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.9.1.2",
+      "statementLabel": null,
+      "description": "use suitable identifier names for the representation of data used by a problem – summarise identifier names using an identifier table",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "1B66FC7888E44B60A0F03F3B1CFC5C08": {
+      "id": "1B66FC7888E44B60A0F03F3B1CFC5C08",
+      "asnIdentifier": null,
+      "position": 127000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.9.1.1",
+      "statementLabel": null,
+      "description": "show understanding that an algorithm is a solution to a problem expressed as a sequence of defined steps",
+      "ancestorIds": [
+        "964FB216B2554C278A1BFC2A855C125E",
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "964FB216B2554C278A1BFC2A855C125E"
+    },
+    "964FB216B2554C278A1BFC2A855C125E": {
+      "id": "964FB216B2554C278A1BFC2A855C125E",
+      "asnIdentifier": null,
+      "position": 126000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.9.1",
+      "statementLabel": null,
+      "description": "Algorithms",
+      "ancestorIds": [
+        "7C567A3D20D04DAD864783F8FB2818E8"
+      ],
+      "parentId": "7C567A3D20D04DAD864783F8FB2818E8"
+    },
+    "7C567A3D20D04DAD864783F8FB2818E8": {
+      "id": "7C567A3D20D04DAD864783F8FB2818E8",
+      "asnIdentifier": null,
+      "position": 125000,
+      "depth": 0,
+      "listId": "9",
+      "statementNotation": "1.9",
+      "statementLabel": null,
+      "description": "Algorithm design and problem-solving",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CB9C943DB516434FAE8C147002A2D64B": {
+      "id": "CB9C943DB516434FAE8C147002A2D64B",
+      "asnIdentifier": null,
+      "position": 124000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.8.3.2",
+      "statementLabel": null,
+      "description": "show understanding that the industry standard for both DDL and DML is Structured Query\nLanguage (SQL)\n– show understanding of a given SQL script\n– write simple SQL (DDL) commands using a sub-set of commands for:\n○ creating a database (CREATE DATABASE)\n○ creating a table defi nition (CREATE TABLE)\n○ changing a table defi nition (ALTER TABLE)\n○ adding a primary key or foreign key to a table (ADD PRIMARY KEY)\n– write a SQL script for querying or modifying data (DML) which are stored in (at most two)\ndatabase tables\n○ Queries:\n○ SELECT, FROM, WHERE, ORDER BY, GROUP BY, INNER JOIN\n– Data maintenance:\n○ INSERT INTO, DELETE FROM, UPDATE",
+      "ancestorIds": [
+        "C1DF2505832F4C419C877D4B1D955680",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "C1DF2505832F4C419C877D4B1D955680"
+    },
+    "80B70F42114645F88E1396C83B3EFC4B": {
+      "id": "80B70F42114645F88E1396C83B3EFC4B",
+      "asnIdentifier": null,
+      "position": 123000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.8.3.1",
+      "statementLabel": null,
+      "description": "show understanding that DBMS software carries out: – all creation/modification of the database structure using its DDL – query and maintenance of data using its DML",
+      "ancestorIds": [
+        "C1DF2505832F4C419C877D4B1D955680",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "C1DF2505832F4C419C877D4B1D955680"
+    },
+    "C1DF2505832F4C419C877D4B1D955680": {
+      "id": "C1DF2505832F4C419C877D4B1D955680",
+      "asnIdentifier": null,
+      "position": 122000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.8.3",
+      "statementLabel": null,
+      "description": " Data Definition Language (DDL) and Data Manipulation Language (DML)",
+      "ancestorIds": [
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "A8F13A2157854D43AB0E3202F230BCD2"
+    },
+    "B8FB77FD0ACB42B9ACC535A98BD9F765": {
+      "id": "B8FB77FD0ACB42B9ACC535A98BD9F765",
+      "asnIdentifier": null,
+      "position": 121000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.8.2.6",
+      "statementLabel": null,
+      "description": "make the changes to a given set of tables which are not in 3NF to produce a solution in 3NF, and\njustify the changes made",
+      "ancestorIds": [
+        "10BA97F63DA74313B25AAC4EEA185FBD",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "10BA97F63DA74313B25AAC4EEA185FBD"
+    },
+    "A0AE6DE3F75D409594DB9AB2A54B2E23": {
+      "id": "A0AE6DE3F75D409594DB9AB2A54B2E23",
+      "asnIdentifier": null,
+      "position": 120000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.8.2.5",
+      "statementLabel": null,
+      "description": "explain why a given set of database tables are, or are not, in 3NF",
+      "ancestorIds": [
+        "10BA97F63DA74313B25AAC4EEA185FBD",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "10BA97F63DA74313B25AAC4EEA185FBD"
+    },
+    "C6F43FD02E6A4AEE87D74BC964C3698D": {
+      "id": "C6F43FD02E6A4AEE87D74BC964C3698D",
+      "asnIdentifier": null,
+      "position": 119000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.8.2.4",
+      "statementLabel": null,
+      "description": "show understanding of the normalisation process: First (1NF), Second (2NF) and Third Normal\nForm (3NF)",
+      "ancestorIds": [
+        "10BA97F63DA74313B25AAC4EEA185FBD",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "10BA97F63DA74313B25AAC4EEA185FBD"
+    },
+    "27122378C3AB405F95C0F698DDAD6417": {
+      "id": "27122378C3AB405F95C0F698DDAD6417",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.8.2.3",
+      "statementLabel": null,
+      "description": "use an entity-relationship diagram to document a database design",
+      "ancestorIds": [
+        "10BA97F63DA74313B25AAC4EEA185FBD",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "10BA97F63DA74313B25AAC4EEA185FBD"
+    },
+    "CBF41DAB286A4A3BAFD1F78823732FEC": {
+      "id": "CBF41DAB286A4A3BAFD1F78823732FEC",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.8.2.2",
+      "statementLabel": null,
+      "description": "produce a relational design from a given description of a system",
+      "ancestorIds": [
+        "10BA97F63DA74313B25AAC4EEA185FBD",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "10BA97F63DA74313B25AAC4EEA185FBD"
+    },
+    "F9AB92DC54F1430E9262FCDD48BE14BF": {
+      "id": "F9AB92DC54F1430E9262FCDD48BE14BF",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.8.2.1",
+      "statementLabel": null,
+      "description": "show understanding of, and use, the terminology associated with a relational database model:\nentity, table, tuple, attribute, primary key, candidate key, foreign key, relationship, referential\nintegrity, secondary key and indexing",
+      "ancestorIds": [
+        "10BA97F63DA74313B25AAC4EEA185FBD",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "10BA97F63DA74313B25AAC4EEA185FBD"
+    },
+    "10BA97F63DA74313B25AAC4EEA185FBD": {
+      "id": "10BA97F63DA74313B25AAC4EEA185FBD",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.8.2",
+      "statementLabel": null,
+      "description": "Relational Database Modelling",
+      "ancestorIds": [
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "A8F13A2157854D43AB0E3202F230BCD2"
+    },
+    "5AB12101F9EC4C448C04F1FE1D624383": {
+      "id": "5AB12101F9EC4C448C04F1FE1D624383",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.8.1.5",
+      "statementLabel": null,
+      "description": "show awareness that high-level languages provide accessing facilities for data stored in a\ndatabase",
+      "ancestorIds": [
+        "7D41382F23B544F1A1BAA4BA653A335A",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "7D41382F23B544F1A1BAA4BA653A335A"
+    },
+    "337EAB30737B41E09B39575511E551D0": {
+      "id": "337EAB30737B41E09B39575511E551D0",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.8.1.4",
+      "statementLabel": null,
+      "description": "show understanding of how software tools found within a DBMS are used in practice:\n– developer interface\n– query processor",
+      "ancestorIds": [
+        "7D41382F23B544F1A1BAA4BA653A335A",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "7D41382F23B544F1A1BAA4BA653A335A"
+    },
+    "3457A743A5254B3EA593E98527DB5080": {
+      "id": "3457A743A5254B3EA593E98527DB5080",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.8.1.3",
+      "statementLabel": null,
+      "description": "show understanding of the features provided by a DBMS to address the issues of:\n– data management, including maintaining a data dictionary\n– data modelling\n– logical schema\n– data integrity\n– data security, including backup procedures and the use of access rights to individuals/groups\nof users",
+      "ancestorIds": [
+        "7D41382F23B544F1A1BAA4BA653A335A",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "7D41382F23B544F1A1BAA4BA653A335A"
+    },
+    "0DDE027F3CB1480D8526B395B4CBBE6D": {
+      "id": "0DDE027F3CB1480D8526B395B4CBBE6D",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.8.1.2",
+      "statementLabel": null,
+      "description": "describe the features of a relational database which address the limitations of a file-based\napproach",
+      "ancestorIds": [
+        "7D41382F23B544F1A1BAA4BA653A335A",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "7D41382F23B544F1A1BAA4BA653A335A"
+    },
+    "D60ECE02D62E4D97AD08FDF4A0EB9825": {
+      "id": "D60ECE02D62E4D97AD08FDF4A0EB9825",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.8.1.1",
+      "statementLabel": null,
+      "description": "show understanding of the limitations of using a file-based approach for the storage and retrieval\nof data",
+      "ancestorIds": [
+        "7D41382F23B544F1A1BAA4BA653A335A",
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "7D41382F23B544F1A1BAA4BA653A335A"
+    },
+    "7D41382F23B544F1A1BAA4BA653A335A": {
+      "id": "7D41382F23B544F1A1BAA4BA653A335A",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.8.1",
+      "statementLabel": null,
+      "description": " Database Management Systems (DBMS)",
+      "ancestorIds": [
+        "A8F13A2157854D43AB0E3202F230BCD2"
+      ],
+      "parentId": "A8F13A2157854D43AB0E3202F230BCD2"
+    },
+    "A8F13A2157854D43AB0E3202F230BCD2": {
+      "id": "A8F13A2157854D43AB0E3202F230BCD2",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 0,
+      "listId": "8",
+      "statementNotation": "1.8",
+      "statementLabel": null,
+      "description": "Database and data modelling",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "83C43A79F6B14919B4682B00D63700D6": {
+      "id": "83C43A79F6B14919B4682B00D63700D6",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.7.2.4",
+      "statementLabel": null,
+      "description": "show understanding of the implications of different types of software licensing: Free Software\nFoundation, the Open Source Initiative, shareware and commercial software",
+      "ancestorIds": [
+        "0806A1ACFBC94F2EA8BE2F4769446257",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "0806A1ACFBC94F2EA8BE2F4769446257"
+    },
+    "1C6A12D3033B4C54AA4C09167FE4400F": {
+      "id": "1C6A12D3033B4C54AA4C09167FE4400F",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.7.2.3",
+      "statementLabel": null,
+      "description": "discuss measures to restrict access to data made available through the Internet and World Wide\nWeb ",
+      "ancestorIds": [
+        "0806A1ACFBC94F2EA8BE2F4769446257",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "0806A1ACFBC94F2EA8BE2F4769446257"
+    },
+    "16CFD08FB7BA44B48301A7FEA554802A": {
+      "id": "16CFD08FB7BA44B48301A7FEA554802A",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.7.2.2",
+      "statementLabel": null,
+      "description": "describe the need for legislation to protect ownership, usage and copyright",
+      "ancestorIds": [
+        "0806A1ACFBC94F2EA8BE2F4769446257",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "0806A1ACFBC94F2EA8BE2F4769446257"
+    },
+    "65A1E5EA1559415EB014599D9C8B5534": {
+      "id": "65A1E5EA1559415EB014599D9C8B5534",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.7.2.1",
+      "statementLabel": null,
+      "description": "show understanding of the concept of ownership and copyright",
+      "ancestorIds": [
+        "0806A1ACFBC94F2EA8BE2F4769446257",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "0806A1ACFBC94F2EA8BE2F4769446257"
+    },
+    "0806A1ACFBC94F2EA8BE2F4769446257": {
+      "id": "0806A1ACFBC94F2EA8BE2F4769446257",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.7.2",
+      "statementLabel": null,
+      "description": "Ownership of Software Data",
+      "ancestorIds": [
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "1522BB462BFE4E5292A3B4971DD65FAE"
+    },
+    "8E2B19F1811843F39039D8F400B46834": {
+      "id": "8E2B19F1811843F39039D8F400B46834",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.7.1.5",
+      "statementLabel": null,
+      "description": "show understanding of the need for a professional code of conduct for a computer system\ndeveloper",
+      "ancestorIds": [
+        "EBBB3AAA43D8462FAB64628EA97A1A1A",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "EBBB3AAA43D8462FAB64628EA97A1A1A"
+    },
+    "4879819489AD4F86A80FE301F1E459AE": {
+      "id": "4879819489AD4F86A80FE301F1E459AE",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.7.1.4",
+      "statementLabel": null,
+      "description": "demonstrate the relevance of these principles to some typical software developer workplace\nscenarios",
+      "ancestorIds": [
+        "EBBB3AAA43D8462FAB64628EA97A1A1A",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "EBBB3AAA43D8462FAB64628EA97A1A1A"
+    },
+    "5BFEA0AA2B274277A799B4B89B615066": {
+      "id": "5BFEA0AA2B274277A799B4B89B615066",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.7.1.3",
+      "statementLabel": null,
+      "description": "show understanding of the eight principles listed in the ACM/IEEE Software Engineering Code of\nEthics",
+      "ancestorIds": [
+        "EBBB3AAA43D8462FAB64628EA97A1A1A",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "EBBB3AAA43D8462FAB64628EA97A1A1A"
+    },
+    "8F3BD97573CC48738937510F9E3F9A95": {
+      "id": "8F3BD97573CC48738937510F9E3F9A95",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.7.1.2",
+      "statementLabel": null,
+      "description": "explain how ethics may impact on the job role of the computing professional",
+      "ancestorIds": [
+        "EBBB3AAA43D8462FAB64628EA97A1A1A",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "EBBB3AAA43D8462FAB64628EA97A1A1A"
+    },
+    "65AC26A82B484BE9A6C565D9F562E336": {
+      "id": "65AC26A82B484BE9A6C565D9F562E336",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.7.1.1",
+      "statementLabel": null,
+      "description": "show a basic understanding of ethics",
+      "ancestorIds": [
+        "EBBB3AAA43D8462FAB64628EA97A1A1A",
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "EBBB3AAA43D8462FAB64628EA97A1A1A"
+    },
+    "EBBB3AAA43D8462FAB64628EA97A1A1A": {
+      "id": "EBBB3AAA43D8462FAB64628EA97A1A1A",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.7.1",
+      "statementLabel": null,
+      "description": "Ethics and the Computing Professional",
+      "ancestorIds": [
+        "1522BB462BFE4E5292A3B4971DD65FAE"
+      ],
+      "parentId": "1522BB462BFE4E5292A3B4971DD65FAE"
+    },
+    "1522BB462BFE4E5292A3B4971DD65FAE": {
+      "id": "1522BB462BFE4E5292A3B4971DD65FAE",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 0,
+      "listId": "7",
+      "statementNotation": "1.7",
+      "statementLabel": null,
+      "description": "Ethics and ownership ",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F09BF853688746BEBEB6B29AB78626AC": {
+      "id": "F09BF853688746BEBEB6B29AB78626AC",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.6.2.1",
+      "statementLabel": null,
+      "description": "describe error detection and correction measures designed to protect the integrity of data,\nincluding:\n– data validation\n– data verifi cation for data entry\n– data verifi cation during data transfer, including\n○ parity check\n○ checksum check",
+      "ancestorIds": [
+        "F16901A444EA40D79ACA4FC9399A7652",
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "F16901A444EA40D79ACA4FC9399A7652"
+    },
+    "F16901A444EA40D79ACA4FC9399A7652": {
+      "id": "F16901A444EA40D79ACA4FC9399A7652",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.6.2",
+      "statementLabel": null,
+      "description": "Data Integrity",
+      "ancestorIds": [
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "C15E2C6A55CC4143AFE3DE10217D716D"
+    },
+    "E2C9389C8BEA42DBB82C7601E45AA79B": {
+      "id": "E2C9389C8BEA42DBB82C7601E45AA79B",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.6.1.5",
+      "statementLabel": null,
+      "description": "show awareness of what kind of errors can occur and what can be done about them",
+      "ancestorIds": [
+        "3A1D2096B46F4BEAA6FEE892E081FC75",
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "3A1D2096B46F4BEAA6FEE892E081FC75"
+    },
+    "B86E9C4FB6BE4F139B9D615427022CEA": {
+      "id": "B86E9C4FB6BE4F139B9D615427022CEA",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.6.1.4",
+      "statementLabel": null,
+      "description": "describe security measures designed to protect the security of data, including:\n– data backup\n– a disk-mirroring strategy\n– encryption\n– access rights to data (authorisation)",
+      "ancestorIds": [
+        "3A1D2096B46F4BEAA6FEE892E081FC75",
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "3A1D2096B46F4BEAA6FEE892E081FC75"
+    },
+    "5B240C1AB12444E39F19DD085357B3F5": {
+      "id": "5B240C1AB12444E39F19DD085357B3F5",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.6.1.3",
+      "statementLabel": null,
+      "description": "describe security measures designed to protect computer systems, ranging from the stand-alone PC to a network of computers, including: – user accounts – firewalls – general authentication techniques, including the use of passwords and digital signatures",
+      "ancestorIds": [
+        "3A1D2096B46F4BEAA6FEE892E081FC75",
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "3A1D2096B46F4BEAA6FEE892E081FC75"
+    },
+    "1469DBBCFD6C4C409D67F8C1BC1EB3BD": {
+      "id": "1469DBBCFD6C4C409D67F8C1BC1EB3BD",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.6.1.2",
+      "statementLabel": null,
+      "description": "show appreciation of the need for both the security of data and the security of the computer\nsystem",
+      "ancestorIds": [
+        "3A1D2096B46F4BEAA6FEE892E081FC75",
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "3A1D2096B46F4BEAA6FEE892E081FC75"
+    },
+    "FC51ED68D9B74D44AD7C39378ECFCF49": {
+      "id": "FC51ED68D9B74D44AD7C39378ECFCF49",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.6.1.1",
+      "statementLabel": null,
+      "description": "explain the difference between the terms security, privacy and integrity of data",
+      "ancestorIds": [
+        "3A1D2096B46F4BEAA6FEE892E081FC75",
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "3A1D2096B46F4BEAA6FEE892E081FC75"
+    },
+    "3A1D2096B46F4BEAA6FEE892E081FC75": {
+      "id": "3A1D2096B46F4BEAA6FEE892E081FC75",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.6.1",
+      "statementLabel": null,
+      "description": "Data Security",
+      "ancestorIds": [
+        "C15E2C6A55CC4143AFE3DE10217D716D"
+      ],
+      "parentId": "C15E2C6A55CC4143AFE3DE10217D716D"
+    },
+    "C15E2C6A55CC4143AFE3DE10217D716D": {
+      "id": "C15E2C6A55CC4143AFE3DE10217D716D",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "1.6",
+      "statementLabel": null,
+      "description": "Security, privacy and data integrity",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3F1DB717D66C4722B8BCCFDE80699481": {
+      "id": "3F1DB717D66C4722B8BCCFDE80699481",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.5.4.3",
+      "statementLabel": null,
+      "description": "show awareness that high-level language programs may be partially compiled and partially\ninterpreted, such as Java",
+      "ancestorIds": [
+        "18C4B6ECAD30432987C5C6D36C02BD50",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "18C4B6ECAD30432987C5C6D36C02BD50"
+    },
+    "54717106BB804A4FBEDE05A9950BDAFF": {
+      "id": "54717106BB804A4FBEDE05A9950BDAFF",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.5.4.2",
+      "statementLabel": null,
+      "description": "explain the benefits and drawbacks of using either a compiler or interpreter",
+      "ancestorIds": [
+        "18C4B6ECAD30432987C5C6D36C02BD50",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "18C4B6ECAD30432987C5C6D36C02BD50"
+    },
+    "5B4D2ED15F9C494F875C604B31F3580B": {
+      "id": "5B4D2ED15F9C494F875C604B31F3580B",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.5.4.1",
+      "statementLabel": null,
+      "description": "show an understanding of the need for:\n– assembler software for the translation of an assembly language program\n– a compiler for the translation of a high-level language program\n– an interpreter for execution of a high-level language program",
+      "ancestorIds": [
+        "18C4B6ECAD30432987C5C6D36C02BD50",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "18C4B6ECAD30432987C5C6D36C02BD50"
+    },
+    "18C4B6ECAD30432987C5C6D36C02BD50": {
+      "id": "18C4B6ECAD30432987C5C6D36C02BD50",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "1.5.4",
+      "statementLabel": null,
+      "description": "Language Translators",
+      "ancestorIds": [
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "3F13AF44D7594D2193CEF95786012859"
+    },
+    "7BEC51237B5B4D70A314B484CD92A32E": {
+      "id": "7BEC51237B5B4D70A314B484CD92A32E",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.5.3.3",
+      "statementLabel": null,
+      "description": "draw on experience of the writing of programs which include library routines",
+      "ancestorIds": [
+        "480613FD17664F0EAE75040BF4021E54",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "480613FD17664F0EAE75040BF4021E54"
+    },
+    "5BF6EC829E394C63B6F4FB72A1686F71": {
+      "id": "5BF6EC829E394C63B6F4FB72A1686F71",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.5.3.2",
+      "statementLabel": null,
+      "description": "describe the benefits to the developer of software constructed using library fi les, including\nDynamic Link Library (DLL) fi les",
+      "ancestorIds": [
+        "480613FD17664F0EAE75040BF4021E54",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "480613FD17664F0EAE75040BF4021E54"
+    },
+    "B29DD706E9574C58A4E987F1450780EE": {
+      "id": "B29DD706E9574C58A4E987F1450780EE",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.5.3.1",
+      "statementLabel": null,
+      "description": "show an understanding that software under development is often constructed using existing code\nfrom program libraries",
+      "ancestorIds": [
+        "480613FD17664F0EAE75040BF4021E54",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "480613FD17664F0EAE75040BF4021E54"
+    },
+    "480613FD17664F0EAE75040BF4021E54": {
+      "id": "480613FD17664F0EAE75040BF4021E54",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.5.3",
+      "statementLabel": null,
+      "description": "Library Programs",
+      "ancestorIds": [
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "3F13AF44D7594D2193CEF95786012859"
+    },
+    "CCBC8BBB15684571ABD015B21DE73088": {
+      "id": "CCBC8BBB15684571ABD015B21DE73088",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.5.2.1",
+      "statementLabel": null,
+      "description": "show an understanding of the need for typical utility software used by a PC computer system: – disk formatter – virus checker – defragmenter software – disk contents analysis/disk repair software – file compression – backup software",
+      "ancestorIds": [
+        "3142F604D26D4AC6B729228F658D1C14",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "3142F604D26D4AC6B729228F658D1C14"
+    },
+    "3142F604D26D4AC6B729228F658D1C14": {
+      "id": "3142F604D26D4AC6B729228F658D1C14",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.5.2",
+      "statementLabel": null,
+      "description": "Utility Programs",
+      "ancestorIds": [
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "3F13AF44D7594D2193CEF95786012859"
+    },
+    "7C152A96CF0C4A8FB9959B8F79B15F60": {
+      "id": "7C152A96CF0C4A8FB9959B8F79B15F60",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.5.1.2",
+      "statementLabel": null,
+      "description": "explain the key management tasks carried out by the operating system",
+      "ancestorIds": [
+        "F104680B57DA4BB2949517A94152817C",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "F104680B57DA4BB2949517A94152817C"
+    },
+    "1D0528F756AF447EBFED7E7E455F2BF7": {
+      "id": "1D0528F756AF447EBFED7E7E455F2BF7",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.5.1.1",
+      "statementLabel": null,
+      "description": "describe why a computer system requires an operating system",
+      "ancestorIds": [
+        "F104680B57DA4BB2949517A94152817C",
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "F104680B57DA4BB2949517A94152817C"
+    },
+    "F104680B57DA4BB2949517A94152817C": {
+      "id": "F104680B57DA4BB2949517A94152817C",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.5.1",
+      "statementLabel": null,
+      "description": "Operating System",
+      "ancestorIds": [
+        "3F13AF44D7594D2193CEF95786012859"
+      ],
+      "parentId": "3F13AF44D7594D2193CEF95786012859"
+    },
+    "3F13AF44D7594D2193CEF95786012859": {
+      "id": "3F13AF44D7594D2193CEF95786012859",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "1.5",
+      "statementLabel": null,
+      "description": "System software",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9BAA946BCBCC45DFAC148A0D1A508EB5": {
+      "id": "9BAA946BCBCC45DFAC148A0D1A508EB5",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.4.3",
+      "statementLabel": null,
+      "description": "trace a given simple assembly language program",
+      "ancestorIds": [
+        "62CED58F22CB4CA89146FC238DB44219",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "62CED58F22CB4CA89146FC238DB44219"
+    },
+    "F1D381E9705642B7A470BDF2D7917383": {
+      "id": "F1D381E9705642B7A470BDF2D7917383",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.4.2",
+      "statementLabel": null,
+      "description": "describe the different stages of the assembly process for a ‘two-pass’ assembler for a given\nsimple assembly language program",
+      "ancestorIds": [
+        "62CED58F22CB4CA89146FC238DB44219",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "62CED58F22CB4CA89146FC238DB44219"
+    },
+    "CB7EFFA413C349AEBC56251A4E73A32A": {
+      "id": "CB7EFFA413C349AEBC56251A4E73A32A",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.4.1",
+      "statementLabel": null,
+      "description": " show understanding of the relationship between assembly language and machine code, including\nsymbolic and absolute addressing, directives and macros",
+      "ancestorIds": [
+        "62CED58F22CB4CA89146FC238DB44219",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "62CED58F22CB4CA89146FC238DB44219"
+    },
+    "62CED58F22CB4CA89146FC238DB44219": {
+      "id": "62CED58F22CB4CA89146FC238DB44219",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "1.4.4",
+      "statementLabel": null,
+      "description": "Assembly Language",
+      "ancestorIds": [
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "CAC65D5D693447B1AA2CC577769AD532"
+    },
+    "9C1ABBD30BA4496AB0AE390B1D4D9D55": {
+      "id": "9C1ABBD30BA4496AB0AE390B1D4D9D55",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.3.1",
+      "statementLabel": null,
+      "description": "show understanding that the set of instructions are grouped into instructions for:\n– data movement (register to main memory and vice versa)\n– input and output of data\n– arithmetic operations\n– unconditional and conditional jump instructions\n– compare instructions\n– modes of addressing: immediate, direct, indirect, indexed, relative ",
+      "ancestorIds": [
+        "68D54B042E454F7E81C07467C0A16EC6",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "68D54B042E454F7E81C07467C0A16EC6"
+    },
+    "68D54B042E454F7E81C07467C0A16EC6": {
+      "id": "68D54B042E454F7E81C07467C0A16EC6",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.4.3",
+      "statementLabel": null,
+      "description": "The Processor's Instruction Set",
+      "ancestorIds": [
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "CAC65D5D693447B1AA2CC577769AD532"
+    },
+    "0CE94075B8DA4842A6DAC79617435F77": {
+      "id": "0CE94075B8DA4842A6DAC79617435F77",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.2.3",
+      "statementLabel": null,
+      "description": "describe how interrupts are handled",
+      "ancestorIds": [
+        "AAF383390739498D85B65C6F880864DB",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "AAF383390739498D85B65C6F880864DB"
+    },
+    "4C3C76E9771F4529BD41CFFE86947A3D": {
+      "id": "4C3C76E9771F4529BD41CFFE86947A3D",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.2.2",
+      "statementLabel": null,
+      "description": "show understanding of ‘register transfer’ notation",
+      "ancestorIds": [
+        "AAF383390739498D85B65C6F880864DB",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "AAF383390739498D85B65C6F880864DB"
+    },
+    "7439299256EB48EAB7814A6DD093E251": {
+      "id": "7439299256EB48EAB7814A6DD093E251",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.2.1",
+      "statementLabel": null,
+      "description": "describe the stages of the fetch-execute cycle ",
+      "ancestorIds": [
+        "AAF383390739498D85B65C6F880864DB",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "AAF383390739498D85B65C6F880864DB"
+    },
+    "AAF383390739498D85B65C6F880864DB": {
+      "id": "AAF383390739498D85B65C6F880864DB",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.4.2",
+      "statementLabel": null,
+      "description": "The Fetch-Execute Cycle",
+      "ancestorIds": [
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "CAC65D5D693447B1AA2CC577769AD532"
+    },
+    "661E22EBB7C94A9CBBE034AC7CF71D87": {
+      "id": "661E22EBB7C94A9CBBE034AC7CF71D87",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.1.6",
+      "statementLabel": null,
+      "description": "show understanding of the need for ports, for example Universal Serial Bus (USB), to provide the\nconnection to peripheral devices",
+      "ancestorIds": [
+        "A5DA56FB7ADB49648B0F252818EEFE44",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "A5DA56FB7ADB49648B0F252818EEFE44"
+    },
+    "F1B563E791044EAE8ED2389639560BD4": {
+      "id": "F1B563E791044EAE8ED2389639560BD4",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.1.5",
+      "statementLabel": null,
+      "description": "show understanding of how the bus width and clock speed are factors that contribute to the\nperformance of the computer system",
+      "ancestorIds": [
+        "A5DA56FB7ADB49648B0F252818EEFE44",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "A5DA56FB7ADB49648B0F252818EEFE44"
+    },
+    "B7383715A54D4193A0CD3DB184AE191F": {
+      "id": "B7383715A54D4193A0CD3DB184AE191F",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.1.4",
+      "statementLabel": null,
+      "description": "show understanding of how data are transferred between various components of the computer\nsystem using the address bus, data bus and control bus",
+      "ancestorIds": [
+        "A5DA56FB7ADB49648B0F252818EEFE44",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "A5DA56FB7ADB49648B0F252818EEFE44"
+    },
+    "1BD570A257ED496E8255CE7F8D07BB8E": {
+      "id": "1BD570A257ED496E8255CE7F8D07BB8E",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.1.3",
+      "statementLabel": null,
+      "description": "show understanding of the roles carried out by the Arithmetic and Logic Unit (ALU), Control Unit\nand system clock",
+      "ancestorIds": [
+        "A5DA56FB7ADB49648B0F252818EEFE44",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "A5DA56FB7ADB49648B0F252818EEFE44"
+    },
+    "E439A3B1FAF04F22AB152B2D2F6AB8FF": {
+      "id": "E439A3B1FAF04F22AB152B2D2F6AB8FF",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.1.2",
+      "statementLabel": null,
+      "description": "show understanding of the roles carried out by registers, including the difference between\ngeneral purpose and special purpose registers: Program Counter, Memory Data Register,\nMemory Address Register, Index Register, Current Instruction Register and Status Register",
+      "ancestorIds": [
+        "A5DA56FB7ADB49648B0F252818EEFE44",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "A5DA56FB7ADB49648B0F252818EEFE44"
+    },
+    "8A3BA09A1B6A4563A76947E8598A1844": {
+      "id": "8A3BA09A1B6A4563A76947E8598A1844",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "1.4.1.1",
+      "statementLabel": null,
+      "description": "show understanding of the basic Von Neumann model for a computer system and the stored\nprogram concept",
+      "ancestorIds": [
+        "A5DA56FB7ADB49648B0F252818EEFE44",
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "A5DA56FB7ADB49648B0F252818EEFE44"
+    },
+    "A5DA56FB7ADB49648B0F252818EEFE44": {
+      "id": "A5DA56FB7ADB49648B0F252818EEFE44",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.4.1",
+      "statementLabel": null,
+      "description": "CPU Architecture",
+      "ancestorIds": [
+        "CAC65D5D693447B1AA2CC577769AD532"
+      ],
+      "parentId": "CAC65D5D693447B1AA2CC577769AD532"
+    },
+    "CAC65D5D693447B1AA2CC577769AD532": {
+      "id": "CAC65D5D693447B1AA2CC577769AD532",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "1.4",
+      "statementLabel": null,
+      "description": "Processor fundamentals",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C5378EFA6804477688F55F8E683957E2": {
+      "id": "C5378EFA6804477688F55F8E683957E2",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.3.3.6",
+      "statementLabel": null,
+      "description": "show understanding that some circuits can be constructed with fewer gates to produce the same\noutputs",
+      "ancestorIds": [
+        "ADBE09FFC08F40F58BADFBB8AD2823F2",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "ADBE09FFC08F40F58BADFBB8AD2823F2"
+    },
+    "FC485DF638B44A73801730CB2EA7F907": {
+      "id": "FC485DF638B44A73801730CB2EA7F907",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.3.3.5",
+      "statementLabel": null,
+      "description": "construct a truth table from either:\n– a logic circuit\n– a logic expression",
+      "ancestorIds": [
+        "ADBE09FFC08F40F58BADFBB8AD2823F2",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "ADBE09FFC08F40F58BADFBB8AD2823F2"
+    },
+    "20F54475717E44638CEBB8DA91DA2740": {
+      "id": "20F54475717E44638CEBB8DA91DA2740",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.3.3.4",
+      "statementLabel": null,
+      "description": "construct a logic circuit from either:\n– a problem statement\n– a logic expression",
+      "ancestorIds": [
+        "ADBE09FFC08F40F58BADFBB8AD2823F2",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "ADBE09FFC08F40F58BADFBB8AD2823F2"
+    },
+    "42A0D8D20E054E509CD250B1FED0449F": {
+      "id": "42A0D8D20E054E509CD250B1FED0449F",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.3.3.3",
+      "statementLabel": null,
+      "description": "construct the truth table for each of the logic gates above",
+      "ancestorIds": [
+        "ADBE09FFC08F40F58BADFBB8AD2823F2",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "ADBE09FFC08F40F58BADFBB8AD2823F2"
+    },
+    "30FFE0215F27497EA20B0C8AE12B137F": {
+      "id": "30FFE0215F27497EA20B0C8AE12B137F",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.3.3.2",
+      "statementLabel": null,
+      "description": "understand and define the functions of NOT, AND, OR, NAND, NOR and XOR (EOR) gates\nincluding the binary output produced from all the possible binary inputs ",
+      "ancestorIds": [
+        "ADBE09FFC08F40F58BADFBB8AD2823F2",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "ADBE09FFC08F40F58BADFBB8AD2823F2"
+    },
+    "245E33C9CB89443690484ACDA5028572": {
+      "id": "245E33C9CB89443690484ACDA5028572",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.3.3.1",
+      "statementLabel": null,
+      "description": "use the following logic gate symbols: NOT/ AND/ OR/ NAND/ NOR/ XOR",
+      "ancestorIds": [
+        "ADBE09FFC08F40F58BADFBB8AD2823F2",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "ADBE09FFC08F40F58BADFBB8AD2823F2"
+    },
+    "ADBE09FFC08F40F58BADFBB8AD2823F2": {
+      "id": "ADBE09FFC08F40F58BADFBB8AD2823F2",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.3.3",
+      "statementLabel": null,
+      "description": "Logic gates and logic circuits",
+      "ancestorIds": [
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "E507703FEC2B497A90ACCEA441B82B72"
+    },
+    "487D351DAC954D6EA9378E4BC8C84ACB": {
+      "id": "487D351DAC954D6EA9378E4BC8C84ACB",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.3.2.1",
+      "statementLabel": null,
+      "description": "show understanding of the need for primary storage\n– explain the differences between RAM and ROM memory\n– explain the differences between Static RAM (SRAM) and Dynamic RAM (DRAM)",
+      "ancestorIds": [
+        "63949F2D34164E638F0524B331087184",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "63949F2D34164E638F0524B331087184"
+    },
+    "63949F2D34164E638F0524B331087184": {
+      "id": "63949F2D34164E638F0524B331087184",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.3.2",
+      "statementLabel": null,
+      "description": "Main memory",
+      "ancestorIds": [
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "E507703FEC2B497A90ACCEA441B82B72"
+    },
+    "091F06A2024E49958DE9E05F8C5CCABF": {
+      "id": "091F06A2024E49958DE9E05F8C5CCABF",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.3.1.3",
+      "statementLabel": null,
+      "description": "show understanding of the need for secondary (including removable) storage",
+      "ancestorIds": [
+        "FFEFFD1B76284E3391687AA510A7268E",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "FFEFFD1B76284E3391687AA510A7268E"
+    },
+    "C7AF3EDABB2244EA8136406A2546C43F": {
+      "id": "C7AF3EDABB2244EA8136406A2546C43F",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.3.1.2",
+      "statementLabel": null,
+      "description": "show understanding of the basic internal operation of the following specific types of device: – keyboard – speakers – trackerball mouse – hard disk – optical mouse – solid state (flash) memory – scanner – optical discs – inkjet printer – microphone – laser printer – touchscreen – 3D printer",
+      "ancestorIds": [
+        "FFEFFD1B76284E3391687AA510A7268E",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "FFEFFD1B76284E3391687AA510A7268E"
+    },
+    "9239E9D2AF694EEE94B05705211482BE": {
+      "id": "9239E9D2AF694EEE94B05705211482BE",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.3.1.1",
+      "statementLabel": null,
+      "description": "identify hardware devices used for input, output, secondary storage ",
+      "ancestorIds": [
+        "FFEFFD1B76284E3391687AA510A7268E",
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "FFEFFD1B76284E3391687AA510A7268E"
+    },
+    "FFEFFD1B76284E3391687AA510A7268E": {
+      "id": "FFEFFD1B76284E3391687AA510A7268E",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.3.1",
+      "statementLabel": null,
+      "description": "Input, output, and storage devices",
+      "ancestorIds": [
+        "E507703FEC2B497A90ACCEA441B82B72"
+      ],
+      "parentId": "E507703FEC2B497A90ACCEA441B82B72"
+    },
+    "E507703FEC2B497A90ACCEA441B82B72": {
+      "id": "E507703FEC2B497A90ACCEA441B82B72",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "1.3",
+      "statementLabel": null,
+      "description": "Hardware",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "592CD1E50D4C4BAFBACF8B9F04539FE3": {
+      "id": "592CD1E50D4C4BAFBACF8B9F04539FE3",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.2.3.1",
+      "statementLabel": null,
+      "description": "describe the sequence of events executed by the client computer and web server when a web\npage consisting only of HTML tags is requested and displayed by a browser\n– Client-side\n○ recognise and identify the purpose of some simple JavaScript code\n○ describe the sequence of events executed by the client computer and web server when a\nweb page with embedded client-side code is requested and displayed by a browser\n○ show understanding of the typical use of client-side code in the design of an application\n– Server-side\n○ recognise and identify the purpose of some simple PHP code\n○ describe the sequence of events executed by the client computer and web server when a\nweb page with embedded server-side code is requested and displayed by a browser\n○ show understanding that an appropriately designed web application for accessing\ndatabase data makes use of server-side scripting",
+      "ancestorIds": [
+        "1CCB6A8C39774D7DA55A2CA38FE7F218",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "1CCB6A8C39774D7DA55A2CA38FE7F218"
+    },
+    "1CCB6A8C39774D7DA55A2CA38FE7F218": {
+      "id": "1CCB6A8C39774D7DA55A2CA38FE7F218",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.2.3",
+      "statementLabel": null,
+      "description": "Client- and Server-Side Scripting",
+      "ancestorIds": [
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "0701DABE925B45FEABE7BC88BB6AC731"
+    },
+    "7AC547D7BB134A9EBECD54E98D014520": {
+      "id": "7AC547D7BB134A9EBECD54E98D014520",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.2.2.3",
+      "statementLabel": null,
+      "description": "explain how a Uniform Resource Locator (URL) is used to locate a resource on the World Wide\nWeb (WWW) and the role of the Domain Name Service",
+      "ancestorIds": [
+        "4449DA281DB14F1A928BF328A362BF03",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "4449DA281DB14F1A928BF328A362BF03"
+    },
+    "1DA5ED04AE1642DBA9A9E46CA7AE7B18": {
+      "id": "1DA5ED04AE1642DBA9A9E46CA7AE7B18",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.2.2.2",
+      "statementLabel": null,
+      "description": "explain the difference between a public IP address and a private IP address and the implication for\nsecurity",
+      "ancestorIds": [
+        "4449DA281DB14F1A928BF328A362BF03",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "4449DA281DB14F1A928BF328A362BF03"
+    },
+    "CBC88BA3ACB34BA69037BB0B23F1DA46": {
+      "id": "CBC88BA3ACB34BA69037BB0B23F1DA46",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.2.2.1",
+      "statementLabel": null,
+      "description": "explain the format of an IP address and how an IP address is associated with a device on a\nnetwork",
+      "ancestorIds": [
+        "4449DA281DB14F1A928BF328A362BF03",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "4449DA281DB14F1A928BF328A362BF03"
+    },
+    "4449DA281DB14F1A928BF328A362BF03": {
+      "id": "4449DA281DB14F1A928BF328A362BF03",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.2.2",
+      "statementLabel": null,
+      "description": "IP Addressing",
+      "ancestorIds": [
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "0701DABE925B45FEABE7BC88BB6AC731"
+    },
+    "C7B225B76AC54BCEB2823B45075003AA": {
+      "id": "C7B225B76AC54BCEB2823B45075003AA",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "1.2.1.8",
+      "statementLabel": null,
+      "description": "show understanding of the importance of bit rates/broadband speed on bit streaming",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "CDAB9E09572140FE90A17082C7D62F8C": {
+      "id": "CDAB9E09572140FE90A17082C7D62F8C",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "1.2.1.7",
+      "statementLabel": null,
+      "description": "show understanding of bit streaming (both real-time and on-demand)",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "C393B699BB0244F084DC5058653E7605": {
+      "id": "C393B699BB0244F084DC5058653E7605",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.2.1.6",
+      "statementLabel": null,
+      "description": "explain the benefits and drawbacks of using copper cable, fibre-optic cabling, radio waves, microwaves, satellites",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "D1525E0E644A490383C3A3E7D15DC176": {
+      "id": "D1525E0E644A490383C3A3E7D15DC176",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.2.1.5",
+      "statementLabel": null,
+      "description": "explain how communication systems are used to support the Internet: The Public Switched\nTelephone Network (PSTN), dedicated lines, cell phone network",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "E86486E359604DE1AE9B877B6384C4C5": {
+      "id": "E86486E359604DE1AE9B877B6384C4C5",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.2.1.4",
+      "statementLabel": null,
+      "description": "explain how hardware is used to support the Internet: networks, routers, gateways, servers",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "2EC05C4FA69845D598F167FC7D82AB33": {
+      "id": "2EC05C4FA69845D598F167FC7D82AB33",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.2.1.3",
+      "statementLabel": null,
+      "description": "describe what is meant by the World Wide Web (WWW) and the Internet",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "349CDE6598B243CEA16C2C59045AA188": {
+      "id": "349CDE6598B243CEA16C2C59045AA188",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.2.1.2",
+      "statementLabel": null,
+      "description": "give examples of applications which use the client-server model",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "2C171977305542FE8951D1282977D1E9": {
+      "id": "2C171977305542FE8951D1282977D1E9",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.2.1.1",
+      "statementLabel": null,
+      "description": "explain the client-server model of networked computers",
+      "ancestorIds": [
+        "AE1980384E304C26ABBC6FF46D16F753",
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "AE1980384E304C26ABBC6FF46D16F753"
+    },
+    "AE1980384E304C26ABBC6FF46D16F753": {
+      "id": "AE1980384E304C26ABBC6FF46D16F753",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.2.1",
+      "statementLabel": null,
+      "description": "Networks",
+      "ancestorIds": [
+        "0701DABE925B45FEABE7BC88BB6AC731"
+      ],
+      "parentId": "0701DABE925B45FEABE7BC88BB6AC731"
+    },
+    "0701DABE925B45FEABE7BC88BB6AC731": {
+      "id": "0701DABE925B45FEABE7BC88BB6AC731",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "1.2",
+      "statementLabel": null,
+      "description": "Communication and Internet technologies",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D3525CC1E1374C9888B7623F119BA939": {
+      "id": "D3525CC1E1374C9888B7623F119BA939",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.1.5.1",
+      "statementLabel": null,
+      "description": "show understanding of how digital data can be compressed, using either ‘lossless’ (including run length encoding – RLE) or ‘lossy’ techniques",
+      "ancestorIds": [
+        "62DD366AC15F4E68A24391E409934FA4",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "62DD366AC15F4E68A24391E409934FA4"
+    },
+    "62DD366AC15F4E68A24391E409934FA4": {
+      "id": "62DD366AC15F4E68A24391E409934FA4",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "1.1.5",
+      "statementLabel": null,
+      "description": "Compression techniques",
+      "ancestorIds": [
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "4F34452F09B54499A52D6AD1A75700DE"
+    },
+    "1BA616C4499747B6BBBD27D656AF9243": {
+      "id": "1BA616C4499747B6BBBD27D656AF9243",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.1.4.1",
+      "statementLabel": null,
+      "description": "Show understanding of the characteristics of video streams:\n– the frame rate (frames/second)\n– interlaced and progressive encoding\n– video interframe compression algorithms and spatial and temporal redundancy\n– multimedia container formats ",
+      "ancestorIds": [
+        "3A59F8FF80114AF2A6327C2BBDD33AF0",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "3A59F8FF80114AF2A6327C2BBDD33AF0"
+    },
+    "3A59F8FF80114AF2A6327C2BBDD33AF0": {
+      "id": "3A59F8FF80114AF2A6327C2BBDD33AF0",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "1.1.4",
+      "statementLabel": null,
+      "description": "Video",
+      "ancestorIds": [
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "4F34452F09B54499A52D6AD1A75700DE"
+    },
+    "8EB4055C70DA49CBA20683D946B12903": {
+      "id": "8EB4055C70DA49CBA20683D946B12903",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.1.3.4",
+      "statementLabel": null,
+      "description": "show understanding of how typical features found in sound editing software are used in practice",
+      "ancestorIds": [
+        "62010FA96B96412AA67FD072A56B138E",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "62010FA96B96412AA67FD072A56B138E"
+    },
+    "B87E428C4B8E4E0AB1DA63C070267613": {
+      "id": "B87E428C4B8E4E0AB1DA63C070267613",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.1.3.3",
+      "statementLabel": null,
+      "description": "show understanding of how fi le sizes depend on sampling rate and sampling resolution",
+      "ancestorIds": [
+        "62010FA96B96412AA67FD072A56B138E",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "62010FA96B96412AA67FD072A56B138E"
+    },
+    "785688A7D402475DA8180445F5B1F98A": {
+      "id": "785688A7D402475DA8180445F5B1F98A",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.1.3.2",
+      "statementLabel": null,
+      "description": "use the associated terminology: sampling, sampling rate, sampling resolution",
+      "ancestorIds": [
+        "62010FA96B96412AA67FD072A56B138E",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "62010FA96B96412AA67FD072A56B138E"
+    },
+    "E71D60E5427B42C09FDF8A6A8F108B7F": {
+      "id": "E71D60E5427B42C09FDF8A6A8F108B7F",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.1.3.1",
+      "statementLabel": null,
+      "description": "show understanding of how sound is represented and encoded",
+      "ancestorIds": [
+        "62010FA96B96412AA67FD072A56B138E",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "62010FA96B96412AA67FD072A56B138E"
+    },
+    "62010FA96B96412AA67FD072A56B138E": {
+      "id": "62010FA96B96412AA67FD072A56B138E",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.1.3",
+      "statementLabel": null,
+      "description": "Sound ",
+      "ancestorIds": [
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "4F34452F09B54499A52D6AD1A75700DE"
+    },
+    "3E9DAAAD34B6486192EBDD44CE216ED6": {
+      "id": "3E9DAAAD34B6486192EBDD44CE216ED6",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "1.1.2.7",
+      "statementLabel": null,
+      "description": "justify where bitmapped graphics and/or vector graphics are appropriate for a given task",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "0581C13A4D354153B54425971D47BFDF": {
+      "id": "0581C13A4D354153B54425971D47BFDF",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.1.2.6",
+      "statementLabel": null,
+      "description": "show understanding of how typical features found in bitmapped and vector graphics software are\nused in practice",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "FCC4CD146A4F47CFB40E347A62FF9D08": {
+      "id": "FCC4CD146A4F47CFB40E347A62FF9D08",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.1.2.5",
+      "statementLabel": null,
+      "description": "use the terminology associated with vector graphics: drawing object, property and drawing list",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "0C1DA715072940EBAC3F23322CF83F32": {
+      "id": "0C1DA715072940EBAC3F23322CF83F32",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.1.2.4",
+      "statementLabel": null,
+      "description": "show understanding of how data for a vector graphic is represented and encoded",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "D6FFBB0E0E2A424DA8CDC8AFD33FAB99": {
+      "id": "D6FFBB0E0E2A424DA8CDC8AFD33FAB99",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.1.2.3",
+      "statementLabel": null,
+      "description": "perform calculations estimating the file size for bitmapped images of different resolutions",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "BE59937432124868A7F71D793D24C4D4": {
+      "id": "BE59937432124868A7F71D793D24C4D4",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.1.2.2",
+      "statementLabel": null,
+      "description": "use the terminology associated with bitmaps: pixel, file header, image resolution, screen resolution",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "557E34315268474ABDA6DCD7A00FE4A5": {
+      "id": "557E34315268474ABDA6DCD7A00FE4A5",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.1.2.1",
+      "statementLabel": null,
+      "description": "show understanding of how data for a bitmapped image is encoded",
+      "ancestorIds": [
+        "248F5655567F4E1C951620A78A9D9A32",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "248F5655567F4E1C951620A78A9D9A32"
+    },
+    "248F5655567F4E1C951620A78A9D9A32": {
+      "id": "248F5655567F4E1C951620A78A9D9A32",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.1.2",
+      "statementLabel": null,
+      "description": "Images",
+      "ancestorIds": [
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "4F34452F09B54499A52D6AD1A75700DE"
+    },
+    "78727C6018EC4E3298D160CCD2C13EBC": {
+      "id": "78727C6018EC4E3298D160CCD2C13EBC",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "1.1.1.6",
+      "statementLabel": null,
+      "description": "describe practical applications where BCD is used",
+      "ancestorIds": [
+        "27B3478205054B53AE28DA2A2EEF705A",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "27B3478205054B53AE28DA2A2EEF705A"
+    },
+    "1F5441AB78894AFA89F18D300C322450": {
+      "id": "1F5441AB78894AFA89F18D300C322450",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "1.1.1.5",
+      "statementLabel": null,
+      "description": "express a denary number in Binary Coded Decimal (BCD) and vice versa",
+      "ancestorIds": [
+        "27B3478205054B53AE28DA2A2EEF705A",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "27B3478205054B53AE28DA2A2EEF705A"
+    },
+    "9CC1965B8ECC45CFA5DD43010F525D4C": {
+      "id": "9CC1965B8ECC45CFA5DD43010F525D4C",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "1.1.1.4",
+      "statementLabel": null,
+      "description": "show understanding of, and be able to represent, character data in its internal binary form\ndepending on the character set used (Candidates will not be expected to memorise any particular\ncharacter codes but must be familiar with ASCII and Unicode.)",
+      "ancestorIds": [
+        "27B3478205054B53AE28DA2A2EEF705A",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "27B3478205054B53AE28DA2A2EEF705A"
+    },
+    "BCBC4708B2864F66B8DAFA284D50C4A5": {
+      "id": "BCBC4708B2864F66B8DAFA284D50C4A5",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "1.1.1.3",
+      "statementLabel": null,
+      "description": "express a positive or negative integer in two’s complement form",
+      "ancestorIds": [
+        "27B3478205054B53AE28DA2A2EEF705A",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "27B3478205054B53AE28DA2A2EEF705A"
+    },
+    "8E358C064EC048CE8033677347E12C30": {
+      "id": "8E358C064EC048CE8033677347E12C30",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "1.1.1.2",
+      "statementLabel": null,
+      "description": "convert a number from one number system to another",
+      "ancestorIds": [
+        "27B3478205054B53AE28DA2A2EEF705A",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "27B3478205054B53AE28DA2A2EEF705A"
+    },
+    "EA90D2509016476D8D9BC723DF615BB1": {
+      "id": "EA90D2509016476D8D9BC723DF615BB1",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "1.1.1.1",
+      "statementLabel": null,
+      "description": "show understanding of the basis of different number systems and use the binary, denary and\nhexadecimal number system",
+      "ancestorIds": [
+        "27B3478205054B53AE28DA2A2EEF705A",
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "27B3478205054B53AE28DA2A2EEF705A"
+    },
+    "27B3478205054B53AE28DA2A2EEF705A": {
+      "id": "27B3478205054B53AE28DA2A2EEF705A",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.1.1",
+      "statementLabel": null,
+      "description": "Number representation",
+      "ancestorIds": [
+        "4F34452F09B54499A52D6AD1A75700DE"
+      ],
+      "parentId": "4F34452F09B54499A52D6AD1A75700DE"
+    },
+    "4F34452F09B54499A52D6AD1A75700DE": {
+      "id": "4F34452F09B54499A52D6AD1A75700DE",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "1.1",
+      "statementLabel": null,
+      "description": "Information representation",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

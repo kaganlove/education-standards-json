@@ -1,0 +1,1479 @@
+{
+  "id": "9BA818D7CC7E49F3ACDF137675D92684",
+  "title": "Network Security",
+  "subject": "CTE",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "11",
+    "12",
+    "10"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Network Security - 11.1999.00",
+    "sourceURL": "https://www.azed.gov/cte/nt/",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "0B41FFF6B5114EB0B8A89CE0E70E22D8",
+    "title": "Arizona"
+  },
+  "standards": {
+    "0F2446F07938407B8F3F1F61D3F6825E": {
+      "id": "0F2446F07938407B8F3F1F61D3F6825E",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "11.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify common tools and methods of monitoring a network",
+      "comments": [],
+      "ancestorIds": [
+        "4DE2C6D3B6A04BECBA43DE605F295A8C"
+      ],
+      "parentId": "4DE2C6D3B6A04BECBA43DE605F295A8C"
+    },
+    "9EDCA8D2FBBA428DA84158B221865964": {
+      "id": "9EDCA8D2FBBA428DA84158B221865964",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "11.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and resolve network issues (i.e., cable failure, connection failure, environmental, misconfigurations, power, user error, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "4DE2C6D3B6A04BECBA43DE605F295A8C"
+      ],
+      "parentId": "4DE2C6D3B6A04BECBA43DE605F295A8C"
+    },
+    "D3BE185DEDB34FB3A2ADB70CA8F1643B": {
+      "id": "D3BE185DEDB34FB3A2ADB70CA8F1643B",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "11.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify connectivity issues in various node environments (i.e., smart phones, switches, tablets, Linux/UNIX, Windows, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "4DE2C6D3B6A04BECBA43DE605F295A8C"
+      ],
+      "parentId": "4DE2C6D3B6A04BECBA43DE605F295A8C"
+    },
+    "5F97053B28F74D32A972C152AB2E3DB8": {
+      "id": "5F97053B28F74D32A972C152AB2E3DB8",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "11.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate the use of visual indicators (i.e., indicator lights on devices, etc.) and diagnostic utilities (i.e., Wireshark, etc.) to interpret problems",
+      "comments": [],
+      "ancestorIds": [
+        "4DE2C6D3B6A04BECBA43DE605F295A8C"
+      ],
+      "parentId": "4DE2C6D3B6A04BECBA43DE605F295A8C"
+    },
+    "4DF4A0162E8B4955A35FF733D2EE90DA": {
+      "id": "4DF4A0162E8B4955A35FF733D2EE90DA",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "11.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the purpose and benefits of network utilities [i.e., Network Statistics (Netstat), Name Server Lookup (NsLookup), Ping, Traceroute, etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "4DE2C6D3B6A04BECBA43DE605F295A8C"
+      ],
+      "parentId": "4DE2C6D3B6A04BECBA43DE605F295A8C"
+    },
+    "A6D032C34D774D648EC7F1D150424DC7": {
+      "id": "A6D032C34D774D648EC7F1D150424DC7",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "11.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify maintenance tasks and create a schedule",
+      "comments": [],
+      "ancestorIds": [
+        "4DE2C6D3B6A04BECBA43DE605F295A8C"
+      ],
+      "parentId": "4DE2C6D3B6A04BECBA43DE605F295A8C"
+    },
+    "4DE2C6D3B6A04BECBA43DE605F295A8C": {
+      "id": "4DE2C6D3B6A04BECBA43DE605F295A8C",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 0,
+      "listId": "11",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform Network Maintenance and Resolve Issues",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F74A69E860C34C4FAED7E32F089F519B": {
+      "id": "F74A69E860C34C4FAED7E32F089F519B",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "10.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modify an existing network diagram with appropriate network hardening devices or systems",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "67619C2679764C95A20D57AC367363E3": {
+      "id": "67619C2679764C95A20D57AC367363E3",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "10.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits, disadvantages, and purpose of using network intrusion detection/prevention systems [i.e., Intrusion Detection System / Intrusion Prevention System (IDS/IPS), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "DF8B557DE6234E14B5BC2724666BEED0": {
+      "id": "DF8B557DE6234E14B5BC2724666BEED0",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "10.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits, disadvantages, and purpose of using a proxy service",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "28790FF66AE94CF98201B22AC413732A": {
+      "id": "28790FF66AE94CF98201B22AC413732A",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "10.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare the various types of firewalls and their uses (i.e., application, packet filtering, stateful, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "725C46CEA31C41FC942A6258195B92A3": {
+      "id": "725C46CEA31C41FC942A6258195B92A3",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "10.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the techniques to secure a Wi-Fi network [i.e., Extensible Authentication Protocol (EAP), Wi-Fi Protected Access (WPA), Wi-Fi Protected Access 2 (WPA2), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "3464A634522140E1AF1A1A38F3B3FB06": {
+      "id": "3464A634522140E1AF1A1A38F3B3FB06",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "10.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits of disabling ports and network services",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "8C96CA3E7D3E4B859AEB96266CD07FBB": {
+      "id": "8C96CA3E7D3E4B859AEB96266CD07FBB",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "10.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits and purpose of segmenting networks",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "4C3EAB469D944F898BDFA7878F23A916": {
+      "id": "4C3EAB469D944F898BDFA7878F23A916",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "10.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify physical network threats [i.e., disrupting media (like cutting fiber), environmental/power disruption, unauthorized access to devices, etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "BB03710CC7D14F558F898C38FDB59941": {
+      "id": "BB03710CC7D14F558F898C38FDB59941",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "10.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify common network threats (i.e., denial of service, eavesdropping, intrusion, probing, unauthorized access, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "268611FAF87544E09B7BEF9782E162DE"
+      ],
+      "parentId": "268611FAF87544E09B7BEF9782E162DE"
+    },
+    "268611FAF87544E09B7BEF9782E162DE": {
+      "id": "268611FAF87544E09B7BEF9782E162DE",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 0,
+      "listId": "10",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Harden a Network",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AD68411D3BC041EA9DDC5B3A4E0C82EC": {
+      "id": "AD68411D3BC041EA9DDC5B3A4E0C82EC",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "9.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the appropriate tools to use for diagnostic tasks or network repair (i.e., execute Traceroute, ipconfig, Ping, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "A004C562A8A041299926F784D4035D94": {
+      "id": "A004C562A8A041299926F784D4035D94",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "9.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Configure and connect devices to the network (i.e., computers, printers, routers, switches, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "DB12267D1B76402398FD3DD28A9DE879": {
+      "id": "DB12267D1B76402398FD3DD28A9DE879",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "9.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Configure network cards, network settings, and operating system",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "0387B50B2A3E49FEB1EE851274C37154": {
+      "id": "0387B50B2A3E49FEB1EE851274C37154",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "9.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Install and configure a physical and/or virtual networked system (i.e., Linux/UNIX, Windows, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "79D148AA75454CC2B65F6A012B56CA61": {
+      "id": "79D148AA75454CC2B65F6A012B56CA61",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "9.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the purpose of a disaster recovery plan for a network",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "4D159786E3F1496AB3D279D3859F16AE": {
+      "id": "4D159786E3F1496AB3D279D3859F16AE",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "9.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the components needed and purpose to build fault tolerance into a network",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "E4209211DF6841E78F9A2E7B59B34F34": {
+      "id": "E4209211DF6841E78F9A2E7B59B34F34",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "9.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain proper labeling in accordance with industry standards (i.e., cable, device, rack, wall plates, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "6E1AFB551FFD4DBFB0ABEB9B04B7E9BC": {
+      "id": "6E1AFB551FFD4DBFB0ABEB9B04B7E9BC",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "9.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct dynamic and static routes",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "5E6C643D2C32407891DAD2B3B09ABBAD": {
+      "id": "5E6C643D2C32407891DAD2B3B09ABBAD",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "9.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design a network map with virtual and physical segments",
+      "comments": [],
+      "ancestorIds": [
+        "09F54F045F0F47C6A065BF28D9439A6D"
+      ],
+      "parentId": "09F54F045F0F47C6A065BF28D9439A6D"
+    },
+    "09F54F045F0F47C6A065BF28D9439A6D": {
+      "id": "09F54F045F0F47C6A065BF28D9439A6D",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 0,
+      "listId": "9",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Configure a Basic Network",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "17CB831776A7484FA1F76A69B23DCD60": {
+      "id": "17CB831776A7484FA1F76A69B23DCD60",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 1,
+      "listId": "12",
+      "statementNotation": "8.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the importance of proper documentation in accordance with industry standards",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "19E984FDAC1740BC8878DC8C441F244D": {
+      "id": "19E984FDAC1740BC8878DC8C441F244D",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "8.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the function and purpose of security protocols [i.e., Hypertext Transfer Protocol Secure (HTTPS), Secure File Transfer Protocol (SFTP), tunneling, Virtual Private Network (VPN), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "0FD1A7DAABCC4DD1A7877A6762A94E7B": {
+      "id": "0FD1A7DAABCC4DD1A7877A6762A94E7B",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe remote access protocols and services",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "DF72002A57CA42A5A12451C2E584D225": {
+      "id": "DF72002A57CA42A5A12451C2E584D225",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "8.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize the basic characteristics and protocols of Metropolitan Area Network (MAN), Software-Defined Wide Area Network (SD-WAN), and Wide Area Network (WAN) technologies [i.e., Asynchronous Transfer Mode (ATM), frame relay, Multiprotocol Label Switching (MPLS), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "625E3DB15BCB41BB9CB0D5DE2C319A83": {
+      "id": "625E3DB15BCB41BB9CB0D5DE2C319A83",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "8.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate IPv4/IPv6 addresses and their corresponding subnet masks [i.e., classful networks, Classless Interdomain Routing (CIDR), private vs public IP]",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "72715AEB8CF247EE82EE087181CC41DC": {
+      "id": "72715AEB8CF247EE82EE087181CC41DC",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "8.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the applications and characteristics of Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "2B2B9B333925476A83194C2872FE1218": {
+      "id": "2B2B9B333925476A83194C2872FE1218",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "8.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe standard network ports and protocols [e.g., Domain Name System (DNS), Dynamic Host Configuration Protocol (DHCP), File Transfer Protocol (FTP), Hypertext Transfer Protocol (HTTP), Point-of-Presence (POP), Simple Mail Transfer Protocol (SMTP), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "8B4E580D8F3E4052BF075B3D453F844E": {
+      "id": "8B4E580D8F3E4052BF075B3D453F844E",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "8.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the concept of ports and identify the three port ranges used in networking services and protocols [i.e., dynamic/private (49152-65535), system (0-1023), user (1024-49151), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "CEB0407890DC45028F485FF33BBAF3E6": {
+      "id": "CEB0407890DC45028F485FF33BBAF3E6",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "8.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of dynamic and static routing protocols",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "ACFF9D5A7C9047ACA71FA6AA3B82FDF5": {
+      "id": "ACFF9D5A7C9047ACA71FA6AA3B82FDF5",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "8.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the characteristics, name, and use of the four layers of the Transmission Control Protocol/Internet Protocol (TCP/IP) model",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "6B42DBFC4C6F4CD98234D288463AA60A": {
+      "id": "6B42DBFC4C6F4CD98234D288463AA60A",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the characteristics, name, and use of the seven layers of the Open Systems Interconnect (OSI) model",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "2108AE81EDA44FE387E3B1DFA3DA34B6": {
+      "id": "2108AE81EDA44FE387E3B1DFA3DA34B6",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the parts and use of a Media Access Control (MAC) address",
+      "comments": [],
+      "ancestorIds": [
+        "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+      ],
+      "parentId": "BB1E14A6319A47ABAD8AEEEDCBAB9C48"
+    },
+    "BB1E14A6319A47ABAD8AEEEDCBAB9C48": {
+      "id": "BB1E14A6319A47ABAD8AEEEDCBAB9C48",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 0,
+      "listId": "8",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe Network Protocols and Standards",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FF35A65E691C41D993BCB88AD77FB1C4": {
+      "id": "FF35A65E691C41D993BCB88AD77FB1C4",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "7.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the features, functions, and purpose of commonly used network components [i.e., routers, modem, switches, bridges, hubs, NIC (network interface card), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "D85FD9C57B324BA5836E31E980482E08": {
+      "id": "D85FD9C57B324BA5836E31E980482E08",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "7.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the structure of the internet (network of networks)",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "36C2B2A3FD9348E1BA1A9BBD4055E6AC": {
+      "id": "36C2B2A3FD9348E1BA1A9BBD4055E6AC",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "7.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specify the characteristics of wireless network technologies including frequency, speed, topology, and transmission (i.e., local area, metropolitan area, wide area networks, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "192D9671C41745BAB83307F19CF36D0C": {
+      "id": "192D9671C41745BAB83307F19CF36D0C",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "7.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specify the characteristics of physical network technologies including cable types, length, speed, and topology",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "31D3E2046DA948BA9A850369A844A1FE": {
+      "id": "31D3E2046DA948BA9A850369A844A1FE",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "7.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare physical and virtual networks [i.e., Software-Defined Wide-Area Network (SD-WAN), Virtual Local Area Network (VLAN), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "8D8CCDCD5DF548D5940216FA02FB7A6A": {
+      "id": "8D8CCDCD5DF548D5940216FA02FB7A6A",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "7.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify appropriate connectors, media types, and uses for various networks",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "78619CBE72E24910B23667E55EF3EC4C": {
+      "id": "78619CBE72E24910B23667E55EF3EC4C",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare proper physical network topology",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "3AE7D8FC0E4A4A93B1326B6F1644F27A": {
+      "id": "3AE7D8FC0E4A4A93B1326B6F1644F27A",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specify the characteristics and main features of various networking topologies (e.g., bus, mesh, ring, and star)",
+      "comments": [],
+      "ancestorIds": [
+        "9F47B7DAA27F4AC6BE504FD906DE5A89"
+      ],
+      "parentId": "9F47B7DAA27F4AC6BE504FD906DE5A89"
+    },
+    "9F47B7DAA27F4AC6BE504FD906DE5A89": {
+      "id": "9F47B7DAA27F4AC6BE504FD906DE5A89",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 0,
+      "listId": "7",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate Network Media and Topologies",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0AFEC89D0D104E8D9F504AF3F099BAEF": {
+      "id": "0AFEC89D0D104E8D9F504AF3F099BAEF",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "6.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss future trends and societal impacts in digital devices and network technology [i.e., Internet of Things (IoT), privacy, etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+      ],
+      "parentId": "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+    },
+    "C39E5D3D76E3434D93F97C3018DEC36C": {
+      "id": "C39E5D3D76E3434D93F97C3018DEC36C",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the components and structure of an information system [e.g., applications, media (cables, fiber, and wireless), network devices (router, switches, etc.), operating systems, and servers]",
+      "comments": [],
+      "ancestorIds": [
+        "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+      ],
+      "parentId": "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+    },
+    "3681C872C25C4DC5A491DE63ABE38F9A": {
+      "id": "3681C872C25C4DC5A491DE63ABE38F9A",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the development of computers has impacted modern life",
+      "comments": [],
+      "ancestorIds": [
+        "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+      ],
+      "parentId": "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+    },
+    "229693458E43444AB791599400E42356": {
+      "id": "229693458E43444AB791599400E42356",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the historical evolution of the computer and computer networks",
+      "comments": [],
+      "ancestorIds": [
+        "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+      ],
+      "parentId": "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+    },
+    "A3608E16E7634524BD6AFE9F044511FA": {
+      "id": "A3608E16E7634524BD6AFE9F044511FA",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe a computer and its components and functions",
+      "comments": [],
+      "ancestorIds": [
+        "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+      ],
+      "parentId": "EE14F2907F0042ABAA1E1FD3C3FCEB96"
+    },
+    "EE14F2907F0042ABAA1E1FD3C3FCEB96": {
+      "id": "EE14F2907F0042ABAA1E1FD3C3FCEB96",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the Development and Evolution of Computers and Network Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4EF148D525804E7FA204C7009832376A": {
+      "id": "4EF148D525804E7FA204C7009832376A",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply basic Boolean logic for actions such as Google searches and scripting (e.g., “and,” “nor,” “not,” and “or”)",
+      "comments": [],
+      "ancestorIds": [
+        "F4E7F6FB8D964D528C358C0BE58A1554"
+      ],
+      "parentId": "F4E7F6FB8D964D528C358C0BE58A1554"
+    },
+    "F9F9DF7D9D4F4B92A5AF7F995E90D718": {
+      "id": "F9F9DF7D9D4F4B92A5AF7F995E90D718",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the appropriate method to perform conversions (e.g., paper-pencil and electronic resources)",
+      "comments": [],
+      "ancestorIds": [
+        "F4E7F6FB8D964D528C358C0BE58A1554"
+      ],
+      "parentId": "F4E7F6FB8D964D528C358C0BE58A1554"
+    },
+    "D9B3FC1D21314D42909CCD870EBD5365": {
+      "id": "D9B3FC1D21314D42909CCD870EBD5365",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform hexadecimal to binary and binary to hexadecimal conversions",
+      "comments": [],
+      "ancestorIds": [
+        "F4E7F6FB8D964D528C358C0BE58A1554"
+      ],
+      "parentId": "F4E7F6FB8D964D528C358C0BE58A1554"
+    },
+    "411A600C718349C0B6BB2981BBEE3C73": {
+      "id": "411A600C718349C0B6BB2981BBEE3C73",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform decimal to hexadecimal and hexadecimal to decimal conversions",
+      "comments": [],
+      "ancestorIds": [
+        "F4E7F6FB8D964D528C358C0BE58A1554"
+      ],
+      "parentId": "F4E7F6FB8D964D528C358C0BE58A1554"
+    },
+    "FF183972C01645EA9379259DC9833DE9": {
+      "id": "FF183972C01645EA9379259DC9833DE9",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform decimal to binary and binary to decimal conversions",
+      "comments": [],
+      "ancestorIds": [
+        "F4E7F6FB8D964D528C358C0BE58A1554"
+      ],
+      "parentId": "F4E7F6FB8D964D528C358C0BE58A1554"
+    },
+    "03D7D28E3293478EB789BE73CE8C912D": {
+      "id": "03D7D28E3293478EB789BE73CE8C912D",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the function of base number systems in mathematics as it relates to network technology",
+      "comments": [],
+      "ancestorIds": [
+        "F4E7F6FB8D964D528C358C0BE58A1554"
+      ],
+      "parentId": "F4E7F6FB8D964D528C358C0BE58A1554"
+    },
+    "F4E7F6FB8D964D528C358C0BE58A1554": {
+      "id": "F4E7F6FB8D964D528C358C0BE58A1554",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate Basic Computer Mathematics Required for Network Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "088F1B89CD0F46DF832129AFF3D7BB97": {
+      "id": "088F1B89CD0F46DF832129AFF3D7BB97",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe acceptable use of industry-related data, private and public networks, and social networking",
+      "comments": [],
+      "ancestorIds": [
+        "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+      ],
+      "parentId": "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+    },
+    "EF6E5C44EE26408FB81CA8C91121E103": {
+      "id": "EF6E5C44EE26408FB81CA8C91121E103",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify issues, laws, and trends affecting data and privacy [e.g., Certified Network Professional (CNP), General Data Protection Regulation (GDPR), Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI-DSS), and Sarbanes-Oxley Act (SOX)]",
+      "comments": [],
+      "ancestorIds": [
+        "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+      ],
+      "parentId": "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+    },
+    "78996BB826F4449A89525D499492B02E": {
+      "id": "78996BB826F4449A89525D499492B02E",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate among freeware, open source, proprietary, and shareware software relative to legal and ethical issues",
+      "comments": [],
+      "ancestorIds": [
+        "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+      ],
+      "parentId": "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+    },
+    "7AF806388C714B57B5311DFF5C94917F": {
+      "id": "7AF806388C714B57B5311DFF5C94917F",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore issues regarding intellectual property rights including software licensing and software duplication [i.e., Business Software Alliance, Creative Commons, Digital Right Management (DRM), https://www.ip-watch.org/about/, https://www/eff.org/, etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+      ],
+      "parentId": "9F9E4EE6BF674B29BD3CAB6F38744EF3"
+    },
+    "9F9E4EE6BF674B29BD3CAB6F38744EF3": {
+      "id": "9F9E4EE6BF674B29BD3CAB6F38744EF3",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Investigate Legal and Ethical Issues Related to Network Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "147CA56F0DA2486E856A5D3D49175E14": {
+      "id": "147CA56F0DA2486E856A5D3D49175E14",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "3.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify best practices for access control (i.e., changing default passwords, disabling unused accounts, least privileges, privileged account management, role-based access control, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "9D5A169ED27948F68BE6D2752D656F7C": {
+      "id": "9D5A169ED27948F68BE6D2752D656F7C",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze authentication methods used to secure access to the network [i.e., biometrics, key cards, multi-factor authentication (MFA), passwords, single sign-on (SSO), two-factor authentication (2FA), etc.]",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "49AF327EA679491C8BE6B6EA3AD4FECC": {
+      "id": "49AF327EA679491C8BE6B6EA3AD4FECC",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe password best practices (i.e., age, complexity, history, length, lockout, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "D24AB8EDEF644D6A90FEC3097A1E0FF8": {
+      "id": "D24AB8EDEF644D6A90FEC3097A1E0FF8",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define best practices to protect data at rest, data in transit, and data during processing",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "FEAFDAC975EC409088CDDCF2AA94CB3C": {
+      "id": "FEAFDAC975EC409088CDDCF2AA94CB3C",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe best practices to protect against network threats (i.e., access control, antivirus software, awareness and training, encryption, firewalls, incident detection systems/tools, intrusion detection prevention, network segmentation, port/service blocking, software updates/patches, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "8D4B886268914166831C6D8A41808D9B": {
+      "id": "8D4B886268914166831C6D8A41808D9B",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe network threats (i.e., denial of service, email spoofing, hacking/cracking, intrusion, malware, phishing, social engineering, spamming, system vulnerabilities, website defacement, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "FD3F23E8ACF64F0DB37FAF4E7B5C995C": {
+      "id": "FD3F23E8ACF64F0DB37FAF4E7B5C995C",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the importance of physical security of computer and network hardware following best practices (i.e., cameras, locks, USB port blocking, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "86C6DEA7EE2B44B5A39F03CFBC5E1E09": {
+      "id": "86C6DEA7EE2B44B5A39F03CFBC5E1E09",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify security threats related to computer data, hardware, and software (i.e., denial of service, eavesdropping, intrusion, unauthorized access, unauthorized use, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "E91064E9C2D04E1687C71B8DD8B7FE75": {
+      "id": "E91064E9C2D04E1687C71B8DD8B7FE75",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify data according to its sensitivity and criticality (i.e., mission critical, protect cafeteria menu vs. personal, financial and health information, trade secrets, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "DF6EF0F1CC5842C6AEE2A66EC9D7C54B": {
+      "id": "DF6EF0F1CC5842C6AEE2A66EC9D7C54B",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define policies to manage system and data availability, confidentiality, and integrity",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "0913637C215140DFBE67E2C0ABA6A911": {
+      "id": "0913637C215140DFBE67E2C0ABA6A911",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform risk management activities (e.g., define risk, determine risk level, and identify methods to address risk)",
+      "comments": [],
+      "ancestorIds": [
+        "BDCED3D48F5648E98BA8D9089BD33166"
+      ],
+      "parentId": "BDCED3D48F5648E98BA8D9089BD33166"
+    },
+    "BDCED3D48F5648E98BA8D9089BD33166": {
+      "id": "BDCED3D48F5648E98BA8D9089BD33166",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specify Network Security Best Practices, Risks, and Threats",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2E83DDD71072489495186B99E6CD956C": {
+      "id": "2E83DDD71072489495186B99E6CD956C",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and resolve most common electrostatic discharge (ESD) hazards in a network environment",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "751AA3A7985F4722B174934E6BD42480": {
+      "id": "751AA3A7985F4722B174934E6BD42480",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain environmental considerations when disposing of computer/network components",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "AF49BDC37C4A4322B398E3AA7CDFC91D": {
+      "id": "AF49BDC37C4A4322B398E3AA7CDFC91D",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify techniques used to manage power consumption in the networked environment (i.e., cloud-based, software defined, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "DFE4C80374EA48BD95A84F17EDEFE6B8": {
+      "id": "DFE4C80374EA48BD95A84F17EDEFE6B8",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine safe working practices to avoid or eliminate electrical hazards and physical injuries",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "2AE90CE5817A438CAA9568F1247AD3DE": {
+      "id": "2AE90CE5817A438CAA9568F1247AD3DE",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify ergonomic solutions to prevent injuries common to network security tasks",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "AC15BDAA5E3B49CBA16CCD8A1B21A284": {
+      "id": "AC15BDAA5E3B49CBA16CCD8A1B21A284",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use equipment, materials, and tools commonly used in the field of network security correctly and safely",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "26C063F075E247268614CFD934561283": {
+      "id": "26C063F075E247268614CFD934561283",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify personal responsibility for developing and maintaining a safe and healthy work environment",
+      "comments": [],
+      "ancestorIds": [
+        "D18753400CE24EF3BC4CE3C94D8F8220"
+      ],
+      "parentId": "D18753400CE24EF3BC4CE3C94D8F8220"
+    },
+    "D18753400CE24EF3BC4CE3C94D8F8220": {
+      "id": "D18753400CE24EF3BC4CE3C94D8F8220",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintain a Safe and Environmentally Conscious Work Environment",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2A979CED1A80468A953BD7E203049716": {
+      "id": "2A979CED1A80468A953BD7E203049716",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prepare and present technical information for nontechnical and technical audiences in writing and verbally",
+      "comments": [],
+      "ancestorIds": [
+        "864597D690964788B46D3BC4A34E36B5"
+      ],
+      "parentId": "864597D690964788B46D3BC4A34E36B5"
+    },
+    "619E9597BEAB4002B675D155843274F9": {
+      "id": "619E9597BEAB4002B675D155843274F9",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply problem-solving processes to network technology tasks (i.e., bottom-up, divide-and-conquer, top-down, etc.)",
+      "comments": [],
+      "ancestorIds": [
+        "864597D690964788B46D3BC4A34E36B5"
+      ],
+      "parentId": "864597D690964788B46D3BC4A34E36B5"
+    },
+    "B877E087B26F4EE88ACB31CD9DD158A1": {
+      "id": "B877E087B26F4EE88ACB31CD9DD158A1",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prepare a plan of work and schedule network technology tasks",
+      "comments": [],
+      "ancestorIds": [
+        "864597D690964788B46D3BC4A34E36B5"
+      ],
+      "parentId": "864597D690964788B46D3BC4A34E36B5"
+    },
+    "86586FB0E084410FB3017069D5F5F1FD": {
+      "id": "86586FB0E084410FB3017069D5F5F1FD",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Describe methods to determine priorities in establishing and maintaining a computer network",
+      "comments": [],
+      "ancestorIds": [
+        "864597D690964788B46D3BC4A34E36B5"
+      ],
+      "parentId": "864597D690964788B46D3BC4A34E36B5"
+    },
+    "864597D690964788B46D3BC4A34E36B5": {
+      "id": "864597D690964788B46D3BC4A34E36B5",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "1.0",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply Problem-solving and Critical Thinking Skills to Network Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

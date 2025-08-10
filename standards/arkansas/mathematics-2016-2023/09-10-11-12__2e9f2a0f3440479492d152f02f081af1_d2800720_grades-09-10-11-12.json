@@ -1,0 +1,872 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2800720_grades-09-10-11-12",
+  "title": "Mathematical Applications and Algorithms: Grades 9, 10, 11, 12",
+  "subject": "Mathematics (2016-2023)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2800720",
+    "valid": "2016",
+    "title": "Mathematical Applications and Algorithms",
+    "sourceURL": "http://www.arkansased.gov/public/userfiles/Learning_Services/Curriculum%20and%20Instruction/Frameworks/Math/Mathematical_Applications_and_Algorithms_2016.pdf",
+    "asnIdentifier": "D2800720",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "2354F3468DBB440996F5505C4FCCD192": {
+      "id": "2354F3468DBB440996F5505C4FCCD192",
+      "asnIdentifier": "S2800783",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "DMT.7.MAA.6",
+      "statementLabel": "Standard",
+      "description": "Estimate best-case or worst-case scenarios using a spreadsheet application scenario tool",
+      "ancestorIds": [
+        "F44B343D612C4C169D1BABA37E76D8C8",
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "F44B343D612C4C169D1BABA37E76D8C8"
+    },
+    "12E21A5E5BD54D6E9DA61F7FD288E321": {
+      "id": "12E21A5E5BD54D6E9DA61F7FD288E321",
+      "asnIdentifier": "S2800782",
+      "position": 62000,
+      "depth": 2,
+      "statementNotation": "DMT.7.MAA.5",
+      "statementLabel": "Standard",
+      "description": "Name a range, one cell or a group of cells; use the name to select cells",
+      "ancestorIds": [
+        "F44B343D612C4C169D1BABA37E76D8C8",
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "F44B343D612C4C169D1BABA37E76D8C8"
+    },
+    "553D1A45EA504BEC8A2C13E035379DC0": {
+      "id": "553D1A45EA504BEC8A2C13E035379DC0",
+      "asnIdentifier": "S2800781",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "DMT.7.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Design and investigate best-case or worst-case scenarios of a program",
+      "ancestorIds": [
+        "F44B343D612C4C169D1BABA37E76D8C8",
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "F44B343D612C4C169D1BABA37E76D8C8"
+    },
+    "D8640CEB9A1C4489976EA5A266FD1C47": {
+      "id": "D8640CEB9A1C4489976EA5A266FD1C47",
+      "asnIdentifier": "S2800780",
+      "position": 60000,
+      "depth": 2,
+      "statementNotation": "DMT.7.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Understand and differentiate the different error types (e.g., syntax, runtime, logic)",
+      "ancestorIds": [
+        "F44B343D612C4C169D1BABA37E76D8C8",
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "F44B343D612C4C169D1BABA37E76D8C8"
+    },
+    "49E43E76243B4BC1AB42E26AA32FD727": {
+      "id": "49E43E76243B4BC1AB42E26AA32FD727",
+      "asnIdentifier": "S2800779",
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "DMT.7.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Identify and eliminate error messages using troubleshooting techniques (debug)",
+      "ancestorIds": [
+        "F44B343D612C4C169D1BABA37E76D8C8",
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "F44B343D612C4C169D1BABA37E76D8C8"
+    },
+    "48C5E7636B66401F9B9B627FD4F1A255": {
+      "id": "48C5E7636B66401F9B9B627FD4F1A255",
+      "asnIdentifier": "S2800778",
+      "position": 58000,
+      "depth": 2,
+      "statementNotation": "DMT.7.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Compare results from mathematical formulas to their program equivalent",
+      "ancestorIds": [
+        "F44B343D612C4C169D1BABA37E76D8C8",
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "F44B343D612C4C169D1BABA37E76D8C8"
+    },
+    "F44B343D612C4C169D1BABA37E76D8C8": {
+      "id": "F44B343D612C4C169D1BABA37E76D8C8",
+      "asnIdentifier": "S2800777",
+      "position": 57000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will manipulate data to adjust and test programs designed using a programmable calculator and/or computer spreadsheet application.",
+      "ancestorIds": [
+        "685854BA01AA45A1A22C61786D33D3E9"
+      ],
+      "parentId": "685854BA01AA45A1A22C61786D33D3E9"
+    },
+    "685854BA01AA45A1A22C61786D33D3E9": {
+      "id": "685854BA01AA45A1A22C61786D33D3E9",
+      "asnIdentifier": "S2800776",
+      "position": 56000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Data Manipulation and Testing",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6F9EEE3D02154B4085D03511437E65CC": {
+      "id": "6F9EEE3D02154B4085D03511437E65CC",
+      "asnIdentifier": "S2800775",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.8",
+      "statementLabel": "Standard",
+      "description": "Use a spreadsheet application to sort data using various methods (e.g., bubble, quick, shell)",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "D7E2240C86B0412AAE752EAD0D1731E6": {
+      "id": "D7E2240C86B0412AAE752EAD0D1731E6",
+      "asnIdentifier": "S2800774",
+      "position": 54000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.7",
+      "statementLabel": "Standard",
+      "description": "Use subroutines to reduce keystrokes and memory use",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "0FB9C3638B2C45BBB3D340CEAB078C9B": {
+      "id": "0FB9C3638B2C45BBB3D340CEAB078C9B",
+      "asnIdentifier": "S2800773",
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.6",
+      "statementLabel": "Standard",
+      "description": "Locate, categorize, and implement programming commands",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "7B46B6531E574AEFAC2DA0044D45DA26": {
+      "id": "7B46B6531E574AEFAC2DA0044D45DA26",
+      "asnIdentifier": "S2800772",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.5",
+      "statementLabel": "Standard",
+      "description": "Create programs using various display modes including tables and graphs",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "B56AEFFBBEC840559982B5D17D8617E5": {
+      "id": "B56AEFFBBEC840559982B5D17D8617E5",
+      "asnIdentifier": "S2800771",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Develop functional programs from algorithms developed from the mathematical models",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "3BC9A2B640A94116B827C975EDB69E30": {
+      "id": "3BC9A2B640A94116B827C975EDB69E30",
+      "asnIdentifier": "S2800770",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Create, edit, and execute programs to calculate mathematical formulas (e.g., quadratic formula, volume of a simple solid)",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "20B663962CFD4C0C864FB1190F241311": {
+      "id": "20B663962CFD4C0C864FB1190F241311",
+      "asnIdentifier": "S2800769",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Create, edit, and execute programs using recursions and loops in a programmable calculator and spreadsheet application",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "0746D755598349F0A36B0C99D246A5C4": {
+      "id": "0746D755598349F0A36B0C99D246A5C4",
+      "asnIdentifier": "S2800768",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "PI.6.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Create, edit, and execute a program utilizing an array in a programmable calculator and spreadsheet application",
+      "ancestorIds": [
+        "67FCB4F379E74BD899ED3724583D2DE2",
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "67FCB4F379E74BD899ED3724583D2DE2"
+    },
+    "67FCB4F379E74BD899ED3724583D2DE2": {
+      "id": "67FCB4F379E74BD899ED3724583D2DE2",
+      "asnIdentifier": "S2800767",
+      "position": 47000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will create, edit, and execute programs using a programmable calculator and/or computer spreadsheet application program.",
+      "ancestorIds": [
+        "B2AAEE4E67644202BD365CF2967C5EAE"
+      ],
+      "parentId": "B2AAEE4E67644202BD365CF2967C5EAE"
+    },
+    "B2AAEE4E67644202BD365CF2967C5EAE": {
+      "id": "B2AAEE4E67644202BD365CF2967C5EAE",
+      "asnIdentifier": "S2800766",
+      "position": 46000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Program Implementation",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "83273E37143746C49F0399F326872EE5": {
+      "id": "83273E37143746C49F0399F326872EE5",
+      "asnIdentifier": "S2800765",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.7",
+      "statementLabel": "Standard",
+      "description": "Define and use variable data types (e.g., integers, real, character)",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "5307CD2B42F349E2BE234D4C112520CB": {
+      "id": "5307CD2B42F349E2BE234D4C112520CB",
+      "asnIdentifier": "S2800764",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.6",
+      "statementLabel": "Standard",
+      "description": "Develop recursive relationships from mathematical models (e.g., arithmetic and geometric sequences)",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "A1DEE98FFD04453CADF489C264C670C8": {
+      "id": "A1DEE98FFD04453CADF489C264C670C8",
+      "asnIdentifier": "S2800763",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.5",
+      "statementLabel": "Standard",
+      "description": "Use flowchart terminology such as terminals (starts and stops), subroutines, and connectors",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "F394D011F7EE4D069590A08C6C90761A": {
+      "id": "F394D011F7EE4D069590A08C6C90761A",
+      "asnIdentifier": "S2800762",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Represent an algorithm representation as a flowchart and in pseudocode",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "9E51A713E5764742893C3DFE7D25DC29": {
+      "id": "9E51A713E5764742893C3DFE7D25DC29",
+      "asnIdentifier": "S2800761",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Define and differentiate Decision (selection) and Sequence (process)",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "4D5154B622274F2BB844E7FA03D84615": {
+      "id": "4D5154B622274F2BB844E7FA03D84615",
+      "asnIdentifier": "S2800760",
+      "position": 40000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Implement conditional statements that include if/then, if/then/else, case statements, and Boolean logic",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "06CD393B690A4C1B9BBC95DC7A27AF3D": {
+      "id": "06CD393B690A4C1B9BBC95DC7A27AF3D",
+      "asnIdentifier": "S2800759",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "PD.5.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Translate a mathematical expression into a computer statement which involves writing assignment statements and using the order of operations",
+      "ancestorIds": [
+        "ACC81BAD51FE4F738C362869F9852A43",
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "ACC81BAD51FE4F738C362869F9852A43"
+    },
+    "ACC81BAD51FE4F738C362869F9852A43": {
+      "id": "ACC81BAD51FE4F738C362869F9852A43",
+      "asnIdentifier": "S2800758",
+      "position": 38000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will design a step-by-step plan to solve a given problem.",
+      "ancestorIds": [
+        "253901D913544E069D650265A7AE0B4E"
+      ],
+      "parentId": "253901D913544E069D650265A7AE0B4E"
+    },
+    "253901D913544E069D650265A7AE0B4E": {
+      "id": "253901D913544E069D650265A7AE0B4E",
+      "asnIdentifier": "S2800757",
+      "position": 37000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Program Design",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "87A6CE313EE3439CA6E60D470836B7B2": {
+      "id": "87A6CE313EE3439CA6E60D470836B7B2",
+      "asnIdentifier": "S2800756",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "PS.4.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Write an algorithm from a mathematical mode",
+      "ancestorIds": [
+        "2ED7D449D14E41D4A2C485466F7DA126",
+        "A04F375E0D774371B4B2F8ADEC7722DB"
+      ],
+      "parentId": "2ED7D449D14E41D4A2C485466F7DA126"
+    },
+    "9032F544C220401DA3719537BEC32D1F": {
+      "id": "9032F544C220401DA3719537BEC32D1F",
+      "asnIdentifier": "S2800755",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "PS.4.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Analyze and interpret truth tables from basic statements using Boolean operators (AND, OR, XOR, and NOT)",
+      "ancestorIds": [
+        "2ED7D449D14E41D4A2C485466F7DA126",
+        "A04F375E0D774371B4B2F8ADEC7722DB"
+      ],
+      "parentId": "2ED7D449D14E41D4A2C485466F7DA126"
+    },
+    "C7430B99B92F49AA8A0FF547AAC6F535": {
+      "id": "C7430B99B92F49AA8A0FF547AAC6F535",
+      "asnIdentifier": "S2800754",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "PS.4.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Write an algorithm to solve mathematical problems using formulas, equations, and functions",
+      "ancestorIds": [
+        "2ED7D449D14E41D4A2C485466F7DA126",
+        "A04F375E0D774371B4B2F8ADEC7722DB"
+      ],
+      "parentId": "2ED7D449D14E41D4A2C485466F7DA126"
+    },
+    "BD3D5053601C42F19EF095E254365680": {
+      "id": "BD3D5053601C42F19EF095E254365680",
+      "asnIdentifier": "S2800753",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "PS.4.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Analyze and interpret graphs, charts, and tables in the design and implementation of a computer program",
+      "ancestorIds": [
+        "2ED7D449D14E41D4A2C485466F7DA126",
+        "A04F375E0D774371B4B2F8ADEC7722DB"
+      ],
+      "parentId": "2ED7D449D14E41D4A2C485466F7DA126"
+    },
+    "2ED7D449D14E41D4A2C485466F7DA126": {
+      "id": "2ED7D449D14E41D4A2C485466F7DA126",
+      "asnIdentifier": "S2800752",
+      "position": 32000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will develop and apply logical reasoning skills to solve real-world problems through the development of mathematical models.",
+      "ancestorIds": [
+        "A04F375E0D774371B4B2F8ADEC7722DB"
+      ],
+      "parentId": "A04F375E0D774371B4B2F8ADEC7722DB"
+    },
+    "A04F375E0D774371B4B2F8ADEC7722DB": {
+      "id": "A04F375E0D774371B4B2F8ADEC7722DB",
+      "asnIdentifier": "S2800751",
+      "position": 31000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Problem Solving",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6A3407022E184CA384963A2C8313A2CC": {
+      "id": "6A3407022E184CA384963A2C8313A2CC",
+      "asnIdentifier": "S2800750",
+      "position": 30000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.8",
+      "statementLabel": "Standard",
+      "description": "Work with 2×2 matrices as transformations of the plane and interpret the absolute value of the determinant in terms of area",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "6639B9A802EA458F87AB7CC04A4E340F": {
+      "id": "6639B9A802EA458F87AB7CC04A4E340F",
+      "asnIdentifier": "S2800749",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.7",
+      "statementLabel": "Standard",
+      "description": "Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers; the determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "1C4C3C47070743D6AEE7456C67AEE923": {
+      "id": "1C4C3C47070743D6AEE7456C67AEE923",
+      "asnIdentifier": "S2800748",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.6",
+      "statementLabel": "Standard",
+      "description": "Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation but still satisfies the associative and distributive properties",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "AFF087A2C38B40F4B26DB639B9AE46C0": {
+      "id": "AFF087A2C38B40F4B26DB639B9AE46C0",
+      "asnIdentifier": "S2800747",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.5",
+      "statementLabel": "Standard",
+      "description": "Add, subtract, and multiply matrices of appropriate dimensions",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "B98965E57FCA444D843CB4C0B1E00F96": {
+      "id": "B98965E57FCA444D843CB4C0B1E00F96",
+      "asnIdentifier": "S2800746",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Multiply matrices by scalars to produce new matrices (e.g., as when all of the payoffs in a game are doubled)",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "D32FDD687ECA4BB9BACEDA757F4D8E56": {
+      "id": "D32FDD687ECA4BB9BACEDA757F4D8E56",
+      "asnIdentifier": "S2800745",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Use matrices to represent and manipulate data (e.g., to represent payoffs or incidence relationships in a network)",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "5985E33F347C4E84B93741351E2A8064": {
+      "id": "5985E33F347C4E84B93741351E2A8064",
+      "asnIdentifier": "S2800744",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Find the inverse of a matrix if it exists and use it to solve systems of linear equations; use technology for matrices of dimension 3×3 or greater",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "87A054349BDB4266AD71861B901B9DFB": {
+      "id": "87A054349BDB4266AD71861B901B9DFB",
+      "asnIdentifier": "S2800743",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "SEM.3.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Represent a system of linear equations as a single matrix equation in a vector variable",
+      "ancestorIds": [
+        "D9D86BB9CEC64EFCA6ECC6B222B43006",
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "D9D86BB9CEC64EFCA6ECC6B222B43006"
+    },
+    "D9D86BB9CEC64EFCA6ECC6B222B43006": {
+      "id": "D9D86BB9CEC64EFCA6ECC6B222B43006",
+      "asnIdentifier": "S2800742",
+      "position": 22000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will create, manipulate, and solve systems of equations and matrices and apply them to programming arrays.",
+      "ancestorIds": [
+        "BF76EB97644D499CA4DA7B81962C76D8"
+      ],
+      "parentId": "BF76EB97644D499CA4DA7B81962C76D8"
+    },
+    "BF76EB97644D499CA4DA7B81962C76D8": {
+      "id": "BF76EB97644D499CA4DA7B81962C76D8",
+      "asnIdentifier": "S2800741",
+      "position": 21000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Systems of Equations and Matrices",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "29E2AE2423A740CA8A56D0B110F32950": {
+      "id": "29E2AE2423A740CA8A56D0B110F32950",
+      "asnIdentifier": "S2800740",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "EF.2.MAA.5",
+      "statementLabel": "Standard",
+      "description": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems",
+      "ancestorIds": [
+        "5323B5469B02422E9E6436B9D00AF9EA",
+        "70C8B73F05F448E1B1ADAFB17676E821"
+      ],
+      "parentId": "5323B5469B02422E9E6436B9D00AF9EA"
+    },
+    "ED8E3FABCE7849B18A60906A89D1D957": {
+      "id": "ED8E3FABCE7849B18A60906A89D1D957",
+      "asnIdentifier": "S2800739",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "EF.2.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures",
+      "ancestorIds": [
+        "5323B5469B02422E9E6436B9D00AF9EA",
+        "70C8B73F05F448E1B1ADAFB17676E821"
+      ],
+      "parentId": "5323B5469B02422E9E6436B9D00AF9EA"
+    },
+    "672A511B8B9D4E52AC5E35CC40E71CDA": {
+      "id": "672A511B8B9D4E52AC5E35CC40E71CDA",
+      "asnIdentifier": "S2800738",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "EF.2.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, and volume of a cylinder, pyramid, and cone; use dissection arguments, Cavalieri's principle, and informal limit arguments",
+      "ancestorIds": [
+        "5323B5469B02422E9E6436B9D00AF9EA",
+        "70C8B73F05F448E1B1ADAFB17676E821"
+      ],
+      "parentId": "5323B5469B02422E9E6436B9D00AF9EA"
+    },
+    "7F6E3820B48748B2BE780FCAA39777C1": {
+      "id": "7F6E3820B48748B2BE780FCAA39777C1",
+      "asnIdentifier": "S2800737",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "EF.2.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Rearrange formulas to highlight a quantity of interest using the same reasoning as in solving equations (e.g., rearrange Ohm's law V = IR to highlight resistance R)",
+      "ancestorIds": [
+        "5323B5469B02422E9E6436B9D00AF9EA",
+        "70C8B73F05F448E1B1ADAFB17676E821"
+      ],
+      "parentId": "5323B5469B02422E9E6436B9D00AF9EA"
+    },
+    "3BAF9747DCA140EEA0E3C506D92DDE0D": {
+      "id": "3BAF9747DCA140EEA0E3C506D92DDE0D",
+      "asnIdentifier": "S2800736",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "EF.2.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Represent constraints by equations or inequalities and by systems of equations and inequalities (two and three variable systems); interpret solutions as viable or nonviable options in a modeling context (e.g., represent inequalities describing nutritional and cost constraints on combinations of different foods)",
+      "ancestorIds": [
+        "5323B5469B02422E9E6436B9D00AF9EA",
+        "70C8B73F05F448E1B1ADAFB17676E821"
+      ],
+      "parentId": "5323B5469B02422E9E6436B9D00AF9EA"
+    },
+    "5323B5469B02422E9E6436B9D00AF9EA": {
+      "id": "5323B5469B02422E9E6436B9D00AF9EA",
+      "asnIdentifier": "S2800735",
+      "position": 15000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will manipulate formulas and equations and apply them to programming applications.",
+      "ancestorIds": [
+        "70C8B73F05F448E1B1ADAFB17676E821"
+      ],
+      "parentId": "70C8B73F05F448E1B1ADAFB17676E821"
+    },
+    "70C8B73F05F448E1B1ADAFB17676E821": {
+      "id": "70C8B73F05F448E1B1ADAFB17676E821",
+      "asnIdentifier": "S2800734",
+      "position": 14000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Equations and Formulas",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DA3A5D09D6104261A58EF321DB73FA7A": {
+      "id": "DA3A5D09D6104261A58EF321DB73FA7A",
+      "asnIdentifier": "S2800733",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.11",
+      "statementLabel": "Standard",
+      "description": "Find the conjugate of a complex number; use conjugates to find moduli and quotients of complex numbers",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "A8E9B9808BA14D60959034610852B922": {
+      "id": "A8E9B9808BA14D60959034610852B922",
+      "asnIdentifier": "S2800732",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.10",
+      "statementLabel": "Standard",
+      "description": "Use the relation i² = –1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "A153860E9C73429A957887136A340791": {
+      "id": "A153860E9C73429A957887136A340791",
+      "asnIdentifier": "S2800731",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.9",
+      "statementLabel": "Standard",
+      "description": "Know there is a complex number i such that i² = –1, and every complex number has the form a + bi with a and b real",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "5074DE18103941C29E9F3FBA9560F45B": {
+      "id": "5074DE18103941C29E9F3FBA9560F45B",
+      "asnIdentifier": "S2800730",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.8",
+      "statementLabel": "Standard",
+      "description": "Use inverse functions to solve trigonometric equations that arise in modeling contexts, evaluate the solutions using technology, and interpret them in terms of the context",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "90097586A9A94DDAA20F6ED95E7596C2": {
+      "id": "90097586A9A94DDAA20F6ED95E7596C2",
+      "asnIdentifier": "S2800729",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.7",
+      "statementLabel": "Standard",
+      "description": "Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "66377681E9AE42DD84CC632C4AE97080": {
+      "id": "66377681E9AE42DD84CC632C4AE97080",
+      "asnIdentifier": "S2800728",
+      "position": 8000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.6",
+      "statementLabel": "Standard",
+      "description": "Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "4EB06AF98BF2464AB706C4A8B94DE190": {
+      "id": "4EB06AF98BF2464AB706C4A8B94DE190",
+      "asnIdentifier": "S2800727",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.5",
+      "statementLabel": "Standard",
+      "description": "Write a function that describes a relationship between two quantities:<ul><li>compose functions (e.g., if T(y) is the temperature in the atmosphere as a function of height, and h(t) is the height of a weather balloon as a function of time, then T(h(t)) is the temperature at the location of the weather balloon as a function of time)</li><li>combine standard function types using arithmetic operations (e.g., build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential and relate these functions to the model)</li><li>determine an explicit expression, a recursive process, or steps for calculation from a context</li></ul>",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "DB8A93B8E3DB4AB792AAD874C012983A": {
+      "id": "DB8A93B8E3DB4AB792AAD874C012983A",
+      "asnIdentifier": "S2800726",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.4",
+      "statementLabel": "Standard",
+      "description": "Compare properties of two functions each represented in a different way: algebraically, graphically, numerically in tables, or by verbal descriptions (e.g., given a graph of one quadratic function and an algebraic expression for another, determine which has the larger maximum)",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "99712161BECC47A3A88410CAB04E585D": {
+      "id": "99712161BECC47A3A88410CAB04E585D",
+      "asnIdentifier": "S2800725",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "7F2A7BCE74CD49E0A858F0DB887A7512": {
+      "id": "7F2A7BCE74CD49E0A858F0DB887A7512",
+      "asnIdentifier": "S2800724",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases:<ul><li>graph exponential and logarithmic functions showing intercepts, end behavior, and trigonometric functions, showing period, midline, and amplitude</li><li>graph linear and quadratic functions and show intercepts, maxima, and minima</li><li>graph rational functions identifying zeros and asymptotes when suitable factorizations are available and showing end behavior</li></ul>",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "3DDC582567C04860ABF2862A1303818E": {
+      "id": "3DDC582567C04860ABF2862A1303818E",
+      "asnIdentifier": "S2800723",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "F.1.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers [e.g., the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n + 1) = f(n) + f(n − 1) for n ≥ 1]",
+      "ancestorIds": [
+        "67ECEECC98E846EDA30A9F70049D4A60",
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "67ECEECC98E846EDA30A9F70049D4A60"
+    },
+    "67ECEECC98E846EDA30A9F70049D4A60": {
+      "id": "67ECEECC98E846EDA30A9F70049D4A60",
+      "asnIdentifier": "S2800722",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "description": "The student will graphically, numerically, and algebraically evaluate concepts of different types of functions; include recursively defined functions, series, and sequences; and apply them to programming applications.",
+      "ancestorIds": [
+        "D78256F26B4D488088CF18373925BD66"
+      ],
+      "parentId": "D78256F26B4D488088CF18373925BD66"
+    },
+    "D78256F26B4D488088CF18373925BD66": {
+      "id": "D78256F26B4D488088CF18373925BD66",
+      "asnIdentifier": "S2800721",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Functions",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

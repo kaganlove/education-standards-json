@@ -1,0 +1,682 @@
+{
+  "id": "0F7091AB177F40D8B71B326CAFD13C8D_D2571763_grades-09-10-11-12",
+  "title": "Calculus: Grades 9, 10, 11, 12",
+  "subject": "Mathematics (2014-2020)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated",
+    "title": "CC BY 3.0 US"
+  },
+  "document": {
+    "id": "D2571763",
+    "valid": "2014",
+    "title": "Indiana Academic Standards for Mathematics: Calculus",
+    "sourceURL": "http://www.doe.in.gov/sites/default/files/standards/mathematics/2014-06-26-math-calculus-architecturewith-front-matter.pdf",
+    "asnIdentifier": "D2571763",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "0F7091AB177F40D8B71B326CAFD13C8D",
+    "title": "Indiana"
+  },
+  "standards": {
+    "5E5ABDB4037345499D3D8254589CF8CC": {
+      "statementNotation": "C.AI.7",
+      "description": "Apply integration to model and solve (with and without technology) real-world problems in physics, biology, economics, etc., using the integral as a rate of change to give accumulated change and using the method of setting up an approximating Riemann Sum and representing its limit as a definite integral.",
+      "id": "5E5ABDB4037345499D3D8254589CF8CC",
+      "asnIdentifier": "S2571818",
+      "position": 55000,
+      "depth": 1,
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "420882166CDA43709266198A9239839A": {
+      "id": "420882166CDA43709266198A9239839A",
+      "asnIdentifier": "S2571817",
+      "position": 54000,
+      "depth": 1,
+      "statementNotation": "C.AI.6",
+      "description": "Use definite integrals to find the volume of a solid with known cross-sectional area.",
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "E101464D1AAD454EA4AF515C23D9CE00": {
+      "description": "Use definite integrals to find the average value of a function over a closed interval.",
+      "id": "E101464D1AAD454EA4AF515C23D9CE00",
+      "asnIdentifier": "S2571816",
+      "position": 53000,
+      "depth": 1,
+      "statementNotation": "C.AI.5",
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "F75BD98399FF43C397F13C3D26011702": {
+      "id": "F75BD98399FF43C397F13C3D26011702",
+      "asnIdentifier": "S2571815",
+      "position": 52000,
+      "depth": 1,
+      "statementNotation": "C.AI.4",
+      "description": "Use definite integrals to find the area between a curve and the x-axis, or between two curves.",
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "7390E08BDE184B249486B94B2CB99B47": {
+      "depth": 1,
+      "statementNotation": "C.AI.3",
+      "description": "Solve differential equations of the form y' = ky as applied to growth and decay problems.",
+      "id": "7390E08BDE184B249486B94B2CB99B47",
+      "asnIdentifier": "S2571814",
+      "position": 51000,
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "6445F8A6CB584A8A99EF4F7E56B452FE": {
+      "id": "6445F8A6CB584A8A99EF4F7E56B452FE",
+      "asnIdentifier": "S2571813",
+      "position": 50000,
+      "depth": 1,
+      "statementNotation": "C.AI.2",
+      "description": "Solve separable differential equations and use them in modeling real-world problems with and without technology.",
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "7288131AEB0C4D69AB084918732AD7C2": {
+      "id": "7288131AEB0C4D69AB084918732AD7C2",
+      "asnIdentifier": "S2571812",
+      "position": 49000,
+      "depth": 1,
+      "statementNotation": "C.AI.1",
+      "description": "Find specific antiderivatives using initial conditions, including finding velocity functions from acceleration functions, finding position functions from velocity functions, and applications to motion along a line.",
+      "ancestorIds": [
+        "6E2C87581FE8445BB465F0527CF1CA60"
+      ],
+      "parentId": "6E2C87581FE8445BB465F0527CF1CA60"
+    },
+    "6E2C87581FE8445BB465F0527CF1CA60": {
+      "position": 48000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Application of Integrals",
+      "id": "6E2C87581FE8445BB465F0527CF1CA60",
+      "asnIdentifier": "S2571811",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FE5B9B17D5234B3795A01EAF953F65F2": {
+      "description": "Understand and use Riemann Sums, the Trapezoidal Rule, and technology to approximate definite integrals of functions represented algebraically, geometrically, and by tables of values.",
+      "id": "FE5B9B17D5234B3795A01EAF953F65F2",
+      "asnIdentifier": "S2571810",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "C.I.8",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "57B2641AF97F4526B76110C59C23E6DE": {
+      "description": "Understand and use integration by substitution (or change of variable) to find values of integrals.",
+      "id": "57B2641AF97F4526B76110C59C23E6DE",
+      "asnIdentifier": "S2571809",
+      "position": 46000,
+      "depth": 1,
+      "statementNotation": "C.I.7",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "ED82796C1F8742368CF92A3DB6673EBE": {
+      "description": "Understand and use these properties of definite integrals.<br /><img src=\"http://purl.org/ASN/resources/images/D2571763/pg12.c.i.6.png\" alt=\"pg12.c.i.6.png\" />",
+      "id": "ED82796C1F8742368CF92A3DB6673EBE",
+      "asnIdentifier": "S2571808",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "C.I.6",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "0B1E338BAF3B4872AF2544196E2D6343": {
+      "asnIdentifier": "S2571807",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "C.I.5",
+      "description": "Use the Fundamental Theorem of Calculus to evaluate definite and indefinite integrals and to represent particular antiderivatives. Perform analytical and graphical analysis of functions so defined.",
+      "id": "0B1E338BAF3B4872AF2544196E2D6343",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "2E8B4ED3479146B99C853952944295BF": {
+      "position": 43000,
+      "depth": 1,
+      "statementNotation": "C.I.4",
+      "description": "Understand the Fundamental Theorem of Calculus: Interpret a definite integral of the rate of change of a quantity over an interval as the change of the quantity over the interval, that is<br /><img src=\"http://purl.org/ASN/resources/images/D2571763/pg11.c.i.4.png\" alt=\"pg11.c.i.4.png\" />",
+      "id": "2E8B4ED3479146B99C853952944295BF",
+      "asnIdentifier": "S2571806",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "45D171FFD9624380A378D0AEF380DE72": {
+      "statementNotation": "C.I.3",
+      "description": "Interpret a definite integral as a limit of Riemann Sums.",
+      "id": "45D171FFD9624380A378D0AEF380DE72",
+      "asnIdentifier": "S2571805",
+      "position": 42000,
+      "depth": 1,
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "CFCA58826D3C4B67BF2A70FE88727645": {
+      "asnIdentifier": "S2571804",
+      "position": 41000,
+      "depth": 1,
+      "statementNotation": "C.I.2",
+      "description": "Calculate the values of Riemann Sums over equal subdivisions using left, right, and midpoint evaluation points.",
+      "id": "CFCA58826D3C4B67BF2A70FE88727645",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "FAE6B835750248289E59964F536007E1": {
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "C.I.1",
+      "description": "Use rectangle approximations to find approximate values of integrals.",
+      "id": "FAE6B835750248289E59964F536007E1",
+      "asnIdentifier": "S2571803",
+      "ancestorIds": [
+        "275ECF10465640B4997E4D98EA86B80F"
+      ],
+      "parentId": "275ECF10465640B4997E4D98EA86B80F"
+    },
+    "275ECF10465640B4997E4D98EA86B80F": {
+      "id": "275ECF10465640B4997E4D98EA86B80F",
+      "asnIdentifier": "S2571802",
+      "position": 39000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Integrals",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "61EFDFC05B8C4523B613FC6FACB3AA76": {
+      "id": "61EFDFC05B8C4523B613FC6FACB3AA76",
+      "asnIdentifier": "S2571801",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "C.AD.12",
+      "description": "Model rates of change, including related rates problems.",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "9BC86091825C4882B41E6EAEC673884A": {
+      "asnIdentifier": "S2571800",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "C.AD.11",
+      "description": "Find the velocity and acceleration of a particle moving in a straight line.",
+      "id": "9BC86091825C4882B41E6EAEC673884A",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "FE351F9B5DFF4632A2F87B7819343DA3": {
+      "id": "FE351F9B5DFF4632A2F87B7819343DA3",
+      "asnIdentifier": "S2571799",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "C.AD.10",
+      "description": "Find average and instantaneous rates of change. Understand the instantaneous rate of change as the limit of the average rate of change. Interpret a derivative as a rate of change in applications, including distance, velocity, and acceleration.",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "FBE5F3025C7C46C3B0063AAECB51AB24": {
+      "id": "FBE5F3025C7C46C3B0063AAECB51AB24",
+      "asnIdentifier": "S2571798",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "C.AD.9",
+      "description": "Solve optimization real-world problems with and without technology.",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "C592A166C6734CDA8A47DFBCBE241107": {
+      "id": "C592A166C6734CDA8A47DFBCBE241107",
+      "asnIdentifier": "S2571797",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "C.AD.8",
+      "description": "Use implicit differentiation to find the derivative of an inverse function.",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "6DA1F2FC58114382B3C6929D704BC9BB": {
+      "description": "Use first and second derivatives to help sketch graphs modeling real-world and other mathematical problems with and without technology. Compare the corresponding characteristics of the graphs of f, f', and f\".",
+      "id": "6DA1F2FC58114382B3C6929D704BC9BB",
+      "asnIdentifier": "S2571796",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "C.AD.7",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "505A9BD23A22453C9AE31492857946A1": {
+      "asnIdentifier": "S2571795",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "C.AD.6",
+      "description": "Find points of inflection of functions. Understand the relationship between the concavity of f and the sign of f\". Understand points of inflection as places where concavity changes.",
+      "id": "505A9BD23A22453C9AE31492857946A1",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "223D639C63B14384ABD9CEA682679E89": {
+      "description": "Analyze real-world problems modeled by curves, including the notions of monotonicity and concavity with and without technology.",
+      "id": "223D639C63B14384ABD9CEA682679E89",
+      "asnIdentifier": "S2571794",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "C.AD.5",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "991E1FA1A90E4AE5B310DDC8A4F6522B": {
+      "depth": 1,
+      "statementNotation": "C.AD.4",
+      "description": "Solve real-world and other mathematical problems finding local and absolute maximum and minimum points with and without technology.",
+      "id": "991E1FA1A90E4AE5B310DDC8A4F6522B",
+      "asnIdentifier": "S2571793",
+      "position": 30000,
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "0D3F81062A9746CBA985EEE61E96C0D7": {
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "C.AD.3",
+      "description": "Decide where functions are decreasing and increasing. Understand the relationship between the increasing and decreasing behavior of f and the sign of f'.",
+      "id": "0D3F81062A9746CBA985EEE61E96C0D7",
+      "asnIdentifier": "S2571792",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "49FCE5741F684633BC8D3626052FE04A": {
+      "depth": 1,
+      "statementNotation": "C.AD.2",
+      "description": "Find a tangent line to a curve at a point and a local linear approximation.",
+      "id": "49FCE5741F684633BC8D3626052FE04A",
+      "asnIdentifier": "S2571791",
+      "position": 28000,
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "A39622B82DE94185BB4B06BD9B040372": {
+      "id": "A39622B82DE94185BB4B06BD9B040372",
+      "asnIdentifier": "S2571790",
+      "position": 27000,
+      "depth": 1,
+      "statementNotation": "C.AD.1",
+      "description": "Find the slope of a curve at a point, including points at which there are vertical tangents and no tangents.",
+      "ancestorIds": [
+        "1CF57386FD3F44519795531466A09755"
+      ],
+      "parentId": "1CF57386FD3F44519795531466A09755"
+    },
+    "1CF57386FD3F44519795531466A09755": {
+      "id": "1CF57386FD3F44519795531466A09755",
+      "asnIdentifier": "S2571789",
+      "position": 26000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Application of Derivatives",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E69A3E37D44B4809AB23BE541244F2F8": {
+      "description": "Understand and apply the Mean Value Theorem.",
+      "id": "E69A3E37D44B4809AB23BE541244F2F8",
+      "asnIdentifier": "S2571788",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "C.D.11",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "E576B418795A4B85977661736BE23BCE": {
+      "description": "Understand and apply the relationship between differentiability and continuity.",
+      "id": "E576B418795A4B85977661736BE23BCE",
+      "asnIdentifier": "S2571787",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "C.D.10",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "A46D8937951D480188524284BB7EF61D": {
+      "statementNotation": "C.D.9",
+      "description": "Find derivatives using logarithmic differentiation.",
+      "id": "A46D8937951D480188524284BB7EF61D",
+      "asnIdentifier": "S2571786",
+      "position": 23000,
+      "depth": 1,
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "B03E5F14652A4D428EA6819B9F65D882": {
+      "asnIdentifier": "S2571785",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "C.D.8",
+      "description": "Find second derivatives and derivatives of higher order.",
+      "id": "B03E5F14652A4D428EA6819B9F65D882",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "51C77AB8BDC64837B5FCC81A391CEDDA": {
+      "id": "51C77AB8BDC64837B5FCC81A391CEDDA",
+      "asnIdentifier": "S2571784",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "C.D.7",
+      "description": "Find the derivatives of inverse functions.",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "F3EF4E93A98B44858D4AB73536FC4767": {
+      "description": "Find the derivatives of implicitly-defined functions.",
+      "id": "F3EF4E93A98B44858D4AB73536FC4767",
+      "asnIdentifier": "S2571783",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "C.D.6",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "56892BC0F60F42038D689D9D7D247337": {
+      "depth": 1,
+      "statementNotation": "C.D.5",
+      "description": "Find the derivatives of composite functions, using the chain rule.",
+      "id": "56892BC0F60F42038D689D9D7D247337",
+      "asnIdentifier": "S2571782",
+      "position": 19000,
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "A3A43C1720F04139A81717C7BC0501AA": {
+      "id": "A3A43C1720F04139A81717C7BC0501AA",
+      "asnIdentifier": "S2571781",
+      "position": 18000,
+      "depth": 1,
+      "statementNotation": "C.D.4",
+      "description": "Find the derivatives of sums, products, and quotients.",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "0E5477628A62417EA718C0396B662B5C": {
+      "depth": 1,
+      "statementNotation": "C.D.3",
+      "description": "Find the derivatives of functions, including algebraic, trigonometric, logarithmic, and exponential functions.",
+      "id": "0E5477628A62417EA718C0396B662B5C",
+      "asnIdentifier": "S2571780",
+      "position": 17000,
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "2CD4DA50850C48E588B427384D6F7684": {
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "C.D.2",
+      "description": "State, understand, and apply the definition of derivative.",
+      "id": "2CD4DA50850C48E588B427384D6F7684",
+      "asnIdentifier": "S2571779",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "D42AFE4AC8D246009AF08FDA127C8F84": {
+      "id": "D42AFE4AC8D246009AF08FDA127C8F84",
+      "asnIdentifier": "S2571778",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "C.D.1",
+      "description": "Understand the concept of derivative geometrically, numerically, and analytically, and interpret the derivative as a rate of change.",
+      "ancestorIds": [
+        "E59871389AFD4FB88C797EDF152FEF6A"
+      ],
+      "parentId": "E59871389AFD4FB88C797EDF152FEF6A"
+    },
+    "E59871389AFD4FB88C797EDF152FEF6A": {
+      "statementLabel": "Strand",
+      "description": "Differentiation",
+      "id": "E59871389AFD4FB88C797EDF152FEF6A",
+      "asnIdentifier": "S2571777",
+      "position": 14000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5134DC0532D24880B8BA2D88BD00187C": {
+      "id": "5134DC0532D24880B8BA2D88BD00187C",
+      "asnIdentifier": "S2571776",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "C.LC.12",
+      "description": "Understand and apply the Extreme Value Theorem: If f(x) is continuous over a closed interval, then f has a maximum and a minimum on the interval.",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "F26AD8A19E1E41A88530DA01E5EBA843": {
+      "id": "F26AD8A19E1E41A88530DA01E5EBA843",
+      "asnIdentifier": "S2571775",
+      "position": 12000,
+      "depth": 1,
+      "statementNotation": "C.LC.11",
+      "description": "Understand and use the Intermediate Value Theorem on a function over a closed interval.",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "A0999DB8DD584DC597153BC954F76138": {
+      "depth": 1,
+      "statementNotation": "C.LC.10",
+      "description": "Find the types of discontinuities of a function.",
+      "id": "A0999DB8DD584DC597153BC954F76138",
+      "asnIdentifier": "S2571774",
+      "position": 11000,
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "21F8B4F62821487FB318EF0801E42358": {
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "C.LC.9",
+      "description": "Decide if a function is continuous at a point.",
+      "id": "21F8B4F62821487FB318EF0801E42358",
+      "asnIdentifier": "S2571773",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "287345BE84E8418CA0EF7E85D036FD64": {
+      "description": "Understand continuity in terms of limits.",
+      "id": "287345BE84E8418CA0EF7E85D036FD64",
+      "asnIdentifier": "S2571772",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "C.LC.8",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "0C53D1B1EB6D440BACC010B089F32194": {
+      "id": "0C53D1B1EB6D440BACC010B089F32194",
+      "asnIdentifier": "S2571771",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "C.LC.7",
+      "description": "Find one-sided limits.",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "A143FAECE9A549AF9EB11BD1ECDB1176": {
+      "asnIdentifier": "S2571770",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "C.LC.6",
+      "description": "Decide when a limit is infinite and use limits involving infinity to describe asymptotic behavior. Find special limits <img src=\"http://purl.org/ASN/resources/images/D2571763/pg9.c.lc.6.png\" alt=\"pg9.c.lc.6.png\" />",
+      "id": "A143FAECE9A549AF9EB11BD1ECDB1176",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "1B73B1304C9045EE876C75CCE9232C88": {
+      "depth": 1,
+      "statementNotation": "C.LC.5",
+      "description": "Find limits at infinity.",
+      "id": "1B73B1304C9045EE876C75CCE9232C88",
+      "asnIdentifier": "S2571769",
+      "position": 6000,
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "524B839EC04F4C5AA5ACB144FAC8FF4E": {
+      "statementNotation": "C.LC.4",
+      "description": "Find limits of rational functions that are undefined at a point.",
+      "id": "524B839EC04F4C5AA5ACB144FAC8FF4E",
+      "asnIdentifier": "S2571768",
+      "position": 5000,
+      "depth": 1,
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "529A840C647E4AEEA8A54876D7EE9691": {
+      "statementNotation": "C.LC.3",
+      "description": "Find limits of sums, differences, products, and quotients.",
+      "id": "529A840C647E4AEEA8A54876D7EE9691",
+      "asnIdentifier": "S2571767",
+      "position": 4000,
+      "depth": 1,
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "AF775522D08D4935882913B79166CBDA": {
+      "id": "AF775522D08D4935882913B79166CBDA",
+      "asnIdentifier": "S2571766",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "C.LC.2",
+      "description": "Find limits by substitution.",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "CA0D72DC8FA04A40B31CB8045C95CB99": {
+      "id": "CA0D72DC8FA04A40B31CB8045C95CB99",
+      "asnIdentifier": "S2571765",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "C.LC.1",
+      "description": "Understand the concept of limit and estimate limits from graphs and tables of values.",
+      "ancestorIds": [
+        "2482D6790E97467FB06DF32B5700CE70"
+      ],
+      "parentId": "2482D6790E97467FB06DF32B5700CE70"
+    },
+    "2482D6790E97467FB06DF32B5700CE70": {
+      "statementLabel": "Strand",
+      "description": "Limits and Continuity",
+      "id": "2482D6790E97467FB06DF32B5700CE70",
+      "asnIdentifier": "S2571764",
+      "position": 1000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

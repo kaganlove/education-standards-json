@@ -1,0 +1,1700 @@
+{
+  "id": "49FCDFBD2CF04033A9C347BFA0584DF0_D2605466_grades-09-10-11-12",
+  "title": "Algebra II",
+  "subject": "Mathematics (2013-2022)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2605466",
+    "valid": "2013",
+    "title": "Maryland College and Career-Ready Standards - Algebra II",
+    "sourceURL": "http://mdk12.org/share/frameworks/MDCCSC_AlgebraII_2013.pdf",
+    "asnIdentifier": "D2605466",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "49FCDFBD2CF04033A9C347BFA0584DF0",
+    "title": "Maryland"
+  },
+  "standards": {
+    "BC5C6C1BF1FF4C54900E50CC87019743": {
+      "id": "BC5C6C1BF1FF4C54900E50CC87019743",
+      "asnIdentifier": "S2605589",
+      "position": 123000,
+      "depth": 2,
+      "statementNotation": "S.MD.7",
+      "statementLabel": "Standard",
+      "description": "(+) Analyze decisions and strategies using probability concepts (e.g., product testing, medical testing, pulling a hockey goalie at the end of a game).",
+      "ancestorIds": [
+        "9F11DE475C1843C6A213496CE5AF73F0",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "9F11DE475C1843C6A213496CE5AF73F0"
+    },
+    "E1579CB046EA44C2915FD5E7D82BF119": {
+      "id": "E1579CB046EA44C2915FD5E7D82BF119",
+      "asnIdentifier": "S2605588",
+      "position": 122000,
+      "depth": 2,
+      "statementNotation": "S.MD.6",
+      "statementLabel": "Standard",
+      "description": "(+) Use probabilities to make fair decisions (e.g., drawing by lots, using a random number generator).",
+      "ancestorIds": [
+        "9F11DE475C1843C6A213496CE5AF73F0",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "9F11DE475C1843C6A213496CE5AF73F0"
+    },
+    "9F11DE475C1843C6A213496CE5AF73F0": {
+      "id": "9F11DE475C1843C6A213496CE5AF73F0",
+      "asnIdentifier": "S2605587",
+      "position": 121000,
+      "depth": 1,
+      "statementNotation": "S.MD.A",
+      "statementLabel": "Cluster",
+      "description": "Use probability to evaluate outcomes of decisions.",
+      "ancestorIds": [
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "52B401A8536F4363B07954E7AEF0E5D3"
+    },
+    "E358110A26F6460390E8562812FE6191": {
+      "id": "E358110A26F6460390E8562812FE6191",
+      "asnIdentifier": "S2605586",
+      "position": 120000,
+      "depth": 2,
+      "statementNotation": "S.CP.9",
+      "statementLabel": "Standard",
+      "description": "(+) Use permutations and combinations to compute probabilities of compound events and solve problems.",
+      "ancestorIds": [
+        "579738DA27004A51866E98BE88A3B8F9",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "579738DA27004A51866E98BE88A3B8F9"
+    },
+    "A30A83BD7DF447B797E87146536458AE": {
+      "id": "A30A83BD7DF447B797E87146536458AE",
+      "asnIdentifier": "S2605585",
+      "position": 119000,
+      "depth": 2,
+      "statementNotation": "S.CP.8",
+      "statementLabel": "Standard",
+      "description": "(+) Apply the general Multiplication Rule in a uniform probability model, P(A and B) = P(A)P(B|A) = P(B)P(A|B), and interpret the answer in terms of the model.",
+      "ancestorIds": [
+        "579738DA27004A51866E98BE88A3B8F9",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "579738DA27004A51866E98BE88A3B8F9"
+    },
+    "F7F57D3BEC5E4981B8C1A335EA8C8895": {
+      "id": "F7F57D3BEC5E4981B8C1A335EA8C8895",
+      "asnIdentifier": "S2605584",
+      "position": 118000,
+      "depth": 2,
+      "statementNotation": "S.CP.7",
+      "statementLabel": "Standard",
+      "description": "Apply the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B), and interpret the answer in terms of the model.",
+      "ancestorIds": [
+        "579738DA27004A51866E98BE88A3B8F9",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "579738DA27004A51866E98BE88A3B8F9"
+    },
+    "7EDD5E52FF4944F88B19AA22E9556EAB": {
+      "id": "7EDD5E52FF4944F88B19AA22E9556EAB",
+      "asnIdentifier": "S2605583",
+      "position": 117000,
+      "depth": 2,
+      "statementNotation": "S.CP.6",
+      "statementLabel": "Standard",
+      "description": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model.",
+      "ancestorIds": [
+        "579738DA27004A51866E98BE88A3B8F9",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "579738DA27004A51866E98BE88A3B8F9"
+    },
+    "579738DA27004A51866E98BE88A3B8F9": {
+      "id": "579738DA27004A51866E98BE88A3B8F9",
+      "asnIdentifier": "S2605582",
+      "position": 116000,
+      "depth": 1,
+      "statementNotation": "S.CP.B",
+      "statementLabel": "Cluster",
+      "description": "Use the rules of probability to compute probabilities of compound events in a uniform probability model.",
+      "ancestorIds": [
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "52B401A8536F4363B07954E7AEF0E5D3"
+    },
+    "334137EBEA9049DBA2FA56B6CE892E96": {
+      "id": "334137EBEA9049DBA2FA56B6CE892E96",
+      "asnIdentifier": "S2605581",
+      "position": 115000,
+      "depth": 2,
+      "statementNotation": "S.CP.5",
+      "statementLabel": "Standard",
+      "description": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations. For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer.",
+      "ancestorIds": [
+        "37EF86A898224B27BA2743C77EE6459C",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "37EF86A898224B27BA2743C77EE6459C"
+    },
+    "C4E9978B0977439298542A04E15DE55C": {
+      "id": "C4E9978B0977439298542A04E15DE55C",
+      "asnIdentifier": "S2605580",
+      "position": 114000,
+      "depth": 2,
+      "statementNotation": "S.CP.4",
+      "statementLabel": "Standard",
+      "description": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.",
+      "ancestorIds": [
+        "37EF86A898224B27BA2743C77EE6459C",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "37EF86A898224B27BA2743C77EE6459C"
+    },
+    "526E1D9333B94132BF207BE5C658540A": {
+      "id": "526E1D9333B94132BF207BE5C658540A",
+      "asnIdentifier": "S2605579",
+      "position": 113000,
+      "depth": 2,
+      "statementNotation": "S.CP.3",
+      "statementLabel": "Standard",
+      "description": "Understand the conditional probability of A given B as P(A and B)/P(B), and interpret independence of A and B as saying that the conditional probability of A given B is the same as the probability of A, and the conditional probability of B given A is the same as the probability of B.",
+      "ancestorIds": [
+        "37EF86A898224B27BA2743C77EE6459C",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "37EF86A898224B27BA2743C77EE6459C"
+    },
+    "EE687032DEBA40A08B6005E3C40FFA92": {
+      "id": "EE687032DEBA40A08B6005E3C40FFA92",
+      "asnIdentifier": "S2605578",
+      "position": 112000,
+      "depth": 2,
+      "statementNotation": "S.CP.2",
+      "statementLabel": "Standard",
+      "description": "Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent.",
+      "ancestorIds": [
+        "37EF86A898224B27BA2743C77EE6459C",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "37EF86A898224B27BA2743C77EE6459C"
+    },
+    "57F4444D5CD841AA954B1A016155F66A": {
+      "id": "57F4444D5CD841AA954B1A016155F66A",
+      "asnIdentifier": "S2605577",
+      "position": 111000,
+      "depth": 2,
+      "statementNotation": "S.CP.1",
+      "statementLabel": "Standard",
+      "description": "Describe events as subsets of a sample space (the set of outcomes) using characteristics (or categories) of the outcomes, or as unions, intersections, or complements of other events (\"or,\" \"and,\" \"not\").",
+      "ancestorIds": [
+        "37EF86A898224B27BA2743C77EE6459C",
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "37EF86A898224B27BA2743C77EE6459C"
+    },
+    "37EF86A898224B27BA2743C77EE6459C": {
+      "id": "37EF86A898224B27BA2743C77EE6459C",
+      "asnIdentifier": "S2605576",
+      "position": 110000,
+      "depth": 1,
+      "statementNotation": "S.CP.A",
+      "statementLabel": "Cluster",
+      "description": "Understand independence and conditional probability and use them to interpret data.",
+      "ancestorIds": [
+        "52B401A8536F4363B07954E7AEF0E5D3"
+      ],
+      "parentId": "52B401A8536F4363B07954E7AEF0E5D3"
+    },
+    "52B401A8536F4363B07954E7AEF0E5D3": {
+      "id": "52B401A8536F4363B07954E7AEF0E5D3",
+      "asnIdentifier": "S2605575",
+      "position": 109000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "5.",
+      "description": "Applications of Probability",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "92CA04D60A664197A18329BFD498B96A": {
+      "id": "92CA04D60A664197A18329BFD498B96A",
+      "asnIdentifier": "S2605574",
+      "position": 108000,
+      "depth": 2,
+      "statementNotation": "S.MD.7",
+      "statementLabel": "Standard",
+      "description": "(+) Analyze decisions and strategies using probability concepts (e.g., product testing, medical testing, pulling a hockey goalie at the end of a game).",
+      "ancestorIds": [
+        "66A8DC8EAD794A52BE552B65A81BCE0D",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "66A8DC8EAD794A52BE552B65A81BCE0D"
+    },
+    "031DE26458A44A41AB62BF76D5EEA366": {
+      "id": "031DE26458A44A41AB62BF76D5EEA366",
+      "asnIdentifier": "S2605573",
+      "position": 107000,
+      "depth": 2,
+      "statementNotation": "S.MD.6",
+      "statementLabel": "Standard",
+      "description": "(+) Use probabilities to make fair decisions (e.g., drawing by lots, using a random number generator).",
+      "ancestorIds": [
+        "66A8DC8EAD794A52BE552B65A81BCE0D",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "66A8DC8EAD794A52BE552B65A81BCE0D"
+    },
+    "66A8DC8EAD794A52BE552B65A81BCE0D": {
+      "id": "66A8DC8EAD794A52BE552B65A81BCE0D",
+      "asnIdentifier": "S2605572",
+      "position": 106000,
+      "depth": 1,
+      "statementNotation": "S.MD.A",
+      "statementLabel": "Cluster",
+      "description": "Use probability to evaluate outcomes of decisions.",
+      "ancestorIds": [
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "CA01FA3962074FF2801C46F7E2C7DF17"
+    },
+    "967CD04A33F644459BD15B41D069F9F4": {
+      "id": "967CD04A33F644459BD15B41D069F9F4",
+      "asnIdentifier": "S2605571",
+      "position": 105000,
+      "depth": 2,
+      "statementNotation": "S.IC.6",
+      "statementLabel": "Standard",
+      "description": "Evaluate reports based on data.",
+      "ancestorIds": [
+        "83A5B0E9E3B5439285222EAE13E43385",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "83A5B0E9E3B5439285222EAE13E43385"
+    },
+    "AFDF0EF32AA0431C80C6D7D0E2D2A8FA": {
+      "id": "AFDF0EF32AA0431C80C6D7D0E2D2A8FA",
+      "asnIdentifier": "S2605570",
+      "position": 104000,
+      "depth": 2,
+      "statementNotation": "S.IC.5",
+      "statementLabel": "Standard",
+      "description": "Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.",
+      "ancestorIds": [
+        "83A5B0E9E3B5439285222EAE13E43385",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "83A5B0E9E3B5439285222EAE13E43385"
+    },
+    "6FE71D958BAE4FC98BC93DA775BCA294": {
+      "id": "6FE71D958BAE4FC98BC93DA775BCA294",
+      "asnIdentifier": "S2605569",
+      "position": 103000,
+      "depth": 2,
+      "statementNotation": "S.IC.4",
+      "statementLabel": "Standard",
+      "description": "Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.",
+      "ancestorIds": [
+        "83A5B0E9E3B5439285222EAE13E43385",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "83A5B0E9E3B5439285222EAE13E43385"
+    },
+    "EE6EF67E82AF4D1BAB37E2ACAC6853C0": {
+      "id": "EE6EF67E82AF4D1BAB37E2ACAC6853C0",
+      "asnIdentifier": "S2605568",
+      "position": 102000,
+      "depth": 2,
+      "statementNotation": "S.IC.3",
+      "statementLabel": "Standard",
+      "description": "Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each.",
+      "ancestorIds": [
+        "83A5B0E9E3B5439285222EAE13E43385",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "83A5B0E9E3B5439285222EAE13E43385"
+    },
+    "83A5B0E9E3B5439285222EAE13E43385": {
+      "id": "83A5B0E9E3B5439285222EAE13E43385",
+      "asnIdentifier": "S2605567",
+      "position": 101000,
+      "depth": 1,
+      "statementNotation": "S.IC.B",
+      "statementLabel": "Cluster",
+      "description": "Make inferences and justify conclusions from sample surveys, experiments, and observational studies.",
+      "ancestorIds": [
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "CA01FA3962074FF2801C46F7E2C7DF17"
+    },
+    "9D5F057527F547478448FF75258CFD66": {
+      "id": "9D5F057527F547478448FF75258CFD66",
+      "asnIdentifier": "S2605566",
+      "position": 100000,
+      "depth": 2,
+      "statementNotation": "S.IC.2",
+      "statementLabel": "Standard",
+      "description": "Decide if a specified model is consistent with results from a given data-generating process, e.g., using simulation. For example, a model says a spinning coin falls heads up with probability 0.5. Would a result of 5 tails in a row cause you to question the model?",
+      "ancestorIds": [
+        "4B3458DF763E4A12BE7F15FE026FFE04",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "4B3458DF763E4A12BE7F15FE026FFE04"
+    },
+    "048730222AE34C4AA8FFAF4187301947": {
+      "id": "048730222AE34C4AA8FFAF4187301947",
+      "asnIdentifier": "S2605565",
+      "position": 99000,
+      "depth": 2,
+      "statementNotation": "S.IC.1",
+      "statementLabel": "Standard",
+      "description": "Understand statistics as a process for making inferences about population parameters based on a random sample from that population.",
+      "ancestorIds": [
+        "4B3458DF763E4A12BE7F15FE026FFE04",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "4B3458DF763E4A12BE7F15FE026FFE04"
+    },
+    "4B3458DF763E4A12BE7F15FE026FFE04": {
+      "id": "4B3458DF763E4A12BE7F15FE026FFE04",
+      "asnIdentifier": "S2605564",
+      "position": 98000,
+      "depth": 1,
+      "statementNotation": "S.IC.A",
+      "statementLabel": "Cluster",
+      "description": "Understand and evaluate random processes underlying statistical experiments.",
+      "ancestorIds": [
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "CA01FA3962074FF2801C46F7E2C7DF17"
+    },
+    "6E53E50B363347769C00EEEEDE3D48F5": {
+      "id": "6E53E50B363347769C00EEEEDE3D48F5",
+      "asnIdentifier": "S2605563",
+      "position": 97000,
+      "depth": 2,
+      "statementNotation": "S.ID.4",
+      "statementLabel": "Standard",
+      "description": "Use the mean and standard deviation of a data set to fit it to a normal distribution and to estimate population percentages. Recognize that there are data sets for which such a procedure is not appropriate. Use calculators, spreadsheets, and tables to estimate areas under the normal curve.",
+      "ancestorIds": [
+        "A9AEAB2FB7314EC980C96AB4FCEB47F6",
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "A9AEAB2FB7314EC980C96AB4FCEB47F6"
+    },
+    "A9AEAB2FB7314EC980C96AB4FCEB47F6": {
+      "id": "A9AEAB2FB7314EC980C96AB4FCEB47F6",
+      "asnIdentifier": "S2605562",
+      "position": 96000,
+      "depth": 1,
+      "statementNotation": "S.ID.B",
+      "statementLabel": "Cluster",
+      "description": "Summarize, represent, and interpret data on a single count or measurement variable.",
+      "ancestorIds": [
+        "CA01FA3962074FF2801C46F7E2C7DF17"
+      ],
+      "parentId": "CA01FA3962074FF2801C46F7E2C7DF17"
+    },
+    "CA01FA3962074FF2801C46F7E2C7DF17": {
+      "id": "CA01FA3962074FF2801C46F7E2C7DF17",
+      "asnIdentifier": "S2605561",
+      "position": 95000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "4.",
+      "description": "Inferences and Conclusions from Data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8EB157DCA5414C7EB818BF0F4EFF6280": {
+      "id": "8EB157DCA5414C7EB818BF0F4EFF6280",
+      "asnIdentifier": "S2605560",
+      "position": 94000,
+      "depth": 2,
+      "statementNotation": "F.LE.5",
+      "statementLabel": "Standard",
+      "description": "Interpret the parameters in a linear or exponential function in terms of a context.",
+      "ancestorIds": [
+        "0D6EBFE8AE2A4E75849D5D4308BB0EF3",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0D6EBFE8AE2A4E75849D5D4308BB0EF3"
+    },
+    "0D6EBFE8AE2A4E75849D5D4308BB0EF3": {
+      "id": "0D6EBFE8AE2A4E75849D5D4308BB0EF3",
+      "asnIdentifier": "S2605559",
+      "position": 93000,
+      "depth": 1,
+      "statementNotation": "F.LE.B",
+      "statementLabel": "Cluster",
+      "description": "Interpret expressions for functions in terms of the situation they model.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "B61DB4B3CBCF4D8C93331B30B586BD12": {
+      "id": "B61DB4B3CBCF4D8C93331B30B586BD12",
+      "asnIdentifier": "S2605558",
+      "position": 92000,
+      "depth": 2,
+      "statementNotation": "F.LE.4",
+      "statementLabel": "Standard",
+      "description": "For exponential models, express as a logarithm the solution to a b<sup>ct</sup> = d where a, c, and d are numbers and the base b is 2, 10, or e; evaluate the logarithm using technology.",
+      "ancestorIds": [
+        "8335A56F7A1749239A773B30302C9781",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "8335A56F7A1749239A773B30302C9781"
+    },
+    "44B4ABB0CCFD4E28BDCED92067DE76C0": {
+      "id": "44B4ABB0CCFD4E28BDCED92067DE76C0",
+      "asnIdentifier": "S2605557",
+      "position": 91000,
+      "depth": 2,
+      "statementNotation": "F.LE.2",
+      "statementLabel": "Standard",
+      "description": "Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).",
+      "ancestorIds": [
+        "8335A56F7A1749239A773B30302C9781",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "8335A56F7A1749239A773B30302C9781"
+    },
+    "8335A56F7A1749239A773B30302C9781": {
+      "id": "8335A56F7A1749239A773B30302C9781",
+      "asnIdentifier": "S2605556",
+      "position": 90000,
+      "depth": 1,
+      "statementNotation": "F.LE.A",
+      "statementLabel": "Cluster",
+      "description": "Construct and compare linear, quadratic, and exponential models and solve problems.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "3A9803FE41A74BFBA69CEC6342ECD5FF": {
+      "id": "3A9803FE41A74BFBA69CEC6342ECD5FF",
+      "asnIdentifier": "S2605555",
+      "position": 89000,
+      "depth": 3,
+      "statementNotation": "F.BF.4.a",
+      "listId": "a.",
+      "description": "Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse. For example, f(x) = 2 x³ or f(x) = (x+1)/(x-1) for x ≠ 1.",
+      "ancestorIds": [
+        "AEA35BA23E27408799B7DFCF02C22855",
+        "46417EFCA5C34F5E8EC641F1DC6B19BE",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "AEA35BA23E27408799B7DFCF02C22855"
+    },
+    "AEA35BA23E27408799B7DFCF02C22855": {
+      "id": "AEA35BA23E27408799B7DFCF02C22855",
+      "asnIdentifier": "S2605554",
+      "position": 88000,
+      "depth": 2,
+      "statementNotation": "F.BF.4",
+      "statementLabel": "Standard",
+      "description": "Find inverse functions.",
+      "ancestorIds": [
+        "46417EFCA5C34F5E8EC641F1DC6B19BE",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "46417EFCA5C34F5E8EC641F1DC6B19BE"
+    },
+    "C9563E503E264BF1B690BE4DB0E09929": {
+      "id": "C9563E503E264BF1B690BE4DB0E09929",
+      "asnIdentifier": "S2605553",
+      "position": 87000,
+      "depth": 2,
+      "statementNotation": "F.BF.3",
+      "statementLabel": "Standard",
+      "description": "Identify the effect on the graph of replacing f(x) by f(x) + k, k f(x), f(kx), and f(x + k) for specific values of k (both positive and negative); find the value of k given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them.",
+      "ancestorIds": [
+        "46417EFCA5C34F5E8EC641F1DC6B19BE",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "46417EFCA5C34F5E8EC641F1DC6B19BE"
+    },
+    "46417EFCA5C34F5E8EC641F1DC6B19BE": {
+      "id": "46417EFCA5C34F5E8EC641F1DC6B19BE",
+      "asnIdentifier": "S2605552",
+      "position": 86000,
+      "depth": 1,
+      "statementNotation": "F.BF.B",
+      "statementLabel": "Cluster",
+      "description": "Build new functions from existing functions.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "FCD7798CE041405CA3462613AB9472F2": {
+      "id": "FCD7798CE041405CA3462613AB9472F2",
+      "asnIdentifier": "S2605551",
+      "position": 85000,
+      "depth": 2,
+      "statementNotation": "F.BF.2",
+      "statementLabel": "Standard",
+      "description": "Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms.",
+      "ancestorIds": [
+        "2C27E7F452594259B43C4DC0D157EDE7",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "2C27E7F452594259B43C4DC0D157EDE7"
+    },
+    "A3AB903AF4764C79A2A869656890257A": {
+      "id": "A3AB903AF4764C79A2A869656890257A",
+      "asnIdentifier": "S2605550",
+      "position": 84000,
+      "depth": 3,
+      "statementNotation": "F.BF.1.b",
+      "listId": "b.",
+      "description": "Combine standard function types using arithmetic operations. For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model.",
+      "ancestorIds": [
+        "9AD8033FB5C147C189AA0D1976DCC3E8",
+        "2C27E7F452594259B43C4DC0D157EDE7",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "9AD8033FB5C147C189AA0D1976DCC3E8"
+    },
+    "FFE10E438771471B8096D9DE6667FFDE": {
+      "id": "FFE10E438771471B8096D9DE6667FFDE",
+      "asnIdentifier": "S2605549",
+      "position": 83000,
+      "depth": 3,
+      "statementNotation": "F.BF.1.a",
+      "listId": "a.",
+      "description": "Determine an explicit expression, a recursive process, or steps for calculation from a context.",
+      "ancestorIds": [
+        "9AD8033FB5C147C189AA0D1976DCC3E8",
+        "2C27E7F452594259B43C4DC0D157EDE7",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "9AD8033FB5C147C189AA0D1976DCC3E8"
+    },
+    "9AD8033FB5C147C189AA0D1976DCC3E8": {
+      "id": "9AD8033FB5C147C189AA0D1976DCC3E8",
+      "asnIdentifier": "S2605548",
+      "position": 82000,
+      "depth": 2,
+      "statementNotation": "F.BF.1",
+      "statementLabel": "Standard",
+      "description": "Write a function that describes a relationship between two quantities.",
+      "ancestorIds": [
+        "2C27E7F452594259B43C4DC0D157EDE7",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "2C27E7F452594259B43C4DC0D157EDE7"
+    },
+    "2C27E7F452594259B43C4DC0D157EDE7": {
+      "id": "2C27E7F452594259B43C4DC0D157EDE7",
+      "asnIdentifier": "S2605547",
+      "position": 81000,
+      "depth": 1,
+      "statementNotation": "F.BF.A",
+      "statementLabel": "Cluster",
+      "description": "Build a function that models a relationship between two quantities.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "876FBB46C83346DAA2627CE53B894D12": {
+      "id": "876FBB46C83346DAA2627CE53B894D12",
+      "asnIdentifier": "S2605546",
+      "position": 80000,
+      "depth": 2,
+      "statementNotation": "F.IF.9",
+      "statementLabel": "Standard",
+      "description": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum.",
+      "ancestorIds": [
+        "C8A0FD1278CD4D5ABE055F275F63CA04",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "C8A0FD1278CD4D5ABE055F275F63CA04"
+    },
+    "DC94160FA92D4B798BC57149F9675B6E": {
+      "id": "DC94160FA92D4B798BC57149F9675B6E",
+      "asnIdentifier": "S2605545",
+      "position": 79000,
+      "depth": 3,
+      "statementNotation": "F.IF.8.b",
+      "listId": "b.",
+      "description": "Use the properties of exponents to interpret expressions for exponential functions. For example, identify percent rate of change in functions such as y = (1.02)<sup>t</sup>, y = (0.97)<sup>t</sup>, y = (1.01)<sup>12t</sup>, y = (1.2)<sup>t/10</sup>, and classify them as representing exponential growth or decay.",
+      "ancestorIds": [
+        "98E074E4FC8D4EBD8109155D597B6FE0",
+        "C8A0FD1278CD4D5ABE055F275F63CA04",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "98E074E4FC8D4EBD8109155D597B6FE0"
+    },
+    "98E074E4FC8D4EBD8109155D597B6FE0": {
+      "id": "98E074E4FC8D4EBD8109155D597B6FE0",
+      "asnIdentifier": "S2605544",
+      "position": 78000,
+      "depth": 2,
+      "statementNotation": "F.IF.8",
+      "statementLabel": "Standard",
+      "description": "Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.",
+      "ancestorIds": [
+        "C8A0FD1278CD4D5ABE055F275F63CA04",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "C8A0FD1278CD4D5ABE055F275F63CA04"
+    },
+    "65C048AFB8734D50BD4802E0412CA024": {
+      "id": "65C048AFB8734D50BD4802E0412CA024",
+      "asnIdentifier": "S2605543",
+      "position": 77000,
+      "depth": 3,
+      "statementNotation": "F.IF.7.e",
+      "listId": "e.",
+      "description": "Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude.",
+      "ancestorIds": [
+        "393312B5D07F4B76951C8D4CCDC0AF3C",
+        "C8A0FD1278CD4D5ABE055F275F63CA04",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "393312B5D07F4B76951C8D4CCDC0AF3C"
+    },
+    "393312B5D07F4B76951C8D4CCDC0AF3C": {
+      "id": "393312B5D07F4B76951C8D4CCDC0AF3C",
+      "asnIdentifier": "S2605542",
+      "position": 76000,
+      "depth": 2,
+      "statementNotation": "F.IF.7",
+      "statementLabel": "Standard",
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.",
+      "ancestorIds": [
+        "C8A0FD1278CD4D5ABE055F275F63CA04",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "C8A0FD1278CD4D5ABE055F275F63CA04"
+    },
+    "C8A0FD1278CD4D5ABE055F275F63CA04": {
+      "id": "C8A0FD1278CD4D5ABE055F275F63CA04",
+      "asnIdentifier": "S2605541",
+      "position": 75000,
+      "depth": 1,
+      "statementNotation": "F.IF.D",
+      "statementLabel": "Cluster",
+      "description": "Analyze functions using different representations.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "0D8C39A919A94CCD90E8C0243C292DAA": {
+      "id": "0D8C39A919A94CCD90E8C0243C292DAA",
+      "asnIdentifier": "S2605540",
+      "position": 74000,
+      "depth": 2,
+      "statementNotation": "F.IF.6",
+      "statementLabel": "Standard",
+      "description": "Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.",
+      "ancestorIds": [
+        "C9B565064FA84AC183351CC6B8F2C2F8",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "C9B565064FA84AC183351CC6B8F2C2F8"
+    },
+    "5CB0C077E9BC4B7A87B7A60AF41E032F": {
+      "id": "5CB0C077E9BC4B7A87B7A60AF41E032F",
+      "asnIdentifier": "S2605539",
+      "position": 73000,
+      "depth": 2,
+      "statementNotation": "F.IF.4",
+      "statementLabel": "Standard",
+      "description": "For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.",
+      "ancestorIds": [
+        "C9B565064FA84AC183351CC6B8F2C2F8",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "C9B565064FA84AC183351CC6B8F2C2F8"
+    },
+    "C9B565064FA84AC183351CC6B8F2C2F8": {
+      "id": "C9B565064FA84AC183351CC6B8F2C2F8",
+      "asnIdentifier": "S2605538",
+      "position": 72000,
+      "depth": 1,
+      "statementNotation": "F.IF.C",
+      "statementLabel": "Cluster",
+      "description": "Interpret functions that arise in applications in terms of a context.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "BAAE659F1B89420C887E199A9363BC6C": {
+      "id": "BAAE659F1B89420C887E199A9363BC6C",
+      "asnIdentifier": "S2605537",
+      "position": 71000,
+      "depth": 2,
+      "statementNotation": "F.IF.3",
+      "statementLabel": "Standard",
+      "description": "Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers. For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ≥ 1.",
+      "ancestorIds": [
+        "AFA1B667448542A3BA4D99AD1CD19F3D",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "AFA1B667448542A3BA4D99AD1CD19F3D"
+    },
+    "AFA1B667448542A3BA4D99AD1CD19F3D": {
+      "id": "AFA1B667448542A3BA4D99AD1CD19F3D",
+      "asnIdentifier": "S2605536",
+      "position": 70000,
+      "depth": 1,
+      "statementNotation": "F.IF.B",
+      "statementLabel": "Cluster",
+      "description": "Understand the concept of function and use function notation.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "694D6D1CBF8A4E06942EE00024EA2781": {
+      "id": "694D6D1CBF8A4E06942EE00024EA2781",
+      "asnIdentifier": "S2605535",
+      "position": 69000,
+      "depth": 2,
+      "statementNotation": "A.CED.1",
+      "statementLabel": "Standard",
+      "description": "Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions.",
+      "ancestorIds": [
+        "D30EF7DF6E5A414985F2525AE3A83FCD",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "D30EF7DF6E5A414985F2525AE3A83FCD"
+    },
+    "D30EF7DF6E5A414985F2525AE3A83FCD": {
+      "id": "D30EF7DF6E5A414985F2525AE3A83FCD",
+      "asnIdentifier": "S2605534",
+      "position": 68000,
+      "depth": 1,
+      "statementNotation": "A.CED.A",
+      "statementLabel": "Cluster",
+      "description": "Create equations that describe numbers or relationships.",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "602EA77E9DFC40E2B6DCE1389B396FE9": {
+      "id": "602EA77E9DFC40E2B6DCE1389B396FE9",
+      "asnIdentifier": "S2605533",
+      "position": 67000,
+      "depth": 2,
+      "statementNotation": "A.SSE.4",
+      "statementLabel": "Standard",
+      "description": "Derive the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems. For example, calculate mortgage payments.",
+      "ancestorIds": [
+        "0C077FF1582244A1B1A62748B0E28DC3",
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0C077FF1582244A1B1A62748B0E28DC3"
+    },
+    "0C077FF1582244A1B1A62748B0E28DC3": {
+      "id": "0C077FF1582244A1B1A62748B0E28DC3",
+      "asnIdentifier": "S2605532",
+      "position": 66000,
+      "depth": 1,
+      "statementNotation": "A.SSE.B",
+      "statementLabel": "Cluster",
+      "description": "Write expressions in equivalent forms to solve problems",
+      "ancestorIds": [
+        "0B6E0636757E4B44857CAB1102B465B8"
+      ],
+      "parentId": "0B6E0636757E4B44857CAB1102B465B8"
+    },
+    "0B6E0636757E4B44857CAB1102B465B8": {
+      "id": "0B6E0636757E4B44857CAB1102B465B8",
+      "asnIdentifier": "S2605531",
+      "position": 65000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "3.",
+      "description": "Modeling with Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "38E8942F2A774145B1DBB413B740CA91": {
+      "id": "38E8942F2A774145B1DBB413B740CA91",
+      "asnIdentifier": "S2605530",
+      "position": 64000,
+      "depth": 3,
+      "statementNotation": "S.ID.6.a",
+      "listId": "a.",
+      "description": "Fit a function to the data; use functions fitted to data to solve problems in the context of the data. Use given functions or choose a function suggested by the context. Emphasize linear and exponential models.",
+      "ancestorIds": [
+        "4C3B31D99B724DA48BD1535B737BFBA4",
+        "2E26673B1BD947958C19EF0AE9CC18A4",
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "4C3B31D99B724DA48BD1535B737BFBA4"
+    },
+    "4C3B31D99B724DA48BD1535B737BFBA4": {
+      "id": "4C3B31D99B724DA48BD1535B737BFBA4",
+      "asnIdentifier": "S2605529",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "S.ID.6",
+      "statementLabel": "Standard",
+      "description": "represent data on two quantitative variables on a scatter-plot, and describe how the variables are related.",
+      "ancestorIds": [
+        "2E26673B1BD947958C19EF0AE9CC18A4",
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "2E26673B1BD947958C19EF0AE9CC18A4"
+    },
+    "2E26673B1BD947958C19EF0AE9CC18A4": {
+      "id": "2E26673B1BD947958C19EF0AE9CC18A4",
+      "asnIdentifier": "S2605528",
+      "position": 62000,
+      "depth": 1,
+      "statementNotation": "S.ID.A",
+      "statementLabel": "Cluster",
+      "description": "Summarize, represent, and interpret data on two categorical and quantitative variables.",
+      "ancestorIds": [
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "D0882B19988347DC82F8AE52B52C4BD9"
+    },
+    "4013280CA0DB4AA6ADADE1854D8F0107": {
+      "id": "4013280CA0DB4AA6ADADE1854D8F0107",
+      "asnIdentifier": "S2605527",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "F.TF.8",
+      "statementLabel": "Standard",
+      "description": "Prove the Pythagorean identity sin²(θ) + cos²(θ) = 1 and use it to find sin(θ), cos(θ), or tan(θ), given sin(θ), cos(θ), or tan(θ), and the quadrant of the angle.",
+      "ancestorIds": [
+        "BA58B420453F41FBB0CE8C389F6B3514",
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "BA58B420453F41FBB0CE8C389F6B3514"
+    },
+    "BA58B420453F41FBB0CE8C389F6B3514": {
+      "id": "BA58B420453F41FBB0CE8C389F6B3514",
+      "asnIdentifier": "S2605526",
+      "position": 60000,
+      "depth": 1,
+      "statementNotation": "F.TF.C",
+      "statementLabel": "Cluster",
+      "description": "Prove and apply trigonometric identities.",
+      "ancestorIds": [
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "D0882B19988347DC82F8AE52B52C4BD9"
+    },
+    "BC1EA39DA15348559AA1F46BAB4D128A": {
+      "id": "BC1EA39DA15348559AA1F46BAB4D128A",
+      "asnIdentifier": "S2605525",
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "F.TF.5",
+      "statementLabel": "Standard",
+      "description": "Choose trigonometric functions to model periodic phenomena with specified amplitude, frequency, and midline.",
+      "ancestorIds": [
+        "EED9D322BA0B4864B4EEFB58C0B5BBA7",
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "EED9D322BA0B4864B4EEFB58C0B5BBA7"
+    },
+    "EED9D322BA0B4864B4EEFB58C0B5BBA7": {
+      "id": "EED9D322BA0B4864B4EEFB58C0B5BBA7",
+      "asnIdentifier": "S2605524",
+      "position": 58000,
+      "depth": 1,
+      "statementNotation": "F.TF.B",
+      "statementLabel": "Cluster",
+      "description": "Model periodic phenomena with trigonometric functions.",
+      "ancestorIds": [
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "D0882B19988347DC82F8AE52B52C4BD9"
+    },
+    "F022856EEC24488E8FA451550C43AF49": {
+      "id": "F022856EEC24488E8FA451550C43AF49",
+      "asnIdentifier": "S2605523",
+      "position": 57000,
+      "depth": 2,
+      "statementNotation": "F.TF.2",
+      "statementLabel": "Standard",
+      "description": "Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.",
+      "ancestorIds": [
+        "E6A1BCB4F5D44653B274ED4D99895DFD",
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "E6A1BCB4F5D44653B274ED4D99895DFD"
+    },
+    "92F5FA6F360F4910B5E7DDEABD6ACDCA": {
+      "id": "92F5FA6F360F4910B5E7DDEABD6ACDCA",
+      "asnIdentifier": "S2605522",
+      "position": 56000,
+      "depth": 2,
+      "statementNotation": "F.TF.1",
+      "statementLabel": "Standard",
+      "description": "Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.",
+      "ancestorIds": [
+        "E6A1BCB4F5D44653B274ED4D99895DFD",
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "E6A1BCB4F5D44653B274ED4D99895DFD"
+    },
+    "E6A1BCB4F5D44653B274ED4D99895DFD": {
+      "id": "E6A1BCB4F5D44653B274ED4D99895DFD",
+      "asnIdentifier": "S2605521",
+      "position": 55000,
+      "depth": 1,
+      "statementNotation": "F.TF.A",
+      "statementLabel": "Cluster",
+      "description": "Extend the domain of trigonometric functions using the unit circle.",
+      "ancestorIds": [
+        "D0882B19988347DC82F8AE52B52C4BD9"
+      ],
+      "parentId": "D0882B19988347DC82F8AE52B52C4BD9"
+    },
+    "D0882B19988347DC82F8AE52B52C4BD9": {
+      "id": "D0882B19988347DC82F8AE52B52C4BD9",
+      "asnIdentifier": "S2605520",
+      "position": 54000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "2.",
+      "description": "Trigonometric Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A28FD5B9127E4671913CCD8B5173741D": {
+      "id": "A28FD5B9127E4671913CCD8B5173741D",
+      "asnIdentifier": "S2605519",
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "G.GPE.2",
+      "statementLabel": "Standard",
+      "description": "Derive the equation of a parabola given a focus and directrix.",
+      "ancestorIds": [
+        "99B00B8F62C84E27B3B19BF661E696BB",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "99B00B8F62C84E27B3B19BF661E696BB"
+    },
+    "99B00B8F62C84E27B3B19BF661E696BB": {
+      "id": "99B00B8F62C84E27B3B19BF661E696BB",
+      "asnIdentifier": "S2605518",
+      "position": 52000,
+      "depth": 1,
+      "statementNotation": "G.GPE.A",
+      "statementLabel": "Cluster",
+      "description": "Translate between the geometric description and the equation for a conic section",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "157FC7FA566E4D569D788CAEFEFBED44": {
+      "id": "157FC7FA566E4D569D788CAEFEFBED44",
+      "asnIdentifier": "S2605517",
+      "position": 51000,
+      "depth": 3,
+      "statementNotation": "F.IF.7.c",
+      "listId": "c.",
+      "description": "Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.",
+      "ancestorIds": [
+        "327947F0490A44F086AB5F5671A2EF7C",
+        "8C5B1261D33A4464A54B690607699898",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "327947F0490A44F086AB5F5671A2EF7C"
+    },
+    "327947F0490A44F086AB5F5671A2EF7C": {
+      "id": "327947F0490A44F086AB5F5671A2EF7C",
+      "asnIdentifier": "S2605516",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "F.IF.7",
+      "statementLabel": "Standard",
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.",
+      "ancestorIds": [
+        "8C5B1261D33A4464A54B690607699898",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "8C5B1261D33A4464A54B690607699898"
+    },
+    "8C5B1261D33A4464A54B690607699898": {
+      "id": "8C5B1261D33A4464A54B690607699898",
+      "asnIdentifier": "S2605515",
+      "position": 49000,
+      "depth": 1,
+      "statementNotation": "F.IF.A",
+      "statementLabel": "Cluster",
+      "description": "Analyze functions using different representations.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "A969615E4CFF4733BB3E7E8A0578F234": {
+      "id": "A969615E4CFF4733BB3E7E8A0578F234",
+      "asnIdentifier": "S2605514",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "A.REI.11",
+      "statementLabel": "Standard",
+      "description": "Explain why the x-coordinates of the points where the graphs of the equations y = f(x) and y = g(x) intersect are the solutions of the equation f(x) = g(x); find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where f(x) and/or g(x) are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.",
+      "ancestorIds": [
+        "411557516E8B40B5B0B89842925CDEF6",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "411557516E8B40B5B0B89842925CDEF6"
+    },
+    "411557516E8B40B5B0B89842925CDEF6": {
+      "id": "411557516E8B40B5B0B89842925CDEF6",
+      "asnIdentifier": "S2605513",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "A.REI.D",
+      "statementLabel": "Cluster",
+      "description": "Represent and solve equations and inequalities graphically.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "19D8265ADA39465D9801322AE396269C": {
+      "id": "19D8265ADA39465D9801322AE396269C",
+      "asnIdentifier": "S2605512",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "A.REI.7",
+      "statementLabel": "Standard",
+      "description": "Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically and graphically. For example, find the points of intersection between the line y = –3x and the circle x² + y² = 3.",
+      "ancestorIds": [
+        "318D4EBE9317430FA65FFFC21264308E",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "318D4EBE9317430FA65FFFC21264308E"
+    },
+    "617FF380CB144243BE81596100D3C0D4": {
+      "id": "617FF380CB144243BE81596100D3C0D4",
+      "asnIdentifier": "S2605511",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "A.REI.6",
+      "statementLabel": "Standard",
+      "description": "Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on pairs of linear equations in two variables.",
+      "ancestorIds": [
+        "318D4EBE9317430FA65FFFC21264308E",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "318D4EBE9317430FA65FFFC21264308E"
+    },
+    "318D4EBE9317430FA65FFFC21264308E": {
+      "id": "318D4EBE9317430FA65FFFC21264308E",
+      "asnIdentifier": "S2605510",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "A.REI.C",
+      "statementLabel": "Cluster",
+      "description": "Solve systems of equations",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "C78200C0404549F9ABB6F7F218BC0286": {
+      "id": "C78200C0404549F9ABB6F7F218BC0286",
+      "asnIdentifier": "S2605509",
+      "position": 43000,
+      "depth": 3,
+      "statementNotation": "A.REI.4.b",
+      "listId": "b.",
+      "description": "Solve quadratic equations by inspection (e.g., for x² = 49), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula reveals that the quadratic equation has \"no real solutions\".",
+      "ancestorIds": [
+        "9A861487A50245EE8DEFCFAFF8F1209D",
+        "66CBEC964D3C4EDE9E5F411CFF033CB6",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "9A861487A50245EE8DEFCFAFF8F1209D"
+    },
+    "9A861487A50245EE8DEFCFAFF8F1209D": {
+      "id": "9A861487A50245EE8DEFCFAFF8F1209D",
+      "asnIdentifier": "S2605508",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "A.REI.4",
+      "statementLabel": "Standard",
+      "description": "Solve quadratic equations in one variable.",
+      "ancestorIds": [
+        "66CBEC964D3C4EDE9E5F411CFF033CB6",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "66CBEC964D3C4EDE9E5F411CFF033CB6"
+    },
+    "66CBEC964D3C4EDE9E5F411CFF033CB6": {
+      "id": "66CBEC964D3C4EDE9E5F411CFF033CB6",
+      "asnIdentifier": "S2605507",
+      "position": 41000,
+      "depth": 1,
+      "statementNotation": "A.REI.B",
+      "statementLabel": "Cluster",
+      "description": "Solve equations and inequalities in one variable",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "BD1329FC0A33474F8C40124113602C30": {
+      "id": "BD1329FC0A33474F8C40124113602C30",
+      "asnIdentifier": "S2605506",
+      "position": 40000,
+      "depth": 2,
+      "statementNotation": "A.REI.2",
+      "statementLabel": "Standard",
+      "description": "Solve simple rational and radical equations in one variable, and give examples showing how extraneous solutions may arise.",
+      "ancestorIds": [
+        "9E22C22B436E4E3CAE3D2962271C1535",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "9E22C22B436E4E3CAE3D2962271C1535"
+    },
+    "C1F4BA826E104E11B3D4A683DF225477": {
+      "id": "C1F4BA826E104E11B3D4A683DF225477",
+      "asnIdentifier": "S2605505",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "A.REI.1",
+      "statementLabel": "Standard",
+      "description": "Explain each step in solving a simple equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method.",
+      "ancestorIds": [
+        "9E22C22B436E4E3CAE3D2962271C1535",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "9E22C22B436E4E3CAE3D2962271C1535"
+    },
+    "9E22C22B436E4E3CAE3D2962271C1535": {
+      "id": "9E22C22B436E4E3CAE3D2962271C1535",
+      "asnIdentifier": "S2605504",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "A.REI.A",
+      "statementLabel": "Cluster",
+      "description": "Understand solving equations as a process of reasoning and explain the reasoning.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "9B1792BE617E4EE485A5F715608F9370": {
+      "id": "9B1792BE617E4EE485A5F715608F9370",
+      "asnIdentifier": "S2605503",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "A.APR.7",
+      "statementLabel": "Standard",
+      "description": "(+) Understand that rational expressions form a system analogous to the rational numbers, closed under addition, subtraction, multiplication, and division by a nonzero rational expression; add, subtract, multiply, and divide rational expressions.",
+      "ancestorIds": [
+        "28CD182B2A224C24916F003BFC20148B",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "28CD182B2A224C24916F003BFC20148B"
+    },
+    "963EF78488B142CD9250E9E4D96CF580": {
+      "id": "963EF78488B142CD9250E9E4D96CF580",
+      "asnIdentifier": "S2605502",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "A.APR.6",
+      "statementLabel": "Standard",
+      "description": "Rewrite simple rational expressions in different forms; write a(x)/b(x) in the form q(x)+r(x)/b(x) where a(x), b(x), q(x) and r(x) are polynomials with the degree of r(x) less than the degree of b(x), using inspection, long division, or, for the more complicated examples, a computer algebra system.",
+      "ancestorIds": [
+        "28CD182B2A224C24916F003BFC20148B",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "28CD182B2A224C24916F003BFC20148B"
+    },
+    "28CD182B2A224C24916F003BFC20148B": {
+      "id": "28CD182B2A224C24916F003BFC20148B",
+      "asnIdentifier": "S2605501",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "A.APR.C",
+      "statementLabel": "Cluster",
+      "description": "Rewrite rational expressions",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "381BE60B97934E558648598229B0B57F": {
+      "id": "381BE60B97934E558648598229B0B57F",
+      "asnIdentifier": "S2605500",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "A.APR.5",
+      "statementLabel": "Standard",
+      "description": "(+) Know and apply the Binomial Theorem for the expansion of (x + y)<sup>n</sup> in powers of x and y for a positive integer n, where x and y are any numbers, with coefficients determined for example by Pascal's Triangle.",
+      "ancestorIds": [
+        "D67752321C08420598DB4D006C287471",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "D67752321C08420598DB4D006C287471"
+    },
+    "F71D13707F3343C3AB8A15D6912416BD": {
+      "id": "F71D13707F3343C3AB8A15D6912416BD",
+      "asnIdentifier": "S2605499",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "A.APR.4",
+      "statementLabel": "Standard",
+      "description": "Prove polynomial identities and use them to describe numerical relationships. For example, the polynomial identity (x² + y²)² = (x² – y²)² + (2xy)² can be used to generate Pythagorean triples.",
+      "ancestorIds": [
+        "D67752321C08420598DB4D006C287471",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "D67752321C08420598DB4D006C287471"
+    },
+    "D67752321C08420598DB4D006C287471": {
+      "id": "D67752321C08420598DB4D006C287471",
+      "asnIdentifier": "S2605498",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "A.APR.B",
+      "statementLabel": "Cluster",
+      "description": "Use polynomial identities to solve problems.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "87BF4616187B48A1AAC7B1C437E3E119": {
+      "id": "87BF4616187B48A1AAC7B1C437E3E119",
+      "asnIdentifier": "S2605497",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "A.APR.3",
+      "statementLabel": "Standard",
+      "description": "Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.",
+      "ancestorIds": [
+        "A48FC7DC0FFA4799943E3974CB9ECA95",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "A48FC7DC0FFA4799943E3974CB9ECA95"
+    },
+    "8E4D681570B64B188781899190AE2E71": {
+      "id": "8E4D681570B64B188781899190AE2E71",
+      "asnIdentifier": "S2605496",
+      "position": 30000,
+      "depth": 2,
+      "statementNotation": "A.APR.2",
+      "statementLabel": "Standard",
+      "description": "Know and apply the Remainder Theorem: For a polynomial p(x) and a number a, the remainder on division by x – a is p(a), so p(a) = 0 if and only if (x – a) is a factor of p(x).",
+      "ancestorIds": [
+        "A48FC7DC0FFA4799943E3974CB9ECA95",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "A48FC7DC0FFA4799943E3974CB9ECA95"
+    },
+    "A48FC7DC0FFA4799943E3974CB9ECA95": {
+      "id": "A48FC7DC0FFA4799943E3974CB9ECA95",
+      "asnIdentifier": "S2605495",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "A.APR.A",
+      "statementLabel": "Cluster",
+      "description": "Understand the relationship between zeros and factors of polynomials.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "C9BC666F44A04834850D576A512DC988": {
+      "id": "C9BC666F44A04834850D576A512DC988",
+      "asnIdentifier": "S2605494",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "A.SSE.4",
+      "statementLabel": "Standard",
+      "description": "Derive the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems. For example, calculate mortgage payments.",
+      "ancestorIds": [
+        "68B1A280C7424C699515CBEE46DB9255",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "68B1A280C7424C699515CBEE46DB9255"
+    },
+    "4BA1E8EAA6954FA88A0D37516F218BB0": {
+      "id": "4BA1E8EAA6954FA88A0D37516F218BB0",
+      "asnIdentifier": "S2605493",
+      "position": 27000,
+      "depth": 3,
+      "statementNotation": "A.SSE.3.c",
+      "listId": "c.",
+      "description": "Use the properties of exponents to transform expressions for exponential functions. For example the expression 1.15<sup>t</sup> can be rewritten as (1.15<sup>1/12</sup>)<sup>12t</sup> ≈ 1.01212t to reveal the approximate equivalent monthly interest rate if the annual rate is 15%.",
+      "ancestorIds": [
+        "FDA685F28FED415D9734AA97D050756A",
+        "68B1A280C7424C699515CBEE46DB9255",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "FDA685F28FED415D9734AA97D050756A"
+    },
+    "FDA685F28FED415D9734AA97D050756A": {
+      "id": "FDA685F28FED415D9734AA97D050756A",
+      "asnIdentifier": "S2605492",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "A.SSE.3",
+      "statementLabel": "Standard",
+      "description": "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.",
+      "ancestorIds": [
+        "68B1A280C7424C699515CBEE46DB9255",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "68B1A280C7424C699515CBEE46DB9255"
+    },
+    "68B1A280C7424C699515CBEE46DB9255": {
+      "id": "68B1A280C7424C699515CBEE46DB9255",
+      "asnIdentifier": "S2605491",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "A.SSE.B",
+      "statementLabel": "Cluster",
+      "description": "Write expressions in equivalent forms to solve problems",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "72DF57203D744AABAEC65D87BE947B2B": {
+      "id": "72DF57203D744AABAEC65D87BE947B2B",
+      "asnIdentifier": "S2605490",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "A.SSE.2",
+      "statementLabel": "Standard",
+      "description": "Use the structure of an expression to identify ways to rewrite it. For example, see x<sup>4</sup> – y<sup>4</sup> as (x²)² – (y²)², thus recognizing it as a difference of squares that can be factored as (x² – y²)(x² + y²).",
+      "ancestorIds": [
+        "1E89C93513E642008BC633E27DA1673D",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "1E89C93513E642008BC633E27DA1673D"
+    },
+    "1E89C93513E642008BC633E27DA1673D": {
+      "id": "1E89C93513E642008BC633E27DA1673D",
+      "asnIdentifier": "S2605489",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "A.SSE.A",
+      "statementLabel": "Cluster",
+      "description": "Interpret the structure of expressions.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "9BD7332DA59048FF8B95535B4FC33492": {
+      "id": "9BD7332DA59048FF8B95535B4FC33492",
+      "asnIdentifier": "S2605488",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "N.CN.9",
+      "statementLabel": "Standard",
+      "description": "(+) Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials.",
+      "ancestorIds": [
+        "E432BCE10CD64460A72EE7BB1CE58DA7",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "E432BCE10CD64460A72EE7BB1CE58DA7"
+    },
+    "687B9E247FA345A59658CA92E36E9E16": {
+      "id": "687B9E247FA345A59658CA92E36E9E16",
+      "asnIdentifier": "S2605487",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "N.CN.8",
+      "statementLabel": "Standard",
+      "description": "(+) Extend polynomial identities to the complex numbers. For example, rewrite x²+4 as x²-(-2i)² = (x-(-2i))(x+(-2i)) = (x+2i)(x-2i)",
+      "ancestorIds": [
+        "E432BCE10CD64460A72EE7BB1CE58DA7",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "E432BCE10CD64460A72EE7BB1CE58DA7"
+    },
+    "81BFBDE517DF4374BADEB7233B2E9649": {
+      "id": "81BFBDE517DF4374BADEB7233B2E9649",
+      "asnIdentifier": "S2605486",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "N.CN.7",
+      "statementLabel": "Standard",
+      "description": "Solve quadratic equations with real coefficients that have complex solutions.",
+      "ancestorIds": [
+        "E432BCE10CD64460A72EE7BB1CE58DA7",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "E432BCE10CD64460A72EE7BB1CE58DA7"
+    },
+    "E432BCE10CD64460A72EE7BB1CE58DA7": {
+      "id": "E432BCE10CD64460A72EE7BB1CE58DA7",
+      "asnIdentifier": "S2605485",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "N.CN.B",
+      "statementLabel": "Cluster",
+      "description": "Use complex numbers in polynomial identities and equations.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "7ADF535F208B4E149383C3CB26E67DEF": {
+      "id": "7ADF535F208B4E149383C3CB26E67DEF",
+      "asnIdentifier": "S2605484",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "N.CN.2",
+      "statementLabel": "Standard",
+      "description": "Use the relation i² = –1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers.",
+      "ancestorIds": [
+        "0474AC879F7A4112AE15D283B95ADE46",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "0474AC879F7A4112AE15D283B95ADE46"
+    },
+    "D44BD73739A74FC69B266DFCDF611438": {
+      "id": "D44BD73739A74FC69B266DFCDF611438",
+      "asnIdentifier": "S2605483",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "N.CN.1",
+      "statementLabel": "Standard",
+      "description": "Know there is a complex number i such that i² = −1, and every complex number has the form a + bi with a and b real.",
+      "ancestorIds": [
+        "0474AC879F7A4112AE15D283B95ADE46",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "0474AC879F7A4112AE15D283B95ADE46"
+    },
+    "0474AC879F7A4112AE15D283B95ADE46": {
+      "id": "0474AC879F7A4112AE15D283B95ADE46",
+      "asnIdentifier": "S2605482",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "N.CN.A",
+      "statementLabel": "Cluster",
+      "description": "Perform arithmetic operations with complex numbers.",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "2340B1BDA66644EDA299457049496D41": {
+      "id": "2340B1BDA66644EDA299457049496D41",
+      "asnIdentifier": "S2605481",
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "N.Q.2",
+      "statementLabel": "Standard",
+      "description": "Define appropriate quantities for the purpose of descriptive modeling.",
+      "ancestorIds": [
+        "CDAB72FCF82D4155A099698F2F205A20",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "CDAB72FCF82D4155A099698F2F205A20"
+    },
+    "CDAB72FCF82D4155A099698F2F205A20": {
+      "id": "CDAB72FCF82D4155A099698F2F205A20",
+      "asnIdentifier": "S2605480",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "N.Q.A",
+      "statementLabel": "Cluster",
+      "description": "Reason quantitatively and use units to solve problems",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "6EE7EEA05C174B189199DDAD3E8A7BDF": {
+      "id": "6EE7EEA05C174B189199DDAD3E8A7BDF",
+      "asnIdentifier": "S2605479",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "N.RN.2",
+      "statementLabel": "Standard",
+      "description": "Rewrite expressions involving radicals and rational exponents using the properties of exponents.",
+      "ancestorIds": [
+        "14D4952C0B474193ABC10A22881D55D2",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "14D4952C0B474193ABC10A22881D55D2"
+    },
+    "FF40F93FA8F34E1EAEFC37D07D4EB771": {
+      "id": "FF40F93FA8F34E1EAEFC37D07D4EB771",
+      "asnIdentifier": "S2605478",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "N.RN.1",
+      "statementLabel": "Standard",
+      "description": "Explain how the definition of the meaning of rational exponents follows from extending the properties of integer exponents to those values, allowing for a notation for radicals in terms of rational exponents. For example, we define 5<sup>1/3</sup> to be the cube root of 5 because we want (5<sup>1/3</sup>)³ - 5<sup>(1/3)(3)</sup> to hold, so (5<sup>1/3</sup>)³ must equal 5.",
+      "ancestorIds": [
+        "14D4952C0B474193ABC10A22881D55D2",
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "14D4952C0B474193ABC10A22881D55D2"
+    },
+    "14D4952C0B474193ABC10A22881D55D2": {
+      "id": "14D4952C0B474193ABC10A22881D55D2",
+      "asnIdentifier": "S2605477",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "N.RN.A",
+      "statementLabel": "Cluster",
+      "description": "Extend the properties of exponents to rational numbers",
+      "ancestorIds": [
+        "5DF8DF980EC14DA58BBF2B785B9475E6"
+      ],
+      "parentId": "5DF8DF980EC14DA58BBF2B785B9475E6"
+    },
+    "5DF8DF980EC14DA58BBF2B785B9475E6": {
+      "id": "5DF8DF980EC14DA58BBF2B785B9475E6",
+      "asnIdentifier": "S2605476",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "1.",
+      "description": "Polynomial, Rational, and Radical Relationships",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "13A6F2EE12F246788645951FD1CA98EB": {
+      "id": "13A6F2EE12F246788645951FD1CA98EB",
+      "asnIdentifier": "S2605475",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "MP.8",
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "2E971A2163BB4FDBBAACDD4AFAF40738": {
+      "id": "2E971A2163BB4FDBBAACDD4AFAF40738",
+      "asnIdentifier": "S2605474",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "MP.7",
+      "statementLabel": "Standard",
+      "description": "Look for and make use of structure.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "90FF9D5D1976405CB9F2F614F491DB4A": {
+      "id": "90FF9D5D1976405CB9F2F614F491DB4A",
+      "asnIdentifier": "S2605473",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "MP.6",
+      "statementLabel": "Standard",
+      "description": "Attend to precision.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "10A89F081B78443C873F2EB75D391298": {
+      "id": "10A89F081B78443C873F2EB75D391298",
+      "asnIdentifier": "S2605472",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "MP.5",
+      "statementLabel": "Standard",
+      "description": "Use appropriate tools strategically.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "10A3D4DF4E074B70941C3F256DC72EEB": {
+      "id": "10A3D4DF4E074B70941C3F256DC72EEB",
+      "asnIdentifier": "S2605471",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "MP.4",
+      "statementLabel": "Standard",
+      "description": "Model with mathematics.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "CAF4F86052C645608E91CE8B5C0EB934": {
+      "id": "CAF4F86052C645608E91CE8B5C0EB934",
+      "asnIdentifier": "S2605470",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "MP.3",
+      "statementLabel": "Standard",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "3AB513AA0B31410894DF56C79C3709A5": {
+      "id": "3AB513AA0B31410894DF56C79C3709A5",
+      "asnIdentifier": "S2605469",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "MP.2",
+      "statementLabel": "Standard",
+      "description": "Reason abstractly and quantitatively.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "A30F4C01F35D487DA24E39193EFC9F59": {
+      "id": "A30F4C01F35D487DA24E39193EFC9F59",
+      "asnIdentifier": "S2605468",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "MP.1",
+      "statementLabel": "Standard",
+      "description": "Make sense of problems and persevere in solving them.",
+      "ancestorIds": [
+        "87B01806FFC9433CA04B1C97287EAB45"
+      ],
+      "parentId": "87B01806FFC9433CA04B1C97287EAB45"
+    },
+    "87B01806FFC9433CA04B1C97287EAB45": {
+      "id": "87B01806FFC9433CA04B1C97287EAB45",
+      "asnIdentifier": "S2605467",
+      "position": 1000,
+      "depth": 0,
+      "description": "Standards for Mathematical Practice",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

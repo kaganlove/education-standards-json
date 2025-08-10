@@ -1,0 +1,1398 @@
+{
+  "id": "5E120B589CFC4D1DBD7578BA03A4EA4F",
+  "title": "GCSE - J276",
+  "subject": "Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://www.ocr.org.uk/Images/225975-specification-accredited-gcse-computer-science-j276.pdf",
+    "title": "OCR GCSE (9-1) Computer Science Specification J276"
+  },
+  "jurisdiction": {
+    "id": "BC0345CEA9D9475C9FE9E7B33629D8C2",
+    "title": "Oxford, Cambridge and RSA"
+  },
+  "standards": {
+    "4B1BA38AE04D4C4FB3CB81B65003C7C1": {
+      "id": "4B1BA38AE04D4C4FB3CB81B65003C7C1",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 2,
+      "listId": "2.6.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Compression",
+      "ancestorIds": [
+        "D9C73CDAA36A4734A8326B0B05A5002B",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "D9C73CDAA36A4734A8326B0B05A5002B"
+    },
+    "FE2764CA67934081AD6AD6B4A88C8055": {
+      "id": "FE2764CA67934081AD6AD6B4A88C8055",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 2,
+      "listId": "2.6.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Sound",
+      "ancestorIds": [
+        "D9C73CDAA36A4734A8326B0B05A5002B",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "D9C73CDAA36A4734A8326B0B05A5002B"
+    },
+    "F26669B5116E403BA48EDCE5D31F4758": {
+      "id": "F26669B5116E403BA48EDCE5D31F4758",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 2,
+      "listId": "2.6.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Images",
+      "ancestorIds": [
+        "D9C73CDAA36A4734A8326B0B05A5002B",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "D9C73CDAA36A4734A8326B0B05A5002B"
+    },
+    "D05BAAB2E0A049209E8C6D92911AC2B6": {
+      "id": "D05BAAB2E0A049209E8C6D92911AC2B6",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 2,
+      "listId": "2.6.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Characters",
+      "ancestorIds": [
+        "D9C73CDAA36A4734A8326B0B05A5002B",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "D9C73CDAA36A4734A8326B0B05A5002B"
+    },
+    "2C8D8DBCD8D34D75A98A5023F519EABB": {
+      "id": "2C8D8DBCD8D34D75A98A5023F519EABB",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 2,
+      "listId": "2.6.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Numbers",
+      "ancestorIds": [
+        "D9C73CDAA36A4734A8326B0B05A5002B",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "D9C73CDAA36A4734A8326B0B05A5002B"
+    },
+    "B8F089D30E884C709B3248E5F9411C14": {
+      "id": "B8F089D30E884C709B3248E5F9411C14",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 2,
+      "listId": "2.6.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Units",
+      "ancestorIds": [
+        "D9C73CDAA36A4734A8326B0B05A5002B",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "D9C73CDAA36A4734A8326B0B05A5002B"
+    },
+    "D9C73CDAA36A4734A8326B0B05A5002B": {
+      "id": "D9C73CDAA36A4734A8326B0B05A5002B",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 1,
+      "listId": "2.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Data representation",
+      "ancestorIds": [
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "3EBFF738EB6642DC9F525EA38435D4C7"
+    },
+    "693F6103677048C5A32C346B88735620": {
+      "id": "693F6103677048C5A32C346B88735620",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 2,
+      "listId": "2.5.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Common tools and facilities available in an integrated development environment",
+      "ancestorIds": [
+        "C3CE25C4E3674A7CA3B3AF3076D456B8",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "C3CE25C4E3674A7CA3B3AF3076D456B8"
+    },
+    "BE3D3D26C2DE4E77A47B9CB5624F29E5": {
+      "id": "BE3D3D26C2DE4E77A47B9CB5624F29E5",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 2,
+      "listId": "2.5.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The characteristics of an assembler, a compiler and an interpreter",
+      "ancestorIds": [
+        "C3CE25C4E3674A7CA3B3AF3076D456B8",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "C3CE25C4E3674A7CA3B3AF3076D456B8"
+    },
+    "0C0C821C475F4FF6923796F082C5D4DD": {
+      "id": "0C0C821C475F4FF6923796F082C5D4DD",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 2,
+      "listId": "2.5.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The purpose of translators ",
+      "ancestorIds": [
+        "C3CE25C4E3674A7CA3B3AF3076D456B8",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "C3CE25C4E3674A7CA3B3AF3076D456B8"
+    },
+    "BE69B39AFB374451B6B924865808FD24": {
+      "id": "BE69B39AFB374451B6B924865808FD24",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 2,
+      "listId": "2.5.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Characteristics and purpose of different levels of programming language, including low level languages ",
+      "ancestorIds": [
+        "C3CE25C4E3674A7CA3B3AF3076D456B8",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "C3CE25C4E3674A7CA3B3AF3076D456B8"
+    },
+    "C3CE25C4E3674A7CA3B3AF3076D456B8": {
+      "id": "C3CE25C4E3674A7CA3B3AF3076D456B8",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 1,
+      "listId": "2.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Translators and facilities of languages",
+      "ancestorIds": [
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "3EBFF738EB6642DC9F525EA38435D4C7"
+    },
+    "6FA4DC33BD3F454AA9B2B93FF86D4025": {
+      "id": "6FA4DC33BD3F454AA9B2B93FF86D4025",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 2,
+      "listId": "2.4.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Applying computing-related mathematics",
+      "ancestorIds": [
+        "B385E3B4E3084AC7B56FDAA84B6AF99D",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "B385E3B4E3084AC7B56FDAA84B6AF99D"
+    },
+    "78E3E3FCDB84424591CC5C65DD44E1F8": {
+      "id": "78E3E3FCDB84424591CC5C65DD44E1F8",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 2,
+      "listId": "2.4.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Applying logical operators in appropriate truth tables to solve problems",
+      "ancestorIds": [
+        "B385E3B4E3084AC7B56FDAA84B6AF99D",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "B385E3B4E3084AC7B56FDAA84B6AF99D"
+    },
+    "622C4A61CFC54FA5A6432A539B58E3A8": {
+      "id": "622C4A61CFC54FA5A6432A539B58E3A8",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 2,
+      "listId": "2.4.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Combining Boolean operators using AND, OR and NOT to two levels",
+      "ancestorIds": [
+        "B385E3B4E3084AC7B56FDAA84B6AF99D",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "B385E3B4E3084AC7B56FDAA84B6AF99D"
+    },
+    "4141763677834920AF1A2D23E2347335": {
+      "id": "4141763677834920AF1A2D23E2347335",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 2,
+      "listId": "2.4.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Truth tables ",
+      "ancestorIds": [
+        "B385E3B4E3084AC7B56FDAA84B6AF99D",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "B385E3B4E3084AC7B56FDAA84B6AF99D"
+    },
+    "C2662A8E5E8B4E2891E05DFD50D5D6F6": {
+      "id": "C2662A8E5E8B4E2891E05DFD50D5D6F6",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 2,
+      "listId": "2.4.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Simple logic diagrams using the operations AND, OR and NOT",
+      "ancestorIds": [
+        "B385E3B4E3084AC7B56FDAA84B6AF99D",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "B385E3B4E3084AC7B56FDAA84B6AF99D"
+    },
+    "1FF551CE7E444EFC8066B06EF9A5C4B5": {
+      "id": "1FF551CE7E444EFC8066B06EF9A5C4B5",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "2.4.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Why data is represented in computer systems in binary form",
+      "ancestorIds": [
+        "B385E3B4E3084AC7B56FDAA84B6AF99D",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "B385E3B4E3084AC7B56FDAA84B6AF99D"
+    },
+    "B385E3B4E3084AC7B56FDAA84B6AF99D": {
+      "id": "B385E3B4E3084AC7B56FDAA84B6AF99D",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 1,
+      "listId": "2.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Computational logic",
+      "ancestorIds": [
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "3EBFF738EB6642DC9F525EA38435D4C7"
+    },
+    "BEAFB32DD32446678A27E4B8C6D2ADA0": {
+      "id": "BEAFB32DD32446678A27E4B8C6D2ADA0",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "2.3.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Selecting and using suitable test data",
+      "ancestorIds": [
+        "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "13251A3BB0434ECB98BB1CBC6CA2DFF7"
+    },
+    "F04D981B39A344E6A4F45F91CA1261A6": {
+      "id": "F04D981B39A344E6A4F45F91CA1261A6",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 2,
+      "listId": "2.3.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "How to identify syntax and logic errors ",
+      "ancestorIds": [
+        "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "13251A3BB0434ECB98BB1CBC6CA2DFF7"
+    },
+    "3790114848DF4CB3B0098A8AF6A6B5C9": {
+      "id": "3790114848DF4CB3B0098A8AF6A6B5C9",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 2,
+      "listId": "2.3.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Types of testing",
+      "ancestorIds": [
+        "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "13251A3BB0434ECB98BB1CBC6CA2DFF7"
+    },
+    "6105031835B84765AF91C658E4496007": {
+      "id": "6105031835B84765AF91C658E4496007",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "2.3.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The purpose of testing",
+      "ancestorIds": [
+        "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "13251A3BB0434ECB98BB1CBC6CA2DFF7"
+    },
+    "6D30528D30624E8394A76EA680A3F6FE": {
+      "id": "6D30528D30624E8394A76EA680A3F6FE",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 2,
+      "listId": "2.3.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Maintainability",
+      "ancestorIds": [
+        "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "13251A3BB0434ECB98BB1CBC6CA2DFF7"
+    },
+    "5B07EE63DC8F4C6D8873180B14A4D0E1": {
+      "id": "5B07EE63DC8F4C6D8873180B14A4D0E1",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 2,
+      "listId": "2.3.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Defensive design considerations",
+      "ancestorIds": [
+        "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "13251A3BB0434ECB98BB1CBC6CA2DFF7"
+    },
+    "13251A3BB0434ECB98BB1CBC6CA2DFF7": {
+      "id": "13251A3BB0434ECB98BB1CBC6CA2DFF7",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Producing robust programs",
+      "ancestorIds": [
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "3EBFF738EB6642DC9F525EA38435D4C7"
+    },
+    "16E4C5906E6E4B9E84EBFCEFD50FA50B": {
+      "id": "16E4C5906E6E4B9E84EBFCEFD50FA50B",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "2.2.11",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The common Boolean operators ",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "CF4D0AAC3E9A465B8E75B37C28B578EE": {
+      "id": "CF4D0AAC3E9A465B8E75B37C28B578EE",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 2,
+      "listId": "2.2.10",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The common arithmetic operators",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "9A4D1645ADFA42C898C65FA6643D5785": {
+      "id": "9A4D1645ADFA42C898C65FA6643D5785",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 2,
+      "listId": "2.2.9",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of data types",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "D9756E9956084D079EE8E56A097C05C4": {
+      "id": "D9756E9956084D079EE8E56A097C05C4",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "2.2.8",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "How to use sub programs (functions and procedures) to produce structured code",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "ADC323B79EC2468FBA5A3C0986D271B9": {
+      "id": "ADC323B79EC2468FBA5A3C0986D271B9",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "2.2.7",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of arrays (or equivalent) when solving problems, including both one and two dimensional\narrays ",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "BE67FFE0BA294E81A546BEB48C91E07E": {
+      "id": "BE67FFE0BA294E81A546BEB48C91E07E",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 2,
+      "listId": "2.2.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of SQL to search for data",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "6D416C71E3B04E9EA688E24F09297E50": {
+      "id": "6D416C71E3B04E9EA688E24F09297E50",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "2.2.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of records to store data ",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "C8B5D732DED345A1905193543C956D41": {
+      "id": "C8B5D732DED345A1905193543C956D41",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "2.2.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of basic file handling operations ",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "603FD85BF69D4D1DAA8EB151F64BF145": {
+      "id": "603FD85BF69D4D1DAA8EB151F64BF145",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "2.2.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of basic string manipulation",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "6DF36D4C1DED4CFAADB043FC8E6476A7": {
+      "id": "6DF36D4C1DED4CFAADB043FC8E6476A7",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "2.2.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of the three basic programming constructs used to control the flow of a program.",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "6A7CB8BA7BA04557B6243AE6FDDACAD2": {
+      "id": "6A7CB8BA7BA04557B6243AE6FDDACAD2",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "2.2.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The use of variables, constants, operators, inputs, outputs and assignments",
+      "ancestorIds": [
+        "54F910BC2C0F45D08193A819ACDE7A90",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "54F910BC2C0F45D08193A819ACDE7A90"
+    },
+    "54F910BC2C0F45D08193A819ACDE7A90": {
+      "id": "54F910BC2C0F45D08193A819ACDE7A90",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Programming techniques",
+      "ancestorIds": [
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "3EBFF738EB6642DC9F525EA38435D4C7"
+    },
+    "A84B12D47DEF4A63A787E9B6DDD0B6DC": {
+      "id": "A84B12D47DEF4A63A787E9B6DDD0B6DC",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "2.1.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Interpret, correct or complete algorithms",
+      "ancestorIds": [
+        "4663204C846B4AA18823A506383558E9",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "4663204C846B4AA18823A506383558E9"
+    },
+    "A872F0D3D0E54747B9473CCF1843209D": {
+      "id": "A872F0D3D0E54747B9473CCF1843209D",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "2.1.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "How to produce algorithms ",
+      "ancestorIds": [
+        "4663204C846B4AA18823A506383558E9",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "4663204C846B4AA18823A506383558E9"
+    },
+    "9C79F3F388904556B6D47A7CE7900309": {
+      "id": "9C79F3F388904556B6D47A7CE7900309",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "2.1.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Standard sorting algorithms",
+      "ancestorIds": [
+        "4663204C846B4AA18823A506383558E9",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "4663204C846B4AA18823A506383558E9"
+    },
+    "2358E79D0355417388ECAA43FE447889": {
+      "id": "2358E79D0355417388ECAA43FE447889",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "2.1.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Standard searching algorithms",
+      "ancestorIds": [
+        "4663204C846B4AA18823A506383558E9",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "4663204C846B4AA18823A506383558E9"
+    },
+    "DC85B308387342EF8FE39C939148CCAA": {
+      "id": "DC85B308387342EF8FE39C939148CCAA",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "2.1.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Computational thinking",
+      "ancestorIds": [
+        "4663204C846B4AA18823A506383558E9",
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "4663204C846B4AA18823A506383558E9"
+    },
+    "4663204C846B4AA18823A506383558E9": {
+      "id": "4663204C846B4AA18823A506383558E9",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Algorithms",
+      "ancestorIds": [
+        "3EBFF738EB6642DC9F525EA38435D4C7"
+      ],
+      "parentId": "3EBFF738EB6642DC9F525EA38435D4C7"
+    },
+    "3EBFF738EB6642DC9F525EA38435D4C7": {
+      "id": "3EBFF738EB6642DC9F525EA38435D4C7",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Computational thinking, algorithms and\nprogramming",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "27F6E90058EF45049DFB4702FFC87EC9": {
+      "id": "27F6E90058EF45049DFB4702FFC87EC9",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "1.8.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Legislation relevant to Computer Science ",
+      "ancestorIds": [
+        "4659194371774843B96ECB1130673288",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "4659194371774843B96ECB1130673288"
+    },
+    "3BB96A0F0FFB4371B4285A29F6D75570": {
+      "id": "3BB96A0F0FFB4371B4285A29F6D75570",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "1.8.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Open source vs proprietary software ",
+      "ancestorIds": [
+        "4659194371774843B96ECB1130673288",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "4659194371774843B96ECB1130673288"
+    },
+    "4C6EBA02B16D4E6FB86CC2A03E99A79E": {
+      "id": "4C6EBA02B16D4E6FB86CC2A03E99A79E",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "1.8.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Cultural implications of Computer Science ",
+      "ancestorIds": [
+        "4659194371774843B96ECB1130673288",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "4659194371774843B96ECB1130673288"
+    },
+    "2A096A8BFCCB464F8F66B610CF3BBACE": {
+      "id": "2A096A8BFCCB464F8F66B610CF3BBACE",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "1.8.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Environmental impact of Computer Science ",
+      "ancestorIds": [
+        "4659194371774843B96ECB1130673288",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "4659194371774843B96ECB1130673288"
+    },
+    "498BFDC25BF14E948D9F9F7233F0D1F7": {
+      "id": "498BFDC25BF14E948D9F9F7233F0D1F7",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "1.8.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "How key stakeholders are affected by technologies ",
+      "ancestorIds": [
+        "4659194371774843B96ECB1130673288",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "4659194371774843B96ECB1130673288"
+    },
+    "EE30E94F949D41E6BD2AED101647EC1D": {
+      "id": "EE30E94F949D41E6BD2AED101647EC1D",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "1.8.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "How to investigate and discuss Computer Science technologies while considering: ethical issues; legal issues; cultural issues; environmental issues; privacy issues. ",
+      "ancestorIds": [
+        "4659194371774843B96ECB1130673288",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "4659194371774843B96ECB1130673288"
+    },
+    "4659194371774843B96ECB1130673288": {
+      "id": "4659194371774843B96ECB1130673288",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "1.8",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Ethical, legal, cultural and environmental concerns ",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "E8AC6B195BFC45EFBF28A0C54E4EAD4C": {
+      "id": "E8AC6B195BFC45EFBF28A0C54E4EAD4C",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "1.7.9",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Utility system software ",
+      "ancestorIds": [
+        "D27D6054006E44B6AC7E65A98147517E",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D27D6054006E44B6AC7E65A98147517E"
+    },
+    "BC0F11D3AF854D109A9A23760AF5FB44": {
+      "id": "BC0F11D3AF854D109A9A23760AF5FB44",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "1.7.8",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Operating systems ",
+      "ancestorIds": [
+        "D27D6054006E44B6AC7E65A98147517E",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D27D6054006E44B6AC7E65A98147517E"
+    },
+    "4B0EAA4AD0CE4FC3898B640AC8092F6D": {
+      "id": "4B0EAA4AD0CE4FC3898B640AC8092F6D",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "1.7.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The purpose and functionality of systems software ",
+      "ancestorIds": [
+        "D27D6054006E44B6AC7E65A98147517E",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D27D6054006E44B6AC7E65A98147517E"
+    },
+    "D27D6054006E44B6AC7E65A98147517E": {
+      "id": "D27D6054006E44B6AC7E65A98147517E",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "1.7",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Systems software ",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "BD51C494A2E942FAB05686639DBE5F4B": {
+      "id": "BD51C494A2E942FAB05686639DBE5F4B",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "1.6.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Identifying and preventing vulnerabilities ",
+      "ancestorIds": [
+        "88BE5B9FB4DE4256B5A9F13A1F9F3157",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "88BE5B9FB4DE4256B5A9F13A1F9F3157"
+    },
+    "B5F31340CBE54AC3B08B977682F2736F": {
+      "id": "B5F31340CBE54AC3B08B977682F2736F",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "1.6.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Threats posed to networks ",
+      "ancestorIds": [
+        "88BE5B9FB4DE4256B5A9F13A1F9F3157",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "88BE5B9FB4DE4256B5A9F13A1F9F3157"
+    },
+    "57151BBBE01547808EBAE06E12954148": {
+      "id": "57151BBBE01547808EBAE06E12954148",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "1.6.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Forms of attack ",
+      "ancestorIds": [
+        "88BE5B9FB4DE4256B5A9F13A1F9F3157",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "88BE5B9FB4DE4256B5A9F13A1F9F3157"
+    },
+    "88BE5B9FB4DE4256B5A9F13A1F9F3157": {
+      "id": "88BE5B9FB4DE4256B5A9F13A1F9F3157",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "1.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "System security ",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "7D72A77F049B44F39DA2BB6DE2D0E3C0": {
+      "id": "7D72A77F049B44F39DA2BB6DE2D0E3C0",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "1.5.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Packet switching. ",
+      "ancestorIds": [
+        "ACB282078C044DC29B5001CD8948F524",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "ACB282078C044DC29B5001CD8948F524"
+    },
+    "2D9CC93D08A147B78D8AC21A3763C071": {
+      "id": "2D9CC93D08A147B78D8AC21A3763C071",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "1.5.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The concept of layers ",
+      "ancestorIds": [
+        "ACB282078C044DC29B5001CD8948F524",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "ACB282078C044DC29B5001CD8948F524"
+    },
+    "E27068717AE140FAA6EC581C3597EF3B": {
+      "id": "E27068717AE140FAA6EC581C3597EF3B",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "1.5.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The uses of IP addressing, MAC addressing, and protocols. ",
+      "ancestorIds": [
+        "ACB282078C044DC29B5001CD8948F524",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "ACB282078C044DC29B5001CD8948F524"
+    },
+    "8439E69B2C314BBDB45609B2EAA4BCFE": {
+      "id": "8439E69B2C314BBDB45609B2EAA4BCFE",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "1.5.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Ethernet ",
+      "ancestorIds": [
+        "ACB282078C044DC29B5001CD8948F524",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "ACB282078C044DC29B5001CD8948F524"
+    },
+    "75647F358C1B4564BF1A0D9D3BE0130E": {
+      "id": "75647F358C1B4564BF1A0D9D3BE0130E",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "1.5.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "WiFi ",
+      "ancestorIds": [
+        "ACB282078C044DC29B5001CD8948F524",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "ACB282078C044DC29B5001CD8948F524"
+    },
+    "B631BA480E9B489EB3BB599BA9AE72D3": {
+      "id": "B631BA480E9B489EB3BB599BA9AE72D3",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "1.5.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Star and mesh network topologies ",
+      "ancestorIds": [
+        "ACB282078C044DC29B5001CD8948F524",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "ACB282078C044DC29B5001CD8948F524"
+    },
+    "ACB282078C044DC29B5001CD8948F524": {
+      "id": "ACB282078C044DC29B5001CD8948F524",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "1.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Network topologies, protocols and layers ",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "8F355B015B344C649155AD7EDF3EB8EE": {
+      "id": "8F355B015B344C649155AD7EDF3EB8EE",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "1.4.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The concept of virtual networks ",
+      "ancestorIds": [
+        "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0"
+    },
+    "F737220F30E0424DB5BAAD272AFC9811": {
+      "id": "F737220F30E0424DB5BAAD272AFC9811",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "1.4.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The Internet as a worldwide collection of computer networks ",
+      "ancestorIds": [
+        "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0"
+    },
+    "CDE5EF1869824959B637EFB531FB1306": {
+      "id": "CDE5EF1869824959B637EFB531FB1306",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "1.4.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The hardware needed to connect stand-alone computers into a Local Area Network ",
+      "ancestorIds": [
+        "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0"
+    },
+    "628A751CF4334FA59E194856C4B681ED": {
+      "id": "628A751CF4334FA59E194856C4B681ED",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "1.4.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The different roles of computers in a client-server and a peer-to-peer network ",
+      "ancestorIds": [
+        "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0"
+    },
+    "D671086296CF4232A51B734038DA6046": {
+      "id": "D671086296CF4232A51B734038DA6046",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "1.4.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Factors that affect the performance of networks ",
+      "ancestorIds": [
+        "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0"
+    },
+    "E789194A4D684CE2A2AA90D8008903BD": {
+      "id": "E789194A4D684CE2A2AA90D8008903BD",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "1.4.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Types of networks: LAN (Local Area Network); WAN (Wide Area Network) ",
+      "ancestorIds": [
+        "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0"
+    },
+    "8B5D4E5109AD4E5ABFF0FD4FD1B071A0": {
+      "id": "8B5D4E5109AD4E5ABFF0FD4FD1B071A0",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "1.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Wired and wireless networks ",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "EBD326CB4C7945C8B32A7929C64D90DB": {
+      "id": "EBD326CB4C7945C8B32A7929C64D90DB",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "1.3.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Suitable storage devices and storage media for a given application, and the advantages and disadvantages of these. ",
+      "ancestorIds": [
+        "33FB52C10F1D4DF7A59AA658FCD79764",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "33FB52C10F1D4DF7A59AA658FCD79764"
+    },
+    "D0097DA85E504495A82F62D958582206": {
+      "id": "D0097DA85E504495A82F62D958582206",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "1.3.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Common types of storage ",
+      "ancestorIds": [
+        "33FB52C10F1D4DF7A59AA658FCD79764",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "33FB52C10F1D4DF7A59AA658FCD79764"
+    },
+    "D6E00F2483E740D1B6E0AD310A64E69A": {
+      "id": "D6E00F2483E740D1B6E0AD310A64E69A",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "1.3.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Data capacity and calculation of data capacity requirements ",
+      "ancestorIds": [
+        "33FB52C10F1D4DF7A59AA658FCD79764",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "33FB52C10F1D4DF7A59AA658FCD79764"
+    },
+    "01B56500A8F1493193862455AC071FCC": {
+      "id": "01B56500A8F1493193862455AC071FCC",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "1.3.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The need for secondary storage ",
+      "ancestorIds": [
+        "33FB52C10F1D4DF7A59AA658FCD79764",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "33FB52C10F1D4DF7A59AA658FCD79764"
+    },
+    "33FB52C10F1D4DF7A59AA658FCD79764": {
+      "id": "33FB52C10F1D4DF7A59AA658FCD79764",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "1.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Storage",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "22AF8AC24937438FBE0DF8099860B5B0": {
+      "id": "22AF8AC24937438FBE0DF8099860B5B0",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1.2.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Flash memory ",
+      "ancestorIds": [
+        "CF6A6C68A72C4962A5E143D8206FF5D2",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "CF6A6C68A72C4962A5E143D8206FF5D2"
+    },
+    "A2A2DEA315FD46729FA33AEACAA4E2B2": {
+      "id": "A2A2DEA315FD46729FA33AEACAA4E2B2",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "1.2.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The need for virtual memory ",
+      "ancestorIds": [
+        "CF6A6C68A72C4962A5E143D8206FF5D2",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "CF6A6C68A72C4962A5E143D8206FF5D2"
+    },
+    "B61132F1840C4496A2D19543905EB524": {
+      "id": "B61132F1840C4496A2D19543905EB524",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "1.2.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The purpose of RAM in a computer system ",
+      "ancestorIds": [
+        "CF6A6C68A72C4962A5E143D8206FF5D2",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "CF6A6C68A72C4962A5E143D8206FF5D2"
+    },
+    "1100148F07DE48E1BC344C051485D61E": {
+      "id": "1100148F07DE48E1BC344C051485D61E",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1.2.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The purpose of ROM in a computer system ",
+      "ancestorIds": [
+        "CF6A6C68A72C4962A5E143D8206FF5D2",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "CF6A6C68A72C4962A5E143D8206FF5D2"
+    },
+    "337B4461A56F4C6CBD12678D01E7704F": {
+      "id": "337B4461A56F4C6CBD12678D01E7704F",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1.2.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The difference between RAM and ROM ",
+      "ancestorIds": [
+        "CF6A6C68A72C4962A5E143D8206FF5D2",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "CF6A6C68A72C4962A5E143D8206FF5D2"
+    },
+    "CF6A6C68A72C4962A5E143D8206FF5D2": {
+      "id": "CF6A6C68A72C4962A5E143D8206FF5D2",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Memory",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "08555F25754B4CA48402FA1CE45CE4AF": {
+      "id": "08555F25754B4CA48402FA1CE45CE4AF",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1.1.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Embedded systems ",
+      "ancestorIds": [
+        "D77A4EC75DFA435AA9BF826D6274A8F6",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D77A4EC75DFA435AA9BF826D6274A8F6"
+    },
+    "4D8B2623C3BA4B039DBD89D27BF897D6": {
+      "id": "4D8B2623C3BA4B039DBD89D27BF897D6",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "1.1.5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "How common characteristics of CPUs affect their performance: ",
+      "ancestorIds": [
+        "D77A4EC75DFA435AA9BF826D6274A8F6",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D77A4EC75DFA435AA9BF826D6274A8F6"
+    },
+    "9CFD5E462C2C4509981B2F1CB0E53C33": {
+      "id": "9CFD5E462C2C4509981B2F1CB0E53C33",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "1.1.4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The function of the CPU as fetch and execute instructions stored in memory ",
+      "ancestorIds": [
+        "D77A4EC75DFA435AA9BF826D6274A8F6",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D77A4EC75DFA435AA9BF826D6274A8F6"
+    },
+    "DBD6E7EA9DCF492A83F50BFC2FB0E58E": {
+      "id": "DBD6E7EA9DCF492A83F50BFC2FB0E58E",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "1.1.3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Common CPU components and their function: ",
+      "ancestorIds": [
+        "D77A4EC75DFA435AA9BF826D6274A8F6",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D77A4EC75DFA435AA9BF826D6274A8F6"
+    },
+    "FFF330A7C2754B6AB636526DE8C36B81": {
+      "id": "FFF330A7C2754B6AB636526DE8C36B81",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1.1.2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Von Neumann architecture ",
+      "ancestorIds": [
+        "D77A4EC75DFA435AA9BF826D6274A8F6",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D77A4EC75DFA435AA9BF826D6274A8F6"
+    },
+    "9863102F14824FD98C7488F944E22A14": {
+      "id": "9863102F14824FD98C7488F944E22A14",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1.1.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "The purpose of the CPU ",
+      "ancestorIds": [
+        "D77A4EC75DFA435AA9BF826D6274A8F6",
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "D77A4EC75DFA435AA9BF826D6274A8F6"
+    },
+    "D77A4EC75DFA435AA9BF826D6274A8F6": {
+      "id": "D77A4EC75DFA435AA9BF826D6274A8F6",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Systems architecture",
+      "ancestorIds": [
+        "A4DE3A7E648248328454FC6960521F5B"
+      ],
+      "parentId": "A4DE3A7E648248328454FC6960521F5B"
+    },
+    "A4DE3A7E648248328454FC6960521F5B": {
+      "id": "A4DE3A7E648248328454FC6960521F5B",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Computer Systems",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

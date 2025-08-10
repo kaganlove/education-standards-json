@@ -1,0 +1,653 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D21388889_grades-09-10-11-12",
+  "title": "Data Science II (11.08200) (2021)",
+  "subject": "CTAE (2013-)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "",
+    "URL": "",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D21388889",
+    "valid": "2021",
+    "title": "Georgia Standards of Excellence Data Science II (11.08200)",
+    "sourceURL": "https://lor2.gadoe.org/gadoe/file/700df6a6-f4fe-4b16-a84a-f2ee840eb845/1/Data%20Science%20II.pdf",
+    "asnIdentifier": "D21388889",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "182428AB8B8F45C2A0C20CE61F2BBE54": {
+      "id": "182428AB8B8F45C2A0C20CE61F2BBE54",
+      "asnIdentifier": "S21389384",
+      "position": 49000,
+      "depth": 1,
+      "statementNotation": "DS2-8.3",
+      "statementLabel": "Element",
+      "description": "Create a dashboard with appropriate high-level charts, such as heat plots, box and whiskers, etc. to express the data that is being analyzed",
+      "ancestorIds": [
+        "8629457E67D6446983A41414360A533E"
+      ],
+      "parentId": "8629457E67D6446983A41414360A533E"
+    },
+    "76D86E7FD89046E28E5BA368CCB93D31": {
+      "id": "76D86E7FD89046E28E5BA368CCB93D31",
+      "asnIdentifier": "S21389383",
+      "position": 48000,
+      "depth": 1,
+      "statementNotation": "DS2-8.2",
+      "statementLabel": "Element",
+      "description": "Identify and express areas for further study or investigation based on results",
+      "ancestorIds": [
+        "8629457E67D6446983A41414360A533E"
+      ],
+      "parentId": "8629457E67D6446983A41414360A533E"
+    },
+    "712B5BE805B04AA69B75BDA554943AB5": {
+      "id": "712B5BE805B04AA69B75BDA554943AB5",
+      "asnIdentifier": "S21389382",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "DS2-8.1",
+      "statementLabel": "Element",
+      "description": "Utilize visual reporting and statistic tools to perform, understand, and interpret statistic such as regression analysis, ANOVA, hypothesis testing, and sampling distributions",
+      "ancestorIds": [
+        "8629457E67D6446983A41414360A533E"
+      ],
+      "parentId": "8629457E67D6446983A41414360A533E"
+    },
+    "8629457E67D6446983A41414360A533E": {
+      "id": "8629457E67D6446983A41414360A533E",
+      "asnIdentifier": "S21389381",
+      "position": 46000,
+      "depth": 0,
+      "statementNotation": "DS2-8",
+      "statementLabel": "Standard",
+      "description": "Analyze results by interpreting the information provided by the data and how its interpretation supports possible answers to question or problem being investigated.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "99080B5769794BA8B6A12B067024C16C": {
+      "id": "99080B5769794BA8B6A12B067024C16C",
+      "asnIdentifier": "S21389380",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "DS2-7.4",
+      "statementLabel": "Element",
+      "description": "Generate and implement a maintenance plan for a data management solution implementation",
+      "ancestorIds": [
+        "F72DEB6C1D1B43398B15238A1D09CDED"
+      ],
+      "parentId": "F72DEB6C1D1B43398B15238A1D09CDED"
+    },
+    "F02FF637341947EC930B749BA8D80ABF": {
+      "id": "F02FF637341947EC930B749BA8D80ABF",
+      "asnIdentifier": "S21389379",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "DS2-7.3",
+      "statementLabel": "Element",
+      "description": "Build and deploy a data management system solution implementation.",
+      "ancestorIds": [
+        "F72DEB6C1D1B43398B15238A1D09CDED"
+      ],
+      "parentId": "F72DEB6C1D1B43398B15238A1D09CDED"
+    },
+    "D7DBADE673E248E19AFBF27BACBA4E9D": {
+      "id": "D7DBADE673E248E19AFBF27BACBA4E9D",
+      "asnIdentifier": "S21389378",
+      "position": 43000,
+      "depth": 1,
+      "statementNotation": "DS2-7.2",
+      "statementLabel": "Element",
+      "description": "Understand the components and key steps to a successful deployment.",
+      "ancestorIds": [
+        "F72DEB6C1D1B43398B15238A1D09CDED"
+      ],
+      "parentId": "F72DEB6C1D1B43398B15238A1D09CDED"
+    },
+    "DA78E84C6E7E455F90F451A1F2891B1A": {
+      "id": "DA78E84C6E7E455F90F451A1F2891B1A",
+      "asnIdentifier": "S21389377",
+      "position": 42000,
+      "depth": 1,
+      "statementNotation": "DS2-7.1",
+      "statementLabel": "Element",
+      "description": "Describe the differences between the processes of deployment and implementation of solutions.",
+      "ancestorIds": [
+        "F72DEB6C1D1B43398B15238A1D09CDED"
+      ],
+      "parentId": "F72DEB6C1D1B43398B15238A1D09CDED"
+    },
+    "F72DEB6C1D1B43398B15238A1D09CDED": {
+      "id": "F72DEB6C1D1B43398B15238A1D09CDED",
+      "asnIdentifier": "S21389376",
+      "position": 41000,
+      "depth": 0,
+      "statementNotation": "DS2-7",
+      "statementLabel": "Standard",
+      "description": "Deploy a data science solution in a production environment, follow implementation procedures, and develop a plan for long term maintenance.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "802356A972F04752BC72F0F90A2B8773": {
+      "id": "802356A972F04752BC72F0F90A2B8773",
+      "asnIdentifier": "S21389375",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "DS2-6.10",
+      "statementLabel": "Element",
+      "description": "Generate and implement a testing plan for a data management solution implementation",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "8FD5336C0FD44720B06534CFE5A266CD": {
+      "id": "8FD5336C0FD44720B06534CFE5A266CD",
+      "asnIdentifier": "S21389374",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "DS2-6.9",
+      "statementLabel": "Element",
+      "description": "Describe triggers and stored procedures and provide examples of how these might be used",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "E11E043DB4914F86BDE88AB36C7B2E53": {
+      "id": "E11E043DB4914F86BDE88AB36C7B2E53",
+      "asnIdentifier": "S21389373",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "DS2-6.8",
+      "statementLabel": "Element",
+      "description": "Illustrate the differences between the joining and subquery approaches to manipulating multiple tables in DMBS (SQL)",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "E97957FE41B546CF9603BB41710F9981": {
+      "id": "E97957FE41B546CF9603BB41710F9981",
+      "asnIdentifier": "S21389372",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "DS2-6.7",
+      "statementLabel": "Element",
+      "description": "Demonstrate (DBMS) SQL capabilities such as multiple-table data retrieval (join and other operators such as difference, union, and intersection), explicit and implicit joining, and built-in functions.",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "BB6D9865217B497AAA189E062D228EFF": {
+      "id": "BB6D9865217B497AAA189E062D228EFF",
+      "asnIdentifier": "S21389371",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "DS2-6.6",
+      "statementLabel": "Element",
+      "description": "Use of the \"group by\" and \"order by\" clauses in DMBS (SQL) queries.",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "456CFCF001164E30A93AB24F23C84209": {
+      "id": "456CFCF001164E30A93AB24F23C84209",
+      "asnIdentifier": "S21389370",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "DS2-6.5",
+      "statementLabel": "Element",
+      "description": "Show how to establish referential integrity using DMBS (SQL).",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "9D3546BF34164239AAC2AFBBB920AF86": {
+      "id": "9D3546BF34164239AAC2AFBBB920AF86",
+      "asnIdentifier": "S21389369",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "DS2-6.4",
+      "statementLabel": "Element",
+      "description": "Formulate DMBS (SQL) queries that use functions.",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "6BC5F92D22B14D7C9BA7935DD905F105": {
+      "id": "6BC5F92D22B14D7C9BA7935DD905F105",
+      "asnIdentifier": "S21389368",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "DS2-6.3",
+      "statementLabel": "Element",
+      "description": "Formulate single table DMBS (SQL) queries.",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "DEBAB064FDB54D818EE37E2D79AF28C2": {
+      "id": "DEBAB064FDB54D818EE37E2D79AF28C2",
+      "asnIdentifier": "S21389367",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "DS2-6.2",
+      "statementLabel": "Element",
+      "description": "Illustrate data definition language (DDL) commands for creating tables and views as well as for modifying and dropping tables.",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "0D9AB61A1CA64ED0AA2A0FD3B9BBF1C5": {
+      "id": "0D9AB61A1CA64ED0AA2A0FD3B9BBF1C5",
+      "asnIdentifier": "S21389366",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "DS2-6.1",
+      "statementLabel": "Element",
+      "description": "Describe a Database Management System Language (DMBS) like SQL and summarize its basic operators.",
+      "ancestorIds": [
+        "D7627598857D480BAFCE55C0951B4D6E"
+      ],
+      "parentId": "D7627598857D480BAFCE55C0951B4D6E"
+    },
+    "D7627598857D480BAFCE55C0951B4D6E": {
+      "id": "D7627598857D480BAFCE55C0951B4D6E",
+      "asnIdentifier": "S21389365",
+      "position": 30000,
+      "depth": 0,
+      "statementNotation": "DS2-6",
+      "statementLabel": "Standard",
+      "description": "Build a database based on designed model, identify implementation policies and procedures, and establish plans for testing/debugging a data science solution.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "18FC3AB4B6B74E0BA951ACA6CFCFADC0": {
+      "id": "18FC3AB4B6B74E0BA951ACA6CFCFADC0",
+      "asnIdentifier": "S21389364",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "DS2-5.12",
+      "statementLabel": "Element",
+      "description": "Understand data normalization, functional dependency, and develop a fully normalized Entity Relationship Diagram. Evaluate the normality of a logical data model and correct any anomalies",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "6584EDF9DB8841A5A3AE71FCB6D2C08E": {
+      "id": "6584EDF9DB8841A5A3AE71FCB6D2C08E",
+      "asnIdentifier": "S21389363",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "DS2-5.11",
+      "statementLabel": "Element",
+      "description": "Describe the principles and detailed steps involved in mapping Enhanced Entity Relationship diagrams to relations.",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "CDA9DB4F06C94F598359C250ED651F01": {
+      "id": "CDA9DB4F06C94F598359C250ED651F01",
+      "asnIdentifier": "S21389362",
+      "position": 27000,
+      "depth": 1,
+      "statementNotation": "DS2-5.10",
+      "statementLabel": "Element",
+      "description": "Describe the relational model including the properties of relations, integrity constraints, and well-structured relations.",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "D050D8D90B924DA998A2D9CBC19B9EDA": {
+      "id": "D050D8D90B924DA998A2D9CBC19B9EDA",
+      "asnIdentifier": "S21389361",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "DS2-5.9",
+      "statementLabel": "Element",
+      "description": "Describe the position of logical database design within the overall database development process",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "C78EB7024E25439AB031CEF91BB0DDDF": {
+      "id": "C78EB7024E25439AB031CEF91BB0DDDF",
+      "asnIdentifier": "S21389360",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "DS2-5.8",
+      "statementLabel": "Element",
+      "description": "Describe the use of specialization (top-down perspective) and generalization (bottom-upper perspective) as complementary techniques for defining supertype/subtype relationships and understand relationship constraints when modelling.",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "4285D4F2D8744BC583F4C8D3BBCBDB58": {
+      "id": "4285D4F2D8744BC583F4C8D3BBCBDB58",
+      "asnIdentifier": "S21389359",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "DS2-5.7",
+      "statementLabel": "Element",
+      "description": "Describe the concept of supertype/subtype relationships and recognize when to use these relationships in data modeling.",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "0405097CD7E84EB99BE00C63695923E1": {
+      "id": "0405097CD7E84EB99BE00C63695923E1",
+      "asnIdentifier": "S21389358",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "DS2-5.6",
+      "statementLabel": "Element",
+      "description": "Assess end user data and information requirements and develop a logical model to fit those requirements",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "819845F3FDE5473AB0EA6C86AD32A9B9": {
+      "id": "819845F3FDE5473AB0EA6C86AD32A9B9",
+      "asnIdentifier": "S21389357",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "DS2-5.5",
+      "statementLabel": "Element",
+      "description": "Generate Entity Relationship logical models to represent organization data and plan for database development and infrastructure",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "556EFE746A3A4705B279668441BE2D95": {
+      "id": "556EFE746A3A4705B279668441BE2D95",
+      "asnIdentifier": "S21389356",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "DS2-5.4",
+      "statementLabel": "Element",
+      "description": "Provide a review of systems development methodologies, particularly the waterfall method and agile programming development and show how database development fits with these methodologies.",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "4B72D7547A6F455C8EBA2F1EB0DBCB92": {
+      "id": "4B72D7547A6F455C8EBA2F1EB0DBCB92",
+      "asnIdentifier": "S21389355",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "DS2-5.3",
+      "statementLabel": "Element",
+      "description": "Describe and build the major components of the database environment and explain how these components interact with each other",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "462536CAD4FD4B0F945EE59B4AF46B09": {
+      "id": "462536CAD4FD4B0F945EE59B4AF46B09",
+      "asnIdentifier": "S21389354",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "DS2-5.2",
+      "statementLabel": "Element",
+      "description": "Provide definitions of key terms and concepts that describe the database environment",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "8F30CBB6DFCE4CB682F9D242D38E4315": {
+      "id": "8F30CBB6DFCE4CB682F9D242D38E4315",
+      "asnIdentifier": "S21389353",
+      "position": 18000,
+      "depth": 1,
+      "statementNotation": "DS2-5.1",
+      "statementLabel": "Element",
+      "description": "Identify and distinguish between variations of techniques (Artificial Intelligence, Machine Learning, Deep Learning, etc.)",
+      "ancestorIds": [
+        "1AA2680DF0DB44ECAB8C30A199CA03AB"
+      ],
+      "parentId": "1AA2680DF0DB44ECAB8C30A199CA03AB"
+    },
+    "1AA2680DF0DB44ECAB8C30A199CA03AB": {
+      "id": "1AA2680DF0DB44ECAB8C30A199CA03AB",
+      "asnIdentifier": "S21389352",
+      "position": 17000,
+      "depth": 0,
+      "statementNotation": "DS2-5",
+      "statementLabel": "Standard",
+      "description": "Identify the general concepts of databases/data tools and how to utilize design thinking to produce solutions that are clean and thoughtful.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "99139F54422246BE8A42CEBF966BE93B": {
+      "id": "99139F54422246BE8A42CEBF966BE93B",
+      "asnIdentifier": "S21389351",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "DS2-4.4",
+      "statementLabel": "Element",
+      "description": "Use graphical and numerical displays to foster further investigation into question of interest",
+      "ancestorIds": [
+        "0D228D98C9394EA9A844D54C5E3F83B2"
+      ],
+      "parentId": "0D228D98C9394EA9A844D54C5E3F83B2"
+    },
+    "47ABC19642B14716996DBF8582EDE900": {
+      "id": "47ABC19642B14716996DBF8582EDE900",
+      "asnIdentifier": "S21389350",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "DS2-4.3",
+      "statementLabel": "Element",
+      "description": "Demonstrate the ability to take data and create a dashboard that provides insight to solve real world problems.",
+      "ancestorIds": [
+        "0D228D98C9394EA9A844D54C5E3F83B2"
+      ],
+      "parentId": "0D228D98C9394EA9A844D54C5E3F83B2"
+    },
+    "CF79B00A003442F0B73E03785BBA76FB": {
+      "id": "CF79B00A003442F0B73E03785BBA76FB",
+      "asnIdentifier": "S21389349",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "DS2-4.2",
+      "statementLabel": "Element",
+      "description": "Utilize various tools (such as the ARIMA model) to analyze time series data.",
+      "ancestorIds": [
+        "0D228D98C9394EA9A844D54C5E3F83B2"
+      ],
+      "parentId": "0D228D98C9394EA9A844D54C5E3F83B2"
+    },
+    "81B828D9B82247E8AD4FC5DA3F21BE86": {
+      "id": "81B828D9B82247E8AD4FC5DA3F21BE86",
+      "asnIdentifier": "S21389348",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "DS2-4.1",
+      "statementLabel": "Element",
+      "description": "Implement advanced spreadsheet functions, automation, and dynamic reporting.",
+      "ancestorIds": [
+        "0D228D98C9394EA9A844D54C5E3F83B2"
+      ],
+      "parentId": "0D228D98C9394EA9A844D54C5E3F83B2"
+    },
+    "0D228D98C9394EA9A844D54C5E3F83B2": {
+      "id": "0D228D98C9394EA9A844D54C5E3F83B2",
+      "asnIdentifier": "S21389347",
+      "position": 12000,
+      "depth": 0,
+      "statementNotation": "DS2-4",
+      "statementLabel": "Standard",
+      "description": "Analyze data by selecting appropriate graphical and numerical methods",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CB5242AA79944CF98E0F5C46BC3174CF": {
+      "id": "CB5242AA79944CF98E0F5C46BC3174CF",
+      "asnIdentifier": "S21389346",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "DS2-3.1",
+      "statementLabel": "Element",
+      "description": "Describe the factors that must be considered in distributing data effectively and how a simple model can be used to obtain at least a first-cut distribution",
+      "ancestorIds": [
+        "C96C9E6F81A44A3798ACC28C87DAEBDF"
+      ],
+      "parentId": "C96C9E6F81A44A3798ACC28C87DAEBDF"
+    },
+    "C96C9E6F81A44A3798ACC28C87DAEBDF": {
+      "id": "C96C9E6F81A44A3798ACC28C87DAEBDF",
+      "asnIdentifier": "S21389345",
+      "position": 10000,
+      "depth": 0,
+      "statementNotation": "DS2-3",
+      "statementLabel": "Standard",
+      "description": "Design and implement a plan to collect appropriate data to answer the research question",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DF8DE0F9F3E34788BF74D6CE7613C061": {
+      "id": "DF8DE0F9F3E34788BF74D6CE7613C061",
+      "asnIdentifier": "S21389344",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "DS2-2.3",
+      "statementLabel": "Element",
+      "description": "Frame a statistical question of interest in terms of measurable data",
+      "ancestorIds": [
+        "6EFFA08ECC3A41B3A8605766AEF7C6C6"
+      ],
+      "parentId": "6EFFA08ECC3A41B3A8605766AEF7C6C6"
+    },
+    "065F221A5FC941ACA5A783D490B389F7": {
+      "id": "065F221A5FC941ACA5A783D490B389F7",
+      "asnIdentifier": "S21389343",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "DS2-2.2",
+      "statementLabel": "Element",
+      "description": "Determine whether a problem involves categorical or quantitative data",
+      "ancestorIds": [
+        "6EFFA08ECC3A41B3A8605766AEF7C6C6"
+      ],
+      "parentId": "6EFFA08ECC3A41B3A8605766AEF7C6C6"
+    },
+    "F55E446802D9414D91E99696A70B1A73": {
+      "id": "F55E446802D9414D91E99696A70B1A73",
+      "asnIdentifier": "S21389342",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "DS2-2.1",
+      "statementLabel": "Element",
+      "description": "Identify the objectives of data and information management",
+      "ancestorIds": [
+        "6EFFA08ECC3A41B3A8605766AEF7C6C6"
+      ],
+      "parentId": "6EFFA08ECC3A41B3A8605766AEF7C6C6"
+    },
+    "6EFFA08ECC3A41B3A8605766AEF7C6C6": {
+      "id": "6EFFA08ECC3A41B3A8605766AEF7C6C6",
+      "asnIdentifier": "S21389341",
+      "position": 6000,
+      "depth": 0,
+      "statementNotation": "DS2-2",
+      "statementLabel": "Standard",
+      "description": "Formulate Questions to Clarify the problem at hand and formulate 1 or more questions that can be answered with data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "67CFD114F4DA4F68835B45D974ABF49C": {
+      "id": "67CFD114F4DA4F68835B45D974ABF49C",
+      "asnIdentifier": "S21389340",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "DS2-1.4",
+      "statementLabel": "Element",
+      "description": "Identify and compare potential bias issues in data science",
+      "ancestorIds": [
+        "03488C95250E45909F35EF5667AFC5B9"
+      ],
+      "parentId": "03488C95250E45909F35EF5667AFC5B9"
+    },
+    "FECEDA0140964CB5B8C627042CF605C9": {
+      "id": "FECEDA0140964CB5B8C627042CF605C9",
+      "asnIdentifier": "S21389339",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "DS2-1.3",
+      "statementLabel": "Element",
+      "description": "Identify ethical issues in data science.",
+      "ancestorIds": [
+        "03488C95250E45909F35EF5667AFC5B9"
+      ],
+      "parentId": "03488C95250E45909F35EF5667AFC5B9"
+    },
+    "1949F13903EF42DCAFE7BD328B9BA529": {
+      "id": "1949F13903EF42DCAFE7BD328B9BA529",
+      "asnIdentifier": "S21389338",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "DS2-1.2",
+      "statementLabel": "Element",
+      "description": "Identify and differentiate between different data governance standards and argue why governance is important.",
+      "ancestorIds": [
+        "03488C95250E45909F35EF5667AFC5B9"
+      ],
+      "parentId": "03488C95250E45909F35EF5667AFC5B9"
+    },
+    "8DA93DB12D3442B89EFB24C0DFB119EF": {
+      "id": "8DA93DB12D3442B89EFB24C0DFB119EF",
+      "asnIdentifier": "S21389337",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "DS2-1.1",
+      "statementLabel": "Element",
+      "description": "Demonstrates how students currently use data science in their lives, and how data science impacts their lives and possible career choices",
+      "ancestorIds": [
+        "03488C95250E45909F35EF5667AFC5B9"
+      ],
+      "parentId": "03488C95250E45909F35EF5667AFC5B9"
+    },
+    "03488C95250E45909F35EF5667AFC5B9": {
+      "id": "03488C95250E45909F35EF5667AFC5B9",
+      "asnIdentifier": "S21389336",
+      "position": 1000,
+      "depth": 0,
+      "statementNotation": "DS2-1",
+      "statementLabel": "Standard",
+      "description": "Demonstrate how Data Science can be used to impact school, work, and leisure time",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "id": "32E2000692694D5B918FE88AF2FE2969",
+  "title": "Big Idea #3 - Learning: Grades K-2",
+  "subject": "K-12 AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "K",
+    "01",
+    "02"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Big Idea #3: Learning ",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recUEesZDav1WXn5C/fldIxltCXshIi374r/attdYS2XKAYRrLghl?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "F712E69FD74B4C0986DD1BE2D4C92891": {
+      "id": "F712E69FD74B4C0986DD1BE2D4C92891",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: If examples of healthy foods are broccoli,\ngreen beans, peas, and spinach (all green), and\nunhealthy foods are donuts, cake, and candy bars, what\nwill the computer conclude about green gummy bears?",
+      "comments": [],
+      "ancestorIds": [
+        "69E76D7D8A1949DF92F8D47BFD1D13DC",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "69E76D7D8A1949DF92F8D47BFD1D13DC"
+    },
+    "13D8D0119FA2413684529582C53746E2": {
+      "id": "13D8D0119FA2413684529582C53746E2",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: How well a computer learns to classify depends on\nthe data used to train it.",
+      "comments": [],
+      "ancestorIds": [
+        "69E76D7D8A1949DF92F8D47BFD1D13DC",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "69E76D7D8A1949DF92F8D47BFD1D13DC"
+    },
+    "51F50B648D1340F9AAA2AF5701EA6561": {
+      "id": "51F50B648D1340F9AAA2AF5701EA6561",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Examine a labeled dataset and identify problems in\nthe data that could lead a computer to make incorrect\npredictions. ",
+      "comments": [],
+      "ancestorIds": [
+        "69E76D7D8A1949DF92F8D47BFD1D13DC",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "69E76D7D8A1949DF92F8D47BFD1D13DC"
+    },
+    "69E76D7D8A1949DF92F8D47BFD1D13DC": {
+      "id": "69E76D7D8A1949DF92F8D47BFD1D13DC",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Bias)",
+      "comments": [],
+      "ancestorIds": [
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "6CDE326A37314D1E8AD2473809CE5706"
+    },
+    "6E13F3E3FD5C47989590314111612AC5": {
+      "id": "6E13F3E3FD5C47989590314111612AC5",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A",
+      "comments": [],
+      "ancestorIds": [
+        "CB508DE7D394473B81C5E13C644F6579",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "CB508DE7D394473B81C5E13C644F6579"
+    },
+    "CB508DE7D394473B81C5E13C644F6579": {
+      "id": "CB508DE7D394473B81C5E13C644F6579",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Large datasets) ",
+      "comments": [],
+      "ancestorIds": [
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "6CDE326A37314D1E8AD2473809CE5706"
+    },
+    "2FDF511D6EC04448A29091100291B383": {
+      "id": "2FDF511D6EC04448A29091100291B383",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Classify food as healthy/unhealthy, or\nclassify toys as safe or unsafe for babies. Optionally,\nthey could build a decision tree using these features, but\nmost important to understand is that they could feed their\ndata to a machine learning algorithm to create the\ndecision tree for them. ",
+      "comments": [],
+      "ancestorIds": [
+        "E87D392C48384FEAAFA6DBFA9F109F4B",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "E87D392C48384FEAAFA6DBFA9F109F4B"
+    },
+    "784A84CE3E9C4353B25B49CDBB52BBB0": {
+      "id": "784A84CE3E9C4353B25B49CDBB52BBB0",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: We can get a computer to classify things by\ndescribing them in terms of feature values the computer\ncan reason about. People choose the features. ",
+      "comments": [],
+      "ancestorIds": [
+        "E87D392C48384FEAAFA6DBFA9F109F4B",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "E87D392C48384FEAAFA6DBFA9F109F4B"
+    },
+    "936DBDB45F934E99869B093F01F004B7": {
+      "id": "936DBDB45F934E99869B093F01F004B7",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Create a labeled dataset with explicit features to\nillustrate how computers can learn to classify things like\nfoods, movies, or toys.",
+      "comments": [],
+      "ancestorIds": [
+        "E87D392C48384FEAAFA6DBFA9F109F4B",
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "E87D392C48384FEAAFA6DBFA9F109F4B"
+    },
+    "E87D392C48384FEAAFA6DBFA9F109F4B": {
+      "id": "E87D392C48384FEAAFA6DBFA9F109F4B",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature sets)",
+      "comments": [],
+      "ancestorIds": [
+        "6CDE326A37314D1E8AD2473809CE5706"
+      ],
+      "parentId": "6CDE326A37314D1E8AD2473809CE5706"
+    },
+    "6CDE326A37314D1E8AD2473809CE5706": {
+      "id": "6CDE326A37314D1E8AD2473809CE5706",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Datasets",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7C38B45C24254B5CA34A316C530356BF": {
+      "id": "7C38B45C24254B5CA34A316C530356BF",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A",
+      "comments": [],
+      "ancestorIds": [
+        "F892967AE23F42BCBC14935C2712E641",
+        "B53919F12FB34F2E820F71C392D93A76"
+      ],
+      "parentId": "F892967AE23F42BCBC14935C2712E641"
+    },
+    "F892967AE23F42BCBC14935C2712E641": {
+      "id": "F892967AE23F42BCBC14935C2712E641",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Weight adjustment)",
+      "comments": [],
+      "ancestorIds": [
+        "B53919F12FB34F2E820F71C392D93A76"
+      ],
+      "parentId": "B53919F12FB34F2E820F71C392D93A76"
+    },
+    "F5356331C80644BC9FCE18B7A11EA2C4": {
+      "id": "F5356331C80644BC9FCE18B7A11EA2C4",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A",
+      "comments": [],
+      "ancestorIds": [
+        "26E41A08CF7F44A09989AF71D2C1345F",
+        "B53919F12FB34F2E820F71C392D93A76"
+      ],
+      "parentId": "26E41A08CF7F44A09989AF71D2C1345F"
+    },
+    "26E41A08CF7F44A09989AF71D2C1345F": {
+      "id": "26E41A08CF7F44A09989AF71D2C1345F",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Structure of a neural\nnetwork) ",
+      "comments": [],
+      "ancestorIds": [
+        "B53919F12FB34F2E820F71C392D93A76"
+      ],
+      "parentId": "B53919F12FB34F2E820F71C392D93A76"
+    },
+    "B53919F12FB34F2E820F71C392D93A76": {
+      "id": "B53919F12FB34F2E820F71C392D93A76",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Neural Networks",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0ACAE94F27784BCF85105E8420E473AE": {
+      "id": "0ACAE94F27784BCF85105E8420E473AE",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A",
+      "comments": [],
+      "ancestorIds": [
+        "974613F7798F418DB44F201D174CC1DD",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "974613F7798F418DB44F201D174CC1DD"
+    },
+    "974613F7798F418DB44F201D174CC1DD": {
+      "id": "974613F7798F418DB44F201D174CC1DD",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Learning from\nexperience) ",
+      "comments": [],
+      "ancestorIds": [
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "AFDA11DAC3EF40568750D12A96C5FCFC"
+    },
+    "B98FF787ABD648A692610A472B2E928D": {
+      "id": "B98FF787ABD648A692610A472B2E928D",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "3-A-v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A",
+      "comments": [],
+      "ancestorIds": [
+        "9898BE5951384AD3902F7BAD9E556DA8",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "9898BE5951384AD3902F7BAD9E556DA8"
+    },
+    "9898BE5951384AD3902F7BAD9E556DA8": {
+      "id": "9898BE5951384AD3902F7BAD9E556DA8",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Adjusting internal\nrepresentations)",
+      "comments": [],
+      "ancestorIds": [
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "AFDA11DAC3EF40568750D12A96C5FCFC"
+    },
+    "B18CC9116B7743C59AABA2033C124B3F": {
+      "id": "B18CC9116B7743C59AABA2033C124B3F",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "3-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A",
+      "comments": [],
+      "ancestorIds": [
+        "DAF33544B4384F9493D0CD36EDA84AE9",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "DAF33544B4384F9493D0CD36EDA84AE9"
+    },
+    "DAF33544B4384F9493D0CD36EDA84AE9": {
+      "id": "DAF33544B4384F9493D0CD36EDA84AE9",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Constructing vs. using a\nreasoner) ",
+      "comments": [],
+      "ancestorIds": [
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "AFDA11DAC3EF40568750D12A96C5FCFC"
+    },
+    "D60708DA58654E188689DC042905517A": {
+      "id": "D60708DA58654E188689DC042905517A",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: With instructor assistance, Teachable\nMachine could be used to recognize hand gestures or\nsounds. ",
+      "comments": [],
+      "ancestorIds": [
+        "FB26008B8DEC4027B5020D7304489091",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "FB26008B8DEC4027B5020D7304489091"
+    },
+    "9219664CAD814D7E97A85D7EE831F0E1": {
+      "id": "9219664CAD814D7E97A85D7EE831F0E1",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computers can learn from examples.",
+      "comments": [],
+      "ancestorIds": [
+        "FB26008B8DEC4027B5020D7304489091",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "FB26008B8DEC4027B5020D7304489091"
+    },
+    "9ECD7F7FD75E4779AD10AB8DA296F5F0": {
+      "id": "9ECD7F7FD75E4779AD10AB8DA296F5F0",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Demonstrate how to train a computer to recognize\nsomething.",
+      "comments": [],
+      "ancestorIds": [
+        "FB26008B8DEC4027B5020D7304489091",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "FB26008B8DEC4027B5020D7304489091"
+    },
+    "FB26008B8DEC4027B5020D7304489091": {
+      "id": "FB26008B8DEC4027B5020D7304489091",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Training a model)",
+      "comments": [],
+      "ancestorIds": [
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "AFDA11DAC3EF40568750D12A96C5FCFC"
+    },
+    "F520DE0FCD624BEE9093033595370663": {
+      "id": "F520DE0FCD624BEE9093033595370663",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: To give students a feel for the problem of\nlearning to classify we must ask them to learn a class\nthat's not intuitively obvious, e.g., learn \"poisonous fish\"\nby examining cartoon fish images labeled \"poisonous\" or\n\"not poisonous\". They can then be asked to describe\nwhich features indicate a fish is poisonous, e.g., red fish\nwith square heads. Using images as input simplifies the\ntask because the features are intuitive, even though the\nclassification rule should not be. ",
+      "comments": [],
+      "ancestorIds": [
+        "A8D4586902B444D6874312D9A670C856",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "A8D4586902B444D6874312D9A670C856"
+    },
+    "B49BEB81911049B8AD26ABD4EB371B2C": {
+      "id": "B49BEB81911049B8AD26ABD4EB371B2C",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Classes can be defined in terms of feature values.\nThe relevant features can be inferred by examining\nlabeled examples.",
+      "comments": [],
+      "ancestorIds": [
+        "A8D4586902B444D6874312D9A670C856",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "A8D4586902B444D6874312D9A670C856"
+    },
+    "F39D1EB96E4F44E299472ED51E627534": {
+      "id": "F39D1EB96E4F44E299472ED51E627534",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Identify patterns in labeled data and determine the\nfeatures that predict labels. ",
+      "comments": [],
+      "ancestorIds": [
+        "A8D4586902B444D6874312D9A670C856",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "A8D4586902B444D6874312D9A670C856"
+    },
+    "A8D4586902B444D6874312D9A670C856": {
+      "id": "A8D4586902B444D6874312D9A670C856",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Finding patterns in\ndata)",
+      "comments": [],
+      "ancestorIds": [
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "AFDA11DAC3EF40568750D12A96C5FCFC"
+    },
+    "B9701B1B180E4A86AF8CF9F4A983A130": {
+      "id": "B9701B1B180E4A86AF8CF9F4A983A130",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Activities: Describe a time when you learned something\nby being told, by watching another person, or by asking\nquestions. A demo such as Teachable Machine can be\nused to illustrate a computer learning something from\npositive and negative examples.",
+      "comments": [],
+      "ancestorIds": [
+        "849949938DA84E4898C016D9F715667E",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "849949938DA84E4898C016D9F715667E"
+    },
+    "2EA59B1D7F894101A11258276386F79D": {
+      "id": "2EA59B1D7F894101A11258276386F79D",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: People learn by observation, by being told,\nby asking questions, by experimentation, by practice,\nand by making connections to past experience.\nComputers learn by finding patterns in data, or by trial\nand error. ",
+      "comments": [],
+      "ancestorIds": [
+        "849949938DA84E4898C016D9F715667E",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "849949938DA84E4898C016D9F715667E"
+    },
+    "B940A7F36C3F48318BAB077B78C2B372": {
+      "id": "B940A7F36C3F48318BAB077B78C2B372",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computers learn differently than people. ",
+      "comments": [],
+      "ancestorIds": [
+        "849949938DA84E4898C016D9F715667E",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "849949938DA84E4898C016D9F715667E"
+    },
+    "2D935F89B7A64AEC8D9C0DF13A4D81B1": {
+      "id": "2D935F89B7A64AEC8D9C0DF13A4D81B1",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe and provide examples of how people learn\nand how computers learn. ",
+      "comments": [],
+      "ancestorIds": [
+        "849949938DA84E4898C016D9F715667E",
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "849949938DA84E4898C016D9F715667E"
+    },
+    "849949938DA84E4898C016D9F715667E": {
+      "id": "849949938DA84E4898C016D9F715667E",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Humans vs. machines)",
+      "comments": [],
+      "ancestorIds": [
+        "AFDA11DAC3EF40568750D12A96C5FCFC"
+      ],
+      "parentId": "AFDA11DAC3EF40568750D12A96C5FCFC"
+    },
+    "AFDA11DAC3EF40568750D12A96C5FCFC": {
+      "id": "AFDA11DAC3EF40568750D12A96C5FCFC",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Nature of Learning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

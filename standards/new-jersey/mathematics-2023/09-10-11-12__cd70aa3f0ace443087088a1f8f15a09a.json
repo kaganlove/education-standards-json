@@ -1,0 +1,848 @@
+{
+  "id": "CD70AA3F0ACE443087088A1F8F15A09A",
+  "title": "High School - Statistics and Probability",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "New Jersey Student Learning Standards Mathematics (NJSLS—Mathematics)",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recg1OQXCSeuJPkcb/fldIxltCXshIi374r/attQThKD0HEWuLGJA?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "BD9F1823F64844E38377E11EB39F173B",
+    "title": "New Jersey"
+  },
+  "standards": {
+    "ECC0123D0BFB41E5BDFCDBD5326BA4F7": {
+      "id": "ECC0123D0BFB41E5BDFCDBD5326BA4F7",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.MD.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze decisions and strategies using probability concepts (e.g., product testing,\nmedical testing, pulling a hockey goalie at the end of a game).",
+      "comments": [],
+      "ancestorIds": [
+        "4F135366BE59431785F3BA13B3F78DD3",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "4F135366BE59431785F3BA13B3F78DD3"
+    },
+    "81BF1265E9924D38A81420F2E327E3B1": {
+      "id": "81BF1265E9924D38A81420F2E327E3B1",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.MD.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use probabilities to make fair decisions (e.g., drawing by lots, using a random number\ngenerator). ",
+      "comments": [],
+      "ancestorIds": [
+        "4F135366BE59431785F3BA13B3F78DD3",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "4F135366BE59431785F3BA13B3F78DD3"
+    },
+    "BF88BD92522D49E1B84367D7C5D00EC8": {
+      "id": "BF88BD92522D49E1B84367D7C5D00EC8",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "S.MD.B.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate and compare strategies on the basis of expected values. For example,\ncompare a high-deductible versus a low-deductible automobile insurance policy\nusing various, but reasonable, chances of having a minor or a major accident. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6DA5B9550C04BBA9FC194D203CD6225",
+        "4F135366BE59431785F3BA13B3F78DD3",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "A6DA5B9550C04BBA9FC194D203CD6225"
+    },
+    "9A91F6ADB25743A7BFD8C5FB5D296A0D": {
+      "id": "9A91F6ADB25743A7BFD8C5FB5D296A0D",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "S.MD.B.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the expected payoff for a game of chance. For example, find the expected\nwinnings from a game at a fast food restaurant.",
+      "comments": [],
+      "ancestorIds": [
+        "A6DA5B9550C04BBA9FC194D203CD6225",
+        "4F135366BE59431785F3BA13B3F78DD3",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "A6DA5B9550C04BBA9FC194D203CD6225"
+    },
+    "A6DA5B9550C04BBA9FC194D203CD6225": {
+      "id": "A6DA5B9550C04BBA9FC194D203CD6225",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.MD.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Weigh the possible outcomes of a decision by assigning probabilities to payoff values\nand finding expected values. For example, find the forecasted value of an investment.",
+      "comments": [],
+      "ancestorIds": [
+        "4F135366BE59431785F3BA13B3F78DD3",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "4F135366BE59431785F3BA13B3F78DD3"
+    },
+    "4F135366BE59431785F3BA13B3F78DD3": {
+      "id": "4F135366BE59431785F3BA13B3F78DD3",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "S.MD.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use probability to evaluate outcomes of decisions",
+      "comments": [],
+      "ancestorIds": [
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "EEC38C7C99854A349DB9284DF841ECD2"
+    },
+    "8D8968B0A956412DAC10B1D18B6F8405": {
+      "id": "8D8968B0A956412DAC10B1D18B6F8405",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "S.MD.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a probability distribution for a random variable defined for a sample space in\nwhich probabilities are assigned empirically; find the expected value. For example, find a\ncurrent data distribution on the number of TV sets per household in the United States, and\ncalculate the expected number of sets per household. How many TV sets would you\nexpect to find in 100 randomly selected households?",
+      "comments": [],
+      "ancestorIds": [
+        "CFA69A4B5DD24155AE75EDAEDC45F48F",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "CFA69A4B5DD24155AE75EDAEDC45F48F"
+    },
+    "216A04CD19EE4B6FA6C0D0FB5EE8D2C1": {
+      "id": "216A04CD19EE4B6FA6C0D0FB5EE8D2C1",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.MD.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a probability distribution for a random variable defined for a sample space in\nwhich theoretical probabilities can be calculated; find the expected value. For example,\nfind the theoretical probability distribution for the number of correct answers obtained by\nguessing on all five questions of a multiple-choice test where each question has four\nchoices, and find the expected grade under various grading schemes.",
+      "comments": [],
+      "ancestorIds": [
+        "CFA69A4B5DD24155AE75EDAEDC45F48F",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "CFA69A4B5DD24155AE75EDAEDC45F48F"
+    },
+    "E4B38EC24F6749C68CE9B2CF7EA73611": {
+      "id": "E4B38EC24F6749C68CE9B2CF7EA73611",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.MD.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the expected value of a random variable; interpret it as the mean of the\nprobability distribution. ",
+      "comments": [],
+      "ancestorIds": [
+        "CFA69A4B5DD24155AE75EDAEDC45F48F",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "CFA69A4B5DD24155AE75EDAEDC45F48F"
+    },
+    "9345218BB79F4ED9A69C11B4AD048039": {
+      "id": "9345218BB79F4ED9A69C11B4AD048039",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.MD.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define a random variable for a quantity of interest by assigning a numerical value to\neach event in a sample space; graph the corresponding probability distribution using the same graphical displays as for data distributions.",
+      "comments": [],
+      "ancestorIds": [
+        "CFA69A4B5DD24155AE75EDAEDC45F48F",
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "CFA69A4B5DD24155AE75EDAEDC45F48F"
+    },
+    "CFA69A4B5DD24155AE75EDAEDC45F48F": {
+      "id": "CFA69A4B5DD24155AE75EDAEDC45F48F",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "S.MD.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate expected values and use them to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "EEC38C7C99854A349DB9284DF841ECD2"
+      ],
+      "parentId": "EEC38C7C99854A349DB9284DF841ECD2"
+    },
+    "EEC38C7C99854A349DB9284DF841ECD2": {
+      "id": "EEC38C7C99854A349DB9284DF841ECD2",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 0,
+      "listId": "MD",
+      "statementNotation": "S.MD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using Probability to Make Decisions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3C444D7260C842C28C0064A4F86C7D15": {
+      "id": "3C444D7260C842C28C0064A4F86C7D15",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "S.CP.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use permutations and combinations to compute probabilities of compound events and\nsolve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "F8CD061628004D7689A6AEE15316544D",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "F8CD061628004D7689A6AEE15316544D"
+    },
+    "0818D92E347F4EAD863BFA65C3CAD81A": {
+      "id": "0818D92E347F4EAD863BFA65C3CAD81A",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.CP.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the general Multiplication Rule in a uniform probability model, P(AandB)=P(A)P(B|A)=P(B)P(A|B) and interpret\nthe answer in terms of the model.",
+      "comments": [],
+      "ancestorIds": [
+        "F8CD061628004D7689A6AEE15316544D",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "F8CD061628004D7689A6AEE15316544D"
+    },
+    "153704A30D0146268CF064426A5FCB44": {
+      "id": "153704A30D0146268CF064426A5FCB44",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.CP.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the Addition Rule, P(AorB)=P(A)+P(B)-P(AandB), and interpret the answer in terms of the model.",
+      "comments": [],
+      "ancestorIds": [
+        "F8CD061628004D7689A6AEE15316544D",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "F8CD061628004D7689A6AEE15316544D"
+    },
+    "73E9048DB9E14873836CC5DA9259BBC8": {
+      "id": "73E9048DB9E14873836CC5DA9259BBC8",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.CP.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the conditional probability of A given B as the fraction of B’s outcomes that also belong\nto A, and interpret the answer in terms of the model.",
+      "comments": [],
+      "ancestorIds": [
+        "F8CD061628004D7689A6AEE15316544D",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "F8CD061628004D7689A6AEE15316544D"
+    },
+    "F8CD061628004D7689A6AEE15316544D": {
+      "id": "F8CD061628004D7689A6AEE15316544D",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "S.CP.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the rules of probability to compute probabilities of compound events in a uniform\nprobability model",
+      "comments": [],
+      "ancestorIds": [
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+    },
+    "F3409499E2B34BE6986B7E19182BC30A": {
+      "id": "F3409499E2B34BE6986B7E19182BC30A",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "S.CP.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize and explain the concepts of conditional probability and independence in\neveryday language and everyday situations. For example, compare the chance of having\nlung cancer if you are a smoker with the chance of being a smoker if you have lung\ncancer.",
+      "comments": [],
+      "ancestorIds": [
+        "CA597315669544EBAA42FAC9C2F22A8F",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "CA597315669544EBAA42FAC9C2F22A8F"
+    },
+    "443F5DABF3354500B2A3DDD3E6B79BEF": {
+      "id": "443F5DABF3354500B2A3DDD3E6B79BEF",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "S.CP.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct and interpret two-way frequency tables of data when two categories are\nassociated with each object being classified. Use the two-way table as a sample space to\ndecide if events are independent and to approximate conditional probabilities. For\nexample, collect data from a random sample of students in your school on their favorite\nsubject among math, science, and English. Estimate the probability that a randomly\nselected student from your school will favor science given that the student is in tenth\ngrade. Do the same for other subjects and compare the results.",
+      "comments": [],
+      "ancestorIds": [
+        "CA597315669544EBAA42FAC9C2F22A8F",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "CA597315669544EBAA42FAC9C2F22A8F"
+    },
+    "7448BC7907264773AA9F2EB6561FB093": {
+      "id": "7448BC7907264773AA9F2EB6561FB093",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.CP.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the conditional probability of A given B as (P(AandB))/(P(B)), and interpret independence of A and B as saying that the conditional probability of A given B is the same as the probability of A,\nand the conditional probability of B given A is the same as the probability of B.",
+      "comments": [],
+      "ancestorIds": [
+        "CA597315669544EBAA42FAC9C2F22A8F",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "CA597315669544EBAA42FAC9C2F22A8F"
+    },
+    "991BD7D9478E4A2BA522D557E40DDD6F": {
+      "id": "991BD7D9478E4A2BA522D557E40DDD6F",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.CP.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that two events A and B are independent if the probability of A and B\noccurring together is the product of their probabilities, and use this characterization to\ndetermine if they are independent.",
+      "comments": [],
+      "ancestorIds": [
+        "CA597315669544EBAA42FAC9C2F22A8F",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "CA597315669544EBAA42FAC9C2F22A8F"
+    },
+    "6414A600DD5B4E59A4BF342DF8D4B820": {
+      "id": "6414A600DD5B4E59A4BF342DF8D4B820",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.CP.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe events as subsets of a sample space (the set of outcomes) using characteristics\n(or categories) of the outcomes, or as unions, intersections, or complements of other\nevents (“or,” “and,” “not”).",
+      "comments": [],
+      "ancestorIds": [
+        "CA597315669544EBAA42FAC9C2F22A8F",
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "CA597315669544EBAA42FAC9C2F22A8F"
+    },
+    "CA597315669544EBAA42FAC9C2F22A8F": {
+      "id": "CA597315669544EBAA42FAC9C2F22A8F",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "S.CP.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand independence and conditional probability and use them to interpret data",
+      "comments": [],
+      "ancestorIds": [
+        "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+      ],
+      "parentId": "F23B1CC7E2AE4C4FB9273EEF22C1AAFE"
+    },
+    "F23B1CC7E2AE4C4FB9273EEF22C1AAFE": {
+      "id": "F23B1CC7E2AE4C4FB9273EEF22C1AAFE",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 0,
+      "listId": "CP",
+      "statementNotation": "S.CP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conditional Probability and the Rules of Probability",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3BD39457B07F485BAF6FCAB6A2BD2725": {
+      "id": "3BD39457B07F485BAF6FCAB6A2BD2725",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "S.IC.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate reports based on data (e.g. interrogate study design, data sources,\nrandomization, the way the data are analyzed and displayed, inferences drawn and\nmethods used; identify and explain misleading uses of data; recognize when arguments\nbased on data are flawed).",
+      "comments": [],
+      "ancestorIds": [
+        "C1F7199F4ACA481791FB3F6A5F31EC36",
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "C1F7199F4ACA481791FB3F6A5F31EC36"
+    },
+    "E0BD876FB03246B5B5B745FB3E7E6C13": {
+      "id": "E0BD876FB03246B5B5B745FB3E7E6C13",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.IC.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use data from a randomized experiment to compare two treatments; use simulations to\ndecide if differences between parameters are significant.",
+      "comments": [],
+      "ancestorIds": [
+        "C1F7199F4ACA481791FB3F6A5F31EC36",
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "C1F7199F4ACA481791FB3F6A5F31EC36"
+    },
+    "70D383AF2AAE4E3997FE00D3EFD61BB4": {
+      "id": "70D383AF2AAE4E3997FE00D3EFD61BB4",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.IC.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use data from a sample survey to estimate a population mean or proportion; develop a\nmargin of error through the use of simulation models for random sampling.",
+      "comments": [],
+      "ancestorIds": [
+        "C1F7199F4ACA481791FB3F6A5F31EC36",
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "C1F7199F4ACA481791FB3F6A5F31EC36"
+    },
+    "8D99242C5254410F909D4DCD33956399": {
+      "id": "8D99242C5254410F909D4DCD33956399",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.IC.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize the purposes of and differences among sample surveys, experiments, and\nobservational studies; explain how randomization relates to each.",
+      "comments": [],
+      "ancestorIds": [
+        "C1F7199F4ACA481791FB3F6A5F31EC36",
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "C1F7199F4ACA481791FB3F6A5F31EC36"
+    },
+    "C1F7199F4ACA481791FB3F6A5F31EC36": {
+      "id": "C1F7199F4ACA481791FB3F6A5F31EC36",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "S.IC.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make inferences and justify conclusions from sample surveys, experiments, and observational\nstudies",
+      "comments": [],
+      "ancestorIds": [
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "742ADAC8ADB6485781225DC77C096738"
+    },
+    "B308287DD75441D0917F2CE10B39AC7E": {
+      "id": "B308287DD75441D0917F2CE10B39AC7E",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.IC.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decide if a specified model is consistent with results from a given data-generating\nprocess, e.g., using simulation. For example, a model says a spinning coin falls heads up\nwith probability 0.5. Would a result of 5 tails in a row cause you to question the model?",
+      "comments": [],
+      "ancestorIds": [
+        "82BE5346CCA041F693E98FAA2D85E067",
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "82BE5346CCA041F693E98FAA2D85E067"
+    },
+    "0DACB7337F9C41E9BD12106EDA462C12": {
+      "id": "0DACB7337F9C41E9BD12106EDA462C12",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.IC.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand statistics as a process for making inferences about population parameters\nbased on a random sample from that population.",
+      "comments": [],
+      "ancestorIds": [
+        "82BE5346CCA041F693E98FAA2D85E067",
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "82BE5346CCA041F693E98FAA2D85E067"
+    },
+    "82BE5346CCA041F693E98FAA2D85E067": {
+      "id": "82BE5346CCA041F693E98FAA2D85E067",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "S.IC.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand and evaluate random processes underlying statistical experiments",
+      "comments": [],
+      "ancestorIds": [
+        "742ADAC8ADB6485781225DC77C096738"
+      ],
+      "parentId": "742ADAC8ADB6485781225DC77C096738"
+    },
+    "742ADAC8ADB6485781225DC77C096738": {
+      "id": "742ADAC8ADB6485781225DC77C096738",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 0,
+      "listId": "IC",
+      "statementNotation": "S.IC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Making Inferences and Justifying Conclusions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A692F89817FB48C8BF8033FF94F2B16C": {
+      "id": "A692F89817FB48C8BF8033FF94F2B16C",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.ID.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Distinguish between correlation and causation.",
+      "comments": [],
+      "ancestorIds": [
+        "D757DC4F6C704F89866D0E660AEAA351",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "D757DC4F6C704F89866D0E660AEAA351"
+    },
+    "BDBA9816C7C64F66A1B8934CF475E581": {
+      "id": "BDBA9816C7C64F66A1B8934CF475E581",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.ID.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compute (using technology) and interpret the correlation coefficient of a linear fit.",
+      "comments": [],
+      "ancestorIds": [
+        "D757DC4F6C704F89866D0E660AEAA351",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "D757DC4F6C704F89866D0E660AEAA351"
+    },
+    "58BE034C85A54B6AB7BD9178255286B0": {
+      "id": "58BE034C85A54B6AB7BD9178255286B0",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.ID.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in\nthe context of the data.",
+      "comments": [],
+      "ancestorIds": [
+        "D757DC4F6C704F89866D0E660AEAA351",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "D757DC4F6C704F89866D0E660AEAA351"
+    },
+    "D757DC4F6C704F89866D0E660AEAA351": {
+      "id": "D757DC4F6C704F89866D0E660AEAA351",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "S.ID.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret linear models",
+      "comments": [],
+      "ancestorIds": [
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "D6BA6EF33BF242769F880122C7538A82"
+    },
+    "7D3493DA3D634351AB037CB8F4B48125": {
+      "id": "7D3493DA3D634351AB037CB8F4B48125",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "S.ID.B.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fit a linear function for a scatter plot that suggests a linear association.",
+      "comments": [],
+      "ancestorIds": [
+        "F7546BE5C2E6476787E5F80A691C50E1",
+        "C075DED7518042C89CAFE07EB36FB415",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "F7546BE5C2E6476787E5F80A691C50E1"
+    },
+    "02FD81BFFB1041408C08913C63260916": {
+      "id": "02FD81BFFB1041408C08913C63260916",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "S.ID.B.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Informally assess the fit of a function by plotting and analyzing residuals,\nincluding with the use of technology.",
+      "comments": [],
+      "ancestorIds": [
+        "F7546BE5C2E6476787E5F80A691C50E1",
+        "C075DED7518042C89CAFE07EB36FB415",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "F7546BE5C2E6476787E5F80A691C50E1"
+    },
+    "3013D2980F9D461AB3B55EBBA37C9231": {
+      "id": "3013D2980F9D461AB3B55EBBA37C9231",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "S.ID.B.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fit a function to the data (including with the use of technology); use functions\nfitted to data to solve problems in the context of the data. Use given functions or\nchoose a function suggested by the context. Emphasize linear and exponential\nmodels.",
+      "comments": [],
+      "ancestorIds": [
+        "F7546BE5C2E6476787E5F80A691C50E1",
+        "C075DED7518042C89CAFE07EB36FB415",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "F7546BE5C2E6476787E5F80A691C50E1"
+    },
+    "F7546BE5C2E6476787E5F80A691C50E1": {
+      "id": "F7546BE5C2E6476787E5F80A691C50E1",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.ID.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent data on two quantitative variables on a scatter plot and describe how the\nvariables are related.",
+      "comments": [],
+      "ancestorIds": [
+        "C075DED7518042C89CAFE07EB36FB415",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "C075DED7518042C89CAFE07EB36FB415"
+    },
+    "48F96C9AE36F4FF1AF19AC320AFD2013": {
+      "id": "48F96C9AE36F4FF1AF19AC320AFD2013",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.ID.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize categorical data for two categories in two-way frequency tables. Interpret\nrelative frequencies in the context of the data (including joint, marginal, and conditional relative frequencies). Recognize possible associations and trends in the data.",
+      "comments": [],
+      "ancestorIds": [
+        "C075DED7518042C89CAFE07EB36FB415",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "C075DED7518042C89CAFE07EB36FB415"
+    },
+    "C075DED7518042C89CAFE07EB36FB415": {
+      "id": "C075DED7518042C89CAFE07EB36FB415",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "S.ID.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize, represent, and interpret data on two categorical and quantitative variables",
+      "comments": [],
+      "ancestorIds": [
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "D6BA6EF33BF242769F880122C7538A82"
+    },
+    "FDEE2ADA5E954002B9C45F9EA169F7E5": {
+      "id": "FDEE2ADA5E954002B9C45F9EA169F7E5",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "S.ID.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the mean and standard deviation of a data set to fit it to a normal distribution and to\nestimate population percentages. Recognize that there are data sets for which such a\nprocedure is not appropriate. Use calculators, spreadsheets, and tables to estimate areas\nunder the normal curve.",
+      "comments": [],
+      "ancestorIds": [
+        "761E25860A4343278E7BA169FA28E533",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "761E25860A4343278E7BA169FA28E533"
+    },
+    "568B454176E74B72AF7D6F2E485C9DBA": {
+      "id": "568B454176E74B72AF7D6F2E485C9DBA",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "S.ID.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret differences in shape, center, and spread in the context of the data sets,\naccounting for possible effects of extreme data points (outliers).",
+      "comments": [],
+      "ancestorIds": [
+        "761E25860A4343278E7BA169FA28E533",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "761E25860A4343278E7BA169FA28E533"
+    },
+    "E80832701A9B42A5AC5129EBC3FF6C56": {
+      "id": "E80832701A9B42A5AC5129EBC3FF6C56",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "S.ID.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use statistics appropriate to the shape of the data distribution to compare center (median,\nmean) and spread (interquartile range, standard deviation) of two or more different data\nsets.",
+      "comments": [],
+      "ancestorIds": [
+        "761E25860A4343278E7BA169FA28E533",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "761E25860A4343278E7BA169FA28E533"
+    },
+    "C23742B066EC4CCD99808BEB59BB93AB": {
+      "id": "C23742B066EC4CCD99808BEB59BB93AB",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "S.ID.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent data with plots on the real number line (dot plots, histograms, and box plots).  ",
+      "comments": [],
+      "ancestorIds": [
+        "761E25860A4343278E7BA169FA28E533",
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "761E25860A4343278E7BA169FA28E533"
+    },
+    "761E25860A4343278E7BA169FA28E533": {
+      "id": "761E25860A4343278E7BA169FA28E533",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "S.ID.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize, represent, and interpret data on a single count or measurement variable",
+      "comments": [],
+      "ancestorIds": [
+        "D6BA6EF33BF242769F880122C7538A82"
+      ],
+      "parentId": "D6BA6EF33BF242769F880122C7538A82"
+    },
+    "D6BA6EF33BF242769F880122C7538A82": {
+      "id": "D6BA6EF33BF242769F880122C7538A82",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "ID",
+      "statementNotation": "S.ID",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpreting Categorical and Quantitative Data",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

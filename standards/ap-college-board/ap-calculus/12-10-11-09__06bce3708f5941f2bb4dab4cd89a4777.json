@@ -1,0 +1,5148 @@
+{
+  "id": "06BCE3708F5941F2BB4DAB4CD89A4777",
+  "title": "AP Calculus AB & BC (2020)",
+  "subject": "AP Calculus",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12",
+    "10",
+    "11",
+    "09"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "AP Calculus AB and BC Course and Exam Description",
+    "sourceURL": "https://apcentral.collegeboard.org/pdf/ap-calculus-ab-bc-course-and-exam-description-0.pdf?course=ap-calculus-ab"
+  },
+  "jurisdiction": {
+    "id": "0A5FD99233A74D8FA3A74F52E5F6CDEC",
+    "title": "AP/College Board"
+  },
+  "standards": {
+    "40A7CF4ECD8741B29BC7E8CE35713A38": {
+      "id": "40A7CF4ECD8741B29BC7E8CE35713A38",
+      "asnIdentifier": null,
+      "position": 231006,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-8.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For a particle in planar motion over an interval\nof time, the definite integral of the velocity\nvector represents the particle’s displacement\n(net change in position) over the interval\nof time, from which we might determine\nits position. The definite integral of speed\nrepresents the particle’s total distance traveled\nover the interval of time. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "57E8CAAAFC7645EE8F27C014BFA12EFA",
+        "B2239822438A47AD9E76AF53E3F1DFC0",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "57E8CAAAFC7645EE8F27C014BFA12EFA"
+    },
+    "A4ADE897EB324D428EBD05C3DCC24C10": {
+      "id": "A4ADE897EB324D428EBD05C3DCC24C10",
+      "asnIdentifier": null,
+      "position": 231005,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-8.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives can be used to determine velocity,\nspeed, and acceleration for a particle moving\nalong a curve in the plane defined using\nparametric or vector-valued functions.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "57E8CAAAFC7645EE8F27C014BFA12EFA",
+        "B2239822438A47AD9E76AF53E3F1DFC0",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "57E8CAAAFC7645EE8F27C014BFA12EFA"
+    },
+    "57E8CAAAFC7645EE8F27C014BFA12EFA": {
+      "id": "57E8CAAAFC7645EE8F27C014BFA12EFA",
+      "asnIdentifier": null,
+      "position": 231004,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "FUN-8.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine values for\npositions and rates of change\nin problems involving planar\nmotion. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "B2239822438A47AD9E76AF53E3F1DFC0",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B2239822438A47AD9E76AF53E3F1DFC0"
+    },
+    "8957D44009DA4EB9A2A5E1AC5B702C7E": {
+      "id": "8957D44009DA4EB9A2A5E1AC5B702C7E",
+      "asnIdentifier": null,
+      "position": 231003,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-8.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Methods for calculating integrals of real-valued\nfunctions can be extended to parametric or\nvector-valued functions. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "53A05A08DBC0484CA6CF8D95B145C46A",
+        "B2239822438A47AD9E76AF53E3F1DFC0",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "53A05A08DBC0484CA6CF8D95B145C46A"
+    },
+    "53A05A08DBC0484CA6CF8D95B145C46A": {
+      "id": "53A05A08DBC0484CA6CF8D95B145C46A",
+      "asnIdentifier": null,
+      "position": 231002,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-8.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine a particular\nsolution given a rate vector\nand initial conditions.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "B2239822438A47AD9E76AF53E3F1DFC0",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B2239822438A47AD9E76AF53E3F1DFC0"
+    },
+    "B2239822438A47AD9E76AF53E3F1DFC0": {
+      "id": "B2239822438A47AD9E76AF53E3F1DFC0",
+      "asnIdentifier": null,
+      "position": 231001,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "FUN-8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solving an initial value problem allows us to determine an expression for the position\nof a particle moving in the plane",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "5E8D5C85DCB8416EA00BBCFB13CD801E": {
+      "id": "5E8D5C85DCB8416EA00BBCFB13CD801E",
+      "asnIdentifier": null,
+      "position": 231000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "FUN-7.H.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The value of the dependent variable in a\nlogistic differential equation at the point when\nit is changing fastest can be determined using\nthe logistic growth model and initial conditions.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "19FB2FEF77AC4A33AF6EDA3BB75B264E",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "19FB2FEF77AC4A33AF6EDA3BB75B264E"
+    },
+    "5932BBBEF4EB4CCF8EE86D27CED27B44": {
+      "id": "5932BBBEF4EB4CCF8EE86D27CED27B44",
+      "asnIdentifier": null,
+      "position": 230000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-7.H.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The limiting value (carrying capacity)\nof a logistic differential equation as the\nindependent variable approaches infinity can\nbe determined using the logistic growth model\nand initial conditions. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "19FB2FEF77AC4A33AF6EDA3BB75B264E",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "19FB2FEF77AC4A33AF6EDA3BB75B264E"
+    },
+    "F1119142B5C644D4A3134DEA86204CCB": {
+      "id": "F1119142B5C644D4A3134DEA86204CCB",
+      "asnIdentifier": null,
+      "position": 229000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-7.H.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The logistic differential equation and initial\nconditions can be interpreted without solving\nthe differential equation. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "19FB2FEF77AC4A33AF6EDA3BB75B264E",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "19FB2FEF77AC4A33AF6EDA3BB75B264E"
+    },
+    "43DECF4E584E4754A0F34CFE6478CE31": {
+      "id": "43DECF4E584E4754A0F34CFE6478CE31",
+      "asnIdentifier": null,
+      "position": 228000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.H.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The model for logistic growth that arises from\nthe statement “The rate of change of a quantity\nis jointly proportional to the size of the quantity\nand the difference between the quantity and the\ncarrying capacity",
+      "comments": [],
+      "ancestorIds": [
+        "19FB2FEF77AC4A33AF6EDA3BB75B264E",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "19FB2FEF77AC4A33AF6EDA3BB75B264E"
+    },
+    "19FB2FEF77AC4A33AF6EDA3BB75B264E": {
+      "id": "19FB2FEF77AC4A33AF6EDA3BB75B264E",
+      "asnIdentifier": null,
+      "position": 227000,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "FUN-7.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of\nthe logistic growth model in\ncontext. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "B77B858B2AFD4803AA0B8A2342214B99": {
+      "id": "B77B858B2AFD4803AA0B8A2342214B99",
+      "asnIdentifier": null,
+      "position": 226000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.G.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The exponential growth and decay model  with initial condition y = y_0 when t = 0,\nhas solutions of the form.",
+      "comments": [],
+      "ancestorIds": [
+        "8521912E5A994AF7AA4677F996D4AD77",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "8521912E5A994AF7AA4677F996D4AD77"
+    },
+    "8521912E5A994AF7AA4677F996D4AD77": {
+      "id": "8521912E5A994AF7AA4677F996D4AD77",
+      "asnIdentifier": null,
+      "position": 225000,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "FUN-7.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine general and\nparticular solutions\nfor problems involving\ndifferential equations\nin context.",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "3E387AC4AF2C49BABE5DB13159ABB7E2": {
+      "id": "3E387AC4AF2C49BABE5DB13159ABB7E2",
+      "asnIdentifier": null,
+      "position": 224000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-7.F.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The model for exponential growth and decay\nthat arises from the statement “The rate of\nchange of a quantity is proportional to the size\nof the quantity”",
+      "comments": [],
+      "ancestorIds": [
+        "CADB4598F5544B4983DEF8F7E2394DAC",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "CADB4598F5544B4983DEF8F7E2394DAC"
+    },
+    "8C3469254D214F0580614D389D0F1D21": {
+      "id": "8C3469254D214F0580614D389D0F1D21",
+      "asnIdentifier": null,
+      "position": 223000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specific applications of finding general and\nparticular solutions to differential equations\ninclude motion along a line and exponential\ngrowth and decay.",
+      "comments": [],
+      "ancestorIds": [
+        "CADB4598F5544B4983DEF8F7E2394DAC",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "CADB4598F5544B4983DEF8F7E2394DAC"
+    },
+    "CADB4598F5544B4983DEF8F7E2394DAC": {
+      "id": "CADB4598F5544B4983DEF8F7E2394DAC",
+      "asnIdentifier": null,
+      "position": 222000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "FUN-7.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of a\ndifferential equation and its\nvariables in context.",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "006C244C86E848B3B3C428092E82A888": {
+      "id": "006C244C86E848B3B3C428092E82A888",
+      "asnIdentifier": null,
+      "position": 221000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-7.E.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solutions to differential equations may be\nsubject to domain restrictions.",
+      "comments": [],
+      "ancestorIds": [
+        "82972C91AED141E9B6429BE9D832D68B",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "82972C91AED141E9B6429BE9D832D68B"
+    },
+    "225A75056E4B4BFB87A88585E34A7788": {
+      "id": "225A75056E4B4BFB87A88585E34A7788",
+      "asnIdentifier": null,
+      "position": 220000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-7.E.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The function F defined is a particular solution to the differential\nequation satisfying  F( a)= y_0.",
+      "comments": [],
+      "ancestorIds": [
+        "82972C91AED141E9B6429BE9D832D68B",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "82972C91AED141E9B6429BE9D832D68B"
+    },
+    "14B49FED9C494705B6B1D606A93CF32A": {
+      "id": "14B49FED9C494705B6B1D606A93CF32A",
+      "asnIdentifier": null,
+      "position": 219000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A general solution may describe infinitely many\nsolutions to a differential equation. There is\nonly one particular solution passing through a\ngiven point.",
+      "comments": [],
+      "ancestorIds": [
+        "82972C91AED141E9B6429BE9D832D68B",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "82972C91AED141E9B6429BE9D832D68B"
+    },
+    "82972C91AED141E9B6429BE9D832D68B": {
+      "id": "82972C91AED141E9B6429BE9D832D68B",
+      "asnIdentifier": null,
+      "position": 218000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "FUN-7.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine particular\nsolutions to differential\nequations..",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "375456F1449749BEBAF6E2296943DE95": {
+      "id": "375456F1449749BEBAF6E2296943DE95",
+      "asnIdentifier": null,
+      "position": 217000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-7.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Antidifferentiation can be used to find general\nsolutions to differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "9C0342DEAD2C47ED8E1E5AF0E9878CC2",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "9C0342DEAD2C47ED8E1E5AF0E9878CC2"
+    },
+    "E3D65C9AE96D430FAEBE58EF174AE6B2": {
+      "id": "E3D65C9AE96D430FAEBE58EF174AE6B2",
+      "asnIdentifier": null,
+      "position": 216000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Some differential equations can be solved by\nseparation of variables.",
+      "comments": [],
+      "ancestorIds": [
+        "9C0342DEAD2C47ED8E1E5AF0E9878CC2",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "9C0342DEAD2C47ED8E1E5AF0E9878CC2"
+    },
+    "9C0342DEAD2C47ED8E1E5AF0E9878CC2": {
+      "id": "9C0342DEAD2C47ED8E1E5AF0E9878CC2",
+      "asnIdentifier": null,
+      "position": 215000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "FUN-7.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine general solutions\nto differential equations",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "4BDB703D562C4F52BFC4BF57AFA375EB": {
+      "id": "4BDB703D562C4F52BFC4BF57AFA375EB",
+      "asnIdentifier": null,
+      "position": 214000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "FUN-7.C.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Euler’s method provides a procedure for\napproximating a solution to a differential equation\nor a point on a solution curve. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "C4E77BA13F8D4FEEA93CACDB8EFB8D9D",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C4E77BA13F8D4FEEA93CACDB8EFB8D9D"
+    },
+    "0F764EE1252B44A4B154015D2CA7A101": {
+      "id": "0F764EE1252B44A4B154015D2CA7A101",
+      "asnIdentifier": null,
+      "position": 213000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-7.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solutions to differential equations are functions\nor families of functions.",
+      "comments": [],
+      "ancestorIds": [
+        "C4E77BA13F8D4FEEA93CACDB8EFB8D9D",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C4E77BA13F8D4FEEA93CACDB8EFB8D9D"
+    },
+    "2D98EF457F1F4919AC7C1C51939E4F6A": {
+      "id": "2D98EF457F1F4919AC7C1C51939E4F6A",
+      "asnIdentifier": null,
+      "position": 212000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-7.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Slope fields provide information about the\nbehavior of solutions to first-order differential\nequations.",
+      "comments": [],
+      "ancestorIds": [
+        "C4E77BA13F8D4FEEA93CACDB8EFB8D9D",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C4E77BA13F8D4FEEA93CACDB8EFB8D9D"
+    },
+    "E9669A4FB3E84DB49A8B0BD229426275": {
+      "id": "E9669A4FB3E84DB49A8B0BD229426275",
+      "asnIdentifier": null,
+      "position": 211000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A slope field is a graphical representation of a\ndifferential equation on a finite set of points in\nthe plane.",
+      "comments": [],
+      "ancestorIds": [
+        "C4E77BA13F8D4FEEA93CACDB8EFB8D9D",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C4E77BA13F8D4FEEA93CACDB8EFB8D9D"
+    },
+    "C4E77BA13F8D4FEEA93CACDB8EFB8D9D": {
+      "id": "C4E77BA13F8D4FEEA93CACDB8EFB8D9D",
+      "asnIdentifier": null,
+      "position": 210000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FUN-7.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate solutions to\ndifferential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "A469BE196875499CA218560284D9B296": {
+      "id": "A469BE196875499CA218560284D9B296",
+      "asnIdentifier": null,
+      "position": 209000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-7.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "There may be infinitely many general solutions\nto a differential equation.",
+      "comments": [],
+      "ancestorIds": [
+        "68642A68997C414E8BE5B5E358155493",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "68642A68997C414E8BE5B5E358155493"
+    },
+    "80FD662766214677832D943D04D7653A": {
+      "id": "80FD662766214677832D943D04D7653A",
+      "asnIdentifier": null,
+      "position": 208000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives can be used to verify that a\nfunction is a solution to a given differential\nequation.",
+      "comments": [],
+      "ancestorIds": [
+        "68642A68997C414E8BE5B5E358155493",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "68642A68997C414E8BE5B5E358155493"
+    },
+    "68642A68997C414E8BE5B5E358155493": {
+      "id": "68642A68997C414E8BE5B5E358155493",
+      "asnIdentifier": null,
+      "position": 207000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "FUN-7.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Verify solutions to differential\nequations.",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "8E2FA026FCB242BDA1BCF4129666458D": {
+      "id": "8E2FA026FCB242BDA1BCF4129666458D",
+      "asnIdentifier": null,
+      "position": 206000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-7.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differential equations relate a function of\nan independent variable and the function’s\nderivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "E33515F5CF414821B713B69367AA6D32",
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "E33515F5CF414821B713B69367AA6D32"
+    },
+    "E33515F5CF414821B713B69367AA6D32": {
+      "id": "E33515F5CF414821B713B69367AA6D32",
+      "asnIdentifier": null,
+      "position": 205000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-7.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret verbal statements\nof problems as differential\nequations involving a\nderivative expression.",
+      "comments": [],
+      "ancestorIds": [
+        "743C8ED9134F4536835A13319E991353",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "743C8ED9134F4536835A13319E991353"
+    },
+    "743C8ED9134F4536835A13319E991353": {
+      "id": "743C8ED9134F4536835A13319E991353",
+      "asnIdentifier": null,
+      "position": 204000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "FUN-7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solving differential equations allows us to determine functions and develop models. ",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "8E78CE0D5C7C481D9031A9F92F5565B0": {
+      "id": "8E78CE0D5C7C481D9031A9F92F5565B0",
+      "asnIdentifier": null,
+      "position": 203000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-6.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Some rational functions can be decomposed\ninto sums of ratios of linear, nonrepeating\nfactors to which basic integration techniques\ncan be applied. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "7D97B9BEE5864006AF627DAB50AE1960",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D97B9BEE5864006AF627DAB50AE1960"
+    },
+    "7D97B9BEE5864006AF627DAB50AE1960": {
+      "id": "7D97B9BEE5864006AF627DAB50AE1960",
+      "asnIdentifier": null,
+      "position": 202000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "FUN-6.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For integrands requiring\nintegration by linear partial\nfractions:\n(a) Determine indefinite\nintegrals. bc only\n(b) Evaluate definite\nintegrals. bc only ",
+      "comments": [],
+      "ancestorIds": [
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D6A75971E174C7B902ECFC1AFB63541"
+    },
+    "FC055FE0515B4CB6AEA4D14C9ECFA8FD": {
+      "id": "FC055FE0515B4CB6AEA4D14C9ECFA8FD",
+      "asnIdentifier": null,
+      "position": 201000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-6.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integration by parts is a technique for finding\nantiderivatives. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "AD93F3C627794C35B394D89E56145FFC",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "AD93F3C627794C35B394D89E56145FFC"
+    },
+    "AD93F3C627794C35B394D89E56145FFC": {
+      "id": "AD93F3C627794C35B394D89E56145FFC",
+      "asnIdentifier": null,
+      "position": 200000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "FUN-6.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For integrands requiring\nintegration by parts:\n(a) Determine indefinite\nintegrals. bc only\n(b) Evaluate definite\nintegrals. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D6A75971E174C7B902ECFC1AFB63541"
+    },
+    "D8F85236A10245EDBCFB481DA0C45E13": {
+      "id": "D8F85236A10245EDBCFB481DA0C45E13",
+      "asnIdentifier": null,
+      "position": 199000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-6.D.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Techniques for finding antiderivatives include\nrearrangements into equivalent forms, such as\nlong division and completing the square.",
+      "comments": [],
+      "ancestorIds": [
+        "B869A4F2D5AD4ED48059BBA013E83041",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B869A4F2D5AD4ED48059BBA013E83041"
+    },
+    "C15419023D5E4EF2AE851265E3EF0BED": {
+      "id": "C15419023D5E4EF2AE851265E3EF0BED",
+      "asnIdentifier": null,
+      "position": 198000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-6.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For a definite integral, substitution of variables\nrequires corresponding changes to the limits of\nintegration.",
+      "comments": [],
+      "ancestorIds": [
+        "B869A4F2D5AD4ED48059BBA013E83041",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B869A4F2D5AD4ED48059BBA013E83041"
+    },
+    "E7A5A4F77A3B4FEDA71ADEF2D435B50B": {
+      "id": "E7A5A4F77A3B4FEDA71ADEF2D435B50B",
+      "asnIdentifier": null,
+      "position": 197000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-6.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Substitution of variables is a technique for\nfinding antiderivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "B869A4F2D5AD4ED48059BBA013E83041",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B869A4F2D5AD4ED48059BBA013E83041"
+    },
+    "B869A4F2D5AD4ED48059BBA013E83041": {
+      "id": "B869A4F2D5AD4ED48059BBA013E83041",
+      "asnIdentifier": null,
+      "position": 196000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "FUN-6.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For integrands\nrequiring substitution\nor rearrangements into\nequivalent forms:\n(a) Determine indefinite\nintegrals.\n(b) Evaluate definite\nintegrals",
+      "comments": [],
+      "ancestorIds": [
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D6A75971E174C7B902ECFC1AFB63541"
+    },
+    "D0B543F473254BEFAC5AC4D1F1B1CC51": {
+      "id": "D0B543F473254BEFAC5AC4D1F1B1CC51",
+      "asnIdentifier": null,
+      "position": 195000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-6.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Many functions do not have closed-form\nantiderivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "6E07E68C3AF1435A8E301869CB354B0C",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "6E07E68C3AF1435A8E301869CB354B0C"
+    },
+    "F2B0F316DD5949F2BEA9F624C2AA7CC9": {
+      "id": "F2B0F316DD5949F2BEA9F624C2AA7CC9",
+      "asnIdentifier": null,
+      "position": 194000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-6.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiation rules provide the foundation for\nfinding antiderivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "6E07E68C3AF1435A8E301869CB354B0C",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "6E07E68C3AF1435A8E301869CB354B0C"
+    },
+    "A339E5059B0A431FBBA73B7A445DE6DC": {
+      "id": "A339E5059B0A431FBBA73B7A445DE6DC",
+      "asnIdentifier": null,
+      "position": 193000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-6.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " an indefinite integral of the function\nf and can be expressed where F'(x)= f(x) cand C is any constant.",
+      "comments": [],
+      "ancestorIds": [
+        "6E07E68C3AF1435A8E301869CB354B0C",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "6E07E68C3AF1435A8E301869CB354B0C"
+    },
+    "6E07E68C3AF1435A8E301869CB354B0C": {
+      "id": "6E07E68C3AF1435A8E301869CB354B0C",
+      "asnIdentifier": null,
+      "position": 192000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FUN-6.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine antiderivatives\nof functions and indefinite\nintegrals, using knowledge\nof derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D6A75971E174C7B902ECFC1AFB63541"
+    },
+    "1898C5C9BFAF4271A1D581F4F529ED74": {
+      "id": "1898C5C9BFAF4271A1D581F4F529ED74",
+      "asnIdentifier": null,
+      "position": 191000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-6.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If f is continuous on the interval [a, b] and F is an\nantiderivative of f, ",
+      "comments": [],
+      "ancestorIds": [
+        "207DA3B66A3D49E4936367D1105B83F3",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "207DA3B66A3D49E4936367D1105B83F3"
+    },
+    "D1BEE4D2D7F048AF9AF8996278D59679": {
+      "id": "D1BEE4D2D7F048AF9AF8996278D59679",
+      "asnIdentifier": null,
+      "position": 190000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-6.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a function f is continuous on an interval\ncontaining a, the function defined is an antiderivative of f for x\nin the interval",
+      "comments": [],
+      "ancestorIds": [
+        "207DA3B66A3D49E4936367D1105B83F3",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "207DA3B66A3D49E4936367D1105B83F3"
+    },
+    "17FC79436D7443F7B7A4139F5E8E67FA": {
+      "id": "17FC79436D7443F7B7A4139F5E8E67FA",
+      "asnIdentifier": null,
+      "position": 189000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-6.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "An antiderivative of a function f is a function g\nwhose derivative is f.",
+      "comments": [],
+      "ancestorIds": [
+        "207DA3B66A3D49E4936367D1105B83F3",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "207DA3B66A3D49E4936367D1105B83F3"
+    },
+    "207DA3B66A3D49E4936367D1105B83F3": {
+      "id": "207DA3B66A3D49E4936367D1105B83F3",
+      "asnIdentifier": null,
+      "position": 188000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "FUN-6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate definite integrals\nanalytically using the\nFundamental Theorem of\nCalculus.",
+      "comments": [],
+      "ancestorIds": [
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D6A75971E174C7B902ECFC1AFB63541"
+    },
+    "CA7A700C9E9A4ABE9985A64E0A0943E1": {
+      "id": "CA7A700C9E9A4ABE9985A64E0A0943E1",
+      "asnIdentifier": null,
+      "position": 187000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-6.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definition of the definite integral may be\nextended to functions with removable or jump\ndiscontinuities.",
+      "comments": [],
+      "ancestorIds": [
+        "E287B4F85DED4334A36C2BB9B09EA746",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "E287B4F85DED4334A36C2BB9B09EA746"
+    },
+    "3D61CD5F53DD4A169E1AC0A1FEBDD02D": {
+      "id": "3D61CD5F53DD4A169E1AC0A1FEBDD02D",
+      "asnIdentifier": null,
+      "position": 186000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-6.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Properties of definite integrals include the\nintegral of a constant times a function, the\nintegral of the sum of two functions, reversal\nof limits of integration, and the integral of a\nfunction over adjacent intervals.",
+      "comments": [],
+      "ancestorIds": [
+        "E287B4F85DED4334A36C2BB9B09EA746",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "E287B4F85DED4334A36C2BB9B09EA746"
+    },
+    "7C0A33ADF06244B3B818226095988AE1": {
+      "id": "7C0A33ADF06244B3B818226095988AE1",
+      "asnIdentifier": null,
+      "position": 185000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-6.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In some cases, a definite integral can be\nevaluated by using geometry and the\nconnection between the definite integral and\narea.",
+      "comments": [],
+      "ancestorIds": [
+        "E287B4F85DED4334A36C2BB9B09EA746",
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "E287B4F85DED4334A36C2BB9B09EA746"
+    },
+    "E287B4F85DED4334A36C2BB9B09EA746": {
+      "id": "E287B4F85DED4334A36C2BB9B09EA746",
+      "asnIdentifier": null,
+      "position": 184000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate a definite integral\nusing areas and properties of\ndefinite integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "7D6A75971E174C7B902ECFC1AFB63541",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7D6A75971E174C7B902ECFC1AFB63541"
+    },
+    "7D6A75971E174C7B902ECFC1AFB63541": {
+      "id": "7D6A75971E174C7B902ECFC1AFB63541",
+      "asnIdentifier": null,
+      "position": 183000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "FUN-6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognizing opportunities to apply knowledge of geometry and mathematical rules\ncan simplify integration.",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "AE88C3556C694EB9A88844BE275288AB": {
+      "id": "AE88C3556C694EB9A88844BE275288AB",
+      "asnIdentifier": null,
+      "position": 182000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-5.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graphical, numerical, analytical, and verbal\nrepresentations of a function f provide\ninformation about the function g defined.",
+      "comments": [],
+      "ancestorIds": [
+        "3925E7EFAB4F44B2A6C0052AA45190B8",
+        "E8A1A1D191BF448DABD594C5F4B6E4B7",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3925E7EFAB4F44B2A6C0052AA45190B8"
+    },
+    "73E3600B13D245BCAD906B781BB052C5": {
+      "id": "73E3600B13D245BCAD906B781BB052C5",
+      "asnIdentifier": null,
+      "position": 181000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-5.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If f is a continuous function on an interval\ncontaining a, where\nx is in the interval.",
+      "comments": [],
+      "ancestorIds": [
+        "3925E7EFAB4F44B2A6C0052AA45190B8",
+        "E8A1A1D191BF448DABD594C5F4B6E4B7",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3925E7EFAB4F44B2A6C0052AA45190B8"
+    },
+    "F865163E59B040978580061BECCDD721": {
+      "id": "F865163E59B040978580061BECCDD721",
+      "asnIdentifier": null,
+      "position": 180000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-5.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent accumulation\nfunctions using definite\nintegrals.",
+      "comments": [],
+      "ancestorIds": [
+        "3925E7EFAB4F44B2A6C0052AA45190B8",
+        "E8A1A1D191BF448DABD594C5F4B6E4B7",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3925E7EFAB4F44B2A6C0052AA45190B8"
+    },
+    "3925E7EFAB4F44B2A6C0052AA45190B8": {
+      "id": "3925E7EFAB4F44B2A6C0052AA45190B8",
+      "asnIdentifier": null,
+      "position": 179000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent accumulation\nfunctions using definite\nintegrals.",
+      "comments": [],
+      "ancestorIds": [
+        "E8A1A1D191BF448DABD594C5F4B6E4B7",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "E8A1A1D191BF448DABD594C5F4B6E4B7"
+    },
+    "E8A1A1D191BF448DABD594C5F4B6E4B7": {
+      "id": "E8A1A1D191BF448DABD594C5F4B6E4B7",
+      "asnIdentifier": null,
+      "position": 178000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "FUN-5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Fundamental Theorem of Calculus connects differentiation and integration.",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "E7ED06D28DDE4D0383175AE2BAC5AEB8": {
+      "id": "E7ED06D28DDE4D0383175AE2BAC5AEB8",
+      "asnIdentifier": null,
+      "position": 177000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "FUN-4.E.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Second derivatives involving implicit\ndifferentiation may be relations of x, y",
+      "comments": [],
+      "ancestorIds": [
+        "2C63C3C941E049F88441864D4AD4380F",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "2C63C3C941E049F88441864D4AD4380F"
+    },
+    "FE622C1B367848B489FC0946AAA46865": {
+      "id": "FE622C1B367848B489FC0946AAA46865",
+      "asnIdentifier": null,
+      "position": 176000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "FUN-4.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applications of derivatives can be extended to\nimplicitly defined functions.",
+      "comments": [],
+      "ancestorIds": [
+        "2C63C3C941E049F88441864D4AD4380F",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "2C63C3C941E049F88441864D4AD4380F"
+    },
+    "2C63C3C941E049F88441864D4AD4380F": {
+      "id": "2C63C3C941E049F88441864D4AD4380F",
+      "asnIdentifier": null,
+      "position": 175000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "FUN-4.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about\nthe behavior of an implicitly\ndefined function based on\nevidence from its derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3AE805656D4B4B0992C2D1CF5DA419DC"
+    },
+    "BF6AD74902B14C18B5FE7EB350E7D521": {
+      "id": "BF6AD74902B14C18B5FE7EB350E7D521",
+      "asnIdentifier": null,
+      "position": 174000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "FUN-4.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A point on an implicit relation where the first\nderivative equals zero or does not exist is a\ncritical point of the function.",
+      "comments": [],
+      "ancestorIds": [
+        "336BFFF5A3DE477E8457A1A9CB96926F",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "336BFFF5A3DE477E8457A1A9CB96926F"
+    },
+    "336BFFF5A3DE477E8457A1A9CB96926F": {
+      "id": "336BFFF5A3DE477E8457A1A9CB96926F",
+      "asnIdentifier": null,
+      "position": 173000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "FUN-4.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine critical points of\nimplicit relations.",
+      "comments": [],
+      "ancestorIds": [
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3AE805656D4B4B0992C2D1CF5DA419DC"
+    },
+    "44B07F79D24E4E93932EB28CCABD9B46": {
+      "id": "44B07F79D24E4E93932EB28CCABD9B46",
+      "asnIdentifier": null,
+      "position": 172000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-4.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Minimum and maximum values of a function\ntake on specific meanings in applied contexts",
+      "comments": [],
+      "ancestorIds": [
+        "7B4C8D7A3C604C1D914BA678E8F00BA0",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "7B4C8D7A3C604C1D914BA678E8F00BA0"
+    },
+    "7B4C8D7A3C604C1D914BA678E8F00BA0": {
+      "id": "7B4C8D7A3C604C1D914BA678E8F00BA0",
+      "asnIdentifier": null,
+      "position": 171000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FUN-4.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret minimum and\nmaximum values calculated\nin applied contexts",
+      "comments": [],
+      "ancestorIds": [
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3AE805656D4B4B0992C2D1CF5DA419DC"
+    },
+    "3A9C398720E44B59919EC386780E6EB5": {
+      "id": "3A9C398720E44B59919EC386780E6EB5",
+      "asnIdentifier": null,
+      "position": 170000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-4.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative can be used to solve\noptimization problems; that is, finding a\nminimum or maximum value of a function on a\ngiven interval.",
+      "comments": [],
+      "ancestorIds": [
+        "0CB8AB8DCE3D4A12987F5DC1080BE8C8",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "0CB8AB8DCE3D4A12987F5DC1080BE8C8"
+    },
+    "0CB8AB8DCE3D4A12987F5DC1080BE8C8": {
+      "id": "0CB8AB8DCE3D4A12987F5DC1080BE8C8",
+      "asnIdentifier": null,
+      "position": 169000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "FUN-4.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate minimum and\nmaximum values in applied\ncontexts or analysis of\nfunctions.",
+      "comments": [],
+      "ancestorIds": [
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3AE805656D4B4B0992C2D1CF5DA419DC"
+    },
+    "4ACB7474DB0846E1B97B3DAC1C78F394": {
+      "id": "4ACB7474DB0846E1B97B3DAC1C78F394",
+      "asnIdentifier": null,
+      "position": 168000,
+      "depth": 3,
+      "listId": "11",
+      "statementNotation": "FUN-4.A.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Key features of the graphs of f, f', and f\" are\nrelated to one another.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "8C4EEB2B9F5C46C88854F150CC631660": {
+      "id": "8C4EEB2B9F5C46C88854F150CC631660",
+      "asnIdentifier": null,
+      "position": 167000,
+      "depth": 3,
+      "listId": "10",
+      "statementNotation": "FUN-4.A.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graphical, numerical, and analytical information\nfrom f' and f\" can be used to predict and\nexplain the behavior of f.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "9D57DB57ABC543429C6D4EA8D33365F6": {
+      "id": "9D57DB57ABC543429C6D4EA8D33365F6",
+      "asnIdentifier": null,
+      "position": 166000,
+      "depth": 3,
+      "listId": "9",
+      "statementNotation": "FUN-4.A.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Key features of functions and their derivatives\ncan be identified and related to their graphical,\nnumerical, and analytical representations.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "230AF95DB7FC454785FC242C1338FF54": {
+      "id": "230AF95DB7FC454785FC242C1338FF54",
+      "asnIdentifier": null,
+      "position": 165000,
+      "depth": 3,
+      "listId": "8",
+      "statementNotation": "FUN-4.A.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "When a continuous function has only one\ncritical point on an interval on its domain and\nthe critical point corresponds to a relative\n(local) extremum of the function on the interval,\nthen that critical point also corresponds to the\nabsolute (global) extremum of the function on\nthe interval.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "C66C2654750146E583BEAF3B6F5FF8BD": {
+      "id": "C66C2654750146E583BEAF3B6F5FF8BD",
+      "asnIdentifier": null,
+      "position": 164000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "FUN-4.A.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The second derivative of a function may\ndetermine whether a critical point is the\nlocation of a relative (local) maximum or\nminimum.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "CF145EFC4D7746379B73F2566D1909E0": {
+      "id": "CF145EFC4D7746379B73F2566D1909E0",
+      "asnIdentifier": null,
+      "position": 163000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "FUN-4.A.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The second derivative of a function may be\nused to locate points of inflection for the graph\nof the original function.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "E3F69DB834FF45CE95D0B7AA249800C3": {
+      "id": "E3F69DB834FF45CE95D0B7AA249800C3",
+      "asnIdentifier": null,
+      "position": 162000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "FUN-4.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The second derivative of a function provides\ninformation about the function and its graph,\nincluding intervals of upward or downward\nconcavity",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "D77E2AF8C8034152BE152B4B25E91825": {
+      "id": "D77E2AF8C8034152BE152B4B25E91825",
+      "asnIdentifier": null,
+      "position": 161000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "FUN-4.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The graph of a function is concave up (down)\non an open interval if the function’s derivative\nis increasing (decreasing) on that interval.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "A57D2E9EDBDB4E1FBEEAA6FC7963975C": {
+      "id": "A57D2E9EDBDB4E1FBEEAA6FC7963975C",
+      "asnIdentifier": null,
+      "position": 160000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-4.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Absolute (global) extrema of a function on a\nclosed interval can only occur at critical points\nor at endpoints.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "AAD7B246964C44CD9711249DB6F1D3F2": {
+      "id": "AAD7B246964C44CD9711249DB6F1D3F2",
+      "asnIdentifier": null,
+      "position": 159000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-4.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The first derivative of a function can determine\nthe location of relative (local) extrema of the\nfunction.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "01936EC9668048898F2A498653E40A0B": {
+      "id": "01936EC9668048898F2A498653E40A0B",
+      "asnIdentifier": null,
+      "position": 158000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-4.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The first derivative of a function can provide\ninformation about the function and its graph,\nincluding intervals where the function is\nincreasing or decreasing.",
+      "comments": [],
+      "ancestorIds": [
+        "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "C37AA512CBEB4E9BA1CCFCC4EBECC628"
+    },
+    "C37AA512CBEB4E9BA1CCFCC4EBECC628": {
+      "id": "C37AA512CBEB4E9BA1CCFCC4EBECC628",
+      "asnIdentifier": null,
+      "position": 157000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about\nthe behavior of a function\nbased on the behavior of its\nderivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "3AE805656D4B4B0992C2D1CF5DA419DC",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "3AE805656D4B4B0992C2D1CF5DA419DC"
+    },
+    "3AE805656D4B4B0992C2D1CF5DA419DC": {
+      "id": "3AE805656D4B4B0992C2D1CF5DA419DC",
+      "asnIdentifier": null,
+      "position": 156000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "FUN-4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A function’s derivative can be used to understand some behaviors of the function. ",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "E0B5F0E19DC44C80A2624ECC08BB0BB4": {
+      "id": "E0B5F0E19DC44C80A2624ECC08BB0BB4",
+      "asnIdentifier": null,
+      "position": 155003,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-3.G.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For a curve given by a polar equation r = f(θ),\nderivatives of r, x, and y with respect to θ, and\nfirst and second derivatives of y with respect to\nx can provide information about the curve.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "034AF02E119B4965A5D393F9B2C6598F",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "034AF02E119B4965A5D393F9B2C6598F"
+    },
+    "7CF398E4AD4E4CB4A2E429BA1C89073F": {
+      "id": "7CF398E4AD4E4CB4A2E429BA1C89073F",
+      "asnIdentifier": null,
+      "position": 155002,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.G.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Methods for calculating derivatives of realvalued functions can be extended to functions\nin polar coordinates. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "034AF02E119B4965A5D393F9B2C6598F",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "034AF02E119B4965A5D393F9B2C6598F"
+    },
+    "034AF02E119B4965A5D393F9B2C6598F": {
+      "id": "034AF02E119B4965A5D393F9B2C6598F",
+      "asnIdentifier": null,
+      "position": 155001,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "FUN-3.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives of\nfunctions written in polar\ncoordinates. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "9D2047F9AEB843BA86888173EB2916FB": {
+      "id": "9D2047F9AEB843BA86888173EB2916FB",
+      "asnIdentifier": null,
+      "position": 155000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-3.F.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Higher-order derivatives are represented with a\nvariety of notations. For y = f(x), notations for\nthe second derivative include y ″. Higher-order derivatives can be denoted  f\n(n)\n(x).",
+      "comments": [],
+      "ancestorIds": [
+        "EC8771C45DF64A3897153524919D436D",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "EC8771C45DF64A3897153524919D436D"
+    },
+    "097964EFEDFD41CA8B4EBADFD9E3DA54": {
+      "id": "097964EFEDFD41CA8B4EBADFD9E3DA54",
+      "asnIdentifier": null,
+      "position": 154000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiating f ′ produces the second\nderivative f ″, provided the derivative of f ′\nexists; repeating this p",
+      "comments": [],
+      "ancestorIds": [
+        "EC8771C45DF64A3897153524919D436D",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "EC8771C45DF64A3897153524919D436D"
+    },
+    "EC8771C45DF64A3897153524919D436D": {
+      "id": "EC8771C45DF64A3897153524919D436D",
+      "asnIdentifier": null,
+      "position": 153000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "FUN-3.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine higher order\nderivatives of a function.",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "3A95DC2C0B8D4296A8288B6D4C2EE503": {
+      "id": "3A95DC2C0B8D4296A8288B6D4C2EE503",
+      "asnIdentifier": null,
+      "position": 152000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-3.E.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The chain rule applied with the definition\nof an inverse function, or the formula for\nthe derivative of an inverse function, can\nbe used to find the derivatives of inverse\ntrigonometric functions.",
+      "comments": [],
+      "ancestorIds": [
+        "A584C0E539E749189EFB493E95F9417D",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "A584C0E539E749189EFB493E95F9417D"
+    },
+    "B5F167585CFF46569F0ACBE4E03CC4EA": {
+      "id": "B5F167585CFF46569F0ACBE4E03CC4EA",
+      "asnIdentifier": null,
+      "position": 151000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The chain rule and definition of an inverse\nfunction can be used to find the derivative of an\ninverse function, provided the derivative exists.",
+      "comments": [],
+      "ancestorIds": [
+        "A584C0E539E749189EFB493E95F9417D",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "A584C0E539E749189EFB493E95F9417D"
+    },
+    "A584C0E539E749189EFB493E95F9417D": {
+      "id": "A584C0E539E749189EFB493E95F9417D",
+      "asnIdentifier": null,
+      "position": 150000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "FUN-3.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives\nof inverse and inverse\ntrigonometric functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "C95F0873F1C44ED49A72C2DF9B0FEE63": {
+      "id": "C95F0873F1C44ED49A72C2DF9B0FEE63",
+      "asnIdentifier": null,
+      "position": 149000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The chain rule is the basis for implicit\ndifferentiation.",
+      "comments": [],
+      "ancestorIds": [
+        "620487520C6848B2AEDABAB0B0C65B8B",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "620487520C6848B2AEDABAB0B0C65B8B"
+    },
+    "620487520C6848B2AEDABAB0B0C65B8B": {
+      "id": "620487520C6848B2AEDABAB0B0C65B8B",
+      "asnIdentifier": null,
+      "position": 148000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "FUN-3.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives of\nimplicitly defined functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "2E1A85A009BC4061947FB42B9300ADB1": {
+      "id": "2E1A85A009BC4061947FB42B9300ADB1",
+      "asnIdentifier": null,
+      "position": 147000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The chain rule provides a way to differentiate\ncomposite functions.",
+      "comments": [],
+      "ancestorIds": [
+        "A15F66B8FBE64CD5A9E93D1762C26C5A",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "A15F66B8FBE64CD5A9E93D1762C26C5A"
+    },
+    "A15F66B8FBE64CD5A9E93D1762C26C5A": {
+      "id": "A15F66B8FBE64CD5A9E93D1762C26C5A",
+      "asnIdentifier": null,
+      "position": 146000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FUN-3.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives\nof compositions of\ndifferentiable functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "DD53905303464B9E81F0FFEE6A64479F": {
+      "id": "DD53905303464B9E81F0FFEE6A64479F",
+      "asnIdentifier": null,
+      "position": 145000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-3.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rearranging tangent, cotangent, secant, and\ncosecant functions using identities allows\ndifferentiation using derivative rules.",
+      "comments": [],
+      "ancestorIds": [
+        "05A90EB5F5014948A604358CD3655FAA",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "05A90EB5F5014948A604358CD3655FAA"
+    },
+    "7598ACA15DC94FC6AC5DBDF9761648B9": {
+      "id": "7598ACA15DC94FC6AC5DBDF9761648B9",
+      "asnIdentifier": null,
+      "position": 144000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-3.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives of quotients of differentiable\nfunctions can be found using the quotient rule.",
+      "comments": [],
+      "ancestorIds": [
+        "05A90EB5F5014948A604358CD3655FAA",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "05A90EB5F5014948A604358CD3655FAA"
+    },
+    "41F249E9F2084CC48E66A49901BA1F9F": {
+      "id": "41F249E9F2084CC48E66A49901BA1F9F",
+      "asnIdentifier": null,
+      "position": 143000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives of products of differentiable\nfunctions can be found using the product rule.",
+      "comments": [],
+      "ancestorIds": [
+        "05A90EB5F5014948A604358CD3655FAA",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "05A90EB5F5014948A604358CD3655FAA"
+    },
+    "05A90EB5F5014948A604358CD3655FAA": {
+      "id": "05A90EB5F5014948A604358CD3655FAA",
+      "asnIdentifier": null,
+      "position": 142000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "FUN-3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives of\nproducts and quotients of\ndifferentiable functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "E227C4FCD5254ED393F9F1FAF268D7D6": {
+      "id": "E227C4FCD5254ED393F9F1FAF268D7D6",
+      "asnIdentifier": null,
+      "position": 141000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "FUN-3.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specific rules can be used to find the\nderivatives for sine, cosine, exponential, and\nlogarithmic functions.",
+      "comments": [],
+      "ancestorIds": [
+        "5F5888773F654793ADEEC5347B9C81E0",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "5F5888773F654793ADEEC5347B9C81E0"
+    },
+    "640CB1FACEF7483F94B6706D88FE0F86": {
+      "id": "640CB1FACEF7483F94B6706D88FE0F86",
+      "asnIdentifier": null,
+      "position": 140000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "FUN-3.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The power rule combined with sum, difference,\nand constant multiple properties can be used\nto find the derivatives for polynomial functions.",
+      "comments": [],
+      "ancestorIds": [
+        "5F5888773F654793ADEEC5347B9C81E0",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "5F5888773F654793ADEEC5347B9C81E0"
+    },
+    "C73B2806360C4CD08B103F9DC3B497C1": {
+      "id": "C73B2806360C4CD08B103F9DC3B497C1",
+      "asnIdentifier": null,
+      "position": 139000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-3.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sums, differences, and constant multiples\nof functions can be differentiated using\nderivative rules.",
+      "comments": [],
+      "ancestorIds": [
+        "5F5888773F654793ADEEC5347B9C81E0",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "5F5888773F654793ADEEC5347B9C81E0"
+    },
+    "4F2EA2CC73AC46698815786DF9DF9B0B": {
+      "id": "4F2EA2CC73AC46698815786DF9DF9B0B",
+      "asnIdentifier": null,
+      "position": 138000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-3.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Direct application of the definition of the\nderivative and specific rules can be used to\ncalculate the derivative for functions of the\nform f( x) = x^r",
+      "comments": [],
+      "ancestorIds": [
+        "5F5888773F654793ADEEC5347B9C81E0",
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "5F5888773F654793ADEEC5347B9C81E0"
+    },
+    "5F5888773F654793ADEEC5347B9C81E0": {
+      "id": "5F5888773F654793ADEEC5347B9C81E0",
+      "asnIdentifier": null,
+      "position": 137000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives of\nfamiliar functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B60A330CCB1E44AB896AF38004D9BF88",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "B60A330CCB1E44AB896AF38004D9BF88"
+    },
+    "B60A330CCB1E44AB896AF38004D9BF88": {
+      "id": "B60A330CCB1E44AB896AF38004D9BF88",
+      "asnIdentifier": null,
+      "position": 136000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "FUN-3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognizing opportunities to apply derivative rules can simplify differentiation.",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "FDC62B47BF27410DA927389A14F2416B": {
+      "id": "FDC62B47BF27410DA927389A14F2416B",
+      "asnIdentifier": null,
+      "position": 135000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "FUN-2.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A continuous function may fail to be\ndifferentiable at a point in its domain.",
+      "comments": [],
+      "ancestorIds": [
+        "5B4EB7788A0F4E6891A6401244BC29FA",
+        "E8C4CAA28AC34CB1B10CE13BF7FA5549",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "5B4EB7788A0F4E6891A6401244BC29FA"
+    },
+    "1422784EEFCB4CBDB2BD7BE844AAC5FC": {
+      "id": "1422784EEFCB4CBDB2BD7BE844AAC5FC",
+      "asnIdentifier": null,
+      "position": 134000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-2.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a function is differentiable at a point, then it is\ncontinuous at that point. In particular, if a point\nis not in the domain of f, then it is not in the\ndomain of f'. ",
+      "comments": [],
+      "ancestorIds": [
+        "5B4EB7788A0F4E6891A6401244BC29FA",
+        "E8C4CAA28AC34CB1B10CE13BF7FA5549",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "5B4EB7788A0F4E6891A6401244BC29FA"
+    },
+    "5B4EB7788A0F4E6891A6401244BC29FA": {
+      "id": "5B4EB7788A0F4E6891A6401244BC29FA",
+      "asnIdentifier": null,
+      "position": 133000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the relationship\nbetween differentiability and\ncontinuity",
+      "comments": [],
+      "ancestorIds": [
+        "E8C4CAA28AC34CB1B10CE13BF7FA5549",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "E8C4CAA28AC34CB1B10CE13BF7FA5549"
+    },
+    "E8C4CAA28AC34CB1B10CE13BF7FA5549": {
+      "id": "E8C4CAA28AC34CB1B10CE13BF7FA5549",
+      "asnIdentifier": null,
+      "position": 132000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "FUN-2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognizing that a function’s derivative may also be a function allows us to develop\nknowledge about the related behaviors of both.",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "0A9AC7852B19489FB1EDFB544263B5B0": {
+      "id": "0A9AC7852B19489FB1EDFB544263B5B0",
+      "asnIdentifier": null,
+      "position": 131000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-1.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a function f is continuous over the interval\n[a, b] and differentiable over the interval\n(a, b), then the Mean Value Theorem\nguarantees a point within that open interval\nwhere the instantaneous rate of change equals\nthe average rate of change over the interval.",
+      "comments": [],
+      "ancestorIds": [
+        "F5E375DF2B114AFA96E465EE7D9697E9",
+        "8F580054183F4ED1A7861C29F4C81537",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "F5E375DF2B114AFA96E465EE7D9697E9"
+    },
+    "F5E375DF2B114AFA96E465EE7D9697E9": {
+      "id": "F5E375DF2B114AFA96E465EE7D9697E9",
+      "asnIdentifier": null,
+      "position": 130000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "FUN-1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about\nfunctions by applying the\nMean Value Theorem over\nan interval.",
+      "comments": [],
+      "ancestorIds": [
+        "8F580054183F4ED1A7861C29F4C81537",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "8F580054183F4ED1A7861C29F4C81537"
+    },
+    "D48E112995C9402E9E30EFEFAB673976": {
+      "id": "D48E112995C9402E9E30EFEFAB673976",
+      "asnIdentifier": null,
+      "position": 129000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "FUN-1.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If f is a continuous function on the closed\ninterval [a, b] and d is a number between f(a)\nand f(b), then the Intermediate Value Theorem\nguarantees that there is at least one number c\nbetween a and b, such that f(c) = d",
+      "comments": [],
+      "ancestorIds": [
+        "2D1433BB8DD24A05B80F5041252F933E",
+        "8F580054183F4ED1A7861C29F4C81537",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "2D1433BB8DD24A05B80F5041252F933E"
+    },
+    "2D1433BB8DD24A05B80F5041252F933E": {
+      "id": "2D1433BB8DD24A05B80F5041252F933E",
+      "asnIdentifier": null,
+      "position": 128000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "FUN-1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the behavior of a\nfunction on an interval using\nthe Intermediate Value\nTheorem.",
+      "comments": [],
+      "ancestorIds": [
+        "8F580054183F4ED1A7861C29F4C81537",
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "8F580054183F4ED1A7861C29F4C81537"
+    },
+    "8F580054183F4ED1A7861C29F4C81537": {
+      "id": "8F580054183F4ED1A7861C29F4C81537",
+      "asnIdentifier": null,
+      "position": 127000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "FUN-1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Existence theorems allow us to draw conclusions about a function’s behavior on an\ninterval without precisely locating that behavior. ",
+      "comments": [],
+      "ancestorIds": [
+        "15A055F165B546789CE314102506A91A"
+      ],
+      "parentId": "15A055F165B546789CE314102506A91A"
+    },
+    "15A055F165B546789CE314102506A91A": {
+      "id": "15A055F165B546789CE314102506A91A",
+      "asnIdentifier": null,
+      "position": 126000,
+      "depth": 0,
+      "listId": "FUN",
+      "statementNotation": "FUN",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analysis of Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "11221A5E453443F0973A93835A81EB26": {
+      "id": "11221A5E453443F0973A93835A81EB26",
+      "asnIdentifier": null,
+      "position": 125041,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.G.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using a known series, a power series for a given\nfunction can be derived using operations such\nas term-by-term differentiation or term-byterm integration, and by various methods (e.g.,\nalgebraic processes, substitutions, or using\nproperties of geometric series). bc only ",
+      "comments": [],
+      "ancestorIds": [
+        "B597014CC39E47999B54DBE2AABC230D",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B597014CC39E47999B54DBE2AABC230D"
+    },
+    "B597014CC39E47999B54DBE2AABC230D": {
+      "id": "B597014CC39E47999B54DBE2AABC230D",
+      "asnIdentifier": null,
+      "position": 125040,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "LIM-8.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a given function as\na power series. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "6D64F88B834449E5A3FA499AA64EC735": {
+      "id": "6D64F88B834449E5A3FA499AA64EC735",
+      "asnIdentifier": null,
+      "position": 125039,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-8.F.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Maclaurin series for sin x, cos x, and e^x\nprovides the foundation for constructing the\nMaclaurin series for other functions. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "BEFF9095CAAF4459BB35B10C806F5057",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "BEFF9095CAAF4459BB35B10C806F5057"
+    },
+    "8024A064C387408F99FCB6A6901DD514": {
+      "id": "8024A064C387408F99FCB6A6901DD514",
+      "asnIdentifier": null,
+      "position": 125038,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Maclaurin series for a geometric series. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "BEFF9095CAAF4459BB35B10C806F5057",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "BEFF9095CAAF4459BB35B10C806F5057"
+    },
+    "BEFF9095CAAF4459BB35B10C806F5057": {
+      "id": "BEFF9095CAAF4459BB35B10C806F5057",
+      "asnIdentifier": null,
+      "position": 125037,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "LIM-8.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "nterpret Taylor series and\nMaclaurin series. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "76E4E963B23B4E609FD678A20A7DE24E": {
+      "id": "76E4E963B23B4E609FD678A20A7DE24E",
+      "asnIdentifier": null,
+      "position": 125036,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A Taylor polynomial for f (x) is a partial sum of\nthe Taylor series for f (x). bc only",
+      "comments": [],
+      "ancestorIds": [
+        "2DFFC904DCFB442E9F4461BC64C8DEA2",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "2DFFC904DCFB442E9F4461BC64C8DEA2"
+    },
+    "2DFFC904DCFB442E9F4461BC64C8DEA2": {
+      "id": "2DFFC904DCFB442E9F4461BC64C8DEA2",
+      "asnIdentifier": null,
+      "position": 125035,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "LIM-8.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a function as a\nTaylor series or a Maclaurin\nseries. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "307AA48EDD554330B408E80F200D6DD8": {
+      "id": "307AA48EDD554330B408E80F200D6DD8",
+      "asnIdentifier": null,
+      "position": 125034,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "LIM-8.D.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The radius of convergence of a power series\nobtained by term-by-term differentiation or termby-term integration is the same as the radius of\nconvergence of the original power series. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "7952635AA34443BBA2EC47C6DE6FD58F",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "7952635AA34443BBA2EC47C6DE6FD58F"
+    },
+    "99418C4AF1F04B94AAD8C034EE2F68CF": {
+      "id": "99418C4AF1F04B94AAD8C034EE2F68CF",
+      "asnIdentifier": null,
+      "position": 125033,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "LIM-8.D.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a power series has a positive radius of\nconvergence, then the power series is the\nTaylor series of the function to which it\nconverges over the open interval. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "7952635AA34443BBA2EC47C6DE6FD58F",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "7952635AA34443BBA2EC47C6DE6FD58F"
+    },
+    "5ED6B524C46D4AB3A07E8E538C1E5C4C": {
+      "id": "5ED6B524C46D4AB3A07E8E538C1E5C4C",
+      "asnIdentifier": null,
+      "position": 125032,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "LIM-8.D.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The radius of convergence of a power series can\nbe used to identify an open interval on which\nthe series converges, but it is necessary to test\nboth endpoints of the interval to determine the\ninterval of convergence. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "7952635AA34443BBA2EC47C6DE6FD58F",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "7952635AA34443BBA2EC47C6DE6FD58F"
+    },
+    "96116C19BD434A4CBEC3451A1AB1C6C4": {
+      "id": "96116C19BD434A4CBEC3451A1AB1C6C4",
+      "asnIdentifier": null,
+      "position": 125031,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "LIM-8.D.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The ratio test can be used to determine the\nradius of convergence of a power series. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "7952635AA34443BBA2EC47C6DE6FD58F",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "7952635AA34443BBA2EC47C6DE6FD58F"
+    },
+    "A0CD9429556242DBA0DF1B83FFE81EF8": {
+      "id": "A0CD9429556242DBA0DF1B83FFE81EF8",
+      "asnIdentifier": null,
+      "position": 125030,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-8.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a power series converges, it either converges\nat a single point or has an interval of convergence.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "7952635AA34443BBA2EC47C6DE6FD58F",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "7952635AA34443BBA2EC47C6DE6FD58F"
+    },
+    "7DC47A866F284C07BF78BBAE7C5BC9E1": {
+      "id": "7DC47A866F284C07BF78BBAE7C5BC9E1",
+      "asnIdentifier": null,
+      "position": 125029,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A power series is a series of the form where n is a non-negative integer, a\nsequence of real numbers, and r is a real\nnumber. bc only ",
+      "comments": [],
+      "ancestorIds": [
+        "7952635AA34443BBA2EC47C6DE6FD58F",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "7952635AA34443BBA2EC47C6DE6FD58F"
+    },
+    "7952635AA34443BBA2EC47C6DE6FD58F": {
+      "id": "7952635AA34443BBA2EC47C6DE6FD58F",
+      "asnIdentifier": null,
+      "position": 125028,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "LIM-8.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the radius of\nconvergence and interval\nof convergence for a power\nseries. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "0E7AB04966DD4B74925BEB280B67CA74": {
+      "id": "0E7AB04966DD4B74925BEB280B67CA74",
+      "asnIdentifier": null,
+      "position": 125027,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-8.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In some situations, the alternating series error\nbound can be used to bound the error of a\nTaylor polynomial approximation to the value of\na function. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "2A499B04A7CE49389294ED8D65643068",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "2A499B04A7CE49389294ED8D65643068"
+    },
+    "98675088729B41648960A513DC6D0B69": {
+      "id": "98675088729B41648960A513DC6D0B69",
+      "asnIdentifier": null,
+      "position": 125026,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Lagrange error bound can be used to\ndetermine a maximum interval for the error of a\nTaylor polynomial approximation to a function.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "2A499B04A7CE49389294ED8D65643068",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "2A499B04A7CE49389294ED8D65643068"
+    },
+    "2A499B04A7CE49389294ED8D65643068": {
+      "id": "2A499B04A7CE49389294ED8D65643068",
+      "asnIdentifier": null,
+      "position": 125025,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM-8.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the error bound\nassociated with a Taylor\npolynomial approximation.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "748BC8A85F584E88ADAF98B85A46F1B8": {
+      "id": "748BC8A85F584E88ADAF98B85A46F1B8",
+      "asnIdentifier": null,
+      "position": 125024,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Taylor polynomials for a function f centered\nat x = a can be used to approximate function\nvalues of f near x = a. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "8C7B4B2E5635470BB936A7A750FC45B6",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "8C7B4B2E5635470BB936A7A750FC45B6"
+    },
+    "8C7B4B2E5635470BB936A7A750FC45B6": {
+      "id": "8C7B4B2E5635470BB936A7A750FC45B6",
+      "asnIdentifier": null,
+      "position": 125023,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "LIM-8.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approximate function\nvalues using a Taylor\npolynomial. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "C8FF873C24574B57ADF59B911953C83F": {
+      "id": "C8FF873C24574B57ADF59B911953C83F",
+      "asnIdentifier": null,
+      "position": 125022,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-8.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In many cases, as the degree of a Taylor\npolynomial increases, the nth degree\npolynomial will approach the original function\nover some interval. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "B4D2B27F15FE49BB92BA7DFF871C80AD",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B4D2B27F15FE49BB92BA7DFF871C80AD"
+    },
+    "D0CC19F124C84D8EBD402048F50AA768": {
+      "id": "D0CC19F124C84D8EBD402048F50AA768",
+      "asnIdentifier": null,
+      "position": 125021,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-8.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The coefficient of the nth degree term in a\nTaylor polynomial for a function f centered.",
+      "comments": [],
+      "ancestorIds": [
+        "B4D2B27F15FE49BB92BA7DFF871C80AD",
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B4D2B27F15FE49BB92BA7DFF871C80AD"
+    },
+    "B4D2B27F15FE49BB92BA7DFF871C80AD": {
+      "id": "B4D2B27F15FE49BB92BA7DFF871C80AD",
+      "asnIdentifier": null,
+      "position": 125020,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-8.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a function at a\npoint as a Taylor polynomial.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "C946F91B547A4E619699C584811863C4",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "C946F91B547A4E619699C584811863C4"
+    },
+    "C946F91B547A4E619699C584811863C4": {
+      "id": "C946F91B547A4E619699C584811863C4",
+      "asnIdentifier": null,
+      "position": 125019,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "LIM-8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Power series allow us to represent associated functions on an appropriate interval. ",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "9ACBB60F81F64EEAB9FF6FF5C20C3159": {
+      "id": "9ACBB60F81F64EEAB9FF6FF5C20C3159",
+      "asnIdentifier": null,
+      "position": 125018,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-7.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If an alternating series converges by the\nalternating series test, then the alternating\nseries error bound can be used to bound how\nfar a partial sum is from the value of the infinite\nseries. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "1C452389FF52465EA7858E0B8835937D",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "1C452389FF52465EA7858E0B8835937D"
+    },
+    "1C452389FF52465EA7858E0B8835937D": {
+      "id": "1C452389FF52465EA7858E0B8835937D",
+      "asnIdentifier": null,
+      "position": 125017,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "LIM-7.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approximate the sum of a\nseries. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "EE671705983A4B958AF4317079CAB6BB"
+    },
+    "DE292E8AFD744C27BBF8C4611CC0823C": {
+      "id": "DE292E8AFD744C27BBF8C4611CC0823C",
+      "asnIdentifier": null,
+      "position": 125016,
+      "depth": 3,
+      "listId": "14",
+      "statementNotation": "LIM-7.A.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a series converges absolutely, then any\nseries obtained from it by regrouping or\nrearranging the terms has the same value.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "7805AF6128D2482693E14E6C2E643348": {
+      "id": "7805AF6128D2482693E14E6C2E643348",
+      "asnIdentifier": null,
+      "position": 125015,
+      "depth": 3,
+      "listId": "13",
+      "statementNotation": "LIM-7.A.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a series converges absolutely, then it\nconverges. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "F53DE612024042F2B00151375DA2A842": {
+      "id": "F53DE612024042F2B00151375DA2A842",
+      "asnIdentifier": null,
+      "position": 125014,
+      "depth": 3,
+      "listId": "12",
+      "statementNotation": "LIM-7.A.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A series may be absolutely convergent,\nconditionally convergent, or divergent.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "AB4B9AAA70BA4A4A9F0F629DF855521F": {
+      "id": "AB4B9AAA70BA4A4A9F0F629DF855521F",
+      "asnIdentifier": null,
+      "position": 125013,
+      "depth": 3,
+      "listId": "11",
+      "statementNotation": "LIM-7.A.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The ratio test is a method to determine\nwhether a series of numbers converges or\ndiverges. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "96DB635A2CE64063B993EF1137D671BA": {
+      "id": "96DB635A2CE64063B993EF1137D671BA",
+      "asnIdentifier": null,
+      "position": 125012,
+      "depth": 3,
+      "listId": "10",
+      "statementNotation": "LIM-7.A.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The alternating series test is a method to\ndetermine whether ",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "8D0804039E9546FFAE6CDD0F03D582CC": {
+      "id": "8D0804039E9546FFAE6CDD0F03D582CC",
+      "asnIdentifier": null,
+      "position": 125011,
+      "depth": 3,
+      "listId": "9",
+      "statementNotation": "LIM-7.A.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The limit comparison test is a method to\ndetermine whether a series converges or\ndiverges. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "817C9BB2486C431C92AA952D3DFEC9ED": {
+      "id": "817C9BB2486C431C92AA952D3DFEC9ED",
+      "asnIdentifier": null,
+      "position": 125010,
+      "depth": 3,
+      "listId": "8",
+      "statementNotation": "LIM-7.A.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The comparison test is a method to determine\nwhether a series converges or diverges.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "DE5800F5FE7F42648A708B77809A9730": {
+      "id": "DE5800F5FE7F42648A708B77809A9730",
+      "asnIdentifier": null,
+      "position": 125009,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "LIM-7.A.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In addition to geometric series, common series\nof numbers include the harmonic series, the\nalternating harmonic series, and p-series.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "3705438EEF97452BB9999E7BE0E9944D": {
+      "id": "3705438EEF97452BB9999E7BE0E9944D",
+      "asnIdentifier": null,
+      "position": 125008,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "LIM-7.A.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The integral test is a method to determine\nwhether a series converges or diverges.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "6897A33554C5468DB11FF6B1CE8748FC": {
+      "id": "6897A33554C5468DB11FF6B1CE8748FC",
+      "asnIdentifier": null,
+      "position": 125007,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "LIM-7.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The nth term test is a test for divergence of a\nseries. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "FF0DC6C7B0C544E69C501346B7031480": {
+      "id": "FF0DC6C7B0C544E69C501346B7031480",
+      "asnIdentifier": null,
+      "position": 125006,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "LIM-7.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a is a real number and r is a real number\nsuch that |r| <1, then the geometric series ",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "EF2403503387470BB6A9B43BDD433838": {
+      "id": "EF2403503387470BB6A9B43BDD433838",
+      "asnIdentifier": null,
+      "position": 125005,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "LIM-7.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A geometric series is a series with a constant\nratio between successive terms. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "337B6A283C12405FA34C9CC0BA0B1150": {
+      "id": "337B6A283C12405FA34C9CC0BA0B1150",
+      "asnIdentifier": null,
+      "position": 125004,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-7.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "An infinite series of numbers converges to a\nreal number S (or has sum S), if and only if the\nlimit of its sequence of partial sums exists and\nequals S. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "A74CF88B961742A184BDBFE254F50FC5": {
+      "id": "A74CF88B961742A184BDBFE254F50FC5",
+      "asnIdentifier": null,
+      "position": 125003,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-7.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The nth partial sum is defined as the sum of the\nfirst n terms of a series. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "138661EF888443B8A810F8BC7FA6DD17",
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "138661EF888443B8A810F8BC7FA6DD17"
+    },
+    "138661EF888443B8A810F8BC7FA6DD17": {
+      "id": "138661EF888443B8A810F8BC7FA6DD17",
+      "asnIdentifier": null,
+      "position": 125002,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-7.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a series\nconverges or diverges.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "EE671705983A4B958AF4317079CAB6BB",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "EE671705983A4B958AF4317079CAB6BB"
+    },
+    "EE671705983A4B958AF4317079CAB6BB": {
+      "id": "EE671705983A4B958AF4317079CAB6BB",
+      "asnIdentifier": null,
+      "position": 125001,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "LIM-7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applying limits may allow us to determine the finite sum of infinitely many terms. ",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "2E559F0AA7F74D38BA9EB6080048A34B": {
+      "id": "2E559F0AA7F74D38BA9EB6080048A34B",
+      "asnIdentifier": null,
+      "position": 125000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-6.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Improper integrals can be determined using\nlimits of definite integrals. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "93580C09B7A04C849D712FABD1F46776",
+        "E1A57D70150A4BEDBB9A4EF12C1DDB56",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "93580C09B7A04C849D712FABD1F46776"
+    },
+    "7B5BD694C30B47F4B7D88AF9030283DA": {
+      "id": "7B5BD694C30B47F4B7D88AF9030283DA",
+      "asnIdentifier": null,
+      "position": 124000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-6.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "An improper integral is an integral that has one\nor both limits infinite or has an integrand that\nis unbounded in the interval of integration.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "93580C09B7A04C849D712FABD1F46776",
+        "E1A57D70150A4BEDBB9A4EF12C1DDB56",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "93580C09B7A04C849D712FABD1F46776"
+    },
+    "93580C09B7A04C849D712FABD1F46776": {
+      "id": "93580C09B7A04C849D712FABD1F46776",
+      "asnIdentifier": null,
+      "position": 123000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate an improper integral\nor determine that the integral\ndiverges. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "E1A57D70150A4BEDBB9A4EF12C1DDB56",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E1A57D70150A4BEDBB9A4EF12C1DDB56"
+    },
+    "E1A57D70150A4BEDBB9A4EF12C1DDB56": {
+      "id": "E1A57D70150A4BEDBB9A4EF12C1DDB56",
+      "asnIdentifier": null,
+      "position": 122000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "LIM-6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The use of limits allows us to show that the areas of unbounded regions may\nbe finite",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "86FCB182DF474C13A38EA4FD9CB2FD39": {
+      "id": "86FCB182DF474C13A38EA4FD9CB2FD39",
+      "asnIdentifier": null,
+      "position": 121000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-5.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A definite integral can be translated into\nthe limit of a related Riemann sum, and the\nlimit of a Riemann sum can be written as a\ndefinite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "D52E46E847F244A49D54B8EF6BCD9B00",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "D52E46E847F244A49D54B8EF6BCD9B00"
+    },
+    "DBFF03CB99604B889A3B2D845A39D240": {
+      "id": "DBFF03CB99604B889A3B2D845A39D240",
+      "asnIdentifier": null,
+      "position": 120000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-5.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definite integral of a continuous function\nf over the interval [a, b], denoted the limit of Riemann sums as the widths\nof the subintervals approach 0 where n is\nthe number of subintervals, x∆,is the width\nof the ith subinterval, and xi\n*\n is a value in the\nith subinterval.",
+      "comments": [],
+      "ancestorIds": [
+        "D52E46E847F244A49D54B8EF6BCD9B00",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "D52E46E847F244A49D54B8EF6BCD9B00"
+    },
+    "D52E46E847F244A49D54B8EF6BCD9B00": {
+      "id": "D52E46E847F244A49D54B8EF6BCD9B00",
+      "asnIdentifier": null,
+      "position": 119000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM-5.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent the limiting case\nof the Riemann sum as a\ndefinite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "854B8C1555F6438E9F683B1555545255"
+    },
+    "1E96AB2292594D18A6C6C60C8FB8A9F2": {
+      "id": "1E96AB2292594D18A6C6C60C8FB8A9F2",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-5.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A Riemann sum, which requires a partition of\nan interval I, is the sum of products, each of\nwhich is the value of the function at a point in\na subinterval multiplied by the length of that\nsubinterval of the partition.",
+      "comments": [],
+      "ancestorIds": [
+        "708804755D9E434B94C5E51C386E6015",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "708804755D9E434B94C5E51C386E6015"
+    },
+    "0B627039EA0C40319C897746BA9D8701": {
+      "id": "0B627039EA0C40319C897746BA9D8701",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-5.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "he limit of an approximating Riemann sum can\nbe interpreted as a definite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "708804755D9E434B94C5E51C386E6015",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "708804755D9E434B94C5E51C386E6015"
+    },
+    "708804755D9E434B94C5E51C386E6015": {
+      "id": "708804755D9E434B94C5E51C386E6015",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "LIM-5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the limiting case\nof the Riemann sum as a\ndefinite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "854B8C1555F6438E9F683B1555545255"
+    },
+    "4D923160ED2C47A380CEDF2A042300D2": {
+      "id": "4D923160ED2C47A380CEDF2A042300D2",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "LIM-5.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Depending on the behavior of a function, it\nmay be possible to determine whether an\napproximation for a definite integral is an\nunderestimate or overestimate for the value of\nthe definite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "E15B46658A4A41C7A26E0C3045D9E16E",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E15B46658A4A41C7A26E0C3045D9E16E"
+    },
+    "9C07CF3C7A4242FFBEAEC55B79A31476": {
+      "id": "9C07CF3C7A4242FFBEAEC55B79A31476",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "LIM-5.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals can be approximated using\nnumerical methods, with or without technology",
+      "comments": [],
+      "ancestorIds": [
+        "E15B46658A4A41C7A26E0C3045D9E16E",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E15B46658A4A41C7A26E0C3045D9E16E"
+    },
+    "40DC87E1EB4343BA90B1BD528F68E848": {
+      "id": "40DC87E1EB4343BA90B1BD528F68E848",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-5.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals can be approximated using\na left Riemann sum, a right Riemann sum, a\nmidpoint Riemann sum, or a trapezoidal sum;\napproximations can be computed using either\nuniform or nonuniform partitions.",
+      "comments": [],
+      "ancestorIds": [
+        "E15B46658A4A41C7A26E0C3045D9E16E",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E15B46658A4A41C7A26E0C3045D9E16E"
+    },
+    "E91FD08F6F044E3487FD5D3CD951260C": {
+      "id": "E91FD08F6F044E3487FD5D3CD951260C",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-5.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals can be approximated for\nfunctions that are represented graphically,\nnumerically, analytically, and verbally.",
+      "comments": [],
+      "ancestorIds": [
+        "E15B46658A4A41C7A26E0C3045D9E16E",
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E15B46658A4A41C7A26E0C3045D9E16E"
+    },
+    "E15B46658A4A41C7A26E0C3045D9E16E": {
+      "id": "E15B46658A4A41C7A26E0C3045D9E16E",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approximate a definite\nintegral using geometric and\nnumerical methods.",
+      "comments": [],
+      "ancestorIds": [
+        "854B8C1555F6438E9F683B1555545255",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "854B8C1555F6438E9F683B1555545255"
+    },
+    "854B8C1555F6438E9F683B1555545255": {
+      "id": "854B8C1555F6438E9F683B1555545255",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "LIM-5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals can be approximated using geometric and numerical methods. ",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "869F4A64C76840EF9246D0A4D86765B5": {
+      "id": "869F4A64C76840EF9246D0A4D86765B5",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-4.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits of the indeterminate may\nbe evaluated using L’Hospital’s Rule.",
+      "comments": [],
+      "ancestorIds": [
+        "35F7A309890B481CAAD23D0869B5069D",
+        "5DBAABD4792841DEB7DD65526B23544B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "35F7A309890B481CAAD23D0869B5069D"
+    },
+    "D1E6CCF4699F42DEAF12EDD0AC86681D": {
+      "id": "D1E6CCF4699F42DEAF12EDD0AC86681D",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-4.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "When the ratio of two functions  in the limit, such forms are said to be indeterminate.",
+      "comments": [],
+      "ancestorIds": [
+        "35F7A309890B481CAAD23D0869B5069D",
+        "5DBAABD4792841DEB7DD65526B23544B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "35F7A309890B481CAAD23D0869B5069D"
+    },
+    "35F7A309890B481CAAD23D0869B5069D": {
+      "id": "35F7A309890B481CAAD23D0869B5069D",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits of functions\nthat result in indeterminate\nforms.",
+      "comments": [],
+      "ancestorIds": [
+        "5DBAABD4792841DEB7DD65526B23544B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "5DBAABD4792841DEB7DD65526B23544B"
+    },
+    "5DBAABD4792841DEB7DD65526B23544B": {
+      "id": "5DBAABD4792841DEB7DD65526B23544B",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "LIM-4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits of functions\nthat result in indeterminate\nforms.",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "E96554F27B08498B97FA0295F234C88C": {
+      "id": "E96554F27B08498B97FA0295F234C88C",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-3.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In some cases, recognizing an expression for\nthe definition of the derivative of a function\nwhose derivative is known offers a strategy for\ndetermining a limit.",
+      "comments": [],
+      "ancestorIds": [
+        "2F8DF90F678D4F368D3FB4B3DF078C44",
+        "FA9F92552DE74D92A1FBBBBE562ADCEF",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "2F8DF90F678D4F368D3FB4B3DF078C44"
+    },
+    "2F8DF90F678D4F368D3FB4B3DF078C44": {
+      "id": "2F8DF90F678D4F368D3FB4B3DF078C44",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret a limit as a definition\nof a derivative.",
+      "comments": [],
+      "ancestorIds": [
+        "FA9F92552DE74D92A1FBBBBE562ADCEF",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "FA9F92552DE74D92A1FBBBBE562ADCEF"
+    },
+    "FA9F92552DE74D92A1FBBBBE562ADCEF": {
+      "id": "FA9F92552DE74D92A1FBBBBE562ADCEF",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "LIM-3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning with definitions, theorems, and properties can be used to determine\na limit. ",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "A09783D5DEAD4EFF9C1C41E198372981": {
+      "id": "A09783D5DEAD4EFF9C1C41E198372981",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 3,
+      "listId": "v",
+      "statementNotation": "LIM-2.D.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Relative magnitudes of functions and their\nrates of change can be compared using limits.",
+      "comments": [],
+      "ancestorIds": [
+        "97AA4BFA3A1D4291B5440EEBC8B9BA2F",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "97AA4BFA3A1D4291B5440EEBC8B9BA2F"
+    },
+    "BBCC904A697A4CF5B436412F06E41575": {
+      "id": "BBCC904A697A4CF5B436412F06E41575",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "LIM-2.D.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits at infinity describe end behavior. ",
+      "comments": [],
+      "ancestorIds": [
+        "97AA4BFA3A1D4291B5440EEBC8B9BA2F",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "97AA4BFA3A1D4291B5440EEBC8B9BA2F"
+    },
+    "7E0503823B924C508F5EB6BDEB7D3F8D": {
+      "id": "7E0503823B924C508F5EB6BDEB7D3F8D",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "LIM-2.D.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The concept of a limit can be extended to\ninclude limits at infinity.",
+      "comments": [],
+      "ancestorIds": [
+        "97AA4BFA3A1D4291B5440EEBC8B9BA2F",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "97AA4BFA3A1D4291B5440EEBC8B9BA2F"
+    },
+    "94082F5FB6F9494FA13DC312D2B15504": {
+      "id": "94082F5FB6F9494FA13DC312D2B15504",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "LIM-2.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Asymptotic and unbounded behavior of\nfunctions can be described and explained\nusing limits.",
+      "comments": [],
+      "ancestorIds": [
+        "97AA4BFA3A1D4291B5440EEBC8B9BA2F",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "97AA4BFA3A1D4291B5440EEBC8B9BA2F"
+    },
+    "706AE40B40414F769BAA1A81802E5361": {
+      "id": "706AE40B40414F769BAA1A81802E5361",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "LIM-2.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The concept of a limit can be extended to\ninclude infinite limits.",
+      "comments": [],
+      "ancestorIds": [
+        "97AA4BFA3A1D4291B5440EEBC8B9BA2F",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "97AA4BFA3A1D4291B5440EEBC8B9BA2F"
+    },
+    "97AA4BFA3A1D4291B5440EEBC8B9BA2F": {
+      "id": "97AA4BFA3A1D4291B5440EEBC8B9BA2F",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "LIM-2.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the behavior\nof functions using limits\ninvolving infinity.",
+      "comments": [],
+      "ancestorIds": [
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B934CAD85B204AE089597D64337A121B"
+    },
+    "DB05270DF0B24A3A8AD30E983F7042C4": {
+      "id": "DB05270DF0B24A3A8AD30E983F7042C4",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "LIM-2.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In order for a piecewise-defined function to be\ncontinuous at a boundary to the partition of its\ndomain, the value of the expression defining\nthe function on one side of the boundary must\nequal the value of the expression defining the\nother side of the boundary, as well as the value\nof the function at the boundary",
+      "comments": [],
+      "ancestorIds": [
+        "4BFC179312B54A6BA506C6E457DBA5C7",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "4BFC179312B54A6BA506C6E457DBA5C7"
+    },
+    "DC9E4F5C927A4F58841649E90AB0FDAA": {
+      "id": "DC9E4F5C927A4F58841649E90AB0FDAA",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "LIM-2.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If the limit of a function exists at a discontinuity\nin its graph, then it is possible to remove the\ndiscontinuity by defining or redefining the\nvalue of the function at that point, so it equals\nthe value of the limit of the function as x\napproaches that point.",
+      "comments": [],
+      "ancestorIds": [
+        "4BFC179312B54A6BA506C6E457DBA5C7",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "4BFC179312B54A6BA506C6E457DBA5C7"
+    },
+    "4BFC179312B54A6BA506C6E457DBA5C7": {
+      "id": "4BFC179312B54A6BA506C6E457DBA5C7",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM-2.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine values of x\nor solve for parameters\nthat make discontinuous\nfunctions continuous, if\npossible.",
+      "comments": [],
+      "ancestorIds": [
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B934CAD85B204AE089597D64337A121B"
+    },
+    "8DC071AC558A4AE7A01C6C688E220B36": {
+      "id": "8DC071AC558A4AE7A01C6C688E220B36",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "LIM-2.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Polynomial, rational, power, exponential,\nlogarithmic, and trigonometric functions are\ncontinuous on all points in their domains.",
+      "comments": [],
+      "ancestorIds": [
+        "A74A6555977347B0A9011073EC500249",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "A74A6555977347B0A9011073EC500249"
+    },
+    "F3D88D88D62E4B4AA46FE0AA17D9FCFE": {
+      "id": "F3D88D88D62E4B4AA46FE0AA17D9FCFE",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "LIM-2.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A function is continuous on an interval if the\nfunction is continuous at each point in the\ninterval. ",
+      "comments": [],
+      "ancestorIds": [
+        "A74A6555977347B0A9011073EC500249",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "A74A6555977347B0A9011073EC500249"
+    },
+    "A74A6555977347B0A9011073EC500249": {
+      "id": "A74A6555977347B0A9011073EC500249",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "LIM-2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine intervals\nover which a function is\ncontinuous",
+      "comments": [],
+      "ancestorIds": [
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B934CAD85B204AE089597D64337A121B"
+    },
+    "D39BB6F7011F4E8DB271229FD11AFF13": {
+      "id": "D39BB6F7011F4E8DB271229FD11AFF13",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-2.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A function f is continuous at x = c provided that\nf(c) exists, lim f (x ) →\n exists, and lim f ( x)=  f( c) →\n.",
+      "comments": [],
+      "ancestorIds": [
+        "ED5387E8C8F94ADAA08CF2935FE7303D",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "ED5387E8C8F94ADAA08CF2935FE7303D"
+    },
+    "73E8EC049D3D4086869057CB9AC4B4C8": {
+      "id": "73E8EC049D3D4086869057CB9AC4B4C8",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-2.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Types of discontinuities include removable\ndiscontinuities, jump discontinuities, and\ndiscontinuities due to vertical asymptotes",
+      "comments": [],
+      "ancestorIds": [
+        "ED5387E8C8F94ADAA08CF2935FE7303D",
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "ED5387E8C8F94ADAA08CF2935FE7303D"
+    },
+    "ED5387E8C8F94ADAA08CF2935FE7303D": {
+      "id": "ED5387E8C8F94ADAA08CF2935FE7303D",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about\ncontinuity at a point using the\ndefinition.",
+      "comments": [],
+      "ancestorIds": [
+        "B934CAD85B204AE089597D64337A121B",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "B934CAD85B204AE089597D64337A121B"
+    },
+    "B934CAD85B204AE089597D64337A121B": {
+      "id": "B934CAD85B204AE089597D64337A121B",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "LIM-2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning with definitions, theorems, and properties can be used to justify claims\nabout continuity.",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "5B441CF2B24E4152BB302CDA7081C04C": {
+      "id": "5B441CF2B24E4152BB302CDA7081C04C",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-1.E.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The limit of a function may be found by using\nthe squeeze theorem.",
+      "comments": [],
+      "ancestorIds": [
+        "44509809F9C944AAAC88C1A04967BE85",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "44509809F9C944AAAC88C1A04967BE85"
+    },
+    "B7697844B5E445F6A9FEA3E4E829C1D2": {
+      "id": "B7697844B5E445F6A9FEA3E4E829C1D2",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-1.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "It may be necessary or helpful to rearrange\nexpressions into equivalent forms before\nevaluating limits.",
+      "comments": [],
+      "ancestorIds": [
+        "44509809F9C944AAAC88C1A04967BE85",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "44509809F9C944AAAC88C1A04967BE85"
+    },
+    "44509809F9C944AAAC88C1A04967BE85": {
+      "id": "44509809F9C944AAAC88C1A04967BE85",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "LIM-1.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the limits of\nfunctions using equivalent\nexpressions for the function\nor the squeeze theorem.",
+      "comments": [],
+      "ancestorIds": [
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "454DCA919DE04B988E1ADF4829D432D5"
+    },
+    "87951852DD5F468BB6AA1C180800BEB9": {
+      "id": "87951852DD5F468BB6AA1C180800BEB9",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-1.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits of sums, differences, products,\nquotients, and composite functions can be\nfound using limit theorems.",
+      "comments": [],
+      "ancestorIds": [
+        "E7D04DC44ED143D482204A4C5DC5BB42",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E7D04DC44ED143D482204A4C5DC5BB42"
+    },
+    "81CC46ADEF1443449F449B6234BF9B86": {
+      "id": "81CC46ADEF1443449F449B6234BF9B86",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-1.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "One-sided limits can be determined analytically\nor graphically.",
+      "comments": [],
+      "ancestorIds": [
+        "E7D04DC44ED143D482204A4C5DC5BB42",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "E7D04DC44ED143D482204A4C5DC5BB42"
+    },
+    "E7D04DC44ED143D482204A4C5DC5BB42": {
+      "id": "E7D04DC44ED143D482204A4C5DC5BB42",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "LIM-1.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the limits\nof functions using limit\ntheorems.",
+      "comments": [],
+      "ancestorIds": [
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "454DCA919DE04B988E1ADF4829D432D5"
+    },
+    "942C333AFB984A63B4F813889C19EFB4": {
+      "id": "942C333AFB984A63B4F813889C19EFB4",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "LIM-1.C.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Numerical information can be used to estimate\nlimits.",
+      "comments": [],
+      "ancestorIds": [
+        "469C1D34028E4715808B9FA8707F32AA",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "469C1D34028E4715808B9FA8707F32AA"
+    },
+    "48B3BB6D61EB45528D9A7DC2415073EC": {
+      "id": "48B3BB6D61EB45528D9A7DC2415073EC",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "LIM-1.C.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A limit might not exist for some functions\nat particular values of x. Some ways that\nthe limit might not exist are if the function is\nunbounded, if the function is oscillating near\nthis value, or if the limit from the left does not\nequal the limit from the right.",
+      "comments": [],
+      "ancestorIds": [
+        "469C1D34028E4715808B9FA8707F32AA",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "469C1D34028E4715808B9FA8707F32AA"
+    },
+    "6D9628D8EBD94422B42AD03D8EFAAAA5": {
+      "id": "6D9628D8EBD94422B42AD03D8EFAAAA5",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "LIM-1.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Because of issues of scale, graphical\nrepresentations of functions may miss\nimportant function behavior.",
+      "comments": [],
+      "ancestorIds": [
+        "469C1D34028E4715808B9FA8707F32AA",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "469C1D34028E4715808B9FA8707F32AA"
+    },
+    "DB3DA86ED6F04094A13F406206C573A4": {
+      "id": "DB3DA86ED6F04094A13F406206C573A4",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "LIM-1.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graphical information about a function can be\nused to estimate limits.",
+      "comments": [],
+      "ancestorIds": [
+        "469C1D34028E4715808B9FA8707F32AA",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "469C1D34028E4715808B9FA8707F32AA"
+    },
+    "976FF5BC87A34A1AB551B747CB73C520": {
+      "id": "976FF5BC87A34A1AB551B747CB73C520",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-1.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The concept of a limit includes one sided limits.",
+      "comments": [],
+      "ancestorIds": [
+        "469C1D34028E4715808B9FA8707F32AA",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "469C1D34028E4715808B9FA8707F32AA"
+    },
+    "469C1D34028E4715808B9FA8707F32AA": {
+      "id": "469C1D34028E4715808B9FA8707F32AA",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM-1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate limits of functions.",
+      "comments": [],
+      "ancestorIds": [
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "454DCA919DE04B988E1ADF4829D432D5"
+    },
+    "CA7CDEA95F7C42B784B3BE9BCA76408E": {
+      "id": "CA7CDEA95F7C42B784B3BE9BCA76408E",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-1.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A limit can be expressed in multiple ways,\nincluding graphically, numerically, and\nanalytically",
+      "comments": [],
+      "ancestorIds": [
+        "98B955B22362492C88C700CB49A7BAD7",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "98B955B22362492C88C700CB49A7BAD7"
+    },
+    "98B955B22362492C88C700CB49A7BAD7": {
+      "id": "98B955B22362492C88C700CB49A7BAD7",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "LIM-1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret limits expressed in\nanalytic notation.",
+      "comments": [],
+      "ancestorIds": [
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "454DCA919DE04B988E1ADF4829D432D5"
+    },
+    "35DAF95C73DA4C049FDAE47885D4A041": {
+      "id": "35DAF95C73DA4C049FDAE47885D4A041",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LIM-1.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a function f, the limit of f(x) as x\napproaches c is a real number R if f(x) can\nbe made arbitrarily close to R by taking x\nsufficiently close to c (but not equal to c).\nIf the limit exists and is a real number, then\nthe common notation is lim f x R.",
+      "comments": [],
+      "ancestorIds": [
+        "2407ACDE6D2742A5AA6E5854D907999D",
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "2407ACDE6D2742A5AA6E5854D907999D"
+    },
+    "2407ACDE6D2742A5AA6E5854D907999D": {
+      "id": "2407ACDE6D2742A5AA6E5854D907999D",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "LIM-1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent limits analytically\nusing correct notation. ",
+      "comments": [],
+      "ancestorIds": [
+        "454DCA919DE04B988E1ADF4829D432D5",
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "454DCA919DE04B988E1ADF4829D432D5"
+    },
+    "454DCA919DE04B988E1ADF4829D432D5": {
+      "id": "454DCA919DE04B988E1ADF4829D432D5",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "LIM-1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning with definitions, theorems, and properties can be used to justify claims\nabout limits. ",
+      "comments": [],
+      "ancestorIds": [
+        "620811CC52A345BB8925395DB88039A1"
+      ],
+      "parentId": "620811CC52A345BB8925395DB88039A1"
+    },
+    "620811CC52A345BB8925395DB88039A1": {
+      "id": "620811CC52A345BB8925395DB88039A1",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 0,
+      "listId": "LIM",
+      "statementNotation": "LIM",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E5610F9754AA44D992323E7B711B5127": {
+      "id": "E5610F9754AA44D992323E7B711B5127",
+      "asnIdentifier": null,
+      "position": 68002,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-6.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The length of a parametrically defined curve\ncan be calculated using a definite integral.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "99564C97D80C425FBEC049851EB48EB6",
+        "4B759C0BA1BF490A88C5A5A0059B0EA3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "99564C97D80C425FBEC049851EB48EB6"
+    },
+    "99564C97D80C425FBEC049851EB48EB6": {
+      "id": "99564C97D80C425FBEC049851EB48EB6",
+      "asnIdentifier": null,
+      "position": 68001,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "CHA-6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the length of a\ncurve in the plane defined by\nparametric functions, using a\ndefinite integral.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "4B759C0BA1BF490A88C5A5A0059B0EA3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "4B759C0BA1BF490A88C5A5A0059B0EA3"
+    },
+    "A8696BADD00B4157854530C71BB44578": {
+      "id": "A8696BADD00B4157854530C71BB44578",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-6.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The length of a planar curve defined\nby a function can be calculated using a\ndefinite integral. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "8E25962286DA470D9618E715E149FD47",
+        "4B759C0BA1BF490A88C5A5A0059B0EA3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "8E25962286DA470D9618E715E149FD47"
+    },
+    "8E25962286DA470D9618E715E149FD47": {
+      "id": "8E25962286DA470D9618E715E149FD47",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "CHA-6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the length of a\ncurve in the plane defined\nby a function, using a\ndefinite integral. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "4B759C0BA1BF490A88C5A5A0059B0EA3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "4B759C0BA1BF490A88C5A5A0059B0EA3"
+    },
+    "4B759C0BA1BF490A88C5A5A0059B0EA3": {
+      "id": "4B759C0BA1BF490A88C5A5A0059B0EA3",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "CHA-6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals allow us to solve problems involving the accumulation of change in\nlength over an interval.",
+      "comments": [],
+      "ancestorIds": [
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+    },
+    "121C93A29F104333B08646848F724658": {
+      "id": "121C93A29F104333B08646848F724658",
+      "asnIdentifier": null,
+      "position": 65003,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-5.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "CalculAreas of regions bounded by polar curves can\nbe calculated with definite integrals. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "46C8BDAD28C745A78E113ADFCD9D3BA6",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "46C8BDAD28C745A78E113ADFCD9D3BA6"
+    },
+    "22273507A97D464EB4B86B99BFA78FB2": {
+      "id": "22273507A97D464EB4B86B99BFA78FB2",
+      "asnIdentifier": null,
+      "position": 65002,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-5.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The concept of calculating areas in rectangular\ncoordinates can be extended to polar\ncoordinates. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "46C8BDAD28C745A78E113ADFCD9D3BA6",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "46C8BDAD28C745A78E113ADFCD9D3BA6"
+    },
+    "46C8BDAD28C745A78E113ADFCD9D3BA6": {
+      "id": "46C8BDAD28C745A78E113ADFCD9D3BA6",
+      "asnIdentifier": null,
+      "position": 65001,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "CHA-5.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate areas of regions\ndefined by polar curves using\ndefinite integrals. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B588BA895BE040359E5B1E5B9EF5EBF1"
+    },
+    "E8A0C6CEC8B44929A5FA8829DAC73A92": {
+      "id": "E8A0C6CEC8B44929A5FA8829DAC73A92",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CHA-5.C.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids of revolution around any\nhorizontal or vertical line whose cross sections\nare ring shaped may be found using definite\nintegrals with the washer method.",
+      "comments": [],
+      "ancestorIds": [
+        "8CDAB331989C4F068215ADC2D7A7DD7B",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "8CDAB331989C4F068215ADC2D7A7DD7B"
+    },
+    "C40760AF74314F1F80251CB6FE7DD1B7": {
+      "id": "C40760AF74314F1F80251CB6FE7DD1B7",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-5.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids of revolution around the x- or\ny-axis whose cross sections are ring shaped\nmay be found using definite integrals with the\nwasher method.",
+      "comments": [],
+      "ancestorIds": [
+        "8CDAB331989C4F068215ADC2D7A7DD7B",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "8CDAB331989C4F068215ADC2D7A7DD7B"
+    },
+    "48F1D08721AA4274929BCD9E7865BA65": {
+      "id": "48F1D08721AA4274929BCD9E7865BA65",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-5.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids of revolution around any\nhorizontal or vertical line in the plane may\nbe found by using definite integrals with the\ndisc method.",
+      "comments": [],
+      "ancestorIds": [
+        "8CDAB331989C4F068215ADC2D7A7DD7B",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "8CDAB331989C4F068215ADC2D7A7DD7B"
+    },
+    "C8E010DFCEBA46E381F34CD199F3274B": {
+      "id": "C8E010DFCEBA46E381F34CD199F3274B",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-5.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids of revolution around the\nx- or y-axis may be found by using definite\nintegrals with the disc method.",
+      "comments": [],
+      "ancestorIds": [
+        "8CDAB331989C4F068215ADC2D7A7DD7B",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "8CDAB331989C4F068215ADC2D7A7DD7B"
+    },
+    "8CDAB331989C4F068215ADC2D7A7DD7B": {
+      "id": "8CDAB331989C4F068215ADC2D7A7DD7B",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "CHA-5.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate volumes of solids\nof revolution using definite\nintegrals. ",
+      "comments": [],
+      "ancestorIds": [
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B588BA895BE040359E5B1E5B9EF5EBF1"
+    },
+    "C2219627FC904DF78FEDA1D481D30FD8": {
+      "id": "C2219627FC904DF78FEDA1D481D30FD8",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "CHA-5.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids with semicircular and other\ngeometrically defined cross sections can be\nfound using definite integrals and the area\nformulas for these shapes.",
+      "comments": [],
+      "ancestorIds": [
+        "29FF8B7A918142A792BD3BA350879428",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "29FF8B7A918142A792BD3BA350879428"
+    },
+    "2001AFFD1BDD454AA70B5A7EA98FB40F": {
+      "id": "2001AFFD1BDD454AA70B5A7EA98FB40F",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "CHA-5.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids with triangular cross\nsections can be found using definite integrals\nand the area formulas for these shapes.",
+      "comments": [],
+      "ancestorIds": [
+        "29FF8B7A918142A792BD3BA350879428",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "29FF8B7A918142A792BD3BA350879428"
+    },
+    "24876104E7E94286B5F6F01FD08DCA6C": {
+      "id": "24876104E7E94286B5F6F01FD08DCA6C",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "CHA-5.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volumes of solids with square and rectangular\ncross sections can be found using\ndefinite integrals and the area formulas for\nthese shapes.",
+      "comments": [],
+      "ancestorIds": [
+        "29FF8B7A918142A792BD3BA350879428",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "29FF8B7A918142A792BD3BA350879428"
+    },
+    "29FF8B7A918142A792BD3BA350879428": {
+      "id": "29FF8B7A918142A792BD3BA350879428",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "CHA-5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate volumes of solids\nwith known cross sections\nusing definite integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B588BA895BE040359E5B1E5B9EF5EBF1"
+    },
+    "C3881B47C56845DE97970048698A62DB": {
+      "id": "C3881B47C56845DE97970048698A62DB",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-5.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Areas of certain regions in the plane may be\ncalculated using a sum of two or more definite\nintegrals or by evaluating a definite integral\nof the absolute value of the difference of\ntwo functions.",
+      "comments": [],
+      "ancestorIds": [
+        "C77592E87A3B48ABA7F3AA49C2D4A3A0",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "C77592E87A3B48ABA7F3AA49C2D4A3A0"
+    },
+    "826C60777E7E4150B0FF8BD6FE2BE829": {
+      "id": "826C60777E7E4150B0FF8BD6FE2BE829",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-5.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Areas of regions in the plane can be calculated\nusing functions of either x or y.",
+      "comments": [],
+      "ancestorIds": [
+        "C77592E87A3B48ABA7F3AA49C2D4A3A0",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "C77592E87A3B48ABA7F3AA49C2D4A3A0"
+    },
+    "8107389F97AE4EF9AE171B5E70DBF095": {
+      "id": "8107389F97AE4EF9AE171B5E70DBF095",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-5.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Areas of regions in the plane can be calculated\nwith definite integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "C77592E87A3B48ABA7F3AA49C2D4A3A0",
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "C77592E87A3B48ABA7F3AA49C2D4A3A0"
+    },
+    "C77592E87A3B48ABA7F3AA49C2D4A3A0": {
+      "id": "C77592E87A3B48ABA7F3AA49C2D4A3A0",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "CHA-5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate areas in the plane\nusing the definite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "B588BA895BE040359E5B1E5B9EF5EBF1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B588BA895BE040359E5B1E5B9EF5EBF1"
+    },
+    "B588BA895BE040359E5B1E5B9EF5EBF1": {
+      "id": "B588BA895BE040359E5B1E5B9EF5EBF1",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "CHA-5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals allow us to solve problems involving the accumulation of change in\narea or volume over an interval.",
+      "comments": [],
+      "ancestorIds": [
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+    },
+    "4475BCBFF9084CBAB1481978C789440D": {
+      "id": "4475BCBFF9084CBAB1481978C789440D",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-4.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definite integral can be used to express\ninformation about accumulation and net\nchange in many applied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "41B1A687C4264AEFBD7A55667A751DE5",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "41B1A687C4264AEFBD7A55667A751DE5"
+    },
+    "41B1A687C4264AEFBD7A55667A751DE5": {
+      "id": "41B1A687C4264AEFBD7A55667A751DE5",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "CHA-4.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine net change using\ndefinite integrals in applied\ncontexts.",
+      "comments": [],
+      "ancestorIds": [
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "243348FB4AD64B7CBEF43515D4787614"
+    },
+    "9A6E380C43BE4868862ED0723BFB6863": {
+      "id": "9A6E380C43BE4868862ED0723BFB6863",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-4.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definite integral of the rate of change of a\nquantity over an interval gives the net change\nof that quantity over that interval.",
+      "comments": [],
+      "ancestorIds": [
+        "D5ACDF6CEDDE4E72B121AB243CB51ECB",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "D5ACDF6CEDDE4E72B121AB243CB51ECB"
+    },
+    "6FB91B86976F4BED86E2B54910BDF615": {
+      "id": "6FB91B86976F4BED86E2B54910BDF615",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-4.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A function defined as an integral represents an\naccumulation of a rate of change.",
+      "comments": [],
+      "ancestorIds": [
+        "D5ACDF6CEDDE4E72B121AB243CB51ECB",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "D5ACDF6CEDDE4E72B121AB243CB51ECB"
+    },
+    "D5ACDF6CEDDE4E72B121AB243CB51ECB": {
+      "id": "D5ACDF6CEDDE4E72B121AB243CB51ECB",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "CHA-4.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning\nof a definite integral in\naccumulation problems.",
+      "comments": [],
+      "ancestorIds": [
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "243348FB4AD64B7CBEF43515D4787614"
+    },
+    "678D4E0536C94739B700AFD96434243A": {
+      "id": "678D4E0536C94739B700AFD96434243A",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-4.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For a particle in rectilinear motion over an\ninterval of time, the definite integral of velocity\nrepresents the particle’s displacement over\nthe interval of time, and the definite integral of\nspeed represents the particle’s total distance\ntraveled over the interval of time.",
+      "comments": [],
+      "ancestorIds": [
+        "B312F6B735A14DD4ADDDD4C8B3DB9824",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B312F6B735A14DD4ADDDD4C8B3DB9824"
+    },
+    "B312F6B735A14DD4ADDDD4C8B3DB9824": {
+      "id": "B312F6B735A14DD4ADDDD4C8B3DB9824",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "CHA-4.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine values for\npositions and rates of change\nusing definite integrals\nin problems involving\nrectilinear motion.",
+      "comments": [],
+      "ancestorIds": [
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "243348FB4AD64B7CBEF43515D4787614"
+    },
+    "5DC55514315E4BB48608987535B138CB": {
+      "id": "5DC55514315E4BB48608987535B138CB",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-4.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The average value of a continuous function\nf over an interval.",
+      "comments": [],
+      "ancestorIds": [
+        "3B0BA2EB782F4B9BAFEEECB7316D4935",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "3B0BA2EB782F4B9BAFEEECB7316D4935"
+    },
+    "3B0BA2EB782F4B9BAFEEECB7316D4935": {
+      "id": "3B0BA2EB782F4B9BAFEEECB7316D4935",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "CHA-4.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the average\nvalue of a function using\ndefinite integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "243348FB4AD64B7CBEF43515D4787614"
+    },
+    "BBEB3D36C6224B6CB22E4217A411D3AE": {
+      "id": "BBEB3D36C6224B6CB22E4217A411D3AE",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CHA-4.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The unit for the area of a region defined\nby rate of change is the unit for the rate\nof change multiplied by the unit for the\nindependent variable.",
+      "comments": [],
+      "ancestorIds": [
+        "E8BB2D6ADDF54256A29340605C0BAFC6",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E8BB2D6ADDF54256A29340605C0BAFC6"
+    },
+    "452415D381FC4C32995EBCE4EB5CBF1C": {
+      "id": "452415D381FC4C32995EBCE4EB5CBF1C",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-4.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If a rate of change is positive (negative) over\nan interval, then the accumulated change is\npositive (negative).",
+      "comments": [],
+      "ancestorIds": [
+        "E8BB2D6ADDF54256A29340605C0BAFC6",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E8BB2D6ADDF54256A29340605C0BAFC6"
+    },
+    "A8D2F6A39EDF47C69C6436748F9D5599": {
+      "id": "A8D2F6A39EDF47C69C6436748F9D5599",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-4.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In some cases, accumulation of change can be\nevaluated by using geometry.",
+      "comments": [],
+      "ancestorIds": [
+        "E8BB2D6ADDF54256A29340605C0BAFC6",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E8BB2D6ADDF54256A29340605C0BAFC6"
+    },
+    "3DD5E756B44441DFAFCB8963E19A4C04": {
+      "id": "3DD5E756B44441DFAFCB8963E19A4C04",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-4.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The area of the region between the graph of a\nrate of change function and the x axis gives the\naccumulation of change. ",
+      "comments": [],
+      "ancestorIds": [
+        "E8BB2D6ADDF54256A29340605C0BAFC6",
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E8BB2D6ADDF54256A29340605C0BAFC6"
+    },
+    "E8BB2D6ADDF54256A29340605C0BAFC6": {
+      "id": "E8BB2D6ADDF54256A29340605C0BAFC6",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "CHA-4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of\nareas associated with the\ngraph of a rate of change\nin context.",
+      "comments": [],
+      "ancestorIds": [
+        "243348FB4AD64B7CBEF43515D4787614",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "243348FB4AD64B7CBEF43515D4787614"
+    },
+    "243348FB4AD64B7CBEF43515D4787614": {
+      "id": "243348FB4AD64B7CBEF43515D4787614",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "CHA-4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals allow us to solve problems involving the accumulation of change\nover an interval. ",
+      "comments": [],
+      "ancestorIds": [
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+    },
+    "98CDFEF9A224453082760F773E2B0981": {
+      "id": "98CDFEF9A224453082760F773E2B0981",
+      "asnIdentifier": null,
+      "position": 36005,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.H.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Methods for calculating derivatives of realvalued functions can be extended to vectorvalued functions. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "3E112104AD3F4388B1D4A340D94F2C29",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "3E112104AD3F4388B1D4A340D94F2C29"
+    },
+    "3E112104AD3F4388B1D4A340D94F2C29": {
+      "id": "3E112104AD3F4388B1D4A340D94F2C29",
+      "asnIdentifier": null,
+      "position": 36004,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "CHA-3.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives of\nvector-valued functions.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "79B60B4BF95C49AF856804D8BFD444F0": {
+      "id": "79B60B4BF95C49AF856804D8BFD444F0",
+      "asnIdentifier": null,
+      "position": 36003,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-3.G.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " can be calculated by dividing.  bc only",
+      "comments": [],
+      "ancestorIds": [
+        "263825F33BD84331AEC21473A1D998CE",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "263825F33BD84331AEC21473A1D998CE"
+    },
+    "FEAFA2ACFF274163BCB04C784493DCA7": {
+      "id": "FEAFA2ACFF274163BCB04C784493DCA7",
+      "asnIdentifier": null,
+      "position": 36002,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-3.G.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For a curve defined parametrically, the value at a point on the curve is the slope of\nthe line tangent to the curve at that point.the slope of the line tangent to a curve defined\nusing parametric equations, can be determined\nby dividing does not\nequal zero. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "263825F33BD84331AEC21473A1D998CE",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "263825F33BD84331AEC21473A1D998CE"
+    },
+    "CB0C4DF1F5CF42E295C4327BD363284B": {
+      "id": "CB0C4DF1F5CF42E295C4327BD363284B",
+      "asnIdentifier": null,
+      "position": 36001,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.G.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Methods for calculating derivatives of\nreal-valued functions can be extended to\nparametric functions. bc only",
+      "comments": [],
+      "ancestorIds": [
+        "263825F33BD84331AEC21473A1D998CE",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "263825F33BD84331AEC21473A1D998CE"
+    },
+    "263825F33BD84331AEC21473A1D998CE": {
+      "id": "263825F33BD84331AEC21473A1D998CE",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "CHA-3.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives of\nparametric functions.\nbc only",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "5253FB12896E4F9DA54F3083CDD05F17": {
+      "id": "5253FB12896E4F9DA54F3083CDD05F17",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-3.F.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For a tangent line approximation, the function’s\nbehavior near the point of tangency may\ndetermine whether a tangent line value is\nan underestimate or an overestimate of the\ncorresponding function value.",
+      "comments": [],
+      "ancestorIds": [
+        "B0FC10246F4D412184F879805C2812FF",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B0FC10246F4D412184F879805C2812FF"
+    },
+    "35DC16974F654E67A19C2C93A4AAF9C7": {
+      "id": "35DC16974F654E67A19C2C93A4AAF9C7",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The tangent line is the graph of a locally linear\napproximation of the function near the point of\ntangency.",
+      "comments": [],
+      "ancestorIds": [
+        "B0FC10246F4D412184F879805C2812FF",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "B0FC10246F4D412184F879805C2812FF"
+    },
+    "B0FC10246F4D412184F879805C2812FF": {
+      "id": "B0FC10246F4D412184F879805C2812FF",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "CHA-3.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approximate a value on a\ncurve using the equation of a\ntangent line.",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "E8C07E7201E240D8A5F8912ADF89349C": {
+      "id": "E8C07E7201E240D8A5F8912ADF89349C",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative can be used to solve related\nrates problems; that is, finding a rate at which\none quantity is changing by relating it to other\nquantities whose rates of change are known.",
+      "comments": [],
+      "ancestorIds": [
+        "C7782281A0AD43DE9B282B203FF8CE61",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "C7782281A0AD43DE9B282B203FF8CE61"
+    },
+    "C7782281A0AD43DE9B282B203FF8CE61": {
+      "id": "C7782281A0AD43DE9B282B203FF8CE61",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "CHA-3.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret related rates in\napplied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "BADC09A832A9400AA8248ECADBFF5BF3": {
+      "id": "BADC09A832A9400AA8248ECADBFF5BF3",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-3.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Other differentiation rules, such as the\nproduct rule and the quotient rule, may also\nbe necessary to differentiate all variables with\nrespect to the same independent variable.",
+      "comments": [],
+      "ancestorIds": [
+        "40DA0872F08E415E91FC475D65123493",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "40DA0872F08E415E91FC475D65123493"
+    },
+    "D8DB65BAA087410D9DDE01A3529C5209": {
+      "id": "D8DB65BAA087410D9DDE01A3529C5209",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The chain rule is the basis for differentiating\nvariables in a related rates problem with\nrespect to the same independent variable.",
+      "comments": [],
+      "ancestorIds": [
+        "40DA0872F08E415E91FC475D65123493",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "40DA0872F08E415E91FC475D65123493"
+    },
+    "40DA0872F08E415E91FC475D65123493": {
+      "id": "40DA0872F08E415E91FC475D65123493",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "CHA-3.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate related rates in\napplied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "35BC51C37C784E4EB1B972554E48DF17": {
+      "id": "35BC51C37C784E4EB1B972554E48DF17",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative can be used to solve problems\ninvolving rates of change in applied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "0A805E9A9A2C4F66BEF0833BC191C9D0",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "0A805E9A9A2C4F66BEF0833BC191C9D0"
+    },
+    "0A805E9A9A2C4F66BEF0833BC191C9D0": {
+      "id": "0A805E9A9A2C4F66BEF0833BC191C9D0",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "CHA-3.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret rates of change in\napplied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "E62D1E172E8B434786E3C455CA3D4C3C": {
+      "id": "E62D1E172E8B434786E3C455CA3D4C3C",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative can be used to solve rectilinear\nmotion problems involving position, speed,\nvelocity, and acceleration. ",
+      "comments": [],
+      "ancestorIds": [
+        "FAF9284B1A8C4E358C6BA91F7C34091E",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "FAF9284B1A8C4E358C6BA91F7C34091E"
+    },
+    "FAF9284B1A8C4E358C6BA91F7C34091E": {
+      "id": "FAF9284B1A8C4E358C6BA91F7C34091E",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "CHA-3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate rates of change in\napplied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "8849F6B7B2E54641B54FAB63C4B232E6": {
+      "id": "8849F6B7B2E54641B54FAB63C4B232E6",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-3.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The unit for f '(x) is the unit for f divided by the\nunit for x. ",
+      "comments": [],
+      "ancestorIds": [
+        "A210135F088040578895522493062231",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "A210135F088040578895522493062231"
+    },
+    "27C387D2027544C2B9E115D9C306929E": {
+      "id": "27C387D2027544C2B9E115D9C306929E",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-3.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative can be used to express\ninformation about rates of change in applied\ncontexts.",
+      "comments": [],
+      "ancestorIds": [
+        "A210135F088040578895522493062231",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "A210135F088040578895522493062231"
+    },
+    "4D91590CE87F4ABEB414772F8D6E3A82": {
+      "id": "4D91590CE87F4ABEB414772F8D6E3A82",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-3.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative of a function can be interpreted\nas the instantaneous rate of change with\nrespect to its independent variable.",
+      "comments": [],
+      "ancestorIds": [
+        "A210135F088040578895522493062231",
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "A210135F088040578895522493062231"
+    },
+    "A210135F088040578895522493062231": {
+      "id": "A210135F088040578895522493062231",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "CHA-3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of a\nderivative in context.",
+      "comments": [],
+      "ancestorIds": [
+        "54E050A5887846C3B8FBC553BD34EDE3",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "54E050A5887846C3B8FBC553BD34EDE3"
+    },
+    "54E050A5887846C3B8FBC553BD34EDE3": {
+      "id": "54E050A5887846C3B8FBC553BD34EDE3",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "CHA-3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives allow us to solve real-world problems involving rates of change. ",
+      "comments": [],
+      "ancestorIds": [
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+    },
+    "26C5AFD8036F4AFBA385B2B08C551556": {
+      "id": "26C5AFD8036F4AFBA385B2B08C551556",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-2.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Technology can be used to calculate or\nestimate the value of a derivative of a function\nat a point.",
+      "comments": [],
+      "ancestorIds": [
+        "977A49FEC00C4F209B3C45589364FAFB",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "977A49FEC00C4F209B3C45589364FAFB"
+    },
+    "41239FE2A01445D49C353A8DD9C9FD80": {
+      "id": "41239FE2A01445D49C353A8DD9C9FD80",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-2.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative at a point can be estimated from\ninformation given in tables or graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "977A49FEC00C4F209B3C45589364FAFB",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "977A49FEC00C4F209B3C45589364FAFB"
+    },
+    "977A49FEC00C4F209B3C45589364FAFB": {
+      "id": "977A49FEC00C4F209B3C45589364FAFB",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "CHA-2.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "48C225288B7342E785600AE67C4987CF"
+    },
+    "3FFD32FCF67C48CBABF27DB814EBFA4C": {
+      "id": "3FFD32FCF67C48CBABF27DB814EBFA4C",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-2.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative of a function at a point is the\nslope of the line tangent to a graph of the\nfunction at that point.",
+      "comments": [],
+      "ancestorIds": [
+        "8C0833EF90DC44F7888E0D255CB3F81E",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "8C0833EF90DC44F7888E0D255CB3F81E"
+    },
+    "8C0833EF90DC44F7888E0D255CB3F81E": {
+      "id": "8C0833EF90DC44F7888E0D255CB3F81E",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "CHA-2.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the equation of a\nline tangent to a curve at a\ngiven point.",
+      "comments": [],
+      "ancestorIds": [
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "48C225288B7342E785600AE67C4987CF"
+    },
+    "59F6A4ED93334202B98EA4FDB1EB67E8": {
+      "id": "59F6A4ED93334202B98EA4FDB1EB67E8",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CHA-2.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative can be represented graphically,\nnumerically, analytically, and verbally",
+      "comments": [],
+      "ancestorIds": [
+        "E642A30A355447BAAAAADB2CE49D3685",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E642A30A355447BAAAAADB2CE49D3685"
+    },
+    "BA7F5949D5914E0F80E544D44CB7B181": {
+      "id": "BA7F5949D5914E0F80E544D44CB7B181",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-2.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For y = f = ( x), notations for the derivative\ninclude, f ′(x ), and y′.",
+      "comments": [],
+      "ancestorIds": [
+        "E642A30A355447BAAAAADB2CE49D3685",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E642A30A355447BAAAAADB2CE49D3685"
+    },
+    "B8ECE2B7A3B0403C9CB8583DBDF7AD39": {
+      "id": "B8ECE2B7A3B0403C9CB8583DBDF7AD39",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-2.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative of f is the function whose value\nat x provided this limit\nexists.",
+      "comments": [],
+      "ancestorIds": [
+        "E642A30A355447BAAAAADB2CE49D3685",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E642A30A355447BAAAAADB2CE49D3685"
+    },
+    "514B5C55987D414F90F03F34D684B3C4": {
+      "id": "514B5C55987D414F90F03F34D684B3C4",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-2.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The instantaneous rate of change of a\nfunction at x a = can be expressed provided the limit exists. These are equivalent\nforms of the definition of the derivative and are\ndenoted f′( a).",
+      "comments": [],
+      "ancestorIds": [
+        "E642A30A355447BAAAAADB2CE49D3685",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "E642A30A355447BAAAAADB2CE49D3685"
+    },
+    "E642A30A355447BAAAAADB2CE49D3685": {
+      "id": "E642A30A355447BAAAAADB2CE49D3685",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "CHA-2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent the derivative of\na function as the limit of a\ndifference quotient.",
+      "comments": [],
+      "ancestorIds": [
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "48C225288B7342E785600AE67C4987CF"
+    },
+    "785FDAAE9CB549A3AFB85DE52A0A43B2": {
+      "id": "785FDAAE9CB549A3AFB85DE52A0A43B2",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-2.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using the difference quotients express the average rate of\nchange of a function over an interval.",
+      "comments": [],
+      "ancestorIds": [
+        "CF3745C3A99B4843A2B94B009D8A29F4",
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "CF3745C3A99B4843A2B94B009D8A29F4"
+    },
+    "CF3745C3A99B4843A2B94B009D8A29F4": {
+      "id": "CF3745C3A99B4843A2B94B009D8A29F4",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "CHA-2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine average rates\nof change using difference\nquotients.",
+      "comments": [],
+      "ancestorIds": [
+        "48C225288B7342E785600AE67C4987CF",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "48C225288B7342E785600AE67C4987CF"
+    },
+    "48C225288B7342E785600AE67C4987CF": {
+      "id": "48C225288B7342E785600AE67C4987CF",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "CHA-2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives allow us to determine rates of change at an instant by applying limits to\nknowledge about rates of change over intervals.",
+      "comments": [],
+      "ancestorIds": [
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+    },
+    "FFFA61DCF78A449E8CD4001F976AD565": {
+      "id": "FFFA61DCF78A449E8CD4001F976AD565",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CHA-1.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The limit concept allows us to define\ninstantaneous rate of change in terms of\naverage rates of change.",
+      "comments": [],
+      "ancestorIds": [
+        "43F91EB7FC064191A4930E539E240C1A",
+        "FE8F1123BB344FFAAEDA9B48231D92F1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "43F91EB7FC064191A4930E539E240C1A"
+    },
+    "833536E6260B41B79657DF2882AB8336": {
+      "id": "833536E6260B41B79657DF2882AB8336",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CHA-1.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Because an average rate of change divides\nthe change in one variable by the change\nin another, the average rate of change is\nundefined at a point where the change in the\nindependent variable would be zero.",
+      "comments": [],
+      "ancestorIds": [
+        "43F91EB7FC064191A4930E539E240C1A",
+        "FE8F1123BB344FFAAEDA9B48231D92F1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "43F91EB7FC064191A4930E539E240C1A"
+    },
+    "0CCBA210D09C485FABF524D14F853C39": {
+      "id": "0CCBA210D09C485FABF524D14F853C39",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CHA-1.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculus uses limits to understand and model\ndynamic change",
+      "comments": [],
+      "ancestorIds": [
+        "43F91EB7FC064191A4930E539E240C1A",
+        "FE8F1123BB344FFAAEDA9B48231D92F1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "43F91EB7FC064191A4930E539E240C1A"
+    },
+    "43F91EB7FC064191A4930E539E240C1A": {
+      "id": "43F91EB7FC064191A4930E539E240C1A",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "CHA-1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the rate of change\nat an instant in terms of\naverage rates of change\nover intervals containing\nthat instant.",
+      "comments": [],
+      "ancestorIds": [
+        "FE8F1123BB344FFAAEDA9B48231D92F1",
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "FE8F1123BB344FFAAEDA9B48231D92F1"
+    },
+    "FE8F1123BB344FFAAEDA9B48231D92F1": {
+      "id": "FE8F1123BB344FFAAEDA9B48231D92F1",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CHA-1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculus allows us to generalize knowledge about motion to diverse problems\ninvolving change.",
+      "comments": [],
+      "ancestorIds": [
+        "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+      ],
+      "parentId": "03BAF894E1BB4CFEB93CCACEE3E3D70D"
+    },
+    "03BAF894E1BB4CFEB93CCACEE3E3D70D": {
+      "id": "03BAF894E1BB4CFEB93CCACEE3E3D70D",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "CHA",
+      "statementNotation": "CHA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Change",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

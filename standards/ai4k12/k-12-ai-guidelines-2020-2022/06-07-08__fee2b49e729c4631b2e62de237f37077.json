@@ -1,0 +1,826 @@
+{
+  "id": "FEE2B49E729C4631B2E62DE237F37077",
+  "title": "Big Idea #3 - Learning: Grades 6-8",
+  "subject": "K-12 AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "06",
+    "07",
+    "08"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Big Idea #3: Learning ",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recUEesZDav1WXn5C/fldIxltCXshIi374r/attdYS2XKAYRrLghl?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "DF61C99B3D50442CA190C03AA5B3FFB1": {
+      "id": "DF61C99B3D50442CA190C03AA5B3FFB1",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: A classifier trained on only Caucasian faces\nwill do poorly on Black or Asian faces. A classifier trained\non a loan application dataset where most of the rejected\napplicants lived in Pleasntville might decide to never\nmake a loan to anyone who lives in Pleasantville. ",
+      "comments": [],
+      "ancestorIds": [
+        "1876C21C16554C3FB314BC4A2872E8F8",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "1876C21C16554C3FB314BC4A2872E8F8"
+    },
+    "800E52DB16DC4382A8317441B1BCDAB5": {
+      "id": "800E52DB16DC4382A8317441B1BCDAB5",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Bias can result if the model is asked to classify\ninputs that don't resemble the training data, or if the\ntraining data contains irrelevant correlations we don't\nwant the classifier to rely on. ",
+      "comments": [],
+      "ancestorIds": [
+        "1876C21C16554C3FB314BC4A2872E8F8",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "1876C21C16554C3FB314BC4A2872E8F8"
+    },
+    "4C8BE581020E4AC9A33AA424AB0C763D": {
+      "id": "4C8BE581020E4AC9A33AA424AB0C763D",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain how the choice of training data shapes the\nbehavior of the classifier, and how bias can be\nintroduced if the training set is not properly balanced.",
+      "comments": [],
+      "ancestorIds": [
+        "1876C21C16554C3FB314BC4A2872E8F8",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "1876C21C16554C3FB314BC4A2872E8F8"
+    },
+    "1876C21C16554C3FB314BC4A2872E8F8": {
+      "id": "1876C21C16554C3FB314BC4A2872E8F8",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Bias)",
+      "comments": [],
+      "ancestorIds": [
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+    },
+    "C2D980F58F674CB1B20FF5A1C32C7C29": {
+      "id": "C2D980F58F674CB1B20FF5A1C32C7C29",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Students can be given a set of images and\nasked to draw a bounding box around every person, dog,\nor traffic sign in the image, and label the object\nappropriately. As a follow-up, students could be asked to\nestimate the time it would take to construct a labeled\ndataset with several thousand examples. ",
+      "comments": [],
+      "ancestorIds": [
+        "72DEB9FBFCC24C93B1E450D7FB8A62C4",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "72DEB9FBFCC24C93B1E450D7FB8A62C4"
+    },
+    "7967F6989A66462CAB969DBDFCCA2460": {
+      "id": "7967F6989A66462CAB969DBDFCCA2460",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Machine learning requires large amounts of data to\nbe effective. Human expertise is usually required to label\nthe data, which could be labor intensive.",
+      "comments": [],
+      "ancestorIds": [
+        "72DEB9FBFCC24C93B1E450D7FB8A62C4",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "72DEB9FBFCC24C93B1E450D7FB8A62C4"
+    },
+    "9ED5C71387D041C3B1C813071E19AE6E": {
+      "id": "9ED5C71387D041C3B1C813071E19AE6E",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate how objects in an image can be segmented\nand labeled to construct a training set for object\nrecognition.",
+      "comments": [],
+      "ancestorIds": [
+        "72DEB9FBFCC24C93B1E450D7FB8A62C4",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "72DEB9FBFCC24C93B1E450D7FB8A62C4"
+    },
+    "72DEB9FBFCC24C93B1E450D7FB8A62C4": {
+      "id": "72DEB9FBFCC24C93B1E450D7FB8A62C4",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Large datasets)",
+      "comments": [],
+      "ancestorIds": [
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+    },
+    "11FBE8BED5DD451BA3E42FA7C240CE9D": {
+      "id": "11FBE8BED5DD451BA3E42FA7C240CE9D",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Resource: MachineLearningForKids will draw the\ndecision tree so students can inspect it and see which\nfeature is referenced at each node.",
+      "comments": [],
+      "ancestorIds": [
+        "E4162FF31E8546BB92FC04854BDB98E9",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "E4162FF31E8546BB92FC04854BDB98E9"
+    },
+    "11D93DD09B3F49BC89D2850AD0F895C3": {
+      "id": "11D93DD09B3F49BC89D2850AD0F895C3",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: At each node of the decision tree, the\nlearning algorithm tries to pick a feature that will be most\nhelpful in separating the remaining instances into\ndifferent classes. Features that don't correlate strongly\nwith any class will not be chosen. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4162FF31E8546BB92FC04854BDB98E9",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "E4162FF31E8546BB92FC04854BDB98E9"
+    },
+    "B26843DD3A0E496ABBAA95DFA3D7AAC6": {
+      "id": "B26843DD3A0E496ABBAA95DFA3D7AAC6",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The choice of features to include, and the best\nencoding to use for these features, depends on the\nparticular reasoning problem we are trying to solve. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4162FF31E8546BB92FC04854BDB98E9",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "E4162FF31E8546BB92FC04854BDB98E9"
+    },
+    "51A5BF64ED174970B71F429C47909BE2": {
+      "id": "51A5BF64ED174970B71F429C47909BE2",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Create a dataset for training a decision tree\nclassifier or predictor and explore the impact that\ndifferent feature encodings have on the decision tree.",
+      "comments": [],
+      "ancestorIds": [
+        "E4162FF31E8546BB92FC04854BDB98E9",
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "E4162FF31E8546BB92FC04854BDB98E9"
+    },
+    "E4162FF31E8546BB92FC04854BDB98E9": {
+      "id": "E4162FF31E8546BB92FC04854BDB98E9",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature sets)",
+      "comments": [],
+      "ancestorIds": [
+        "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+      ],
+      "parentId": "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A"
+    },
+    "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A": {
+      "id": "F2AD7C7C6F3A48D3A1C3F26FF96E7D3A",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Datasets",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5B88ADD56BBA41D3B5AF48D6344DFEA6": {
+      "id": "5B88ADD56BBA41D3B5AF48D6344DFEA6",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Training can be done using binary units and\na simple learning rule for adjusting the weights (such as\nthe perceptron learning rule in the \"Will this dog bite\nme?\" exercise). ",
+      "comments": [],
+      "ancestorIds": [
+        "63F88B90E0114192B79262F99BA44DA0",
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "63F88B90E0114192B79262F99BA44DA0"
+    },
+    "14662F8794F94549A64009DFCE66AC41": {
+      "id": "14662F8794F94549A64009DFCE66AC41",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: During training, weights are adjusted in response to\nerrors in the network's output, so that an error will be\nless likely when the input is seen again.",
+      "comments": [],
+      "ancestorIds": [
+        "63F88B90E0114192B79262F99BA44DA0",
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "63F88B90E0114192B79262F99BA44DA0"
+    },
+    "2FFAF8B9CA1E4757A5965EA9A059B4F9": {
+      "id": "2FFAF8B9CA1E4757A5965EA9A059B4F9",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Demonstrate how a learning rule can be used to\nadjust the weights in a one-layer neural network.",
+      "comments": [],
+      "ancestorIds": [
+        "63F88B90E0114192B79262F99BA44DA0",
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "63F88B90E0114192B79262F99BA44DA0"
+    },
+    "63F88B90E0114192B79262F99BA44DA0": {
+      "id": "63F88B90E0114192B79262F99BA44DA0",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Weight adjustment)",
+      "comments": [],
+      "ancestorIds": [
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "6245C047A8914078B1FEB5CF869B3A09"
+    },
+    "C7CB96C71B48461EB109E1E5F6AF1787": {
+      "id": "C7CB96C71B48461EB109E1E5F6AF1787",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: A neural network maps input patterns to\noutput patterns in a complex way. Each neuron\ncomputes a function, and the network as a whole\ncomputes a complex function that can be considered a\nvery wiggly mathematical function.",
+      "comments": [],
+      "ancestorIds": [
+        "8540558C8E084C9282142D38C104216B",
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "8540558C8E084C9282142D38C104216B"
+    },
+    "3F580740BBE64A3FB41EC77FFE62200F": {
+      "id": "3F580740BBE64A3FB41EC77FFE62200F",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Neural networks are organized as layers of units\n(input, hidden, and output layers), with weighted\nconnections between units in successive layers. Each\nunit computes the sum of its weighted inputs. It passes\nthat sum through a transfer function to produce a\nnumeric output. ",
+      "comments": [],
+      "ancestorIds": [
+        "8540558C8E084C9282142D38C104216B",
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "8540558C8E084C9282142D38C104216B"
+    },
+    "3916B45180354C77A37B5D5212E2AA47": {
+      "id": "3916B45180354C77A37B5D5212E2AA47",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate the structure of a neural network and\ndescribe how its parts form a set of functions that\ncompute an output.  ",
+      "comments": [],
+      "ancestorIds": [
+        "8540558C8E084C9282142D38C104216B",
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "8540558C8E084C9282142D38C104216B"
+    },
+    "8540558C8E084C9282142D38C104216B": {
+      "id": "8540558C8E084C9282142D38C104216B",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Structure of a neural\nnetwork) ",
+      "comments": [],
+      "ancestorIds": [
+        "6245C047A8914078B1FEB5CF869B3A09"
+      ],
+      "parentId": "6245C047A8914078B1FEB5CF869B3A09"
+    },
+    "6245C047A8914078B1FEB5CF869B3A09": {
+      "id": "6245C047A8914078B1FEB5CF869B3A09",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Neural Networks",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C46517BC01A940E4BA5E7A2ADEDA8E2A": {
+      "id": "C46517BC01A940E4BA5E7A2ADEDA8E2A",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: In supervised learning, the teacher indicates\nthe correct output for each training example, so the\nlearning algorithm can see what it's doing wrong. In\nreinforcement learning, the reinforcement signal\nindicates how well the model is performing, but does not\ntell the learning algorithm what actions the model should\nhave chosen to do better. This must be discovered by\ntrial and error, so it may take hundreds of thousands of\ntrials to reach expert level performance. For example,\nwhen playing a video game, the reinforcement signal\ncould be the number of points scored. Because the\ncomputer learns from its own experience, reinforcement\nlearning can find solutions to problems where there is no\nteacher who could tell it the best action to take. ",
+      "comments": [],
+      "ancestorIds": [
+        "3E9A59EACA384559AC8D4001D330712C",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "3E9A59EACA384559AC8D4001D330712C"
+    },
+    "D5E51F2CA61646749898D162D7C58DA1": {
+      "id": "D5E51F2CA61646749898D162D7C58DA1",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Supervised learning tells the agent what output it\nshould produce for each input; reinforcement learning\nonly tells the agent how well it's doing as it chooses\nactions to take. ",
+      "comments": [],
+      "ancestorIds": [
+        "3E9A59EACA384559AC8D4001D330712C",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "3E9A59EACA384559AC8D4001D330712C"
+    },
+    "D95199B8AFDE4737BD7D3BC1366F7875": {
+      "id": "D95199B8AFDE4737BD7D3BC1366F7875",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain the differences between supervised learning\nand reinforcement learning. ",
+      "comments": [],
+      "ancestorIds": [
+        "3E9A59EACA384559AC8D4001D330712C",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "3E9A59EACA384559AC8D4001D330712C"
+    },
+    "3E9A59EACA384559AC8D4001D330712C": {
+      "id": "3E9A59EACA384559AC8D4001D330712C",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Learning from\nexperience)",
+      "comments": [],
+      "ancestorIds": [
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "70160A93784244079A9B562947FD524E"
+    },
+    "26B12C722FE746B8AA7B5FFC1E3C011F": {
+      "id": "26B12C722FE746B8AA7B5FFC1E3C011F",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "3-A-v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: A decision tree's internal representations are\nthe nodes, the feature each node examines, and the\nvalue the feature is compared against. A neural\nnetwork's internal representations are the weights.\nDecision tree learning algorithms try to find, for each new\nnode they create, the most informative feature to\nexamine. Changing the training data can result in a\ndifferent choice of feature to examine next. With a\nneural network, changing the training data will lead to\ndifferent weight adjustments as the algorithm tries to\nreduce the error signal. ",
+      "comments": [],
+      "ancestorIds": [
+        "AF59A34E75E14BBEA622C0D9661F0A0B",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "AF59A34E75E14BBEA622C0D9661F0A0B"
+    },
+    "A436BB047B97445CB51EF7F48CDC9896": {
+      "id": "A436BB047B97445CB51EF7F48CDC9896",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "3-A-v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: In decision tree learning, each step adds a new\nnode, which tests a single feature value. In neural\nnetwork learning, each step makes a small change to\nevery weight in the network.",
+      "comments": [],
+      "ancestorIds": [
+        "AF59A34E75E14BBEA622C0D9661F0A0B",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "AF59A34E75E14BBEA622C0D9661F0A0B"
+    },
+    "7A71F8A3482449819F35571E56B4CBB0": {
+      "id": "7A71F8A3482449819F35571E56B4CBB0",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "3-A-v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Compare how a decision tree learning algorithm\nworks vs. how a neural network learning algorithm\nworks. ",
+      "comments": [],
+      "ancestorIds": [
+        "AF59A34E75E14BBEA622C0D9661F0A0B",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "AF59A34E75E14BBEA622C0D9661F0A0B"
+    },
+    "AF59A34E75E14BBEA622C0D9661F0A0B": {
+      "id": "AF59A34E75E14BBEA622C0D9661F0A0B",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Adjusting internal\nrepresentations)",
+      "comments": [],
+      "ancestorIds": [
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "70160A93784244079A9B562947FD524E"
+    },
+    "2E7C6A4CE21846A7818E5421AE79F702": {
+      "id": "2E7C6A4CE21846A7818E5421AE79F702",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "3-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Machine learning algorithms use labeled training\ndata to construct reasoning models that do classification\nor prediction. During training, the reasoning model runs\non the training inputs and the learning algorithm adjusts\nthe model to make its outputs more closely match the\nlabels. Once training is complete, the reasoning model\ncan be applied to new data to solve problems or make\ndecisions. Using a trained reasoning model this way\ndoes not change it; only the learning algorithm can\nchange the model. ",
+      "comments": [],
+      "ancestorIds": [
+        "393617FF62354E27B76EC0B87B407641",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "393617FF62354E27B76EC0B87B407641"
+    },
+    "322C918C4D39415AADD9E19BE9D0151C": {
+      "id": "322C918C4D39415AADD9E19BE9D0151C",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "3-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain the difference between training and using a\nreasoning model. ",
+      "comments": [],
+      "ancestorIds": [
+        "393617FF62354E27B76EC0B87B407641",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "393617FF62354E27B76EC0B87B407641"
+    },
+    "393617FF62354E27B76EC0B87B407641": {
+      "id": "393617FF62354E27B76EC0B87B407641",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Constructing vs. using a\nreasoner) ",
+      "comments": [],
+      "ancestorIds": [
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "70160A93784244079A9B562947FD524E"
+    },
+    "3B2FE73D09444F0C8A235968AB667A38": {
+      "id": "3B2FE73D09444F0C8A235968AB667A38",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Activity: Sites like MachineLearningForKids and\neCraft2Learn include decision tree learning. The learning\nalgorithm figures out which are the relevant features and\nwhat values they should have for each class.",
+      "comments": [],
+      "ancestorIds": [
+        "97CBEE6703EB40AC8E9F7E6BB89F8113",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "97CBEE6703EB40AC8E9F7E6BB89F8113"
+    },
+    "A613FEE48632468EA61D46B9E2E0A2F2": {
+      "id": "A613FEE48632468EA61D46B9E2E0A2F2",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Within a tabular dataset, each training\nexample is a row in the table and is described by a set of\nfeature values; the features are the columns of the table.\nClassification assigns each example to one of a discrete\nset of classes (e.g., cat or dog); prediction outputs a\ncontinuous value, such as predicting a person's height\nfrom their age. The learning algorithm is likely to be a\ndecision tree learner rather than a neural network. ",
+      "comments": [],
+      "ancestorIds": [
+        "97CBEE6703EB40AC8E9F7E6BB89F8113",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "97CBEE6703EB40AC8E9F7E6BB89F8113"
+    },
+    "B0B518759E694E3BA5FBD8EB16346B7D": {
+      "id": "B0B518759E694E3BA5FBD8EB16346B7D",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computers can learn to classify instances or predict\nvalues by examining feature values. If the results on new\ninputs are unsatisfactory, additional training may be\nrequired to improve the accuracy. ",
+      "comments": [],
+      "ancestorIds": [
+        "97CBEE6703EB40AC8E9F7E6BB89F8113",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "97CBEE6703EB40AC8E9F7E6BB89F8113"
+    },
+    "9646813ADF444CDA94A55659BD23AC26": {
+      "id": "9646813ADF444CDA94A55659BD23AC26",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Train and evaluate a classification or prediction\nmodel using machine learning on a tabular dataset.",
+      "comments": [],
+      "ancestorIds": [
+        "97CBEE6703EB40AC8E9F7E6BB89F8113",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "97CBEE6703EB40AC8E9F7E6BB89F8113"
+    },
+    "97CBEE6703EB40AC8E9F7E6BB89F8113": {
+      "id": "97CBEE6703EB40AC8E9F7E6BB89F8113",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Training a model) ",
+      "comments": [],
+      "ancestorIds": [
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "70160A93784244079A9B562947FD524E"
+    },
+    "F99393C3131A49E487410875CB314BB5": {
+      "id": "F99393C3131A49E487410875CB314BB5",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: This can be done graphically using points in\nthe plane and visually constructing cluster boundaries by\noutlining (e.g., drawing an ellipse around) each cluster.",
+      "comments": [],
+      "ancestorIds": [
+        "C3DAE79FBA924167A1687E81656953C4",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "C3DAE79FBA924167A1687E81656953C4"
+    },
+    "2EC5BCDA29544FAD95D2A568D42DBA6B": {
+      "id": "2EC5BCDA29544FAD95D2A568D42DBA6B",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Unsupervised learning is useful when we don't\nknow in advance what classes exist. It discovers patterns\n(or classes) in data by grouping nearby points into\nclusters. Once a set of clusters has been found, new\npoints can be classified based on distance from the\ncluster boundaries. ",
+      "comments": [],
+      "ancestorIds": [
+        "C3DAE79FBA924167A1687E81656953C4",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "C3DAE79FBA924167A1687E81656953C4"
+    },
+    "8D5F95C711204DA88F14E5C3EDBC39FF": {
+      "id": "8D5F95C711204DA88F14E5C3EDBC39FF",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Model how unsupervised learning finds patterns in\nunlabeled data.",
+      "comments": [],
+      "ancestorIds": [
+        "C3DAE79FBA924167A1687E81656953C4",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "C3DAE79FBA924167A1687E81656953C4"
+    },
+    "C3DAE79FBA924167A1687E81656953C4": {
+      "id": "C3DAE79FBA924167A1687E81656953C4",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Finding patterns in\ndata)",
+      "comments": [],
+      "ancestorIds": [
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "70160A93784244079A9B562947FD524E"
+    },
+    "B890A507FF564F73A2454F95CCA59851": {
+      "id": "B890A507FF564F73A2454F95CCA59851",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: People are flexible learners who employ\nmultiple strategies. Computers use specialized\nalgorithms that require large amounts of data or many\ntrials, and only solve narrowly defined problems. While\nhumans can construct reasoners by explicitly\nprogramming them, for complex problems it is often\nmore convenient to let the machine learning algorithm do\nthe work. ",
+      "comments": [],
+      "ancestorIds": [
+        "CDA39C45A4F8454E8AFD377520AF94F9",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "CDA39C45A4F8454E8AFD377520AF94F9"
+    },
+    "C65759FD04814259B14AB5E8F914C329": {
+      "id": "C65759FD04814259B14AB5E8F914C329",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: People learn by observation, by being told, by\nasking questions, by experimentation, by practice, and\nby making connections to past experience. Computers\nlearn by applying specialized algorithms to large\namounts of training data, or by thousands or even\nmillions of trial and error experiences, to solve narrowly\ndefined problems.",
+      "comments": [],
+      "ancestorIds": [
+        "CDA39C45A4F8454E8AFD377520AF94F9",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "CDA39C45A4F8454E8AFD377520AF94F9"
+    },
+    "860D07AD8E934CEF8C53755466B81ED7": {
+      "id": "860D07AD8E934CEF8C53755466B81ED7",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Contrast the unique characteristics of human\nlearning with the ways machine learning systems\noperate. ",
+      "comments": [],
+      "ancestorIds": [
+        "CDA39C45A4F8454E8AFD377520AF94F9",
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "CDA39C45A4F8454E8AFD377520AF94F9"
+    },
+    "CDA39C45A4F8454E8AFD377520AF94F9": {
+      "id": "CDA39C45A4F8454E8AFD377520AF94F9",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Humans vs. machines)",
+      "comments": [],
+      "ancestorIds": [
+        "70160A93784244079A9B562947FD524E"
+      ],
+      "parentId": "70160A93784244079A9B562947FD524E"
+    },
+    "70160A93784244079A9B562947FD524E": {
+      "id": "70160A93784244079A9B562947FD524E",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Nature of Learning ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

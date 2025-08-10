@@ -1,0 +1,2359 @@
+{
+  "id": "7D0A3420BC264A8DA8EFB10F41CCB2AF",
+  "title": "Digital Electronics",
+  "subject": "Engineering",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Project Lead The Way",
+    "sourceURL": "https://lms-content.pltw.org/curriculum/Frameworks/ENG/FWK_DE_course.pdf"
+  },
+  "jurisdiction": {
+    "id": "BC21751D74764127A5C907D278D7542D",
+    "title": "Project Lead The Way"
+  },
+  "standards": {
+    "811EF33C715E4924B05039A17E0B710E": {
+      "id": "811EF33C715E4924B05039A17E0B710E",
+      "asnIdentifier": null,
+      "position": 98034,
+      "depth": 3,
+      "listId": "KS10.1.2",
+      "statementNotation": "KS10.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Follow acceptable formats for technical writing and professional presentations.",
+      "comments": [],
+      "ancestorIds": [
+        "DD387961DD274F25823A7ED4E7C2286E",
+        "61383B40CCBC4D6BB4B809955047EF62",
+        "F165B67CDDE84BDB93190A966C7C69BF"
+      ],
+      "parentId": "DD387961DD274F25823A7ED4E7C2286E"
+    },
+    "A73C719B77E848ED8ADDE8BC37507C61": {
+      "id": "A73C719B77E848ED8ADDE8BC37507C61",
+      "asnIdentifier": null,
+      "position": 97034,
+      "depth": 3,
+      "listId": "KS10.1.1",
+      "statementNotation": "KS10.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Adhere to established conventions of written, oral, and electronic communications (grammar,\nspelling, usage, and mechanics).",
+      "comments": [],
+      "ancestorIds": [
+        "DD387961DD274F25823A7ED4E7C2286E",
+        "61383B40CCBC4D6BB4B809955047EF62",
+        "F165B67CDDE84BDB93190A966C7C69BF"
+      ],
+      "parentId": "DD387961DD274F25823A7ED4E7C2286E"
+    },
+    "DD387961DD274F25823A7ED4E7C2286E": {
+      "id": "DD387961DD274F25823A7ED4E7C2286E",
+      "asnIdentifier": null,
+      "position": 96034,
+      "depth": 2,
+      "listId": "O10.1",
+      "statementNotation": "O10.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communicate effectively with an audience based on audience characteristics.",
+      "comments": [],
+      "ancestorIds": [
+        "61383B40CCBC4D6BB4B809955047EF62",
+        "F165B67CDDE84BDB93190A966C7C69BF"
+      ],
+      "parentId": "61383B40CCBC4D6BB4B809955047EF62"
+    },
+    "61383B40CCBC4D6BB4B809955047EF62": {
+      "id": "61383B40CCBC4D6BB4B809955047EF62",
+      "asnIdentifier": null,
+      "position": 96033,
+      "depth": 1,
+      "listId": "D10",
+      "statementNotation": "D10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication: Engineering practice requires effective communication with a variety of audiences using multiple modalities.",
+      "comments": [],
+      "ancestorIds": [
+        "F165B67CDDE84BDB93190A966C7C69BF"
+      ],
+      "parentId": "F165B67CDDE84BDB93190A966C7C69BF"
+    },
+    "F165B67CDDE84BDB93190A966C7C69BF": {
+      "id": "F165B67CDDE84BDB93190A966C7C69BF",
+      "asnIdentifier": null,
+      "position": 96032,
+      "depth": 0,
+      "listId": "C3",
+      "statementNotation": "C3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professional Practices and Communication: Professional practice is guided by professional ethics and standards and requires effective communication and collaboration.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "38AD22EE00844671948FA8502E146531": {
+      "id": "38AD22EE00844671948FA8502E146531",
+      "asnIdentifier": null,
+      "position": 96031,
+      "depth": 3,
+      "listId": "KS9.2.2",
+      "statementNotation": "KS9.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create, interpret, or modify a program to control a servo’s speed and/or position.",
+      "comments": [],
+      "ancestorIds": [
+        "2688AC0C3FF840008BE5641D925893DA",
+        "013E058B6CCD442FB3AAF37B0B3AC0EA",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "2688AC0C3FF840008BE5641D925893DA"
+    },
+    "FB7717EA7D1D4F748462351C41D08195": {
+      "id": "FB7717EA7D1D4F748462351C41D08195",
+      "asnIdentifier": null,
+      "position": 96030,
+      "depth": 3,
+      "listId": "KS9.2.1",
+      "statementNotation": "KS9.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create, interpret, or modify a program to control inputs and outputs.",
+      "comments": [],
+      "ancestorIds": [
+        "2688AC0C3FF840008BE5641D925893DA",
+        "013E058B6CCD442FB3AAF37B0B3AC0EA",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "2688AC0C3FF840008BE5641D925893DA"
+    },
+    "2688AC0C3FF840008BE5641D925893DA": {
+      "id": "2688AC0C3FF840008BE5641D925893DA",
+      "asnIdentifier": null,
+      "position": 96029,
+      "depth": 2,
+      "listId": "O9.2",
+      "statementNotation": "O9.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create logic using a programming language.",
+      "comments": [],
+      "ancestorIds": [
+        "013E058B6CCD442FB3AAF37B0B3AC0EA",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "013E058B6CCD442FB3AAF37B0B3AC0EA"
+    },
+    "387229D7B7944D2AABD6F1917E5C8673": {
+      "id": "387229D7B7944D2AABD6F1917E5C8673",
+      "asnIdentifier": null,
+      "position": 95029,
+      "depth": 3,
+      "listId": "KS9.1.1",
+      "statementNotation": "KS9.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select appropriate hardware and translate a set of design requirements into a program that\ncompletes a task.",
+      "comments": [],
+      "ancestorIds": [
+        "E9FB372EFC4D4F04B1D6469541D58E73",
+        "013E058B6CCD442FB3AAF37B0B3AC0EA",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "E9FB372EFC4D4F04B1D6469541D58E73"
+    },
+    "E9FB372EFC4D4F04B1D6469541D58E73": {
+      "id": "E9FB372EFC4D4F04B1D6469541D58E73",
+      "asnIdentifier": null,
+      "position": 95028,
+      "depth": 2,
+      "listId": "O9.1",
+      "statementNotation": "O9.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create, interpret, and/or modify a program to manage inputs and outputs of a microcontroller.",
+      "comments": [],
+      "ancestorIds": [
+        "013E058B6CCD442FB3AAF37B0B3AC0EA",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "013E058B6CCD442FB3AAF37B0B3AC0EA"
+    },
+    "013E058B6CCD442FB3AAF37B0B3AC0EA": {
+      "id": "013E058B6CCD442FB3AAF37B0B3AC0EA",
+      "asnIdentifier": null,
+      "position": 95027,
+      "depth": 1,
+      "listId": "D9",
+      "statementNotation": "D9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming Logic: There are a wide range of tools that allow designers to create logic on a larger scale and faster.",
+      "comments": [],
+      "ancestorIds": [
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C727BB4EC7704793A9AF9A04E3CDE670"
+    },
+    "47D0A372A5A24F2EB250B083BDD3C937": {
+      "id": "47D0A372A5A24F2EB250B083BDD3C937",
+      "asnIdentifier": null,
+      "position": 94027,
+      "depth": 3,
+      "listId": "KS8.1.4",
+      "statementNotation": "KS8.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derive a state machine’s Boolean equations from its state transition table.",
+      "comments": [],
+      "ancestorIds": [
+        "A22CF0647798463284857A3931BC1B2E",
+        "887362A12E4E45D1AE39E2B778FF109E",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "A22CF0647798463284857A3931BC1B2E"
+    },
+    "A9F4AC43095241098BE55B95E8DA0AE9": {
+      "id": "A9F4AC43095241098BE55B95E8DA0AE9",
+      "asnIdentifier": null,
+      "position": 93027,
+      "depth": 3,
+      "listId": "KS8.1.3",
+      "statementNotation": "KS8.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw or interpret a state graph and construct or interpret a state transition table for a state\nmachine.",
+      "comments": [],
+      "ancestorIds": [
+        "A22CF0647798463284857A3931BC1B2E",
+        "887362A12E4E45D1AE39E2B778FF109E",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "A22CF0647798463284857A3931BC1B2E"
+    },
+    "058EE22AB8EA41B18B2A5E0C1115AD59": {
+      "id": "058EE22AB8EA41B18B2A5E0C1115AD59",
+      "asnIdentifier": null,
+      "position": 92027,
+      "depth": 3,
+      "listId": "KS8.1.2",
+      "statementNotation": "KS8.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the components and structure of a state machine.",
+      "comments": [],
+      "ancestorIds": [
+        "A22CF0647798463284857A3931BC1B2E",
+        "887362A12E4E45D1AE39E2B778FF109E",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "A22CF0647798463284857A3931BC1B2E"
+    },
+    "BDA2BAE137BC43F0863A1A843A1025A5": {
+      "id": "BDA2BAE137BC43F0863A1A843A1025A5",
+      "asnIdentifier": null,
+      "position": 91027,
+      "depth": 3,
+      "listId": "KS8.1.1",
+      "statementNotation": "KS8.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify, create, interpret, or modify a state machine design based on design requirements\naccording to a systematic process.",
+      "comments": [],
+      "ancestorIds": [
+        "A22CF0647798463284857A3931BC1B2E",
+        "887362A12E4E45D1AE39E2B778FF109E",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "A22CF0647798463284857A3931BC1B2E"
+    },
+    "A22CF0647798463284857A3931BC1B2E": {
+      "id": "A22CF0647798463284857A3931BC1B2E",
+      "asnIdentifier": null,
+      "position": 91026,
+      "depth": 2,
+      "listId": "O8.1",
+      "statementNotation": "O8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design, interpret, and/or modify a state machine based on specific design requirements to communicate the design.",
+      "comments": [],
+      "ancestorIds": [
+        "887362A12E4E45D1AE39E2B778FF109E",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "887362A12E4E45D1AE39E2B778FF109E"
+    },
+    "887362A12E4E45D1AE39E2B778FF109E": {
+      "id": "887362A12E4E45D1AE39E2B778FF109E",
+      "asnIdentifier": null,
+      "position": 90026,
+      "depth": 1,
+      "listId": "D8",
+      "statementNotation": "D8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State Machines: Allow circuits to make decisions on the next action based on the currect state. ",
+      "comments": [],
+      "ancestorIds": [
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C727BB4EC7704793A9AF9A04E3CDE670"
+    },
+    "2AE3666C30764686AE27AD3BAEEFA982": {
+      "id": "2AE3666C30764686AE27AD3BAEEFA982",
+      "asnIdentifier": null,
+      "position": 89026,
+      "depth": 3,
+      "listId": "KS7.2.4",
+      "statementNotation": "KS7.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe where a count starts and where a count stops/repeats on a modulus asynchronous\ncounter",
+      "comments": [],
+      "ancestorIds": [
+        "0E312AFB42F143BB8180236945596883",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "0E312AFB42F143BB8180236945596883"
+    },
+    "06A4F8F770FC438E9FDFADC17A924618": {
+      "id": "06A4F8F770FC438E9FDFADC17A924618",
+      "asnIdentifier": null,
+      "position": 88026,
+      "depth": 3,
+      "listId": "KS7.2.3",
+      "statementNotation": "KS7.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and/or design up, down, and modulus asynchronous counters using medium-scale\nintegrated (MSI) circuit counters.",
+      "comments": [],
+      "ancestorIds": [
+        "0E312AFB42F143BB8180236945596883",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "0E312AFB42F143BB8180236945596883"
+    },
+    "C8AC0EF50C4E4CBAA6A2EFCC278CE9E6": {
+      "id": "C8AC0EF50C4E4CBAA6A2EFCC278CE9E6",
+      "asnIdentifier": null,
+      "position": 87026,
+      "depth": 3,
+      "listId": "KS7..2",
+      "statementNotation": "KS7.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and/or design up, down, and modulus asynchronous counters using discrete D and\nJ/K flip-flops.",
+      "comments": [],
+      "ancestorIds": [
+        "0E312AFB42F143BB8180236945596883",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "0E312AFB42F143BB8180236945596883"
+    },
+    "D55C06CAAA93403781FDB0FE2CA7550F": {
+      "id": "D55C06CAAA93403781FDB0FE2CA7550F",
+      "asnIdentifier": null,
+      "position": 86026,
+      "depth": 3,
+      "listId": "KS7.2.1",
+      "statementNotation": "KS7.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the ripple effect of an asynchronous counter. ",
+      "comments": [],
+      "ancestorIds": [
+        "0E312AFB42F143BB8180236945596883",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "0E312AFB42F143BB8180236945596883"
+    },
+    "0E312AFB42F143BB8180236945596883": {
+      "id": "0E312AFB42F143BB8180236945596883",
+      "asnIdentifier": null,
+      "position": 85026,
+      "depth": 2,
+      "listId": "O7.2",
+      "statementNotation": "O7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design, interpret, and/or modify asynchronous counter circuits based on specific design requirements\nusing SSI and/or MSI to count up/down, hold/rest, and start/stop counts according to any desired range.",
+      "comments": [],
+      "ancestorIds": [
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "4A66616FD011465BBFDF9DAFCAE56A5F"
+    },
+    "5B3201E315DA469EBF3D91979CB5849B": {
+      "id": "5B3201E315DA469EBF3D91979CB5849B",
+      "asnIdentifier": null,
+      "position": 84026,
+      "depth": 3,
+      "listId": "KS7.1.3",
+      "statementNotation": "KS7.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the advantages and disadvantages of counters using an asynchronous counter\ndesign or synchronous counter design.",
+      "comments": [],
+      "ancestorIds": [
+        "F1631A9E5E2047A4B9A738348B918472",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "F1631A9E5E2047A4B9A738348B918472"
+    },
+    "08D09B2E66D3438AB3074A4DD348F320": {
+      "id": "08D09B2E66D3438AB3074A4DD348F320",
+      "asnIdentifier": null,
+      "position": 83026,
+      "depth": 3,
+      "listId": "KS7.1.2",
+      "statementNotation": "KS7.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and/or design introductory flip-flop applications, such as latches, event detection\ncircuits, data synchronizers, shift registers, and frequency dividers. ",
+      "comments": [],
+      "ancestorIds": [
+        "F1631A9E5E2047A4B9A738348B918472",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "F1631A9E5E2047A4B9A738348B918472"
+    },
+    "195E9E5D635F427C995318CC1768D226": {
+      "id": "195E9E5D635F427C995318CC1768D226",
+      "asnIdentifier": null,
+      "position": 82026,
+      "depth": 3,
+      "listId": "KS7.1.1",
+      "statementNotation": "KS7.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw or analyze detailed timing diagrams for the D or J/K flip-flop’s Q output in response to a\nvariety of synchronous and asynchronous input conditions. ",
+      "comments": [],
+      "ancestorIds": [
+        "F1631A9E5E2047A4B9A738348B918472",
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "F1631A9E5E2047A4B9A738348B918472"
+    },
+    "F1631A9E5E2047A4B9A738348B918472": {
+      "id": "F1631A9E5E2047A4B9A738348B918472",
+      "asnIdentifier": null,
+      "position": 81026,
+      "depth": 2,
+      "listId": "O7.1",
+      "statementNotation": "O7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design, interpret, and/or modify common sequential logic circuits, such as counters, event detectors,\nand shift registers, using flip-flops based on given design requirements.",
+      "comments": [],
+      "ancestorIds": [
+        "4A66616FD011465BBFDF9DAFCAE56A5F",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "4A66616FD011465BBFDF9DAFCAE56A5F"
+    },
+    "4A66616FD011465BBFDF9DAFCAE56A5F": {
+      "id": "4A66616FD011465BBFDF9DAFCAE56A5F",
+      "asnIdentifier": null,
+      "position": 80026,
+      "depth": 1,
+      "listId": "D7",
+      "statementNotation": "D7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sequential Logic: The foundation of digital circuits based on the use of memory.",
+      "comments": [],
+      "ancestorIds": [
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C727BB4EC7704793A9AF9A04E3CDE670"
+    },
+    "2ED557262DCD4EDC9869DC3CD78AAECA": {
+      "id": "2ED557262DCD4EDC9869DC3CD78AAECA",
+      "asnIdentifier": null,
+      "position": 79026,
+      "depth": 3,
+      "listId": "KS6.2.3",
+      "statementNotation": "KS6.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate a set of design specifications into a functional NAND or NOR combinational logic\ncircuit, determine when NAND only or NOR only implementations are the most efficient\ndesign, and implement effectively into a circuit.",
+      "comments": [],
+      "ancestorIds": [
+        "7D477FE964674AB9B60E9A048D986943",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "7D477FE964674AB9B60E9A048D986943"
+    },
+    "E69FD7A2D1244147912A25564830F8E3": {
+      "id": "E69FD7A2D1244147912A25564830F8E3",
+      "asnIdentifier": null,
+      "position": 78026,
+      "depth": 3,
+      "listId": "KS6.2.2",
+      "statementNotation": "KS6.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(same as KS4.4.2) Apply the Karnaugh mapping technique to simplify Boolean expressions. ",
+      "comments": [],
+      "ancestorIds": [
+        "7D477FE964674AB9B60E9A048D986943",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "7D477FE964674AB9B60E9A048D986943"
+    },
+    "7A4B946C8D914DFF95E46E975F409CE8": {
+      "id": "7A4B946C8D914DFF95E46E975F409CE8",
+      "asnIdentifier": null,
+      "position": 77026,
+      "depth": 3,
+      "listId": "KS6.2.1",
+      "statementNotation": "KS6.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(same as KS4.4.1) Apply Boolean algebra theorems and De Morgan’s theorems to simplify\nexpressions.",
+      "comments": [],
+      "ancestorIds": [
+        "7D477FE964674AB9B60E9A048D986943",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "7D477FE964674AB9B60E9A048D986943"
+    },
+    "7D477FE964674AB9B60E9A048D986943": {
+      "id": "7D477FE964674AB9B60E9A048D986943",
+      "asnIdentifier": null,
+      "position": 76026,
+      "depth": 2,
+      "listId": "O6.2",
+      "statementNotation": "O6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "O6.2 Simplify an AOI circuit design by applying mathematics, K-Mapping, and/or universal gates. ",
+      "comments": [],
+      "ancestorIds": [
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "A8848C120F174008804CEC41575A3F00"
+    },
+    "59BE3F17693F4CE5BB0020BB8CCF18AF": {
+      "id": "59BE3F17693F4CE5BB0020BB8CCF18AF",
+      "asnIdentifier": null,
+      "position": 75026,
+      "depth": 3,
+      "listId": "KS6.1.5",
+      "statementNotation": "KS6.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create an AOI circuit on a breadboard from a schematic. ",
+      "comments": [],
+      "ancestorIds": [
+        "21E7F4AB717B4934B79DDC737FF80602",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "21E7F4AB717B4934B79DDC737FF80602"
+    },
+    "4461FE4D8500454AB0D38AA88E430533": {
+      "id": "4461FE4D8500454AB0D38AA88E430533",
+      "asnIdentifier": null,
+      "position": 74026,
+      "depth": 3,
+      "listId": "KS6.1.4",
+      "statementNotation": "KS6.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret and/or modify an AOI circuit based on design requirements. ",
+      "comments": [],
+      "ancestorIds": [
+        "21E7F4AB717B4934B79DDC737FF80602",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "21E7F4AB717B4934B79DDC737FF80602"
+    },
+    "C72E777FC54A43A2B2744590AE9194FF": {
+      "id": "C72E777FC54A43A2B2744590AE9194FF",
+      "asnIdentifier": null,
+      "position": 73026,
+      "depth": 3,
+      "listId": "KS6.1.3",
+      "statementNotation": "KS6.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate circuit schematics into Boolean expressions or truth tables and Boolean\nexpressions or truth tables into circuit schematics",
+      "comments": [],
+      "ancestorIds": [
+        "21E7F4AB717B4934B79DDC737FF80602",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "21E7F4AB717B4934B79DDC737FF80602"
+    },
+    "DDABE5600C50452A969714E84ED76644": {
+      "id": "DDABE5600C50452A969714E84ED76644",
+      "asnIdentifier": null,
+      "position": 72026,
+      "depth": 3,
+      "listId": "KS6.1.2",
+      "statementNotation": "KS6.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate Boolean expressions into truth tables and truth tables into unsimplified Boolean\nexpressions.",
+      "comments": [],
+      "ancestorIds": [
+        "21E7F4AB717B4934B79DDC737FF80602",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "21E7F4AB717B4934B79DDC737FF80602"
+    },
+    "B66B6B2B1099448EB9F6E530C8C18F7B": {
+      "id": "B66B6B2B1099448EB9F6E530C8C18F7B",
+      "asnIdentifier": null,
+      "position": 71026,
+      "depth": 3,
+      "listId": "KS6.1.1",
+      "statementNotation": "KS6.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate design requirements into Boolean expressions and/or a truth table. ",
+      "comments": [],
+      "ancestorIds": [
+        "21E7F4AB717B4934B79DDC737FF80602",
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "21E7F4AB717B4934B79DDC737FF80602"
+    },
+    "21E7F4AB717B4934B79DDC737FF80602": {
+      "id": "21E7F4AB717B4934B79DDC737FF80602",
+      "asnIdentifier": null,
+      "position": 70026,
+      "depth": 2,
+      "listId": "O6.1",
+      "statementNotation": "O6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create, interpret, and/or modify an AOI combinational logic circuit based on design requirements\naccording to a systematic process for designing a combinational logic circuit.",
+      "comments": [],
+      "ancestorIds": [
+        "A8848C120F174008804CEC41575A3F00",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "A8848C120F174008804CEC41575A3F00"
+    },
+    "A8848C120F174008804CEC41575A3F00": {
+      "id": "A8848C120F174008804CEC41575A3F00",
+      "asnIdentifier": null,
+      "position": 69026,
+      "depth": 1,
+      "listId": "D6",
+      "statementNotation": "D6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Combinational Logic: Create specific outputs in a circuit based on specific inputs.\n",
+      "comments": [],
+      "ancestorIds": [
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C727BB4EC7704793A9AF9A04E3CDE670"
+    },
+    "75BA23D22C774285B8007FEF5F34F2F1": {
+      "id": "75BA23D22C774285B8007FEF5F34F2F1",
+      "asnIdentifier": null,
+      "position": 68026,
+      "depth": 3,
+      "listId": "KS5.6.1",
+      "statementNotation": "KS5.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret and/or modify a multiplexed or de-multiplexed circuit to make it more efficient.",
+      "comments": [],
+      "ancestorIds": [
+        "667680D6E4654F0CB15D10FF717369F1",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "667680D6E4654F0CB15D10FF717369F1"
+    },
+    "667680D6E4654F0CB15D10FF717369F1": {
+      "id": "667680D6E4654F0CB15D10FF717369F1",
+      "asnIdentifier": null,
+      "position": 67026,
+      "depth": 2,
+      "listId": "O5.6",
+      "statementNotation": "O5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Create, interpret, and/or modify a multiplexed or de-multiplexed circuit to make it more efficient.",
+      "comments": [],
+      "ancestorIds": [
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C6D1C8FA62504D4398F753877C2AF368"
+    },
+    "8C6047159074410A9F002FC013F45D37": {
+      "id": "8C6047159074410A9F002FC013F45D37",
+      "asnIdentifier": null,
+      "position": 66026,
+      "depth": 3,
+      "listId": "KS5.5.3",
+      "statementNotation": "KS5.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the design of an adder/subtractor circuit related to the carry out and use of\nXOR/XNOR gates.",
+      "comments": [],
+      "ancestorIds": [
+        "7ADF08BD8A1B4D8ABD81E173272E9B2C",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "7ADF08BD8A1B4D8ABD81E173272E9B2C"
+    },
+    "7138CB71704F4DF1BC2C2E6813E6AC52": {
+      "id": "7138CB71704F4DF1BC2C2E6813E6AC52",
+      "asnIdentifier": null,
+      "position": 65026,
+      "depth": 3,
+      "listId": "KS5.5.2",
+      "statementNotation": "KS5.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Predict outputs given specific inputs when adding or subtracting numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "7ADF08BD8A1B4D8ABD81E173272E9B2C",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "7ADF08BD8A1B4D8ABD81E173272E9B2C"
+    },
+    "CCED22C375B54C76A7730282DA02D962": {
+      "id": "CCED22C375B54C76A7730282DA02D962",
+      "asnIdentifier": null,
+      "position": 64026,
+      "depth": 3,
+      "listId": "KS5.5.1",
+      "statementNotation": "KS5.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(same as KS4.5.1) Describe and/or apply the two’s complement arithmetic process and relate\nthe process to decimal number systems without the use of negative numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "7ADF08BD8A1B4D8ABD81E173272E9B2C",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "7ADF08BD8A1B4D8ABD81E173272E9B2C"
+    },
+    "7ADF08BD8A1B4D8ABD81E173272E9B2C": {
+      "id": "7ADF08BD8A1B4D8ABD81E173272E9B2C",
+      "asnIdentifier": null,
+      "position": 63026,
+      "depth": 2,
+      "listId": "O5.5",
+      "statementNotation": "O5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret and/or modify a full adder and half adder to predict outputs given specific inputs when adding\nor subtracting numbers",
+      "comments": [],
+      "ancestorIds": [
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C6D1C8FA62504D4398F753877C2AF368"
+    },
+    "594F85E78CDA4594989FC85AB0E453DE": {
+      "id": "594F85E78CDA4594989FC85AB0E453DE",
+      "asnIdentifier": null,
+      "position": 62026,
+      "depth": 3,
+      "listId": "KS5.4.3",
+      "statementNotation": "KS5.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret and/or modify the analog components of a 555 timer oscillator circuit to affect the\nwave generated.",
+      "comments": [],
+      "ancestorIds": [
+        "4424597FD05946F98BC00ED2EAF3E8CB",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "4424597FD05946F98BC00ED2EAF3E8CB"
+    },
+    "9854EC5FB5B049659EB7C3B251E99A48": {
+      "id": "9854EC5FB5B049659EB7C3B251E99A48",
+      "asnIdentifier": null,
+      "position": 61026,
+      "depth": 3,
+      "listId": "KS5.4.2",
+      "statementNotation": "KS5.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and interpret the amplitude, period, frequency, and duty cycle of analog and digital\nsignals based on instrumentation and calculations.",
+      "comments": [],
+      "ancestorIds": [
+        "4424597FD05946F98BC00ED2EAF3E8CB",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "4424597FD05946F98BC00ED2EAF3E8CB"
+    },
+    "2C88302DDBD342B7937413763F61C069": {
+      "id": "2C88302DDBD342B7937413763F61C069",
+      "asnIdentifier": null,
+      "position": 60026,
+      "depth": 3,
+      "listId": "KS5.4.1",
+      "statementNotation": "KS5.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select and apply components in a design to produce a desired waveform, frequency, period,\nand/or duty cycle.",
+      "comments": [],
+      "ancestorIds": [
+        "4424597FD05946F98BC00ED2EAF3E8CB",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "4424597FD05946F98BC00ED2EAF3E8CB"
+    },
+    "4424597FD05946F98BC00ED2EAF3E8CB": {
+      "id": "4424597FD05946F98BC00ED2EAF3E8CB",
+      "asnIdentifier": null,
+      "position": 59026,
+      "depth": 2,
+      "listId": "O5.4",
+      "statementNotation": "O5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Clock signals trigger events in circuits.",
+      "comments": [],
+      "ancestorIds": [
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C6D1C8FA62504D4398F753877C2AF368"
+    },
+    "EE6B1FBF31A0495F8C83F60222D4A9D9": {
+      "id": "EE6B1FBF31A0495F8C83F60222D4A9D9",
+      "asnIdentifier": null,
+      "position": 58026,
+      "depth": 3,
+      "listId": "KS5.3.5",
+      "statementNotation": "KS5.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design a circuit, simulate a circuit, and verify a measurement and/or hand calculation using\ncircuit design software (CDS).",
+      "comments": [],
+      "ancestorIds": [
+        "15B180B442FE4F1C8535E8103C562602",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "15B180B442FE4F1C8535E8103C562602"
+    },
+    "3C84F3AF502C40F097E038B8771A3F61": {
+      "id": "3C84F3AF502C40F097E038B8771A3F61",
+      "asnIdentifier": null,
+      "position": 57026,
+      "depth": 3,
+      "listId": "KS5.3.4",
+      "statementNotation": "KS5.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Measure frequency, period, and duty cycle of a clock signal using an oscilloscope.",
+      "comments": [],
+      "ancestorIds": [
+        "15B180B442FE4F1C8535E8103C562602",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "15B180B442FE4F1C8535E8103C562602"
+    },
+    "55DBDA77C08F4F56A9E6B467C59DDA05": {
+      "id": "55DBDA77C08F4F56A9E6B467C59DDA05",
+      "asnIdentifier": null,
+      "position": 56026,
+      "depth": 3,
+      "listId": "KS5.3.3",
+      "statementNotation": "KS5.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Measure current, voltage, and/or resistance within a circuit or across a component using a\ndigital multimeter (DMM).",
+      "comments": [],
+      "ancestorIds": [
+        "15B180B442FE4F1C8535E8103C562602",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "15B180B442FE4F1C8535E8103C562602"
+    },
+    "E5ED5EAC1F8249BB9BF3E3A8B02CA1EC": {
+      "id": "E5ED5EAC1F8249BB9BF3E3A8B02CA1EC",
+      "asnIdentifier": null,
+      "position": 55026,
+      "depth": 3,
+      "listId": "KS5.3.2",
+      "statementNotation": "KS5.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Properly solder and de-solder components to printed circuit boards according to best\npractices.",
+      "comments": [],
+      "ancestorIds": [
+        "15B180B442FE4F1C8535E8103C562602",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "15B180B442FE4F1C8535E8103C562602"
+    },
+    "607440A52D1E4F3B98BB18B51243413E": {
+      "id": "607440A52D1E4F3B98BB18B51243413E",
+      "asnIdentifier": null,
+      "position": 54026,
+      "depth": 3,
+      "listId": "KS5.3.1",
+      "statementNotation": "KS5.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Troubleshoot circuits (mechanics of circuit and logic of circuit). ",
+      "comments": [],
+      "ancestorIds": [
+        "15B180B442FE4F1C8535E8103C562602",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "15B180B442FE4F1C8535E8103C562602"
+    },
+    "15B180B442FE4F1C8535E8103C562602": {
+      "id": "15B180B442FE4F1C8535E8103C562602",
+      "asnIdentifier": null,
+      "position": 53026,
+      "depth": 2,
+      "listId": "O5.3",
+      "statementNotation": "O5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "3 Select and apply the appropriate components, tools, and technology when creating or characterizing a\ndesign.",
+      "comments": [],
+      "ancestorIds": [
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C6D1C8FA62504D4398F753877C2AF368"
+    },
+    "ED0013FB73994C8FA1429AFACBD36953": {
+      "id": "ED0013FB73994C8FA1429AFACBD36953",
+      "asnIdentifier": null,
+      "position": 52026,
+      "depth": 3,
+      "listId": "KS5.2.11",
+      "statementNotation": "KS5.2.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how Programmable Logic Devices (PLDs) allow designers to bypass breadboarding\nand test designs on devices, such as a Field Programmable Gated Array (FPGA), reducing\nthe time needed in design.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "5A181A0CEA6C4761BC292FD3E2911839": {
+      "id": "5A181A0CEA6C4761BC292FD3E2911839",
+      "asnIdentifier": null,
+      "position": 51026,
+      "depth": 3,
+      "listId": "KS5.2.10",
+      "statementNotation": "KS5.2.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select the correct current-limiting resistor and/or properly wire both common cathode and\ncommon anode seven-segment displays.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "E80F6A5E66034782A697D1E1F24C5023": {
+      "id": "E80F6A5E66034782A697D1E1F24C5023",
+      "asnIdentifier": null,
+      "position": 50026,
+      "depth": 3,
+      "listId": "KS5.2.9",
+      "statementNotation": "KS5.2.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implement a seven-segment display into a circuit design to display alphanumeric values using\nseven-segment display drivers.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "B89FAAFC203C402589F02E6B92F45C98": {
+      "id": "B89FAAFC203C402589F02E6B92F45C98",
+      "asnIdentifier": null,
+      "position": 49026,
+      "depth": 3,
+      "listId": "KS5.2.8",
+      "statementNotation": "KS5.2.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify a logic gate from a truth table or write a truth table representing a logic gate.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "8A03021D6B7347CFB7E964F42DD0CBF1": {
+      "id": "8A03021D6B7347CFB7E964F42DD0CBF1",
+      "asnIdentifier": null,
+      "position": 48026,
+      "depth": 3,
+      "listId": "KS5.2.7",
+      "statementNotation": "KS5.2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify integrated circuits wiring diagram from a data sheet.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "2379D4F2B3DC4DAC8094EE456EF6DF8A": {
+      "id": "2379D4F2B3DC4DAC8094EE456EF6DF8A",
+      "asnIdentifier": null,
+      "position": 47026,
+      "depth": 3,
+      "listId": "KS5.2.6",
+      "statementNotation": "KS5.2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify, implement, and/or describe integrated circuits’ properties from their part number,\nschematic symbol, and/or data sheet.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "FA1C2AAFAF66449B8DEEA30D71945746": {
+      "id": "FA1C2AAFAF66449B8DEEA30D71945746",
+      "asnIdentifier": null,
+      "position": 46026,
+      "depth": 3,
+      "listId": "KS5.2.5",
+      "statementNotation": "KS5.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know that common logic gates are designed to fit in Integrated Circuits (ICs) for easier use in\ndesign. These ICs are most often found in two styles: Small Scale Integration (SSI) and\nMedium Scale Integration (MSI).",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "94DB163881B94C9B913FBB75323A0388": {
+      "id": "94DB163881B94C9B913FBB75323A0388",
+      "asnIdentifier": null,
+      "position": 45026,
+      "depth": 3,
+      "listId": "KS5.2.4",
+      "statementNotation": "KS5.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify a capacitor’s nominal value by reading its labeled nomenclature.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "78B91DCE023646EFA3FCA9D44EF033AD": {
+      "id": "78B91DCE023646EFA3FCA9D44EF033AD",
+      "asnIdentifier": null,
+      "position": 44026,
+      "depth": 3,
+      "listId": "KS5.2.3",
+      "statementNotation": "KS5.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify resistor component values from color codes.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "D18DA275864A4EFBA7DE5F742FB94524": {
+      "id": "D18DA275864A4EFBA7DE5F742FB94524",
+      "asnIdentifier": null,
+      "position": 43026,
+      "depth": 3,
+      "listId": "KS5.2.2",
+      "statementNotation": "KS5.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate that digital components, such as transistors, and analog components, such as\nresistors and capacitors, can be used to create logic gates.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "F4E64AA789C24419B896813A0F66BFB5": {
+      "id": "F4E64AA789C24419B896813A0F66BFB5",
+      "asnIdentifier": null,
+      "position": 42026,
+      "depth": 3,
+      "listId": "KS5.2.1",
+      "statementNotation": "KS5.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that the transistor is the most fundamental digital logic component.",
+      "comments": [],
+      "ancestorIds": [
+        "064E2E33630141FBA16B6E1B858E7252",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "064E2E33630141FBA16B6E1B858E7252"
+    },
+    "064E2E33630141FBA16B6E1B858E7252": {
+      "id": "064E2E33630141FBA16B6E1B858E7252",
+      "asnIdentifier": null,
+      "position": 41026,
+      "depth": 2,
+      "listId": "O5.2",
+      "statementNotation": "O5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and describe the characteristics of common components and logic gates.",
+      "comments": [],
+      "ancestorIds": [
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C6D1C8FA62504D4398F753877C2AF368"
+    },
+    "052B4473B8D0496AAB7C753B750E212A": {
+      "id": "052B4473B8D0496AAB7C753B750E212A",
+      "asnIdentifier": null,
+      "position": 40026,
+      "depth": 3,
+      "listId": "KS5.1.1",
+      "statementNotation": "KS5.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify potential electrical hazards that might cause damage to the human body.",
+      "comments": [],
+      "ancestorIds": [
+        "FC512211D41440369565A7CEFD89DB2E",
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "FC512211D41440369565A7CEFD89DB2E"
+    },
+    "FC512211D41440369565A7CEFD89DB2E": {
+      "id": "FC512211D41440369565A7CEFD89DB2E",
+      "asnIdentifier": null,
+      "position": 39026,
+      "depth": 2,
+      "listId": "O5.1",
+      "statementNotation": "O5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate and apply appropriate safety procedures when working with electronics in a classroom.",
+      "comments": [],
+      "ancestorIds": [
+        "C6D1C8FA62504D4398F753877C2AF368",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C6D1C8FA62504D4398F753877C2AF368"
+    },
+    "C6D1C8FA62504D4398F753877C2AF368": {
+      "id": "C6D1C8FA62504D4398F753877C2AF368",
+      "asnIdentifier": null,
+      "position": 38026,
+      "depth": 1,
+      "listId": "D5",
+      "statementNotation": "D5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Foundations in Electronics: Electronics requires specific knowledge related to working safely, the tools, and the electrical components used\nwithin the field.\n",
+      "comments": [],
+      "ancestorIds": [
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C727BB4EC7704793A9AF9A04E3CDE670"
+    },
+    "89442620D42E45F8AA3E274E155396C5": {
+      "id": "89442620D42E45F8AA3E274E155396C5",
+      "asnIdentifier": null,
+      "position": 37026,
+      "depth": 3,
+      "listId": "KS4.5.1",
+      "statementNotation": "KS4.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and/or apply the two’s complement arithmetic process and relate the process to\ndecimal number systems without the use of negative numbers. ",
+      "comments": [],
+      "ancestorIds": [
+        "3134A1CFA3BF4D11AD642FC23C144700",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "3134A1CFA3BF4D11AD642FC23C144700"
+    },
+    "3134A1CFA3BF4D11AD642FC23C144700": {
+      "id": "3134A1CFA3BF4D11AD642FC23C144700",
+      "asnIdentifier": null,
+      "position": 36026,
+      "depth": 2,
+      "listId": "O4.5",
+      "statementNotation": "O4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "5 Add and subtract in the binary number system.",
+      "comments": [],
+      "ancestorIds": [
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "510E7B8AAAF3487F9CDDDAEB7D6F6230"
+    },
+    "7E2C1C5621E44B31B7380DAB0744DD64": {
+      "id": "7E2C1C5621E44B31B7380DAB0744DD64",
+      "asnIdentifier": null,
+      "position": 35026,
+      "depth": 3,
+      "listId": "KS4.4.2",
+      "statementNotation": "KS4.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the Karnaugh mapping technique to simplify Boolean expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "C02EF5DBCB1A4572BBD8496751534FCF",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C02EF5DBCB1A4572BBD8496751534FCF"
+    },
+    "4B7DE28342044D83B8BAA29156F9150E": {
+      "id": "4B7DE28342044D83B8BAA29156F9150E",
+      "asnIdentifier": null,
+      "position": 34026,
+      "depth": 3,
+      "listId": "KS4.4.1",
+      "statementNotation": "KS4.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply Boolean algebra theorems and De Morgan’s theorems to simplify expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "C02EF5DBCB1A4572BBD8496751534FCF",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C02EF5DBCB1A4572BBD8496751534FCF"
+    },
+    "C02EF5DBCB1A4572BBD8496751534FCF": {
+      "id": "C02EF5DBCB1A4572BBD8496751534FCF",
+      "asnIdentifier": null,
+      "position": 33026,
+      "depth": 2,
+      "listId": "O4.4",
+      "statementNotation": "O4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simplify algebraic expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "510E7B8AAAF3487F9CDDDAEB7D6F6230"
+    },
+    "F48A03F401BB4C199EE2FD3FCD31F3B8": {
+      "id": "F48A03F401BB4C199EE2FD3FCD31F3B8",
+      "asnIdentifier": null,
+      "position": 32026,
+      "depth": 3,
+      "listId": "KS4.3.4",
+      "statementNotation": "KS4.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve for unknown values in a circuit by applying Ohm’s law.",
+      "comments": [],
+      "ancestorIds": [
+        "532AF05E50F948C48CB505AA90E3D8D2",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "532AF05E50F948C48CB505AA90E3D8D2"
+    },
+    "3244128DDDEC4574A242C80C33BFF762": {
+      "id": "3244128DDDEC4574A242C80C33BFF762",
+      "asnIdentifier": null,
+      "position": 31026,
+      "depth": 3,
+      "listId": "KS4.3.3",
+      "statementNotation": "KS4.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate total resistance for a circuit by applying Kirchhoff’s Voltage Law and Kirchhoff’s\nCurrent Laws.",
+      "comments": [],
+      "ancestorIds": [
+        "532AF05E50F948C48CB505AA90E3D8D2",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "532AF05E50F948C48CB505AA90E3D8D2"
+    },
+    "87D9DBE47F5F4399B3EF3C83E25DF4C6": {
+      "id": "87D9DBE47F5F4399B3EF3C83E25DF4C6",
+      "asnIdentifier": null,
+      "position": 30026,
+      "depth": 3,
+      "listId": "KS4.3.2",
+      "statementNotation": "KS4.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify parts and characteristics of a circuit that are in parallel.",
+      "comments": [],
+      "ancestorIds": [
+        "532AF05E50F948C48CB505AA90E3D8D2",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "532AF05E50F948C48CB505AA90E3D8D2"
+    },
+    "10C4747F132240868A51CCE94A10C412": {
+      "id": "10C4747F132240868A51CCE94A10C412",
+      "asnIdentifier": null,
+      "position": 29026,
+      "depth": 3,
+      "listId": "KS4.3.1",
+      "statementNotation": "KS4.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify parts and distinguish between characteristics of a circuit that are in series.",
+      "comments": [],
+      "ancestorIds": [
+        "532AF05E50F948C48CB505AA90E3D8D2",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "532AF05E50F948C48CB505AA90E3D8D2"
+    },
+    "532AF05E50F948C48CB505AA90E3D8D2": {
+      "id": "532AF05E50F948C48CB505AA90E3D8D2",
+      "asnIdentifier": null,
+      "position": 28026,
+      "depth": 2,
+      "listId": "O4.3",
+      "statementNotation": "O4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate voltage, current, and/or resistance for components in a circuit.",
+      "comments": [],
+      "ancestorIds": [
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "510E7B8AAAF3487F9CDDDAEB7D6F6230"
+    },
+    "A4D5111CA68442ACB312477B4BC99726": {
+      "id": "A4D5111CA68442ACB312477B4BC99726",
+      "asnIdentifier": null,
+      "position": 27026,
+      "depth": 3,
+      "listId": "KS4.2.4",
+      "statementNotation": "KS4.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert numbers between the binary coded decimal and the decimal number systems.",
+      "comments": [],
+      "ancestorIds": [
+        "3F5F9C6267624B5BADCD279BD873EF07",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "3F5F9C6267624B5BADCD279BD873EF07"
+    },
+    "51BE8026968648A4AFAB45959DEFCCD9": {
+      "id": "51BE8026968648A4AFAB45959DEFCCD9",
+      "asnIdentifier": null,
+      "position": 26026,
+      "depth": 3,
+      "listId": "KS4.2.3",
+      "statementNotation": "KS4.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert numbers between the decimal, binary, octal, and hexadecimal number systems.",
+      "comments": [],
+      "ancestorIds": [
+        "3F5F9C6267624B5BADCD279BD873EF07",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "3F5F9C6267624B5BADCD279BD873EF07"
+    },
+    "6A2FAE745F8041D89DE77BB9840E11A6": {
+      "id": "6A2FAE745F8041D89DE77BB9840E11A6",
+      "asnIdentifier": null,
+      "position": 25026,
+      "depth": 3,
+      "listId": "KS4.2.2",
+      "statementNotation": "KS4.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert numbers between the binary and decimal number systems. ",
+      "comments": [],
+      "ancestorIds": [
+        "3F5F9C6267624B5BADCD279BD873EF07",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "3F5F9C6267624B5BADCD279BD873EF07"
+    },
+    "C4BBB7E37EB4447089E90750111A6D5C": {
+      "id": "C4BBB7E37EB4447089E90750111A6D5C",
+      "asnIdentifier": null,
+      "position": 24026,
+      "depth": 3,
+      "listId": "KS4.2.1",
+      "statementNotation": "KS4.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Count from 0 to 15 in binary",
+      "comments": [],
+      "ancestorIds": [
+        "3F5F9C6267624B5BADCD279BD873EF07",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "3F5F9C6267624B5BADCD279BD873EF07"
+    },
+    "3F5F9C6267624B5BADCD279BD873EF07": {
+      "id": "3F5F9C6267624B5BADCD279BD873EF07",
+      "asnIdentifier": null,
+      "position": 23026,
+      "depth": 2,
+      "listId": "O4.2",
+      "statementNotation": "O4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use mathematical processes to convert any value between any two number systems.",
+      "comments": [],
+      "ancestorIds": [
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "510E7B8AAAF3487F9CDDDAEB7D6F6230"
+    },
+    "41ACC855D5774BC5AA8B23D709D80990": {
+      "id": "41ACC855D5774BC5AA8B23D709D80990",
+      "asnIdentifier": null,
+      "position": 22026,
+      "depth": 3,
+      "listId": "KS4.1.3",
+      "statementNotation": "KS4.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert any number between the International System of Units, SI, prefixes.",
+      "comments": [],
+      "ancestorIds": [
+        "60885A566F28420F867D4841EBD56BD3",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "60885A566F28420F867D4841EBD56BD3"
+    },
+    "994081E42F5243D0A01D92BE9544FFFA": {
+      "id": "994081E42F5243D0A01D92BE9544FFFA",
+      "asnIdentifier": null,
+      "position": 21026,
+      "depth": 3,
+      "listId": "KS4.1.2",
+      "statementNotation": "KS4.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert any number to/from engineering notation.",
+      "comments": [],
+      "ancestorIds": [
+        "60885A566F28420F867D4841EBD56BD3",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "60885A566F28420F867D4841EBD56BD3"
+    },
+    "F936A738D90F4310892F5D593CDCF8C6": {
+      "id": "F936A738D90F4310892F5D593CDCF8C6",
+      "asnIdentifier": null,
+      "position": 20026,
+      "depth": 3,
+      "listId": "KS4.1.1",
+      "statementNotation": "KS4.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select the most appropriate notation.",
+      "comments": [],
+      "ancestorIds": [
+        "60885A566F28420F867D4841EBD56BD3",
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "60885A566F28420F867D4841EBD56BD3"
+    },
+    "60885A566F28420F867D4841EBD56BD3": {
+      "id": "60885A566F28420F867D4841EBD56BD3",
+      "asnIdentifier": null,
+      "position": 19026,
+      "depth": 2,
+      "listId": "O4.1",
+      "statementNotation": "O4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve complex calculations using appropriate notation.",
+      "comments": [],
+      "ancestorIds": [
+        "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "510E7B8AAAF3487F9CDDDAEB7D6F6230"
+    },
+    "510E7B8AAAF3487F9CDDDAEB7D6F6230": {
+      "id": "510E7B8AAAF3487F9CDDDAEB7D6F6230",
+      "asnIdentifier": null,
+      "position": 18026,
+      "depth": 1,
+      "listId": "D4",
+      "statementNotation": "D4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Foundations in Mathematics and Science: All digital circuits are created from base 2 mathematics. Knowledge of number systems and mathematical\nrelationships of analog circuits are fundamental to understanding and creating circuits.",
+      "comments": [],
+      "ancestorIds": [
+        "C727BB4EC7704793A9AF9A04E3CDE670"
+      ],
+      "parentId": "C727BB4EC7704793A9AF9A04E3CDE670"
+    },
+    "C727BB4EC7704793A9AF9A04E3CDE670": {
+      "id": "C727BB4EC7704793A9AF9A04E3CDE670",
+      "asnIdentifier": null,
+      "position": 17026,
+      "depth": 0,
+      "listId": "C2",
+      "statementNotation": "C2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Technical Knowledge and Skills: Every career field requires technical literacy and career-specific knowledge and skills to support professional practice.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A183F311D8AA469F9A0CE4CA458E0F41": {
+      "id": "A183F311D8AA469F9A0CE4CA458E0F41",
+      "asnIdentifier": null,
+      "position": 16026,
+      "depth": 3,
+      "listId": "KS3.3.5",
+      "statementNotation": "KS3.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify, test, and implement possible solutions to a problem using a computer.",
+      "comments": [],
+      "ancestorIds": [
+        "5818201E6FE846E9AE4799FD5DA50372",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5818201E6FE846E9AE4799FD5DA50372"
+    },
+    "AC559F163E82475B9899CFCF02BE4721": {
+      "id": "AC559F163E82475B9899CFCF02BE4721",
+      "asnIdentifier": null,
+      "position": 15026,
+      "depth": 3,
+      "listId": "KS3.3.4",
+      "statementNotation": "KS3.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop an algorithm (step-by step-process) for solving a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "5818201E6FE846E9AE4799FD5DA50372",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5818201E6FE846E9AE4799FD5DA50372"
+    },
+    "5BF6D810FEE546C98ECEA786F48F7128": {
+      "id": "5BF6D810FEE546C98ECEA786F48F7128",
+      "asnIdentifier": null,
+      "position": 14026,
+      "depth": 3,
+      "listId": "KS3.3.3",
+      "statementNotation": "KS3.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze data and identify patterns through modeling and simulation.",
+      "comments": [],
+      "ancestorIds": [
+        "5818201E6FE846E9AE4799FD5DA50372",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5818201E6FE846E9AE4799FD5DA50372"
+    },
+    "230BA5B82D3C491E8186BF7441D4ED21": {
+      "id": "230BA5B82D3C491E8186BF7441D4ED21",
+      "asnIdentifier": null,
+      "position": 13026,
+      "depth": 3,
+      "listId": "KS3.3.2",
+      "statementNotation": "KS3.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use modeling and simulation to represent and understand natural phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "5818201E6FE846E9AE4799FD5DA50372",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5818201E6FE846E9AE4799FD5DA50372"
+    },
+    "6C6030C023444F9D9B22F17CADE33513": {
+      "id": "6C6030C023444F9D9B22F17CADE33513",
+      "asnIdentifier": null,
+      "position": 13025,
+      "depth": 3,
+      "listId": "KS3.3.1",
+      "statementNotation": "KS3.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interact with content-specific models and simulation to support learning and research.",
+      "comments": [],
+      "ancestorIds": [
+        "5818201E6FE846E9AE4799FD5DA50372",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5818201E6FE846E9AE4799FD5DA50372"
+    },
+    "5818201E6FE846E9AE4799FD5DA50372": {
+      "id": "5818201E6FE846E9AE4799FD5DA50372",
+      "asnIdentifier": null,
+      "position": 12025,
+      "depth": 2,
+      "listId": "O3.3",
+      "statementNotation": "O3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply computational thinking to generalize and solve a problem using a computer.",
+      "comments": [],
+      "ancestorIds": [
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "49EB8BECB08B4E31885866CBDCAFA4CF"
+    },
+    "B76E6A81DC044D3F9DD3C7C1E5C61999": {
+      "id": "B76E6A81DC044D3F9DD3C7C1E5C61999",
+      "asnIdentifier": null,
+      "position": 11025,
+      "depth": 3,
+      "listId": "KS3.2.4",
+      "statementNotation": "KS3.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Produce a physical model using electronic components.",
+      "comments": [],
+      "ancestorIds": [
+        "372480C7573D4E0998305BB6BF8E39C4",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "372480C7573D4E0998305BB6BF8E39C4"
+    },
+    "9126BAA547314999AA16A94CB2DE79BA": {
+      "id": "9126BAA547314999AA16A94CB2DE79BA",
+      "asnIdentifier": null,
+      "position": 10025,
+      "depth": 3,
+      "listId": "KS3.2.3",
+      "statementNotation": "KS3.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate use of hand tools and shop tools.",
+      "comments": [],
+      "ancestorIds": [
+        "372480C7573D4E0998305BB6BF8E39C4",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "372480C7573D4E0998305BB6BF8E39C4"
+    },
+    "4DA7686473F9418DB4579C14F5B7968A": {
+      "id": "4DA7686473F9418DB4579C14F5B7968A",
+      "asnIdentifier": null,
+      "position": 9025,
+      "depth": 3,
+      "listId": "KS3.2.2",
+      "statementNotation": "KS3.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe a process to build a physical object based on a conceptual communication such as\na drawing or description.",
+      "comments": [],
+      "ancestorIds": [
+        "372480C7573D4E0998305BB6BF8E39C4",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "372480C7573D4E0998305BB6BF8E39C4"
+    },
+    "7DF297C251E641C4A6B57C24E22E42C4": {
+      "id": "7DF297C251E641C4A6B57C24E22E42C4",
+      "asnIdentifier": null,
+      "position": 8025,
+      "depth": 3,
+      "listId": "KS3.2.1",
+      "statementNotation": "KS3.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify basic hand tools and shop tools and describe their function.",
+      "comments": [],
+      "ancestorIds": [
+        "372480C7573D4E0998305BB6BF8E39C4",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "372480C7573D4E0998305BB6BF8E39C4"
+    },
+    "372480C7573D4E0998305BB6BF8E39C4": {
+      "id": "372480C7573D4E0998305BB6BF8E39C4",
+      "asnIdentifier": null,
+      "position": 8024,
+      "depth": 2,
+      "listId": "O3.2",
+      "statementNotation": "O3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct physical objects using hand tools and shop tools.",
+      "comments": [],
+      "ancestorIds": [
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "49EB8BECB08B4E31885866CBDCAFA4CF"
+    },
+    "98BBC59E21F449EA9961AE365916BFCA": {
+      "id": "98BBC59E21F449EA9961AE365916BFCA",
+      "asnIdentifier": null,
+      "position": 8023,
+      "depth": 3,
+      "listId": "KS3.1.1",
+      "statementNotation": "KS3.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and differentiate between the accuracy and precision of a measurement or measuring\ndevice.",
+      "comments": [],
+      "ancestorIds": [
+        "2429B752050B49A7882010D3C6EA1FED",
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "2429B752050B49A7882010D3C6EA1FED"
+    },
+    "2429B752050B49A7882010D3C6EA1FED": {
+      "id": "2429B752050B49A7882010D3C6EA1FED",
+      "asnIdentifier": null,
+      "position": 8022,
+      "depth": 2,
+      "listId": "O3.1 ",
+      "statementNotation": "O3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using a variety of measuring devices, measure and report quantities accurately and to a precision\nappropriate for the purpose. ",
+      "comments": [],
+      "ancestorIds": [
+        "49EB8BECB08B4E31885866CBDCAFA4CF",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "49EB8BECB08B4E31885866CBDCAFA4CF"
+    },
+    "49EB8BECB08B4E31885866CBDCAFA4CF": {
+      "id": "49EB8BECB08B4E31885866CBDCAFA4CF",
+      "asnIdentifier": null,
+      "position": 7022,
+      "depth": 1,
+      "listId": "D3",
+      "statementNotation": "D3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineering Tools and Technology: The practice of engineering requires the application of mathematical principles and common engineering tools, techniques, and technologies. ",
+      "comments": [],
+      "ancestorIds": [
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "347610E0959540378F281C284228BDDC"
+    },
+    "0C5848B2416540CF9C462A0368EC8D3C": {
+      "id": "0C5848B2416540CF9C462A0368EC8D3C",
+      "asnIdentifier": null,
+      "position": 6022,
+      "depth": 3,
+      "listId": "KS2.6.1",
+      "statementNotation": "KS2.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that there are often multiple viable solutions and no obvious best solution. Tradeoffs\nmust be considered and evaluated consistently throughout an engineering design process. ",
+      "comments": [],
+      "ancestorIds": [
+        "49DB5F796CCE46F3923B7AF0AA5A9297",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "49DB5F796CCE46F3923B7AF0AA5A9297"
+    },
+    "49DB5F796CCE46F3923B7AF0AA5A9297": {
+      "id": "49DB5F796CCE46F3923B7AF0AA5A9297",
+      "asnIdentifier": null,
+      "position": 5022,
+      "depth": 2,
+      "listId": "O2.6",
+      "statementNotation": "O2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select a solution path from many options to successfully address a problem or opportunity.",
+      "comments": [],
+      "ancestorIds": [
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "951566A3902B49F28C61E51AD379F8A6"
+    },
+    "5A06D49F730646D1A03A7F3B730047C4": {
+      "id": "5A06D49F730646D1A03A7F3B730047C4",
+      "asnIdentifier": null,
+      "position": 4022,
+      "depth": 3,
+      "listId": "KS2.5.2",
+      "statementNotation": "KS2.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define various types of models that can be used to represent products, processes, or\ndesigns, such as physical prototypes, mathematical models, and virtual representations.\nExplain the purpose and appropriate use of each.",
+      "comments": [],
+      "ancestorIds": [
+        "5E3C8C9D521D421689E47D584543008B",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5E3C8C9D521D421689E47D584543008B"
+    },
+    "9E4EB4D2CE0B4B92828EACB29CC2B263": {
+      "id": "9E4EB4D2CE0B4B92828EACB29CC2B263",
+      "asnIdentifier": null,
+      "position": 3022,
+      "depth": 3,
+      "listId": "KS2.5.1",
+      "statementNotation": "KS2.51",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the use of a model to accurately represent the key aspects of a physical system.\nInclude the identification of constraints, such as cost, time, or expertise that may influence the\nselection of a model.",
+      "comments": [],
+      "ancestorIds": [
+        "5E3C8C9D521D421689E47D584543008B",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "5E3C8C9D521D421689E47D584543008B"
+    },
+    "5E3C8C9D521D421689E47D584543008B": {
+      "id": "5E3C8C9D521D421689E47D584543008B",
+      "asnIdentifier": null,
+      "position": 2022,
+      "depth": 2,
+      "listId": "O2.5",
+      "statementNotation": "O2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose and develop models to represent design alternatives and scenarios in order to generate data to\ninform decision making, test alternatives, and demonstrate solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "951566A3902B49F28C61E51AD379F8A6"
+    },
+    "4E30BF63C7394B7AACB5DBB73C478381": {
+      "id": "4E30BF63C7394B7AACB5DBB73C478381",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 3,
+      "listId": "KS2.4.1",
+      "statementNotation": "KS2.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent concepts using a variety of visual tools, such as sketches, graphs, and charts, to\ncommunicate details of an idea. ",
+      "comments": [],
+      "ancestorIds": [
+        "B353F4D33F904FCBB9CC81C8B8979089",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "B353F4D33F904FCBB9CC81C8B8979089"
+    },
+    "B353F4D33F904FCBB9CC81C8B8979089": {
+      "id": "B353F4D33F904FCBB9CC81C8B8979089",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "O2.4",
+      "statementNotation": "O2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate multiple potential solution concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "951566A3902B49F28C61E51AD379F8A6"
+    },
+    "3A8048056B4147FA8EA451501413F8E5": {
+      "id": "3A8048056B4147FA8EA451501413F8E5",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 3,
+      "listId": "KS2.3.2",
+      "statementNotation": "KS2.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and define visual, functional, and structural design requirements with realistic\nconstraints, against which solution alternatives can be evaluated. ",
+      "comments": [],
+      "ancestorIds": [
+        "21451F4223A145F88A62C71D5C624F6C",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "21451F4223A145F88A62C71D5C624F6C"
+    },
+    "8949D57222A546B98FB2ACE8A3B9A2F0": {
+      "id": "8949D57222A546B98FB2ACE8A3B9A2F0",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 3,
+      "listId": "KS2.3.1",
+      "statementNotation": "KS2.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the importance of carefully and specifically defining a problem or opportunity, design\ncriteria, and constraints, to develop successful design solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "21451F4223A145F88A62C71D5C624F6C",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "21451F4223A145F88A62C71D5C624F6C"
+    },
+    "21451F4223A145F88A62C71D5C624F6C": {
+      "id": "21451F4223A145F88A62C71D5C624F6C",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "O2.3",
+      "statementNotation": "O2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Synthesize an ill-formed problem into a meaningful, well-defined problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "951566A3902B49F28C61E51AD379F8A6"
+    },
+    "0810B59618BC44ACB2492AEAF0944E3E": {
+      "id": "0810B59618BC44ACB2492AEAF0944E3E",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 3,
+      "listId": "KS2.2.1",
+      "statementNotation": "KS2.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find relevant data in credible sources such as literature, databases, and policy documents.",
+      "comments": [],
+      "ancestorIds": [
+        "02048AE09F21436F88FC611522A0518D",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "02048AE09F21436F88FC611522A0518D"
+    },
+    "02048AE09F21436F88FC611522A0518D": {
+      "id": "02048AE09F21436F88FC611522A0518D",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "O2.2",
+      "statementNotation": "O2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collect, analyze, and interpret information relevant to the problem or opportunity at hand to support\nengineering decisions.",
+      "comments": [],
+      "ancestorIds": [
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "951566A3902B49F28C61E51AD379F8A6"
+    },
+    "27492637623A4BE58BC249A2C9D33A89": {
+      "id": "27492637623A4BE58BC249A2C9D33A89",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 3,
+      "listId": "KS2.1.5",
+      "statementNotation": "KS2.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Document a design process in an engineering notebook according to best practices.",
+      "comments": [],
+      "ancestorIds": [
+        "A08712CA37E84AA1BD561507FE83C4E1",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A08712CA37E84AA1BD561507FE83C4E1"
+    },
+    "B5F8A2FAF6124B0B888C7D16459E3142": {
+      "id": "B5F8A2FAF6124B0B888C7D16459E3142",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 3,
+      "listId": "KS2.1.4",
+      "statementNotation": "KS2.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Outline how iterative processes inform engineering decisions, improve solutions, and inspire\nnew ideas.",
+      "comments": [],
+      "ancestorIds": [
+        "A08712CA37E84AA1BD561507FE83C4E1",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A08712CA37E84AA1BD561507FE83C4E1"
+    },
+    "8EEBB0629F76472680814082AE0D907B": {
+      "id": "8EEBB0629F76472680814082AE0D907B",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 3,
+      "listId": "KS2.1.3",
+      "statementNotation": "KS2.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the step in which an engineering task would fit in a design process.",
+      "comments": [],
+      "ancestorIds": [
+        "A08712CA37E84AA1BD561507FE83C4E1",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A08712CA37E84AA1BD561507FE83C4E1"
+    },
+    "C249F0BC22C3486292D3F7C046A15B14": {
+      "id": "C249F0BC22C3486292D3F7C046A15B14",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 3,
+      "listId": "KS2.1.2",
+      "statementNotation": "KS2.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe major steps of a design process and identify typical tasks involved in each step. ",
+      "comments": [],
+      "ancestorIds": [
+        "A08712CA37E84AA1BD561507FE83C4E1",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A08712CA37E84AA1BD561507FE83C4E1"
+    },
+    "C6A03807794C47B4AFB6653502D219E0": {
+      "id": "C6A03807794C47B4AFB6653502D219E0",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 3,
+      "listId": "KS2.1.1",
+      "statementNotation": "KS2.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that there are many versions of a design process that describe essentially the same process. ",
+      "comments": [],
+      "ancestorIds": [
+        "A08712CA37E84AA1BD561507FE83C4E1",
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A08712CA37E84AA1BD561507FE83C4E1"
+    },
+    "A08712CA37E84AA1BD561507FE83C4E1": {
+      "id": "A08712CA37E84AA1BD561507FE83C4E1",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "O2.1",
+      "statementNotation": "O2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and justify an engineering design process. ",
+      "comments": [],
+      "ancestorIds": [
+        "951566A3902B49F28C61E51AD379F8A6",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "951566A3902B49F28C61E51AD379F8A6"
+    },
+    "951566A3902B49F28C61E51AD379F8A6": {
+      "id": "951566A3902B49F28C61E51AD379F8A6",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "D2",
+      "statementNotation": "D2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design Process: An engineering design process is an iterative, systematic approach to problem solving.",
+      "comments": [],
+      "ancestorIds": [
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "347610E0959540378F281C284228BDDC"
+    },
+    "FED21432EA594F8F8CF989411685D40C": {
+      "id": "FED21432EA594F8F8CF989411685D40C",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 3,
+      "listId": "KS1.3.1",
+      "statementNotation": "KS1.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe why persistence is important when identifying a problem and/or pursuing solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "FF29A94C31074FC986CED39B729C500C",
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "FF29A94C31074FC986CED39B729C500C"
+    },
+    "FF29A94C31074FC986CED39B729C500C": {
+      "id": "FF29A94C31074FC986CED39B729C500C",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "O1.3",
+      "statementNotation": "O1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Persevere to solve a problem or achieve a goal.",
+      "comments": [],
+      "ancestorIds": [
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A9AAFE2B08214A6B90FD82CDC68A0743"
+    },
+    "83D01F8165264D5DB24E7374785BFF87": {
+      "id": "83D01F8165264D5DB24E7374785BFF87",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 3,
+      "listId": "KS1.2.2",
+      "statementNotation": "KS1.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use praise, setbacks, and feedback to positively influence one’s professional development.",
+      "comments": [],
+      "ancestorIds": [
+        "FEE5F508D606490D97E817C4625BA4B6",
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "FEE5F508D606490D97E817C4625BA4B6"
+    },
+    "F112F2A3B99E4AE4A97997C1A6695B4A": {
+      "id": "F112F2A3B99E4AE4A97997C1A6695B4A",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 3,
+      "listId": "KS1.2.1",
+      "statementNotation": "KS1.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Adapt to varied roles, job responsibilities, schedules, and contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "FEE5F508D606490D97E817C4625BA4B6",
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "FEE5F508D606490D97E817C4625BA4B6"
+    },
+    "FEE5F508D606490D97E817C4625BA4B6": {
+      "id": "FEE5F508D606490D97E817C4625BA4B6",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "O1.2",
+      "statementNotation": "O1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate flexibility and adaptability to change.",
+      "comments": [],
+      "ancestorIds": [
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A9AAFE2B08214A6B90FD82CDC68A0743"
+    },
+    "EE5CFB1C5BA64E719E9142D843AB7604": {
+      "id": "EE5CFB1C5BA64E719E9142D843AB7604",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 3,
+      "listId": "KS1.1.2",
+      "statementNotation": "KS1.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Plan how to gain additional knowledge and learning to accomplish a goal.",
+      "comments": [],
+      "ancestorIds": [
+        "0749A8FFC75E47889B454612D41E7D8E",
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "0749A8FFC75E47889B454612D41E7D8E"
+    },
+    "3A213805669F457CB25FAD3F44349F7A": {
+      "id": "3A213805669F457CB25FAD3F44349F7A",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 3,
+      "listId": "KS1.1.1",
+      "statementNotation": "KS1.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Plan and use time in pursuit of accomplishing a goal without direct oversight.",
+      "comments": [],
+      "ancestorIds": [
+        "0749A8FFC75E47889B454612D41E7D8E",
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "0749A8FFC75E47889B454612D41E7D8E"
+    },
+    "0749A8FFC75E47889B454612D41E7D8E": {
+      "id": "0749A8FFC75E47889B454612D41E7D8E",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "O1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate independent thinking and self-direction in pursuit of accomplishing a goal.",
+      "comments": [],
+      "ancestorIds": [
+        "A9AAFE2B08214A6B90FD82CDC68A0743",
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "A9AAFE2B08214A6B90FD82CDC68A0743"
+    },
+    "A9AAFE2B08214A6B90FD82CDC68A0743": {
+      "id": "A9AAFE2B08214A6B90FD82CDC68A0743",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "D1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineering Mindset: Successful engineers exhibit specific personal and professional characteristics that lend themselves to the\ncreative, collaborative, and solution-driven nature of the profession",
+      "comments": [],
+      "ancestorIds": [
+        "347610E0959540378F281C284228BDDC"
+      ],
+      "parentId": "347610E0959540378F281C284228BDDC"
+    },
+    "347610E0959540378F281C284228BDDC": {
+      "id": "347610E0959540378F281C284228BDDC",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "C1",
+      "statementNotation": "C1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Problem Solving and Process Thinking: Strategic and systematic design and inquiry processes guide the development of an effective solution to the problem.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

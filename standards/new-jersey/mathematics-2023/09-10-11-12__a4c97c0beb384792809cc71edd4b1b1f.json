@@ -1,0 +1,764 @@
+{
+  "id": "A4C97C0BEB384792809CC71EDD4B1B1F",
+  "title": "High School - Number & Quantity",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "New Jersey Student Learning Standards Mathematics (NJSLS—Mathematics)",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recg1OQXCSeuJPkcb/fldIxltCXshIi374r/attQThKD0HEWuLGJA?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "BD9F1823F64844E38377E11EB39F173B",
+    "title": "New Jersey"
+  },
+  "standards": {
+    "92C155F9447647D8B57688E783EAB6F2": {
+      "id": "92C155F9447647D8B57688E783EAB6F2",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "N.VM.C.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Work with 2 × 2 matrices as a transformations of the plane, and interpret the absolute\nvalue of the determinant in terms of area.",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "ABF5B6F96F19449D80D477011AA8CE4D": {
+      "id": "ABF5B6F96F19449D80D477011AA8CE4D",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "N.VM.C.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Multiply a vector (regarded as a matrix with one column) by a matrix of suitable\ndimensions to produce another vector. Work with matrices as transformations of vectors. ",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "DB6C4E21496C4D47AF45C0B07C3A7E64": {
+      "id": "DB6C4E21496C4D47AF45C0B07C3A7E64",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "N.VM.C.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that the zero and identity matrices play a role in matrix addition and\nmultiplication similar to the role of 0 and 1 in the real numbers. The determinant of a\nsquare matrix is nonzero if and only if the matrix has a multiplicative inverse.",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "489B7FB4A9B74541950410F383B87675": {
+      "id": "489B7FB4A9B74541950410F383B87675",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "N.VM.C.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that, unlike multiplication of numbers, matrix multiplication for square\nmatrices is not a commutative operation, but still satisfies the associative and distributive\nproperties.",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "A3A5D8F8A58C41DDB9261696F2F3CEC3": {
+      "id": "A3A5D8F8A58C41DDB9261696F2F3CEC3",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.VM.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Add, subtract, and multiply matrices of appropriate dimensions.",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "B318D8B147CF4B1EB9E3ABFFC1582DE9": {
+      "id": "B318D8B147CF4B1EB9E3ABFFC1582DE9",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.VM.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs\nin a game are doubled.",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "59B3682E173B428ABD2CB9AFF0A74FF9": {
+      "id": "59B3682E173B428ABD2CB9AFF0A74FF9",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.VM.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Use matrices to represent and manipulate data, e.g., to represent payoffs or incidence\nrelationships in a network.",
+      "comments": [],
+      "ancestorIds": [
+        "655214D8BA9A45AFA978AE04ACA0AF4A",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "655214D8BA9A45AFA978AE04ACA0AF4A"
+    },
+    "655214D8BA9A45AFA978AE04ACA0AF4A": {
+      "id": "655214D8BA9A45AFA978AE04ACA0AF4A",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "N.VM.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform operations on matrices and use matrices in applications",
+      "comments": [],
+      "ancestorIds": [
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "E0736148D0D04D5396622E62D238A8ED"
+    },
+    "1C9FF14BCE4B4FF7AAD2631F30BE136A": {
+      "id": "1C9FF14BCE4B4FF7AAD2631F30BE136A",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "N.VM.B.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compute the magnitude of a scalar multiple cv using ‖cv‖=|c|v. Compute the direction of cv knowing that when |c|v≠0, the direction of cv is either  along v (for c >0) or against v (for c < 0).",
+      "comments": [],
+      "ancestorIds": [
+        "7AD431D5635145E89CD2FE19A4320BA7",
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "7AD431D5635145E89CD2FE19A4320BA7"
+    },
+    "7A0B831DB10E4A58BD63AEDCA0154D1C": {
+      "id": "7A0B831DB10E4A58BD63AEDCA0154D1C",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "N.VM.B.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent scalar multiplication graphically by scaling vectors and possibly\nreversing their direction; perform scalar multiplication component-wise, e.g., as c(v_x,v_y)=(cv_x,cv_y).",
+      "comments": [],
+      "ancestorIds": [
+        "7AD431D5635145E89CD2FE19A4320BA7",
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "7AD431D5635145E89CD2FE19A4320BA7"
+    },
+    "7AD431D5635145E89CD2FE19A4320BA7": {
+      "id": "7AD431D5635145E89CD2FE19A4320BA7",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.VM.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Multiply a vector by a scalar.",
+      "comments": [],
+      "ancestorIds": [
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "B6CF07C95B234D3191585B25C7DFC74D"
+    },
+    "D21DCA6A00064E488983B6354620F736": {
+      "id": "D21DCA6A00064E488983B6354620F736",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "N.VM.B.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand vector subtraction v - w as v + (-w), where -w is the additive inverse of w, with the same\nmagnitude as w and pointing in the opposite direction. Represent vector subtraction\ngraphically by connecting the tips in the appropriate order, and perform vector\nsubtraction component-wise.",
+      "comments": [],
+      "ancestorIds": [
+        "EFE31A2285B54BD68DFA822EFA63F7AF",
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "EFE31A2285B54BD68DFA822EFA63F7AF"
+    },
+    "6B06C578D3F44128A0ED0427E41D74F8": {
+      "id": "6B06C578D3F44128A0ED0427E41D74F8",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "N.VM.B.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given two vectors in magnitude and direction form, determine the magnitude and\ndirection of their sum.",
+      "comments": [],
+      "ancestorIds": [
+        "EFE31A2285B54BD68DFA822EFA63F7AF",
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "EFE31A2285B54BD68DFA822EFA63F7AF"
+    },
+    "5CC3BC7108514B0C9A95E3A1C6D7541B": {
+      "id": "5CC3BC7108514B0C9A95E3A1C6D7541B",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "N.VM.B.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add vectors end-to-end, component-wise, and by the parallelogram rule.\nUnderstand that the magnitude of a sum of two vectors is typically not the sum of\nthe magnitudes.",
+      "comments": [],
+      "ancestorIds": [
+        "EFE31A2285B54BD68DFA822EFA63F7AF",
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "EFE31A2285B54BD68DFA822EFA63F7AF"
+    },
+    "EFE31A2285B54BD68DFA822EFA63F7AF": {
+      "id": "EFE31A2285B54BD68DFA822EFA63F7AF",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.VM.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add and subtract vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "B6CF07C95B234D3191585B25C7DFC74D",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "B6CF07C95B234D3191585B25C7DFC74D"
+    },
+    "B6CF07C95B234D3191585B25C7DFC74D": {
+      "id": "B6CF07C95B234D3191585B25C7DFC74D",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "N.VM.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform operations on vectors",
+      "comments": [],
+      "ancestorIds": [
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "E0736148D0D04D5396622E62D238A8ED"
+    },
+    "67EC5EC2D8CC43CBA325FEB9357B0D6A": {
+      "id": "67EC5EC2D8CC43CBA325FEB9357B0D6A",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.VM.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems involving velocity and other quantities that can be represented by\nvectors.",
+      "comments": [],
+      "ancestorIds": [
+        "7E17ED4599044BF3922B3FFC46E67687",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "7E17ED4599044BF3922B3FFC46E67687"
+    },
+    "67AC0EE61E8E4DA2A6251AF0E3F89CE8": {
+      "id": "67AC0EE61E8E4DA2A6251AF0E3F89CE8",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.VM.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the components of a vector by subtracting the coordinates of an initial point from\nthe coordinates of a terminal point.",
+      "comments": [],
+      "ancestorIds": [
+        "7E17ED4599044BF3922B3FFC46E67687",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "7E17ED4599044BF3922B3FFC46E67687"
+    },
+    "1D14EB6F359142E5BB472BBEA01B3393": {
+      "id": "1D14EB6F359142E5BB472BBEA01B3393",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.VM.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their\nmagnitudes (e.g., v,|v|,‖v‖,v).",
+      "comments": [],
+      "ancestorIds": [
+        "7E17ED4599044BF3922B3FFC46E67687",
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "7E17ED4599044BF3922B3FFC46E67687"
+    },
+    "7E17ED4599044BF3922B3FFC46E67687": {
+      "id": "7E17ED4599044BF3922B3FFC46E67687",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "N.VM.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent and model with vector quantities",
+      "comments": [],
+      "ancestorIds": [
+        "E0736148D0D04D5396622E62D238A8ED"
+      ],
+      "parentId": "E0736148D0D04D5396622E62D238A8ED"
+    },
+    "E0736148D0D04D5396622E62D238A8ED": {
+      "id": "E0736148D0D04D5396622E62D238A8ED",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 0,
+      "listId": "VM",
+      "statementNotation": "N.VM",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Vector and Matrix Quantities",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DE8408D398094DA691E21B64F4E09A2A": {
+      "id": "DE8408D398094DA691E21B64F4E09A2A",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.CN.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know the Fundamental Theorem of Algebra; show that it is true for quadratic\npolynomials. ",
+      "comments": [],
+      "ancestorIds": [
+        "768A464D84F54E7283E0440426BB895E",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "768A464D84F54E7283E0440426BB895E"
+    },
+    "0086C971D43E4B3294BC8A7D5317D752": {
+      "id": "0086C971D43E4B3294BC8A7D5317D752",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.CN.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend polynomial identities to the complex numbers. For example, rewrite x^2+4 as (x+2i)(x-2i).",
+      "comments": [],
+      "ancestorIds": [
+        "768A464D84F54E7283E0440426BB895E",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "768A464D84F54E7283E0440426BB895E"
+    },
+    "AEF3B593DF914D7CB1FEBD5FB614761F": {
+      "id": "AEF3B593DF914D7CB1FEBD5FB614761F",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.CN.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve quadratic equations with real coefficients that have complex solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "768A464D84F54E7283E0440426BB895E",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "768A464D84F54E7283E0440426BB895E"
+    },
+    "768A464D84F54E7283E0440426BB895E": {
+      "id": "768A464D84F54E7283E0440426BB895E",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "N.CN.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use complex numbers in polynomial identities and equations",
+      "comments": [],
+      "ancestorIds": [
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "66275066D0944FD9B2C042613E1EC337"
+    },
+    "DC43B3ED8CFB43EFB1332686144F9451": {
+      "id": "DC43B3ED8CFB43EFB1332686144F9451",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.CN.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the distance between numbers in the complex plane as the modulus of the\ndifference, and the midpoint of a segment as the average of the numbers at its endpoints. ",
+      "comments": [],
+      "ancestorIds": [
+        "D41483EF99BE48A09CCCC492C3798579",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "D41483EF99BE48A09CCCC492C3798579"
+    },
+    "D7F37C3625454E4DB6A911F8651F8F35": {
+      "id": "D7F37C3625454E4DB6A911F8651F8F35",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.CN.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent addition, subtraction, multiplication, and conjugation of complex numbers\ngeometrically on the complex plane; use properties of this representation for\ncomputation. For example, (-1+√3i )^3=8 because -1+√3i has modulus 2 and argument 120°.",
+      "comments": [],
+      "ancestorIds": [
+        "D41483EF99BE48A09CCCC492C3798579",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "D41483EF99BE48A09CCCC492C3798579"
+    },
+    "79FF920375084B58BB143DD80C00A5AA": {
+      "id": "79FF920375084B58BB143DD80C00A5AA",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.CN.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent complex numbers on the complex plane in rectangular and polar form\n(including real and imaginary numbers), and explain why the rectangular and polar forms\nof a given complex number represent the same number. ",
+      "comments": [],
+      "ancestorIds": [
+        "D41483EF99BE48A09CCCC492C3798579",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "D41483EF99BE48A09CCCC492C3798579"
+    },
+    "D41483EF99BE48A09CCCC492C3798579": {
+      "id": "D41483EF99BE48A09CCCC492C3798579",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "N.CN.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent complex numbers and their operations on the complex plane",
+      "comments": [],
+      "ancestorIds": [
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "66275066D0944FD9B2C042613E1EC337"
+    },
+    "F27CAA00945248D8BD62C94FDE310573": {
+      "id": "F27CAA00945248D8BD62C94FDE310573",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.CN.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the conjugate of a complex number; use conjugates to find moduli and quotients\nof complex numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "E9E5D003DB5747238046389BED9D1668",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "E9E5D003DB5747238046389BED9D1668"
+    },
+    "AE4B6363F5124F9FB0B2886DB7FC5A65": {
+      "id": "AE4B6363F5124F9FB0B2886DB7FC5A65",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.CN.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the relation i^2=-1 and the commutative, associative, and distributive properties to add,\nsubtract, and multiply complex numbers. ",
+      "comments": [],
+      "ancestorIds": [
+        "E9E5D003DB5747238046389BED9D1668",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "E9E5D003DB5747238046389BED9D1668"
+    },
+    "31138CD8EEB24F95A01F80B58E50693B": {
+      "id": "31138CD8EEB24F95A01F80B58E50693B",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.CN.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know there is a complex number i such that i^2=-1 and every complex number has the form a+bi with a and b real. ",
+      "comments": [],
+      "ancestorIds": [
+        "E9E5D003DB5747238046389BED9D1668",
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "E9E5D003DB5747238046389BED9D1668"
+    },
+    "E9E5D003DB5747238046389BED9D1668": {
+      "id": "E9E5D003DB5747238046389BED9D1668",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "N.CN.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform arithmetic operations with complex numbers",
+      "comments": [],
+      "ancestorIds": [
+        "66275066D0944FD9B2C042613E1EC337"
+      ],
+      "parentId": "66275066D0944FD9B2C042613E1EC337"
+    },
+    "66275066D0944FD9B2C042613E1EC337": {
+      "id": "66275066D0944FD9B2C042613E1EC337",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 0,
+      "listId": "CN",
+      "statementNotation": "N.CN",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Complex Number System",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "95D96A9BA9B6452D983D8D48624A5DCD": {
+      "id": "95D96A9BA9B6452D983D8D48624A5DCD",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.Q.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting\nquantities.",
+      "comments": [],
+      "ancestorIds": [
+        "586D9DB83651436A8BDF1BE678DF48BC",
+        "02B2150192524727B2D0B4E94002FCBB"
+      ],
+      "parentId": "586D9DB83651436A8BDF1BE678DF48BC"
+    },
+    "16BF66521019403B9A874AFDC76ED481": {
+      "id": "16BF66521019403B9A874AFDC76ED481",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.Q.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define appropriate quantities for the purpose of descriptive modeling. ",
+      "comments": [],
+      "ancestorIds": [
+        "586D9DB83651436A8BDF1BE678DF48BC",
+        "02B2150192524727B2D0B4E94002FCBB"
+      ],
+      "parentId": "586D9DB83651436A8BDF1BE678DF48BC"
+    },
+    "9D602BA407514DEF971FBAB17A948FB7": {
+      "id": "9D602BA407514DEF971FBAB17A948FB7",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.Q.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use units as a way to understand problems and to guide the solution of multi-step\nproblems; choose and interpret units consistently in formulas; choose and interpret the\nscale and the origin in graphs and data displays.",
+      "comments": [],
+      "ancestorIds": [
+        "586D9DB83651436A8BDF1BE678DF48BC",
+        "02B2150192524727B2D0B4E94002FCBB"
+      ],
+      "parentId": "586D9DB83651436A8BDF1BE678DF48BC"
+    },
+    "586D9DB83651436A8BDF1BE678DF48BC": {
+      "id": "586D9DB83651436A8BDF1BE678DF48BC",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "N.Q.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reason quantitatively and use units to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "02B2150192524727B2D0B4E94002FCBB"
+      ],
+      "parentId": "02B2150192524727B2D0B4E94002FCBB"
+    },
+    "02B2150192524727B2D0B4E94002FCBB": {
+      "id": "02B2150192524727B2D0B4E94002FCBB",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 0,
+      "listId": "Q",
+      "statementNotation": "N.Q",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Quantities",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B17F4815496247DCBF6EA1AF8C3AB410": {
+      "id": "B17F4815496247DCBF6EA1AF8C3AB410",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "N.RN.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Simplify radicals, including algebraic radicals (e.g. ∛54=3∛2, simplify √(32x^2)). ",
+      "comments": [],
+      "ancestorIds": [
+        "197862FCE9A846DF9AE371955BE81EB4",
+        "C1FBDB84BEC547E89E9C567636471DBE"
+      ],
+      "parentId": "197862FCE9A846DF9AE371955BE81EB4"
+    },
+    "AA27C53926EF4BFC831B609181087C5B": {
+      "id": "AA27C53926EF4BFC831B609181087C5B",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "N.RN.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rewrite expressions involving radicals and rational exponents using the properties of exponents. ",
+      "comments": [],
+      "ancestorIds": [
+        "197862FCE9A846DF9AE371955BE81EB4",
+        "C1FBDB84BEC547E89E9C567636471DBE"
+      ],
+      "parentId": "197862FCE9A846DF9AE371955BE81EB4"
+    },
+    "71B09761A66847A5AD2041BA07E92FB6": {
+      "id": "71B09761A66847A5AD2041BA07E92FB6",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "N.RN.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the definition of the meaning of rational exponents follows from extending\nthe properties of integer exponents to those values, allowing for a notation for radicals in\nterms of rational exponents. For example, we define 5^(1/3) to be the cube root of 5 because we\nwant (5^(1/3) )^3=5^((1/3)^3) to hold, so (5^(1/3))^3 must equal 5.",
+      "comments": [],
+      "ancestorIds": [
+        "197862FCE9A846DF9AE371955BE81EB4",
+        "C1FBDB84BEC547E89E9C567636471DBE"
+      ],
+      "parentId": "197862FCE9A846DF9AE371955BE81EB4"
+    },
+    "197862FCE9A846DF9AE371955BE81EB4": {
+      "id": "197862FCE9A846DF9AE371955BE81EB4",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "N.RN.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend the properties of exponents to rational exponents",
+      "comments": [],
+      "ancestorIds": [
+        "C1FBDB84BEC547E89E9C567636471DBE"
+      ],
+      "parentId": "C1FBDB84BEC547E89E9C567636471DBE"
+    },
+    "C1FBDB84BEC547E89E9C567636471DBE": {
+      "id": "C1FBDB84BEC547E89E9C567636471DBE",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "RN",
+      "statementNotation": "N.RN",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Real Number System",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,1357 @@
+{
+  "id": "EDAB1BE9540242D786CB8A60B31551F5",
+  "title": "Programming - Year 1",
+  "subject": "Computer Science and Computing (2020-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Arkansas Computer Science and Computing Standards High School Programming 2020",
+    "sourceURL": "https://dese.ade.arkansas.gov/Files/20210205094536_CSforAR_High_School_Programming_12152020_PDF.pdf"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "6AD6F47F719646519229A6FF0072A4BF": {
+      "id": "6AD6F47F719646519229A6FF0072A4BF",
+      "asnIdentifier": null,
+      "position": 1078,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CSPG.Y1.11.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast interpreting data, inferring\nusing data, and implicating with data ",
+      "comments": [],
+      "ancestorIds": [
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "0695263548B04B76B8BA56E23C4AC803"
+    },
+    "B44283EBDFC2406BBDB6E364AC583B46": {
+      "id": "B44283EBDFC2406BBDB6E364AC583B46",
+      "asnIdentifier": null,
+      "position": 1077,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.11.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast causation and correlation",
+      "comments": [],
+      "ancestorIds": [
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "0695263548B04B76B8BA56E23C4AC803"
+    },
+    "764F7EFE4CBB4FC68231799761A6581E": {
+      "id": "764F7EFE4CBB4FC68231799761A6581E",
+      "asnIdentifier": null,
+      "position": 1076,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "CSPG.Y1.11.3.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "selection bias ",
+      "comments": [],
+      "ancestorIds": [
+        "D4DBC28696FC4B2FAFA54ED394AAC092",
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "D4DBC28696FC4B2FAFA54ED394AAC092"
+    },
+    "92548C1BB500411793479D48D078C57B": {
+      "id": "92548C1BB500411793479D48D078C57B",
+      "asnIdentifier": null,
+      "position": 1075,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "CSPG.Y1.11.3.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "overfitting/underfitting",
+      "comments": [],
+      "ancestorIds": [
+        "D4DBC28696FC4B2FAFA54ED394AAC092",
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "D4DBC28696FC4B2FAFA54ED394AAC092"
+    },
+    "6F2F7D9D62AE47309D19F1F705466D9A": {
+      "id": "6F2F7D9D62AE47309D19F1F705466D9A",
+      "asnIdentifier": null,
+      "position": 1074,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CSPG.Y1.11.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "outliers",
+      "comments": [],
+      "ancestorIds": [
+        "D4DBC28696FC4B2FAFA54ED394AAC092",
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "D4DBC28696FC4B2FAFA54ED394AAC092"
+    },
+    "541225D0A9804521B7C84C598B7F6040": {
+      "id": "541225D0A9804521B7C84C598B7F6040",
+      "asnIdentifier": null,
+      "position": 1073,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CSPG.Y1.11.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "confounding variables",
+      "comments": [],
+      "ancestorIds": [
+        "D4DBC28696FC4B2FAFA54ED394AAC092",
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "D4DBC28696FC4B2FAFA54ED394AAC092"
+    },
+    "17BEC4F9AAFA49F8B8B14A2778A9C3BD": {
+      "id": "17BEC4F9AAFA49F8B8B14A2778A9C3BD",
+      "asnIdentifier": null,
+      "position": 1072,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CSPG.Y1.11.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "confirmation bias",
+      "comments": [],
+      "ancestorIds": [
+        "D4DBC28696FC4B2FAFA54ED394AAC092",
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "D4DBC28696FC4B2FAFA54ED394AAC092"
+    },
+    "D4DBC28696FC4B2FAFA54ED394AAC092": {
+      "id": "D4DBC28696FC4B2FAFA54ED394AAC092",
+      "asnIdentifier": null,
+      "position": 1071,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.11.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the following common types of data bias:",
+      "comments": [],
+      "ancestorIds": [
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "0695263548B04B76B8BA56E23C4AC803"
+    },
+    "0A77E9215CB6457790485C2F6F34BFF6": {
+      "id": "0A77E9215CB6457790485C2F6F34BFF6",
+      "asnIdentifier": null,
+      "position": 1070,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.11.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and utilize the concepts of storytelling with\ndata",
+      "comments": [],
+      "ancestorIds": [
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "0695263548B04B76B8BA56E23C4AC803"
+    },
+    "72D1CAFF8ECA4D2180345DA81E8FFB02": {
+      "id": "72D1CAFF8ECA4D2180345DA81E8FFB02",
+      "asnIdentifier": null,
+      "position": 1069,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.11.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communicate basic technical information effectively\nto diverse audiences including, but not limited to,\nnon-technical audience members",
+      "comments": [],
+      "ancestorIds": [
+        "0695263548B04B76B8BA56E23C4AC803",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "0695263548B04B76B8BA56E23C4AC803"
+    },
+    "0695263548B04B76B8BA56E23C4AC803": {
+      "id": "0695263548B04B76B8BA56E23C4AC803",
+      "asnIdentifier": null,
+      "position": 1068,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.",
+      "comments": [],
+      "ancestorIds": [
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "05DC10C05A5541AB977D6D195CDCAD38"
+    },
+    "2A2ABF23B00B41CE8F68968E220C6F1C": {
+      "id": "2A2ABF23B00B41CE8F68968E220C6F1C",
+      "asnIdentifier": null,
+      "position": 1067,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "CSPG.Y1.10.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "842B1342DD5044E5B9B69450E559EDAA": {
+      "id": "842B1342DD5044E5B9B69450E559EDAA",
+      "asnIdentifier": null,
+      "position": 1066,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "CSPG.Y1.10.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "6EC441C6948F473E87F56517FCECFAFD": {
+      "id": "6EC441C6948F473E87F56517FCECFAFD",
+      "asnIdentifier": null,
+      "position": 1065,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "CSPG.Y1.10.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and identify diverse careers and career\nopportunities (e.g., accessibility, availability,\ndemand) that are influenced by computer science\nand the technical and soft skills needed for each",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "2FF6CA29649D48799F9EB6DFC9696481": {
+      "id": "2FF6CA29649D48799F9EB6DFC9696481",
+      "asnIdentifier": null,
+      "position": 1064,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "CSPG.Y1.10.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research the history of computing devices and their\nimpact on society",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "506C01DB9480470E986BB3FCD9B47334": {
+      "id": "506C01DB9480470E986BB3FCD9B47334",
+      "asnIdentifier": null,
+      "position": 1063,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CSPG.Y1.10.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2 ",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "E9C66AFCD9FA4EA0911523D282BEA387": {
+      "id": "E9C66AFCD9FA4EA0911523D282BEA387",
+      "asnIdentifier": null,
+      "position": 1062,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.10.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe the relationship between\naccess and security (e.g., active and passive data,\nconvenience, data mining, digital marketing, online\nwallets, privacy, theft of personal information)",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "35487AA5BB09417FA5E33E839A481EF6": {
+      "id": "35487AA5BB09417FA5E33E839A481EF6",
+      "asnIdentifier": null,
+      "position": 1061,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.10.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe the potential benefits\nassociated with the utilization and implementation of\nsocial media and other digital technologies",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "2BE32065581E45F296DD0E4316CEA0BD": {
+      "id": "2BE32065581E45F296DD0E4316CEA0BD",
+      "asnIdentifier": null,
+      "position": 1060,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.10.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "6F7312688F4D4921B3A927992B00F4EA": {
+      "id": "6F7312688F4D4921B3A927992B00F4EA",
+      "asnIdentifier": null,
+      "position": 1059,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.10.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe the risks and risk mitigation\nstrategies associated with the utilization and\nimplementation of social media and other digital\ntechnology implications",
+      "comments": [],
+      "ancestorIds": [
+        "5583101E676545AB9DE5FC5C052F4966",
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "5583101E676545AB9DE5FC5C052F4966"
+    },
+    "5583101E676545AB9DE5FC5C052F4966": {
+      "id": "5583101E676545AB9DE5FC5C052F4966",
+      "asnIdentifier": null,
+      "position": 1058,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze the impacts of technology and professionalism within the computing community.",
+      "comments": [],
+      "ancestorIds": [
+        "05DC10C05A5541AB977D6D195CDCAD38"
+      ],
+      "parentId": "05DC10C05A5541AB977D6D195CDCAD38"
+    },
+    "05DC10C05A5541AB977D6D195CDCAD38": {
+      "id": "05DC10C05A5541AB977D6D195CDCAD38",
+      "asnIdentifier": null,
+      "position": 1057,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professionalism and Impacts of Computing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4DF85AA5D9C54C12A618F5C315A70D9B": {
+      "id": "4DF85AA5D9C54C12A618F5C315A70D9B",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.9.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and describe the purpose of hardware\ncomponents within various personal computing\nplatforms",
+      "comments": [],
+      "ancestorIds": [
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "09816ED6BF754BA3B53AF8F1FD53CAED"
+    },
+    "A713E495023E42508C475E0B7B5A115F": {
+      "id": "A713E495023E42508C475E0B7B5A115F",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.9.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify layers of software (e.g., applications,\ndrivers, firmware, operating systems) utilized within\nvarious platforms (e.g., Android, ChromeOS, iOS,\nLinux, macOS, Windows)",
+      "comments": [],
+      "ancestorIds": [
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "09816ED6BF754BA3B53AF8F1FD53CAED"
+    },
+    "A3AE1DB9DE1845EA9917F707DD7F258C": {
+      "id": "A3AE1DB9DE1845EA9917F707DD7F258C",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "CSPG.Y1.9.2.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "version control strategies",
+      "comments": [],
+      "ancestorIds": [
+        "C59F22D534EA4C9F9F21D54C2752B263",
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "C59F22D534EA4C9F9F21D54C2752B263"
+    },
+    "08872AB79767464EBDD40D3D87A690A9": {
+      "id": "08872AB79767464EBDD40D3D87A690A9",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CSPG.Y1.9.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "source-code editors",
+      "comments": [],
+      "ancestorIds": [
+        "C59F22D534EA4C9F9F21D54C2752B263",
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "C59F22D534EA4C9F9F21D54C2752B263"
+    },
+    "BB2BA3B36A674F7295DC3574C522DD8D": {
+      "id": "BB2BA3B36A674F7295DC3574C522DD8D",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CSPG.Y1.9.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "integrated development environments (IDE)",
+      "comments": [],
+      "ancestorIds": [
+        "C59F22D534EA4C9F9F21D54C2752B263",
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "C59F22D534EA4C9F9F21D54C2752B263"
+    },
+    "CC8DFE5DFD51419AB13A4120280F00E7": {
+      "id": "CC8DFE5DFD51419AB13A4120280F00E7",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CSPG.Y1.9.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "debugging strategies",
+      "comments": [],
+      "ancestorIds": [
+        "C59F22D534EA4C9F9F21D54C2752B263",
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "C59F22D534EA4C9F9F21D54C2752B263"
+    },
+    "C59F22D534EA4C9F9F21D54C2752B263": {
+      "id": "C59F22D534EA4C9F9F21D54C2752B263",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.9.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research, describe, and utilize at an appropriate\nlevel:",
+      "comments": [],
+      "ancestorIds": [
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "09816ED6BF754BA3B53AF8F1FD53CAED"
+    },
+    "16759E3D165C4A089C7D09EF91A370E2": {
+      "id": "16759E3D165C4A089C7D09EF91A370E2",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.9.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast computer programming\nparadigms (e.g., functional, imperative, objectoriented)",
+      "comments": [],
+      "ancestorIds": [
+        "09816ED6BF754BA3B53AF8F1FD53CAED",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "09816ED6BF754BA3B53AF8F1FD53CAED"
+    },
+    "09816ED6BF754BA3B53AF8F1FD53CAED": {
+      "id": "09816ED6BF754BA3B53AF8F1FD53CAED",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will utilize appropriate hardware and software.",
+      "comments": [],
+      "ancestorIds": [
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "8D1B588817D7441FAE4A59D867606367"
+    },
+    "4E037D28497D4DC49F3AAD497FBAEB5C": {
+      "id": "4E037D28497D4DC49F3AAD497FBAEB5C",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.8.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the importance of creating and using\ncommon rules for communication and the utilization\nof common network protocols including the\nrelationship between client and server",
+      "comments": [],
+      "ancestorIds": [
+        "AF47CBB7A7B84905B5989765F4E4EB0E",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "AF47CBB7A7B84905B5989765F4E4EB0E"
+    },
+    "40D47FB9069F4F5D931FAF3AC2433FFA": {
+      "id": "40D47FB9069F4F5D931FAF3AC2433FFA",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.8.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe modems, network interface\ncards, routers (e.g., consumer, industrial), switches,\nand wireless access points, and identify their\npurposes within a network",
+      "comments": [],
+      "ancestorIds": [
+        "AF47CBB7A7B84905B5989765F4E4EB0E",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "AF47CBB7A7B84905B5989765F4E4EB0E"
+    },
+    "E15F5576156F4B15B27ADC88F32949BA": {
+      "id": "E15F5576156F4B15B27ADC88F32949BA",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe common networking\nconcepts at an introductory level",
+      "comments": [],
+      "ancestorIds": [
+        "AF47CBB7A7B84905B5989765F4E4EB0E",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "AF47CBB7A7B84905B5989765F4E4EB0E"
+    },
+    "91B7D5D62FEC43EEA539714E8681B89E": {
+      "id": "91B7D5D62FEC43EEA539714E8681B89E",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize the command line to accomplish common\nnetwork troubleshooting tasks at an introductory\nlevel",
+      "comments": [],
+      "ancestorIds": [
+        "AF47CBB7A7B84905B5989765F4E4EB0E",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "AF47CBB7A7B84905B5989765F4E4EB0E"
+    },
+    "AF47CBB7A7B84905B5989765F4E4EB0E": {
+      "id": "AF47CBB7A7B84905B5989765F4E4EB0E",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze communication methods and systems used to transmit information among computing devices.",
+      "comments": [],
+      "ancestorIds": [
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "8D1B588817D7441FAE4A59D867606367"
+    },
+    "48B2BFB6A2F94A6FBDC1F62B24B34710": {
+      "id": "48B2BFB6A2F94A6FBDC1F62B24B34710",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.7.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research advancing and emerging technologies\n(e.g., artificially intelligent agents, blockchain,\nextended reality, Internet of Things (IoT), machine\nlearning, robotics) ",
+      "comments": [],
+      "ancestorIds": [
+        "BE409869CC2E482199EF4A7069C7B15B",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "BE409869CC2E482199EF4A7069C7B15B"
+    },
+    "3CB96AD382FB41198B7B3DA90277DA0D": {
+      "id": "3CB96AD382FB41198B7B3DA90277DA0D",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify software and hardware specific to carrying\nout the mission of regional industries",
+      "comments": [],
+      "ancestorIds": [
+        "BE409869CC2E482199EF4A7069C7B15B",
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "BE409869CC2E482199EF4A7069C7B15B"
+    },
+    "BE409869CC2E482199EF4A7069C7B15B": {
+      "id": "BE409869CC2E482199EF4A7069C7B15B",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze the utilization of computers within industry.",
+      "comments": [],
+      "ancestorIds": [
+        "8D1B588817D7441FAE4A59D867606367"
+      ],
+      "parentId": "8D1B588817D7441FAE4A59D867606367"
+    },
+    "8D1B588817D7441FAE4A59D867606367": {
+      "id": "8D1B588817D7441FAE4A59D867606367",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computers and Communications",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8293D1E9C5094744998F4D6FF6C6960F": {
+      "id": "8293D1E9C5094744998F4D6FF6C6960F",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CSPG.Y1.6.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a systematic approach to detect logic, runtime,\nand syntax errors within a program ",
+      "comments": [],
+      "ancestorIds": [
+        "6440697B5BDE4777A0F57C2DBCC8FF33",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "6440697B5BDE4777A0F57C2DBCC8FF33"
+    },
+    "31D6C20505F14F9EBB3BA1D1360BE5E7": {
+      "id": "31D6C20505F14F9EBB3BA1D1360BE5E7",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs of level-appropriate complexity\nthat read from standard input, write to standard\noutput, read from a file, write to a file, and append to\na file",
+      "comments": [],
+      "ancestorIds": [
+        "6440697B5BDE4777A0F57C2DBCC8FF33",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "6440697B5BDE4777A0F57C2DBCC8FF33"
+    },
+    "C1351D6F24B3468E84C75BF38D5F4DE1": {
+      "id": "C1351D6F24B3468E84C75BF38D5F4DE1",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the scope and state of variables declared\nin procedures and control structures over time",
+      "comments": [],
+      "ancestorIds": [
+        "6440697B5BDE4777A0F57C2DBCC8FF33",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "6440697B5BDE4777A0F57C2DBCC8FF33"
+    },
+    "E8ABDA0E82CA4DE79D8E9B458D1261C3": {
+      "id": "E8ABDA0E82CA4DE79D8E9B458D1261C3",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss and apply best practices of program design\nand format (e.g., descriptive names, documentation,\nindentation, user experience design, whitespace) ",
+      "comments": [],
+      "ancestorIds": [
+        "6440697B5BDE4777A0F57C2DBCC8FF33",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "6440697B5BDE4777A0F57C2DBCC8FF33"
+    },
+    "06A9F9AD1EE143619E47BB4677F5B184": {
+      "id": "06A9F9AD1EE143619E47BB4677F5B184",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs using procedures to solve\nproblems of level-appropriate complexity",
+      "comments": [],
+      "ancestorIds": [
+        "6440697B5BDE4777A0F57C2DBCC8FF33",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "6440697B5BDE4777A0F57C2DBCC8FF33"
+    },
+    "6440697B5BDE4777A0F57C2DBCC8FF33": {
+      "id": "6440697B5BDE4777A0F57C2DBCC8FF33",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will create programs to solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "B4EF629897994A28AC883D41E4AF988F"
+    },
+    "32BC9D369B0E4E79A188692A142E65D0": {
+      "id": "32BC9D369B0E4E79A188692A142E65D0",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.5.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a systematic approach to detect and resolve\nerrors in a given algorithm ",
+      "comments": [],
+      "ancestorIds": [
+        "02107B92945E483F879C360F6C49B145",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "02107B92945E483F879C360F6C49B145"
+    },
+    "546A367D71944272B1EB5F1DA39E8C7D": {
+      "id": "546A367D71944272B1EB5F1DA39E8C7D",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the qualities of level-appropriate studentcreated and non-student-created algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "02107B92945E483F879C360F6C49B145",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "02107B92945E483F879C360F6C49B145"
+    },
+    "841FF899AB5F482E8EB8FD200EEA7DCD": {
+      "id": "841FF899AB5F482E8EB8FD200EEA7DCD",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate the flow of execution of algorithms in levelappropriate programs including branching and\nlooping",
+      "comments": [],
+      "ancestorIds": [
+        "02107B92945E483F879C360F6C49B145",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "02107B92945E483F879C360F6C49B145"
+    },
+    "893CC88D99034F1A83AC0C0D3F8C0898": {
+      "id": "893CC88D99034F1A83AC0C0D3F8C0898",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and implement level-appropriate algorithms\nthat use iteration, selection, and sequence",
+      "comments": [],
+      "ancestorIds": [
+        "02107B92945E483F879C360F6C49B145",
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "02107B92945E483F879C360F6C49B145"
+    },
+    "02107B92945E483F879C360F6C49B145": {
+      "id": "02107B92945E483F879C360F6C49B145",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will create, evaluate, and modify algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "B4EF629897994A28AC883D41E4AF988F"
+      ],
+      "parentId": "B4EF629897994A28AC883D41E4AF988F"
+    },
+    "B4EF629897994A28AC883D41E4AF988F": {
+      "id": "B4EF629897994A28AC883D41E4AF988F",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms and Programs",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0C50BB9C3CE8498F9EB21619F79EC187": {
+      "id": "0C50BB9C3CE8498F9EB21619F79EC187",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain implications related to identification and\nresponsible reporting of a vulnerability versus\nexploitation  ",
+      "comments": [],
+      "ancestorIds": [
+        "E9338108B6C2422CA5CBF6B2CF7B4533",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "E9338108B6C2422CA5CBF6B2CF7B4533"
+    },
+    "613A57A357404F61BBF14D49518FEE8C": {
+      "id": "613A57A357404F61BBF14D49518FEE8C",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe the impacts of ransomware,\ntrojans, viruses, and other malware",
+      "comments": [],
+      "ancestorIds": [
+        "E9338108B6C2422CA5CBF6B2CF7B4533",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "E9338108B6C2422CA5CBF6B2CF7B4533"
+    },
+    "F5ED33F2C54E4E5F9D6F9FADC47EF3A8": {
+      "id": "F5ED33F2C54E4E5F9D6F9FADC47EF3A8",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and describe different roles within the\nhacking community (e.g., white hat, black hat, gray\nhat hacking), including positive and negative\nmotivations, significant impacts, and social\nstereotypes",
+      "comments": [],
+      "ancestorIds": [
+        "E9338108B6C2422CA5CBF6B2CF7B4533",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "E9338108B6C2422CA5CBF6B2CF7B4533"
+    },
+    "9AF9BEB7D6DD4E99B8C1F563BEB12F1E": {
+      "id": "9AF9BEB7D6DD4E99B8C1F563BEB12F1E",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the five pillars of cybersecurity and evaluate\nthe relevance of each pillar to computer science\nconcepts",
+      "comments": [],
+      "ancestorIds": [
+        "E9338108B6C2422CA5CBF6B2CF7B4533",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "E9338108B6C2422CA5CBF6B2CF7B4533"
+    },
+    "E9338108B6C2422CA5CBF6B2CF7B4533": {
+      "id": "E9338108B6C2422CA5CBF6B2CF7B4533",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze and utilize concepts of cybersecurity.",
+      "comments": [],
+      "ancestorIds": [
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "5E415C49BAEC449D8D979E736B4E3C9C"
+    },
+    "A17C4A042DDF49B39D27C7265F034B5E": {
+      "id": "A17C4A042DDF49B39D27C7265F034B5E",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "CSPG.Y1.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2",
+      "comments": [],
+      "ancestorIds": [
+        "DBB9670691114E26811FB81C933540DC",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "DBB9670691114E26811FB81C933540DC"
+    },
+    "4C6836FD98054A10BFC539B227D11F60": {
+      "id": "4C6836FD98054A10BFC539B227D11F60",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CSPG.Y1.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform level-appropriate data analysis using\ncomputing tools",
+      "comments": [],
+      "ancestorIds": [
+        "DBB9670691114E26811FB81C933540DC",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "DBB9670691114E26811FB81C933540DC"
+    },
+    "AB5F75F1BF3D4DAFA3E6473053687959": {
+      "id": "AB5F75F1BF3D4DAFA3E6473053687959",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze, utilize, and visually represent levelappropriate data",
+      "comments": [],
+      "ancestorIds": [
+        "DBB9670691114E26811FB81C933540DC",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "DBB9670691114E26811FB81C933540DC"
+    },
+    "40A069F8144C4BDCAF7D1C0436A16E65": {
+      "id": "40A069F8144C4BDCAF7D1C0436A16E65",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2",
+      "comments": [],
+      "ancestorIds": [
+        "DBB9670691114E26811FB81C933540DC",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "DBB9670691114E26811FB81C933540DC"
+    },
+    "9262966D4F7F470E8AFC1811BA68B208": {
+      "id": "9262966D4F7F470E8AFC1811BA68B208",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and discuss different examples of levelappropriate quantitative and qualitative data",
+      "comments": [],
+      "ancestorIds": [
+        "DBB9670691114E26811FB81C933540DC",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "DBB9670691114E26811FB81C933540DC"
+    },
+    "0FE01623850B49D792EEFA550F01EF8B": {
+      "id": "0FE01623850B49D792EEFA550F01EF8B",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define, store, access, and manipulate levelappropriate data (e.g., primitive, linear)",
+      "comments": [],
+      "ancestorIds": [
+        "DBB9670691114E26811FB81C933540DC",
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "DBB9670691114E26811FB81C933540DC"
+    },
+    "DBB9670691114E26811FB81C933540DC": {
+      "id": "DBB9670691114E26811FB81C933540DC",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze and utilize data through the use of computing devices.",
+      "comments": [],
+      "ancestorIds": [
+        "5E415C49BAEC449D8D979E736B4E3C9C"
+      ],
+      "parentId": "5E415C49BAEC449D8D979E736B4E3C9C"
+    },
+    "5E415C49BAEC449D8D979E736B4E3C9C": {
+      "id": "5E415C49BAEC449D8D979E736B4E3C9C",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data, Information, and Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "753BF882B1E442A396EF277F331F7FB0": {
+      "id": "753BF882B1E442A396EF277F331F7FB0",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "CSPG.Y1.2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate operator precedence in expressions\nand statements",
+      "comments": [],
+      "ancestorIds": [
+        "8CA151E78B444D75B18AB01A00FD1432",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "8CA151E78B444D75B18AB01A00FD1432"
+    },
+    "8AEB3845AA904427AAA79FB69FA1B27C": {
+      "id": "8AEB3845AA904427AAA79FB69FA1B27C",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CSPG.Y1.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform operations of level-appropriate complexity\nwith binary, decimal, and hexadecimal numbers",
+      "comments": [],
+      "ancestorIds": [
+        "8CA151E78B444D75B18AB01A00FD1432",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "8CA151E78B444D75B18AB01A00FD1432"
+    },
+    "82510B0DA2DA43FBA34A1B860679CF6F": {
+      "id": "82510B0DA2DA43FBA34A1B860679CF6F",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss and apply concepts of abstraction",
+      "comments": [],
+      "ancestorIds": [
+        "8CA151E78B444D75B18AB01A00FD1432",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "8CA151E78B444D75B18AB01A00FD1432"
+    },
+    "0798B56FFA51445FB049FC759772F8A6": {
+      "id": "0798B56FFA51445FB049FC759772F8A6",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze how computer science concepts relate to\nthe field of mathematics",
+      "comments": [],
+      "ancestorIds": [
+        "8CA151E78B444D75B18AB01A00FD1432",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "8CA151E78B444D75B18AB01A00FD1432"
+    },
+    "4B047532B012445CB194EBE365803FC0": {
+      "id": "4B047532B012445CB194EBE365803FC0",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify the types of information that can be stored\nas variables and analyze the appropriateness of\neach (e.g., Booleans, characters, integers, floating\npoints, strings)",
+      "comments": [],
+      "ancestorIds": [
+        "8CA151E78B444D75B18AB01A00FD1432",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "8CA151E78B444D75B18AB01A00FD1432"
+    },
+    "92245F4D089D4A37BB9CD2B7B1CF109D": {
+      "id": "92245F4D089D4A37BB9CD2B7B1CF109D",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret relational and logical expressions of levelappropriate complexity using comparison and\nBoolean operators",
+      "comments": [],
+      "ancestorIds": [
+        "8CA151E78B444D75B18AB01A00FD1432",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "8CA151E78B444D75B18AB01A00FD1432"
+    },
+    "8CA151E78B444D75B18AB01A00FD1432": {
+      "id": "8CA151E78B444D75B18AB01A00FD1432",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze and utilize connections between concepts of mathematics and computer science.",
+      "comments": [],
+      "ancestorIds": [
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "0F47C051041E44EF953CF66DDDCBD3EC"
+    },
+    "895EBE05059B4551A7B03B6A6660A40F": {
+      "id": "895EBE05059B4551A7B03B6A6660A40F",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CSPG.Y1.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "This standard is not specifically required until Year 2",
+      "comments": [],
+      "ancestorIds": [
+        "BDCAB9AE68B4412C9C1C82027432E443",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "BDCAB9AE68B4412C9C1C82027432E443"
+    },
+    "932DAB3688AD44A7B5973B1A9ADD3AD4": {
+      "id": "932DAB3688AD44A7B5973B1A9ADD3AD4",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CSPG.Y1.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and utilize level-appropriate troubleshooting\nstrategies for hardware and software",
+      "comments": [],
+      "ancestorIds": [
+        "BDCAB9AE68B4412C9C1C82027432E443",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "BDCAB9AE68B4412C9C1C82027432E443"
+    },
+    "5F863CA08D5441BA8730CABC66DD6D94": {
+      "id": "5F863CA08D5441BA8730CABC66DD6D94",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CSPG.Y1.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and utilize collaborative methods in\nproblem solving of level-appropriate complexity",
+      "comments": [],
+      "ancestorIds": [
+        "BDCAB9AE68B4412C9C1C82027432E443",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "BDCAB9AE68B4412C9C1C82027432E443"
+    },
+    "09351F988CD04881934B95277B41CD18": {
+      "id": "09351F988CD04881934B95277B41CD18",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CSPG.Y1.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and utilize multiple representations of\nproblem-solving logic used to solve problems of\nappropriate complexity",
+      "comments": [],
+      "ancestorIds": [
+        "BDCAB9AE68B4412C9C1C82027432E443",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "BDCAB9AE68B4412C9C1C82027432E443"
+    },
+    "2BB60AB74F474CD397E64661682FCB99": {
+      "id": "2BB60AB74F474CD397E64661682FCB99",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CSPG.Y1.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Leverage problem-solving strategies to solve\nproblems of level-appropriate complexity",
+      "comments": [],
+      "ancestorIds": [
+        "BDCAB9AE68B4412C9C1C82027432E443",
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "BDCAB9AE68B4412C9C1C82027432E443"
+    },
+    "BDCAB9AE68B4412C9C1C82027432E443": {
+      "id": "BDCAB9AE68B4412C9C1C82027432E443",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will analyze and utilize problem-solving strategies.  ",
+      "comments": [],
+      "ancestorIds": [
+        "0F47C051041E44EF953CF66DDDCBD3EC"
+      ],
+      "parentId": "0F47C051041E44EF953CF66DDDCBD3EC"
+    },
+    "0F47C051041E44EF953CF66DDDCBD3EC": {
+      "id": "0F47C051041E44EF953CF66DDDCBD3EC",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Thinking and Problem Solving",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

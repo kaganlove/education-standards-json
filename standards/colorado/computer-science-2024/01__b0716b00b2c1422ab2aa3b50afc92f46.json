@@ -1,0 +1,571 @@
+{
+  "id": "B0716B00B2C1422AB2AA3B50AFC92F46",
+  "title": "Grade 1",
+  "subject": "Computer Science (2024-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "01"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Computer Science Standards Review and Revision Committee",
+    "sourceURL": "https://go.boarddocs.com/co/cde/Board.nsf/files/D3U2NE02F6DA/$file/Clean%20Copy%20K-12%20CS%20Standards%20Final%20Recommendations%20April%202024_Final.pdf",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "83F29380C23C4AEB843733B243CB2243",
+    "title": "Colorado"
+  },
+  "standards": {
+    "CA136825CC5D439B866BF31942307D5A": {
+      "id": "CA136825CC5D439B866BF31942307D5A",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.1.6.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate between appropriate and inappropriate online behavior.",
+      "comments": [],
+      "ancestorIds": [
+        "075873E8B3444F2BA7837F358C6492CF",
+        "CC2338D7A1F1471B896C0638C51278C8",
+        "34A2A9C0568F445BB97DC838D3AC0588"
+      ],
+      "parentId": "075873E8B3444F2BA7837F358C6492CF"
+    },
+    "C42A7817EBD14BBAAFD5D378625EFB9A": {
+      "id": "C42A7817EBD14BBAAFD5D378625EFB9A",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.1.6.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that there are rules for interacting online that are intended to keep people safe.",
+      "comments": [],
+      "ancestorIds": [
+        "075873E8B3444F2BA7837F358C6492CF",
+        "CC2338D7A1F1471B896C0638C51278C8",
+        "34A2A9C0568F445BB97DC838D3AC0588"
+      ],
+      "parentId": "075873E8B3444F2BA7837F358C6492CF"
+    },
+    "075873E8B3444F2BA7837F358C6492CF": {
+      "id": "075873E8B3444F2BA7837F358C6492CF",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.1.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital citizenship plays a role in our everyday lives both in person and online.",
+      "comments": [],
+      "ancestorIds": [
+        "CC2338D7A1F1471B896C0638C51278C8",
+        "34A2A9C0568F445BB97DC838D3AC0588"
+      ],
+      "parentId": "CC2338D7A1F1471B896C0638C51278C8"
+    },
+    "CC2338D7A1F1471B896C0638C51278C8": {
+      "id": "CC2338D7A1F1471B896C0638C51278C8",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "13",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Practice responsible, ethical, and safe use of computing technology and the internet.",
+      "comments": [],
+      "ancestorIds": [
+        "34A2A9C0568F445BB97DC838D3AC0588"
+      ],
+      "parentId": "34A2A9C0568F445BB97DC838D3AC0588"
+    },
+    "34A2A9C0568F445BB97DC838D3AC0588": {
+      "id": "34A2A9C0568F445BB97DC838D3AC0588",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital Citizenship",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E944A23A127F45DAA864EDD30BE015D9": {
+      "id": "E944A23A127F45DAA864EDD30BE015D9",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.1.3.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cite sources when using the ideas and creations of others while developing programs.",
+      "comments": [],
+      "ancestorIds": [
+        "6FECDBAA7B32443A96B65F3B4FD40B15",
+        "FC9B44C516CC4D4EAB83EAF9DA20F6D6",
+        "B73AEA0BE28B43A1A97CE892D51DBEA5"
+      ],
+      "parentId": "6FECDBAA7B32443A96B65F3B4FD40B15"
+    },
+    "C3DB198E171142E1865DBF2A5551EBA1": {
+      "id": "C3DB198E171142E1865DBF2A5551EBA1",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.1.3.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop programs with sequences to express ideas or address a problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "6FECDBAA7B32443A96B65F3B4FD40B15",
+        "FC9B44C516CC4D4EAB83EAF9DA20F6D6",
+        "B73AEA0BE28B43A1A97CE892D51DBEA5"
+      ],
+      "parentId": "6FECDBAA7B32443A96B65F3B4FD40B15"
+    },
+    "41BD62C3E4EE40FCB3AD334DE39C0162": {
+      "id": "41BD62C3E4EE40FCB3AD334DE39C0162",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.1.3.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use appropriate software to perform a variety of tasks.",
+      "comments": [],
+      "ancestorIds": [
+        "6FECDBAA7B32443A96B65F3B4FD40B15",
+        "FC9B44C516CC4D4EAB83EAF9DA20F6D6",
+        "B73AEA0BE28B43A1A97CE892D51DBEA5"
+      ],
+      "parentId": "6FECDBAA7B32443A96B65F3B4FD40B15"
+    },
+    "6FECDBAA7B32443A96B65F3B4FD40B15": {
+      "id": "6FECDBAA7B32443A96B65F3B4FD40B15",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.1.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A computer program is a sequence of steps that is expressed in a computer programming language so that a computer can follow and perform the steps.",
+      "comments": [],
+      "ancestorIds": [
+        "FC9B44C516CC4D4EAB83EAF9DA20F6D6",
+        "B73AEA0BE28B43A1A97CE892D51DBEA5"
+      ],
+      "parentId": "FC9B44C516CC4D4EAB83EAF9DA20F6D6"
+    },
+    "FC9B44C516CC4D4EAB83EAF9DA20F6D6": {
+      "id": "FC9B44C516CC4D4EAB83EAF9DA20F6D6",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and create programs, individually and collaboratively, for a variety of disciplines. ",
+      "comments": [],
+      "ancestorIds": [
+        "B73AEA0BE28B43A1A97CE892D51DBEA5"
+      ],
+      "parentId": "B73AEA0BE28B43A1A97CE892D51DBEA5"
+    },
+    "B73AEA0BE28B43A1A97CE892D51DBEA5": {
+      "id": "B73AEA0BE28B43A1A97CE892D51DBEA5",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computer Programming ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BB77682311674E7C98F714F3BF1302FF": {
+      "id": "BB77682311674E7C98F714F3BF1302FF",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.1.2.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize that equipment is needed to access a network.",
+      "comments": [],
+      "ancestorIds": [
+        "97BCAD96446E4CC3AC4D9159C6A85730",
+        "BDD01B557150418C80E6A31B4B5E1FD4",
+        "648F852540FB43D988FF6FB086A0973E"
+      ],
+      "parentId": "97BCAD96446E4CC3AC4D9159C6A85730"
+    },
+    "854C4C2FFCDA4B4C94CD6D41C46E5BCC": {
+      "id": "854C4C2FFCDA4B4C94CD6D41C46E5BCC",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.1.2.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the difference between online and local use of computing devices. ",
+      "comments": [],
+      "ancestorIds": [
+        "97BCAD96446E4CC3AC4D9159C6A85730",
+        "BDD01B557150418C80E6A31B4B5E1FD4",
+        "648F852540FB43D988FF6FB086A0973E"
+      ],
+      "parentId": "97BCAD96446E4CC3AC4D9159C6A85730"
+    },
+    "36F1250FD4854CF08D517B8D0ED5BDC3": {
+      "id": "36F1250FD4854CF08D517B8D0ED5BDC3",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.1.2.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe basic hardware and software problems using accurate terminology.",
+      "comments": [],
+      "ancestorIds": [
+        "97BCAD96446E4CC3AC4D9159C6A85730",
+        "BDD01B557150418C80E6A31B4B5E1FD4",
+        "648F852540FB43D988FF6FB086A0973E"
+      ],
+      "parentId": "97BCAD96446E4CC3AC4D9159C6A85730"
+    },
+    "97BCAD96446E4CC3AC4D9159C6A85730": {
+      "id": "97BCAD96446E4CC3AC4D9159C6A85730",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.1.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing systems rely on both hardware and software, that can be local or accessed remotely.",
+      "comments": [],
+      "ancestorIds": [
+        "BDD01B557150418C80E6A31B4B5E1FD4",
+        "648F852540FB43D988FF6FB086A0973E"
+      ],
+      "parentId": "BDD01B557150418C80E6A31B4B5E1FD4"
+    },
+    "BDD01B557150418C80E6A31B4B5E1FD4": {
+      "id": "BDD01B557150418C80E6A31B4B5E1FD4",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use systems thinking to describe networks and common software and hardware components.",
+      "comments": [],
+      "ancestorIds": [
+        "648F852540FB43D988FF6FB086A0973E"
+      ],
+      "parentId": "648F852540FB43D988FF6FB086A0973E"
+    },
+    "648F852540FB43D988FF6FB086A0973E": {
+      "id": "648F852540FB43D988FF6FB086A0973E",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing Systems and Networks",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B59BF8C6A80645EFA76BC68945C8DA32": {
+      "id": "B59BF8C6A80645EFA76BC68945C8DA32",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "CS.1.1.3.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use numbers or other symbols to represent information and describe that this is similar to how computer programs represent information.",
+      "comments": [],
+      "ancestorIds": [
+        "CD0369C4D6584398BCEA06DDE2EE64C1",
+        "4D6D8CBA22544299981F96E241CB6E2F",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "CD0369C4D6584398BCEA06DDE2EE64C1"
+    },
+    "F1F0C5FE7AA943FF93D3BEA9EBA876D5": {
+      "id": "F1F0C5FE7AA943FF93D3BEA9EBA876D5",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.1.1.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe patterns in data using visual representations such as charts or graphs, to make predictions.",
+      "comments": [],
+      "ancestorIds": [
+        "CD0369C4D6584398BCEA06DDE2EE64C1",
+        "4D6D8CBA22544299981F96E241CB6E2F",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "CD0369C4D6584398BCEA06DDE2EE64C1"
+    },
+    "A951F63A2B814C7EBB0065CD4A7D594E": {
+      "id": "A951F63A2B814C7EBB0065CD4A7D594E",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.1.1.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collect and present the same data in various visual formats. ",
+      "comments": [],
+      "ancestorIds": [
+        "CD0369C4D6584398BCEA06DDE2EE64C1",
+        "4D6D8CBA22544299981F96E241CB6E2F",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "CD0369C4D6584398BCEA06DDE2EE64C1"
+    },
+    "06E9FF3B68CB4AA7A1E3470519BB5232": {
+      "id": "06E9FF3B68CB4AA7A1E3470519BB5232",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.1.1.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find, add, change, and delete information using a computing device and define the information stored as data. ",
+      "comments": [],
+      "ancestorIds": [
+        "CD0369C4D6584398BCEA06DDE2EE64C1",
+        "4D6D8CBA22544299981F96E241CB6E2F",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "CD0369C4D6584398BCEA06DDE2EE64C1"
+    },
+    "CD0369C4D6584398BCEA06DDE2EE64C1": {
+      "id": "CD0369C4D6584398BCEA06DDE2EE64C1",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CS.1.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data is information that can be collected, stored, and represented in a variety of ways.",
+      "comments": [],
+      "ancestorIds": [
+        "4D6D8CBA22544299981F96E241CB6E2F",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "4D6D8CBA22544299981F96E241CB6E2F"
+    },
+    "4D6D8CBA22544299981F96E241CB6E2F": {
+      "id": "4D6D8CBA22544299981F96E241CB6E2F",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent and analyze data in order to generate new knowledge and capability.",
+      "comments": [],
+      "ancestorIds": [
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "A2DFD82129E54928A41CEC3525005A17"
+    },
+    "F7AA493FC3984BDD8FE9BCDDCBFC865C": {
+      "id": "F7AA493FC3984BDD8FE9BCDDCBFC865C",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.1.1.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decompose (break down) the steps needed to solve a problem into a precise sequence of instructions.",
+      "comments": [],
+      "ancestorIds": [
+        "5A67940396024CDDA50A1D13E7B0EA31",
+        "3F8CE21AA6D046009FC1BA1544426CCF",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "5A67940396024CDDA50A1D13E7B0EA31"
+    },
+    "5A67940396024CDDA50A1D13E7B0EA31": {
+      "id": "5A67940396024CDDA50A1D13E7B0EA31",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS.1.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complex problems can be broken into smaller parts to facilitate solving the problem.",
+      "comments": [],
+      "ancestorIds": [
+        "3F8CE21AA6D046009FC1BA1544426CCF",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "3F8CE21AA6D046009FC1BA1544426CCF"
+    },
+    "3F8CE21AA6D046009FC1BA1544426CCF": {
+      "id": "3F8CE21AA6D046009FC1BA1544426CCF",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systematically analyze a problem using decomposition and abstraction to formulate a solution. ",
+      "comments": [],
+      "ancestorIds": [
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "A2DFD82129E54928A41CEC3525005A17"
+    },
+    "DE20A3388A9749A38AEBC3E497B71CEE": {
+      "id": "DE20A3388A9749A38AEBC3E497B71CEE",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.1.1.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using correct terminology, describe steps taken, and choices made during the process of program development and revision. ",
+      "comments": [],
+      "ancestorIds": [
+        "49FF21EBAF9E40A78940A2BFCB7AE118",
+        "0A3C8639A69641BD8D29C7B45E0671FC",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "49FF21EBAF9E40A78940A2BFCB7AE118"
+    },
+    "C0DDAACBC2FC42038C1279E8546AC771": {
+      "id": "C0DDAACBC2FC42038C1279E8546AC771",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.1.1.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Debug (identify and fix) errors in an algorithm or program that includes sequences and simple loops. ",
+      "comments": [],
+      "ancestorIds": [
+        "49FF21EBAF9E40A78940A2BFCB7AE118",
+        "0A3C8639A69641BD8D29C7B45E0671FC",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "49FF21EBAF9E40A78940A2BFCB7AE118"
+    },
+    "67F4B643C24448C6B6576B54B5B1479F": {
+      "id": "67F4B643C24448C6B6576B54B5B1479F",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.1.1.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and follow algorithms (sets of step-by-step instructions) to complete tasks.",
+      "comments": [],
+      "ancestorIds": [
+        "49FF21EBAF9E40A78940A2BFCB7AE118",
+        "0A3C8639A69641BD8D29C7B45E0671FC",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "49FF21EBAF9E40A78940A2BFCB7AE118"
+    },
+    "49FF21EBAF9E40A78940A2BFCB7AE118": {
+      "id": "49FF21EBAF9E40A78940A2BFCB7AE118",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.1.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "An algorithm is a set of steps for a specific purpose and can be modified.",
+      "comments": [],
+      "ancestorIds": [
+        "0A3C8639A69641BD8D29C7B45E0671FC",
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "0A3C8639A69641BD8D29C7B45E0671FC"
+    },
+    "0A3C8639A69641BD8D29C7B45E0671FC": {
+      "id": "0A3C8639A69641BD8D29C7B45E0671FC",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop, utilize, and evaluate algorithms, to model and solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "A2DFD82129E54928A41CEC3525005A17"
+      ],
+      "parentId": "A2DFD82129E54928A41CEC3525005A17"
+    },
+    "A2DFD82129E54928A41CEC3525005A17": {
+      "id": "A2DFD82129E54928A41CEC3525005A17",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Thinking",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "id": "0F7091AB177F40D8B71B326CAFD13C8D_D21094991_grades-09-10-11-12",
+  "title": "Precalculus: Trigonometry: Grades 9, 10, 11, 12",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D21094991",
+    "valid": "2020",
+    "title": "Indiana Academic Standards Mathematics: Precalculus: Trigonometry",
+    "sourceURL": "https://www.doe.in.gov/sites/default/files/standards/trigonometry-standards-updated-march-2020.pdf",
+    "asnIdentifier": "D21094991",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "0F7091AB177F40D8B71B326CAFD13C8D",
+    "title": "Indiana"
+  },
+  "standards": {
+    "134B812A6954426CBE8B6213BDD36A22": {
+      "id": "134B812A6954426CBE8B6213BDD36A22",
+      "asnIdentifier": "S21095035",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "TR.V.7",
+      "statementLabel": "Standard",
+      "description": "Solve problems involving velocity and other quantities that can be represented by vectors.",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "768035D9C55A4D9D97184CD05A81836E": {
+      "id": "768035D9C55A4D9D97184CD05A81836E",
+      "asnIdentifier": "S21095034",
+      "position": 43000,
+      "depth": 1,
+      "statementNotation": "TR.V.6",
+      "statementLabel": "Standard",
+      "description": "Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "A506C0C2AF7E42FDACB4E00E612E1926": {
+      "id": "A506C0C2AF7E42FDACB4E00E612E1926",
+      "asnIdentifier": "S21095033",
+      "position": 42000,
+      "depth": 1,
+      "statementNotation": "TR.V.5",
+      "statementLabel": "Standard",
+      "description": "Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, vy) = (cvx, cvy).",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "A63774465BDC4452AD8455C7F36B149B": {
+      "id": "A63774465BDC4452AD8455C7F36B149B",
+      "asnIdentifier": "S21095032",
+      "position": 41000,
+      "depth": 1,
+      "statementNotation": "TR.V.4",
+      "statementLabel": "Standard",
+      "description": "Understand vector subtraction <em>v -w as v + (-w)</em>, where <em>-w</em> is the additive inverse of <em>w</em>, with the same magnitude as <em>w</em> and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "768956EE6A424E51BF21B79883D561E0": {
+      "id": "768956EE6A424E51BF21B79883D561E0",
+      "asnIdentifier": "S21095031",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "TR.V.3",
+      "statementLabel": "Standard",
+      "description": "Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "FEF2139AA56F4545B2FF0B2ED1B0173A": {
+      "id": "FEF2139AA56F4545B2FF0B2ED1B0173A",
+      "asnIdentifier": "S21095030",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "TR.V.2",
+      "statementLabel": "Standard",
+      "description": "Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "CDDE8710267645B28ABFB61C06263FCE": {
+      "id": "CDDE8710267645B28ABFB61C06263FCE",
+      "asnIdentifier": "S21095029",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "TR.V.1",
+      "statementLabel": "Standard",
+      "description": "Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||).",
+      "ancestorIds": [
+        "540899BC07224D22A2F9885C2F02FB03"
+      ],
+      "parentId": "540899BC07224D22A2F9885C2F02FB03"
+    },
+    "540899BC07224D22A2F9885C2F02FB03": {
+      "id": "540899BC07224D22A2F9885C2F02FB03",
+      "asnIdentifier": "S21095028",
+      "position": 37000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Vectors",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "535AB3F0473042388F9FA285200A24DA": {
+      "id": "535AB3F0473042388F9FA285200A24DA",
+      "asnIdentifier": "S21095027",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "TR.PC.4",
+      "statementLabel": "Standard",
+      "description": "Translate equations from rectangular coordinates to polar coordinates and from polar coordinates to rectangular coordinates. Graph equations in the polar coordinate plane.",
+      "ancestorIds": [
+        "F18ED23DE3FF49D1858D29698C66CEE4"
+      ],
+      "parentId": "F18ED23DE3FF49D1858D29698C66CEE4"
+    },
+    "EDF88E0A40E348ABAEEB01A58BD6720E": {
+      "id": "EDF88E0A40E348ABAEEB01A58BD6720E",
+      "asnIdentifier": "S21095026",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "TR.PC.3",
+      "statementLabel": "Standard",
+      "description": "Define polar coordinates and relate polar coordinates to Cartesian coordinates.",
+      "ancestorIds": [
+        "F18ED23DE3FF49D1858D29698C66CEE4"
+      ],
+      "parentId": "F18ED23DE3FF49D1858D29698C66CEE4"
+    },
+    "733AE3E7047B4F41B9CE8763F5AB269F": {
+      "id": "733AE3E7047B4F41B9CE8763F5AB269F",
+      "asnIdentifier": "S21095025",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "TR.PC.2",
+      "statementLabel": "Standard",
+      "description": "State, prove, and use DeMoivre's Theorem.",
+      "ancestorIds": [
+        "F18ED23DE3FF49D1858D29698C66CEE4"
+      ],
+      "parentId": "F18ED23DE3FF49D1858D29698C66CEE4"
+    },
+    "0152CC8FB71A4763B4B26D4DDAFC7D00": {
+      "id": "0152CC8FB71A4763B4B26D4DDAFC7D00",
+      "asnIdentifier": "S21095024",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "TR.PC.1",
+      "statementLabel": "Standard",
+      "description": "Understand and use complex numbers, including real and imaginary numbers, on the complex plane in rectangular and polar form, and explain why the rectangular and polar forms of a given complex number represent the same number.",
+      "ancestorIds": [
+        "F18ED23DE3FF49D1858D29698C66CEE4"
+      ],
+      "parentId": "F18ED23DE3FF49D1858D29698C66CEE4"
+    },
+    "F18ED23DE3FF49D1858D29698C66CEE4": {
+      "id": "F18ED23DE3FF49D1858D29698C66CEE4",
+      "asnIdentifier": "S21095023",
+      "position": 32000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Polar Coordinates and Complex Numbers",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D09AACA3159046B6B9083B2B5C75C5EB": {
+      "id": "D09AACA3159046B6B9083B2B5C75C5EB",
+      "asnIdentifier": "S21095022",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "TR.ID.4",
+      "statementLabel": "Standard",
+      "description": "Prove the double- and half-angle identities for sine, cosine, and tangent. Use the identities to solve problems.",
+      "ancestorIds": [
+        "6F45129A99444FE4AF8CD2516A5AB9FF"
+      ],
+      "parentId": "6F45129A99444FE4AF8CD2516A5AB9FF"
+    },
+    "DB5E94F239FA4C5FAC5844C73C5B0865": {
+      "id": "DB5E94F239FA4C5FAC5844C73C5B0865",
+      "asnIdentifier": "S21095021",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "TR.ID.3",
+      "statementLabel": "Standard",
+      "description": "Prove the addition and subtraction identities for sine, cosine, and tangent. Use the identities to solve problems.",
+      "ancestorIds": [
+        "6F45129A99444FE4AF8CD2516A5AB9FF"
+      ],
+      "parentId": "6F45129A99444FE4AF8CD2516A5AB9FF"
+    },
+    "B91B07C51D2940B490E0A31824E0E1BE": {
+      "id": "B91B07C51D2940B490E0A31824E0E1BE",
+      "asnIdentifier": "S21095020",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "TR.ID.2",
+      "statementLabel": "Standard",
+      "description": "Verify trigonometric identities and simplify expressions using trigonometric identities.",
+      "ancestorIds": [
+        "6F45129A99444FE4AF8CD2516A5AB9FF"
+      ],
+      "parentId": "6F45129A99444FE4AF8CD2516A5AB9FF"
+    },
+    "3624BB4BC730418D81FDC2934C8988E5": {
+      "id": "3624BB4BC730418D81FDC2934C8988E5",
+      "asnIdentifier": "S21095019",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "TR.ID.1",
+      "statementLabel": "Standard",
+      "description": "Prove the Pythagorean identity sin²(x) + cos²(x) = 1 and use it to find trigonometric ratios, given sin(x), cos(x), or tan(x), and the quadrant of the angle.",
+      "ancestorIds": [
+        "6F45129A99444FE4AF8CD2516A5AB9FF"
+      ],
+      "parentId": "6F45129A99444FE4AF8CD2516A5AB9FF"
+    },
+    "6F45129A99444FE4AF8CD2516A5AB9FF": {
+      "id": "6F45129A99444FE4AF8CD2516A5AB9FF",
+      "asnIdentifier": "S21095018",
+      "position": 27000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Identities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C6262599B49A44E0AE89E397684BBE3F": {
+      "id": "C6262599B49A44E0AE89E397684BBE3F",
+      "asnIdentifier": "S21095017",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "TR.PF.5",
+      "statementLabel": "Standard",
+      "description": "Use inverse functions to solve trigonometric equations that arise in modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context.",
+      "ancestorIds": [
+        "910EA687A9364A57ABC1AC618E9D7A2F"
+      ],
+      "parentId": "910EA687A9364A57ABC1AC618E9D7A2F"
+    },
+    "AD18A5D8232F42CD82EA0D026CF31C67": {
+      "id": "AD18A5D8232F42CD82EA0D026CF31C67",
+      "asnIdentifier": "S21095016",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "TR.PF.4",
+      "statementLabel": "Standard",
+      "description": "Construct the inverse trigonometric functions of sine, cosine, and tangent by restricting the domain.",
+      "ancestorIds": [
+        "910EA687A9364A57ABC1AC618E9D7A2F"
+      ],
+      "parentId": "910EA687A9364A57ABC1AC618E9D7A2F"
+    },
+    "4297225120A34474AD0D3F7A21B500A0": {
+      "id": "4297225120A34474AD0D3F7A21B500A0",
+      "asnIdentifier": "S21095015",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "TR.PF.3",
+      "statementLabel": "Standard",
+      "description": "Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.",
+      "ancestorIds": [
+        "910EA687A9364A57ABC1AC618E9D7A2F"
+      ],
+      "parentId": "910EA687A9364A57ABC1AC618E9D7A2F"
+    },
+    "E8B4EECC28D148978E5CCA07B44ECF30": {
+      "id": "E8B4EECC28D148978E5CCA07B44ECF30",
+      "asnIdentifier": "S21095014",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "TR.PF.2",
+      "statementLabel": "Standard",
+      "description": "Model a data set with periodicity using a sinusoidal function and explain the parameters of the model.",
+      "ancestorIds": [
+        "910EA687A9364A57ABC1AC618E9D7A2F"
+      ],
+      "parentId": "910EA687A9364A57ABC1AC618E9D7A2F"
+    },
+    "6D66EE3A29B740E3AD605D1B3763D228": {
+      "id": "6D66EE3A29B740E3AD605D1B3763D228",
+      "asnIdentifier": "S21095013",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "TR.PF.1",
+      "statementLabel": "Standard",
+      "description": "Graph trigonometric functions with and without technology. Use the graphs to model and analyze periodic phenomena, stating amplitude, period, frequency, phase shift, and midline (vertical shift).",
+      "ancestorIds": [
+        "910EA687A9364A57ABC1AC618E9D7A2F"
+      ],
+      "parentId": "910EA687A9364A57ABC1AC618E9D7A2F"
+    },
+    "910EA687A9364A57ABC1AC618E9D7A2F": {
+      "id": "910EA687A9364A57ABC1AC618E9D7A2F",
+      "asnIdentifier": "S21095012",
+      "position": 21000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Periodic Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FB3E752C9D574DD38DD61CF349BEB91D": {
+      "id": "FB3E752C9D574DD38DD61CF349BEB91D",
+      "asnIdentifier": "S21095011",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "TR.T.6",
+      "statementLabel": "Standard",
+      "description": "Derive the formula A = ½ ab sin(C) for the area of a triangle by drawing an auxiliary line. Use the formula to find areas of triangles.",
+      "ancestorIds": [
+        "5BBE9B2177B74453AE0B509CEBFFA6E1"
+      ],
+      "parentId": "5BBE9B2177B74453AE0B509CEBFFA6E1"
+    },
+    "EA8C98B1649A4372B9D0437CD1416129": {
+      "id": "EA8C98B1649A4372B9D0437CD1416129",
+      "asnIdentifier": "S21095010",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "TR.T.5",
+      "statementLabel": "Standard",
+      "description": "Understand and apply the Laws of Sines and Cosines to solve real-world and other mathematical problems involving right and non-right triangles.",
+      "ancestorIds": [
+        "5BBE9B2177B74453AE0B509CEBFFA6E1"
+      ],
+      "parentId": "5BBE9B2177B74453AE0B509CEBFFA6E1"
+    },
+    "C14AC58156E2449A98CC642AC24B3C05": {
+      "id": "C14AC58156E2449A98CC642AC24B3C05",
+      "asnIdentifier": "S21095009",
+      "position": 18000,
+      "depth": 1,
+      "statementNotation": "TR.T.4",
+      "statementLabel": "Standard",
+      "description": "Prove the Laws of Sines and Cosines.",
+      "ancestorIds": [
+        "5BBE9B2177B74453AE0B509CEBFFA6E1"
+      ],
+      "parentId": "5BBE9B2177B74453AE0B509CEBFFA6E1"
+    },
+    "120FF7774B7943C99F55C86402091FF0": {
+      "id": "120FF7774B7943C99F55C86402091FF0",
+      "asnIdentifier": "S21095008",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "TR.T.3",
+      "statementLabel": "Standard",
+      "description": "Explain and use the relationship between the sine and cosine of complementary angles",
+      "ancestorIds": [
+        "5BBE9B2177B74453AE0B509CEBFFA6E1"
+      ],
+      "parentId": "5BBE9B2177B74453AE0B509CEBFFA6E1"
+    },
+    "D09D9B3F087947DCA0390AD6108EF116": {
+      "id": "D09D9B3F087947DCA0390AD6108EF116",
+      "asnIdentifier": "S21095007",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "TR.T.2",
+      "statementLabel": "Standard",
+      "description": "Solve real-world problems with and without technology that can be modeled using right triangles, including problems that can be modeled using trigonometric ratios. Interpret the solutions and determine whether the solutions are reasonable.",
+      "ancestorIds": [
+        "5BBE9B2177B74453AE0B509CEBFFA6E1"
+      ],
+      "parentId": "5BBE9B2177B74453AE0B509CEBFFA6E1"
+    },
+    "F16690B8120A45059E75A645928C0D14": {
+      "id": "F16690B8120A45059E75A645928C0D14",
+      "asnIdentifier": "S21095006",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "TR.T.1",
+      "statementLabel": "Standard",
+      "description": "Define and use the trigonometric ratios (sine, cosine, tangent, cotangent, secant, cosecant) in terms of angles of right triangles and the coordinates on the unit circle.",
+      "ancestorIds": [
+        "5BBE9B2177B74453AE0B509CEBFFA6E1"
+      ],
+      "parentId": "5BBE9B2177B74453AE0B509CEBFFA6E1"
+    },
+    "5BBE9B2177B74453AE0B509CEBFFA6E1": {
+      "id": "5BBE9B2177B74453AE0B509CEBFFA6E1",
+      "asnIdentifier": "S21095005",
+      "position": 14000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Triangles",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "07034B796FD74BB3ACBFDDFAD8753DE6": {
+      "id": "07034B796FD74BB3ACBFDDFAD8753DE6",
+      "asnIdentifier": "S21095004",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "TR.UC.3",
+      "statementLabel": "Standard",
+      "description": "Use special triangles to determine the values of sine, cosine, and tangent for π/3, π/4, and π/6. Apply special right triangles to the unit circle and use them to express the values of sine, cosine, and tangent for x, π ± x, and 2π ± x in terms of their values for x, where x is any real number.",
+      "ancestorIds": [
+        "40F155D014C2451B80AC73A99050EBDE"
+      ],
+      "parentId": "40F155D014C2451B80AC73A99050EBDE"
+    },
+    "3EB13F2C9B6F4910B6895F11727FEA48": {
+      "id": "3EB13F2C9B6F4910B6895F11727FEA48",
+      "asnIdentifier": "S21095003",
+      "position": 12000,
+      "depth": 1,
+      "statementNotation": "TR.UC.2",
+      "statementLabel": "Standard",
+      "description": "Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.",
+      "ancestorIds": [
+        "40F155D014C2451B80AC73A99050EBDE"
+      ],
+      "parentId": "40F155D014C2451B80AC73A99050EBDE"
+    },
+    "4B79BEEEB92D4A6B9AF225F5636715A1": {
+      "id": "4B79BEEEB92D4A6B9AF225F5636715A1",
+      "asnIdentifier": "S21095002",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "TR.UC.1",
+      "statementLabel": "Standard",
+      "description": "Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.",
+      "ancestorIds": [
+        "40F155D014C2451B80AC73A99050EBDE"
+      ],
+      "parentId": "40F155D014C2451B80AC73A99050EBDE"
+    },
+    "40F155D014C2451B80AC73A99050EBDE": {
+      "id": "40F155D014C2451B80AC73A99050EBDE",
+      "asnIdentifier": "S21095001",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Unit Circle",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "305DCCE1BBAC41C390FB3FFF4A0A292F": {
+      "id": "305DCCE1BBAC41C390FB3FFF4A0A292F",
+      "asnIdentifier": "S21095000",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "PS.8",
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "F249176C7AD74565B8065AAE5995BFB7": {
+      "id": "F249176C7AD74565B8065AAE5995BFB7",
+      "asnIdentifier": "S21094999",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "PS.7",
+      "statementLabel": "Standard",
+      "description": "Look for and make use of structure.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "7BEC7839782C442E80F3CC2587AF1FED": {
+      "id": "7BEC7839782C442E80F3CC2587AF1FED",
+      "asnIdentifier": "S21094998",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "PS.6",
+      "statementLabel": "Standard",
+      "description": "Attend to precision.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "39157463D4974086AEBE7D446294AC27": {
+      "id": "39157463D4974086AEBE7D446294AC27",
+      "asnIdentifier": "S21094997",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "PS.5",
+      "statementLabel": "Standard",
+      "description": "Use appropriate tools strategically.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "A8A48C9B5D5645BDA16F736A916C42DC": {
+      "id": "A8A48C9B5D5645BDA16F736A916C42DC",
+      "asnIdentifier": "S21094996",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "PS.4",
+      "statementLabel": "Standard",
+      "description": "Model with mathematics.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "C058074E5DD54C3887697F20776C8A0A": {
+      "id": "C058074E5DD54C3887697F20776C8A0A",
+      "asnIdentifier": "S21094995",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "PS.3",
+      "statementLabel": "Standard",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "78B15D09F2194484ABEA0BA3CE9E14B2": {
+      "id": "78B15D09F2194484ABEA0BA3CE9E14B2",
+      "asnIdentifier": "S21094994",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "PS.2",
+      "statementLabel": "Standard",
+      "description": "Reason abstractly and quantitatively.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "DDAF086706DC4160A1C117D4124AC5C7": {
+      "id": "DDAF086706DC4160A1C117D4124AC5C7",
+      "asnIdentifier": "S21094993",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "PS.1",
+      "statementLabel": "Standard",
+      "description": "Make sense of problems and persevere in solving them.",
+      "ancestorIds": [
+        "24CB4EDDBAD341D38D795EAA3B18DDBB"
+      ],
+      "parentId": "24CB4EDDBAD341D38D795EAA3B18DDBB"
+    },
+    "24CB4EDDBAD341D38D795EAA3B18DDBB": {
+      "id": "24CB4EDDBAD341D38D795EAA3B18DDBB",
+      "asnIdentifier": "S21094992",
+      "position": 1000,
+      "depth": 0,
+      "description": "Process Standards For Mathematics",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

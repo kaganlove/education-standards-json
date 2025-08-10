@@ -1,0 +1,2424 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2643098_grades-10-11-12",
+  "title": "Advanced Database: Grades 10, 11, 12",
+  "subject": "CTE (2002-2018)",
+  "normalizedSubject": "Career Education",
+  "educationLevels": [
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "asnIdentifier": "D2643098",
+    "publicationStatus": "Published",
+    "id": "D2643098",
+    "valid": "2009",
+    "title": "Advanced Database",
+    "sourceURL": "http://ace.arkansas.gov/cte/informationForms/curriculumFrameworks/Documents/Frameworks/Business/Adv%20DB%20frameworks%208-23-09xls.pdf"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "8169D20A36654FFEA91140085297F9C5": {
+      "id": "8169D20A36654FFEA91140085297F9C5",
+      "asnIdentifier": "S2645949",
+      "position": 179000,
+      "depth": 2,
+      "statementNotation": "11.7.1",
+      "statementLabel": "Application",
+      "description": "Use the ORDER BY command to sort in ascending and descending order",
+      "ancestorIds": [
+        "5ACFF195A2A8459299B400D8F76467A3",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "5ACFF195A2A8459299B400D8F76467A3"
+    },
+    "5ACFF195A2A8459299B400D8F76467A3": {
+      "position": 178000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.7",
+      "description": "Explain how to sort a database in SQL",
+      "id": "5ACFF195A2A8459299B400D8F76467A3",
+      "asnIdentifier": "S2645948",
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "85BEF7D459674135B003875A036E3369": {
+      "statementNotation": "11.6.1",
+      "statementLabel": "Application",
+      "description": "Use the SELECT command with various operators and clauses",
+      "id": "85BEF7D459674135B003875A036E3369",
+      "asnIdentifier": "S2645947",
+      "position": 177000,
+      "depth": 2,
+      "ancestorIds": [
+        "FFCC9B9E2E1E4EEEBAE3E7D3143095F4",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "FFCC9B9E2E1E4EEEBAE3E7D3143095F4"
+    },
+    "FFCC9B9E2E1E4EEEBAE3E7D3143095F4": {
+      "id": "FFCC9B9E2E1E4EEEBAE3E7D3143095F4",
+      "asnIdentifier": "S2645946",
+      "position": 176000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.6",
+      "description": "Explain how to query a database using SQL",
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "09934BD323C44565820B9B8FE317346C": {
+      "statementNotation": "11.5.2",
+      "statementLabel": "Application",
+      "description": "Use the UPDATE command",
+      "id": "09934BD323C44565820B9B8FE317346C",
+      "asnIdentifier": "S2645945",
+      "position": 175000,
+      "depth": 2,
+      "ancestorIds": [
+        "DDBDCF81F8804373BF63E983E5A3AF26",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "DDBDCF81F8804373BF63E983E5A3AF26"
+    },
+    "D1E866815C644BFF8D983CB393C3067C": {
+      "id": "D1E866815C644BFF8D983CB393C3067C",
+      "asnIdentifier": "S2645944",
+      "position": 174000,
+      "depth": 2,
+      "statementNotation": "11.5.1",
+      "statementLabel": "Application",
+      "description": "Use the INSERT INTO command",
+      "ancestorIds": [
+        "DDBDCF81F8804373BF63E983E5A3AF26",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "DDBDCF81F8804373BF63E983E5A3AF26"
+    },
+    "DDBDCF81F8804373BF63E983E5A3AF26": {
+      "id": "DDBDCF81F8804373BF63E983E5A3AF26",
+      "asnIdentifier": "S2645943",
+      "position": 173000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.5",
+      "description": "Explain how to add and modify records using SQL",
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "F1C07D6739C24E53AFA42E1AAEF0AE8C": {
+      "depth": 2,
+      "statementNotation": "11.4.1",
+      "statementLabel": "Application",
+      "description": "Use the DROP TABLE command",
+      "id": "F1C07D6739C24E53AFA42E1AAEF0AE8C",
+      "asnIdentifier": "S2645942",
+      "position": 172000,
+      "ancestorIds": [
+        "9A988E010A314AA99273F13D9F7EAB53",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "9A988E010A314AA99273F13D9F7EAB53"
+    },
+    "9A988E010A314AA99273F13D9F7EAB53": {
+      "asnIdentifier": "S2645941",
+      "position": 171000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.4",
+      "description": "Explain how to delete a table using SQL",
+      "id": "9A988E010A314AA99273F13D9F7EAB53",
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "345C06CE80CC49A0B4D3895B2F256913": {
+      "description": "Use the CREATE TABLE command",
+      "id": "345C06CE80CC49A0B4D3895B2F256913",
+      "asnIdentifier": "S2645940",
+      "position": 170000,
+      "depth": 2,
+      "statementNotation": "11.3.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "A464A014C2914D88820A0B65720AE7DB",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "A464A014C2914D88820A0B65720AE7DB"
+    },
+    "A464A014C2914D88820A0B65720AE7DB": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.3",
+      "description": "Explain how to layout and create a table in SQL",
+      "id": "A464A014C2914D88820A0B65720AE7DB",
+      "asnIdentifier": "S2645939",
+      "position": 169000,
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "A169133141C44D2B94B73DCD1A14BA83": {
+      "description": "Discuss the history of SQL",
+      "id": "A169133141C44D2B94B73DCD1A14BA83",
+      "asnIdentifier": "S2645938",
+      "position": 168000,
+      "depth": 2,
+      "statementNotation": "11.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "EF5750A2B38F47FD8397DC2160C32429",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "EF5750A2B38F47FD8397DC2160C32429"
+    },
+    "EF5750A2B38F47FD8397DC2160C32429": {
+      "description": "Describe briefly the history of SQL",
+      "id": "EF5750A2B38F47FD8397DC2160C32429",
+      "asnIdentifier": "S2645937",
+      "position": 167000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.2",
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "A9A2B2F9C8DC4004B12B5D566651AFAF": {
+      "id": "A9A2B2F9C8DC4004B12B5D566651AFAF",
+      "asnIdentifier": "S2645936",
+      "position": 166000,
+      "depth": 2,
+      "statementNotation": "11.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "ancestorIds": [
+        "06DF1446EF524684B39333224E694A7A",
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "06DF1446EF524684B39333224E694A7A"
+    },
+    "06DF1446EF524684B39333224E694A7A": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "11.1",
+      "description": "Define terminology",
+      "id": "06DF1446EF524684B39333224E694A7A",
+      "asnIdentifier": "S2645935",
+      "position": 165000,
+      "depth": 1,
+      "ancestorIds": [
+        "E336EDC74A60435CA3D1107670AB9756"
+      ],
+      "parentId": "E336EDC74A60435CA3D1107670AB9756"
+    },
+    "E336EDC74A60435CA3D1107670AB9756": {
+      "id": "E336EDC74A60435CA3D1107670AB9756",
+      "asnIdentifier": "S2645934",
+      "position": 164000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "11:",
+      "description": "Intro to SQL--Recommended by not required",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "600E14FBF53E412A866E4B795D60A12A": {
+      "description": "Add a command button to a form and assign it to a macro",
+      "id": "600E14FBF53E412A866E4B795D60A12A",
+      "asnIdentifier": "S2645933",
+      "position": 163000,
+      "depth": 2,
+      "statementNotation": "10.5.2",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "4C3850FE408544AFB0167A11BA071344",
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "4C3850FE408544AFB0167A11BA071344"
+    },
+    "A5D02F68D7FA49A1AA9EED43E5B04DB8": {
+      "depth": 2,
+      "statementNotation": "10.5.1",
+      "statementLabel": "Application",
+      "description": "Add a command button to a form or report",
+      "id": "A5D02F68D7FA49A1AA9EED43E5B04DB8",
+      "asnIdentifier": "S2645932",
+      "position": 162000,
+      "ancestorIds": [
+        "4C3850FE408544AFB0167A11BA071344",
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "4C3850FE408544AFB0167A11BA071344"
+    },
+    "4C3850FE408544AFB0167A11BA071344": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "10.5",
+      "description": "Explain the process of adding a command button to a form or report",
+      "id": "4C3850FE408544AFB0167A11BA071344",
+      "asnIdentifier": "S2645931",
+      "position": 161000,
+      "depth": 1,
+      "ancestorIds": [
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "B0FA160D063F48E6A6191C4775F551B9"
+    },
+    "F4C82106591B4D50AF8852BC407CBAF0": {
+      "description": "Create a macro group",
+      "id": "F4C82106591B4D50AF8852BC407CBAF0",
+      "asnIdentifier": "S2645930",
+      "position": 160000,
+      "depth": 2,
+      "statementNotation": "10.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "C36FCA34FA074A1B9731E9EDDD0DBB6B",
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "C36FCA34FA074A1B9731E9EDDD0DBB6B"
+    },
+    "C36FCA34FA074A1B9731E9EDDD0DBB6B": {
+      "description": "Identify reasons to make a macro group",
+      "id": "C36FCA34FA074A1B9731E9EDDD0DBB6B",
+      "asnIdentifier": "S2645929",
+      "position": 159000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "10.4",
+      "ancestorIds": [
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "B0FA160D063F48E6A6191C4775F551B9"
+    },
+    "C49A356ABA44471AA6A9D97B544E4D75": {
+      "position": 158000,
+      "depth": 2,
+      "statementNotation": "10.3.1",
+      "statementLabel": "Application",
+      "description": "Create a macro",
+      "id": "C49A356ABA44471AA6A9D97B544E4D75",
+      "asnIdentifier": "S2645928",
+      "ancestorIds": [
+        "A0C52F9EB21B48C58CAC0D762F8DA198",
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "A0C52F9EB21B48C58CAC0D762F8DA198"
+    },
+    "A0C52F9EB21B48C58CAC0D762F8DA198": {
+      "position": 157000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "10.3",
+      "description": "Explain the purpose of a macro",
+      "id": "A0C52F9EB21B48C58CAC0D762F8DA198",
+      "asnIdentifier": "S2645927",
+      "ancestorIds": [
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "B0FA160D063F48E6A6191C4775F551B9"
+    },
+    "0F464C8E8C644271AC29F3370DE38222": {
+      "id": "0F464C8E8C644271AC29F3370DE38222",
+      "asnIdentifier": "S2645926",
+      "position": 156000,
+      "depth": 2,
+      "statementNotation": "10.2.1",
+      "statementLabel": "Application",
+      "description": "Create a switchboard",
+      "ancestorIds": [
+        "6615E8433995444A88C62ACA4040F96E",
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "6615E8433995444A88C62ACA4040F96E"
+    },
+    "6615E8433995444A88C62ACA4040F96E": {
+      "position": 155000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "10.2",
+      "description": "Explain the purpose of a switchboard",
+      "id": "6615E8433995444A88C62ACA4040F96E",
+      "asnIdentifier": "S2645925",
+      "ancestorIds": [
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "B0FA160D063F48E6A6191C4775F551B9"
+    },
+    "7A5526E3D1C54712B2BFDFD896226783": {
+      "depth": 2,
+      "statementNotation": "10.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "7A5526E3D1C54712B2BFDFD896226783",
+      "asnIdentifier": "S2645924",
+      "position": 154000,
+      "ancestorIds": [
+        "0728D4E6F3624CA98AF315D37EE297D6",
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "0728D4E6F3624CA98AF315D37EE297D6"
+    },
+    "0728D4E6F3624CA98AF315D37EE297D6": {
+      "id": "0728D4E6F3624CA98AF315D37EE297D6",
+      "asnIdentifier": "S2645923",
+      "position": 153000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "10.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "B0FA160D063F48E6A6191C4775F551B9"
+      ],
+      "parentId": "B0FA160D063F48E6A6191C4775F551B9"
+    },
+    "B0FA160D063F48E6A6191C4775F551B9": {
+      "statementLabel": "Unit",
+      "listId": "10:",
+      "description": "Macros and Switchboards",
+      "id": "B0FA160D063F48E6A6191C4775F551B9",
+      "asnIdentifier": "S2645922",
+      "position": 152000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4370C39E66D644379FF9303C92DEEECF": {
+      "depth": 2,
+      "statementNotation": "9.8.1",
+      "statementLabel": "Application",
+      "description": "Use the splitter",
+      "id": "4370C39E66D644379FF9303C92DEEECF",
+      "asnIdentifier": "S2645921",
+      "position": 151000,
+      "ancestorIds": [
+        "676E436DFFCB4E7D835C4BA008B2F326",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "676E436DFFCB4E7D835C4BA008B2F326"
+    },
+    "676E436DFFCB4E7D835C4BA008B2F326": {
+      "id": "676E436DFFCB4E7D835C4BA008B2F326",
+      "asnIdentifier": "S2645920",
+      "position": 150000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.8",
+      "description": "Discuss reasons to split a database",
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "5D83802E107243318DC0E2D125D94D8A": {
+      "id": "5D83802E107243318DC0E2D125D94D8A",
+      "asnIdentifier": "S2645919",
+      "position": 149000,
+      "depth": 2,
+      "statementNotation": "9.7.1",
+      "statementLabel": "Application",
+      "description": "Attach documents to and detach from records",
+      "ancestorIds": [
+        "B8F67A9F21F1460FB98E204083E6A29E",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "B8F67A9F21F1460FB98E204083E6A29E"
+    },
+    "B8F67A9F21F1460FB98E204083E6A29E": {
+      "id": "B8F67A9F21F1460FB98E204083E6A29E",
+      "asnIdentifier": "S2645918",
+      "position": 148000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.7",
+      "description": "Explain how to create an attachment field",
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "A88E607846DE4D1BA3B2A275391EB4DF": {
+      "statementNotation": "9.6.1",
+      "statementLabel": "Application",
+      "description": "Add and modify some of these to a form: a chart, pivot chart/table, link data from a worksheet, link to a table in another database",
+      "id": "A88E607846DE4D1BA3B2A275391EB4DF",
+      "asnIdentifier": "S2645917",
+      "position": 147000,
+      "depth": 2,
+      "ancestorIds": [
+        "6CF6DE9099D744179ED5B2F79CD05310",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "6CF6DE9099D744179ED5B2F79CD05310"
+    },
+    "6CF6DE9099D744179ED5B2F79CD05310": {
+      "id": "6CF6DE9099D744179ED5B2F79CD05310",
+      "asnIdentifier": "S2645916",
+      "position": 146000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.6",
+      "description": "Explain how to embed or link various objects in a form",
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "0F3D05EB02E649C3815095008DC73D9D": {
+      "statementLabel": "Application",
+      "description": "Use the Analyzer",
+      "id": "0F3D05EB02E649C3815095008DC73D9D",
+      "asnIdentifier": "S2645915",
+      "position": 145000,
+      "depth": 2,
+      "statementNotation": "9.5.1",
+      "ancestorIds": [
+        "C3A3F1241F174176BD5D942CF426CA5E",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "C3A3F1241F174176BD5D942CF426CA5E"
+    },
+    "C3A3F1241F174176BD5D942CF426CA5E": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.5",
+      "description": "Explain Analyzer tools",
+      "id": "C3A3F1241F174176BD5D942CF426CA5E",
+      "asnIdentifier": "S2645914",
+      "position": 144000,
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "F227A33575D144A1B73B66FC68B62039": {
+      "description": "Save database objects as other file types",
+      "id": "F227A33575D144A1B73B66FC68B62039",
+      "asnIdentifier": "S2645913",
+      "position": 143000,
+      "depth": 2,
+      "statementNotation": "9.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "64DB0160C87D48529672D3AE15DAF230",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "64DB0160C87D48529672D3AE15DAF230"
+    },
+    "64DB0160C87D48529672D3AE15DAF230": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.4",
+      "description": "Identify ways to save database objects as other file types",
+      "id": "64DB0160C87D48529672D3AE15DAF230",
+      "asnIdentifier": "S2645912",
+      "position": 142000,
+      "depth": 1,
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "61CF7520317C40BC8A935C6912E5761C": {
+      "position": 141000,
+      "depth": 2,
+      "statementNotation": "9.3.1",
+      "statementLabel": "Application",
+      "description": "Import data from some of the following formats: CSV, text file, XML, etc.",
+      "id": "61CF7520317C40BC8A935C6912E5761C",
+      "asnIdentifier": "S2645911",
+      "ancestorIds": [
+        "0A1370FB4C3C4298BFEBADD93E9D2ECF",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "0A1370FB4C3C4298BFEBADD93E9D2ECF"
+    },
+    "0A1370FB4C3C4298BFEBADD93E9D2ECF": {
+      "description": "Discuss various ways to import",
+      "id": "0A1370FB4C3C4298BFEBADD93E9D2ECF",
+      "asnIdentifier": "S2645910",
+      "position": 140000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.3",
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "D3D508EFF02F4E13B76CD7D6E0F8ADD9": {
+      "position": 139000,
+      "depth": 2,
+      "statementNotation": "9.2.1",
+      "statementLabel": "Application",
+      "description": "Export data from some of the following formats: HTML document, XML, etc.",
+      "id": "D3D508EFF02F4E13B76CD7D6E0F8ADD9",
+      "asnIdentifier": "S2645909",
+      "ancestorIds": [
+        "ABF29686B54B43E58C141B9B841F13EC",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "ABF29686B54B43E58C141B9B841F13EC"
+    },
+    "ABF29686B54B43E58C141B9B841F13EC": {
+      "asnIdentifier": "S2645908",
+      "position": 138000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.2",
+      "description": "Discuss various ways to export",
+      "id": "ABF29686B54B43E58C141B9B841F13EC",
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "724AC6B88DBB4C329D26E8C211E94589": {
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "724AC6B88DBB4C329D26E8C211E94589",
+      "asnIdentifier": "S2645907",
+      "position": 137000,
+      "depth": 2,
+      "statementNotation": "9.1.1",
+      "ancestorIds": [
+        "2299E4CDDF274C3D9BE1A6617AB3FE88",
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "2299E4CDDF274C3D9BE1A6617AB3FE88"
+    },
+    "2299E4CDDF274C3D9BE1A6617AB3FE88": {
+      "listId": "9.1",
+      "description": "Define terminology",
+      "id": "2299E4CDDF274C3D9BE1A6617AB3FE88",
+      "asnIdentifier": "S2645906",
+      "position": 136000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "35D85D715C22488C97A65975B38A2DC7"
+      ],
+      "parentId": "35D85D715C22488C97A65975B38A2DC7"
+    },
+    "35D85D715C22488C97A65975B38A2DC7": {
+      "id": "35D85D715C22488C97A65975B38A2DC7",
+      "asnIdentifier": "S2645905",
+      "position": 135000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "9:",
+      "description": "Sharing, Integrating, Analyzing and Managing",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2A94BA0B7EF5436CA95348873D56A276": {
+      "position": 134000,
+      "depth": 2,
+      "statementNotation": "8.6.1",
+      "statementLabel": "Application",
+      "description": "Create mailing labels",
+      "id": "2A94BA0B7EF5436CA95348873D56A276",
+      "asnIdentifier": "S2645904",
+      "ancestorIds": [
+        "E6C028809BB04B5AB2F67A4DCE5ED892",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "E6C028809BB04B5AB2F67A4DCE5ED892"
+    },
+    "E6C028809BB04B5AB2F67A4DCE5ED892": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.6",
+      "description": "Explain how to create mailing labels",
+      "id": "E6C028809BB04B5AB2F67A4DCE5ED892",
+      "asnIdentifier": "S2645903",
+      "position": 133000,
+      "depth": 1,
+      "ancestorIds": [
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "617E4D882CD04EFB87792BAA4AA9F5EF"
+    },
+    "6FC22E576A754E23B59D3B0EAE707121": {
+      "id": "6FC22E576A754E23B59D3B0EAE707121",
+      "asnIdentifier": "S2645902",
+      "position": 132000,
+      "depth": 2,
+      "statementNotation": "8.5.1",
+      "statementLabel": "Application",
+      "description": "Hide duplicate values in a report",
+      "ancestorIds": [
+        "9D8DB0FE16A949C9AA66A594642D9659",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "9D8DB0FE16A949C9AA66A594642D9659"
+    },
+    "9D8DB0FE16A949C9AA66A594642D9659": {
+      "listId": "8.5",
+      "description": "Explain the purpose of the hiding duplicate values property",
+      "id": "9D8DB0FE16A949C9AA66A594642D9659",
+      "asnIdentifier": "S2645901",
+      "position": 131000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "617E4D882CD04EFB87792BAA4AA9F5EF"
+    },
+    "FDBA52A1C67F492ABABAD84D25F1862A": {
+      "position": 130000,
+      "depth": 2,
+      "statementNotation": "8.4.2",
+      "statementLabel": "Application",
+      "description": "Apply the keep together property to a report",
+      "id": "FDBA52A1C67F492ABABAD84D25F1862A",
+      "asnIdentifier": "S2645900",
+      "ancestorIds": [
+        "6A71EE8B8562445EA7192A032DC74714",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "6A71EE8B8562445EA7192A032DC74714"
+    },
+    "BFF55BCFD611454E9DE1C5EBEB45E811": {
+      "position": 129000,
+      "depth": 2,
+      "statementNotation": "8.4.1",
+      "statementLabel": "Application",
+      "description": "Add grouping and sorting to a report",
+      "id": "BFF55BCFD611454E9DE1C5EBEB45E811",
+      "asnIdentifier": "S2645899",
+      "ancestorIds": [
+        "6A71EE8B8562445EA7192A032DC74714",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "6A71EE8B8562445EA7192A032DC74714"
+    },
+    "6A71EE8B8562445EA7192A032DC74714": {
+      "id": "6A71EE8B8562445EA7192A032DC74714",
+      "asnIdentifier": "S2645898",
+      "position": 128000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.4",
+      "description": "Explain grouping and sorting of data in a report",
+      "ancestorIds": [
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "617E4D882CD04EFB87792BAA4AA9F5EF"
+    },
+    "573EBD4A788E47B5B3A004BA066EA7A1": {
+      "id": "573EBD4A788E47B5B3A004BA066EA7A1",
+      "asnIdentifier": "S2645897",
+      "position": 127000,
+      "depth": 2,
+      "statementNotation": "8.3.1",
+      "statementLabel": "Application",
+      "description": "Create a custom report with some of these features: report header/footer, page header/footer, group header/footer, dates, page numbers, titles, lines, etc.",
+      "ancestorIds": [
+        "34EBA3AC0C2C49B299BC5A36DD0AF091",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "34EBA3AC0C2C49B299BC5A36DD0AF091"
+    },
+    "34EBA3AC0C2C49B299BC5A36DD0AF091": {
+      "listId": "8.3",
+      "description": "Explain how to create a custom report",
+      "id": "34EBA3AC0C2C49B299BC5A36DD0AF091",
+      "asnIdentifier": "S2645896",
+      "position": 126000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "617E4D882CD04EFB87792BAA4AA9F5EF"
+    },
+    "3046DA5EEEB34E0A9A777F370F367746": {
+      "description": "Modify a report adding some of these features: grouping and sorting, totals, backgrounds, lines, logos, etc.",
+      "id": "3046DA5EEEB34E0A9A777F370F367746",
+      "asnIdentifier": "S2645895",
+      "position": 125000,
+      "depth": 2,
+      "statementNotation": "8.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "269960520A404EC7824AED3CBEC9D048",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "269960520A404EC7824AED3CBEC9D048"
+    },
+    "269960520A404EC7824AED3CBEC9D048": {
+      "id": "269960520A404EC7824AED3CBEC9D048",
+      "asnIdentifier": "S2645894",
+      "position": 124000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.2",
+      "description": "Explain how to modify and",
+      "ancestorIds": [
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "617E4D882CD04EFB87792BAA4AA9F5EF"
+    },
+    "0DE216459FD047CDA49D2811DDF71D34": {
+      "statementNotation": "8.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "0DE216459FD047CDA49D2811DDF71D34",
+      "asnIdentifier": "S2645893",
+      "position": 123000,
+      "depth": 2,
+      "ancestorIds": [
+        "35144D5A192E43328E03DB76B63FCC83",
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "35144D5A192E43328E03DB76B63FCC83"
+    },
+    "35144D5A192E43328E03DB76B63FCC83": {
+      "listId": "8.1",
+      "description": "Define terminology",
+      "id": "35144D5A192E43328E03DB76B63FCC83",
+      "asnIdentifier": "S2645892",
+      "position": 122000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "617E4D882CD04EFB87792BAA4AA9F5EF"
+      ],
+      "parentId": "617E4D882CD04EFB87792BAA4AA9F5EF"
+    },
+    "617E4D882CD04EFB87792BAA4AA9F5EF": {
+      "statementLabel": "Unit",
+      "listId": "8:",
+      "description": "Creating Custom Reports",
+      "id": "617E4D882CD04EFB87792BAA4AA9F5EF",
+      "asnIdentifier": "S2645891",
+      "position": 121000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "08667E4B417546F7B6335E8E42F4F042": {
+      "id": "08667E4B417546F7B6335E8E42F4F042",
+      "asnIdentifier": "S2645890",
+      "position": 120000,
+      "depth": 2,
+      "statementNotation": "7.7.1",
+      "statementLabel": "Application",
+      "description": "Add some of these visual effects to a form: lines, rectangle, special effect properties, backgrounds, logo, etc",
+      "ancestorIds": [
+        "C6BE99D8833546A58AF65057D97E4AB4",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "C6BE99D8833546A58AF65057D97E4AB4"
+    },
+    "C6BE99D8833546A58AF65057D97E4AB4": {
+      "description": "Discuss ways to enhance the visual effects of a form",
+      "id": "C6BE99D8833546A58AF65057D97E4AB4",
+      "asnIdentifier": "S2645889",
+      "position": 119000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.7",
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "99633B6021F24D47A23B62AD404DC6F3": {
+      "id": "99633B6021F24D47A23B62AD404DC6F3",
+      "asnIdentifier": "S2645888",
+      "position": 118000,
+      "depth": 2,
+      "statementNotation": "7.6.1",
+      "statementLabel": "Application",
+      "description": "Change the tab order in a form",
+      "ancestorIds": [
+        "D7E0854762FD44DDA1A48C59C2C4D2B0",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "D7E0854762FD44DDA1A48C59C2C4D2B0"
+    },
+    "D7E0854762FD44DDA1A48C59C2C4D2B0": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.6",
+      "description": "Identify how to change the tab order",
+      "id": "D7E0854762FD44DDA1A48C59C2C4D2B0",
+      "asnIdentifier": "S2645887",
+      "position": 117000,
+      "depth": 1,
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "7298E9363F574807914613D01F97EFD6": {
+      "position": 116000,
+      "depth": 2,
+      "statementNotation": "7.5.1",
+      "statementLabel": "Application",
+      "description": "Create a main form with a subform",
+      "id": "7298E9363F574807914613D01F97EFD6",
+      "asnIdentifier": "S2645886",
+      "ancestorIds": [
+        "B8293476908448B5A8CFA03821B11B4F",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "B8293476908448B5A8CFA03821B11B4F"
+    },
+    "B8293476908448B5A8CFA03821B11B4F": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.5",
+      "description": "Discuss advantages of creating a main form and subform",
+      "id": "B8293476908448B5A8CFA03821B11B4F",
+      "asnIdentifier": "S2645885",
+      "position": 115000,
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "FE6248B249494B868294BBD6463879CA": {
+      "statementNotation": "7.4.1",
+      "statementLabel": "Application",
+      "description": "Create a custom form with some of the following: form header, footer, title, logo, label, etc.",
+      "id": "FE6248B249494B868294BBD6463879CA",
+      "asnIdentifier": "S2645884",
+      "position": 114000,
+      "depth": 2,
+      "ancestorIds": [
+        "088E1CDB99D14F248919BF87D6771E2D",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "088E1CDB99D14F248919BF87D6771E2D"
+    },
+    "088E1CDB99D14F248919BF87D6771E2D": {
+      "id": "088E1CDB99D14F248919BF87D6771E2D",
+      "asnIdentifier": "S2645883",
+      "position": 113000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.4",
+      "description": "Explain how to create a custom form",
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "362F4B17356A4BE99D88243F8C6F2394": {
+      "asnIdentifier": "S2645882",
+      "position": 112000,
+      "depth": 2,
+      "statementNotation": "7.3.1",
+      "statementLabel": "Application",
+      "description": "Explore an existing form and identify the bound, unbound and calculated control",
+      "id": "362F4B17356A4BE99D88243F8C6F2394",
+      "ancestorIds": [
+        "89AA941AC9304051A26FE697E72A3054",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "89AA941AC9304051A26FE697E72A3054"
+    },
+    "89AA941AC9304051A26FE697E72A3054": {
+      "description": "Compare/Contrast the three types of controls",
+      "id": "89AA941AC9304051A26FE697E72A3054",
+      "asnIdentifier": "S2645881",
+      "position": 111000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.3",
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "8F169436E1834AAD9CB30C8A3DD4BCC9": {
+      "depth": 2,
+      "statementNotation": "7.2.1",
+      "statementLabel": "Application",
+      "description": "Create a form using the Datasheet tool, Multiple Items tool, and Split Form tool",
+      "id": "8F169436E1834AAD9CB30C8A3DD4BCC9",
+      "asnIdentifier": "S2645880",
+      "position": 110000,
+      "ancestorIds": [
+        "F787CA987D0142D4A27C578E98487CEC",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "F787CA987D0142D4A27C578E98487CEC"
+    },
+    "F787CA987D0142D4A27C578E98487CEC": {
+      "asnIdentifier": "S2645879",
+      "position": 109000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.2",
+      "description": "Explain how to create a form using various tools",
+      "id": "F787CA987D0142D4A27C578E98487CEC",
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "6C0DD0FCEDC044D8A1EED962A2E47D28": {
+      "position": 108000,
+      "depth": 2,
+      "statementNotation": "7.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "6C0DD0FCEDC044D8A1EED962A2E47D28",
+      "asnIdentifier": "S2645878",
+      "ancestorIds": [
+        "3E159C9C4D6A4829B144F1ED8B064AB4",
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "3E159C9C4D6A4829B144F1ED8B064AB4"
+    },
+    "3E159C9C4D6A4829B144F1ED8B064AB4": {
+      "position": 107000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.1",
+      "description": "Define terminology",
+      "id": "3E159C9C4D6A4829B144F1ED8B064AB4",
+      "asnIdentifier": "S2645877",
+      "ancestorIds": [
+        "5BE9E4639FAD4962971A5FEC22B8C368"
+      ],
+      "parentId": "5BE9E4639FAD4962971A5FEC22B8C368"
+    },
+    "5BE9E4639FAD4962971A5FEC22B8C368": {
+      "id": "5BE9E4639FAD4962971A5FEC22B8C368",
+      "asnIdentifier": "S2645876",
+      "position": 106000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "7:",
+      "description": "Creating Custom Forms",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1A2009C65DAB4841B6C1FA48B99DEC01": {
+      "id": "1A2009C65DAB4841B6C1FA48B99DEC01",
+      "asnIdentifier": "S2645875",
+      "position": 105000,
+      "depth": 2,
+      "statementNotation": "6.9.1",
+      "statementLabel": "Application",
+      "description": "Create an index",
+      "ancestorIds": [
+        "CCBC92859411469B9FD2268380D0C749",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "CCBC92859411469B9FD2268380D0C749"
+    },
+    "CCBC92859411469B9FD2268380D0C749": {
+      "id": "CCBC92859411469B9FD2268380D0C749",
+      "asnIdentifier": "S2645874",
+      "position": 104000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.9",
+      "description": "Explain the reason for an index",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "AF73FB49E6E241D18FD41006B6EE5AC4": {
+      "description": "Create the following action queries: make-table, append, delete, and update",
+      "id": "AF73FB49E6E241D18FD41006B6EE5AC4",
+      "asnIdentifier": "S2645873",
+      "position": 103000,
+      "depth": 2,
+      "statementNotation": "6.8.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "138AAFCE3221490A93FB50E7F88BF65A",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "138AAFCE3221490A93FB50E7F88BF65A"
+    },
+    "138AAFCE3221490A93FB50E7F88BF65A": {
+      "asnIdentifier": "S2645872",
+      "position": 102000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.8",
+      "description": "Explain the purpose of an action query",
+      "id": "138AAFCE3221490A93FB50E7F88BF65A",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "9E549643EABF49448997A1CC547A4CAC": {
+      "id": "9E549643EABF49448997A1CC547A4CAC",
+      "asnIdentifier": "S2645871",
+      "position": 101000,
+      "depth": 2,
+      "statementNotation": "6.7.1",
+      "statementLabel": "Application",
+      "description": "Create a concantenated expression using the fields and the & (ampersand)",
+      "ancestorIds": [
+        "4EA6AE3C1D4F410F879093B60122E801",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "4EA6AE3C1D4F410F879093B60122E801"
+    },
+    "4EA6AE3C1D4F410F879093B60122E801": {
+      "id": "4EA6AE3C1D4F410F879093B60122E801",
+      "asnIdentifier": "S2645870",
+      "position": 100000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.7",
+      "description": "Explain reasons for creating a concantenation",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "B9F1BE1F398F4AA6B98CEA8BF10B5E00": {
+      "asnIdentifier": "S2645869",
+      "position": 99000,
+      "depth": 2,
+      "statementNotation": "6.6.1",
+      "statementLabel": "Application",
+      "description": "Create a top values query",
+      "id": "B9F1BE1F398F4AA6B98CEA8BF10B5E00",
+      "ancestorIds": [
+        "5B782C584C3A4C29B9700CB3710DD6A2",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "5B782C584C3A4C29B9700CB3710DD6A2"
+    },
+    "5B782C584C3A4C29B9700CB3710DD6A2": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.6",
+      "description": "Describe the steps in creating a top values query",
+      "id": "5B782C584C3A4C29B9700CB3710DD6A2",
+      "asnIdentifier": "S2645868",
+      "position": 98000,
+      "depth": 1,
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "2DC7B98287DA43EF98F8ACFCB3CFFEC5": {
+      "statementLabel": "Application",
+      "description": "Create a find unmatched query",
+      "id": "2DC7B98287DA43EF98F8ACFCB3CFFEC5",
+      "asnIdentifier": "S2645867",
+      "position": 97000,
+      "depth": 2,
+      "statementNotation": "6.5.1",
+      "ancestorIds": [
+        "7C11767C32EA412AAA497F6F1AD7FA07",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "7C11767C32EA412AAA497F6F1AD7FA07"
+    },
+    "7C11767C32EA412AAA497F6F1AD7FA07": {
+      "asnIdentifier": "S2645866",
+      "position": 96000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.5",
+      "description": "Explain how to create a find unmatched query",
+      "id": "7C11767C32EA412AAA497F6F1AD7FA07",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "AC69C9AADFEB4E058030C6D4A6C5AC8A": {
+      "statementLabel": "Application",
+      "description": "Create a find duplicates query",
+      "id": "AC69C9AADFEB4E058030C6D4A6C5AC8A",
+      "asnIdentifier": "S2645865",
+      "position": 95000,
+      "depth": 2,
+      "statementNotation": "6.4.1",
+      "ancestorIds": [
+        "335FC664A18A432DB42C90E777DAF729",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "335FC664A18A432DB42C90E777DAF729"
+    },
+    "335FC664A18A432DB42C90E777DAF729": {
+      "asnIdentifier": "S2645864",
+      "position": 94000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.4",
+      "description": "Explain how to create a find duplicates query",
+      "id": "335FC664A18A432DB42C90E777DAF729",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "FBF0DB9A75B44259A4428B3AD0F5CA7C": {
+      "id": "FBF0DB9A75B44259A4428B3AD0F5CA7C",
+      "asnIdentifier": "S2645863",
+      "position": 93000,
+      "depth": 2,
+      "statementNotation": "6.3.1",
+      "statementLabel": "Application",
+      "description": "Create a crosstab query",
+      "ancestorIds": [
+        "A6148673BC944CB1B43344AF25781BE3",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "A6148673BC944CB1B43344AF25781BE3"
+    },
+    "A6148673BC944CB1B43344AF25781BE3": {
+      "id": "A6148673BC944CB1B43344AF25781BE3",
+      "asnIdentifier": "S2645862",
+      "position": 92000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.3",
+      "description": "Explain how to create a crosstab query",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "9C9909B156CD443296B32D547207B9A6": {
+      "statementNotation": "6.2.1",
+      "statementLabel": "Application",
+      "description": "Create a parameter query",
+      "id": "9C9909B156CD443296B32D547207B9A6",
+      "asnIdentifier": "S2645861",
+      "position": 91000,
+      "depth": 2,
+      "ancestorIds": [
+        "A8EB6AE9274644CD95CB97F4AADA7AA7",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "A8EB6AE9274644CD95CB97F4AADA7AA7"
+    },
+    "A8EB6AE9274644CD95CB97F4AADA7AA7": {
+      "id": "A8EB6AE9274644CD95CB97F4AADA7AA7",
+      "asnIdentifier": "S2645860",
+      "position": 90000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.2",
+      "description": "Explain how to create a parameter query",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "22078EE8AF9148A989AC986311EF3402": {
+      "description": "Prepare a list of terms with definitions",
+      "id": "22078EE8AF9148A989AC986311EF3402",
+      "asnIdentifier": "S2645859",
+      "position": 89000,
+      "depth": 2,
+      "statementNotation": "6.1.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "12883079750E40CE9AFE94ECD263A384",
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "12883079750E40CE9AFE94ECD263A384"
+    },
+    "12883079750E40CE9AFE94ECD263A384": {
+      "id": "12883079750E40CE9AFE94ECD263A384",
+      "asnIdentifier": "S2645858",
+      "position": 88000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "6C532749CBC649F3A4258E3B79FD69C6"
+      ],
+      "parentId": "6C532749CBC649F3A4258E3B79FD69C6"
+    },
+    "6C532749CBC649F3A4258E3B79FD69C6": {
+      "asnIdentifier": "S2645857",
+      "position": 87000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "6:",
+      "description": "Creating Advanced Queries",
+      "id": "6C532749CBC649F3A4258E3B79FD69C6",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D698CC30141D4D6892B2BBED5F230A0E": {
+      "id": "D698CC30141D4D6892B2BBED5F230A0E",
+      "asnIdentifier": "S2645856",
+      "position": 86000,
+      "depth": 2,
+      "statementNotation": "5.8.2",
+      "statementLabel": "Application",
+      "description": "Print various reports",
+      "ancestorIds": [
+        "478C6F18BE5742A3A8CDB6BF5D0902AC",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "478C6F18BE5742A3A8CDB6BF5D0902AC"
+    },
+    "83CE375F95A9421B8D722753ACC2B0E3": {
+      "position": 85000,
+      "depth": 2,
+      "statementNotation": "5.8.1",
+      "statementLabel": "Application",
+      "description": "Print various forms",
+      "id": "83CE375F95A9421B8D722753ACC2B0E3",
+      "asnIdentifier": "S2645855",
+      "ancestorIds": [
+        "478C6F18BE5742A3A8CDB6BF5D0902AC",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "478C6F18BE5742A3A8CDB6BF5D0902AC"
+    },
+    "478C6F18BE5742A3A8CDB6BF5D0902AC": {
+      "listId": "5.8",
+      "description": "Explain how to print forms and reports",
+      "id": "478C6F18BE5742A3A8CDB6BF5D0902AC",
+      "asnIdentifier": "S2645854",
+      "position": 84000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "B25519BD10D940DFA24398B79E434E94": {
+      "depth": 2,
+      "statementNotation": "5.7.1",
+      "statementLabel": "Application",
+      "description": "Apply conditional formatting to a report",
+      "id": "B25519BD10D940DFA24398B79E434E94",
+      "asnIdentifier": "S2645853",
+      "position": 83000,
+      "ancestorIds": [
+        "C9B072BA364D4FFE91BC168D447EC7B5",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "C9B072BA364D4FFE91BC168D447EC7B5"
+    },
+    "C9B072BA364D4FFE91BC168D447EC7B5": {
+      "description": "Identify different types of conditional formatting",
+      "id": "C9B072BA364D4FFE91BC168D447EC7B5",
+      "asnIdentifier": "S2645852",
+      "position": 82000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.7",
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "64FFD0AD84444478A4A50A2150D562F2": {
+      "asnIdentifier": "S2645851",
+      "position": 81000,
+      "depth": 2,
+      "statementNotation": "5.6.2",
+      "statementLabel": "Application",
+      "description": "Modify and format a report",
+      "id": "64FFD0AD84444478A4A50A2150D562F2",
+      "ancestorIds": [
+        "44550DDB58874304BB12CA296E8F36CB",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "44550DDB58874304BB12CA296E8F36CB"
+    },
+    "9E3BA63DCFEF4EA8A214FE3BB7E9B7FC": {
+      "id": "9E3BA63DCFEF4EA8A214FE3BB7E9B7FC",
+      "asnIdentifier": "S2645850",
+      "position": 80000,
+      "depth": 2,
+      "statementNotation": "5.6.1",
+      "statementLabel": "Application",
+      "description": "Create a report",
+      "ancestorIds": [
+        "44550DDB58874304BB12CA296E8F36CB",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "44550DDB58874304BB12CA296E8F36CB"
+    },
+    "44550DDB58874304BB12CA296E8F36CB": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.6",
+      "description": "Explain how to create, format, and modify a report",
+      "id": "44550DDB58874304BB12CA296E8F36CB",
+      "asnIdentifier": "S2645849",
+      "position": 79000,
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "720979A98860418CBD8EBBA414EC3F0D": {
+      "statementNotation": "5.5.2",
+      "statementLabel": "Application",
+      "description": "Navigate through fields and records in a main form and subform",
+      "id": "720979A98860418CBD8EBBA414EC3F0D",
+      "asnIdentifier": "S2645848",
+      "position": 78000,
+      "depth": 2,
+      "ancestorIds": [
+        "5FDD413C8BE54A05BFA9EA99EC640B6D",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "5FDD413C8BE54A05BFA9EA99EC640B6D"
+    },
+    "082A8931825246EFA9E4163FAACE850D": {
+      "id": "082A8931825246EFA9E4163FAACE850D",
+      "asnIdentifier": "S2645847",
+      "position": 77000,
+      "depth": 2,
+      "statementNotation": "5.5.1",
+      "statementLabel": "Application",
+      "description": "Navigate through fields and records in a form",
+      "ancestorIds": [
+        "5FDD413C8BE54A05BFA9EA99EC640B6D",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "5FDD413C8BE54A05BFA9EA99EC640B6D"
+    },
+    "5FDD413C8BE54A05BFA9EA99EC640B6D": {
+      "id": "5FDD413C8BE54A05BFA9EA99EC640B6D",
+      "asnIdentifier": "S2645846",
+      "position": 76000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.5",
+      "description": "Explain how to navigate through a form",
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "D505756894C240108D3F590EB6F64CBC": {
+      "id": "D505756894C240108D3F590EB6F64CBC",
+      "asnIdentifier": "S2645845",
+      "position": 75000,
+      "depth": 2,
+      "statementNotation": "5.4.1",
+      "statementLabel": "Application",
+      "description": "Create a main form with a subform",
+      "ancestorIds": [
+        "8C496A50BA1A43D0BF84EA9D258E84CF",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "8C496A50BA1A43D0BF84EA9D258E84CF"
+    },
+    "8C496A50BA1A43D0BF84EA9D258E84CF": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.4",
+      "description": "Explain the steps necessary to create a main form with a subform",
+      "id": "8C496A50BA1A43D0BF84EA9D258E84CF",
+      "asnIdentifier": "S2645844",
+      "position": 74000,
+      "depth": 1,
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "9E5961880B6446EA9781499FB7E60951": {
+      "description": "Modify and format a form",
+      "id": "9E5961880B6446EA9781499FB7E60951",
+      "asnIdentifier": "S2645843",
+      "position": 73000,
+      "depth": 2,
+      "statementNotation": "5.3.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "6ACF0B7D03C44C218D5CE4C618C9D565",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "6ACF0B7D03C44C218D5CE4C618C9D565"
+    },
+    "6ACF0B7D03C44C218D5CE4C618C9D565": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.3",
+      "description": "Identify ways to modify and format a form",
+      "id": "6ACF0B7D03C44C218D5CE4C618C9D565",
+      "asnIdentifier": "S2645842",
+      "position": 72000,
+      "depth": 1,
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "E7E63C759DB64463B12F32944DC5F81D": {
+      "position": 71000,
+      "depth": 2,
+      "statementNotation": "5.2.1",
+      "statementLabel": "Application",
+      "description": "Create a form",
+      "id": "E7E63C759DB64463B12F32944DC5F81D",
+      "asnIdentifier": "S2645841",
+      "ancestorIds": [
+        "9DAADCA7B3DF4912B34B4A16A8E8610E",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "9DAADCA7B3DF4912B34B4A16A8E8610E"
+    },
+    "9DAADCA7B3DF4912B34B4A16A8E8610E": {
+      "listId": "5.2",
+      "description": "Explain how to create a form",
+      "id": "9DAADCA7B3DF4912B34B4A16A8E8610E",
+      "asnIdentifier": "S2645840",
+      "position": 70000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "688BC62080904F03A1F5E2B00A144516": {
+      "statementNotation": "5.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "688BC62080904F03A1F5E2B00A144516",
+      "asnIdentifier": "S2645839",
+      "position": 69000,
+      "depth": 2,
+      "ancestorIds": [
+        "BD149DEA278B429CB461F054806DE7FE",
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "BD149DEA278B429CB461F054806DE7FE"
+    },
+    "BD149DEA278B429CB461F054806DE7FE": {
+      "id": "BD149DEA278B429CB461F054806DE7FE",
+      "asnIdentifier": "S2645838",
+      "position": 68000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "E4C9F690DA734C56A7040A262B0C4E67"
+      ],
+      "parentId": "E4C9F690DA734C56A7040A262B0C4E67"
+    },
+    "E4C9F690DA734C56A7040A262B0C4E67": {
+      "description": "Create Simple Forms and Reports",
+      "id": "E4C9F690DA734C56A7040A262B0C4E67",
+      "asnIdentifier": "S2645837",
+      "position": 67000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "5:",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "226AF622FB8242C29DF4AB9EAADC8E92": {
+      "description": "Add a Group By to an aggregate function",
+      "id": "226AF622FB8242C29DF4AB9EAADC8E92",
+      "asnIdentifier": "S2645836",
+      "position": 66000,
+      "depth": 2,
+      "statementNotation": "4.8.2",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "73ED01B6287345638DDB2B7FE7C3AE89",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "73ED01B6287345638DDB2B7FE7C3AE89"
+    },
+    "82EC508D1EEC41EF81368AF61ACD7BB6": {
+      "depth": 2,
+      "statementNotation": "4.8.1",
+      "statementLabel": "Application",
+      "description": "Create a query with an aggregate function",
+      "id": "82EC508D1EEC41EF81368AF61ACD7BB6",
+      "asnIdentifier": "S2645835",
+      "position": 65000,
+      "ancestorIds": [
+        "73ED01B6287345638DDB2B7FE7C3AE89",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "73ED01B6287345638DDB2B7FE7C3AE89"
+    },
+    "73ED01B6287345638DDB2B7FE7C3AE89": {
+      "position": 64000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.8",
+      "description": "Describe how to create queries with an aggregate function",
+      "id": "73ED01B6287345638DDB2B7FE7C3AE89",
+      "asnIdentifier": "S2645834",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "2ED814B631EB416D9EC3705126B2A0F4": {
+      "asnIdentifier": "S2645833",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "4.7.1",
+      "statementLabel": "Application",
+      "description": "Write a formula for a calculated field",
+      "id": "2ED814B631EB416D9EC3705126B2A0F4",
+      "ancestorIds": [
+        "6DC38172524F4D5F85A764E75DD8DBAC",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "6DC38172524F4D5F85A764E75DD8DBAC"
+    },
+    "6DC38172524F4D5F85A764E75DD8DBAC": {
+      "id": "6DC38172524F4D5F85A764E75DD8DBAC",
+      "asnIdentifier": "S2645832",
+      "position": 62000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.7",
+      "description": "Identify reasons for a calculated field",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "DEFEF10087F6496186C2EA2647B75DAA": {
+      "id": "DEFEF10087F6496186C2EA2647B75DAA",
+      "asnIdentifier": "S2645831",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "4.6.1",
+      "statementLabel": "Application",
+      "description": "Create queries using AND, OR, or NOT",
+      "ancestorIds": [
+        "8BA4CBB52DE74890A63EBB92780F91C5",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "8BA4CBB52DE74890A63EBB92780F91C5"
+    },
+    "8BA4CBB52DE74890A63EBB92780F91C5": {
+      "description": "Describe how to create queries using various logical operators",
+      "id": "8BA4CBB52DE74890A63EBB92780F91C5",
+      "asnIdentifier": "S2645830",
+      "position": 60000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.6",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "6F40B4C5D4E5433CB47395957B80F695": {
+      "depth": 2,
+      "statementNotation": "4.5.1",
+      "statementLabel": "Application",
+      "description": "Create queries using various comparison operators (=, <, >, <=, >=, <>, Between…And…, In (), Like)",
+      "id": "6F40B4C5D4E5433CB47395957B80F695",
+      "asnIdentifier": "S2645829",
+      "position": 59000,
+      "ancestorIds": [
+        "3B56D2CB0316406C9CD4A2892A187246",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "3B56D2CB0316406C9CD4A2892A187246"
+    },
+    "3B56D2CB0316406C9CD4A2892A187246": {
+      "id": "3B56D2CB0316406C9CD4A2892A187246",
+      "asnIdentifier": "S2645828",
+      "position": 58000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.5",
+      "description": "Describe how to create queries using various comparison operators",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "CE26336733B14EE29541ED0C8CA504EA": {
+      "id": "CE26336733B14EE29541ED0C8CA504EA",
+      "asnIdentifier": "S2645827",
+      "position": 57000,
+      "depth": 2,
+      "statementNotation": "4.4.1",
+      "statementLabel": "Application",
+      "description": "Create and run a multitable query",
+      "ancestorIds": [
+        "C4FB7A5B3C7844589D64D2114E2B0888",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "C4FB7A5B3C7844589D64D2114E2B0888"
+    },
+    "C4FB7A5B3C7844589D64D2114E2B0888": {
+      "asnIdentifier": "S2645826",
+      "position": 56000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.4",
+      "description": "Explain how to create a multitable query",
+      "id": "C4FB7A5B3C7844589D64D2114E2B0888",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "7CA0479AE92746438EB125D0374EBCBF": {
+      "id": "7CA0479AE92746438EB125D0374EBCBF",
+      "asnIdentifier": "S2645825",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "4.3.1",
+      "statementLabel": "Application",
+      "description": "Create and run a select query using various criteria",
+      "ancestorIds": [
+        "D58D855637F64B9A8EEC33F56B68F1C2",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "D58D855637F64B9A8EEC33F56B68F1C2"
+    },
+    "D58D855637F64B9A8EEC33F56B68F1C2": {
+      "position": 54000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.3",
+      "description": "Explain how to create a select query",
+      "id": "D58D855637F64B9A8EEC33F56B68F1C2",
+      "asnIdentifier": "S2645824",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "10312ED15EA1470E84F1DDCE38083B80": {
+      "asnIdentifier": "S2645823",
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "4.2.1",
+      "statementLabel": "Application",
+      "description": "Create a simple query",
+      "id": "10312ED15EA1470E84F1DDCE38083B80",
+      "ancestorIds": [
+        "7BBE13B5B73E42E5996A6AEE46B83DF6",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "7BBE13B5B73E42E5996A6AEE46B83DF6"
+    },
+    "7BBE13B5B73E42E5996A6AEE46B83DF6": {
+      "description": "Explain the purpose of a query",
+      "id": "7BBE13B5B73E42E5996A6AEE46B83DF6",
+      "asnIdentifier": "S2645822",
+      "position": 52000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.2",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "653733F04CA243EAB74262362E114128": {
+      "id": "653733F04CA243EAB74262362E114128",
+      "asnIdentifier": "S2645821",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "4.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "ancestorIds": [
+        "768E49E6650743348F70B06668DA1865",
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "768E49E6650743348F70B06668DA1865"
+    },
+    "768E49E6650743348F70B06668DA1865": {
+      "id": "768E49E6650743348F70B06668DA1865",
+      "asnIdentifier": "S2645820",
+      "position": 50000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "B9C1B9E7BC91499986435775599FACF3"
+      ],
+      "parentId": "B9C1B9E7BC91499986435775599FACF3"
+    },
+    "B9C1B9E7BC91499986435775599FACF3": {
+      "description": "Creating Simple Queries",
+      "id": "B9C1B9E7BC91499986435775599FACF3",
+      "asnIdentifier": "S2645819",
+      "position": 49000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "4:",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "08F09F80BE504BA48E5B36A7D7D0A01F": {
+      "id": "08F09F80BE504BA48E5B36A7D7D0A01F",
+      "asnIdentifier": "S2645818",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "3.6.1",
+      "statementLabel": "Application",
+      "description": "Use wildcards in a database (#, ?, *)",
+      "ancestorIds": [
+        "F0BDE45A1B63436CB61C0506D87E25E7",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "F0BDE45A1B63436CB61C0506D87E25E7"
+    },
+    "F0BDE45A1B63436CB61C0506D87E25E7": {
+      "asnIdentifier": "S2645817",
+      "position": 47000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.6",
+      "description": "Identify wildcards",
+      "id": "F0BDE45A1B63436CB61C0506D87E25E7",
+      "ancestorIds": [
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5CD293F6428848E290D8FEB9FB7184A0"
+    },
+    "D6F4901924044EF389B7ECD63D1CCB1D": {
+      "id": "D6F4901924044EF389B7ECD63D1CCB1D",
+      "asnIdentifier": "S2645816",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "3.5.2",
+      "statementLabel": "Application",
+      "description": "Filter records using an advanced filter",
+      "ancestorIds": [
+        "6F32ABD296CC4B8E83173C51A5FBC36B",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "6F32ABD296CC4B8E83173C51A5FBC36B"
+    },
+    "0F84DAED55624EF4971C371330F1B89E": {
+      "statementNotation": "3.5.1",
+      "statementLabel": "Application",
+      "description": "Filter records using Filter by Form and Filter by Selection",
+      "id": "0F84DAED55624EF4971C371330F1B89E",
+      "asnIdentifier": "S2645815",
+      "position": 45000,
+      "depth": 2,
+      "ancestorIds": [
+        "6F32ABD296CC4B8E83173C51A5FBC36B",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "6F32ABD296CC4B8E83173C51A5FBC36B"
+    },
+    "6F32ABD296CC4B8E83173C51A5FBC36B": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.5",
+      "description": "Explain how to filter records",
+      "id": "6F32ABD296CC4B8E83173C51A5FBC36B",
+      "asnIdentifier": "S2645814",
+      "position": 44000,
+      "depth": 1,
+      "ancestorIds": [
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5CD293F6428848E290D8FEB9FB7184A0"
+    },
+    "FCDAE75EEFDB4B4DA63A116AC99D3ACC": {
+      "description": "Sort records in ascending and descending order",
+      "id": "FCDAE75EEFDB4B4DA63A116AC99D3ACC",
+      "asnIdentifier": "S2645813",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "3.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "7CD28D9047DD43529746EB8441D2B149",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "7CD28D9047DD43529746EB8441D2B149"
+    },
+    "7CD28D9047DD43529746EB8441D2B149": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.4",
+      "description": "Describe how to sort records",
+      "id": "7CD28D9047DD43529746EB8441D2B149",
+      "asnIdentifier": "S2645812",
+      "position": 42000,
+      "ancestorIds": [
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5CD293F6428848E290D8FEB9FB7184A0"
+    },
+    "0BBAE3FF78524432B2BBB560FA4FA59D": {
+      "depth": 2,
+      "statementNotation": "3.3.1",
+      "statementLabel": "Application",
+      "description": "Use the Find command",
+      "id": "0BBAE3FF78524432B2BBB560FA4FA59D",
+      "asnIdentifier": "S2645811",
+      "position": 41000,
+      "ancestorIds": [
+        "E02AF79E98F14F16905EEF32B44B305B",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "E02AF79E98F14F16905EEF32B44B305B"
+    },
+    "E02AF79E98F14F16905EEF32B44B305B": {
+      "asnIdentifier": "S2645810",
+      "position": 40000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.3",
+      "description": "Explain the importance of the Find command",
+      "id": "E02AF79E98F14F16905EEF32B44B305B",
+      "ancestorIds": [
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5CD293F6428848E290D8FEB9FB7184A0"
+    },
+    "9ED49E7527A24B65BBFEC938AA563556": {
+      "statementNotation": "3.2.1",
+      "statementLabel": "Application",
+      "description": "Enter, edit, and delete records",
+      "id": "9ED49E7527A24B65BBFEC938AA563556",
+      "asnIdentifier": "S2645809",
+      "position": 39000,
+      "depth": 2,
+      "ancestorIds": [
+        "F1A1CD21390A46F597902FC43DD9461E",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "F1A1CD21390A46F597902FC43DD9461E"
+    },
+    "F1A1CD21390A46F597902FC43DD9461E": {
+      "id": "F1A1CD21390A46F597902FC43DD9461E",
+      "asnIdentifier": "S2645808",
+      "position": 38000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.2",
+      "description": "Explain how to modify records in a table",
+      "ancestorIds": [
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5CD293F6428848E290D8FEB9FB7184A0"
+    },
+    "887E2FF9D8CA4C53870328E5056E991B": {
+      "description": "Prepare a list of terms with definitions",
+      "id": "887E2FF9D8CA4C53870328E5056E991B",
+      "asnIdentifier": "S2645807",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "3.1.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "5A4019ECD4DB4A6385D3A658B920B470",
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5A4019ECD4DB4A6385D3A658B920B470"
+    },
+    "5A4019ECD4DB4A6385D3A658B920B470": {
+      "id": "5A4019ECD4DB4A6385D3A658B920B470",
+      "asnIdentifier": "S2645806",
+      "position": 36000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "5CD293F6428848E290D8FEB9FB7184A0"
+      ],
+      "parentId": "5CD293F6428848E290D8FEB9FB7184A0"
+    },
+    "5CD293F6428848E290D8FEB9FB7184A0": {
+      "description": "Maintaining and Formatting Tables in a Database",
+      "id": "5CD293F6428848E290D8FEB9FB7184A0",
+      "asnIdentifier": "S2645805",
+      "position": 35000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "3:",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1CE31854AECD4670B0539B93375997CB": {
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "2.8.1",
+      "statementLabel": "Application",
+      "description": "Create a relationship adding referential",
+      "id": "1CE31854AECD4670B0539B93375997CB",
+      "asnIdentifier": "S2645804",
+      "ancestorIds": [
+        "388A526AA3F54C19B9B18F5D19E5F161",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "388A526AA3F54C19B9B18F5D19E5F161"
+    },
+    "388A526AA3F54C19B9B18F5D19E5F161": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.8",
+      "description": "Explain the concept of referential integrity and cascade update/delete",
+      "id": "388A526AA3F54C19B9B18F5D19E5F161",
+      "asnIdentifier": "S2645803",
+      "position": 33000,
+      "depth": 1,
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "5E90E37A9A84470AAA96AF385C037773": {
+      "id": "5E90E37A9A84470AAA96AF385C037773",
+      "asnIdentifier": "S2645802",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "2.7.1",
+      "statementLabel": "Application",
+      "description": "Create a one-to-one or one-to-many or many-to-many relationship",
+      "ancestorIds": [
+        "6BB4994DE4EE4D5CA8C088D38DD34D3C",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "6BB4994DE4EE4D5CA8C088D38DD34D3C"
+    },
+    "6BB4994DE4EE4D5CA8C088D38DD34D3C": {
+      "id": "6BB4994DE4EE4D5CA8C088D38DD34D3C",
+      "asnIdentifier": "S2645801",
+      "position": 31000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.7",
+      "description": "Compare/Contrast different types of relationships",
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "E0C8E9205BBE4511A73C1F96D69AEBF3": {
+      "id": "E0C8E9205BBE4511A73C1F96D69AEBF3",
+      "asnIdentifier": "S2645800",
+      "position": 30000,
+      "depth": 2,
+      "statementNotation": "2.6.1",
+      "statementLabel": "Application",
+      "description": "Create joins using primary tables, related tables, and common fields",
+      "ancestorIds": [
+        "F6BD2E6179C943159B7BD36FEE20718A",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "F6BD2E6179C943159B7BD36FEE20718A"
+    },
+    "F6BD2E6179C943159B7BD36FEE20718A": {
+      "listId": "2.6",
+      "description": "Explain how to define table relationships",
+      "id": "F6BD2E6179C943159B7BD36FEE20718A",
+      "asnIdentifier": "S2645799",
+      "position": 29000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "9C012DBACEC94C7D90C35D286595CCDF": {
+      "id": "9C012DBACEC94C7D90C35D286595CCDF",
+      "asnIdentifier": "S2645798",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "2.5.1",
+      "statementLabel": "Application",
+      "description": "Enhance a table by using some of the following features:<ul><li>Set a default value</li><li>Add an input mask</li><li>Create a lookup field</li><li>Set a required field</li><li>Add a validation rule and text</li></ul>",
+      "ancestorIds": [
+        "F969C0B89DF346F39DD157AE8B884A38",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "F969C0B89DF346F39DD157AE8B884A38"
+    },
+    "F969C0B89DF346F39DD157AE8B884A38": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.5",
+      "description": "Identify ways to enhance and improve a table design",
+      "id": "F969C0B89DF346F39DD157AE8B884A38",
+      "asnIdentifier": "S2645797",
+      "position": 27000,
+      "depth": 1,
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "1FE1F5CDCB4B4317A08A769B85F48892": {
+      "statementNotation": "2.4.1",
+      "statementLabel": "Application",
+      "description": "Set, change or remove primary keys",
+      "id": "1FE1F5CDCB4B4317A08A769B85F48892",
+      "asnIdentifier": "S2645796",
+      "position": 26000,
+      "depth": 2,
+      "ancestorIds": [
+        "7BB01A4B84A843DF8D5235C961F423EB",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "7BB01A4B84A843DF8D5235C961F423EB"
+    },
+    "7BB01A4B84A843DF8D5235C961F423EB": {
+      "id": "7BB01A4B84A843DF8D5235C961F423EB",
+      "asnIdentifier": "S2645795",
+      "position": 25000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.4",
+      "description": "Explain primary key",
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "B0D27CBCDCC14D40B5D46E142A68119E": {
+      "statementNotation": "2.3.1",
+      "statementLabel": "Application",
+      "description": "Create a table naming fields, assigning data types and setting field size properties",
+      "id": "B0D27CBCDCC14D40B5D46E142A68119E",
+      "asnIdentifier": "S2645794",
+      "position": 24000,
+      "depth": 2,
+      "ancestorIds": [
+        "028DB744702A45ABBA653F5672011DD8",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "028DB744702A45ABBA653F5672011DD8"
+    },
+    "028DB744702A45ABBA653F5672011DD8": {
+      "position": 23000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.3",
+      "description": "Describe how to create a table",
+      "id": "028DB744702A45ABBA653F5672011DD8",
+      "asnIdentifier": "S2645793",
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "60E8BF00F7D04EBD9E68422A165EAF21": {
+      "statementNotation": "2.2.1",
+      "statementLabel": "Application",
+      "description": "Explore an existing database discussing the following guidelines:<ul><li>Identify all the fields needed to produce the required information</li><li>Organize each piece of data into its smallest useful part</li><li>Determine each table's primary key</li><li>Include a common field in related tables</li><li>Avoid data redundancy</li><li>Determine the properties of each field</li></ul>",
+      "id": "60E8BF00F7D04EBD9E68422A165EAF21",
+      "asnIdentifier": "S2645792",
+      "position": 22000,
+      "depth": 2,
+      "ancestorIds": [
+        "F3037BF0DB6F4A7FB6B078CFE381913C",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "F3037BF0DB6F4A7FB6B078CFE381913C"
+    },
+    "F3037BF0DB6F4A7FB6B078CFE381913C": {
+      "listId": "2.2",
+      "description": "Discuss the guidelines for designing databases",
+      "id": "F3037BF0DB6F4A7FB6B078CFE381913C",
+      "asnIdentifier": "S2645791",
+      "position": 21000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "58415D92965645F3A44FE1AE06916089": {
+      "asnIdentifier": "S2645790",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "2.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "58415D92965645F3A44FE1AE06916089",
+      "ancestorIds": [
+        "D4256BC5D11B42D981D2E6B2B9FA2E1B",
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "D4256BC5D11B42D981D2E6B2B9FA2E1B"
+    },
+    "D4256BC5D11B42D981D2E6B2B9FA2E1B": {
+      "id": "D4256BC5D11B42D981D2E6B2B9FA2E1B",
+      "asnIdentifier": "S2645789",
+      "position": 19000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "9C73F155D47043A580E873AB8242ADE8"
+      ],
+      "parentId": "9C73F155D47043A580E873AB8242ADE8"
+    },
+    "9C73F155D47043A580E873AB8242ADE8": {
+      "asnIdentifier": "S2645788",
+      "position": 18000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "2:",
+      "description": "Building a Relational Database and Defining Table Relationships",
+      "id": "9C73F155D47043A580E873AB8242ADE8",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C92192FED1D541659EAE8CC2ECC11D87": {
+      "id": "C92192FED1D541659EAE8CC2ECC11D87",
+      "asnIdentifier": "S2645787",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "1.8.1",
+      "statementLabel": "Application",
+      "description": "Research various database careers",
+      "ancestorIds": [
+        "64202A6D8F834D78BB3EB2B1521AB886",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "64202A6D8F834D78BB3EB2B1521AB886"
+    },
+    "64202A6D8F834D78BB3EB2B1521AB886": {
+      "asnIdentifier": "S2645786",
+      "position": 16000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.8",
+      "description": "Discuss careers involving databases",
+      "id": "64202A6D8F834D78BB3EB2B1521AB886",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "5313CBE8661849118A2B8BAAB8C9C5A5": {
+      "depth": 2,
+      "statementNotation": "1.7.1",
+      "statementLabel": "Application",
+      "description": "Create a trusted folder",
+      "id": "5313CBE8661849118A2B8BAAB8C9C5A5",
+      "asnIdentifier": "S2645785",
+      "position": 15000,
+      "ancestorIds": [
+        "E5DAA6728F304BA19D9EBD264C2A3E69",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "E5DAA6728F304BA19D9EBD264C2A3E69"
+    },
+    "E5DAA6728F304BA19D9EBD264C2A3E69": {
+      "asnIdentifier": "S2645784",
+      "position": 14000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.7",
+      "description": "Explain why you may want to create and use a trusted folder",
+      "id": "E5DAA6728F304BA19D9EBD264C2A3E69",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "FBC0FE3DF51B4BA5B4F3F04AEABFAADC": {
+      "statementLabel": "Application",
+      "description": "Compact and back up a database",
+      "id": "FBC0FE3DF51B4BA5B4F3F04AEABFAADC",
+      "asnIdentifier": "S2645783",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "1.6.1",
+      "ancestorIds": [
+        "261A1E56D82340B299AAF251AA9C815C",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "261A1E56D82340B299AAF251AA9C815C"
+    },
+    "261A1E56D82340B299AAF251AA9C815C": {
+      "description": "Explain two database management tasks",
+      "id": "261A1E56D82340B299AAF251AA9C815C",
+      "asnIdentifier": "S2645782",
+      "position": 12000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.6",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "38F44D171F944F99BCC8DAB10110D996": {
+      "statementNotation": "1.5.1",
+      "statementLabel": "Application",
+      "description": "List the basic objects (table, report, form, query)",
+      "id": "38F44D171F944F99BCC8DAB10110D996",
+      "asnIdentifier": "S2645781",
+      "position": 11000,
+      "depth": 2,
+      "ancestorIds": [
+        "9F50937F32D346C9BD8001FF175AEA00",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "9F50937F32D346C9BD8001FF175AEA00"
+    },
+    "9F50937F32D346C9BD8001FF175AEA00": {
+      "id": "9F50937F32D346C9BD8001FF175AEA00",
+      "asnIdentifier": "S2645780",
+      "position": 10000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.5",
+      "description": "Identify the basic objects",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "A3FED6AC570F4DE18C3DDD18243D266B": {
+      "description": "Identify advantages of a relational database system DBMS",
+      "id": "A3FED6AC570F4DE18C3DDD18243D266B",
+      "asnIdentifier": "S2645779",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "1.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "3A543BD06D9742AA88733D9FE50E0898",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "3A543BD06D9742AA88733D9FE50E0898"
+    },
+    "3A543BD06D9742AA88733D9FE50E0898": {
+      "id": "3A543BD06D9742AA88733D9FE50E0898",
+      "asnIdentifier": "S2645778",
+      "position": 8000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.4",
+      "description": "Explain relational database system DBMS",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "4C05E56D69F74D1AB3BEBD480B524607": {
+      "id": "4C05E56D69F74D1AB3BEBD480B524607",
+      "asnIdentifier": "S2645777",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "1.3.1",
+      "statementLabel": "Application",
+      "description": "Explore an existing database identifying the file, record, field, and entry",
+      "ancestorIds": [
+        "D2342165B0AE4E449778B36FB3E4EBA3",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "D2342165B0AE4E449778B36FB3E4EBA3"
+    },
+    "D2342165B0AE4E449778B36FB3E4EBA3": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.3",
+      "description": "Explain the hierarchy of data",
+      "id": "D2342165B0AE4E449778B36FB3E4EBA3",
+      "asnIdentifier": "S2645776",
+      "position": 6000,
+      "depth": 1,
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "05AB8C55D0B547FD89912BB02B80099E": {
+      "statementNotation": "1.2.1",
+      "statementLabel": "Application",
+      "description": "Explain how a database is relational",
+      "id": "05AB8C55D0B547FD89912BB02B80099E",
+      "asnIdentifier": "S2645775",
+      "position": 5000,
+      "depth": 2,
+      "ancestorIds": [
+        "9309B1EFED744175A42383FCC2D89CCA",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "9309B1EFED744175A42383FCC2D89CCA"
+    },
+    "9309B1EFED744175A42383FCC2D89CCA": {
+      "id": "9309B1EFED744175A42383FCC2D89CCA",
+      "asnIdentifier": "S2645774",
+      "position": 4000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.2",
+      "description": "Explain the purpose of a relational database",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "0FF93EFB8AD54E309FE48C48D491FBF6": {
+      "description": "Prepare a list of terms with definitions",
+      "id": "0FF93EFB8AD54E309FE48C48D491FBF6",
+      "asnIdentifier": "S2645773",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "1.1.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "2124602137CD43FD9CA7D6EF81AA0B9E",
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "2124602137CD43FD9CA7D6EF81AA0B9E"
+    },
+    "2124602137CD43FD9CA7D6EF81AA0B9E": {
+      "id": "2124602137CD43FD9CA7D6EF81AA0B9E",
+      "asnIdentifier": "S2645772",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+      ],
+      "parentId": "01BC4B4E83FF48ACACDDFDE1F93AB99A"
+    },
+    "01BC4B4E83FF48ACACDDFDE1F93AB99A": {
+      "statementLabel": "Unit",
+      "listId": "1:",
+      "description": "Introduction to Relational Databases and Database Careers",
+      "id": "01BC4B4E83FF48ACACDDFDE1F93AB99A",
+      "asnIdentifier": "S2645771",
+      "position": 1000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

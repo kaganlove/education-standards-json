@@ -1,0 +1,994 @@
+{
+  "id": "208A0AE712D446FB80DD39B5F35EF8E9",
+  "title": "AP Calculus AB",
+  "subject": "Mathematics",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12",
+    "11"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Collegeboard",
+    "sourceURL": "https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf"
+  },
+  "jurisdiction": {
+    "id": "AD121150110147EFABECB6A53BCD5FF7",
+    "title": "Synergy Quantum Academy"
+  },
+  "standards": {
+    "9B360F653645447682BB41E4B07FC471": {
+      "id": "9B360F653645447682BB41E4B07FC471",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use L’Hospital’s Rule to determine the limit of indeterminate forms",
+      "comments": [],
+      "ancestorIds": [
+        "F864BB1A9DA94EA9BD762B016DC349A0",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "F864BB1A9DA94EA9BD762B016DC349A0"
+    },
+    "23B56550A76D4CC599F2F12F9E7C6F1C": {
+      "id": "23B56550A76D4CC599F2F12F9E7C6F1C",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the derivative of a function that include trigonometric, exponential, and / or logarithmic components at a given x-value",
+      "comments": [],
+      "ancestorIds": [
+        "F864BB1A9DA94EA9BD762B016DC349A0",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "F864BB1A9DA94EA9BD762B016DC349A0"
+    },
+    "F4B02894EA5F43408BD766A2B7F0EA81": {
+      "id": "F4B02894EA5F43408BD766A2B7F0EA81",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the derivatives of functions that include trigonometric, exponential, and / or logarithmic components",
+      "comments": [],
+      "ancestorIds": [
+        "F864BB1A9DA94EA9BD762B016DC349A0",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "F864BB1A9DA94EA9BD762B016DC349A0"
+    },
+    "F864BB1A9DA94EA9BD762B016DC349A0": {
+      "id": "F864BB1A9DA94EA9BD762B016DC349A0",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "DR2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Special Functions",
+      "comments": [],
+      "ancestorIds": [
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "328D244338894C57984E8932B084D44C"
+    },
+    "9BD3EA3EA9BF4223B2806A9A244179BF": {
+      "id": "9BD3EA3EA9BF4223B2806A9A244179BF",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize the derivative of a function as the limit of a difference quotient",
+      "comments": [],
+      "ancestorIds": [
+        "A2EA5CEB44C544A79D9B06B900ADD66A",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "A2EA5CEB44C544A79D9B06B900ADD66A"
+    },
+    "0E036E643335487BB07C3BA4801AFA10": {
+      "id": "0E036E643335487BB07C3BA4801AFA10",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use derivative rules to write and/or calculate derivatives written in multiple representations",
+      "comments": [],
+      "ancestorIds": [
+        "A2EA5CEB44C544A79D9B06B900ADD66A",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "A2EA5CEB44C544A79D9B06B900ADD66A"
+    },
+    "6B50F0B6C9084E9E8826DE597B22D3A1": {
+      "id": "6B50F0B6C9084E9E8826DE597B22D3A1",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the derivative of a polynomial function at a given x-value",
+      "comments": [],
+      "ancestorIds": [
+        "A2EA5CEB44C544A79D9B06B900ADD66A",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "A2EA5CEB44C544A79D9B06B900ADD66A"
+    },
+    "4CC8B7D2A175499F8794F1CFD0D3A550": {
+      "id": "4CC8B7D2A175499F8794F1CFD0D3A550",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "DR1.a.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use exponent rules (negative and fractional) to rewrite polynomial expressions in standard form",
+      "comments": [],
+      "ancestorIds": [
+        "6CB37869D2E0451DA43D9DC97EDD90A4",
+        "A2EA5CEB44C544A79D9B06B900ADD66A",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "6CB37869D2E0451DA43D9DC97EDD90A4"
+    },
+    "6CB37869D2E0451DA43D9DC97EDD90A4": {
+      "id": "6CB37869D2E0451DA43D9DC97EDD90A4",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "DR1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the derivative function of polynomial functions",
+      "comments": [],
+      "ancestorIds": [
+        "A2EA5CEB44C544A79D9B06B900ADD66A",
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "A2EA5CEB44C544A79D9B06B900ADD66A"
+    },
+    "A2EA5CEB44C544A79D9B06B900ADD66A": {
+      "id": "A2EA5CEB44C544A79D9B06B900ADD66A",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "DR1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Power Rule",
+      "comments": [],
+      "ancestorIds": [
+        "328D244338894C57984E8932B084D44C"
+      ],
+      "parentId": "328D244338894C57984E8932B084D44C"
+    },
+    "328D244338894C57984E8932B084D44C": {
+      "id": "328D244338894C57984E8932B084D44C",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "DR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivative Rules",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1091BABA74B949CDA7003449E1E8BA6F": {
+      "id": "1091BABA74B949CDA7003449E1E8BA6F",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Confirm whether hypothesis or conditions of a selected definition, theorem, or test have been satisfied ",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "EC45F3A13CAB4DC38E55B4235E6DF813": {
+      "id": "EC45F3A13CAB4DC38E55B4235E6DF813",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "TH6.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the limits of functions using the squeeze theorem",
+      "comments": [],
+      "ancestorIds": [
+        "FE0035042D9A4626B6EEB02DEEB1DB81",
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "FE0035042D9A4626B6EEB02DEEB1DB81"
+    },
+    "FE0035042D9A4626B6EEB02DEEB1DB81": {
+      "id": "FE0035042D9A4626B6EEB02DEEB1DB81",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Squeeze Theorem (Lvl 4)",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "3F58B0B9AAAD4AD9B7CB1AFEE343199F": {
+      "id": "3F58B0B9AAAD4AD9B7CB1AFEE343199F",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fundamental Theorem of Calculus (Pt 2)",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "B0233CAEE41B4F9285AA150F11E1E096": {
+      "id": "B0233CAEE41B4F9285AA150F11E1E096",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fundamental Theorem of Calculus (Pt 1)",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "DFA07ED5B34A4344AA726D3042D2ECC1": {
+      "id": "DFA07ED5B34A4344AA726D3042D2ECC1",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "TH3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about functions by applying the Mean Value Theorem over an interval ",
+      "comments": [],
+      "ancestorIds": [
+        "D1B1A602BB2C4F3599DCE79FD1A61E78",
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "D1B1A602BB2C4F3599DCE79FD1A61E78"
+    },
+    "D1B1A602BB2C4F3599DCE79FD1A61E78": {
+      "id": "D1B1A602BB2C4F3599DCE79FD1A61E78",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mean Value Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "0D817814233C400D940EA6EB37020AC4": {
+      "id": "0D817814233C400D940EA6EB37020AC4",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "TH2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about functions by applying the Extreme Value Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "DD0B696EDCF74BC3848B828A5F5DF180",
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "DD0B696EDCF74BC3848B828A5F5DF180"
+    },
+    "DD0B696EDCF74BC3848B828A5F5DF180": {
+      "id": "DD0B696EDCF74BC3848B828A5F5DF180",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extreme Value Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "098006F7E9424F3597A0FEC07048B254": {
+      "id": "098006F7E9424F3597A0FEC07048B254",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "TH1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the behavior of a function on an interval using the Intermediate Value Theorem ",
+      "comments": [],
+      "ancestorIds": [
+        "D281C906A6754F81A46C496FDEEC31E1",
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "D281C906A6754F81A46C496FDEEC31E1"
+    },
+    "D281C906A6754F81A46C496FDEEC31E1": {
+      "id": "D281C906A6754F81A46C496FDEEC31E1",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "TH1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Intermediate Value Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "A903BE4A121A46AA8F4578C3AC85DB51"
+      ],
+      "parentId": "A903BE4A121A46AA8F4578C3AC85DB51"
+    },
+    "A903BE4A121A46AA8F4578C3AC85DB51": {
+      "id": "A903BE4A121A46AA8F4578C3AC85DB51",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "TH",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Theorems",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E2D30EFEEA394D8FAABA067F3FABD851": {
+      "id": "E2D30EFEEA394D8FAABA067F3FABD851",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "SD2.a.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate the derivative at a point given a graph ",
+      "comments": [],
+      "ancestorIds": [
+        "79E7BF9C561A4FD9ADE16F884969B992",
+        "D66C2CBF3DBA4AF59547395E298CB2E2",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "79E7BF9C561A4FD9ADE16F884969B992"
+    },
+    "5BE12CA456874EA8A460752C9501CD53": {
+      "id": "5BE12CA456874EA8A460752C9501CD53",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "SD2.a.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Match a slope field to a differential equation ",
+      "comments": [],
+      "ancestorIds": [
+        "79E7BF9C561A4FD9ADE16F884969B992",
+        "D66C2CBF3DBA4AF59547395E298CB2E2",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "79E7BF9C561A4FD9ADE16F884969B992"
+    },
+    "79E7BF9C561A4FD9ADE16F884969B992": {
+      "id": "79E7BF9C561A4FD9ADE16F884969B992",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "SD2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sketch a slope field for a given differential equation",
+      "comments": [],
+      "ancestorIds": [
+        "D66C2CBF3DBA4AF59547395E298CB2E2",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "D66C2CBF3DBA4AF59547395E298CB2E2"
+    },
+    "D66C2CBF3DBA4AF59547395E298CB2E2": {
+      "id": "D66C2CBF3DBA4AF59547395E298CB2E2",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "SD2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Slope Fields",
+      "comments": [],
+      "ancestorIds": [
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "273CE6344B5C44738408DE93F0D365E2"
+    },
+    "A477700E2B1E4B22BA79CFF376FA1BE2": {
+      "id": "A477700E2B1E4B22BA79CFF376FA1BE2",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "SD1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine average rates of change using difference quotients ",
+      "comments": [],
+      "ancestorIds": [
+        "1562AD2A31E24428B991088B33E0DFAA",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "1562AD2A31E24428B991088B33E0DFAA"
+    },
+    "D9431E992DD64E6988C3CFF8B58104EB": {
+      "id": "D9431E992DD64E6988C3CFF8B58104EB",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "SD1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine if a function is differentiable ",
+      "comments": [],
+      "ancestorIds": [
+        "1562AD2A31E24428B991088B33E0DFAA",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "1562AD2A31E24428B991088B33E0DFAA"
+    },
+    "6A83BD0028FA4B4DAF33FD902743C04D": {
+      "id": "6A83BD0028FA4B4DAF33FD902743C04D",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "SD1.b.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the average rate of change of a function",
+      "comments": [],
+      "ancestorIds": [
+        "9D803122136B43529753A4AB3B5CF94D",
+        "1562AD2A31E24428B991088B33E0DFAA",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "9D803122136B43529753A4AB3B5CF94D"
+    },
+    "9D803122136B43529753A4AB3B5CF94D": {
+      "id": "9D803122136B43529753A4AB3B5CF94D",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "SD1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the equation of a line tangent to a curve at a given point",
+      "comments": [],
+      "ancestorIds": [
+        "1562AD2A31E24428B991088B33E0DFAA",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "1562AD2A31E24428B991088B33E0DFAA"
+    },
+    "86370C5F5A0B4025BA362069D43C97B2": {
+      "id": "86370C5F5A0B4025BA362069D43C97B2",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "SD1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of a derivative within a problem",
+      "comments": [],
+      "ancestorIds": [
+        "1562AD2A31E24428B991088B33E0DFAA",
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "1562AD2A31E24428B991088B33E0DFAA"
+    },
+    "1562AD2A31E24428B991088B33E0DFAA": {
+      "id": "1562AD2A31E24428B991088B33E0DFAA",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "SD1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understanding Slope as the Derivative",
+      "comments": [],
+      "ancestorIds": [
+        "273CE6344B5C44738408DE93F0D365E2"
+      ],
+      "parentId": "273CE6344B5C44738408DE93F0D365E2"
+    },
+    "273CE6344B5C44738408DE93F0D365E2": {
+      "id": "273CE6344B5C44738408DE93F0D365E2",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "SD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Slope as the Derivative",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8C8039341BD0486CBD4C979F49FC6B36": {
+      "id": "8C8039341BD0486CBD4C979F49FC6B36",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FB2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use end behavior models and infinite limits to determine the existence of horizontal asymptotes",
+      "comments": [],
+      "ancestorIds": [
+        "69BE0C5064194394B313208F0BF80B37",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "69BE0C5064194394B313208F0BF80B37"
+    },
+    "1A0493DDC84C4A65AEF26EC27411B922": {
+      "id": "1A0493DDC84C4A65AEF26EC27411B922",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "FB2.a.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use algebraic manipulation to determine if a rational function will have infinite or removable discontinuities ",
+      "comments": [],
+      "ancestorIds": [
+        "EC8B9C11BD9849F596DD16DB863DF82E",
+        "69BE0C5064194394B313208F0BF80B37",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "EC8B9C11BD9849F596DD16DB863DF82E"
+    },
+    "EC8B9C11BD9849F596DD16DB863DF82E": {
+      "id": "EC8B9C11BD9849F596DD16DB863DF82E",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FB2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the behavior of functions using limits involving infinity ",
+      "comments": [],
+      "ancestorIds": [
+        "69BE0C5064194394B313208F0BF80B37",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "69BE0C5064194394B313208F0BF80B37"
+    },
+    "69BE0C5064194394B313208F0BF80B37": {
+      "id": "69BE0C5064194394B313208F0BF80B37",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "FB2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Asymptotes",
+      "comments": [],
+      "ancestorIds": [
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "377746198BE44064B826CA83AC17333D"
+    },
+    "998104D958D74894B9A568F89A2DD55D": {
+      "id": "998104D958D74894B9A568F89A2DD55D",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FB1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine values of x or solve for parameters that make discontinuous functions continuous, if possible",
+      "comments": [],
+      "ancestorIds": [
+        "C2380F3F951445199C362BB9D1E5385A",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "C2380F3F951445199C362BB9D1E5385A"
+    },
+    "1994DCD032DB4753B2DE417499FD2B73": {
+      "id": "1994DCD032DB4753B2DE417499FD2B73",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "FB1.b.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a function is continuous over an interval based on the structure / function family it belongs to",
+      "comments": [],
+      "ancestorIds": [
+        "8FD1206ACE4944C183B47A503222F4EC",
+        "C2380F3F951445199C362BB9D1E5385A",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "8FD1206ACE4944C183B47A503222F4EC"
+    },
+    "8FD1206ACE4944C183B47A503222F4EC": {
+      "id": "8FD1206ACE4944C183B47A503222F4EC",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FB1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine intervals over which a function is continuous",
+      "comments": [],
+      "ancestorIds": [
+        "C2380F3F951445199C362BB9D1E5385A",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "C2380F3F951445199C362BB9D1E5385A"
+    },
+    "1E33D91760E247F789FA79E6F424487F": {
+      "id": "1E33D91760E247F789FA79E6F424487F",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "FB1.a.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify discontinuities based on surrounding limits",
+      "comments": [],
+      "ancestorIds": [
+        "08D9147A0561439583AD298B3B572B88",
+        "C2380F3F951445199C362BB9D1E5385A",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "08D9147A0561439583AD298B3B572B88"
+    },
+    "291808217E6C43D29060730EB70E5646": {
+      "id": "291808217E6C43D29060730EB70E5646",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "FB1.a.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify discontinuities from a graph",
+      "comments": [],
+      "ancestorIds": [
+        "08D9147A0561439583AD298B3B572B88",
+        "C2380F3F951445199C362BB9D1E5385A",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "08D9147A0561439583AD298B3B572B88"
+    },
+    "08D9147A0561439583AD298B3B572B88": {
+      "id": "08D9147A0561439583AD298B3B572B88",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "FB1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify conclusions about continuity at a point using the definition",
+      "comments": [],
+      "ancestorIds": [
+        "C2380F3F951445199C362BB9D1E5385A",
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "C2380F3F951445199C362BB9D1E5385A"
+    },
+    "C2380F3F951445199C362BB9D1E5385A": {
+      "id": "C2380F3F951445199C362BB9D1E5385A",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "FB1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Continuity",
+      "comments": [],
+      "ancestorIds": [
+        "377746198BE44064B826CA83AC17333D"
+      ],
+      "parentId": "377746198BE44064B826CA83AC17333D"
+    },
+    "377746198BE44064B826CA83AC17333D": {
+      "id": "377746198BE44064B826CA83AC17333D",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "FB",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Function Behavior",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D0F05F7EE43341259988A09708F77443": {
+      "id": "D0F05F7EE43341259988A09708F77443",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Connect multiple representations of limits ",
+      "comments": [],
+      "ancestorIds": [
+        "132B3FFCEEF545C9B467061AD8054DDD",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "132B3FFCEEF545C9B467061AD8054DDD"
+    },
+    "5959DD517F6948EA995BBEEF7A60F48F": {
+      "id": "5959DD517F6948EA995BBEEF7A60F48F",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "LIM2.a.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply properties of trignometric identities to determine limits (level 4) ",
+      "comments": [],
+      "ancestorIds": [
+        "547D39B2B7134345A5EE4E5618581DAE",
+        "132B3FFCEEF545C9B467061AD8054DDD",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "547D39B2B7134345A5EE4E5618581DAE"
+    },
+    "B61F857E2CBC4F489F0EDFC986231035": {
+      "id": "B61F857E2CBC4F489F0EDFC986231035",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "LIM2.a.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits using numerical logic when other methods aren’t applicable  ",
+      "comments": [],
+      "ancestorIds": [
+        "547D39B2B7134345A5EE4E5618581DAE",
+        "132B3FFCEEF545C9B467061AD8054DDD",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "547D39B2B7134345A5EE4E5618581DAE"
+    },
+    "72D61AD9F3B94DD99D8071129678E726": {
+      "id": "72D61AD9F3B94DD99D8071129678E726",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "LIM2.a.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits by multiplying by the conjugate  ",
+      "comments": [],
+      "ancestorIds": [
+        "547D39B2B7134345A5EE4E5618581DAE",
+        "132B3FFCEEF545C9B467061AD8054DDD",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "547D39B2B7134345A5EE4E5618581DAE"
+    },
+    "40B6A0EE628A47258B0BF849DF0E3DE1": {
+      "id": "40B6A0EE628A47258B0BF849DF0E3DE1",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 3,
+      "listId": "D",
+      "statementNotation": "LIM2.a.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits by factoring  ",
+      "comments": [],
+      "ancestorIds": [
+        "547D39B2B7134345A5EE4E5618581DAE",
+        "132B3FFCEEF545C9B467061AD8054DDD",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "547D39B2B7134345A5EE4E5618581DAE"
+    },
+    "547D39B2B7134345A5EE4E5618581DAE": {
+      "id": "547D39B2B7134345A5EE4E5618581DAE",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits by manipulating functions into their most-helpful equivalent forms ",
+      "comments": [],
+      "ancestorIds": [
+        "132B3FFCEEF545C9B467061AD8054DDD",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "132B3FFCEEF545C9B467061AD8054DDD"
+    },
+    "132B3FFCEEF545C9B467061AD8054DDD": {
+      "id": "132B3FFCEEF545C9B467061AD8054DDD",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "LIM2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits Algebraically",
+      "comments": [],
+      "ancestorIds": [
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "0F4BDBE55A2548AA846895C9270E10F6"
+    },
+    "F8743DADFE9C4FE8B2335887D1E014FE": {
+      "id": "F8743DADFE9C4FE8B2335887D1E014FE",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the limits of functions using limit properties  ",
+      "comments": [],
+      "ancestorIds": [
+        "2D9CD0FE9516469FA4B0A9B18213B221",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "2D9CD0FE9516469FA4B0A9B18213B221"
+    },
+    "47F8A22CB3214A67BFC2DC60B1950BBB": {
+      "id": "47F8A22CB3214A67BFC2DC60B1950BBB",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate limits of a function from a table",
+      "comments": [],
+      "ancestorIds": [
+        "2D9CD0FE9516469FA4B0A9B18213B221",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "2D9CD0FE9516469FA4B0A9B18213B221"
+    },
+    "9810A77970DB44C980D07FAA88A24244": {
+      "id": "9810A77970DB44C980D07FAA88A24244",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "LIM1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate limits of a function from a graph",
+      "comments": [],
+      "ancestorIds": [
+        "2D9CD0FE9516469FA4B0A9B18213B221",
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "2D9CD0FE9516469FA4B0A9B18213B221"
+    },
+    "2D9CD0FE9516469FA4B0A9B18213B221": {
+      "id": "2D9CD0FE9516469FA4B0A9B18213B221",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "LIM1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understanding Limits",
+      "comments": [],
+      "ancestorIds": [
+        "0F4BDBE55A2548AA846895C9270E10F6"
+      ],
+      "parentId": "0F4BDBE55A2548AA846895C9270E10F6"
+    },
+    "0F4BDBE55A2548AA846895C9270E10F6": {
+      "id": "0F4BDBE55A2548AA846895C9270E10F6",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "LIM",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

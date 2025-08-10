@@ -1,0 +1,554 @@
+{
+  "id": "186F736365DE4B9E89D983C8D14A3788",
+  "title": "Systems in Organizations",
+  "subject": "Information Systems",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "Undergraduate-UpperDivision",
+    "HigherEducation"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "AIS, IEEE, ACM",
+    "sourceURL": "www.acm.org"
+  },
+  "jurisdiction": {
+    "id": "593165F09CF44914B04F244DED2A920A",
+    "title": "University of San Francisco"
+  },
+  "standards": {
+    "71FE66B91C0F4595A6FD4B2EA3A87849": {
+      "id": "71FE66B91C0F4595A6FD4B2EA3A87849",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "RFOISD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know the roles and functions of an organization's information systems department and how it plans, develops, deploys, supports, and maintains information systems",
+      "comments": [],
+      "ancestorIds": [
+        "C968C1D2E94F4CE5903D5EA7562CF8C6"
+      ],
+      "parentId": "C968C1D2E94F4CE5903D5EA7562CF8C6"
+    },
+    "3EE529932543444BA779921E8F467485": {
+      "id": "3EE529932543444BA779921E8F467485",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "ISSMBO",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the various scales of information systems applied in modern business organizations",
+      "comments": [],
+      "ancestorIds": [
+        "C968C1D2E94F4CE5903D5EA7562CF8C6"
+      ],
+      "parentId": "C968C1D2E94F4CE5903D5EA7562CF8C6"
+    },
+    "C968C1D2E94F4CE5903D5EA7562CF8C6": {
+      "id": "C968C1D2E94F4CE5903D5EA7562CF8C6",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 0,
+      "listId": "VII",
+      "statementNotation": "ISSISO",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Information Systems and the Information System Organization",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "816DA37766E2438EBD3903E47BC7BFCF": {
+      "id": "816DA37766E2438EBD3903E47BC7BFCF",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "SQLSR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create SQL queries to search and retrieve stored business data as information used for business decision making.",
+      "comments": [],
+      "ancestorIds": [
+        "040CB0C5D4984FF2829988798BDDAE86"
+      ],
+      "parentId": "040CB0C5D4984FF2829988798BDDAE86"
+    },
+    "040CB0C5D4984FF2829988798BDDAE86": {
+      "id": "040CB0C5D4984FF2829988798BDDAE86",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 0,
+      "listId": "VII",
+      "statementNotation": "SQLQ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "SQL Queries",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A3000C278D5D43ADAB2B2415497E8FE0": {
+      "id": "A3000C278D5D43ADAB2B2415497E8FE0",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "H",
+      "statementNotation": "DMDCSD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a data model for a relational database to capture and store business information.",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "B1672523B16143A08F1439CBCA13D3AF": {
+      "id": "B1672523B16143A08F1439CBCA13D3AF",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 1,
+      "listId": "G",
+      "statementNotation": "ERD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how an ER Diagram represents a database",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "EDE6CCBBC7FD4B4D86D61559363B57BA": {
+      "id": "EDE6CCBBC7FD4B4D86D61559363B57BA",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "F",
+      "statementNotation": "DTR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the different types of relationships",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "AA6E7D8184D2443AB48ABAC5AF3AFF13": {
+      "id": "AA6E7D8184D2443AB48ABAC5AF3AFF13",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "IE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify individual entities",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "898320C06D2B4834BD343DD14AB28A02": {
+      "id": "898320C06D2B4834BD343DD14AB28A02",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "ADBT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Associate database terms with corresponding definitions",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "826BB5DFD56B4202ABB4BAC173FA7706": {
+      "id": "826BB5DFD56B4202ABB4BAC173FA7706",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "AADT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Assign appropriate data types to data elements",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "B23F46EFA7154DB49D7279761BC27237": {
+      "id": "B23F46EFA7154DB49D7279761BC27237",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "DCRDB",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the components of a relational database ",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "50803856BEFD4D35B89FD6EBB8F67B5C": {
+      "id": "50803856BEFD4D35B89FD6EBB8F67B5C",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "DCDT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine common data types ",
+      "comments": [],
+      "ancestorIds": [
+        "EF382D7DBC61496A8F60A604852FB212"
+      ],
+      "parentId": "EF382D7DBC61496A8F60A604852FB212"
+    },
+    "EF382D7DBC61496A8F60A604852FB212": {
+      "id": "EF382D7DBC61496A8F60A604852FB212",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 0,
+      "listId": "VI",
+      "statementNotation": "RDBD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Relational Database Design",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F4F550DC7BB54E7DAC7CC635E36E3FB2": {
+      "id": "F4F550DC7BB54E7DAC7CC635E36E3FB2",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "VTYPD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Explain the value and typical use of a database",
+      "comments": [],
+      "ancestorIds": [
+        "033F2DB98B4B478DB7D812322B712084"
+      ],
+      "parentId": "033F2DB98B4B478DB7D812322B712084"
+    },
+    "3E28F38AA9EE41968EF6953F2DD76B4F": {
+      "id": "3E28F38AA9EE41968EF6953F2DD76B4F",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "RDBMST",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Associate database terms with corresponding definitions Explain the value and typical use of a database",
+      "comments": [],
+      "ancestorIds": [
+        "033F2DB98B4B478DB7D812322B712084"
+      ],
+      "parentId": "033F2DB98B4B478DB7D812322B712084"
+    },
+    "0DF625CC547349169871E96C5A723A79": {
+      "id": "0DF625CC547349169871E96C5A723A79",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "CRDBMS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the components of a relational database",
+      "comments": [],
+      "ancestorIds": [
+        "033F2DB98B4B478DB7D812322B712084"
+      ],
+      "parentId": "033F2DB98B4B478DB7D812322B712084"
+    },
+    "033F2DB98B4B478DB7D812322B712084": {
+      "id": "033F2DB98B4B478DB7D812322B712084",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 0,
+      "listId": "V",
+      "statementNotation": "DBP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Database Processing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "07A13DA5AE97486BAC27344AD4160DBF": {
+      "id": "07A13DA5AE97486BAC27344AD4160DBF",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "EKIT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain why knowledge and the use of information technology are valuable to modern business organizational systems.",
+      "comments": [],
+      "ancestorIds": [
+        "04E6D24383504AEF878AC6283AD164DC"
+      ],
+      "parentId": "04E6D24383504AEF878AC6283AD164DC"
+    },
+    "04E6D24383504AEF878AC6283AD164DC": {
+      "id": "04E6D24383504AEF878AC6283AD164DC",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 0,
+      "listId": "IV",
+      "statementNotation": "SISA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Strategy and IS Alignment",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "20449AEA54FE467A95F3206A1E5FBBA9": {
+      "id": "20449AEA54FE467A95F3206A1E5FBBA9",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "BPMNA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize a business process modeling tool to create a business process design to analyze and apply improvements to business processes.",
+      "comments": [],
+      "ancestorIds": [
+        "DF60CB89A1A14A0CA37A6E6137B308B8"
+      ],
+      "parentId": "DF60CB89A1A14A0CA37A6E6137B308B8"
+    },
+    "EE35CD6B289B4E9B8E4EEE5B6F46484E": {
+      "id": "EE35CD6B289B4E9B8E4EEE5B6F46484E",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "BPMN",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand why and how to model business processes",
+      "comments": [],
+      "ancestorIds": [
+        "DF60CB89A1A14A0CA37A6E6137B308B8"
+      ],
+      "parentId": "DF60CB89A1A14A0CA37A6E6137B308B8"
+    },
+    "AB4266AFB639497C995DCEF4977F915C": {
+      "id": "AB4266AFB639497C995DCEF4977F915C",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "IBP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and assess a business model",
+      "comments": [],
+      "ancestorIds": [
+        "DF60CB89A1A14A0CA37A6E6137B308B8"
+      ],
+      "parentId": "DF60CB89A1A14A0CA37A6E6137B308B8"
+    },
+    "DF60CB89A1A14A0CA37A6E6137B308B8": {
+      "id": "DF60CB89A1A14A0CA37A6E6137B308B8",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 0,
+      "listId": "III",
+      "statementNotation": "BPBPM",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Business Process and Business Process Modeling",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "20A1E0AEF63349B38F16A8FB00AFFDEB": {
+      "id": "20A1E0AEF63349B38F16A8FB00AFFDEB",
+      "asnIdentifier": null,
+      "position": 9001,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "AECTC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand and apply effective collaboration, teamwork, and communication",
+      "comments": [],
+      "ancestorIds": [
+        "F314B79D8717476195F19D491198CC42"
+      ],
+      "parentId": "F314B79D8717476195F19D491198CC42"
+    },
+    "2B2BA71F7A0C4745836892D637DCCA33": {
+      "id": "2B2BA71F7A0C4745836892D637DCCA33",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "ACS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identification and application of collaboration systems",
+      "comments": [],
+      "ancestorIds": [
+        "F314B79D8717476195F19D491198CC42"
+      ],
+      "parentId": "F314B79D8717476195F19D491198CC42"
+    },
+    "8423369EB5464278AF01E445DED5C57F": {
+      "id": "8423369EB5464278AF01E445DED5C57F",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "GCC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know the importance and guidelines of constructive criticism ",
+      "comments": [],
+      "ancestorIds": [
+        "F314B79D8717476195F19D491198CC42"
+      ],
+      "parentId": "F314B79D8717476195F19D491198CC42"
+    },
+    "55713DDAEFAD47ABAD7FB9346A33E6F1": {
+      "id": "55713DDAEFAD47ABAD7FB9346A33E6F1",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "CEC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the characteristics of effective collaboration ",
+      "comments": [],
+      "ancestorIds": [
+        "F314B79D8717476195F19D491198CC42"
+      ],
+      "parentId": "F314B79D8717476195F19D491198CC42"
+    },
+    "F314B79D8717476195F19D491198CC42": {
+      "id": "F314B79D8717476195F19D491198CC42",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 0,
+      "listId": "II",
+      "statementNotation": "COLL",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collaboration",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FAD4A8072A3849848E1E89E089237563": {
+      "id": "FAD4A8072A3849848E1E89E089237563",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "ISFABP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know the information systems framework and how it is applied to a business process",
+      "comments": [],
+      "ancestorIds": [
+        "76348232E83D4FB2A6AEE51D5166215E"
+      ],
+      "parentId": "76348232E83D4FB2A6AEE51D5166215E"
+    },
+    "5C631AC5EFBC4948A432EAB91CC0E298": {
+      "id": "5C631AC5EFBC4948A432EAB91CC0E298",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "CSNRC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the critical skills for nonroutine cognition and how it applies to MIS ",
+      "comments": [],
+      "ancestorIds": [
+        "76348232E83D4FB2A6AEE51D5166215E"
+      ],
+      "parentId": "76348232E83D4FB2A6AEE51D5166215E"
+    },
+    "5A31F555781943279784CACF7AD7B3B5": {
+      "id": "5A31F555781943279784CACF7AD7B3B5",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "IMIS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the Management Information System (MIS), its importance, to business and you ",
+      "comments": [],
+      "ancestorIds": [
+        "76348232E83D4FB2A6AEE51D5166215E"
+      ],
+      "parentId": "76348232E83D4FB2A6AEE51D5166215E"
+    },
+    "AFEFBB4FB99E42F0A0866AD9275784C5": {
+      "id": "AFEFBB4FB99E42F0A0866AD9275784C5",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "EDR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examine the digital revolution and its fundamental impact on business",
+      "comments": [],
+      "ancestorIds": [
+        "76348232E83D4FB2A6AEE51D5166215E"
+      ],
+      "parentId": "76348232E83D4FB2A6AEE51D5166215E"
+    },
+    "76348232E83D4FB2A6AEE51D5166215E": {
+      "id": "76348232E83D4FB2A6AEE51D5166215E",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "I2MIS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction to MIS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

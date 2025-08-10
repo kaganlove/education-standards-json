@@ -1,0 +1,1206 @@
+{
+  "id": "22BDFA828DF64B4F9E678C91432D4C1E",
+  "title": "Welsh Board IT A-Level",
+  "subject": "Information Technology",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Specification",
+    "sourceURL": ""
+  },
+  "jurisdiction": {
+    "id": "435B39603C684724B759AAEBDD1B509B",
+    "title": "St-Ignatius School"
+  },
+  "standards": {
+    "FE5B9BC72E7D4FA289108B2A6BC021AA": {
+      "id": "FE5B9BC72E7D4FA289108B2A6BC021AA",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 3,
+      "listId": "9.6.3",
+      "statementNotation": "SDLC17",
+      "statementLabel": null,
+      "description": "Methods of avoiding post implementation cost.",
+      "ancestorIds": [
+        "EBCF4A5B11094A2BB56DAA313A3F6D28",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "EBCF4A5B11094A2BB56DAA313A3F6D28"
+    },
+    "8DB847E06AEF45F78E0893881CFB2DC1": {
+      "id": "8DB847E06AEF45F78E0893881CFB2DC1",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 3,
+      "listId": "9.6.2",
+      "statementNotation": "SDLC16",
+      "statementLabel": null,
+      "description": "Understand the tools and their appropriateness for gathering\ninformation for the evaluation report including quantitative\ntest, Error Logging Interviews, Questionnaires",
+      "ancestorIds": [
+        "EBCF4A5B11094A2BB56DAA313A3F6D28",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "EBCF4A5B11094A2BB56DAA313A3F6D28"
+    },
+    "AB185A17D61E47CFB3665D94F27E7A84": {
+      "id": "AB185A17D61E47CFB3665D94F27E7A84",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 3,
+      "listId": "9.6.1",
+      "statementNotation": "SDLC15",
+      "statementLabel": null,
+      "description": "Criteria for evaluating a system.",
+      "ancestorIds": [
+        "EBCF4A5B11094A2BB56DAA313A3F6D28",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "EBCF4A5B11094A2BB56DAA313A3F6D28"
+    },
+    "EBCF4A5B11094A2BB56DAA313A3F6D28": {
+      "id": "EBCF4A5B11094A2BB56DAA313A3F6D28",
+      "asnIdentifier": null,
+      "position": 75001,
+      "depth": 2,
+      "listId": "9.6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "System Evaluation",
+      "ancestorIds": [
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": null
+    },
+    "73712964DF234A6BA16438C8C3993E6D": {
+      "id": "73712964DF234A6BA16438C8C3993E6D",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 3,
+      "listId": "9.5.3",
+      "statementNotation": "SDLC14",
+      "statementLabel": null,
+      "description": "Perfective, Adaptive, Corrective maintenance",
+      "ancestorIds": [
+        "70E113C7851F41F98C2715C31BFE1FD1",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "70E113C7851F41F98C2715C31BFE1FD1"
+    },
+    "15E1AA55B7C9422597C9281C524830E1": {
+      "id": "15E1AA55B7C9422597C9281C524830E1",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 3,
+      "listId": "9.5.2",
+      "statementNotation": "SDLC13",
+      "statementLabel": null,
+      "description": "Maintenance issues including identification of errors, security\nissues, changes in the business environment, dissatisfaction\nwith hardware and software, updating the system",
+      "ancestorIds": [
+        "70E113C7851F41F98C2715C31BFE1FD1",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "70E113C7851F41F98C2715C31BFE1FD1"
+    },
+    "76BB9306444749798CE98BE54F325C94": {
+      "id": "76BB9306444749798CE98BE54F325C94",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 3,
+      "listId": "9.5.1",
+      "statementNotation": "SDLC12",
+      "statementLabel": null,
+      "description": "Technical and User Documentation",
+      "ancestorIds": [
+        "70E113C7851F41F98C2715C31BFE1FD1",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "70E113C7851F41F98C2715C31BFE1FD1"
+    },
+    "70E113C7851F41F98C2715C31BFE1FD1": {
+      "id": "70E113C7851F41F98C2715C31BFE1FD1",
+      "asnIdentifier": null,
+      "position": 72001,
+      "depth": 2,
+      "listId": "9.5",
+      "statementNotation": "SM",
+      "statementLabel": null,
+      "description": "System Maintenance",
+      "ancestorIds": [
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": null
+    },
+    "5605823952444BD78C49F0D1D5B5F6C5": {
+      "id": "5605823952444BD78C49F0D1D5B5F6C5",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 3,
+      "listId": "9.4.2",
+      "statementNotation": "SDLC11",
+      "statementLabel": null,
+      "description": "Appropriateness of different changeover strategies including\n‘direct’ and ‘parallel running’. ",
+      "ancestorIds": [
+        "E71F0C149BF34E5DA3A6BB16AB85E620",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "E71F0C149BF34E5DA3A6BB16AB85E620"
+    },
+    "6B7DAAF0636842B087325F82812542A0": {
+      "id": "6B7DAAF0636842B087325F82812542A0",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 3,
+      "listId": "9.4.1",
+      "statementNotation": "SDLC10",
+      "statementLabel": null,
+      "description": "Acquisition and installation of hardware and software\nre-training. ",
+      "ancestorIds": [
+        "E71F0C149BF34E5DA3A6BB16AB85E620",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "E71F0C149BF34E5DA3A6BB16AB85E620"
+    },
+    "E71F0C149BF34E5DA3A6BB16AB85E620": {
+      "id": "E71F0C149BF34E5DA3A6BB16AB85E620",
+      "asnIdentifier": null,
+      "position": 70001,
+      "depth": 2,
+      "listId": "9.4",
+      "statementNotation": "SI",
+      "statementLabel": null,
+      "description": "System Implementation",
+      "ancestorIds": [
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": null
+    },
+    "1C591E0EA7C24042A5239A21ED06F7B6": {
+      "id": "1C591E0EA7C24042A5239A21ED06F7B6",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "9.3",
+      "statementNotation": "SDLC9",
+      "statementLabel": null,
+      "description": "Design of hardware, software, data and file structures,\ninformation systems, network and data transmission issues,\npersonnel issues and security processes and procedures.",
+      "ancestorIds": [
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": null
+    },
+    "2F7F004AF4E7420B863FBE8C2F8DF60A": {
+      "id": "2F7F004AF4E7420B863FBE8C2F8DF60A",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 3,
+      "listId": "9.2.7",
+      "statementNotation": "SDLC8",
+      "statementLabel": null,
+      "description": "Entity relationship modelling - candidates should be able to\ndraw and interpret ERM diagrams: one to one, one to many,\nmany to many. ",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "504902A567C84AEDA8EA3106D004D927": {
+      "id": "504902A567C84AEDA8EA3106D004D927",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 3,
+      "listId": "9.2.6",
+      "statementNotation": "SDLC7",
+      "statementLabel": null,
+      "description": "Candidates should understand that a ‘Data Model’ includes\nan\nEntity Places, object or people represented by data in a\nspreadsheet or database\nAttribute Information of facts about an entity ",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "8279AD9F0FD64BD6A7F18BCD26E63860": {
+      "id": "8279AD9F0FD64BD6A7F18BCD26E63860",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 3,
+      "listId": "9.2.5",
+      "statementNotation": "SDLC6",
+      "statementLabel": null,
+      "description": "Entity Relationship diagrams.",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "D5B6ED41A53945A485AB773D633721D5": {
+      "id": "D5B6ED41A53945A485AB773D633721D5",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 3,
+      "listId": "9.2.4",
+      "statementNotation": "SDLC5",
+      "statementLabel": null,
+      "description": "Data dictionaries. ",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "7E8B5E84BA394BB88E14743DD3A404E7": {
+      "id": "7E8B5E84BA394BB88E14743DD3A404E7",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 3,
+      "listId": "9.2.3",
+      "statementNotation": "SDLC4",
+      "statementLabel": null,
+      "description": "Candidates must be able to use all of the elements of a Data\nflow diagram correctly including:  flow direction line,  process, entity, data store",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "1EBFFF88910A408EBBF7D3F5AC55167B": {
+      "id": "1EBFFF88910A408EBBF7D3F5AC55167B",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 3,
+      "listId": "9.2.2",
+      "statementNotation": "SDLC3",
+      "statementLabel": null,
+      "description": "Identify external and internal components to a system and\nthe flow of data between them including Data Flow Diagrams\n(DFDs), including High level (contextual view) DFDs and low\nlevel (detailed view) DFDs, decision tables and systems\ndiagrams",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "AD77F17E5A0A46EEA127346ECCFA799F": {
+      "id": "AD77F17E5A0A46EEA127346ECCFA799F",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 3,
+      "listId": "9.2.1",
+      "statementNotation": "SDLC2",
+      "statementLabel": null,
+      "description": "Identify and understand tools and techniques used to analyse\na system",
+      "ancestorIds": [
+        "15D1BB657A5342A080E92AE5C3828490",
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": "15D1BB657A5342A080E92AE5C3828490"
+    },
+    "15D1BB657A5342A080E92AE5C3828490": {
+      "id": "15D1BB657A5342A080E92AE5C3828490",
+      "asnIdentifier": null,
+      "position": 62001,
+      "depth": 2,
+      "listId": "9.2",
+      "statementNotation": "SA",
+      "statementLabel": null,
+      "description": "System Analysis",
+      "ancestorIds": [
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": null
+    },
+    "99F6BE2FF37E4CCF90B5D5E1B43BCEB2": {
+      "id": "99F6BE2FF37E4CCF90B5D5E1B43BCEB2",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "9.1",
+      "statementNotation": "SDLC1",
+      "statementLabel": null,
+      "description": "Analysis of existing system and feasibility report\n(a) Existing Hardware and Software\n(b) Definition of the scope of the present system, Organisational chart, Define sources of data, Methods of data capture\n(c) Major data processing functions and processes, High level (contextual view) data flow\n(d) Identification of problems with the present system\n(e) Identify user requirements for the new system\n(f) Analysis of costs and benefits of the new system ",
+      "ancestorIds": [
+        "B613652CF0DB484B9887676F1761E329"
+      ],
+      "parentId": null
+    },
+    "B613652CF0DB484B9887676F1761E329": {
+      "id": "B613652CF0DB484B9887676F1761E329",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 0,
+      "listId": "9",
+      "statementNotation": "SDLC",
+      "statementLabel": null,
+      "description": "Candidates should understand the main components of the\nSDLC and how they may be applied to the development of a\ncomputerised solution as listed below.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EF303DAB8CD44F718E51933C94A43BBC": {
+      "id": "EF303DAB8CD44F718E51933C94A43BBC",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 1,
+      "listId": "8.4",
+      "statementNotation": "MIS4",
+      "statementLabel": null,
+      "description": "To include; complexity of the system, inadequate initial analysis, lack of management involvement in initial design, inappropriate hardware and software, lack of management knowledge about computer systems\nand their capabilities, poor communications between professionals, lack of professional standards",
+      "ancestorIds": [
+        "9EF0DF489C634D11A3CCF52044C35236"
+      ],
+      "parentId": "9EF0DF489C634D11A3CCF52044C35236"
+    },
+    "E65CFACE5F3D49B6BA3FC0DC48319764": {
+      "id": "E65CFACE5F3D49B6BA3FC0DC48319764",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 1,
+      "listId": "8.3",
+      "statementNotation": "MIS3",
+      "statementLabel": null,
+      "description": "To include; accuracy of the data, flexibility of data analysis, providing data in an appropriate form, accessible to a wide range of users and support a wide\nrange of skills and knowledge, improve interpersonal communications amongst\nmanagement and employees, allow individual project planning, avoid information overload ",
+      "ancestorIds": [
+        "9EF0DF489C634D11A3CCF52044C35236"
+      ],
+      "parentId": "9EF0DF489C634D11A3CCF52044C35236"
+    },
+    "971EBB11C339428BBB79E7F9714C44A2": {
+      "id": "971EBB11C339428BBB79E7F9714C44A2",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 1,
+      "listId": "8.2",
+      "statementNotation": "MIS2",
+      "statementLabel": null,
+      "description": "be able to draw and interpret data flow diagrams.",
+      "ancestorIds": [
+        "9EF0DF489C634D11A3CCF52044C35236"
+      ],
+      "parentId": "9EF0DF489C634D11A3CCF52044C35236"
+    },
+    "BB62F148ACE849DFB01D0280B15DFE86": {
+      "id": "BB62F148ACE849DFB01D0280B15DFE86",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 1,
+      "listId": "8.1",
+      "statementNotation": "MIS1",
+      "statementLabel": null,
+      "description": "appreciate that Management Information Systems should: include data that is relevant and accurate, give information when required, be accessible to wide range of users, present data in the most appropriate format, be flexible ",
+      "ancestorIds": [
+        "9EF0DF489C634D11A3CCF52044C35236"
+      ],
+      "parentId": "9EF0DF489C634D11A3CCF52044C35236"
+    },
+    "9EF0DF489C634D11A3CCF52044C35236": {
+      "id": "9EF0DF489C634D11A3CCF52044C35236",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 0,
+      "listId": "8",
+      "statementNotation": "MIS",
+      "statementLabel": null,
+      "description": "Candidates should:\nrecognise Management Information Systems as organised\ncollections of people procedures and resources designed to\nsupport the decisions of manager",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D82FE460D12D42ACA541B4F68404D40B": {
+      "id": "D82FE460D12D42ACA541B4F68404D40B",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "7.1",
+      "statementNotation": "MAN1",
+      "statementLabel": null,
+      "description": "Candidates should be aware of the effects upon; the skills required and not required, organisational structure, work patterns, internal procedures, the workforce (fears introduced by of change)",
+      "ancestorIds": [
+        "A284F7B91C8D4CB8997BEF4DFEB0EDC4"
+      ],
+      "parentId": "A284F7B91C8D4CB8997BEF4DFEB0EDC4"
+    },
+    "A284F7B91C8D4CB8997BEF4DFEB0EDC4": {
+      "id": "A284F7B91C8D4CB8997BEF4DFEB0EDC4",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 0,
+      "listId": "7",
+      "statementNotation": "MAN",
+      "statementLabel": null,
+      "description": "Management of\nChange",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7A6EC604E2714493B2E18791354586DC": {
+      "id": "7A6EC604E2714493B2E18791354586DC",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 1,
+      "listId": "6.8.1",
+      "statementNotation": "DBS9",
+      "statementLabel": null,
+      "description": "Candidates should be able to define a distributed database\nand discuss their advantages and disadvantages with\nreference to suitable examples. ",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "ACB54CDBC1544E78A6ACBE8CB14EB903": {
+      "id": "ACB54CDBC1544E78A6ACBE8CB14EB903",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 1,
+      "listId": "6.8",
+      "statementNotation": "DBS8",
+      "statementLabel": null,
+      "description": "The purpose of a database management system (DBMS),\nquery languages and data dictionaries. ",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "77D19B96DF1C4988BC4200AC601B22E7": {
+      "id": "77D19B96DF1C4988BC4200AC601B22E7",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 1,
+      "listId": "6.7",
+      "statementNotation": "DBS7",
+      "statementLabel": null,
+      "description": "Data warehousing and data mining. ",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "0340075A507C45B08751186B16F1C686": {
+      "id": "0340075A507C45B08751186B16F1C686",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "6.6",
+      "statementNotation": "DBS6",
+      "statementLabel": null,
+      "description": "Database security. Recognise that the individual user of a\ndatabase may be prevented from accessing particular\nelements of the information.",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "05D8B44180C740BA9F177D7C0E75491B": {
+      "id": "05D8B44180C740BA9F177D7C0E75491B",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 1,
+      "listId": "6.5",
+      "statementNotation": "DBS5",
+      "statementLabel": null,
+      "description": "Describe the advantages of different users having different\nviews of data",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "415DFA9102334FD6ADA7D31211942D73": {
+      "id": "415DFA9102334FD6ADA7D31211942D73",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "6.4",
+      "statementNotation": "DBS4",
+      "statementLabel": null,
+      "description": "Describe the use of primary keys, foreign keys and links. ",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "A705D148902D45369BFDDA261B03159F": {
+      "id": "A705D148902D45369BFDDA261B03159F",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "6.3",
+      "statementNotation": "DBS3",
+      "statementLabel": null,
+      "description": "Restructure data into normalised form.",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "CB490F195E784C97A33CCE90C880607E": {
+      "id": "CB490F195E784C97A33CCE90C880607E",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "6.2",
+      "statementNotation": "DBS2",
+      "statementLabel": null,
+      "description": "Explain the terms relational database organisation and data\nnormalisation.",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "49123C479DC74497AA8BBB3327208708": {
+      "id": "49123C479DC74497AA8BBB3327208708",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 1,
+      "listId": "6.1",
+      "statementNotation": "DBS1",
+      "statementLabel": null,
+      "description": "Explain the terms data consistency, data redundancy, data\nintegrity and data independence.",
+      "ancestorIds": [
+        "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+      ],
+      "parentId": "0D012CD7DC4D4A70AA4BBDF6671EF29A"
+    },
+    "0D012CD7DC4D4A70AA4BBDF6671EF29A": {
+      "id": "0D012CD7DC4D4A70AA4BBDF6671EF29A",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "DBS",
+      "statementLabel": null,
+      "description": "Database systems ",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BB434FD03FBC4969ABCCCB40D49BF7F9": {
+      "id": "BB434FD03FBC4969ABCCCB40D49BF7F9",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "5.5.1",
+      "statementNotation": "POL6",
+      "statementLabel": null,
+      "description": "Identify potential risks\nLikelihood of risk occurring\nShort and long term consequences of threat\nHow well equipped is the company to deal with threat",
+      "ancestorIds": [
+        "1E909994C4284C90ADD6AE357357C95B",
+        "050C03581C7E4D20939841366543179F"
+      ],
+      "parentId": "1E909994C4284C90ADD6AE357357C95B"
+    },
+    "1E909994C4284C90ADD6AE357357C95B": {
+      "id": "1E909994C4284C90ADD6AE357357C95B",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "5.5",
+      "statementNotation": "POL5",
+      "statementLabel": null,
+      "description": "Factors determining how\nmuch a company spends\nto develop control,\nminimising risk ",
+      "ancestorIds": [
+        "050C03581C7E4D20939841366543179F"
+      ],
+      "parentId": "050C03581C7E4D20939841366543179F"
+    },
+    "EAE194A3D81D44EE84C3ABF67C675CA2": {
+      "id": "EAE194A3D81D44EE84C3ABF67C675CA2",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "5.4",
+      "statementNotation": "POL4",
+      "statementLabel": null,
+      "description": "Methods for controlling access to computer rooms\nMethods of securing integrity of transmitted data e.g.\nencryption methods including private and public keys. Call\nback procedures for remote access\nEstablish firewalls\nProxy servers\nMethods to define security status and access rights for users\nMethods for physical protection of hardware and software\nSecurity of document filing systems.",
+      "ancestorIds": [
+        "050C03581C7E4D20939841366543179F"
+      ],
+      "parentId": "050C03581C7E4D20939841366543179F"
+    },
+    "07CF4ACC79CC48B88AB846A98A3BD73C": {
+      "id": "07CF4ACC79CC48B88AB846A98A3BD73C",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "5.3",
+      "statementNotation": "POL3",
+      "statementLabel": null,
+      "description": "Backup and recovery procedures\nStandard backups to floppy disc\nRAID systems – mirror discs (Redundant Array of\nInexpensive Disc)\nGrandfather, Father, Son systems\nBacking up program files.",
+      "ancestorIds": [
+        "050C03581C7E4D20939841366543179F"
+      ],
+      "parentId": "050C03581C7E4D20939841366543179F"
+    },
+    "634C9A60D769475FBEA52DEA9AF13036": {
+      "id": "634C9A60D769475FBEA52DEA9AF13036",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "5.2",
+      "statementNotation": "POL2",
+      "statementLabel": null,
+      "description": "Screening potential employees\nRoutines for distributing updated virus information and virus\nscanning procedures\nDefine procedures for downloading from the Internet, use of\nfloppy discs, personal backup procedures\nEstablish security rights for updating web pages\nEstablish a disaster recovery programme\nSet up auditing procedures (Audit trails) to detect misuse",
+      "ancestorIds": [
+        "050C03581C7E4D20939841366543179F"
+      ],
+      "parentId": "050C03581C7E4D20939841366543179F"
+    },
+    "70EB1E1ABE324898B1D14CEB3026D95A": {
+      "id": "70EB1E1ABE324898B1D14CEB3026D95A",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "5.1",
+      "statementNotation": "POL1",
+      "statementLabel": null,
+      "description": "Physical security\nPrevention of misuse\nAudit trails for detection\nContinuous investigation of irregularities\nSystem Access - establishing procedures for accessing data\nsuch as log on procedures, firewalls\nPersonnel administration\nOperational procedures including disaster recovery planning\nand dealing with threats from viruses\nStaff code of conduct and responsibilities\nDisciplinary procedures. ",
+      "ancestorIds": [
+        "050C03581C7E4D20939841366543179F"
+      ],
+      "parentId": "050C03581C7E4D20939841366543179F"
+    },
+    "050C03581C7E4D20939841366543179F": {
+      "id": "050C03581C7E4D20939841366543179F",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "POL",
+      "statementLabel": null,
+      "description": "Candidates should\nunderstand:\nthe potential threats and\nconsequences for data\nmisuse and understand the\nneed for backup procedures. Threats: Terrorism, Natural disasters,  Sabotage, Fire, Theft.. Consequences: Loss of business and income, Loss of reputation, Legal action\n",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "12FAE3E35E064F0DAAC099FBF69BED65": {
+      "id": "12FAE3E35E064F0DAAC099FBF69BED65",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "4.2.4",
+      "statementNotation": "WOR11",
+      "statementLabel": null,
+      "description": "Disinformation\nNot fully informing potential customers or clients of all\navailable facts concerning products or services e.g. imminent\nintroduction of new models.\nPrivacy\nInforming data subjects of their legal rights and processes for\ncomplying with those rights.\nMonitoring company emails.\nEmployment patterns\nEffects upon the workforce.\nPersonal empowerment.\nEquity\nInformation poor and information rich societies and the\nconsequences of such.\nIntellectual property rights\nOwnership rights to data.",
+      "ancestorIds": [
+        "2A52C3154D6146EE98149B67B299BC67",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "2A52C3154D6146EE98149B67B299BC67"
+    },
+    "2266DAC2E850407A997AA04C82CEDE58": {
+      "id": "2266DAC2E850407A997AA04C82CEDE58",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "4.2.3",
+      "statementNotation": "WOR10",
+      "statementLabel": null,
+      "description": "Responsibilities\nRespecting rights of others\nAbiding by current legislation\nProtecting hardware and software from malicious damage\nComplying with licensing agreements\nAuthorisation\nPermissions on data access\nSecurity defining rules about password disclosure, personal\nuse of emails and the Internet and data transfer rules\nPenalties for misuse, informal warnings, written warnings, dismissal, prosecution ",
+      "ancestorIds": [
+        "2A52C3154D6146EE98149B67B299BC67",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "2A52C3154D6146EE98149B67B299BC67"
+    },
+    "B224ABA2FB3C41DE8873C894A55F19A9": {
+      "id": "B224ABA2FB3C41DE8873C894A55F19A9",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "4.2.2",
+      "statementNotation": "WOR9",
+      "statementLabel": null,
+      "description": "Introduction of viruses. Misuse of ICT such as using an\norganisation’s printers for personal work. Using the Internet\nand running up telephone bills for own purposes, using\ncompany time for personal email.\nDistribution of material that is racially or sexually offensive.\nMisuse of data for illicit purposes.\nInappropriate use of mobiles phones – in restaurants,\nschools, public transport.\nBlackmail, computer fraud or selling to other organisations.\nViolating terms of copyright or software agreements.",
+      "ancestorIds": [
+        "2A52C3154D6146EE98149B67B299BC67",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "2A52C3154D6146EE98149B67B299BC67"
+    },
+    "17D07848FEED444E975929E7CF75D6DE": {
+      "id": "17D07848FEED444E975929E7CF75D6DE",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "4.2.1",
+      "statementNotation": "WOR8",
+      "statementLabel": null,
+      "description": "An agreement made by an employee to obey the rules of the\norganisation and work within specified guidelines as regards\nuse of ICT and the Internet. ",
+      "ancestorIds": [
+        "2A52C3154D6146EE98149B67B299BC67",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "2A52C3154D6146EE98149B67B299BC67"
+    },
+    "2A52C3154D6146EE98149B67B299BC67": {
+      "id": "2A52C3154D6146EE98149B67B299BC67",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 1,
+      "listId": "4.2",
+      "statementNotation": "WOR7",
+      "statementLabel": null,
+      "description": "Codes of Conduct ",
+      "ancestorIds": [
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "92CA2BAE8722495BA37F0DFD317103D7"
+    },
+    "7940BEE11EB84CD48DFCF59EC120809E": {
+      "id": "7940BEE11EB84CD48DFCF59EC120809E",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "4.1.5",
+      "statementNotation": "WOR6",
+      "statementLabel": null,
+      "description": "Advantages and disadvantages for the organisation and\nindividual ",
+      "ancestorIds": [
+        "5E1869C2A5094120A315DDE761B020DF",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "5E1869C2A5094120A315DDE761B020DF"
+    },
+    "A01BDB90019A436DB6B94F7B8309DF1E": {
+      "id": "A01BDB90019A436DB6B94F7B8309DF1E",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "4.1.4",
+      "statementNotation": "WOR5",
+      "statementLabel": null,
+      "description": "Use and associated hardware",
+      "ancestorIds": [
+        "5E1869C2A5094120A315DDE761B020DF",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "5E1869C2A5094120A315DDE761B020DF"
+    },
+    "B14D273F262F48A58944AB9FB671D289": {
+      "id": "B14D273F262F48A58944AB9FB671D289",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "4.1.3",
+      "statementNotation": "WOR4",
+      "statementLabel": null,
+      "description": "Advantages and disadvantages for the organisation and\nindividua",
+      "ancestorIds": [
+        "5E1869C2A5094120A315DDE761B020DF",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "5E1869C2A5094120A315DDE761B020DF"
+    },
+    "BDB3300C3C2241FC87B5D3A9E00536CD": {
+      "id": "BDB3300C3C2241FC87B5D3A9E00536CD",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "4.1.2",
+      "statementNotation": "WOR3",
+      "statementLabel": null,
+      "description": "Use and associated hardware. ",
+      "ancestorIds": [
+        "5E1869C2A5094120A315DDE761B020DF",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "5E1869C2A5094120A315DDE761B020DF"
+    },
+    "59AE49FA77B14977922400CC89F5AF0F": {
+      "id": "59AE49FA77B14977922400CC89F5AF0F",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "4.1.1",
+      "statementNotation": "WOR2",
+      "statementLabel": null,
+      "description": "‘Working from home using computer networks’.",
+      "ancestorIds": [
+        "5E1869C2A5094120A315DDE761B020DF",
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "5E1869C2A5094120A315DDE761B020DF"
+    },
+    "5E1869C2A5094120A315DDE761B020DF": {
+      "id": "5E1869C2A5094120A315DDE761B020DF",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "4.1",
+      "statementNotation": "WOR1",
+      "statementLabel": null,
+      "description": "Telecommuting ",
+      "ancestorIds": [
+        "92CA2BAE8722495BA37F0DFD317103D7"
+      ],
+      "parentId": "92CA2BAE8722495BA37F0DFD317103D7"
+    },
+    "92CA2BAE8722495BA37F0DFD317103D7": {
+      "id": "92CA2BAE8722495BA37F0DFD317103D7",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "WOR",
+      "statementLabel": null,
+      "description": "Working with ICT",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8A42AD6280584F2CB0FE05F5FB2AAE55": {
+      "id": "8A42AD6280584F2CB0FE05F5FB2AAE55",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "3.1",
+      "statementNotation": "HCI1",
+      "statementLabel": null,
+      "description": "Candidates should understand the importance of: consistency of signposting and pop up information, on screen help, layout appropriate to task, differentiation between user expertise, clear navigational structure, use by disabled people ",
+      "ancestorIds": [
+        "F93C1F2B783F4C31A8B58800E503964E"
+      ],
+      "parentId": "F93C1F2B783F4C31A8B58800E503964E"
+    },
+    "F93C1F2B783F4C31A8B58800E503964E": {
+      "id": "F93C1F2B783F4C31A8B58800E503964E",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "HCI",
+      "statementLabel": null,
+      "description": " Human Computer Interface (HCI) ",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7F412045CF7849D7B73B2F166DD9C7DC": {
+      "id": "7F412045CF7849D7B73B2F166DD9C7DC",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "INT8",
+      "statementLabel": null,
+      "description": "Candidates should show an awareness and understanding\nof:  censorship, accuracy of information, privacy, effects upon communities, ownership and control",
+      "ancestorIds": [
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "3BC59D59A4B640DD916ABCB6B4EE4507"
+    },
+    "C8EEF330CBBD43C68B38905F8AF9EEEC": {
+      "id": "C8EEF330CBBD43C68B38905F8AF9EEEC",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "2.2.2",
+      "statementNotation": "INT7",
+      "statementLabel": null,
+      "description": "describe the use of and the advantages and disadvantages\nof mobile access to the Internet. ",
+      "ancestorIds": [
+        "190AC364D4984AC4A80CE14CE579309A",
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "190AC364D4984AC4A80CE14CE579309A"
+    },
+    "1582CB02389A4535A889F5BEDEC9FFC8": {
+      "id": "1582CB02389A4535A889F5BEDEC9FFC8",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "2.2.1",
+      "statementNotation": "INT6",
+      "statementLabel": null,
+      "description": "describe the use of and the advantages and disadvantages\nof Dialup and Broadband; ",
+      "ancestorIds": [
+        "190AC364D4984AC4A80CE14CE579309A",
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "190AC364D4984AC4A80CE14CE579309A"
+    },
+    "190AC364D4984AC4A80CE14CE579309A": {
+      "id": "190AC364D4984AC4A80CE14CE579309A",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "INT5",
+      "statementLabel": null,
+      "description": "Connecting to the Internet",
+      "ancestorIds": [
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "3BC59D59A4B640DD916ABCB6B4EE4507"
+    },
+    "A8F3284BFD5548EBA3B7B70781B4BFAF": {
+      "id": "A8F3284BFD5548EBA3B7B70781B4BFAF",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "2.1.4",
+      "statementNotation": "INT4",
+      "statementLabel": null,
+      "description": "Distributed - computing\nusing the Internet\nShared processing across the Internet and its advantages\nand disadvantages e.g. WHO’s ‘Popular Power’ influenza\nresearch; music distribution; SETI research into radio\nsignals",
+      "ancestorIds": [
+        "457910FEFD164ABEA6D8B7B9C8B580DE",
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "457910FEFD164ABEA6D8B7B9C8B580DE"
+    },
+    "074D40812B474F1DAE407CF999EDE400": {
+      "id": "074D40812B474F1DAE407CF999EDE400",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "2.1.3",
+      "statementNotation": "INT3",
+      "statementLabel": null,
+      "description": " Online databases - How to access online information.\nHow a search engine works, how web pages are added to\nsearch engine lists.\nDefine and explain how the following can be used to access\ninformation: URL's, Web crawlers, Boolean searches, Hyperlinks",
+      "ancestorIds": [
+        "457910FEFD164ABEA6D8B7B9C8B580DE",
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "457910FEFD164ABEA6D8B7B9C8B580DE"
+    },
+    "826AA5EF758A4543BB627785F6496126": {
+      "id": "826AA5EF758A4543BB627785F6496126",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "2.1.2",
+      "statementNotation": "INT2",
+      "statementLabel": null,
+      "description": "Candidates should\nunderstand the use of\nassociated hardware and the\nadvantages and\ndisadvantages of: E-commerce- The requirements of interactive shopping, for example\nmaintaining a company website, catalogue of stock, methods\nof secure payment, database of customer orders.\n",
+      "ancestorIds": [
+        "457910FEFD164ABEA6D8B7B9C8B580DE",
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "457910FEFD164ABEA6D8B7B9C8B580DE"
+    },
+    "FC153488BEBA464A8310BEE380715F62": {
+      "id": "FC153488BEBA464A8310BEE380715F62",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "2.1.1",
+      "statementNotation": "INT1",
+      "statementLabel": null,
+      "description": "Candidates should\nunderstand the use of\nassociated hardware and the\nadvantages and\ndisadvantages of: FTP - Distribution of information between business and other\norganisations.",
+      "ancestorIds": [
+        "457910FEFD164ABEA6D8B7B9C8B580DE",
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "457910FEFD164ABEA6D8B7B9C8B580DE"
+    },
+    "457910FEFD164ABEA6D8B7B9C8B580DE": {
+      "id": "457910FEFD164ABEA6D8B7B9C8B580DE",
+      "asnIdentifier": null,
+      "position": 14001,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "INT",
+      "statementLabel": null,
+      "description": "The Impact of the Internet upon Business ",
+      "ancestorIds": [
+        "3BC59D59A4B640DD916ABCB6B4EE4507"
+      ],
+      "parentId": "3BC59D59A4B640DD916ABCB6B4EE4507"
+    },
+    "3BC59D59A4B640DD916ABCB6B4EE4507": {
+      "id": "3BC59D59A4B640DD916ABCB6B4EE4507",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "IN",
+      "statementLabel": null,
+      "description": "Candidates should recognise the Internet as a network of\nnetworks.  ",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "26DDDB00FF354A9B92A744B2CEE1FF04": {
+      "id": "26DDDB00FF354A9B92A744B2CEE1FF04",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1.6.1",
+      "statementNotation": "NM2",
+      "statementLabel": null,
+      "description": "User accounts and logs; security strategies;\nconfiguration management; remote management;\ndisaster planning (backup and restoration);\nauditing (keeping logs)",
+      "ancestorIds": [
+        "E11A041DCB2740D2BFA4D0B6D8F5A15A",
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "E11A041DCB2740D2BFA4D0B6D8F5A15A"
+    },
+    "E11A041DCB2740D2BFA4D0B6D8F5A15A": {
+      "id": "E11A041DCB2740D2BFA4D0B6D8F5A15A",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "1.6",
+      "statementNotation": "NM1",
+      "statementLabel": null,
+      "description": "Network management, administration and problem solving strategies ",
+      "ancestorIds": [
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+    },
+    "86CDEA98489040F49A9AFAEBAD0E04DD": {
+      "id": "86CDEA98489040F49A9AFAEBAD0E04DD",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "1.5",
+      "statementNotation": "SC1",
+      "statementLabel": null,
+      "description": "Software components ",
+      "ancestorIds": [
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+    },
+    "F0228C433CBA4DC4972974D13ABDC33C": {
+      "id": "F0228C433CBA4DC4972974D13ABDC33C",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1.4.1",
+      "statementNotation": "WN2",
+      "statementLabel": null,
+      "description": "Advantages and disadvantages of wireless networks",
+      "ancestorIds": [
+        "0B7ADBC598B64A52815D844BFC696EBC",
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "0B7ADBC598B64A52815D844BFC696EBC"
+    },
+    "0B7ADBC598B64A52815D844BFC696EBC": {
+      "id": "0B7ADBC598B64A52815D844BFC696EBC",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "1.4",
+      "statementNotation": "WN1",
+      "statementLabel": null,
+      "description": "Wireless Networking",
+      "ancestorIds": [
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+    },
+    "B8A1ECA8EB404597A1B66583E1FB3D6C": {
+      "id": "B8A1ECA8EB404597A1B66583E1FB3D6C",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1.3.2",
+      "statementNotation": "NT3",
+      "statementLabel": null,
+      "description": "Advantages and disadvantages of different network\ntopologies",
+      "ancestorIds": [
+        "9D8766ED55264077AE447D2C08846493",
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "9D8766ED55264077AE447D2C08846493"
+    },
+    "C937FDB37D3647EEA006D6DA7DAE15B2": {
+      "id": "C937FDB37D3647EEA006D6DA7DAE15B2",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "1.3.1",
+      "statementNotation": "NT2",
+      "statementLabel": null,
+      "description": "Bus/Ethernet; Ring; Star; Suitable topologies for LAN and WAN",
+      "ancestorIds": [
+        "9D8766ED55264077AE447D2C08846493",
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "9D8766ED55264077AE447D2C08846493"
+    },
+    "9D8766ED55264077AE447D2C08846493": {
+      "id": "9D8766ED55264077AE447D2C08846493",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "1.3",
+      "statementNotation": "NT1",
+      "statementLabel": null,
+      "description": "Network topologies",
+      "ancestorIds": [
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+    },
+    "C2D6AC599C58441B870DB84CDB5C096C": {
+      "id": "C2D6AC599C58441B870DB84CDB5C096C",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "1.2.1",
+      "statementNotation": "TN2",
+      "statementLabel": null,
+      "description": "Candidates should understand the advantages and\ndisadvantages of: client server networks, peer to peer networks",
+      "ancestorIds": [
+        "7D79263427D447E4986D5226A1E8BB82",
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "7D79263427D447E4986D5226A1E8BB82"
+    },
+    "7D79263427D447E4986D5226A1E8BB82": {
+      "id": "7D79263427D447E4986D5226A1E8BB82",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "TN1",
+      "statementLabel": null,
+      "description": "Types of networks available and the use of associated hardware ",
+      "ancestorIds": [
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+    },
+    "7E981C126E2545C6B08FD2E00ACFB188": {
+      "id": "7E981C126E2545C6B08FD2E00ACFB188",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1.1.1",
+      "statementNotation": "CN2",
+      "statementLabel": null,
+      "description": "Candidates should understand the factors which influence\nchoice: cost of network, size of organisation, how the system will be used, existing systems, performance required, security issues",
+      "ancestorIds": [
+        "AE844CB84BC34D7BBDC262B12EF33488",
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "AE844CB84BC34D7BBDC262B12EF33488"
+    },
+    "AE844CB84BC34D7BBDC262B12EF33488": {
+      "id": "AE844CB84BC34D7BBDC262B12EF33488",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "CN1",
+      "statementLabel": null,
+      "description": "Choosing a Network for a Company",
+      "ancestorIds": [
+        "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+      ],
+      "parentId": "8ABC4D2B09BC4BCF87D66EDCA9C1849D"
+    },
+    "8ABC4D2B09BC4BCF87D66EDCA9C1849D": {
+      "id": "8ABC4D2B09BC4BCF87D66EDCA9C1849D",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "N",
+      "statementLabel": null,
+      "description": "Networks ",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,746 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2775638_grades-09-10-11-12",
+  "title": "Advanced Finite Mathematics (2016)",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2775638",
+    "valid": "2016",
+    "title": "Advanced Finite Mathematics",
+    "sourceURL": "http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Curriculum-and-Instruction/Documents/Mathematics/Advanced-Finite-Mathematics-Standards.pdf",
+    "asnIdentifier": "D2775638",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "8D01EEBCFDDD4116B51BD7A2C39DB91A": {
+      "id": "8D01EEBCFDDD4116B51BD7A2C39DB91A",
+      "asnIdentifier": "S2784855",
+      "position": 59000,
+      "depth": 1,
+      "statementNotation": "MAFM.MP.5",
+      "description": "Use the method of mathematical induction to prove statements involving the positive integers. For example, prove that 3 divides 2<sup>2n</sup> – 1 for all positive integers n; prove that 1 + 2 + 3 + … + n = n(n + 1)/2; prove that a given recursive sequence has a closed form expression.",
+      "ancestorIds": [
+        "5D4E744C169041FAB8812D3A147F33D9"
+      ],
+      "parentId": "5D4E744C169041FAB8812D3A147F33D9"
+    },
+    "9EC84EF644804CBD8A1FF2752433707F": {
+      "id": "9EC84EF644804CBD8A1FF2752433707F",
+      "asnIdentifier": "S2784854",
+      "position": 58000,
+      "depth": 1,
+      "statementNotation": "MAFM.MP.4",
+      "description": "Apply the method of reductio ad absurdum (\"proof by contradiction\") to prove statements, such as proving that there are infinitely many prime numbers.",
+      "ancestorIds": [
+        "5D4E744C169041FAB8812D3A147F33D9"
+      ],
+      "parentId": "5D4E744C169041FAB8812D3A147F33D9"
+    },
+    "B7AC02AB103F4490885CD85489F293AA": {
+      "id": "B7AC02AB103F4490885CD85489F293AA",
+      "asnIdentifier": "S2784853",
+      "position": 57000,
+      "depth": 1,
+      "statementNotation": "MAFM.MP.3",
+      "description": "Prove statements indirectly by proving the contrapositive of the statement. For example, prove that if the square of an integer is even, then the integer is even, by instead proving that if an integer is odd, then its square is odd.",
+      "ancestorIds": [
+        "5D4E744C169041FAB8812D3A147F33D9"
+      ],
+      "parentId": "5D4E744C169041FAB8812D3A147F33D9"
+    },
+    "958F9BC3046C46EDA58B1B32AF9E20A2": {
+      "id": "958F9BC3046C46EDA58B1B32AF9E20A2",
+      "asnIdentifier": "S2784852",
+      "position": 56000,
+      "depth": 1,
+      "statementNotation": "MAFM.MP.2",
+      "description": "Prove statements directly from definitions and previously proved statements. For example, using the definition of \"rational number\", prove that every integer is rational; using the definition of \"divides\", prove that if a divides b and b divides a, then a equals b.",
+      "ancestorIds": [
+        "5D4E744C169041FAB8812D3A147F33D9"
+      ],
+      "parentId": "5D4E744C169041FAB8812D3A147F33D9"
+    },
+    "31EEBFFCD513401695D1853D4380440A": {
+      "id": "31EEBFFCD513401695D1853D4380440A",
+      "asnIdentifier": "S2784851",
+      "position": 55000,
+      "depth": 1,
+      "statementNotation": "MAFM.MP.1",
+      "description": "Use a counterexample to disprove a statement. For example, the statement \"there exists a positive integer n such that n² + 3n + 2 is prime\" is disproved by the counterexample n = 3.",
+      "ancestorIds": [
+        "5D4E744C169041FAB8812D3A147F33D9"
+      ],
+      "parentId": "5D4E744C169041FAB8812D3A147F33D9"
+    },
+    "5D4E744C169041FAB8812D3A147F33D9": {
+      "id": "5D4E744C169041FAB8812D3A147F33D9",
+      "asnIdentifier": "S2784850",
+      "position": 54000,
+      "depth": 0,
+      "description": "Methods of Proof MP",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FE411F8881B54F4B87804FEB36F82CE6": {
+      "id": "FE411F8881B54F4B87804FEB36F82CE6",
+      "asnIdentifier": "S2784849",
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "MAFM.GT.6",
+      "description": "Use Kruskal's algorithm and Prim's algorithm to determine the minimal spanning tree of a weighted graph.",
+      "ancestorIds": [
+        "07835748A40241188BE7C6860DB5433E",
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "07835748A40241188BE7C6860DB5433E"
+    },
+    "9539B6EE11774D3ABD8404AFDB8D7FCC": {
+      "id": "9539B6EE11774D3ABD8404AFDB8D7FCC",
+      "asnIdentifier": "S2784848",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "MAFM.GT.5",
+      "description": "Prove that every connected graph has a minimal spanning tree.",
+      "ancestorIds": [
+        "07835748A40241188BE7C6860DB5433E",
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "07835748A40241188BE7C6860DB5433E"
+    },
+    "07835748A40241188BE7C6860DB5433E": {
+      "id": "07835748A40241188BE7C6860DB5433E",
+      "asnIdentifier": "S2784847",
+      "position": 51000,
+      "depth": 1,
+      "description": "Apply graph theory.",
+      "ancestorIds": [
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "D9ED71600A044BBA9270AFE750DE4E8D"
+    },
+    "189C8C104A2F411CA84305835F30824A": {
+      "id": "189C8C104A2F411CA84305835F30824A",
+      "asnIdentifier": "S2784846",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "MAFM.GT.4",
+      "description": "Prove statements about graph properties. For example, prove that a graph has an even number of vertices of odd degree; prove that a graph has an Euler cycle if and only if the graph is connected and every vertex has even degree; prove that any tree with n vertices has n – 1 edges.",
+      "ancestorIds": [
+        "8A86417E64A8468391B55D15017FD991",
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "8A86417E64A8468391B55D15017FD991"
+    },
+    "8A86417E64A8468391B55D15017FD991": {
+      "id": "8A86417E64A8468391B55D15017FD991",
+      "asnIdentifier": "S2784845",
+      "position": 49000,
+      "depth": 1,
+      "description": "Prove statements in graph theory.",
+      "ancestorIds": [
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "D9ED71600A044BBA9270AFE750DE4E8D"
+    },
+    "E5D440F5C7CE46269CF71A47319DF763": {
+      "id": "E5D440F5C7CE46269CF71A47319DF763",
+      "asnIdentifier": "S2784844",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "MAFM.GT.3",
+      "description": "Use the adjacency matrix of a graph to determine the number of walks of length n in a graph.",
+      "ancestorIds": [
+        "8A937F0CD83842E79CB5D3F0C613C835",
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "8A937F0CD83842E79CB5D3F0C613C835"
+    },
+    "6AABD610CC9244A296B570EBC5C3CBB5": {
+      "id": "6AABD610CC9244A296B570EBC5C3CBB5",
+      "asnIdentifier": "S2784843",
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "MAFM.GT.2",
+      "description": "Determine the complement of a graph and the line graph of a graph.",
+      "ancestorIds": [
+        "8A937F0CD83842E79CB5D3F0C613C835",
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "8A937F0CD83842E79CB5D3F0C613C835"
+    },
+    "D49882653C30435F8696BA3350AAE631": {
+      "id": "D49882653C30435F8696BA3350AAE631",
+      "asnIdentifier": "S2784842",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "MAFM.GT.1",
+      "description": "Identify simple graphs, complete graphs, complete bipartite graphs, and trees. Identify graphs that have Euler and Hamiltonian cycles.",
+      "ancestorIds": [
+        "8A937F0CD83842E79CB5D3F0C613C835",
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "8A937F0CD83842E79CB5D3F0C613C835"
+    },
+    "8A937F0CD83842E79CB5D3F0C613C835": {
+      "id": "8A937F0CD83842E79CB5D3F0C613C835",
+      "asnIdentifier": "S2784841",
+      "position": 45000,
+      "depth": 1,
+      "description": "Use and recognize graph properties.",
+      "ancestorIds": [
+        "D9ED71600A044BBA9270AFE750DE4E8D"
+      ],
+      "parentId": "D9ED71600A044BBA9270AFE750DE4E8D"
+    },
+    "D9ED71600A044BBA9270AFE750DE4E8D": {
+      "id": "D9ED71600A044BBA9270AFE750DE4E8D",
+      "asnIdentifier": "S2784840",
+      "position": 44000,
+      "depth": 0,
+      "description": "Graph Theory",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "85E37C047D5F4E50BC6A0C08EC41735D": {
+      "id": "85E37C047D5F4E50BC6A0C08EC41735D",
+      "asnIdentifier": "S2784839",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.10",
+      "description": "Use the pigeonhole principle to prove statements about counting.",
+      "ancestorIds": [
+        "19F6F5879D014379A4505118BCE53201",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "19F6F5879D014379A4505118BCE53201"
+    },
+    "B8B5D3F592494D338FFC88E9994660AB": {
+      "id": "B8B5D3F592494D338FFC88E9994660AB",
+      "asnIdentifier": "S2784838",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.9",
+      "description": "Apply a combinatorial argument to prove the binomial theorem.",
+      "ancestorIds": [
+        "19F6F5879D014379A4505118BCE53201",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "19F6F5879D014379A4505118BCE53201"
+    },
+    "0B6C0F85AF1E4425BDD67B2AC26A3C30": {
+      "id": "0B6C0F85AF1E4425BDD67B2AC26A3C30",
+      "asnIdentifier": "S2784837",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.8",
+      "description": "Prove combinatorial identities. For example, prove that n + 1 choose r is equal to n choose r – 1 plus n choose r; prove that the sum of the entries in the kth row of Pascal's triangle is 2<sup>k</sup> (where the first row is row 0).",
+      "ancestorIds": [
+        "19F6F5879D014379A4505118BCE53201",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "19F6F5879D014379A4505118BCE53201"
+    },
+    "19F6F5879D014379A4505118BCE53201": {
+      "id": "19F6F5879D014379A4505118BCE53201",
+      "asnIdentifier": "S2784836",
+      "position": 40000,
+      "depth": 1,
+      "description": "Prove statements involving combinatorics.",
+      "ancestorIds": [
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "6B4D17FDE27E4BEF9BB2846D0F324422"
+    },
+    "92E2A603EB804672BFB4D8D9D5362F2E": {
+      "id": "92E2A603EB804672BFB4D8D9D5362F2E",
+      "asnIdentifier": "S2784835",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.7",
+      "description": "Calculate the number of combinations with repetitions of r elements from a set of n elements as n + r – 1 choose r.",
+      "ancestorIds": [
+        "9A595E4F0BE74FE58FE0A93CEE15D57B",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "9A595E4F0BE74FE58FE0A93CEE15D57B"
+    },
+    "C2D7705D4E3A4E5491A018F302BDAD7F": {
+      "id": "C2D7705D4E3A4E5491A018F302BDAD7F",
+      "asnIdentifier": "S2784834",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.6",
+      "description": "Calculate the number of subsets of size r that can be chosen from a set of n elements. Recognize this number as the number of combinations \"n choose r\".",
+      "ancestorIds": [
+        "9A595E4F0BE74FE58FE0A93CEE15D57B",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "9A595E4F0BE74FE58FE0A93CEE15D57B"
+    },
+    "E3A869FF787447D7AB44A0092DBA3FC3": {
+      "id": "E3A869FF787447D7AB44A0092DBA3FC3",
+      "asnIdentifier": "S2784833",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.5",
+      "description": "Calculate the number of permutations of a set with n elements. Calculate the number of permutations of r elements taken from a set of n elements.",
+      "ancestorIds": [
+        "9A595E4F0BE74FE58FE0A93CEE15D57B",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "9A595E4F0BE74FE58FE0A93CEE15D57B"
+    },
+    "9A595E4F0BE74FE58FE0A93CEE15D57B": {
+      "id": "9A595E4F0BE74FE58FE0A93CEE15D57B",
+      "asnIdentifier": "S2784832",
+      "position": 36000,
+      "depth": 1,
+      "description": "Use methods of counting.",
+      "ancestorIds": [
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "6B4D17FDE27E4BEF9BB2846D0F324422"
+    },
+    "CE63CF30E49B42739F694DA34EA04CDF": {
+      "id": "CE63CF30E49B42739F694DA34EA04CDF",
+      "asnIdentifier": "S2784831",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.4",
+      "description": "Apply Bayes' Theorem to determine conditional probability.",
+      "ancestorIds": [
+        "F29B9CDE5C6249F9B8FAC786BB5EB3F1",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "F29B9CDE5C6249F9B8FAC786BB5EB3F1"
+    },
+    "E48A2864217D4F66AB5E350A0F6C10FA": {
+      "id": "E48A2864217D4F66AB5E350A0F6C10FA",
+      "asnIdentifier": "S2784830",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.3",
+      "description": "Apply probabilistic methods to determine the expected value of a random process.",
+      "ancestorIds": [
+        "F29B9CDE5C6249F9B8FAC786BB5EB3F1",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "F29B9CDE5C6249F9B8FAC786BB5EB3F1"
+    },
+    "D15518D23E0D4C81989C699AE38E3160": {
+      "id": "D15518D23E0D4C81989C699AE38E3160",
+      "asnIdentifier": "S2784829",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.2",
+      "description": "Apply the axioms of probability to determine the probability of dependent and independent events, including use of the multiplication rule for independent events.",
+      "ancestorIds": [
+        "F29B9CDE5C6249F9B8FAC786BB5EB3F1",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "F29B9CDE5C6249F9B8FAC786BB5EB3F1"
+    },
+    "46EAE6D02753494C97FA6CFC4E94D76F": {
+      "id": "46EAE6D02753494C97FA6CFC4E94D76F",
+      "asnIdentifier": "S2784828",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "MAFM.PC.1",
+      "description": "Use the addition rule to count the number of outcomes in a disjoint set of sample spaces. Use the principle of inclusion-exclusion to count the number of outcomes in the union of space spaces.",
+      "ancestorIds": [
+        "F29B9CDE5C6249F9B8FAC786BB5EB3F1",
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "F29B9CDE5C6249F9B8FAC786BB5EB3F1"
+    },
+    "F29B9CDE5C6249F9B8FAC786BB5EB3F1": {
+      "id": "F29B9CDE5C6249F9B8FAC786BB5EB3F1",
+      "asnIdentifier": "S2784827",
+      "position": 31000,
+      "depth": 1,
+      "description": "Calculate the probability of events.",
+      "ancestorIds": [
+        "6B4D17FDE27E4BEF9BB2846D0F324422"
+      ],
+      "parentId": "6B4D17FDE27E4BEF9BB2846D0F324422"
+    },
+    "6B4D17FDE27E4BEF9BB2846D0F324422": {
+      "id": "6B4D17FDE27E4BEF9BB2846D0F324422",
+      "asnIdentifier": "S2784826",
+      "position": 30000,
+      "depth": 0,
+      "description": "Probability and Combinatorics",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E1F23A5A878B4304A72E194235B8B740": {
+      "id": "E1F23A5A878B4304A72E194235B8B740",
+      "asnIdentifier": "S2784825",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.8",
+      "description": "Apply the RSA algorithm to encrypt a numerically coded message and to decode an encoded message.",
+      "ancestorIds": [
+        "FCE706C83CB6464AAACD96D59A5DDB35",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "FCE706C83CB6464AAACD96D59A5DDB35"
+    },
+    "FCE706C83CB6464AAACD96D59A5DDB35": {
+      "id": "FCE706C83CB6464AAACD96D59A5DDB35",
+      "asnIdentifier": "S2784824",
+      "position": 28000,
+      "depth": 1,
+      "description": "Apply number theory.",
+      "ancestorIds": [
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "CAE88A529F0D486BBC50CB9B3AED1CAA"
+    },
+    "958F5385FF2B4AA193B54ACFF3BFC7F3": {
+      "id": "958F5385FF2B4AA193B54ACFF3BFC7F3",
+      "asnIdentifier": "S2784823",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.7",
+      "description": "Prove the Fundamental Theorem of Arithmetic, the Euclidean algorithm, and Fermat's Little Theorem.",
+      "ancestorIds": [
+        "B43B864762E74F57944C1D45B87A3D61",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "B43B864762E74F57944C1D45B87A3D61"
+    },
+    "7CA14F04A3674F7CB86AE4B0065DFE55": {
+      "id": "7CA14F04A3674F7CB86AE4B0065DFE55",
+      "asnIdentifier": "S2784822",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.6",
+      "description": "Prove statements involving the floor and ceiling functions. For example, for every integer n, prove that the floor of n/2 is equal to n/2 if n is even and equal to (n – 1)/2 if n is odd.",
+      "ancestorIds": [
+        "B43B864762E74F57944C1D45B87A3D61",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "B43B864762E74F57944C1D45B87A3D61"
+    },
+    "CA7F5EF6C86049758F98775ABF99B0EA": {
+      "id": "CA7F5EF6C86049758F98775ABF99B0EA",
+      "asnIdentifier": "S2784821",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.5",
+      "description": "Prove statements involving properties of numbers. For example, prove that the sum of two rational numbers is rational; prove that if a is even and b is odd, then (a² + b² + 1)/2 is an integer; prove that any odd number squared is of the form 8k + 1 for some integer k; prove that the square root of 2 is irrational.",
+      "ancestorIds": [
+        "B43B864762E74F57944C1D45B87A3D61",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "B43B864762E74F57944C1D45B87A3D61"
+    },
+    "B43B864762E74F57944C1D45B87A3D61": {
+      "id": "B43B864762E74F57944C1D45B87A3D61",
+      "asnIdentifier": "S2784820",
+      "position": 24000,
+      "depth": 1,
+      "description": "Prove statements in number theory.",
+      "ancestorIds": [
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "CAE88A529F0D486BBC50CB9B3AED1CAA"
+    },
+    "9D324A0967E24132BD773485DEC1D9F8": {
+      "id": "9D324A0967E24132BD773485DEC1D9F8",
+      "asnIdentifier": "S2784819",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.3",
+      "description": "Calculate the floor and the ceiling of a real number.",
+      "ancestorIds": [
+        "EB2FEB2583BB4CDAB1CC8DD0E4070C12",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "EB2FEB2583BB4CDAB1CC8DD0E4070C12"
+    },
+    "73336C042500481B989709BAFE8791BF": {
+      "id": "73336C042500481B989709BAFE8791BF",
+      "asnIdentifier": "S2784818",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.2",
+      "description": "Determine the inverse of an integer for a certain modulus.",
+      "ancestorIds": [
+        "EB2FEB2583BB4CDAB1CC8DD0E4070C12",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "EB2FEB2583BB4CDAB1CC8DD0E4070C12"
+    },
+    "0994A91152F6482F85015D816AC3E9EA": {
+      "id": "0994A91152F6482F85015D816AC3E9EA",
+      "asnIdentifier": "S2784817",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "MAFM.NT.1",
+      "description": "Apply the \"divides\" relation to positive integers. Calculate one integer modulo another integer; that is calculate a mod n for some integers a and n.",
+      "ancestorIds": [
+        "EB2FEB2583BB4CDAB1CC8DD0E4070C12",
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "EB2FEB2583BB4CDAB1CC8DD0E4070C12"
+    },
+    "EB2FEB2583BB4CDAB1CC8DD0E4070C12": {
+      "id": "EB2FEB2583BB4CDAB1CC8DD0E4070C12",
+      "asnIdentifier": "S2784816",
+      "position": 20000,
+      "depth": 1,
+      "description": "Use number-theoretic operations.",
+      "ancestorIds": [
+        "CAE88A529F0D486BBC50CB9B3AED1CAA"
+      ],
+      "parentId": "CAE88A529F0D486BBC50CB9B3AED1CAA"
+    },
+    "CAE88A529F0D486BBC50CB9B3AED1CAA": {
+      "id": "CAE88A529F0D486BBC50CB9B3AED1CAA",
+      "asnIdentifier": "S2784815",
+      "position": 19000,
+      "depth": 0,
+      "description": "Number Theory",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "156FEB1C5A34451B8694AD9D97FD204B": {
+      "id": "156FEB1C5A34451B8694AD9D97FD204B",
+      "asnIdentifier": "S2784814",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.9",
+      "description": "Prove statements in Boolean algebra.",
+      "ancestorIds": [
+        "3C20BDCDE8AB4AB395A54A60BEFBE3A4",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "3C20BDCDE8AB4AB395A54A60BEFBE3A4"
+    },
+    "706F0E999A544D579BBDC6E4CBEC3EDB": {
+      "id": "706F0E999A544D579BBDC6E4CBEC3EDB",
+      "asnIdentifier": "S2784813",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.8",
+      "description": "Convert binary and hexadecimal numbers into decimal, and convert from binary to hexadecimal, and vice versa. Use the method of 2's complement to subtract binary integers.",
+      "ancestorIds": [
+        "3C20BDCDE8AB4AB395A54A60BEFBE3A4",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "3C20BDCDE8AB4AB395A54A60BEFBE3A4"
+    },
+    "FE6C3E90C19B40B9AF5F69B628F998BC": {
+      "id": "FE6C3E90C19B40B9AF5F69B628F998BC",
+      "asnIdentifier": "S2784812",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.7",
+      "description": "Represent the dichotomy between \"true\" and \"false\" with 1s and 0s. Use 1s and 0s to calculate whether a statement is true or false by constructing Boolean logic circuits.",
+      "ancestorIds": [
+        "3C20BDCDE8AB4AB395A54A60BEFBE3A4",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "3C20BDCDE8AB4AB395A54A60BEFBE3A4"
+    },
+    "3C20BDCDE8AB4AB395A54A60BEFBE3A4": {
+      "id": "3C20BDCDE8AB4AB395A54A60BEFBE3A4",
+      "asnIdentifier": "S2784811",
+      "position": 15000,
+      "depth": 1,
+      "description": "Use and interpret Boolean algebra.",
+      "ancestorIds": [
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "DC3E3CB7F6554B77BED2DA2169F72472"
+    },
+    "77B97513E85E4B77AB9075D9AC93A24F": {
+      "id": "77B97513E85E4B77AB9075D9AC93A24F",
+      "asnIdentifier": "S2784810",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.6",
+      "description": "Prove set relations, including DeMorgan's Laws and equivalence relations. For example, given two sets A and B, prove that the intersection of A and B is a subset of A and a subset of B; prove that the empty set is unique and is a subset of every set.",
+      "ancestorIds": [
+        "D9FA02358A4948A4A20C3BB820821E2D",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "D9FA02358A4948A4A20C3BB820821E2D"
+    },
+    "734D18B66C11438D9F024929CDACF816": {
+      "id": "734D18B66C11438D9F024929CDACF816",
+      "asnIdentifier": "S2784809",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.5",
+      "description": "Understand that an equivalence class is a partition of a set determined by an equivalence relation. Determine an equivalence class given the equivalence relation on a set.",
+      "ancestorIds": [
+        "D9FA02358A4948A4A20C3BB820821E2D",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "D9FA02358A4948A4A20C3BB820821E2D"
+    },
+    "A36F2D085FD1497585DEBD31E37E81D3": {
+      "id": "A36F2D085FD1497585DEBD31E37E81D3",
+      "asnIdentifier": "S2784808",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.4",
+      "description": "Given a relation on two sets, determine whether the relation is a function and determine the relation's inverse relation, if it exists.",
+      "ancestorIds": [
+        "D9FA02358A4948A4A20C3BB820821E2D",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "D9FA02358A4948A4A20C3BB820821E2D"
+    },
+    "EF9A2CB22B7B4644ACEC5912690A6F4B": {
+      "id": "EF9A2CB22B7B4644ACEC5912690A6F4B",
+      "asnIdentifier": "S2784807",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.3",
+      "description": "Understand that a function on two sets is a bijective relation on two sets.",
+      "ancestorIds": [
+        "D9FA02358A4948A4A20C3BB820821E2D",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "D9FA02358A4948A4A20C3BB820821E2D"
+    },
+    "DF6D92593C0540ABB586966E5C5AAD99": {
+      "id": "DF6D92593C0540ABB586966E5C5AAD99",
+      "asnIdentifier": "S2784806",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.2",
+      "description": "Understand that a partitioning of a set is to split its elements into disjoint subsets.",
+      "ancestorIds": [
+        "D9FA02358A4948A4A20C3BB820821E2D",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "D9FA02358A4948A4A20C3BB820821E2D"
+    },
+    "3473C0E59D9C494B98CEB9D273F51FA6": {
+      "id": "3473C0E59D9C494B98CEB9D273F51FA6",
+      "asnIdentifier": "S2784805",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "MAFM.ST.1",
+      "description": "Calculate the union, intersection, difference, and Cartesian product of two sets. Determine whether two sets are equal. Determine whether one set is a subset of another. Determine the power set and the complement of a set.",
+      "ancestorIds": [
+        "D9FA02358A4948A4A20C3BB820821E2D",
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "D9FA02358A4948A4A20C3BB820821E2D"
+    },
+    "D9FA02358A4948A4A20C3BB820821E2D": {
+      "id": "D9FA02358A4948A4A20C3BB820821E2D",
+      "asnIdentifier": "S2784804",
+      "position": 8000,
+      "depth": 1,
+      "description": "Use set theoretic operations.",
+      "ancestorIds": [
+        "DC3E3CB7F6554B77BED2DA2169F72472"
+      ],
+      "parentId": "DC3E3CB7F6554B77BED2DA2169F72472"
+    },
+    "DC3E3CB7F6554B77BED2DA2169F72472": {
+      "id": "DC3E3CB7F6554B77BED2DA2169F72472",
+      "asnIdentifier": "S2784803",
+      "position": 7000,
+      "depth": 0,
+      "description": "Set Theory",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CA09D21038D842F1BA31703712C724A8": {
+      "id": "CA09D21038D842F1BA31703712C724A8",
+      "asnIdentifier": "S2784802",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "MAFM.LR.4",
+      "description": "Write and determine the truth of the negation, the converse, and the inverse of a conditional statement and understand that the contrapositive of a statement is logically equivalent to the statement.",
+      "ancestorIds": [
+        "E1CA887744FA4F9FABF0E147A90C614C",
+        "CD58FF9AAF8D447D9669B26CFB1F6870"
+      ],
+      "parentId": "E1CA887744FA4F9FABF0E147A90C614C"
+    },
+    "BC55A6CF084747A6B7AA9F179542ED96": {
+      "id": "BC55A6CF084747A6B7AA9F179542ED96",
+      "asnIdentifier": "S2784801",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "MAFM.LR.3",
+      "description": "Determine whether a logical argument is valid or invalid, and determine whether a logical argument is a tautology or a contradiction.",
+      "ancestorIds": [
+        "E1CA887744FA4F9FABF0E147A90C614C",
+        "CD58FF9AAF8D447D9669B26CFB1F6870"
+      ],
+      "parentId": "E1CA887744FA4F9FABF0E147A90C614C"
+    },
+    "BFD6885FADDD4EC2B41C6F3669CDF7D6": {
+      "id": "BFD6885FADDD4EC2B41C6F3669CDF7D6",
+      "asnIdentifier": "S2784800",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "MAFM.LR.2",
+      "description": "Represent logic operations such as AND, OR, NOT, NOR, and XOR (exclusive OR) using logical symbolism, determine whether statements involving these operations are true or false, and interpret such symbols into English.",
+      "ancestorIds": [
+        "E1CA887744FA4F9FABF0E147A90C614C",
+        "CD58FF9AAF8D447D9669B26CFB1F6870"
+      ],
+      "parentId": "E1CA887744FA4F9FABF0E147A90C614C"
+    },
+    "DECE23514BBD46D194DA5023C9129897": {
+      "id": "DECE23514BBD46D194DA5023C9129897",
+      "asnIdentifier": "S2784799",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "MAFM.LR.1",
+      "description": "Represent statements, including conditional, biconditional, and quantified statements, using truth tables to determine whether the statement is true or false.",
+      "ancestorIds": [
+        "E1CA887744FA4F9FABF0E147A90C614C",
+        "CD58FF9AAF8D447D9669B26CFB1F6870"
+      ],
+      "parentId": "E1CA887744FA4F9FABF0E147A90C614C"
+    },
+    "E1CA887744FA4F9FABF0E147A90C614C": {
+      "id": "E1CA887744FA4F9FABF0E147A90C614C",
+      "asnIdentifier": "S2784798",
+      "position": 2000,
+      "depth": 1,
+      "description": "Represent and interpret statements using logical symbolism.",
+      "ancestorIds": [
+        "CD58FF9AAF8D447D9669B26CFB1F6870"
+      ],
+      "parentId": "CD58FF9AAF8D447D9669B26CFB1F6870"
+    },
+    "CD58FF9AAF8D447D9669B26CFB1F6870": {
+      "id": "CD58FF9AAF8D447D9669B26CFB1F6870",
+      "asnIdentifier": "S2784797",
+      "position": 1000,
+      "depth": 0,
+      "description": "Logical Reasoning",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

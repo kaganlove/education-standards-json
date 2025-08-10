@@ -1,0 +1,965 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2610640_grades-09-10-11-12",
+  "title": "Computer Science and Math: Grades 9, 10, 11, 12",
+  "subject": "Computer Science (2016-2020)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated",
+    "title": "CC BY 3.0 US"
+  },
+  "document": {
+    "publicationStatus": "Deprecated",
+    "id": "D2610640",
+    "valid": "2014",
+    "title": "Computer Science and Mathematics Curriculum Framework",
+    "sourceURL": "http://www.arkansased.org/public/userfiles/Learning_Services/Curriculum%20and%20Instruction/Frameworks/Math/Computer_Science_and_Mathematics_12122014.pdf",
+    "asnIdentifier": "D2610640"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "5E18220E7EF64A3DB5E57033A718C440": {
+      "description": "Debug an algorithm that demonstrates a security technique",
+      "id": "5E18220E7EF64A3DB5E57033A718C440",
+      "asnIdentifier": "S2610739",
+      "position": 66000,
+      "depth": 2,
+      "statementNotation": "SEI.11.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "8F47837F89304E419A8417906DFAB333",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "8F47837F89304E419A8417906DFAB333"
+    },
+    "A7CF4CAACE974C38B48635E661AAFAE6": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Develop an algorithm that demonstrates a security technique",
+      "id": "A7CF4CAACE974C38B48635E661AAFAE6",
+      "asnIdentifier": "S2610738",
+      "position": 65000,
+      "depth": 2,
+      "statementNotation": "SEI.11.CSM.2",
+      "ancestorIds": [
+        "8F47837F89304E419A8417906DFAB333",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "8F47837F89304E419A8417906DFAB333"
+    },
+    "2A66CBE7098C436089DF77B8667E3943": {
+      "id": "2A66CBE7098C436089DF77B8667E3943",
+      "asnIdentifier": "S2610737",
+      "position": 64000,
+      "depth": 2,
+      "statementNotation": "SEI.11.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Explain principles of network security and techniques that protect stored and transmitted data",
+      "comments": [
+        "e.g., encryption, cryptography, authentication"
+      ],
+      "ancestorIds": [
+        "8F47837F89304E419A8417906DFAB333",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "8F47837F89304E419A8417906DFAB333"
+    },
+    "8F47837F89304E419A8417906DFAB333": {
+      "listId": "11:",
+      "description": "Students will explore security and privacy techniques.",
+      "id": "8F47837F89304E419A8417906DFAB333",
+      "asnIdentifier": "S2610736",
+      "position": 63000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "ancestorIds": [
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "B6B68D0458E0434B956BE22DF91118F2"
+    },
+    "F9540F7FA76D409BBDFE00C4CBDBC23D": {
+      "statementNotation": "SEI.10.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe security and privacy issues that relate to computer networks",
+      "id": "F9540F7FA76D409BBDFE00C4CBDBC23D",
+      "asnIdentifier": "S2610735",
+      "position": 62000,
+      "depth": 2,
+      "ancestorIds": [
+        "DE5FC095F02249F6BCB9FF6D18B3C018",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "DE5FC095F02249F6BCB9FF6D18B3C018"
+    },
+    "D2EEEB7768714AAE89A6427AC7371318": {
+      "description": "Investigate information ownership topics<ul><li>access</li><li>distribution rights</li><li>hacking</li><li>licensure</li><li>open source</li><li>public domain</li><li>software piracy</li></ul>",
+      "id": "D2EEEB7768714AAE89A6427AC7371318",
+      "asnIdentifier": "S2610734",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "SEI.10.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "DE5FC095F02249F6BCB9FF6D18B3C018",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "DE5FC095F02249F6BCB9FF6D18B3C018"
+    },
+    "A17EE1158218454289BC7D5A91067E82": {
+      "asnIdentifier": "S2610733",
+      "position": 60000,
+      "depth": 2,
+      "statementNotation": "SEI.10.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Compare the reliability of various online sources",
+      "id": "A17EE1158218454289BC7D5A91067E82",
+      "ancestorIds": [
+        "DE5FC095F02249F6BCB9FF6D18B3C018",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "DE5FC095F02249F6BCB9FF6D18B3C018"
+    },
+    "A8C5D60A27A84522AC8E86EAFE68C328": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Discuss accessibility issues",
+      "comments": [
+        "e.g., adaptive technology for special needs individuals, censorship, geographical locations, economically-disadvantaged populations"
+      ],
+      "id": "A8C5D60A27A84522AC8E86EAFE68C328",
+      "asnIdentifier": "S2610732",
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "SEI.10.CSM.1",
+      "ancestorIds": [
+        "DE5FC095F02249F6BCB9FF6D18B3C018",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "DE5FC095F02249F6BCB9FF6D18B3C018"
+    },
+    "DE5FC095F02249F6BCB9FF6D18B3C018": {
+      "id": "DE5FC095F02249F6BCB9FF6D18B3C018",
+      "asnIdentifier": "S2610731",
+      "position": 58000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "10:",
+      "description": "Students will investigate social and ethical issues relating to digital information.",
+      "ancestorIds": [
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "B6B68D0458E0434B956BE22DF91118F2"
+    },
+    "CAB4D9FE21F44C25848A62B466F27A6A": {
+      "id": "CAB4D9FE21F44C25848A62B466F27A6A",
+      "asnIdentifier": "S2610730",
+      "position": 57000,
+      "depth": 2,
+      "statementNotation": "SEI.9.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Investigate the national and global economic impact of cybercrime",
+      "ancestorIds": [
+        "70F4A472F1094C16869D9B2A51F94D32",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "70F4A472F1094C16869D9B2A51F94D32"
+    },
+    "ED5750D094D74C288AD43E593036AB63": {
+      "depth": 2,
+      "statementNotation": "SEI.9.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Explore the ramifications of inappropriate uses of technology",
+      "id": "ED5750D094D74C288AD43E593036AB63",
+      "asnIdentifier": "S2610729",
+      "position": 56000,
+      "ancestorIds": [
+        "70F4A472F1094C16869D9B2A51F94D32",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "70F4A472F1094C16869D9B2A51F94D32"
+    },
+    "D5A26E2D76924357BDE3D8E30C1276F8": {
+      "description": "Summarize appropriate and inappropriate technological behaviors, including issues of privacy, copyright, security, legalities, and politics",
+      "id": "D5A26E2D76924357BDE3D8E30C1276F8",
+      "asnIdentifier": "S2610728",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "SEI.9.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "70F4A472F1094C16869D9B2A51F94D32",
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "70F4A472F1094C16869D9B2A51F94D32"
+    },
+    "70F4A472F1094C16869D9B2A51F94D32": {
+      "asnIdentifier": "S2610727",
+      "position": 54000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "9:",
+      "description": "Students will evaluate appropriate and inappropriate uses of technology.",
+      "id": "70F4A472F1094C16869D9B2A51F94D32",
+      "ancestorIds": [
+        "B6B68D0458E0434B956BE22DF91118F2"
+      ],
+      "parentId": "B6B68D0458E0434B956BE22DF91118F2"
+    },
+    "B6B68D0458E0434B956BE22DF91118F2": {
+      "description": "Social and Ethical Impacts of Computing",
+      "id": "B6B68D0458E0434B956BE22DF91118F2",
+      "asnIdentifier": "S2610726",
+      "position": 53000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5606C53777EF4B2BB935CA837D223034": {
+      "statementNotation": "CCD.8.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe primary hardware and software components of a network",
+      "comments": [
+        "e.g., hosts, routers, switches, links, servers, network interface cards, applications, web browsers, HTTP, TCP, IP, CSMA"
+      ],
+      "id": "5606C53777EF4B2BB935CA837D223034",
+      "asnIdentifier": "S2610725",
+      "position": 52000,
+      "depth": 2,
+      "ancestorIds": [
+        "C3D564A8E4904BD68E34B325A917384E",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "C3D564A8E4904BD68E34B325A917384E"
+    },
+    "911562513D704402BED90C58957E03AF": {
+      "description": "Describe issues that impact network functionality",
+      "comments": [
+        "e.g., latency, bandwidth, firewalls, server capability"
+      ],
+      "id": "911562513D704402BED90C58957E03AF",
+      "asnIdentifier": "S2610724",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "CCD.8.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "C3D564A8E4904BD68E34B325A917384E",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "C3D564A8E4904BD68E34B325A917384E"
+    },
+    "58A589B469D64864AD8C72627F215DF2": {
+      "id": "58A589B469D64864AD8C72627F215DF2",
+      "asnIdentifier": "S2610723",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "CCD.8.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe how the Internet facilitates global communication",
+      "ancestorIds": [
+        "C3D564A8E4904BD68E34B325A917384E",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "C3D564A8E4904BD68E34B325A917384E"
+    },
+    "C3D564A8E4904BD68E34B325A917384E": {
+      "position": 49000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "8:",
+      "description": "Students will describe the major components and functions of networks.",
+      "id": "C3D564A8E4904BD68E34B325A917384E",
+      "asnIdentifier": "S2610722",
+      "ancestorIds": [
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "0A87549EF1AF4666AC528FA245DE28E0"
+    },
+    "806675BF378142B894D8E7099082E149": {
+      "description": "Apply strategies for identifying and solving routine hardware problems that occur during everyday computer use",
+      "id": "806675BF378142B894D8E7099082E149",
+      "asnIdentifier": "S2610721",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "CCD.7.CSM.5",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "B6C0B852C06B43DF8E45C464A2E82AEE",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "B6C0B852C06B43DF8E45C464A2E82AEE"
+    },
+    "CF680BAA49CE4FD992B87AF7976A316F": {
+      "depth": 2,
+      "statementNotation": "CCD.7.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Explain multiple levels of hardware and software that support program execution",
+      "comments": [
+        "e.g., compilers, interpreters, operating systems, networks"
+      ],
+      "id": "CF680BAA49CE4FD992B87AF7976A316F",
+      "asnIdentifier": "S2610720",
+      "position": 47000,
+      "ancestorIds": [
+        "B6C0B852C06B43DF8E45C464A2E82AEE",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "B6C0B852C06B43DF8E45C464A2E82AEE"
+    },
+    "3E107CBB96B1485ABDEE020CB6C4704D": {
+      "depth": 2,
+      "statementNotation": "CCD.7.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe primary components of computer systems",
+      "comments": [
+        "e.g., input, output, processing, storage"
+      ],
+      "id": "3E107CBB96B1485ABDEE020CB6C4704D",
+      "asnIdentifier": "S2610719",
+      "position": 46000,
+      "ancestorIds": [
+        "B6C0B852C06B43DF8E45C464A2E82AEE",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "B6C0B852C06B43DF8E45C464A2E82AEE"
+    },
+    "BCA38C95462F44F2A9EC04B67208F5D6": {
+      "id": "BCA38C95462F44F2A9EC04B67208F5D6",
+      "asnIdentifier": "S2610718",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "CCD.7.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Develop criteria for purchasing or upgrading computer system hardware",
+      "ancestorIds": [
+        "B6C0B852C06B43DF8E45C464A2E82AEE",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "B6C0B852C06B43DF8E45C464A2E82AEE"
+    },
+    "821C13DD8E914988A0E71F9502E136B3": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Demonstrate an understanding of the relationship between hardware and software",
+      "id": "821C13DD8E914988A0E71F9502E136B3",
+      "asnIdentifier": "S2610717",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "CCD.7.CSM.1",
+      "ancestorIds": [
+        "B6C0B852C06B43DF8E45C464A2E82AEE",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "B6C0B852C06B43DF8E45C464A2E82AEE"
+    },
+    "B6C0B852C06B43DF8E45C464A2E82AEE": {
+      "position": 43000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "7:",
+      "description": "Students will analyze the relationship between hardware and software.",
+      "id": "B6C0B852C06B43DF8E45C464A2E82AEE",
+      "asnIdentifier": "S2610716",
+      "ancestorIds": [
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "0A87549EF1AF4666AC528FA245DE28E0"
+    },
+    "6750BA3E5FE94A348ED269E74DFB82BE": {
+      "comments": [
+        "e.g., Alan Turing, Charles Babbage, Ada Lovelace, Grace Hopper, analytical machine, ENIAC, IBM PC"
+      ],
+      "id": "6750BA3E5FE94A348ED269E74DFB82BE",
+      "asnIdentifier": "S2610715",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "CCD.6.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Investigate the history of computers, identifying contributors and major milestones",
+      "ancestorIds": [
+        "F6C1821AE60843A4A4CCD826A1B67EC7",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "F6C1821AE60843A4A4CCD826A1B67EC7"
+    },
+    "8461E3E1660B4E7CA813663B5FB97601": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe unique features of computers embedded in mobile devices and vehicles",
+      "id": "8461E3E1660B4E7CA813663B5FB97601",
+      "asnIdentifier": "S2610714",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "CCD.6.CSM.3",
+      "ancestorIds": [
+        "F6C1821AE60843A4A4CCD826A1B67EC7",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "F6C1821AE60843A4A4CCD826A1B67EC7"
+    },
+    "FC6120F8C15343EFB03A8CFB0F2EEE7B": {
+      "depth": 2,
+      "statementNotation": "CCD.6.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Identify a variety of electronic devices",
+      "comments": [
+        "e.g., cell phones, desktops, laptops, vehicles, programmable thermostats, programmable kitchen appliances) that contain computational processors"
+      ],
+      "id": "FC6120F8C15343EFB03A8CFB0F2EEE7B",
+      "asnIdentifier": "S2610713",
+      "position": 40000,
+      "ancestorIds": [
+        "F6C1821AE60843A4A4CCD826A1B67EC7",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "F6C1821AE60843A4A4CCD826A1B67EC7"
+    },
+    "C851202D96414C309AE3D446D44B0566": {
+      "description": "Recognize that computers are devices that execute programs",
+      "id": "C851202D96414C309AE3D446D44B0566",
+      "asnIdentifier": "S2610712",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "CCD.6.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "F6C1821AE60843A4A4CCD826A1B67EC7",
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "F6C1821AE60843A4A4CCD826A1B67EC7"
+    },
+    "F6C1821AE60843A4A4CCD826A1B67EC7": {
+      "description": "Students will classify electronic devices containing computational processors that execute programs.",
+      "id": "F6C1821AE60843A4A4CCD826A1B67EC7",
+      "asnIdentifier": "S2610711",
+      "position": 38000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "6:",
+      "ancestorIds": [
+        "0A87549EF1AF4666AC528FA245DE28E0"
+      ],
+      "parentId": "0A87549EF1AF4666AC528FA245DE28E0"
+    },
+    "0A87549EF1AF4666AC528FA245DE28E0": {
+      "id": "0A87549EF1AF4666AC528FA245DE28E0",
+      "asnIdentifier": "S2610710",
+      "position": 37000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Computers and Communications Devices",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D79CD10C58BE4FA08AADBB302BB6F1DF": {
+      "asnIdentifier": "S2610709",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "CPP.5.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Use the following Application Program Interfaces (API) and libraries to create problem solving computer programs<ul><li>file input/output</li><li>math libraries (e.g., absolute value, square root, quadratic, exponentiation, trigonometry)</li><li>utilities (e.g., random number generators)</li></ul>",
+      "id": "D79CD10C58BE4FA08AADBB302BB6F1DF",
+      "ancestorIds": [
+        "9B47387BD5E14B119AD5B0AACFB93C25",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "9B47387BD5E14B119AD5B0AACFB93C25"
+    },
+    "81A7CE508DB9428CBC4F152FDFD27D99": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Cite evidence to support or refute the correctness of software solutions",
+      "id": "81A7CE508DB9428CBC4F152FDFD27D99",
+      "asnIdentifier": "S2610708",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "CPP.5.CSM.3",
+      "ancestorIds": [
+        "9B47387BD5E14B119AD5B0AACFB93C25",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "9B47387BD5E14B119AD5B0AACFB93C25"
+    },
+    "8FC4EF34320B42CF958D759413AAA01B": {
+      "description": "Use various debugging and testing methods (e.g., debugging statements, breakpoints, memory inspection, test cases, unit testing, white box, black box, integration testing) to ensure program correctness",
+      "id": "8FC4EF34320B42CF958D759413AAA01B",
+      "asnIdentifier": "S2610707",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "CPP.5.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "9B47387BD5E14B119AD5B0AACFB93C25",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "9B47387BD5E14B119AD5B0AACFB93C25"
+    },
+    "5334390E91F3419DA987F31A87DAE98C": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Implement computing applications using the following software development tools and techniques<ul><li>branching (if, if-else)</li><li>declare, define, and reference variables</li><li>lists/arrays</li><li>looping (for, while, do/while)</li><li>matrices/two-dimensional arrays</li><li>primitive data types</li><li>recursion</li><li>sequencing</li></ul>",
+      "id": "5334390E91F3419DA987F31A87DAE98C",
+      "asnIdentifier": "S2610706",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "CPP.5.CSM.1",
+      "ancestorIds": [
+        "9B47387BD5E14B119AD5B0AACFB93C25",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "9B47387BD5E14B119AD5B0AACFB93C25"
+    },
+    "9B47387BD5E14B119AD5B0AACFB93C25": {
+      "listId": "5:",
+      "description": "Students will create, test, and use computer programs to solve problems.",
+      "id": "9B47387BD5E14B119AD5B0AACFB93C25",
+      "asnIdentifier": "S2610705",
+      "position": 32000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "ancestorIds": [
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "A560A4F6D9384A13AE6862F98DD4B57D"
+    },
+    "CE3BE475D1764B35B7512699097A1089": {
+      "depth": 2,
+      "statementNotation": "CPP.4.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Determine the output of a given sample program without the use of a computer",
+      "id": "CE3BE475D1764B35B7512699097A1089",
+      "asnIdentifier": "S2610704",
+      "position": 31000,
+      "ancestorIds": [
+        "13CDABA9800A409EBBAEA2870C8EDD6A",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "13CDABA9800A409EBBAEA2870C8EDD6A"
+    },
+    "CB01F50777C44F6AA2621681FC3C54BB": {
+      "id": "CB01F50777C44F6AA2621681FC3C54BB",
+      "asnIdentifier": "S2610703",
+      "position": 30000,
+      "depth": 2,
+      "statementNotation": "CPP.4.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Diagram the program execution process",
+      "ancestorIds": [
+        "13CDABA9800A409EBBAEA2870C8EDD6A",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "13CDABA9800A409EBBAEA2870C8EDD6A"
+    },
+    "7147848543384FE68C180D0B74A5FC0D": {
+      "comments": [
+        "e.g., compiled and interpreted languages, procedural and object-oriented paradigms"
+      ],
+      "id": "7147848543384FE68C180D0B74A5FC0D",
+      "asnIdentifier": "S2610702",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "CPP.4.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Compare and contrast computer programming languages and paradigms",
+      "ancestorIds": [
+        "13CDABA9800A409EBBAEA2870C8EDD6A",
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "13CDABA9800A409EBBAEA2870C8EDD6A"
+    },
+    "13CDABA9800A409EBBAEA2870C8EDD6A": {
+      "statementLabel": "Content Standard",
+      "listId": "4:",
+      "description": "Students will evaluate the use of programming languages to solve problems and develop systems.",
+      "id": "13CDABA9800A409EBBAEA2870C8EDD6A",
+      "asnIdentifier": "S2610701",
+      "position": 28000,
+      "depth": 1,
+      "ancestorIds": [
+        "A560A4F6D9384A13AE6862F98DD4B57D"
+      ],
+      "parentId": "A560A4F6D9384A13AE6862F98DD4B57D"
+    },
+    "A560A4F6D9384A13AE6862F98DD4B57D": {
+      "id": "A560A4F6D9384A13AE6862F98DD4B57D",
+      "asnIdentifier": "S2610700",
+      "position": 27000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Computing Practice and Programming",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2C7FA4A7A0D344408AA33CCD5E7E8C5A": {
+      "id": "2C7FA4A7A0D344408AA33CCD5E7E8C5A",
+      "asnIdentifier": "S2610699",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.9",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Analyze algorithms for correctness, clarity, and efficiency",
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "8DD5960134DF4052B519A38D3E4BBD38": {
+      "id": "8DD5960134DF4052B519A38D3E4BBD38",
+      "asnIdentifier": "S2610698",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.8",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Combine standard function types using arithmetic operations",
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "29A642B2231C418A9E5A9A5280E9C5F6": {
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.7",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Represent algorithms using flowcharts and pseudocode",
+      "id": "29A642B2231C418A9E5A9A5280E9C5F6",
+      "asnIdentifier": "S2610697",
+      "position": 24000,
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "A8CB909FA1F54ED0B896D24AAAA82F6A": {
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.6",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Implement conditional statements that include if/then, if/then/else, case statements, and Boolean logic, in the design of algorithms",
+      "id": "A8CB909FA1F54ED0B896D24AAAA82F6A",
+      "asnIdentifier": "S2610696",
+      "position": 23000,
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "345A41D783054AB986D6C0D01831F33C": {
+      "description": "Write algorithms to solve mathematical problems using formulas, equations, matrices, and functions",
+      "id": "345A41D783054AB986D6C0D01831F33C",
+      "asnIdentifier": "S2610695",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.5",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "CF9218ADE1F945C59E9B1476301FF715": {
+      "statementNotation": "CT.3.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Apply algorithm analysis and design techniques to solve problems",
+      "id": "CF9218ADE1F945C59E9B1476301FF715",
+      "asnIdentifier": "S2610694",
+      "position": 21000,
+      "depth": 2,
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "BD3B8F424DF348A786636826FE391347": {
+      "id": "BD3B8F424DF348A786636826FE391347",
+      "asnIdentifier": "S2610693",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Manipulate formulas and equations and apply them to algorithm development",
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "AC0252316FE44688926167F9158C8E8D": {
+      "statementNotation": "CT.3.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Examine classical algorithms",
+      "comments": [
+        "e.g., discriminant in quadratic formula, matrix manipulation, searching, sorting, shortest path, minimum spanning tree"
+      ],
+      "id": "AC0252316FE44688926167F9158C8E8D",
+      "asnIdentifier": "S2610692",
+      "position": 19000,
+      "depth": 2,
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "302BE6DDD57C4E9C99EEFCE13BFB1948": {
+      "description": "Utilize modeling and simulation techniques to represent and understand natural phenomena",
+      "id": "302BE6DDD57C4E9C99EEFCE13BFB1948",
+      "asnIdentifier": "S2610691",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "CT.3.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "143711F5F1F44F2587E5E8E7DEA0226A",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "143711F5F1F44F2587E5E8E7DEA0226A"
+    },
+    "143711F5F1F44F2587E5E8E7DEA0226A": {
+      "id": "143711F5F1F44F2587E5E8E7DEA0226A",
+      "asnIdentifier": "S2610690",
+      "position": 17000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "3:",
+      "description": "Students will create and evaluate algorithms to solve problems.",
+      "ancestorIds": [
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "74CA837AE25744BE98C6870FE5FD0227"
+    },
+    "2A1100EC4F5844E1B90305AE68D195C5": {
+      "description": "Analyze decisions and strategies using probability and statistical concepts",
+      "id": "2A1100EC4F5844E1B90305AE68D195C5",
+      "asnIdentifier": "S2610689",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.8",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "5F75C4BDE36B4D7AB18A448C8C36AFF2": {
+      "statementNotation": "CT.2.CSM.7",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Solve systems of equations and matrices by finding inverses, determinants, and other methods",
+      "id": "5F75C4BDE36B4D7AB18A448C8C36AFF2",
+      "asnIdentifier": "S2610688",
+      "position": 15000,
+      "depth": 2,
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "53D91FC86DDC4C23ADE963C9975E8CF9": {
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.6",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Create systems of equations and matrices based on real-world situations",
+      "id": "53D91FC86DDC4C23ADE963C9975E8CF9",
+      "asnIdentifier": "S2610687",
+      "position": 14000,
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "BED8F08EF1004D949F5FF86421911E0F": {
+      "description": "Evaluate concepts of different types of functions, numerically and algebraically<ul><li>quadratic functions, including the analysis of the discriminant and complex numbers</li><li>recursively defined functions, series, and sequences, including arithmetic and geometric</li><li>exponential and logarithmic functions (including inverse relationship between exponents and logarithms)</li><li>trigonometric functions to model physical situations (including right triangle trig, laws of sines and cosines)</li><li>scenarios involving velocity and other quantities that can be represented by vectors</li></ul>",
+      "id": "BED8F08EF1004D949F5FF86421911E0F",
+      "asnIdentifier": "S2610686",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.5",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "338F7E58418140A3B760006924F34A2F": {
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Explain ways in which sequence, selection, iteration, and recursion are building blocks of algorithms",
+      "id": "338F7E58418140A3B760006924F34A2F",
+      "asnIdentifier": "S2610685",
+      "position": 12000,
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "28AE2EB351A54B21BF9E9AF6190B02F8": {
+      "description": "Interpret truth tables from basic statements using Boolean operators (AND, OR, XOR, and NOT)",
+      "id": "28AE2EB351A54B21BF9E9AF6190B02F8",
+      "asnIdentifier": "S2610684",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "CA647353F7F040ADA8CC3D3D27F6576E": {
+      "id": "CA647353F7F040ADA8CC3D3D27F6576E",
+      "asnIdentifier": "S2610683",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Utilize predefined mathematical functions and parameters to divide a complex problem into simpler parts, including parallel processing",
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "EDC59890250248DC93CF3DC8461BDE10": {
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe how mathematical and statistical functions, sets, and logic are used in computation",
+      "id": "EDC59890250248DC93CF3DC8461BDE10",
+      "asnIdentifier": "S2610682",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "CT.2.CSM.1",
+      "ancestorIds": [
+        "BFC848F2CE1347448ABFC0B8C2BAC210",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "BFC848F2CE1347448ABFC0B8C2BAC210"
+    },
+    "BFC848F2CE1347448ABFC0B8C2BAC210": {
+      "id": "BFC848F2CE1347448ABFC0B8C2BAC210",
+      "asnIdentifier": "S2610681",
+      "position": 8000,
+      "depth": 1,
+      "statementLabel": "Content Standard",
+      "listId": "2:",
+      "description": "Students will connect the development cycle of algorithm construction to problem solving.",
+      "ancestorIds": [
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "74CA837AE25744BE98C6870FE5FD0227"
+    },
+    "595F38B236CE4EB88A2484D69351926C": {
+      "statementNotation": "CT.1.CSM.5",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Compare techniques (e.g., sorting, statistics, searching) for analyzing massive data collections",
+      "id": "595F38B236CE4EB88A2484D69351926C",
+      "asnIdentifier": "S2610680",
+      "position": 7000,
+      "depth": 2,
+      "ancestorIds": [
+        "B45397D9DEB548DD9533F21449939EEB",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "B45397D9DEB548DD9533F21449939EEB"
+    },
+    "5D49EAED10864EB19F566A92B72EC1DE": {
+      "id": "5D49EAED10864EB19F566A92B72EC1DE",
+      "asnIdentifier": "S2610679",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "CT.1.CSM.4",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Express the relationship between matrices and arrays",
+      "ancestorIds": [
+        "B45397D9DEB548DD9533F21449939EEB",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "B45397D9DEB548DD9533F21449939EEB"
+    },
+    "42A53A879ADE400686DC7E51CA652959": {
+      "depth": 2,
+      "statementNotation": "CT.1.CSM.3",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Convert information between various encoding formats",
+      "comments": [
+        "e.g., ASCII, Unicode, hexadecimal, binary"
+      ],
+      "id": "42A53A879ADE400686DC7E51CA652959",
+      "asnIdentifier": "S2610678",
+      "position": 5000,
+      "ancestorIds": [
+        "B45397D9DEB548DD9533F21449939EEB",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "B45397D9DEB548DD9533F21449939EEB"
+    },
+    "FE3B857B9CF94B79B3A90B0A07E0E7D0": {
+      "depth": 2,
+      "statementNotation": "CT.1.CSM.2",
+      "statementLabel": "Student Learning Expectation",
+      "description": "Describe the relationship between binary and hexadecimal representations",
+      "id": "FE3B857B9CF94B79B3A90B0A07E0E7D0",
+      "asnIdentifier": "S2610677",
+      "position": 4000,
+      "ancestorIds": [
+        "B45397D9DEB548DD9533F21449939EEB",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "B45397D9DEB548DD9533F21449939EEB"
+    },
+    "D45072ECD7204427831A640AD5B2C6BC": {
+      "description": "Analyze the various mathematical bases",
+      "comments": [
+        "e.g., binary, decimal, hexadecimal) and convert between them"
+      ],
+      "id": "D45072ECD7204427831A640AD5B2C6BC",
+      "asnIdentifier": "S2610676",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "CT.1.CSM.1",
+      "statementLabel": "Student Learning Expectation",
+      "ancestorIds": [
+        "B45397D9DEB548DD9533F21449939EEB",
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "B45397D9DEB548DD9533F21449939EEB"
+    },
+    "B45397D9DEB548DD9533F21449939EEB": {
+      "statementLabel": "Content Standard",
+      "listId": "1:",
+      "description": "Students will evaluate different data representations to solve problems.",
+      "id": "B45397D9DEB548DD9533F21449939EEB",
+      "asnIdentifier": "S2610675",
+      "position": 2000,
+      "depth": 1,
+      "ancestorIds": [
+        "74CA837AE25744BE98C6870FE5FD0227"
+      ],
+      "parentId": "74CA837AE25744BE98C6870FE5FD0227"
+    },
+    "74CA837AE25744BE98C6870FE5FD0227": {
+      "id": "74CA837AE25744BE98C6870FE5FD0227",
+      "asnIdentifier": "S2610674",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Computational Thinking",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

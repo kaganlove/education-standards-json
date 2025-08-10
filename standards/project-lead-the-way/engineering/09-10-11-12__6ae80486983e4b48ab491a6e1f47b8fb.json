@@ -1,0 +1,3104 @@
+{
+  "id": "6AE80486983E4B48AB491A6E1F47B8FB",
+  "title": "Introduction to Engineering Design (IED)",
+  "subject": "Engineering",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "PLTW",
+    "sourceURL": "https://instructional-resources.s3.amazonaws.com/PLTW_Engineering/50241_IntroductionToEngineeringDesign/English_External_Files/FWK_IED_course.pdf"
+  },
+  "jurisdiction": {
+    "id": "BC21751D74764127A5C907D278D7542D",
+    "title": "Project Lead The Way"
+  },
+  "standards": {
+    "F40C4E0659B643A39792CD8FD4395853": {
+      "id": "F40C4E0659B643A39792CD8FD4395853",
+      "asnIdentifier": null,
+      "position": 174001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 13.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate an assembly drawing using CAD software to identify component parts and show\ndetails of assembly using part identification numbers, a parts list, and other annotations, as\nappropriate.",
+      "comments": [],
+      "ancestorIds": [
+        "D390DF7F26EA45F6B38F7AB20ABF5B43",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "D390DF7F26EA45F6B38F7AB20ABF5B43"
+    },
+    "58461CF214DD4686B7B9E8BC5FCDA503": {
+      "id": "58461CF214DD4686B7B9E8BC5FCDA503",
+      "asnIdentifier": null,
+      "position": 173001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 13.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply appropriate and sufficient annotation (including dimensioning) methods to a drawing\nto fully describe an object or system using accepted technical drawing techniques. ",
+      "comments": [],
+      "ancestorIds": [
+        "D390DF7F26EA45F6B38F7AB20ABF5B43",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "D390DF7F26EA45F6B38F7AB20ABF5B43"
+    },
+    "4D2386893DFC4C1EBD606BCDDBC0F595": {
+      "id": "4D2386893DFC4C1EBD606BCDDBC0F595",
+      "asnIdentifier": null,
+      "position": 172001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 13.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate an annotated multiview technical drawing using CAD software to fully describe a\nsimple part.",
+      "comments": [],
+      "ancestorIds": [
+        "D390DF7F26EA45F6B38F7AB20ABF5B43",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "D390DF7F26EA45F6B38F7AB20ABF5B43"
+    },
+    "D390DF7F26EA45F6B38F7AB20ABF5B43": {
+      "id": "D390DF7F26EA45F6B38F7AB20ABF5B43",
+      "asnIdentifier": null,
+      "position": 171001,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "O13.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create technical drawings using 3D computer-aided design (CAD) software to document a design\naccording to standard engineering practices. ",
+      "comments": [],
+      "ancestorIds": [
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "28A9C8A23E274BCC9924716F00175B77"
+    },
+    "6B2E432D6E104C96BD92DDE1B26B9F9E": {
+      "id": "6B2E432D6E104C96BD92DDE1B26B9F9E",
+      "asnIdentifier": null,
+      "position": 170001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 13.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Correctly apply joints to constrain multi-component models and/or simulate realistic relative\nmotion of the component parts. ",
+      "comments": [],
+      "ancestorIds": [
+        "97D26D20793348E8A4D7B41CB2BA886A",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "97D26D20793348E8A4D7B41CB2BA886A"
+    },
+    "5ECB20797BB04053BAB0BCCF50606E8B": {
+      "id": "5ECB20797BB04053BAB0BCCF50606E8B",
+      "asnIdentifier": null,
+      "position": 169001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 13.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create relationships among part features and dimensions using parametric formulas",
+      "comments": [],
+      "ancestorIds": [
+        "97D26D20793348E8A4D7B41CB2BA886A",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "97D26D20793348E8A4D7B41CB2BA886A"
+    },
+    "5360917E71624B5BBA833DD0992FDC65": {
+      "id": "5360917E71624B5BBA833DD0992FDC65",
+      "asnIdentifier": null,
+      "position": 168001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 13.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Correctly build and constrain a three-dimensional solid computer model to accurately\nrepresent the physical characteristics and behaviors of a design idea or real object. Scope:\nThis could include the appropriate application of geometric (horizontal, vertical, parallel,\nperpendicular, tangent, concentric) and dimensional constraints, as well as modeling other\nphysical properties (density, color, texture, and so on).",
+      "comments": [],
+      "ancestorIds": [
+        "97D26D20793348E8A4D7B41CB2BA886A",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "97D26D20793348E8A4D7B41CB2BA886A"
+    },
+    "AB137F4835404D1E9D82FCF6250C7D59": {
+      "id": "AB137F4835404D1E9D82FCF6250C7D59",
+      "asnIdentifier": null,
+      "position": 167001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 13.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a computer model to represent an object or conceptual idea and inform design\ndecisions. ",
+      "comments": [],
+      "ancestorIds": [
+        "97D26D20793348E8A4D7B41CB2BA886A",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "97D26D20793348E8A4D7B41CB2BA886A"
+    },
+    "97D26D20793348E8A4D7B41CB2BA886A": {
+      "id": "97D26D20793348E8A4D7B41CB2BA886A",
+      "asnIdentifier": null,
+      "position": 166001,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "O13.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and interpret a computer model or simulation of simple objects, assemblies, or systems to\ninform engineering decisions and solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "28A9C8A23E274BCC9924716F00175B77"
+    },
+    "B9130ED6FD7C49D782D70D9B45B7858B": {
+      "id": "B9130ED6FD7C49D782D70D9B45B7858B",
+      "asnIdentifier": null,
+      "position": 165001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 13.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the need for and specify appropriate dimensions to create a clearance fit or\ninterference fit where appropriate.",
+      "comments": [],
+      "ancestorIds": [
+        "89680FBFD211488D9F27D3C8A7706106",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "89680FBFD211488D9F27D3C8A7706106"
+    },
+    "F0F6AFAA2E4B49A59DEFCCC609D65B67": {
+      "id": "F0F6AFAA2E4B49A59DEFCCC609D65B67",
+      "asnIdentifier": null,
+      "position": 164001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 13.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the allowance between two mating parts of an assembly based on dimensions\ngiven on a technical drawing.",
+      "comments": [],
+      "ancestorIds": [
+        "89680FBFD211488D9F27D3C8A7706106",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "89680FBFD211488D9F27D3C8A7706106"
+    },
+    "F2D15776A5FB431CB1EFC692E819F1EE": {
+      "id": "F2D15776A5FB431CB1EFC692E819F1EE",
+      "asnIdentifier": null,
+      "position": 163001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 13.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the specified dimension, tolerance, upper limit, and lower limit for any given\ndimension and related tolerance (or any distance that is dependent on the given\ndimensions) show on a technical drawing. ",
+      "comments": [],
+      "ancestorIds": [
+        "89680FBFD211488D9F27D3C8A7706106",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "89680FBFD211488D9F27D3C8A7706106"
+    },
+    "9FEE9BAF895F4A8FBB80502882C41A9C": {
+      "id": "9FEE9BAF895F4A8FBB80502882C41A9C",
+      "asnIdentifier": null,
+      "position": 162001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 13.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and differentiate among a limit dimension, unilateral tolerance, and bilateral\ntolerance.",
+      "comments": [],
+      "ancestorIds": [
+        "89680FBFD211488D9F27D3C8A7706106",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "89680FBFD211488D9F27D3C8A7706106"
+    },
+    "89680FBFD211488D9F27D3C8A7706106": {
+      "id": "89680FBFD211488D9F27D3C8A7706106",
+      "asnIdentifier": null,
+      "position": 161001,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "O13.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply appropriate engineering tolerances to specify the allowable variation, size of individual features,\nand orientation and location between features of an object. ",
+      "comments": [],
+      "ancestorIds": [
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "28A9C8A23E274BCC9924716F00175B77"
+    },
+    "755CF6B17B634997914B11069AAE585B": {
+      "id": "755CF6B17B634997914B11069AAE585B",
+      "asnIdentifier": null,
+      "position": 160001,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "KS 13.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Read and interpret a hole note to identify the size and type of hole specified.",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "E8F4FC8B1E0848029887C75693979C4E": {
+      "id": "E8F4FC8B1E0848029887C75693979C4E",
+      "asnIdentifier": null,
+      "position": 159001,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "KS 13.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify necessary/appropriate views to fully detail a part or assembly. ",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "82D6FB4B4FB1488F8D4C02EE0B92F496": {
+      "id": "82D6FB4B4FB1488F8D4C02EE0B92F496",
+      "asnIdentifier": null,
+      "position": 158001,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 13.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify errors and omissions in a full- or half-section view (including errors in line locations,\nline types, location of cutting plane line, scale, dimensioning, and view orientation) to fully\ndetail an object or part.",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "2DD44691CAD34CF1862716BB2E12487E": {
+      "id": "2DD44691CAD34CF1862716BB2E12487E",
+      "asnIdentifier": null,
+      "position": 157001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 13.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify errors and omissions in orthographic projections and multiview drawings (including\nerrors in line locations, line types, Identify errors and ommissions in orthographic\nprojections and multiview drawings (including errors in line locations, line types, number of\nviews, scale, dimensioning, and view orientation) to fully detail an object or part using the\nactual object, a detailed verbal description of the object, or a pictorial and isometric view of\nthe object",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "461437E144424452BABB59E1DC652CC2": {
+      "id": "461437E144424452BABB59E1DC652CC2",
+      "asnIdentifier": null,
+      "position": 156001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 13.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hand sketch isometric views of a simple object or part at a given scale using the actual\nobject, a detailed verbal description of the object, pictorial view of the object, or set of\northographic projections.",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "DE6D81F172B542029739B116BC6580C5": {
+      "id": "DE6D81F172B542029739B116BC6580C5",
+      "asnIdentifier": null,
+      "position": 155001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 13.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Build a physical representation of an object or system based on graphical representations\nof the object or system. (Includes building solid objects, electrical circuits, mechanical\ndevices, and complex systems according to technical drawings.) ",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "178F263587924DEAA1500FE8E77994A1": {
+      "id": "178F263587924DEAA1500FE8E77994A1",
+      "asnIdentifier": null,
+      "position": 154001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 13.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify three-dimensional objects generated by rotation of a two-dimensional object.",
+      "comments": [],
+      "ancestorIds": [
+        "583C0E0BC38C49F2899EDBB1F1438827",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "583C0E0BC38C49F2899EDBB1F1438827"
+    },
+    "583C0E0BC38C49F2899EDBB1F1438827": {
+      "id": "583C0E0BC38C49F2899EDBB1F1438827",
+      "asnIdentifier": null,
+      "position": 153001,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "O13.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use engineering graphics to represent physical objects. ",
+      "comments": [],
+      "ancestorIds": [
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "28A9C8A23E274BCC9924716F00175B77"
+    },
+    "F9007897E3D8496F96E7427726783554": {
+      "id": "F9007897E3D8496F96E7427726783554",
+      "asnIdentifier": null,
+      "position": 152001,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 13.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use mathematical modeling to optimize design criteria.",
+      "comments": [],
+      "ancestorIds": [
+        "5B2F1B0361DB41D88AE29C79AD953A7C",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5B2F1B0361DB41D88AE29C79AD953A7C"
+    },
+    "52281D963DD44FE99AF0C640420DC25B": {
+      "id": "52281D963DD44FE99AF0C640420DC25B",
+      "asnIdentifier": null,
+      "position": 151001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 13.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "In mathematical models, interpret the rate of change (slope) and the y-intercept (constant\nterm) in the context of the data.",
+      "comments": [],
+      "ancestorIds": [
+        "5B2F1B0361DB41D88AE29C79AD953A7C",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5B2F1B0361DB41D88AE29C79AD953A7C"
+    },
+    "298AA140D6AA4F49B99A97A727320355": {
+      "id": "298AA140D6AA4F49B99A97A727320355",
+      "asnIdentifier": null,
+      "position": 150001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 13.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fit a function to the data and use the function to solve problems and/or make predictions in\nthe context of the data. ",
+      "comments": [],
+      "ancestorIds": [
+        "5B2F1B0361DB41D88AE29C79AD953A7C",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5B2F1B0361DB41D88AE29C79AD953A7C"
+    },
+    "0C33B627CE354D1785A88C94108FD529": {
+      "id": "0C33B627CE354D1785A88C94108FD529",
+      "asnIdentifier": null,
+      "position": 149001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 13.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent data for two quantitative variables on a scatter plot, and describe how the\nvariables are related.",
+      "comments": [],
+      "ancestorIds": [
+        "5B2F1B0361DB41D88AE29C79AD953A7C",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5B2F1B0361DB41D88AE29C79AD953A7C"
+    },
+    "AA81D191B4764C43A1D26C388EADA03A": {
+      "id": "AA81D191B4764C43A1D26C388EADA03A",
+      "asnIdentifier": null,
+      "position": 148001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 13.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Build and/or use a mathematical model (algorithm, table of values, equation, graph) to\nrepresent data, describe relationships, describe processes, and to make predictions in the\ncontext of the problem. For example: create displacement/time graphs (Cartesian); create\npolar graphs to describe displacement caused by a cam (and cam shape). ",
+      "comments": [],
+      "ancestorIds": [
+        "5B2F1B0361DB41D88AE29C79AD953A7C",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5B2F1B0361DB41D88AE29C79AD953A7C"
+    },
+    "5B2F1B0361DB41D88AE29C79AD953A7C": {
+      "id": "5B2F1B0361DB41D88AE29C79AD953A7C",
+      "asnIdentifier": null,
+      "position": 147001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O13.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply mathematical (including graphical) models and interpret the output of models to test ideas or\nmake predictions.",
+      "comments": [],
+      "ancestorIds": [
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "28A9C8A23E274BCC9924716F00175B77"
+    },
+    "AF5D529106C148E1ACC26D3F9E562299": {
+      "id": "AF5D529106C148E1ACC26D3F9E562299",
+      "asnIdentifier": null,
+      "position": 146001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 13.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a model to accurately represent information or important characteristics of an\nobject, data, process, or design idea for an intended purpose. [Notes on scope: the\nintended purpose may vary and could include organizing information to show relationships;\nproviding a visual representation of the object/design to demonstrate how the object might\n“look”; a functional model to demonstrate the operation; a prototype of a specific\ncomponent to test fit, performance, durability, or compatibility with other components in a\nsystem; and so on. The model could be a conceptual model, a mathematical model, a\ncomputer/virtual model, or a physical model, as appropriate for the testing scenario.]",
+      "comments": [],
+      "ancestorIds": [
+        "2D3E3722D5564CFAA0FF31C0A217D8C7",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2D3E3722D5564CFAA0FF31C0A217D8C7"
+    },
+    "FED39040BD8C486F92D28EFD86BE6186": {
+      "id": "FED39040BD8C486F92D28EFD86BE6186",
+      "asnIdentifier": null,
+      "position": 145001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 13.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize that models use abstraction to represent a simplified version of a complex\nphenomenon and there is no guarantee that the Recognize that models use abstraction to\nrepresent a simplified version of a complex phenomenon and there is no guarantee that\nthe model accurately represents the real object or phenomenon. List differences (potential\nor real) between model behavior and the behavior of the real object, system, or process\nthat it represents, and identify limitations of the model. (Limitations may include specific\ncharacteristics being studied, accuracy, precision, range of conditions, and so on.) ",
+      "comments": [],
+      "ancestorIds": [
+        "2D3E3722D5564CFAA0FF31C0A217D8C7",
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2D3E3722D5564CFAA0FF31C0A217D8C7"
+    },
+    "2D3E3722D5564CFAA0FF31C0A217D8C7": {
+      "id": "2D3E3722D5564CFAA0FF31C0A217D8C7",
+      "asnIdentifier": null,
+      "position": 144001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O13.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop models and simulations to represent information, processes, and/or objects to an appropriate\nlevel of abstraction for the intended purpose.",
+      "comments": [],
+      "ancestorIds": [
+        "28A9C8A23E274BCC9924716F00175B77",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "28A9C8A23E274BCC9924716F00175B77"
+    },
+    "28A9C8A23E274BCC9924716F00175B77": {
+      "id": "28A9C8A23E274BCC9924716F00175B77",
+      "asnIdentifier": null,
+      "position": 143001,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "D13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modeling: Modeling is used to represent ideas and simulate objects, processes, or systems to help us understand,\nevaluate, and predict the behavior of real phenomena. ",
+      "comments": [],
+      "ancestorIds": [
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "76454131D5BA4A298B11AECBCEB25A61"
+    },
+    "4AC4F1A93DAB4BD9B03D8B2CB98822F2": {
+      "id": "4AC4F1A93DAB4BD9B03D8B2CB98822F2",
+      "asnIdentifier": null,
+      "position": 142001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 12.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify what has been made more general by an abstraction and what details have been\nhidden or removed. ",
+      "comments": [],
+      "ancestorIds": [
+        "6CEC957AA2434D0996FC0303628D6272",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "6CEC957AA2434D0996FC0303628D6272"
+    },
+    "6CEC957AA2434D0996FC0303628D6272": {
+      "id": "6CEC957AA2434D0996FC0303628D6272",
+      "asnIdentifier": null,
+      "position": 141001,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "O12.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply abstraction to generalize problems and solutions. ",
+      "comments": [],
+      "ancestorIds": [
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "EF86529038E748ED9C402BC23358860D"
+    },
+    "BBD3DA39139E4CCBB6ADD680BCC63C38": {
+      "id": "BBD3DA39139E4CCBB6ADD680BCC63C38",
+      "asnIdentifier": null,
+      "position": 140001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 12.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the functions and tools within a spreadsheet application to manipulate, analyze, and\npresent data in a useful way, including graphs, regression analyses, and descriptive\nstatistical analyses. ",
+      "comments": [],
+      "ancestorIds": [
+        "C0C9992637904D329D84B1038467A3AC",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "C0C9992637904D329D84B1038467A3AC"
+    },
+    "91FBD44DECFA43059BFF1B13F027D3BB": {
+      "id": "91FBD44DECFA43059BFF1B13F027D3BB",
+      "asnIdentifier": null,
+      "position": 139001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 12.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Populate a spreadsheet application with data and organize the data to be useful in\naccomplishing a specific goal.",
+      "comments": [],
+      "ancestorIds": [
+        "C0C9992637904D329D84B1038467A3AC",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "C0C9992637904D329D84B1038467A3AC"
+    },
+    "C0C9992637904D329D84B1038467A3AC": {
+      "id": "C0C9992637904D329D84B1038467A3AC",
+      "asnIdentifier": null,
+      "position": 138001,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "O12.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collect, organize, and analyze data to help define and/or solve a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "EF86529038E748ED9C402BC23358860D"
+    },
+    "30EE47C1CEFB4135A4DE701963BAE582": {
+      "id": "30EE47C1CEFB4135A4DE701963BAE582",
+      "asnIdentifier": null,
+      "position": 137001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 12.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Automate a human-powered device using a mechanical and/or electrical system.",
+      "comments": [],
+      "ancestorIds": [
+        "DE424A4F31FE41AD93DC767439521EB6",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "DE424A4F31FE41AD93DC767439521EB6"
+    },
+    "DE424A4F31FE41AD93DC767439521EB6": {
+      "id": "DE424A4F31FE41AD93DC767439521EB6",
+      "asnIdentifier": null,
+      "position": 136001,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "O12.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Formulate solutions that use automation to solve a problem",
+      "comments": [],
+      "ancestorIds": [
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "EF86529038E748ED9C402BC23358860D"
+    },
+    "D8A5D2322C56457F9C4A07E5B78F4230": {
+      "id": "D8A5D2322C56457F9C4A07E5B78F4230",
+      "asnIdentifier": null,
+      "position": 135001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 12.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write a set of ordered instructions (with or without a computer) involving multiple discrete\nsteps to accomplish a complex task or achieve a desired result.",
+      "comments": [],
+      "ancestorIds": [
+        "1DCB64A9D3524E66B1350B3CE1A828D0",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "1DCB64A9D3524E66B1350B3CE1A828D0"
+    },
+    "E02477E4FC5B4ED8AC9F83F53224B2B1": {
+      "id": "E02477E4FC5B4ED8AC9F83F53224B2B1",
+      "asnIdentifier": null,
+      "position": 134001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 12.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use existing correct algorithms as building blocks for constructing a new algorithm to help\nensure the new algorithm is correct. ",
+      "comments": [],
+      "ancestorIds": [
+        "1DCB64A9D3524E66B1350B3CE1A828D0",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "1DCB64A9D3524E66B1350B3CE1A828D0"
+    },
+    "1DCB64A9D3524E66B1350B3CE1A828D0": {
+      "id": "1DCB64A9D3524E66B1350B3CE1A828D0",
+      "asnIdentifier": null,
+      "position": 133001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O12.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use algorithms to create a solution with or without the use of a computer program",
+      "comments": [],
+      "ancestorIds": [
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "EF86529038E748ED9C402BC23358860D"
+    },
+    "B8A3551E4EB7474985850C6089D03B4C": {
+      "id": "B8A3551E4EB7474985850C6089D03B4C",
+      "asnIdentifier": null,
+      "position": 132001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 12.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Separate a complex process into multiple subprocesses that can be implemented in an\norganized way to complete the larger process. ",
+      "comments": [],
+      "ancestorIds": [
+        "427CCF14D715425DB4989EDF0790F501",
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "427CCF14D715425DB4989EDF0790F501"
+    },
+    "427CCF14D715425DB4989EDF0790F501": {
+      "id": "427CCF14D715425DB4989EDF0790F501",
+      "asnIdentifier": null,
+      "position": 131001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O12.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply problem decomposition skills to break down data, problems, and processes into manageable\nparts.",
+      "comments": [],
+      "ancestorIds": [
+        "EF86529038E748ED9C402BC23358860D",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "EF86529038E748ED9C402BC23358860D"
+    },
+    "EF86529038E748ED9C402BC23358860D": {
+      "id": "EF86529038E748ED9C402BC23358860D",
+      "asnIdentifier": null,
+      "position": 130001,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "D12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Thinking: Computational thinking is a critical part of a problem-solving process that supports the ability to interpret\ncomplex, open-ended problems across all disciplines.",
+      "comments": [],
+      "ancestorIds": [
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "76454131D5BA4A298B11AECBCEB25A61"
+    },
+    "EF5984EE095C42D78374E780AEAA94DD": {
+      "id": "EF5984EE095C42D78374E780AEAA94DD",
+      "asnIdentifier": null,
+      "position": 129001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 11.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the benefits of human-centered design and apply principles to align product design\nwith intended use.",
+      "comments": [],
+      "ancestorIds": [
+        "1C28EF0CC9114904A491FFCAA22F6C66",
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "1C28EF0CC9114904A491FFCAA22F6C66"
+    },
+    "892E05BB24AF403A9EE772269534A5B8": {
+      "id": "892E05BB24AF403A9EE772269534A5B8",
+      "asnIdentifier": null,
+      "position": 128001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 11.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define sustainability, and identify principles that help guide development of sustainable\nsolutions (e.g. generative design and life cycle assessment) ",
+      "comments": [],
+      "ancestorIds": [
+        "1C28EF0CC9114904A491FFCAA22F6C66",
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "1C28EF0CC9114904A491FFCAA22F6C66"
+    },
+    "1C28EF0CC9114904A491FFCAA22F6C66": {
+      "id": "1C28EF0CC9114904A491FFCAA22F6C66",
+      "asnIdentifier": null,
+      "position": 127001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O11.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Assess the sustainability of an engineering solution based on the impacts (within the system or\ninterrelated systems) that result from implementation of the solution. ",
+      "comments": [],
+      "ancestorIds": [
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5FE8D5CF8F8A4FE4ACD325B263B136B0"
+    },
+    "A3D8BC62A3C643FA8E8FE5D95FE286EE": {
+      "id": "A3D8BC62A3C643FA8E8FE5D95FE286EE",
+      "asnIdentifier": null,
+      "position": 126001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 11.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Predict the local and global risks and impacts of an engineering decision/solution (e.g.,\nsociety, the economy, the environment), including some that were not anticipated.",
+      "comments": [],
+      "ancestorIds": [
+        "93A71AF3472C4729A3BECB405D63C55A",
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "93A71AF3472C4729A3BECB405D63C55A"
+    },
+    "63BC41FE912B49718BA361EC90800F5C": {
+      "id": "63BC41FE912B49718BA361EC90800F5C",
+      "asnIdentifier": null,
+      "position": 125001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 11.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe a system using a black box model indicating inputs and outputs, boundaries",
+      "comments": [],
+      "ancestorIds": [
+        "93A71AF3472C4729A3BECB405D63C55A",
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "93A71AF3472C4729A3BECB405D63C55A"
+    },
+    "38B56E54DB574188BB56CFC5ECEBF8E6": {
+      "id": "38B56E54DB574188BB56CFC5ECEBF8E6",
+      "asnIdentifier": null,
+      "position": 124001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 11.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe a system in terms of its components and/or subsystems and their interactions.\nFor example, describe the components of an electronic circuit, including source, path, and\nload; describe how an electronic circuit provides power to a larger system to produce\nmechanical motion; describe the subsystems of a building, including power system,\ncommunication system, lighting system, ventilation system, water system, sewer system,\nsafety system, social system, transportation system, structural system, and so on; describe\nhow the water system and sewer system interact in your home. Predict what the effect of\nmaking a change to a component of a system will have on the system as a whole.",
+      "comments": [],
+      "ancestorIds": [
+        "93A71AF3472C4729A3BECB405D63C55A",
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "93A71AF3472C4729A3BECB405D63C55A"
+    },
+    "93A71AF3472C4729A3BECB405D63C55A": {
+      "id": "93A71AF3472C4729A3BECB405D63C55A",
+      "asnIdentifier": null,
+      "position": 123001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O11.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply systems thinking to consider how an engineering problem and its solution may be thought of as\ncontaining subsystems and as being a sub-system of a larger system. ",
+      "comments": [],
+      "ancestorIds": [
+        "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "5FE8D5CF8F8A4FE4ACD325B263B136B0"
+    },
+    "5FE8D5CF8F8A4FE4ACD325B263B136B0": {
+      "id": "5FE8D5CF8F8A4FE4ACD325B263B136B0",
+      "asnIdentifier": null,
+      "position": 122001,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "D11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systems Thinking: Systems thinking is a set of analytical skills used to understand systems, predict their behavior and modify them\nto produce desired effects.",
+      "comments": [],
+      "ancestorIds": [
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "76454131D5BA4A298B11AECBCEB25A61"
+    },
+    "EDFBAFFA8DF64B109EF16F08E33AB6F6": {
+      "id": "EDFBAFFA8DF64B109EF16F08E33AB6F6",
+      "asnIdentifier": null,
+      "position": 121001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 10.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and build an electrical circuit that includes a motor, a switch and variable resistance\nto power and control the speed of a mechanism. ",
+      "comments": [],
+      "ancestorIds": [
+        "419F0339C7BA44D5960B644A164052D1",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "419F0339C7BA44D5960B644A164052D1"
+    },
+    "2865D46126BB4907AA03E91E648F6902": {
+      "id": "2865D46126BB4907AA03E91E648F6902",
+      "asnIdentifier": null,
+      "position": 120001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 10.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate circuit resistance, current, and voltage within a circuit.",
+      "comments": [],
+      "ancestorIds": [
+        "419F0339C7BA44D5960B644A164052D1",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "419F0339C7BA44D5960B644A164052D1"
+    },
+    "419F0339C7BA44D5960B644A164052D1": {
+      "id": "419F0339C7BA44D5960B644A164052D1",
+      "asnIdentifier": null,
+      "position": 119001,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "O10.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integrate an electrical circuit with a machine to solve a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "070CB4CF9AA1448EA900A334280EDBDF"
+    },
+    "E4610DC359D34D059BCDF25EDACDE177": {
+      "id": "E4610DC359D34D059BCDF25EDACDE177",
+      "asnIdentifier": null,
+      "position": 118001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 10.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use mechanisms in a design to transform a motion without changing its type (e.g. slow to\nfast rotary motion, magnifying linear movement, or changing axis of motion)",
+      "comments": [],
+      "ancestorIds": [
+        "9AA7FB3C54614F2EB074AD7B20FA73FA",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9AA7FB3C54614F2EB074AD7B20FA73FA"
+    },
+    "AA8291BA4414435F8557D50C4C22297A": {
+      "id": "AA8291BA4414435F8557D50C4C22297A",
+      "asnIdentifier": null,
+      "position": 117001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 10.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select and use simple mechanisms (e.g. cams, gears, pulleys and belts, sprockets and\nchains, springs, levers) to create and control motion to solve a problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "9AA7FB3C54614F2EB074AD7B20FA73FA",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9AA7FB3C54614F2EB074AD7B20FA73FA"
+    },
+    "BBD9F048EDFD43FD866296976C946BE8": {
+      "id": "BBD9F048EDFD43FD866296976C946BE8",
+      "asnIdentifier": null,
+      "position": 116001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 10.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how cams and followers can be used to move objects in periodic or irregular\nmotion. ",
+      "comments": [],
+      "ancestorIds": [
+        "9AA7FB3C54614F2EB074AD7B20FA73FA",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9AA7FB3C54614F2EB074AD7B20FA73FA"
+    },
+    "6A5351E6813141BBBAEB656B8CECDA52": {
+      "id": "6A5351E6813141BBBAEB656B8CECDA52",
+      "asnIdentifier": null,
+      "position": 115001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 10.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe different types of motion (e.g. rotary, oscillating, linear, reciprocating, intermittent,\nand irregular).",
+      "comments": [],
+      "ancestorIds": [
+        "9AA7FB3C54614F2EB074AD7B20FA73FA",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9AA7FB3C54614F2EB074AD7B20FA73FA"
+    },
+    "9AA7FB3C54614F2EB074AD7B20FA73FA": {
+      "id": "9AA7FB3C54614F2EB074AD7B20FA73FA",
+      "asnIdentifier": null,
+      "position": 114001,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "O10.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how different machine elements influence motion of a mechanical system.",
+      "comments": [],
+      "ancestorIds": [
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "070CB4CF9AA1448EA900A334280EDBDF"
+    },
+    "77189AD534EA469CB404F4956BC12C5D": {
+      "id": "77189AD534EA469CB404F4956BC12C5D",
+      "asnIdentifier": null,
+      "position": 113001,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 10.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select and justify the use of materials for prototyping and manufacturing products",
+      "comments": [],
+      "ancestorIds": [
+        "2CF3B284A69C4006A1AE7989D05C86EB",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2CF3B284A69C4006A1AE7989D05C86EB"
+    },
+    "0E2821B5E6C94B6294F3741565B88EB5": {
+      "id": "0E2821B5E6C94B6294F3741565B88EB5",
+      "asnIdentifier": null,
+      "position": 112001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 10.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how design criteria and constraints (e.g. cost, performance, safety, risk, aesthetics,\nenvironmental impact) often limit the material choices available for a given design.",
+      "comments": [],
+      "ancestorIds": [
+        "2CF3B284A69C4006A1AE7989D05C86EB",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2CF3B284A69C4006A1AE7989D05C86EB"
+    },
+    "422E901150E1483D9E5F78D7D7074BB1": {
+      "id": "422E901150E1483D9E5F78D7D7074BB1",
+      "asnIdentifier": null,
+      "position": 111001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 10.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conduct non-destructive tests (e.g. hardness, flexure, conductivity) on different material\ntypes to investigate material properties.",
+      "comments": [],
+      "ancestorIds": [
+        "2CF3B284A69C4006A1AE7989D05C86EB",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2CF3B284A69C4006A1AE7989D05C86EB"
+    },
+    "F77EC47D10E6485F87B596013560B6B9": {
+      "id": "F77EC47D10E6485F87B596013560B6B9",
+      "asnIdentifier": null,
+      "position": 110001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 10.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "List material properties that are important to design, including mechanical, chemical,\nelectrical, and magnetic properties. ",
+      "comments": [],
+      "ancestorIds": [
+        "2CF3B284A69C4006A1AE7989D05C86EB",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2CF3B284A69C4006A1AE7989D05C86EB"
+    },
+    "740669D43B074D98BBB8FF79E09ABBF2": {
+      "id": "740669D43B074D98BBB8FF79E09ABBF2",
+      "asnIdentifier": null,
+      "position": 109001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 10.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe different types of materials and their common usages in product design.",
+      "comments": [],
+      "ancestorIds": [
+        "2CF3B284A69C4006A1AE7989D05C86EB",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "2CF3B284A69C4006A1AE7989D05C86EB"
+    },
+    "2CF3B284A69C4006A1AE7989D05C86EB": {
+      "id": "2CF3B284A69C4006A1AE7989D05C86EB",
+      "asnIdentifier": null,
+      "position": 108001,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "O10.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply basic materials science concepts to inform a design process.",
+      "comments": [],
+      "ancestorIds": [
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "070CB4CF9AA1448EA900A334280EDBDF"
+    },
+    "665EBED42FA74A5B9EF5B162EF6E779F": {
+      "id": "665EBED42FA74A5B9EF5B162EF6E779F",
+      "asnIdentifier": null,
+      "position": 107001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 10.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the force of friction between two interacting components in a mechanism, explain\nhow the frictional force impacts the function and efficiency of the mechanism, and\nrecommend design revisions to improve performance.",
+      "comments": [],
+      "ancestorIds": [
+        "D2C7B5AEC6AF4B33B2F309EFD9B0F896",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "D2C7B5AEC6AF4B33B2F309EFD9B0F896"
+    },
+    "F2348CBF5C064CF6A062D2641A519A2D": {
+      "id": "F2348CBF5C064CF6A062D2641A519A2D",
+      "asnIdentifier": null,
+      "position": 106001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 10.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the coefficient of friction between two surfaces. ",
+      "comments": [],
+      "ancestorIds": [
+        "D2C7B5AEC6AF4B33B2F309EFD9B0F896",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "D2C7B5AEC6AF4B33B2F309EFD9B0F896"
+    },
+    "7BDFEA9CF5324F989A47BF330841F0A2": {
+      "id": "7BDFEA9CF5324F989A47BF330841F0A2",
+      "asnIdentifier": null,
+      "position": 105001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 10.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that friction is a force that opposes motion. ",
+      "comments": [],
+      "ancestorIds": [
+        "D2C7B5AEC6AF4B33B2F309EFD9B0F896",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "D2C7B5AEC6AF4B33B2F309EFD9B0F896"
+    },
+    "D2C7B5AEC6AF4B33B2F309EFD9B0F896": {
+      "id": "D2C7B5AEC6AF4B33B2F309EFD9B0F896",
+      "asnIdentifier": null,
+      "position": 104001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O10.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply scientific knowledge related to frictional forces, to solve a problem or design a physical system.",
+      "comments": [],
+      "ancestorIds": [
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "070CB4CF9AA1448EA900A334280EDBDF"
+    },
+    "06FF15F91645437BB54F51D8BA1AF3A6": {
+      "id": "06FF15F91645437BB54F51D8BA1AF3A6",
+      "asnIdentifier": null,
+      "position": 103001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 10.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose a measurement device based on the level of precision and accuracy needed. ",
+      "comments": [],
+      "ancestorIds": [
+        "E502F0D86A674D148D050D54EDD0BA7E",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "E502F0D86A674D148D050D54EDD0BA7E"
+    },
+    "FB334ADD573A4F50BD19B8AC3D4E15C1": {
+      "id": "FB334ADD573A4F50BD19B8AC3D4E15C1",
+      "asnIdentifier": null,
+      "position": 102001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 10.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use dimensional analysis and unit conversions to transform data to consistent units or to\nunits appropriate for a particular purpose or model.",
+      "comments": [],
+      "ancestorIds": [
+        "E502F0D86A674D148D050D54EDD0BA7E",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "E502F0D86A674D148D050D54EDD0BA7E"
+    },
+    "946FB5253EE34EDF98E73B566BF0CF54": {
+      "id": "946FB5253EE34EDF98E73B566BF0CF54",
+      "asnIdentifier": null,
+      "position": 101001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 10.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the accuracy and precision of a measurement or measuring device and\ndifferentiate between the two.",
+      "comments": [],
+      "ancestorIds": [
+        "E502F0D86A674D148D050D54EDD0BA7E",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "E502F0D86A674D148D050D54EDD0BA7E"
+    },
+    "FA9C821EDF60423BA5CED012EAE50699": {
+      "id": "FA9C821EDF60423BA5CED012EAE50699",
+      "asnIdentifier": null,
+      "position": 100001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 10.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that all measurements are an approximation of the true value of a quantity. ",
+      "comments": [],
+      "ancestorIds": [
+        "E502F0D86A674D148D050D54EDD0BA7E",
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "E502F0D86A674D148D050D54EDD0BA7E"
+    },
+    "E502F0D86A674D148D050D54EDD0BA7E": {
+      "id": "E502F0D86A674D148D050D54EDD0BA7E",
+      "asnIdentifier": null,
+      "position": 99001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O10.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using a variety of measuring devices, measure and report quantities accurately and to a precision\nappropriate for the purpose.",
+      "comments": [],
+      "ancestorIds": [
+        "070CB4CF9AA1448EA900A334280EDBDF",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "070CB4CF9AA1448EA900A334280EDBDF"
+    },
+    "070CB4CF9AA1448EA900A334280EDBDF": {
+      "id": "070CB4CF9AA1448EA900A334280EDBDF",
+      "asnIdentifier": null,
+      "position": 98001,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "D10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineering Science: The practice of engineering requires the application of mathematical principles and common engineering tools,\ntechniques, and technologies.",
+      "comments": [],
+      "ancestorIds": [
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "76454131D5BA4A298B11AECBCEB25A61"
+    },
+    "DED9AB4F381F4114A18389D24444ECCE": {
+      "id": "DED9AB4F381F4114A18389D24444ECCE",
+      "asnIdentifier": null,
+      "position": 97001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 9.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how design quality concepts such as performance, usability, accessibility,\nreliability, safety, etc. impact product development.",
+      "comments": [],
+      "ancestorIds": [
+        "9A5139FCBACE4D2D9ACC214BC53AEB7E",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9A5139FCBACE4D2D9ACC214BC53AEB7E"
+    },
+    "7E9E708610AA4452AA423EE5FF5712B9": {
+      "id": "7E9E708610AA4452AA423EE5FF5712B9",
+      "asnIdentifier": null,
+      "position": 96001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 9.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use computer-aided engineering tools (e.g. generative design and shape optimization) to\noptimize design performance of a mechanical part or assembly. ",
+      "comments": [],
+      "ancestorIds": [
+        "9A5139FCBACE4D2D9ACC214BC53AEB7E",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9A5139FCBACE4D2D9ACC214BC53AEB7E"
+    },
+    "4E4D6C37F6A049EDA0C1BB70714B2B68": {
+      "id": "4E4D6C37F6A049EDA0C1BB70714B2B68",
+      "asnIdentifier": null,
+      "position": 95001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 9.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define basic fabrication processes and analyze if a product can be built as designed.",
+      "comments": [],
+      "ancestorIds": [
+        "9A5139FCBACE4D2D9ACC214BC53AEB7E",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9A5139FCBACE4D2D9ACC214BC53AEB7E"
+    },
+    "1B296E03CC884B61823DDA899D48BCAD": {
+      "id": "1B296E03CC884B61823DDA899D48BCAD",
+      "asnIdentifier": null,
+      "position": 94001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 9.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the principles of design for manufacturability and assembly of mechanical products.",
+      "comments": [],
+      "ancestorIds": [
+        "9A5139FCBACE4D2D9ACC214BC53AEB7E",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "9A5139FCBACE4D2D9ACC214BC53AEB7E"
+    },
+    "9A5139FCBACE4D2D9ACC214BC53AEB7E": {
+      "id": "9A5139FCBACE4D2D9ACC214BC53AEB7E",
+      "asnIdentifier": null,
+      "position": 93001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O9.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Optimize performance of a mechanical part or assembly.",
+      "comments": [],
+      "ancestorIds": [
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "85B568670B3A40D2B54AF82F7C6B3498"
+    },
+    "EE1752341C474D26BCE0E31C73137D5E": {
+      "id": "EE1752341C474D26BCE0E31C73137D5E",
+      "asnIdentifier": null,
+      "position": 92001,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "KS 9.1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify joints that allow movement between interfacing parts in an assembly and the\ndegrees of freedom that it removes from the movement between parts (including slots,\nhinges, ball and socket, rotating knobs). ",
+      "comments": [],
+      "ancestorIds": [
+        "55D9B7825AB647D29BE5608DC97214F7",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "55D9B7825AB647D29BE5608DC97214F7"
+    },
+    "E410EDBD646247F49FFC9854ED07F891": {
+      "id": "E410EDBD646247F49FFC9854ED07F891",
+      "asnIdentifier": null,
+      "position": 91001,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 9.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe methods to rigidly join parts of an assembly (including press fits, special joints,\nadhesives, mechanical fasteners) ",
+      "comments": [],
+      "ancestorIds": [
+        "55D9B7825AB647D29BE5608DC97214F7",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "55D9B7825AB647D29BE5608DC97214F7"
+    },
+    "85F40E2A49684AB896178FF055328D47": {
+      "id": "85F40E2A49684AB896178FF055328D47",
+      "asnIdentifier": null,
+      "position": 90001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 9.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform a structural analysis of a product or system to determine the materials used, the\nform of component parts, as well as the configuration and interaction of component parts\nwhen assembled (if applicable).",
+      "comments": [],
+      "ancestorIds": [
+        "55D9B7825AB647D29BE5608DC97214F7",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "55D9B7825AB647D29BE5608DC97214F7"
+    },
+    "0A54956704284E89A83D589B8819DFD1": {
+      "id": "0A54956704284E89A83D589B8819DFD1",
+      "asnIdentifier": null,
+      "position": 89001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 9.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform a functional analysis of a product or system to determine the purpose, inputs and\noutputs, and operation of a product or system.",
+      "comments": [],
+      "ancestorIds": [
+        "55D9B7825AB647D29BE5608DC97214F7",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "55D9B7825AB647D29BE5608DC97214F7"
+    },
+    "EEF0BC4C440B49779F052C04EC68F4BD": {
+      "id": "EEF0BC4C440B49779F052C04EC68F4BD",
+      "asnIdentifier": null,
+      "position": 88001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 9.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform a visual analysis of a natural or man-made object and describe the apparent\nvisual principles and elements of design.",
+      "comments": [],
+      "ancestorIds": [
+        "55D9B7825AB647D29BE5608DC97214F7",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "55D9B7825AB647D29BE5608DC97214F7"
+    },
+    "674E76D9A7004770A02A925926B95F61": {
+      "id": "674E76D9A7004770A02A925926B95F61",
+      "asnIdentifier": null,
+      "position": 87001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 9.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the processes and purposes of reverse engineering.",
+      "comments": [],
+      "ancestorIds": [
+        "55D9B7825AB647D29BE5608DC97214F7",
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "55D9B7825AB647D29BE5608DC97214F7"
+    },
+    "55D9B7825AB647D29BE5608DC97214F7": {
+      "id": "55D9B7825AB647D29BE5608DC97214F7",
+      "asnIdentifier": null,
+      "position": 86001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O9.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze a consumer product using reverse engineering techniques to document visual, functional, and\nstructural aspects of the design.",
+      "comments": [],
+      "ancestorIds": [
+        "85B568670B3A40D2B54AF82F7C6B3498",
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "85B568670B3A40D2B54AF82F7C6B3498"
+    },
+    "85B568670B3A40D2B54AF82F7C6B3498": {
+      "id": "85B568670B3A40D2B54AF82F7C6B3498",
+      "asnIdentifier": null,
+      "position": 85001,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "D9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineering Design: Engineers analyze the visual, functional, and structural elements of existing products for many reasons,\nincluding knowledge attainment, product or process improvement, and failure analysis.",
+      "comments": [],
+      "ancestorIds": [
+        "76454131D5BA4A298B11AECBCEB25A61"
+      ],
+      "parentId": "76454131D5BA4A298B11AECBCEB25A61"
+    },
+    "76454131D5BA4A298B11AECBCEB25A61": {
+      "id": "76454131D5BA4A298B11AECBCEB25A61",
+      "asnIdentifier": null,
+      "position": 84001,
+      "depth": 0,
+      "listId": "III",
+      "statementNotation": "C3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Technical Knowledge and Skills: Every career field requires technical literacy and career-specific knowledge and skills to support professional practice.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "21E68EB804294138AA7A91EB60A1F391": {
+      "id": "21E68EB804294138AA7A91EB60A1F391",
+      "asnIdentifier": null,
+      "position": 83001,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "KS 8.1.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Practice active listening.",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "94D8F4DBFC0F462AAB45FDC8AE3A92E9": {
+      "id": "94D8F4DBFC0F462AAB45FDC8AE3A92E9",
+      "asnIdentifier": null,
+      "position": 82001,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "KS 8.1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive\nelements) in presentations to enhance understanding of findings, reasoning, and evidence,\nand to add interest.",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "B4C0C1C6C75C4107893F8AE0FFCB6708": {
+      "id": "B4C0C1C6C75C4107893F8AE0FFCB6708",
+      "asnIdentifier": null,
+      "position": 81001,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 8.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Present information, findings, and supporting evidence clearly, concisely, and logically,\nsuch that listeners can follow the line of reasoning and the organization, development,\nsubstance, and style are appropriate to purpose, audience, and task. ",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "FE5ADFFF17AE4E6EB01F983EEA1A2E01": {
+      "id": "FE5ADFFF17AE4E6EB01F983EEA1A2E01",
+      "asnIdentifier": null,
+      "position": 80001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 8.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Present information, findings, and supporting evidence clearly, concisely, and logically in\nwriting in which the development, organization, and style are appropriate to task, purpose,\nand audience. ",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "99857A52A5F44EA4985D529685AF0406": {
+      "id": "99857A52A5F44EA4985D529685AF0406",
+      "asnIdentifier": null,
+      "position": 79001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 8.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Initiate and participate in a range of open and effective interactions (one-on-one, in groups,\nand teacher-led) with diverse participants and across cultures, building on others' ideas\nand expressing one's own clearly and persuasively. ",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "CA74683B101F444899619DAB3C5A3714": {
+      "id": "CA74683B101F444899619DAB3C5A3714",
+      "asnIdentifier": null,
+      "position": 78001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 8.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use sketches, tables, charts, and graphs when appropriate to clearly communicate\ninformation and in making arguments and claims in oral, written, and visual presentations.",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "3B83C398CBE140D99F9769E853E529FC": {
+      "id": "3B83C398CBE140D99F9769E853E529FC",
+      "asnIdentifier": null,
+      "position": 77001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 8.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "According to best practices, effectively document engineering or scientific work in an\norganized notebook so someone unfamiliar with the work can follow and understand the\nprocess.",
+      "comments": [],
+      "ancestorIds": [
+        "64EC58FE9D654363A3D8BF7518DAF377",
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "64EC58FE9D654363A3D8BF7518DAF377"
+    },
+    "64EC58FE9D654363A3D8BF7518DAF377": {
+      "id": "64EC58FE9D654363A3D8BF7518DAF377",
+      "asnIdentifier": null,
+      "position": 76001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communicate effectively with an audience based on audience characteristics.",
+      "comments": [],
+      "ancestorIds": [
+        "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "B404BDF7A6D44F62A8A9EB0BD764B6CB"
+    },
+    "B404BDF7A6D44F62A8A9EB0BD764B6CB": {
+      "id": "B404BDF7A6D44F62A8A9EB0BD764B6CB",
+      "asnIdentifier": null,
+      "position": 75001,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "D8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication: Successful engineering professionals demonstrate effective communication with a variety of audiences using\nmultiple modalities. ",
+      "comments": [],
+      "ancestorIds": [
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+    },
+    "7656FD1152114E3084002DD30279871E": {
+      "id": "7656FD1152114E3084002DD30279871E",
+      "asnIdentifier": null,
+      "position": 74001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 7.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Provide effective feedback to peers. ",
+      "comments": [],
+      "ancestorIds": [
+        "B76FB5ED7BC14E1CA3FF16F2DFE61BA6",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "B76FB5ED7BC14E1CA3FF16F2DFE61BA6"
+    },
+    "FB4E259741B54559A33C190A7441D3D4": {
+      "id": "FB4E259741B54559A33C190A7441D3D4",
+      "asnIdentifier": null,
+      "position": 73001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 7.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the purpose and positive outcomes of a peer review process.",
+      "comments": [],
+      "ancestorIds": [
+        "B76FB5ED7BC14E1CA3FF16F2DFE61BA6",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "B76FB5ED7BC14E1CA3FF16F2DFE61BA6"
+    },
+    "B76FB5ED7BC14E1CA3FF16F2DFE61BA6": {
+      "id": "B76FB5ED7BC14E1CA3FF16F2DFE61BA6",
+      "asnIdentifier": null,
+      "position": 72001,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "O7.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze and evaluate the work of others to provide helpful feedback.",
+      "comments": [],
+      "ancestorIds": [
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "C0142578511045E3967BF42D207B982B"
+    },
+    "4AE58ACFC1514E04AEB34862619AA662": {
+      "id": "4AE58ACFC1514E04AEB34862619AA662",
+      "asnIdentifier": null,
+      "position": 71001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 7.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critically and realistically self-evaluate personal contributions and collaboration\neffectiveness within a team. [ongoing] ",
+      "comments": [],
+      "ancestorIds": [
+        "5ACC9F55C68F47D2B8CCD84459096DB5",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "5ACC9F55C68F47D2B8CCD84459096DB5"
+    },
+    "C81C35285AFC49CE9EEF47DD5D72A02F": {
+      "id": "C81C35285AFC49CE9EEF47DD5D72A02F",
+      "asnIdentifier": null,
+      "position": 70001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 7.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Present all work to be/being done individually in a timely manner to the team to gather\nfeedback, inform revision, and gain consensus.",
+      "comments": [],
+      "ancestorIds": [
+        "5ACC9F55C68F47D2B8CCD84459096DB5",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "5ACC9F55C68F47D2B8CCD84459096DB5"
+    },
+    "DDED8DA8C76844158627448A8AC7FC17": {
+      "id": "DDED8DA8C76844158627448A8AC7FC17",
+      "asnIdentifier": null,
+      "position": 69001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 7.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Support other team members, prompting and offering assistance, if needed, to meet team\ngoals. ",
+      "comments": [],
+      "ancestorIds": [
+        "5ACC9F55C68F47D2B8CCD84459096DB5",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "5ACC9F55C68F47D2B8CCD84459096DB5"
+    },
+    "623F77715E744DFF8DDD0200193D6A0C": {
+      "id": "623F77715E744DFF8DDD0200193D6A0C",
+      "asnIdentifier": null,
+      "position": 68001,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "KS 7.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe one’s individual role and expectations of performance within the team, including\ncommunication protocol and rules of engagement per the team norms.",
+      "comments": [],
+      "ancestorIds": [
+        "5ACC9F55C68F47D2B8CCD84459096DB5",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "5ACC9F55C68F47D2B8CCD84459096DB5"
+    },
+    "5ACC9F55C68F47D2B8CCD84459096DB5": {
+      "id": "5ACC9F55C68F47D2B8CCD84459096DB5",
+      "asnIdentifier": null,
+      "position": 67001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Contribute individually to overall collaborative efforts.",
+      "comments": [],
+      "ancestorIds": [
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "C0142578511045E3967BF42D207B982B"
+    },
+    "9A209B250F134FDB8E58D266D30A777B": {
+      "id": "9A209B250F134FDB8E58D266D30A777B",
+      "asnIdentifier": null,
+      "position": 66001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 7.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop ideas and create products through positive interdependence among all\nteammates.",
+      "comments": [],
+      "ancestorIds": [
+        "A54AE31486A14E7AA046D3D91345DD28",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "A54AE31486A14E7AA046D3D91345DD28"
+    },
+    "9E6B8EA5E17842F4A5B1E7AFF1ECDDFC": {
+      "id": "9E6B8EA5E17842F4A5B1E7AFF1ECDDFC",
+      "asnIdentifier": null,
+      "position": 65001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 7.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Monitor, solicit, negotiate, and balance diverse views and beliefs to reach shared\nunderstanding, common ground and workable solutions. Identify basic resolution strategies\nand employ those strategies as necessary and appropriate.",
+      "comments": [],
+      "ancestorIds": [
+        "A54AE31486A14E7AA046D3D91345DD28",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "A54AE31486A14E7AA046D3D91345DD28"
+    },
+    "14A6C370A7C344A897A6ACFFE0E967C0": {
+      "id": "14A6C370A7C344A897A6ACFFE0E967C0",
+      "asnIdentifier": null,
+      "position": 64001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 7.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop and follow team norms. ",
+      "comments": [],
+      "ancestorIds": [
+        "A54AE31486A14E7AA046D3D91345DD28",
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "A54AE31486A14E7AA046D3D91345DD28"
+    },
+    "A54AE31486A14E7AA046D3D91345DD28": {
+      "id": "A54AE31486A14E7AA046D3D91345DD28",
+      "asnIdentifier": null,
+      "position": 63001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Facilitate an effective team environment to promote successful goal attainment. ",
+      "comments": [],
+      "ancestorIds": [
+        "C0142578511045E3967BF42D207B982B",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "C0142578511045E3967BF42D207B982B"
+    },
+    "C0142578511045E3967BF42D207B982B": {
+      "id": "C0142578511045E3967BF42D207B982B",
+      "asnIdentifier": null,
+      "position": 62001,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "D7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collaboration: Successful engineering professionals demonstrate an ability to function on multidisciplinary teams. ",
+      "comments": [],
+      "ancestorIds": [
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+    },
+    "28AE6612C8634B5286CBFE3DD8812F24": {
+      "id": "28AE6612C8634B5286CBFE3DD8812F24",
+      "asnIdentifier": null,
+      "position": 61001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 6.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Take action for collective well-being and sustainable development using an ethical\ndecision-making process. (This includes using natural resources effectively and efficiently,\nand considering the safety of those affected by a product and the potential effects on\nindividual and public health.) ",
+      "comments": [],
+      "ancestorIds": [
+        "80F36566F6E44305AF742F0ED9DC2B0C",
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "80F36566F6E44305AF742F0ED9DC2B0C"
+    },
+    "5CE48713468C446292E3A886202087BB": {
+      "id": "5CE48713468C446292E3A886202087BB",
+      "asnIdentifier": null,
+      "position": 60001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 6.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate a solution to a complex, real-world problem and identify the need for trade-offs to\naddress a range of criteria and constraints, including cost, safety, reliability, and aesthetics,\nas well as possible social, cultural, and environmental impacts.",
+      "comments": [],
+      "ancestorIds": [
+        "80F36566F6E44305AF742F0ED9DC2B0C",
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "80F36566F6E44305AF742F0ED9DC2B0C"
+    },
+    "887DD7D7736F46DBAF73F41A479F6954": {
+      "id": "887DD7D7736F46DBAF73F41A479F6954",
+      "asnIdentifier": null,
+      "position": 59001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 6.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the life cycle of a product or service. ",
+      "comments": [],
+      "ancestorIds": [
+        "80F36566F6E44305AF742F0ED9DC2B0C",
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "80F36566F6E44305AF742F0ED9DC2B0C"
+    },
+    "8273D45543C943D88A4261C0282CC8A0": {
+      "id": "8273D45543C943D88A4261C0282CC8A0",
+      "asnIdentifier": null,
+      "position": 58001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 6.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that different engineering solutions can have significantly different impacts on\nindividuals, society, and the natural world.",
+      "comments": [],
+      "ancestorIds": [
+        "80F36566F6E44305AF742F0ED9DC2B0C",
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "80F36566F6E44305AF742F0ED9DC2B0C"
+    },
+    "80F36566F6E44305AF742F0ED9DC2B0C": {
+      "id": "80F36566F6E44305AF742F0ED9DC2B0C",
+      "asnIdentifier": null,
+      "position": 57001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Consider the impact of potential engineering solutions on future generations to inform the\ndevelopment of sustainable solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "42AB58A302A64777A4680F44626F6B6F"
+    },
+    "841B1DA50BC0421EA0ABEEA31F7E1265": {
+      "id": "841B1DA50BC0421EA0ABEEA31F7E1265",
+      "asnIdentifier": null,
+      "position": 56001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 6.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Acknowledge and respect the local, national and international perspectives and ideas of\nothers. Demonstrate respect and empathy for teammates, mentors, employers/teachers,\nclients and other professional contacts, and those impacted by engineering decision ",
+      "comments": [],
+      "ancestorIds": [
+        "C7B179BF91FA4B0CA9C616BFCEA48831",
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "C7B179BF91FA4B0CA9C616BFCEA48831"
+    },
+    "F4F906469C3C4DF9AD639AAB8E557437": {
+      "id": "F4F906469C3C4DF9AD639AAB8E557437",
+      "asnIdentifier": null,
+      "position": 55001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 6.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that engineers have a responsibility to serve the public interest, their clients, and\nthe profession with a high degree of honesty, integrity, and accountability. This\nresponsibility is defined in professional codes of ethics. ",
+      "comments": [],
+      "ancestorIds": [
+        "C7B179BF91FA4B0CA9C616BFCEA48831",
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "C7B179BF91FA4B0CA9C616BFCEA48831"
+    },
+    "C7B179BF91FA4B0CA9C616BFCEA48831": {
+      "id": "C7B179BF91FA4B0CA9C616BFCEA48831",
+      "asnIdentifier": null,
+      "position": 54001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply personal and professional ethical standards as they relate to the habits and characteristics of an\nengineering professional. ",
+      "comments": [],
+      "ancestorIds": [
+        "42AB58A302A64777A4680F44626F6B6F",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "42AB58A302A64777A4680F44626F6B6F"
+    },
+    "42AB58A302A64777A4680F44626F6B6F": {
+      "id": "42AB58A302A64777A4680F44626F6B6F",
+      "asnIdentifier": null,
+      "position": 53001,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "D6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professionalism and Ethics: Successful engineering professionals exhibit personal and professional characteristics and behaviors that\ninvolve considerations of the impact of their work on individuals, society, and the natural world.",
+      "comments": [],
+      "ancestorIds": [
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+    },
+    "3DF494A682CB41F88C1D5E9C5FA93402": {
+      "id": "3DF494A682CB41F88C1D5E9C5FA93402",
+      "asnIdentifier": null,
+      "position": 52001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 5.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select and use collaborative tools, such as cloud-based tools, document sharing, and\nvideo and text functions, to successfully complete a project.",
+      "comments": [],
+      "ancestorIds": [
+        "07CC5D5EE230417AB47986C69FD3C6BA",
+        "0AEF58FD005849C9AB699821B846CFA5",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "07CC5D5EE230417AB47986C69FD3C6BA"
+    },
+    "B8D0AD64A39148B696A732DFF96F14C2": {
+      "id": "B8D0AD64A39148B696A732DFF96F14C2",
+      "asnIdentifier": null,
+      "position": 51001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 5.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a project schedule (with the critical path identified when appropriate), allocate\ntasks among team members, and track progress for successful completion of the project.",
+      "comments": [],
+      "ancestorIds": [
+        "07CC5D5EE230417AB47986C69FD3C6BA",
+        "0AEF58FD005849C9AB699821B846CFA5",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "07CC5D5EE230417AB47986C69FD3C6BA"
+    },
+    "F6BDA6DB01184F2CA0209D7A518612FD": {
+      "id": "F6BDA6DB01184F2CA0209D7A518612FD",
+      "asnIdentifier": null,
+      "position": 50001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 5.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define the project deliverables and constraints, such as scope, time, cost, quality,\nresources, and risk.\n",
+      "comments": [],
+      "ancestorIds": [
+        "07CC5D5EE230417AB47986C69FD3C6BA",
+        "0AEF58FD005849C9AB699821B846CFA5",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "07CC5D5EE230417AB47986C69FD3C6BA"
+    },
+    "07CC5D5EE230417AB47986C69FD3C6BA": {
+      "id": "07CC5D5EE230417AB47986C69FD3C6BA",
+      "asnIdentifier": null,
+      "position": 49001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply project management tools when designing and developing a solution to successfully deliver a\nproduct using available resources. ",
+      "comments": [],
+      "ancestorIds": [
+        "0AEF58FD005849C9AB699821B846CFA5",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0AEF58FD005849C9AB699821B846CFA5"
+    },
+    "0AEF58FD005849C9AB699821B846CFA5": {
+      "id": "0AEF58FD005849C9AB699821B846CFA5",
+      "asnIdentifier": null,
+      "position": 48001,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "D5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Project Management: Project management involves planning, executing, controlling, and closing the work of a team to successfully\nmeet goals. ",
+      "comments": [],
+      "ancestorIds": [
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+    },
+    "7376F4D4539E40C3A42CB4604FFDCAD5": {
+      "id": "7376F4D4539E40C3A42CB4604FFDCAD5",
+      "asnIdentifier": null,
+      "position": 47001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 4.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and describe contemporary engineering issues of local, global and cultural\nsignificance.",
+      "comments": [],
+      "ancestorIds": [
+        "0A6BAF25B1B34091AB8BF98BA9D89726",
+        "69DBD8140B78480280325FF836F15F32",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0A6BAF25B1B34091AB8BF98BA9D89726"
+    },
+    "1AAF4810C1754CB88A61A86819B62A8F": {
+      "id": "1AAF4810C1754CB88A61A86819B62A8F",
+      "asnIdentifier": null,
+      "position": 46001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 4.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the discipline of mechanical engineering and a variety of sub-disciplines and\ntechnical roles related to mechanical engineering",
+      "comments": [],
+      "ancestorIds": [
+        "0A6BAF25B1B34091AB8BF98BA9D89726",
+        "69DBD8140B78480280325FF836F15F32",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0A6BAF25B1B34091AB8BF98BA9D89726"
+    },
+    "0A6BAF25B1B34091AB8BF98BA9D89726": {
+      "id": "0A6BAF25B1B34091AB8BF98BA9D89726",
+      "asnIdentifier": null,
+      "position": 45001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "0.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the role of engineering professionals in society",
+      "comments": [],
+      "ancestorIds": [
+        "69DBD8140B78480280325FF836F15F32",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "69DBD8140B78480280325FF836F15F32"
+    },
+    "8AC7044259CF4F7A9CF948D7B9D73C3C": {
+      "id": "8AC7044259CF4F7A9CF948D7B9D73C3C",
+      "asnIdentifier": null,
+      "position": 44001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 4.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify technical and nontechnical skills common to all engineering disciplines that are\ngained from specialized and intense education, training, and experience, including\nproblem-solving, the design process, data processing and interpretation, handling\nuncertainty, systems thinking, and modeling. ",
+      "comments": [],
+      "ancestorIds": [
+        "BE71B4B293AD468F8A81B6DFA9891C66",
+        "69DBD8140B78480280325FF836F15F32",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "BE71B4B293AD468F8A81B6DFA9891C66"
+    },
+    "D9CE8CFA99C54A238DDD4C751A66621A": {
+      "id": "D9CE8CFA99C54A238DDD4C751A66621A",
+      "asnIdentifier": null,
+      "position": 43001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 4.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define engineering as the creation of solutions, such as new and improved products,\ntechnologies, systems and processes), to meet the needs of people and society. ",
+      "comments": [],
+      "ancestorIds": [
+        "BE71B4B293AD468F8A81B6DFA9891C66",
+        "69DBD8140B78480280325FF836F15F32",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "BE71B4B293AD468F8A81B6DFA9891C66"
+    },
+    "BE71B4B293AD468F8A81B6DFA9891C66": {
+      "id": "BE71B4B293AD468F8A81B6DFA9891C66",
+      "asnIdentifier": null,
+      "position": 42001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate awareness of the education and skills required for professional practice in an\nengineering field. ",
+      "comments": [],
+      "ancestorIds": [
+        "69DBD8140B78480280325FF836F15F32",
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "69DBD8140B78480280325FF836F15F32"
+    },
+    "69DBD8140B78480280325FF836F15F32": {
+      "id": "69DBD8140B78480280325FF836F15F32",
+      "asnIdentifier": null,
+      "position": 41001,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "D4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Career Awareness: STEM professionals use professional skills and knowledge to pursue opportunities and create sustainable\nsolutions to improve and enhance the quality of life of individuals and society.",
+      "comments": [],
+      "ancestorIds": [
+        "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+      ],
+      "parentId": "0FD7B5D8C9FF4EB29A6F16138585DBF0"
+    },
+    "0FD7B5D8C9FF4EB29A6F16138585DBF0": {
+      "id": "0FD7B5D8C9FF4EB29A6F16138585DBF0",
+      "asnIdentifier": null,
+      "position": 40001,
+      "depth": 0,
+      "listId": "II",
+      "statementNotation": "C2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professional Practices and Communication: Professional practice is guided by professional ethics and standards and requires effective communication and\ncollaboration.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6E7DEDBA01FD4889B7DFE259EC503CC2": {
+      "id": "6E7DEDBA01FD4889B7DFE259EC503CC2",
+      "asnIdentifier": null,
+      "position": 39001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 3.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw conclusions related to the hypothesis and support conclusions using experimental\ndata.",
+      "comments": [],
+      "ancestorIds": [
+        "D2BCAE024D934A4CA564F34D6D5EC545",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "D2BCAE024D934A4CA564F34D6D5EC545"
+    },
+    "A0113ABA6A3B4D19B38D309CF1675B2D": {
+      "id": "A0113ABA6A3B4D19B38D309CF1675B2D",
+      "asnIdentifier": null,
+      "position": 38001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 3.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply inferential reasoning to make and/or support claims about populations based on\ndata.",
+      "comments": [],
+      "ancestorIds": [
+        "D2BCAE024D934A4CA564F34D6D5EC545",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "D2BCAE024D934A4CA564F34D6D5EC545"
+    },
+    "9968F8CEF9C0450FAD843DF15E17A365": {
+      "id": "9968F8CEF9C0450FAD843DF15E17A365",
+      "asnIdentifier": null,
+      "position": 37001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 3.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use statistics appropriate to the shape of the data distribution to compare center (median,\nmean) and spread (interquartile range) of two or more different data sets. Interpret\ndifferences in shape, center, and spread in the context of the data sets. ",
+      "comments": [],
+      "ancestorIds": [
+        "D2BCAE024D934A4CA564F34D6D5EC545",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "D2BCAE024D934A4CA564F34D6D5EC545"
+    },
+    "7AC7E306EFC74BCCB87DDE300364F4E1": {
+      "id": "7AC7E306EFC74BCCB87DDE300364F4E1",
+      "asnIdentifier": null,
+      "position": 36001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 3.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graphically represent experimental data for a single count or measurement with charts\nand/or plots on the real number line, such as dot plots, box plots and histograms.",
+      "comments": [],
+      "ancestorIds": [
+        "D2BCAE024D934A4CA564F34D6D5EC545",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "D2BCAE024D934A4CA564F34D6D5EC545"
+    },
+    "D2BCAE024D934A4CA564F34D6D5EC545": {
+      "id": "D2BCAE024D934A4CA564F34D6D5EC545",
+      "asnIdentifier": null,
+      "position": 35001,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use appropriate statistical methods and visualization techniques to justify claims based on evidence",
+      "comments": [],
+      "ancestorIds": [
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E6FF70F652B04CF6A31DBCE3AACC4E9D"
+    },
+    "23565E404C90406DB355E99E30608AEE": {
+      "id": "23565E404C90406DB355E99E30608AEE",
+      "asnIdentifier": null,
+      "position": 34001,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 3.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify possible sources of errors, if they exist, redesign and repeat the experiment when\nappropriate. ",
+      "comments": [],
+      "ancestorIds": [
+        "E7CD94CD179E4F5094DC5B7B18337CC8",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E7CD94CD179E4F5094DC5B7B18337CC8"
+    },
+    "444DEDA719284A3696C3916DAC5E8280": {
+      "id": "444DEDA719284A3696C3916DAC5E8280",
+      "asnIdentifier": null,
+      "position": 33001,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 3.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Read and accurately follow established protocols and instructions",
+      "comments": [],
+      "ancestorIds": [
+        "E7CD94CD179E4F5094DC5B7B18337CC8",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E7CD94CD179E4F5094DC5B7B18337CC8"
+    },
+    "4E5A7F1940AF4AD1A5D9D593E53198BD": {
+      "id": "4E5A7F1940AF4AD1A5D9D593E53198BD",
+      "asnIdentifier": null,
+      "position": 32001,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 3.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize the objective and relevancy of an experiment",
+      "comments": [],
+      "ancestorIds": [
+        "E7CD94CD179E4F5094DC5B7B18337CC8",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E7CD94CD179E4F5094DC5B7B18337CC8"
+    },
+    "FBACA12D8CFF4A6CAA75CB874DA99ED1": {
+      "id": "FBACA12D8CFF4A6CAA75CB874DA99ED1",
+      "asnIdentifier": null,
+      "position": 31001,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 3.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify best strategies and appropriate tools for data collection, documentation, and\nanalysis.",
+      "comments": [],
+      "ancestorIds": [
+        "E7CD94CD179E4F5094DC5B7B18337CC8",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E7CD94CD179E4F5094DC5B7B18337CC8"
+    },
+    "2E6BA0BDFEB24E02AB5CD5A9A11437A6": {
+      "id": "2E6BA0BDFEB24E02AB5CD5A9A11437A6",
+      "asnIdentifier": null,
+      "position": 30001,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 3.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a testable hypothesis, experimental controls and important variables (independent\nand dependent) address a problem or answer a question. ",
+      "comments": [],
+      "ancestorIds": [
+        "E7CD94CD179E4F5094DC5B7B18337CC8",
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E7CD94CD179E4F5094DC5B7B18337CC8"
+    },
+    "E7CD94CD179E4F5094DC5B7B18337CC8": {
+      "id": "E7CD94CD179E4F5094DC5B7B18337CC8",
+      "asnIdentifier": null,
+      "position": 29001,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and perform an experimental protocol to investigate a phenomenon and/or gain knowledge.",
+      "comments": [],
+      "ancestorIds": [
+        "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E6FF70F652B04CF6A31DBCE3AACC4E9D"
+    },
+    "E6FF70F652B04CF6A31DBCE3AACC4E9D": {
+      "id": "E6FF70F652B04CF6A31DBCE3AACC4E9D",
+      "asnIdentifier": null,
+      "position": 28001,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "D3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Experimental Design: An experimental design process is a systematic approach to investigate a phenomenon and gain knowledge.",
+      "comments": [],
+      "ancestorIds": [
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E03C71CC35DE4305AFCAD2BAD934714D"
+    },
+    "36CB5526515B40D293E6CB8F6841070B": {
+      "id": "36CB5526515B40D293E6CB8F6841070B",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "KS 2.1.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Strategically iterate steps of the design process to improve and optimize a solution.",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "7FBFC380B623495A922B23E8942C3587": {
+      "id": "7FBFC380B623495A922B23E8942C3587",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "KS 2.1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify design flaws of and potential enhancements to a proposed design solution.",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "34116B7D30284D53870788AF66828E2A": {
+      "id": "34116B7D30284D53870788AF66828E2A",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "KS 2.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a potential solution and implement a plan to test and evaluate the solution with\nrespect to design criteria and constraints.",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "D10831D3E27146408C3B57EAF63B9ACB": {
+      "id": "D10831D3E27146408C3B57EAF63B9ACB",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 2.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Carry out a plan to compare competing solution ideas and justify the selection of a solution\npath with respect to design requirements and constraints.",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "34EECF6E0497453B97D261C7FD003372": {
+      "id": "34EECF6E0497453B97D261C7FD003372",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 2.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply effective techniques and appropriate guidelines to generate multiple creative ideas\nand potential solutions to a problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "85D016B748A2467DBF524E868ABB4C1D": {
+      "id": "85D016B748A2467DBF524E868ABB4C1D",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS.2.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define measurable visual, functional, and structural design requirements (criteria) and\nrealistic constraints against which solution alternatives can be evaluated and optimized.\n[Note that criteria and constraints should include considerations of cost, safety, reliability,\nmanufacturability, and aesthetics, as well as possible social, cultural, and environmental\nimpacts.] ",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "8F86ABF25AA844D8A7780E6A5C8F837E": {
+      "id": "8F86ABF25AA844D8A7780E6A5C8F837E",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 2.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Synthesize an ill-formed problem into a meaningful, well-defined problem using relevant\ninformation. ",
+      "comments": [],
+      "ancestorIds": [
+        "252F5AE9C54D48A790B07D36DE91EF7B",
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "252F5AE9C54D48A790B07D36DE91EF7B"
+    },
+    "252F5AE9C54D48A790B07D36DE91EF7B": {
+      "id": "252F5AE9C54D48A790B07D36DE91EF7B",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply an iterative design process to creatively address a need or solve a problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "B38954B2029E48749BC3BB9E83540F23",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "B38954B2029E48749BC3BB9E83540F23"
+    },
+    "B38954B2029E48749BC3BB9E83540F23": {
+      "id": "B38954B2029E48749BC3BB9E83540F23",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "D2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design Process: An engineering design process is an iterative, systematic approach to problem solving",
+      "comments": [],
+      "ancestorIds": [
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E03C71CC35DE4305AFCAD2BAD934714D"
+    },
+    "025315999E5F42ABA4F1EA0B737F9B44": {
+      "id": "025315999E5F42ABA4F1EA0B737F9B44",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 1.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw valid conclusions based on supporting evidence while acknowledging the limitations,\nopposing views, and biases. ",
+      "comments": [],
+      "ancestorIds": [
+        "664271A0C3104BE5A86C0D0C829F089A",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "664271A0C3104BE5A86C0D0C829F089A"
+    },
+    "03C0F9B4012A4938B78C4E2D27EBCCC2": {
+      "id": "03C0F9B4012A4938B78C4E2D27EBCCC2",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 1.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate point of view, reasoning, and use of evidence and rhetoric, in oral or written\ncommunication and identify deficiencies, limitations and biases. ",
+      "comments": [],
+      "ancestorIds": [
+        "664271A0C3104BE5A86C0D0C829F089A",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "664271A0C3104BE5A86C0D0C829F089A"
+    },
+    "72B70D4A1C38424AB150B1FB56638C40": {
+      "id": "72B70D4A1C38424AB150B1FB56638C40",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 1.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collect, analyze, and interpret information relevant to the problem or opportunity at hand to\nsupport engineering decisions. ",
+      "comments": [],
+      "ancestorIds": [
+        "664271A0C3104BE5A86C0D0C829F089A",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "664271A0C3104BE5A86C0D0C829F089A"
+    },
+    "850CB11F05AD4FBAAE95664D513B5E3F": {
+      "id": "850CB11F05AD4FBAAE95664D513B5E3F",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 1.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find relevant data in credible sources such as literature, databases, and policy documents. ",
+      "comments": [],
+      "ancestorIds": [
+        "664271A0C3104BE5A86C0D0C829F089A",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "664271A0C3104BE5A86C0D0C829F089A"
+    },
+    "664271A0C3104BE5A86C0D0C829F089A": {
+      "id": "664271A0C3104BE5A86C0D0C829F089A",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "O1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make judgments and decisions based on evidence.",
+      "comments": [],
+      "ancestorIds": [
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "C2F7FEA3C8EC48EA90E4FC231E2CA955"
+    },
+    "D30DA348997A4EE881EC44F9537796AF": {
+      "id": "D30DA348997A4EE881EC44F9537796AF",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 1.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate persistence in accomplishing a difficult challenge.",
+      "comments": [],
+      "ancestorIds": [
+        "AAD0E38C779B42A18778542CE86D6E97",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "AAD0E38C779B42A18778542CE86D6E97"
+    },
+    "E7A35C90A0604871A571FA21C7CC49FC": {
+      "id": "E7A35C90A0604871A571FA21C7CC49FC",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 1.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate risk taking in engineering, scientific, or computational processes.",
+      "comments": [],
+      "ancestorIds": [
+        "AAD0E38C779B42A18778542CE86D6E97",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "AAD0E38C779B42A18778542CE86D6E97"
+    },
+    "AAD0E38C779B42A18778542CE86D6E97": {
+      "id": "AAD0E38C779B42A18778542CE86D6E97",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "O1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Persevere to solve a problem or achieve a goal. ",
+      "comments": [],
+      "ancestorIds": [
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "C2F7FEA3C8EC48EA90E4FC231E2CA955"
+    },
+    "7E27260E76DE4541842CDE75E341CB93": {
+      "id": "7E27260E76DE4541842CDE75E341CB93",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "KS 1.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Successfully adjust to changes that impact work. Adapt to varied roles, job responsibilities,\nand schedules.",
+      "comments": [],
+      "ancestorIds": [
+        "25F15E9D95F64D92A2DB9F4A27002F39",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "25F15E9D95F64D92A2DB9F4A27002F39"
+    },
+    "482B29FE48D84E239BC9F2F17DA47C54": {
+      "id": "482B29FE48D84E239BC9F2F17DA47C54",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 1.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reflect critically on past experiences to inform future progress.",
+      "comments": [],
+      "ancestorIds": [
+        "25F15E9D95F64D92A2DB9F4A27002F39",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "25F15E9D95F64D92A2DB9F4A27002F39"
+    },
+    "4DA17FF6E60B424F80991B385C474D7B": {
+      "id": "4DA17FF6E60B424F80991B385C474D7B",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 1.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Seek out and use feedback to improve work and positively influence one’s personal and\nprofessional development. ",
+      "comments": [],
+      "ancestorIds": [
+        "25F15E9D95F64D92A2DB9F4A27002F39",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "25F15E9D95F64D92A2DB9F4A27002F39"
+    },
+    "1679E6EB599E4513B9A4566EF301153A": {
+      "id": "1679E6EB599E4513B9A4566EF301153A",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 1.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Ask new probing questions to expand and build upon an idea and explore personal\ncuriosities throughout a creative process.",
+      "comments": [],
+      "ancestorIds": [
+        "25F15E9D95F64D92A2DB9F4A27002F39",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "25F15E9D95F64D92A2DB9F4A27002F39"
+    },
+    "25F15E9D95F64D92A2DB9F4A27002F39": {
+      "id": "25F15E9D95F64D92A2DB9F4A27002F39",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "O1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate curiosity, creativity, flexibility, and adaptability to change.",
+      "comments": [],
+      "ancestorIds": [
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "C2F7FEA3C8EC48EA90E4FC231E2CA955"
+    },
+    "216D6FE80AEE4619B8D403B9A7D7F646": {
+      "id": "216D6FE80AEE4619B8D403B9A7D7F646",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "KS 1.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make and execute a plan to gain additional knowledge and learning to accomplish a goal",
+      "comments": [],
+      "ancestorIds": [
+        "BF971655DA6E47F2B5AB8F8009370B0B",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "BF971655DA6E47F2B5AB8F8009370B0B"
+    },
+    "6FF204C540BD418885E75EC4D97D56E1": {
+      "id": "6FF204C540BD418885E75EC4D97D56E1",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "KS 1.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Plan and use time effectively in pursuit of accomplishing a goal without direct oversight. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF971655DA6E47F2B5AB8F8009370B0B",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "BF971655DA6E47F2B5AB8F8009370B0B"
+    },
+    "FA8A7BA248D2432CA09105573768EB60": {
+      "id": "FA8A7BA248D2432CA09105573768EB60",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "KS 1.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the limitations of one’s knowledge and skills in pursuit of accomplishing a goal.",
+      "comments": [],
+      "ancestorIds": [
+        "BF971655DA6E47F2B5AB8F8009370B0B",
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "BF971655DA6E47F2B5AB8F8009370B0B"
+    },
+    "BF971655DA6E47F2B5AB8F8009370B0B": {
+      "id": "BF971655DA6E47F2B5AB8F8009370B0B",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "O1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate independent thinking and self-direction in pursuit of accomplishing a goal.",
+      "comments": [],
+      "ancestorIds": [
+        "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "C2F7FEA3C8EC48EA90E4FC231E2CA955"
+    },
+    "C2F7FEA3C8EC48EA90E4FC231E2CA955": {
+      "id": "C2F7FEA3C8EC48EA90E4FC231E2CA955",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "D1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineering Mindset\nSuccessful: STEM professionals exhibit specific personal and professional characteristics that lend themselves to\nthe creative, collaborative, and solution-driven nature of their profession.",
+      "comments": [],
+      "ancestorIds": [
+        "E03C71CC35DE4305AFCAD2BAD934714D"
+      ],
+      "parentId": "E03C71CC35DE4305AFCAD2BAD934714D"
+    },
+    "E03C71CC35DE4305AFCAD2BAD934714D": {
+      "id": "E03C71CC35DE4305AFCAD2BAD934714D",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "C1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Creativity and Problem Solving: Strategic and systematic design and inquiry processes guide the development of an effective solution to the problem.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

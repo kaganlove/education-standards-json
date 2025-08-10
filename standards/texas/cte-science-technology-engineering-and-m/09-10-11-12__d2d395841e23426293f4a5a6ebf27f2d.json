@@ -1,0 +1,974 @@
+{
+  "id": "D2D395841E23426293F4A5A6EBF27F2D",
+  "title": "Fundamentals of Computer Science (2022)",
+  "subject": "CTE: Science, Technology, Engineering, and Mathematics (2022-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Fundamentals of Computer Science (One Credit), Adopted 2022",
+    "sourceURL": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=19&pt=2&ch=127&rl=788"
+  },
+  "jurisdiction": {
+    "id": "28903EF2A9F9469C9BF592D4D0BE10F8",
+    "title": "Texas"
+  },
+  "standards": {
+    "5B4EBB0FBE0F49D0939A556D310C28EB": {
+      "id": "5B4EBB0FBE0F49D0939A556D310C28EB",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.6.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use various input, processing, output, and primary/secondary storage devices.",
+      "comments": [],
+      "ancestorIds": [
+        "AAD5ECD39FEF487297C4AA5F6E43A875",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AAD5ECD39FEF487297C4AA5F6E43A875"
+    },
+    "EBCF4CA77E14422782C06DC626913740": {
+      "id": "EBCF4CA77E14422782C06DC626913740",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.6.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "describe the differences between an application and an operating system; and",
+      "comments": [],
+      "ancestorIds": [
+        "AAD5ECD39FEF487297C4AA5F6E43A875",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AAD5ECD39FEF487297C4AA5F6E43A875"
+    },
+    "E847AC90B14E4CBEBF04EFD64A809151": {
+      "id": "E847AC90B14E4CBEBF04EFD64A809151",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.6.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "compare different operating systems;",
+      "comments": [],
+      "ancestorIds": [
+        "AAD5ECD39FEF487297C4AA5F6E43A875",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AAD5ECD39FEF487297C4AA5F6E43A875"
+    },
+    "AD2FBA0E399C46D8B3F9127D5ACDB92F": {
+      "id": "AD2FBA0E399C46D8B3F9127D5ACDB92F",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use system tools, including appropriate file management;",
+      "comments": [],
+      "ancestorIds": [
+        "AAD5ECD39FEF487297C4AA5F6E43A875",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AAD5ECD39FEF487297C4AA5F6E43A875"
+    },
+    "32762582FF5A4A0CB164F8A74CB643B1": {
+      "id": "32762582FF5A4A0CB164F8A74CB643B1",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify and explain the function of basic computer components, including a central processing unit (CPU), storage, and peripheral devices;",
+      "comments": [],
+      "ancestorIds": [
+        "AAD5ECD39FEF487297C4AA5F6E43A875",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AAD5ECD39FEF487297C4AA5F6E43A875"
+    },
+    "AAD5ECD39FEF487297C4AA5F6E43A875": {
+      "id": "AAD5ECD39FEF487297C4AA5F6E43A875",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "d.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Technology operations and concepts. The student understands technology concepts, systems, and operations as they apply to computer science. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "7DFCA3ADFF31419C85093AF7952508B6"
+    },
+    "AD281E7119AB497EA039E0D10850F034": {
+      "id": "AD281E7119AB497EA039E0D10850F034",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "d.5.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "analyze how electronic media can affect reliability of information.",
+      "comments": [],
+      "ancestorIds": [
+        "DEC70FBE4D424D5BA6A1D8F5027C9261",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "DEC70FBE4D424D5BA6A1D8F5027C9261"
+    },
+    "01D7A236FF2047889AB21865BF73CAE3": {
+      "id": "01D7A236FF2047889AB21865BF73CAE3",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.5.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "discuss and give examples of the impact of computing and computing-related advancements on society; and",
+      "comments": [],
+      "ancestorIds": [
+        "DEC70FBE4D424D5BA6A1D8F5027C9261",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "DEC70FBE4D424D5BA6A1D8F5027C9261"
+    },
+    "B6BB56AA35564B19B774EF68272A05E4": {
+      "id": "B6BB56AA35564B19B774EF68272A05E4",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.5.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "explain the value of strong passwords and virus detection and prevention for privacy and security;",
+      "comments": [],
+      "ancestorIds": [
+        "DEC70FBE4D424D5BA6A1D8F5027C9261",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "DEC70FBE4D424D5BA6A1D8F5027C9261"
+    },
+    "E4B860B8A1514F35BF717E4E9E2FB322": {
+      "id": "E4B860B8A1514F35BF717E4E9E2FB322",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.5.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate proper digital etiquette and knowledge of acceptable use policies when using networks;",
+      "comments": [],
+      "ancestorIds": [
+        "DEC70FBE4D424D5BA6A1D8F5027C9261",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "DEC70FBE4D424D5BA6A1D8F5027C9261"
+    },
+    "A3B3CA84E17C4E829983EEDB6B47E545": {
+      "id": "A3B3CA84E17C4E829983EEDB6B47E545",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "compare various non-copyright asset sharing options such as open source, freeware, and public domain;",
+      "comments": [],
+      "ancestorIds": [
+        "DEC70FBE4D424D5BA6A1D8F5027C9261",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "DEC70FBE4D424D5BA6A1D8F5027C9261"
+    },
+    "3391DF4F9AC04263B36D434020C13E56": {
+      "id": "3391DF4F9AC04263B36D434020C13E56",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "discuss privacy and copyright laws and model ethical acquisition of digital information by citing sources using established methods;",
+      "comments": [],
+      "ancestorIds": [
+        "DEC70FBE4D424D5BA6A1D8F5027C9261",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "DEC70FBE4D424D5BA6A1D8F5027C9261"
+    },
+    "DEC70FBE4D424D5BA6A1D8F5027C9261": {
+      "id": "DEC70FBE4D424D5BA6A1D8F5027C9261",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "d.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital citizenship. The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information. The student is expected to: ",
+      "comments": [],
+      "ancestorIds": [
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "7DFCA3ADFF31419C85093AF7952508B6"
+    },
+    "05BB7100DD5A4AFB86338225095CCC35": {
+      "id": "05BB7100DD5A4AFB86338225095CCC35",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "L",
+      "statementNotation": "d.4.L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "test program solutions by investigating intended outcomes.",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "BEF8A2CFBEB4451D8AD48FACC1B4DA71": {
+      "id": "BEF8A2CFBEB4451D8AD48FACC1B4DA71",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "K",
+      "statementNotation": "d.4.K",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use random numbers within a programmed story, game, or animation; and",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "343519C05EB8494A94B0C5F4258733E4": {
+      "id": "343519C05EB8494A94B0C5F4258733E4",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "J",
+      "statementNotation": "d.4.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "communicate an understanding of and use iteration within a programmed story, game, or animation;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "BA5FB5441CC24C298B98C158D0A06EA2": {
+      "id": "BA5FB5441CC24C298B98C158D0A06EA2",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "d.4.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "communicate an understanding of and use conditional statements within a programmed story, game, or animation;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "4E2A32AA271A45069E2413D0A1157A39": {
+      "id": "4E2A32AA271A45069E2413D0A1157A39",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "d.4.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "communicate an understanding of and use sequence within a programmed story, game, or animation; ",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "BF6374135854453C9198A71D5E1A888F": {
+      "id": "BF6374135854453C9198A71D5E1A888F",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "d.4.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use arithmetic operators to create mathematical expressions, including addition, subtraction, multiplication, real division, integer division, and modulus division;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "B1E4BE5F20884A648EFCF7ACA85F3E32": {
+      "id": "B1E4BE5F20884A648EFCF7ACA85F3E32",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "d.4.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "communicate an understanding of and use variables within a programmed story, game, or animation;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "16A51FE760BE4CD3AAED31613D33BAFC": {
+      "id": "16A51FE760BE4CD3AAED31613D33BAFC",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.4.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify and use the appropriate data type to properly represent the data in a program problem solution;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "30E1FEED830745FE9CB9FE1EEFB71EE6": {
+      "id": "30E1FEED830745FE9CB9FE1EEFB71EE6",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.4.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate coding proficiency in a programming language by developing solutions that create stories, games, and animations;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "C331E3E3D2214246AC66D4574B58DEF0": {
+      "id": "C331E3E3D2214246AC66D4574B58DEF0",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.4.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify a problem's description, purpose, and goals;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "2226A95F7E2E4593BC4E16D22362005A": {
+      "id": "2226A95F7E2E4593BC4E16D22362005A",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.4.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "communicate an understanding of binary representation of data in computer systems, perform conversions between decimal and binary number systems, and count in binary number systems; ",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "12D5FF984D2349F1A47BC036DA84D22A": {
+      "id": "12D5FF984D2349F1A47BC036DA84D22A",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate the ability to insert external standalone objects such as scripts or widgets into web pages;",
+      "comments": [],
+      "ancestorIds": [
+        "AB9A748A8FAE4C8A8B32C21B9586330F",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "AB9A748A8FAE4C8A8B32C21B9586330F"
+    },
+    "AB9A748A8FAE4C8A8B32C21B9586330F": {
+      "id": "AB9A748A8FAE4C8A8B32C21B9586330F",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "d.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critical thinking, problem solving, and decision making. The student uses appropriate strategies to analyze problems and design algorithms. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "7DFCA3ADFF31419C85093AF7952508B6"
+    },
+    "67019282A6F54662A0CB90AB86C9C15A": {
+      "id": "67019282A6F54662A0CB90AB86C9C15A",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.3.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "publish information in a variety of ways such as print, monitor display, web pages, or video.",
+      "comments": [],
+      "ancestorIds": [
+        "0A2C972AEFD94137A19B6E14F72B28B4",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "0A2C972AEFD94137A19B6E14F72B28B4"
+    },
+    "6237C8BAABED430D9C9B57AECF0CCC2F": {
+      "id": "6237C8BAABED430D9C9B57AECF0CCC2F",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "debug and solve problems using reference materials and effective strategies; and",
+      "comments": [],
+      "ancestorIds": [
+        "0A2C972AEFD94137A19B6E14F72B28B4",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "0A2C972AEFD94137A19B6E14F72B28B4"
+    },
+    "DF249EA4724C4C1A94F56B2155CF59DD": {
+      "id": "DF249EA4724C4C1A94F56B2155CF59DD",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "seek and respond to advice or feedback from peers, educators, or professionals when evaluating problem solutions;",
+      "comments": [],
+      "ancestorIds": [
+        "0A2C972AEFD94137A19B6E14F72B28B4",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "0A2C972AEFD94137A19B6E14F72B28B4"
+    },
+    "0A2C972AEFD94137A19B6E14F72B28B4": {
+      "id": "0A2C972AEFD94137A19B6E14F72B28B4",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "d.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication and collaboration. The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "7DFCA3ADFF31419C85093AF7952508B6"
+    },
+    "A00549452F6349CE94F59498088C5483": {
+      "id": "A00549452F6349CE94F59498088C5483",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.2.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use generally accepted design standards for spacing, fonts, and color schemes to create functional user interfaces, including static and interactive screens.",
+      "comments": [],
+      "ancestorIds": [
+        "65B106826FFE444B9A0EDFCFC87F7CAE",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "65B106826FFE444B9A0EDFCFC87F7CAE"
+    },
+    "7F258537DF9741EBA2945319FA75D933": {
+      "id": "7F258537DF9741EBA2945319FA75D933",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.2.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "discuss methods and create and publish web pages using a web-based language such as HTML, Java Script, or XML; and",
+      "comments": [],
+      "ancestorIds": [
+        "65B106826FFE444B9A0EDFCFC87F7CAE",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "65B106826FFE444B9A0EDFCFC87F7CAE"
+    },
+    "636E246523B8432A86AEE4AF98EBEED6": {
+      "id": "636E246523B8432A86AEE4AF98EBEED6",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create algorithms for the solution of various problems;",
+      "comments": [],
+      "ancestorIds": [
+        "65B106826FFE444B9A0EDFCFC87F7CAE",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "65B106826FFE444B9A0EDFCFC87F7CAE"
+    },
+    "412662B9085846EC9721BE86EE8E8E3B": {
+      "id": "412662B9085846EC9721BE86EE8E8E3B",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "investigate and explore various career opportunities within the computer science field and report findings through various media;",
+      "comments": [],
+      "ancestorIds": [
+        "65B106826FFE444B9A0EDFCFC87F7CAE",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "65B106826FFE444B9A0EDFCFC87F7CAE"
+    },
+    "65B106826FFE444B9A0EDFCFC87F7CAE": {
+      "id": "65B106826FFE444B9A0EDFCFC87F7CAE",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "d.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Creativity and innovation. The student develops products and generates new knowledge, understanding, and skills. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "7DFCA3ADFF31419C85093AF7952508B6"
+    },
+    "1B9A92E01C47431AA3806F10452B427F": {
+      "id": "1B9A92E01C47431AA3806F10452B427F",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "d.1.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "compare university computer science programs.",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "AEF82E1964164912ACE9EF749E973CDF": {
+      "id": "AEF82E1964164912ACE9EF749E973CDF",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "d.1.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate planning and time-management skills; and",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "F7960BF8F5EC49C19B241B1EE2BB473E": {
+      "id": "F7960BF8F5EC49C19B241B1EE2BB473E",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "d.1.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of legal and ethical responsibilities in relation to the field of computer science;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "64DC3EFE5FA748B8BB282DA92E318F87": {
+      "id": "64DC3EFE5FA748B8BB282DA92E318F87",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "d.1.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate leadership skills and function effectively as a team member;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "DBEFAE988D124C7EAF8F1AB25D64FC52": {
+      "id": "DBEFAE988D124C7EAF8F1AB25D64FC52",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.1.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "solve problems and think critically;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "901F8762B14A4BF2B720C46645FCFA0B": {
+      "id": "901F8762B14A4BF2B720C46645FCFA0B",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.1.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "employ effective verbal and non-verbal communication skills;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "369E67C4239D43F1BAD463AE1CD82FCB": {
+      "id": "369E67C4239D43F1BAD463AE1CD82FCB",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "employ effective technical reading and writing skills;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "6B5E7D2D78464B95973A5D5CC35076A3": {
+      "id": "6B5E7D2D78464B95973A5D5CC35076A3",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "examine the role of certifications, resumes, and portfolios in the computer science profession;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "39D7512E3EFB4B5F9B8F1160EDCEC9F0": {
+      "id": "39D7512E3EFB4B5F9B8F1160EDCEC9F0",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify job and internship opportunities and accompanying job duties and tasks and contact one or more companies or organizations to explore career opportunities;",
+      "comments": [],
+      "ancestorIds": [
+        "00E0E896B19B43C19205D6C978A60431",
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "00E0E896B19B43C19205D6C978A60431"
+    },
+    "00E0E896B19B43C19205D6C978A60431": {
+      "id": "00E0E896B19B43C19205D6C978A60431",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "d.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Employability. The student identifies various employment opportunities in the computer science field. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7DFCA3ADFF31419C85093AF7952508B6"
+      ],
+      "parentId": "7DFCA3ADFF31419C85093AF7952508B6"
+    },
+    "7DFCA3ADFF31419C85093AF7952508B6": {
+      "id": "7DFCA3ADFF31419C85093AF7952508B6",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 0,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Knowledge and skills.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "297D6DF328F04055B756107F2DA8ADC2": {
+      "id": "297D6DF328F04055B756107F2DA8ADC2",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "c.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples.",
+      "comments": [],
+      "ancestorIds": [
+        "879ED7BA4BE54DFA88982DAB2DCCF756"
+      ],
+      "parentId": "879ED7BA4BE54DFA88982DAB2DCCF756"
+    },
+    "9F396E06247B4461B960C2D291A8D323": {
+      "id": "9F396E06247B4461B960C2D291A8D323",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "c.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations.",
+      "comments": [],
+      "ancestorIds": [
+        "879ED7BA4BE54DFA88982DAB2DCCF756"
+      ],
+      "parentId": "879ED7BA4BE54DFA88982DAB2DCCF756"
+    },
+    "8DB44A2B860142C2A4B77D2DF43B3552": {
+      "id": "8DB44A2B860142C2A4B77D2DF43B3552",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "c.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fundamentals of Computer Science is intended as a first course for those students just beginning the study of computer science. Students will learn about the computing tools that are used every day. Students will foster their creativity and innovation through opportunities to design, implement, and present solutions to real-world problems. Students will collaborate and use computer science concepts to access, analyze, and evaluate information needed to solve problems. Students will learn computational thinking, problem-solving, and reasoning skills that are the foundation of computer science. By using computer science knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws, regulations, and best practices and by practicing integrity and respect. Students will gain an understanding of the principles of computer science through the study of technology operations and concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "879ED7BA4BE54DFA88982DAB2DCCF756"
+      ],
+      "parentId": "879ED7BA4BE54DFA88982DAB2DCCF756"
+    },
+    "E8377BAB041D4C7583BD2C85CDE42355": {
+      "id": "E8377BAB041D4C7583BD2C85CDE42355",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "c.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Science, Technology, Engineering, and Mathematics (STEM) Career Cluster focuses on planning, managing, and providing scientific research and professional and technical services such as laboratory and testing services and research and development services.",
+      "comments": [],
+      "ancestorIds": [
+        "879ED7BA4BE54DFA88982DAB2DCCF756"
+      ],
+      "parentId": "879ED7BA4BE54DFA88982DAB2DCCF756"
+    },
+    "AF29B7EE53D94C81AEB11D4812D422E8": {
+      "id": "AF29B7EE53D94C81AEB11D4812D422E8",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "c.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Career and technical education instruction provides content aligned with challenging academic standards, industry-relevant technical knowledge, and college and career readiness skills for students to further their education and succeed in current and emerging professions.",
+      "comments": [],
+      "ancestorIds": [
+        "879ED7BA4BE54DFA88982DAB2DCCF756"
+      ],
+      "parentId": "879ED7BA4BE54DFA88982DAB2DCCF756"
+    },
+    "879ED7BA4BE54DFA88982DAB2DCCF756": {
+      "id": "879ED7BA4BE54DFA88982DAB2DCCF756",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 0,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F7CB19B75F4245D1B3029B2A0241C376": {
+      "id": "F7CB19B75F4245D1B3029B2A0241C376",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 0,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "General requirements. This course is recommended for students in Grades 9-12. Students shall be awarded one credit for successful completion of this course. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "337DC5CD48E64EC893949AF648367B9C": {
+      "id": "337DC5CD48E64EC893949AF648367B9C",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "a.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If the commissioner does not make the determination that instructional materials funding has been made available under subsection (a) of this section, the commissioner shall determine no later than August 1 of each subsequent school year whether instructional materials funding has been made available. If the commissioner determines that instructional materials funding has been made available, the commissioner shall notify the State Board of Education and school districts that this section shall be implemented for the following school year.",
+      "comments": [],
+      "ancestorIds": [
+        "EAB52A2311A042379F6A097CA9D36805"
+      ],
+      "parentId": "EAB52A2311A042379F6A097CA9D36805"
+    },
+    "30D335D397EC411981EB1410192FB964": {
+      "id": "30D335D397EC411981EB1410192FB964",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "a.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If the commissioner makes the determination that instructional materials funding has been made available this section shall be implemented beginning with the 2023-2024 school year and apply to the 2023-2024 and subsequent school years.",
+      "comments": [],
+      "ancestorIds": [
+        "EAB52A2311A042379F6A097CA9D36805"
+      ],
+      "parentId": "EAB52A2311A042379F6A097CA9D36805"
+    },
+    "8C5CD04BD62545EAAE5268711E1B7855": {
+      "id": "8C5CD04BD62545EAAE5268711E1B7855",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "a.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "No later than August 1, 2023, the commissioner of education shall determine whether instructional materials funding has been made available to Texas public schools for materials that cover the essential knowledge and skills identified in this section.",
+      "comments": [],
+      "ancestorIds": [
+        "EAB52A2311A042379F6A097CA9D36805"
+      ],
+      "parentId": "EAB52A2311A042379F6A097CA9D36805"
+    },
+    "EAB52A2311A042379F6A097CA9D36805": {
+      "id": "EAB52A2311A042379F6A097CA9D36805",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implementation. The provisions of this section shall be implemented by school districts beginning with the 2023-2024 school year.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

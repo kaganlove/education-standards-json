@@ -1,0 +1,936 @@
+{
+  "id": "AD05CA29217E49D5B8FC0A59A23F1826",
+  "title": "High School – CS Level 1",
+  "subject": "Computer Science, IT, and Technology Education (2020-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "NC K-12 Computer Science Standards",
+    "sourceURL": "https://www.dpi.nc.gov/nc-k-12-computer-science-standards/open",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "8A257771396B4F0792EB9D6020CC9089",
+    "title": "North Carolina"
+  },
+  "standards": {
+    "42A62FA932AB48A887F4FB9B1F2554C9": {
+      "id": "42A62FA932AB48A887F4FB9B1F2554C9",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Safety, Law, &\nEthics",
+      "comments": [],
+      "ancestorIds": [
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+    },
+    "4AA5DA1541B74950AD5633D9B3C648C0": {
+      "id": "4AA5DA1541B74950AD5633D9B3C648C0",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "HS-IC-06",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize tools and methods for\ncollaboration on a project to increase\nconnectivity of people in different cultures\nand career fields.",
+      "comments": [],
+      "ancestorIds": [
+        "9B5D7E00EDCF42548A07DACE46D3E1F1",
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "9B5D7E00EDCF42548A07DACE46D3E1F1"
+    },
+    "9B5D7E00EDCF42548A07DACE46D3E1F1": {
+      "id": "9B5D7E00EDCF42548A07DACE46D3E1F1",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Social Interactions",
+      "comments": [],
+      "ancestorIds": [
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+    },
+    "32541B0CCA6C487BA832C3F44881FD48": {
+      "id": "32541B0CCA6C487BA832C3F44881FD48",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "HS-IC-05",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create computational artifacts to\nensure accessibility and reduce\ncomputational bias.",
+      "comments": [],
+      "ancestorIds": [
+        "45FEB4DC4E9F4D8BA3639F84D4BC6207",
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "45FEB4DC4E9F4D8BA3639F84D4BC6207"
+    },
+    "50AD65F2355F4C68BDFB1D8B274F2F38": {
+      "id": "50AD65F2355F4C68BDFB1D8B274F2F38",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "HS-IC-04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate how equity, access, and\ninfluence impact distribution of computing\nresources in a global society.",
+      "comments": [],
+      "ancestorIds": [
+        "45FEB4DC4E9F4D8BA3639F84D4BC6207",
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "45FEB4DC4E9F4D8BA3639F84D4BC6207"
+    },
+    "50BC4D2BF4504F6F948A28FCDE91B574": {
+      "id": "50BC4D2BF4504F6F948A28FCDE91B574",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS-IC-03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Predict how computational\ninnovations that revolutionized aspects of\nour culture might evolve.",
+      "comments": [],
+      "ancestorIds": [
+        "45FEB4DC4E9F4D8BA3639F84D4BC6207",
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "45FEB4DC4E9F4D8BA3639F84D4BC6207"
+    },
+    "FEA0E13921754E7BA3DEEDEBDF1C5463": {
+      "id": "FEA0E13921754E7BA3DEEDEBDF1C5463",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS-IC-02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make computational artifact\nrecommendations for maximized benefical\nand minimal harmful effects on society.",
+      "comments": [],
+      "ancestorIds": [
+        "45FEB4DC4E9F4D8BA3639F84D4BC6207",
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "45FEB4DC4E9F4D8BA3639F84D4BC6207"
+    },
+    "50D335A8E5AA4A7E8EC2ECBF474C839D": {
+      "id": "50D335A8E5AA4A7E8EC2ECBF474C839D",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS-IC-01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate computational artifacts\nfor their effects on society.",
+      "comments": [],
+      "ancestorIds": [
+        "45FEB4DC4E9F4D8BA3639F84D4BC6207",
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "45FEB4DC4E9F4D8BA3639F84D4BC6207"
+    },
+    "45FEB4DC4E9F4D8BA3639F84D4BC6207": {
+      "id": "45FEB4DC4E9F4D8BA3639F84D4BC6207",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Culture",
+      "comments": [],
+      "ancestorIds": [
+        "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+      ],
+      "parentId": "EA34F02CC0F74CCE9DD9B1D9078CCD35"
+    },
+    "EA34F02CC0F74CCE9DD9B1D9078CCD35": {
+      "id": "EA34F02CC0F74CCE9DD9B1D9078CCD35",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Impacts of Computing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "37A63418E5E0468DA1FF751574327036": {
+      "id": "37A63418E5E0468DA1FF751574327036",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "15",
+      "statementNotation": "HS-AP-15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop computational artifacts\nfor multiple platforms. ",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "7C69E155B03047D1A64A398155AC5444": {
+      "id": "7C69E155B03047D1A64A398155AC5444",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "14",
+      "statementNotation": "HS-AP-14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss intended and unintended\nimplications of a modified computational\nartifact.",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "17A88675FEF9483F868BFF46DFA42491": {
+      "id": "17A88675FEF9483F868BFF46DFA42491",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "13",
+      "statementNotation": "HS-AP-13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modify an existing computational\nartifact for additional functionality.",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "C69FCBEB51DF4D97964C91BC57451877": {
+      "id": "C69FCBEB51DF4D97964C91BC57451877",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "12",
+      "statementNotation": "HS-AP-12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compose standard\ndocumentation for computational artifacts to\nmake it easier to follow, test, and debug.",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "11C6566E15794E558322785AB9DA30B5": {
+      "id": "11C6566E15794E558322785AB9DA30B5",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "11",
+      "statementNotation": "HS-AP-11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct a computational\nartifact as a team through industry\nappropriate collaborative tools and\nprocesses.",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "A87C660D905242BD9838EFC2FB6E1500": {
+      "id": "A87C660D905242BD9838EFC2FB6E1500",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "HS-AP-10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify that a computational\nartifact meets design specifications with\nsystematic testing and debugging methods.",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "45549B1037E44ED7ACD0EB5F11C317EF": {
+      "id": "45549B1037E44ED7ACD0EB5F11C317EF",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "HS-AP-09",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a computational artifact\nthrough an industry-standard process.",
+      "comments": [],
+      "ancestorIds": [
+        "237C3F1FD2584022AF9C82D4E8939D7E",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "237C3F1FD2584022AF9C82D4E8939D7E"
+    },
+    "237C3F1FD2584022AF9C82D4E8939D7E": {
+      "id": "237C3F1FD2584022AF9C82D4E8939D7E",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program\nDevelopment",
+      "comments": [],
+      "ancestorIds": [
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "107E47B56C8F4680B9B662C1860FE328"
+    },
+    "340777486E5F4E7E886337D2E127D8DB": {
+      "id": "340777486E5F4E7E886337D2E127D8DB",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "HS-AP-08",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create computational artifacts\nwith pre-existing procedures, external\ncomponents, libraries and APIs.",
+      "comments": [],
+      "ancestorIds": [
+        "AE53B057CD284B83BA55E598269C4EC0",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "AE53B057CD284B83BA55E598269C4EC0"
+    },
+    "33C0979F39F94987AB8FBEC44DBB2E23": {
+      "id": "33C0979F39F94987AB8FBEC44DBB2E23",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "HS-AP-07",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Analyze general patterns\napplicable to a solution.",
+      "comments": [],
+      "ancestorIds": [
+        "AE53B057CD284B83BA55E598269C4EC0",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "AE53B057CD284B83BA55E598269C4EC0"
+    },
+    "31D3C67C1E434A349D249D28349653DE": {
+      "id": "31D3C67C1E434A349D249D28349653DE",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "HS-AP-06",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify a large-scale\ncomputational problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "AE53B057CD284B83BA55E598269C4EC0",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "AE53B057CD284B83BA55E598269C4EC0"
+    },
+    "AE53B057CD284B83BA55E598269C4EC0": {
+      "id": "AE53B057CD284B83BA55E598269C4EC0",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modularity",
+      "comments": [],
+      "ancestorIds": [
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "107E47B56C8F4680B9B662C1860FE328"
+    },
+    "9482AB2B4C7F4F26BB537E2C8D938C59": {
+      "id": "9482AB2B4C7F4F26BB537E2C8D938C59",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "HS-AP-05",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate the flow of execution of\na recursive algorithm.",
+      "comments": [],
+      "ancestorIds": [
+        "55EC5E96E1684B0D8811895B3BA015FF",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "55EC5E96E1684B0D8811895B3BA015FF"
+    },
+    "55EC5E96E1684B0D8811895B3BA015FF": {
+      "id": "55EC5E96E1684B0D8811895B3BA015FF",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Control",
+      "comments": [],
+      "ancestorIds": [
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "107E47B56C8F4680B9B662C1860FE328"
+    },
+    "574C5A7BF81D443682E41AB9843990AC": {
+      "id": "574C5A7BF81D443682E41AB9843990AC",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "HS-AP-04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select an appropriate data\nstructure for information of a given problem.",
+      "comments": [],
+      "ancestorIds": [
+        "12D79FC23E1F4D99846EE43CEA308D89",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "12D79FC23E1F4D99846EE43CEA308D89"
+    },
+    "12D79FC23E1F4D99846EE43CEA308D89": {
+      "id": "12D79FC23E1F4D99846EE43CEA308D89",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Variables",
+      "comments": [],
+      "ancestorIds": [
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "107E47B56C8F4680B9B662C1860FE328"
+    },
+    "D5CBC66415E14270815BEF27B9A70702": {
+      "id": "D5CBC66415E14270815BEF27B9A70702",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS-AP-03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate algorithms in terms of\ntheir efficiency, correctness, and clarity. ",
+      "comments": [],
+      "ancestorIds": [
+        "99394353EACC4504A94B38E528E6F310",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "99394353EACC4504A94B38E528E6F310"
+    },
+    "24DC8391F1D54993B694705710EF4FD1": {
+      "id": "24DC8391F1D54993B694705710EF4FD1",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS-AP-02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve computational problems\nwith classic algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "99394353EACC4504A94B38E528E6F310",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "99394353EACC4504A94B38E528E6F310"
+    },
+    "FB777FD716C5471C8BB25D1D1AE0193D": {
+      "id": "FB777FD716C5471C8BB25D1D1AE0193D",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS-AP-01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify artificial intelligence\nalgorithms. ",
+      "comments": [],
+      "ancestorIds": [
+        "99394353EACC4504A94B38E528E6F310",
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "99394353EACC4504A94B38E528E6F310"
+    },
+    "99394353EACC4504A94B38E528E6F310": {
+      "id": "99394353EACC4504A94B38E528E6F310",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "107E47B56C8F4680B9B662C1860FE328"
+      ],
+      "parentId": "107E47B56C8F4680B9B662C1860FE328"
+    },
+    "107E47B56C8F4680B9B662C1860FE328": {
+      "id": "107E47B56C8F4680B9B662C1860FE328",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms & Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F9B722C48521403D9DD71444F7D99BC7": {
+      "id": "F9B722C48521403D9DD71444F7D99BC7",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "HS-DA-04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the ability of models and\nsimulations to test hypotheses.",
+      "comments": [],
+      "ancestorIds": [
+        "DE4255BFBBC548E3BD340BBEBC9983AA",
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "DE4255BFBBC548E3BD340BBEBC9983AA"
+    },
+    "DE4255BFBBC548E3BD340BBEBC9983AA": {
+      "id": "DE4255BFBBC548E3BD340BBEBC9983AA",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inference & Models",
+      "comments": [],
+      "ancestorIds": [
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "AFE99026550E464999F9296E669E3CC9"
+    },
+    "628D4ED7E87C45F1AC66BA3C1EA238C8": {
+      "id": "628D4ED7E87C45F1AC66BA3C1EA238C8",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS-DA-03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compile data sets that support a\nclaim or communicate information. ",
+      "comments": [],
+      "ancestorIds": [
+        "158147A311BF4B9E9FBB1D1002010CE3",
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "158147A311BF4B9E9FBB1D1002010CE3"
+    },
+    "E55EBAA86E244D3D8E397A5A93D77642": {
+      "id": "E55EBAA86E244D3D8E397A5A93D77642",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS-DA-02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select appropriate data collection\ntools and techniques.",
+      "comments": [],
+      "ancestorIds": [
+        "158147A311BF4B9E9FBB1D1002010CE3",
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "158147A311BF4B9E9FBB1D1002010CE3"
+    },
+    "7F8051A70E384B2993C22ADC53687094": {
+      "id": "7F8051A70E384B2993C22ADC53687094",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS-DA-01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify patterns in data\nrepresenting complex systems with select\ndata analysis tools and techniques.",
+      "comments": [],
+      "ancestorIds": [
+        "158147A311BF4B9E9FBB1D1002010CE3",
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "158147A311BF4B9E9FBB1D1002010CE3"
+    },
+    "158147A311BF4B9E9FBB1D1002010CE3": {
+      "id": "158147A311BF4B9E9FBB1D1002010CE3",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collection,\nVisualization, &\nTransformation",
+      "comments": [],
+      "ancestorIds": [
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "AFE99026550E464999F9296E669E3CC9"
+    },
+    "D44054FA412A439693240669BAB3A4AF": {
+      "id": "D44054FA412A439693240669BAB3A4AF",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage",
+      "comments": [],
+      "ancestorIds": [
+        "AFE99026550E464999F9296E669E3CC9"
+      ],
+      "parentId": "AFE99026550E464999F9296E669E3CC9"
+    },
+    "AFE99026550E464999F9296E669E3CC9": {
+      "id": "AFE99026550E464999F9296E669E3CC9",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data & Analysis",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F543E269552B4795AC06B8396109414B": {
+      "id": "F543E269552B4795AC06B8396109414B",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "HS-NI-05",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain tradeoffs when selecting\nand implementing cybersecurity\nrecommendations for various scenarios\nbased on factors such as efficiency,\nfeasibility, and ethical impacts.",
+      "comments": [],
+      "ancestorIds": [
+        "037C9A9A215A472699B3B55CAF96677D",
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "037C9A9A215A472699B3B55CAF96677D"
+    },
+    "F60E511BA8BD410EA1DA9A8FF7650FD4": {
+      "id": "F60E511BA8BD410EA1DA9A8FF7650FD4",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "HS-NI-04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze issues of unauthorized\naccess and cybersecurity in computational\nartifact design. ",
+      "comments": [],
+      "ancestorIds": [
+        "037C9A9A215A472699B3B55CAF96677D",
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "037C9A9A215A472699B3B55CAF96677D"
+    },
+    "81F708A4642749A4B48E7C5DA1AE4932": {
+      "id": "81F708A4642749A4B48E7C5DA1AE4932",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS-NI-03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify issues of unauthorized\naccess and cybersecurity in computational\nartifact design.",
+      "comments": [],
+      "ancestorIds": [
+        "037C9A9A215A472699B3B55CAF96677D",
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "037C9A9A215A472699B3B55CAF96677D"
+    },
+    "037C9A9A215A472699B3B55CAF96677D": {
+      "id": "037C9A9A215A472699B3B55CAF96677D",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cybersecurity",
+      "comments": [],
+      "ancestorIds": [
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "F2390FE4D5034BB0A534EA583731B749"
+    },
+    "9551B2F10CEB46B2BF790AE4A1051289": {
+      "id": "9551B2F10CEB46B2BF790AE4A1051289",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS-NI-02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze issues of network\nfunctionality in computational artifact design.",
+      "comments": [],
+      "ancestorIds": [
+        "FE0C510151364BCAAD45906AA7E3F227",
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "FE0C510151364BCAAD45906AA7E3F227"
+    },
+    "6C0FDE8152A04CA79FF64AF1884F0838": {
+      "id": "6C0FDE8152A04CA79FF64AF1884F0838",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS-NI-01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify issues of network\nfunctionality in computational artifact design.",
+      "comments": [],
+      "ancestorIds": [
+        "FE0C510151364BCAAD45906AA7E3F227",
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "FE0C510151364BCAAD45906AA7E3F227"
+    },
+    "FE0C510151364BCAAD45906AA7E3F227": {
+      "id": "FE0C510151364BCAAD45906AA7E3F227",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Network\nCommunication &\nOrganization",
+      "comments": [],
+      "ancestorIds": [
+        "F2390FE4D5034BB0A534EA583731B749"
+      ],
+      "parentId": "F2390FE4D5034BB0A534EA583731B749"
+    },
+    "F2390FE4D5034BB0A534EA583731B749": {
+      "id": "F2390FE4D5034BB0A534EA583731B749",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks & The Internet",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4F0E018947E04C39B895FA1DA4E97C80": {
+      "id": "4F0E018947E04C39B895FA1DA4E97C80",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "HS-CS-04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize guidelines that convey\nsystematic troubleshooting strategies that\ndebug computer systems. ",
+      "comments": [],
+      "ancestorIds": [
+        "A98A5ECEE64940A8968BFF984BC1C559",
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "A98A5ECEE64940A8968BFF984BC1C559"
+    },
+    "A98A5ECEE64940A8968BFF984BC1C559": {
+      "id": "A98A5ECEE64940A8968BFF984BC1C559",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Troubleshooting",
+      "comments": [],
+      "ancestorIds": [
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+    },
+    "9A1BBDD966A44CD7B99B5E62A6D09ADB": {
+      "id": "9A1BBDD966A44CD7B99B5E62A6D09ADB",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS-CS-03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate the ways computing\nsystems implement logic, input, and output\nthrough hardware components.",
+      "comments": [],
+      "ancestorIds": [
+        "77ADB632391D42CDA267A67E0CD15BE4",
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "77ADB632391D42CDA267A67E0CD15BE4"
+    },
+    "06ABE66BE61847D78472E44EC5D5CE7C": {
+      "id": "06ABE66BE61847D78472E44EC5D5CE7C",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS-CS-02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how computing devices\nmanage and allocate shared resources.",
+      "comments": [],
+      "ancestorIds": [
+        "77ADB632391D42CDA267A67E0CD15BE4",
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "77ADB632391D42CDA267A67E0CD15BE4"
+    },
+    "77ADB632391D42CDA267A67E0CD15BE4": {
+      "id": "77ADB632391D42CDA267A67E0CD15BE4",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware &\nSoftware",
+      "comments": [],
+      "ancestorIds": [
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+    },
+    "0FC1855704B74CDC8EF35A611FB319E7": {
+      "id": "0FC1855704B74CDC8EF35A611FB319E7",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS-CS-01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the use of artificial\nintelligence within computing systems.",
+      "comments": [],
+      "ancestorIds": [
+        "BAF02EB82BD94F98809BB560C6B84D31",
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "BAF02EB82BD94F98809BB560C6B84D31"
+    },
+    "BAF02EB82BD94F98809BB560C6B84D31": {
+      "id": "BAF02EB82BD94F98809BB560C6B84D31",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Devices",
+      "comments": [],
+      "ancestorIds": [
+        "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+      ],
+      "parentId": "D48D863D33EC4D6A98DA9C8FB4C1FFFA"
+    },
+    "D48D863D33EC4D6A98DA9C8FB4C1FFFA": {
+      "id": "D48D863D33EC4D6A98DA9C8FB4C1FFFA",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing Systems",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

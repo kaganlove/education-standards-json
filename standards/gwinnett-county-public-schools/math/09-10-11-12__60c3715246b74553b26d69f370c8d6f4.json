@@ -1,0 +1,802 @@
+{
+  "id": "60C3715246B74553B26D69F370C8D6F4",
+  "title": "Number Theory",
+  "subject": "Math",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://docs.google.com/spreadsheets/d/12DKBMxMRUj4sjx8zBfG9sYYt6am06P1lc6Vd7FkArHQ/edit?usp=sharing",
+    "title": "GCPS AKS_Curriculum"
+  },
+  "jurisdiction": {
+    "id": "AA0ABAE558D14AF590FC6F19D8A4D9A3",
+    "title": "Gwinnett County Public Schools"
+  },
+  "standards": {
+    "78FCF791A53A4F779B4C35555A1F1912": {
+      "id": "78FCF791A53A4F779B4C35555A1F1912",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "21",
+      "statementNotation": "MANT.E.40",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.40: use mathematical induction to prove results about the natural numbers",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "FB3BB56217B748F98AC95A162061DAEA": {
+      "id": "FB3BB56217B748F98AC95A162061DAEA",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "20",
+      "statementNotation": "MANT.E.39",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.39: prove statements involving properties of numbers; prove that the square of any odd integer can be expressed at 8k+1 for some integer k; prove there are infinitely many primes; prove that the square root of 2 is irrational",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "83DAF2A3F26D4705A0A1AB505F849D73": {
+      "id": "83DAF2A3F26D4705A0A1AB505F849D73",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "19",
+      "statementNotation": "MANT.E.38",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.38: derive formulas for sums and products of series; derive definitions for various mathematical sequences, such as but not limited to triangular numbers and the Fibonacci numbers",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "21D2D284D02947A48EA1C86679B7532E": {
+      "id": "21D2D284D02947A48EA1C86679B7532E",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "18",
+      "statementNotation": "MANT.E.37",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.37: define and utilize the greatest integer function to write rules to represent sequences",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "1594B3A3FC03410F9746FCC4BA665815": {
+      "id": "1594B3A3FC03410F9746FCC4BA665815",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "17",
+      "statementNotation": "MANT.E.36",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.36: explore Public Key Cryptography including the RSA cryptosystem",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "8E1BB0CB6996411498299E7E711E8E75": {
+      "id": "8E1BB0CB6996411498299E7E711E8E75",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "16",
+      "statementNotation": "MANT.E.35",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.35: analyze basic cryptology including Character ciphers, Block ciphers, Hill ciphers, Stream ciphers, Exponentiation ciphers, and Knapsack ciphers",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "33B252B6AD01419EB5000B5B839651D4": {
+      "id": "33B252B6AD01419EB5000B5B839651D4",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "15",
+      "statementNotation": "MANT.E.34",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.34: define and explore concepts involving pseudoprimes",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "191455C55C5A41828820F500261F43E8": {
+      "id": "191455C55C5A41828820F500261F43E8",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "14",
+      "statementNotation": "MANT.E.33",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.33: explore various Prime conjectures, such as but not limited to Bertrand’s Conjecture, the Twin Prime Conjecture, the Legendre Conjecture, and the n²+1 Conjecture",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "42934994D68542D4BA1D27384D607B88": {
+      "id": "42934994D68542D4BA1D27384D607B88",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "13",
+      "statementNotation": "MANT.E.32",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.32: execute various primality tests to determine if large integers are prime; recognize certain prime numbers as Fermat Numbers or Mersenne Primes",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "0DB89DA5814E4AF785E81BDB851A1FBC": {
+      "id": "0DB89DA5814E4AF785E81BDB851A1FBC",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "12",
+      "statementNotation": "MANT.E.31",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.31: use congruences to prove Fermat’s Little Theorem and Wilson’s Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "F045E5E5014A4A96A221CB6DC9B6B526": {
+      "id": "F045E5E5014A4A96A221CB6DC9B6B526",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "11",
+      "statementNotation": "MANT.E.30",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.30: apply congruences to several real world situations, including but not limited to creating a perpetual calendar, error detection in bit strings, and various types of hashing functions",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "E5C84B98E2704BD787F1FA7E226AD598": {
+      "id": "E5C84B98E2704BD787F1FA7E226AD598",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "MANT.E.29",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.29: apply the Chinese Remainder Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "41EC199E4AB846EBBDA0DE393BF9BC80": {
+      "id": "41EC199E4AB846EBBDA0DE393BF9BC80",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "MANT.E.28",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.28: find solutions to linear, polynomial, simultaneous, and systems of congruences, and prove results involving congruences and modular arithmetic",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "EACE8409D07B46F4A47278739BBB9831": {
+      "id": "EACE8409D07B46F4A47278739BBB9831",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "MANT.E.27",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.27: apply Divisibility rules to base b number systems",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "6BD053117C8F4093A99A90CBF2E49AF6": {
+      "id": "6BD053117C8F4093A99A90CBF2E49AF6",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MANT.E.26",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.26: convert integers between a variety of number systems with different bases, including decimal, octal, binary, and hexadecimal",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "260D1F5743464765BF24AA8692DE6446": {
+      "id": "260D1F5743464765BF24AA8692DE6446",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MANT.E.25",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.25: prove results involving divisibility and the greatest common divisor",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "68B06CC926AF44B6A74E7C94DE56C20C": {
+      "id": "68B06CC926AF44B6A74E7C94DE56C20C",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MANT.E.24",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.24: use Fermat Factorization, Pollard Rho Factorization, and Pollard (p-1) Factorization to determine the GCD of two integers",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "987628DEDB2643448E44E098FB9E8DBA": {
+      "id": "987628DEDB2643448E44E098FB9E8DBA",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MANT.E.23",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.23: apply the Euclidean algorithm to determine the GCD of two integers",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "1F23B041391D4483B1648CADFF6BDB8F": {
+      "id": "1F23B041391D4483B1648CADFF6BDB8F",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MANT.E.22",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.22: determine integral solutions to linear Diophantine equations",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "7DA5BDE7A42042F394EF51CE6EC6E3B2": {
+      "id": "7DA5BDE7A42042F394EF51CE6EC6E3B2",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MANT.E.21",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.21: determine the modular inverse of a given integer for any positive integer modulus, if it exists",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "E2782D29FA2449289C577FE456B4DE45": {
+      "id": "E2782D29FA2449289C577FE456B4DE45",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MANT.E.20",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E.20: apply modular arithmetic concepts; apply the “divides” (a\\b) relation to the natural numbers and “a (mod m)” for integers a and m",
+      "comments": [],
+      "ancestorIds": [
+        "AE756F6F631D4B5B8DFDFA61573687B3",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "AE756F6F631D4B5B8DFDFA61573687B3"
+    },
+    "AE756F6F631D4B5B8DFDFA61573687B3": {
+      "id": "AE756F6F631D4B5B8DFDFA61573687B3",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "MANT.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.E: Number Theory",
+      "comments": [],
+      "ancestorIds": [
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "E3FA7E48CA284990B58142994B193094"
+    },
+    "1A12AD46B13C43A985E020E13FCBB43E": {
+      "id": "1A12AD46B13C43A985E020E13FCBB43E",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MANT.D.19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.D.19: prove previously recognized mathematical theorems, such as but not limited to the Pythagorean Theorem, the Minimax Theorem, the Binomial Theorem, and Cantor’s Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "60B6BD5120C943DF951E651CE9981487",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "60B6BD5120C943DF951E651CE9981487"
+    },
+    "14702D47E2944B188769BFB3F132CE51": {
+      "id": "14702D47E2944B188769BFB3F132CE51",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MANT.D.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.D.18: write theorems containing a hypothesis and conclusion; prove previously recognized mathematical theorems from various Set Theory and Number Theory concepts",
+      "comments": [],
+      "ancestorIds": [
+        "60B6BD5120C943DF951E651CE9981487",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "60B6BD5120C943DF951E651CE9981487"
+    },
+    "6E7BF8913FFC40DABE4659B1879E5E79": {
+      "id": "6E7BF8913FFC40DABE4659B1879E5E79",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MANT.D.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.D.17: differentiate between mathematical axioms, postulates, and theorems",
+      "comments": [],
+      "ancestorIds": [
+        "60B6BD5120C943DF951E651CE9981487",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "60B6BD5120C943DF951E651CE9981487"
+    },
+    "12F34C6E995C4D7F89E161BB5CE3DC15": {
+      "id": "12F34C6E995C4D7F89E161BB5CE3DC15",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MANT.D.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.D.16: recognize and utilize appropriate methods of proof: direct proof, proof by mathematical induction (including the Principle of Mathematical Induction and the Second Principle of Mathematical Induction), proof by contradiction, proof by contraposition, proofs involving conditional and biconditional statements, proofs involving universal and existential quantifiers, and proof by counterexample",
+      "comments": [],
+      "ancestorIds": [
+        "60B6BD5120C943DF951E651CE9981487",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "60B6BD5120C943DF951E651CE9981487"
+    },
+    "60B6BD5120C943DF951E651CE9981487": {
+      "id": "60B6BD5120C943DF951E651CE9981487",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "MANT.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.D: Proof Methods",
+      "comments": [],
+      "ancestorIds": [
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "E3FA7E48CA284990B58142994B193094"
+    },
+    "9F441A3284A34D54B52A70584A9CFE7C": {
+      "id": "9F441A3284A34D54B52A70584A9CFE7C",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MANT.C.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.15: recognize that a function is a bijective (injective and surjective) relation on two sets, be able to prove or disprove that a relation is a function, and be able to determine the inverse of a function if it exists",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "02DCACA3348049FA8ACDFF1779D5F3A3": {
+      "id": "02DCACA3348049FA8ACDFF1779D5F3A3",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MANT.C.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.14: understand that equivalence classes form a partition on a set",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "D55B7061ACE54185BF93466E45907F9E": {
+      "id": "D55B7061ACE54185BF93466E45907F9E",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MANT.C.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.13: determine if a relation is an equivalence relation on two sets by showing that the relation satisfies reflexive, symmetric, and transitive properties",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "56EB583AC82647F090E2751C54580DCD": {
+      "id": "56EB583AC82647F090E2751C54580DCD",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MANT.C.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.12: recognize that a partition of a set is a collection of pairwise disjoint subsets",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "63615A68F70849FDB6243EE12440DC4D": {
+      "id": "63615A68F70849FDB6243EE12440DC4D",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MANT.C.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.11: prove set relations, including DeMorgan’s Laws, proving a set is a subset of another set, and proving set equivalence",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "EFEB5ED941D94073B351631888FA5E08": {
+      "id": "EFEB5ED941D94073B351631888FA5E08",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MANT.C.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.10: calculate the union, intersection, difference, and Cartesian product and Power of sets",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "CADD4C079D7C4E8296597705A2929FFB": {
+      "id": "CADD4C079D7C4E8296597705A2929FFB",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MANT.C.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C.9: describe sets using set builder notation; define, use notation of, and pictorially represent set theory components, including union, intersection, difference, element of, cardinality, complement, subset, and proper subset; define and determine the power set of a given set",
+      "comments": [],
+      "ancestorIds": [
+        "7D570DF8AC934C348502C4A30C35E14E",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "7D570DF8AC934C348502C4A30C35E14E"
+    },
+    "7D570DF8AC934C348502C4A30C35E14E": {
+      "id": "7D570DF8AC934C348502C4A30C35E14E",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "MANT.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.C: Set Theory",
+      "comments": [],
+      "ancestorIds": [
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "E3FA7E48CA284990B58142994B193094"
+    },
+    "DCDAF19E52CF4FF6929AB3EA41946090": {
+      "id": "DCDAF19E52CF4FF6929AB3EA41946090",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MANT.B.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.B.8: apply modus ponens and modus tollens to determine the validity of logical arguments involving conditionals",
+      "comments": [],
+      "ancestorIds": [
+        "D95C1D5759CB415A9FB528A1A8460073",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "D95C1D5759CB415A9FB528A1A8460073"
+    },
+    "8D1D153930044604BFC5657A1AADDEC9": {
+      "id": "8D1D153930044604BFC5657A1AADDEC9",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MANT.B.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.B.7: apply quantifiers, conditionals, negations, contrapositives, converses, and inverses to determine the validity of logic statements",
+      "comments": [],
+      "ancestorIds": [
+        "D95C1D5759CB415A9FB528A1A8460073",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "D95C1D5759CB415A9FB528A1A8460073"
+    },
+    "CEBD468851C44F15B495A137A3A6C862": {
+      "id": "CEBD468851C44F15B495A137A3A6C862",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MANT.B.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.B.6: apply quantifiers, conditionals, negations, contrapositives, converses, and inverses to determine the truth value of logical propositions, including, but not limited to, whether a proposition is a tautology, contradiction, or neither.",
+      "comments": [],
+      "ancestorIds": [
+        "D95C1D5759CB415A9FB528A1A8460073",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "D95C1D5759CB415A9FB528A1A8460073"
+    },
+    "C2941C98DFB94A4085B04A1A6A88BDC6": {
+      "id": "C2941C98DFB94A4085B04A1A6A88BDC6",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MANT.B.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.B.5: represent logical operators such as AND,OR, NOT, NOR, and XOR in symbolic notation and use truth tables and in assessing logical equivalence",
+      "comments": [],
+      "ancestorIds": [
+        "D95C1D5759CB415A9FB528A1A8460073",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "D95C1D5759CB415A9FB528A1A8460073"
+    },
+    "4D4BA4F507024F27A403D2F1FC02CECE": {
+      "id": "4D4BA4F507024F27A403D2F1FC02CECE",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MANT.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.B.4: determine truth tables for sentences and use Venn diagrams to illustrate the relationships represented by these truth tables",
+      "comments": [],
+      "ancestorIds": [
+        "D95C1D5759CB415A9FB528A1A8460073",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "D95C1D5759CB415A9FB528A1A8460073"
+    },
+    "D95C1D5759CB415A9FB528A1A8460073": {
+      "id": "D95C1D5759CB415A9FB528A1A8460073",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "MAGE.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.B: Logic",
+      "comments": [],
+      "ancestorIds": [
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "E3FA7E48CA284990B58142994B193094"
+    },
+    "97EF44D8B8494597BDC5C05344AE5991": {
+      "id": "97EF44D8B8494597BDC5C05344AE5991",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MANT.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.A.3: apply game theory including Nash Equilibrium and two player zero sum games",
+      "comments": [],
+      "ancestorIds": [
+        "3E1958207DBD44C6B1BB2D60FFD0E066",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "3E1958207DBD44C6B1BB2D60FFD0E066"
+    },
+    "DE6AEE3D8B5842438E386094767849B7": {
+      "id": "DE6AEE3D8B5842438E386094767849B7",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MANT.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.A.2: apply counting principles, such as recurrence relations, Polya’s Enumeration Theorem, inclusion-exclusion, and the Pigeonhole principle",
+      "comments": [],
+      "ancestorIds": [
+        "3E1958207DBD44C6B1BB2D60FFD0E066",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "3E1958207DBD44C6B1BB2D60FFD0E066"
+    },
+    "EE08B9446FBC4E8F812C9925B8F29176": {
+      "id": "EE08B9446FBC4E8F812C9925B8F29176",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MANT.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.A.1: solve problems using concepts in graph theory including directed and undirected graphs, the Handshaking Theorem, isomorphisms, paths and path-connectedness, as well as Euler and Hamilton Paths",
+      "comments": [],
+      "ancestorIds": [
+        "3E1958207DBD44C6B1BB2D60FFD0E066",
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "3E1958207DBD44C6B1BB2D60FFD0E066"
+    },
+    "3E1958207DBD44C6B1BB2D60FFD0E066": {
+      "id": "3E1958207DBD44C6B1BB2D60FFD0E066",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "MANT.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT.A: Discrete Mathematics",
+      "comments": [],
+      "ancestorIds": [
+        "E3FA7E48CA284990B58142994B193094"
+      ],
+      "parentId": "E3FA7E48CA284990B58142994B193094"
+    },
+    "E3FA7E48CA284990B58142994B193094": {
+      "id": "E3FA7E48CA284990B58142994B193094",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "MANT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MANT: Number Theory",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

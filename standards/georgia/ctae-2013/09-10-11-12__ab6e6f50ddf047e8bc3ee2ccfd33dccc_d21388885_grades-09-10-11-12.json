@@ -1,0 +1,523 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D21388885_grades-09-10-11-12",
+  "title": "Data Science I (11.08100) (2021)",
+  "subject": "CTAE (2013-)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "",
+    "URL": "",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D21388885",
+    "valid": "2021",
+    "title": "Georgia Standards of Excellence Data Science I (11.08100)",
+    "sourceURL": "https://lor2.gadoe.org/gadoe/file/8addb3e1-2078-460c-b68d-5cad68b10521/1/Data%20Science%20I.pdf",
+    "asnIdentifier": "D21388885",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "136C2AB1E4C54C07A01CBDC2048DD14C": {
+      "id": "136C2AB1E4C54C07A01CBDC2048DD14C",
+      "asnIdentifier": "S21389335",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "DS1-9.4",
+      "statementLabel": "Element",
+      "description": "Create a simple dashboard with appropriate tables and charts to show the data that is being analyzed",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "E53D2F5D323B4B2ABD95ECF705134172": {
+      "id": "E53D2F5D323B4B2ABD95ECF705134172",
+      "asnIdentifier": "S21389334",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "DS1-9.3",
+      "statementLabel": "Element",
+      "description": "Identify and express areas for further study or investigation based on the analysis of data",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "02FF5D79AEB446EEB1E2F24B101073F6": {
+      "id": "02FF5D79AEB446EEB1E2F24B101073F6",
+      "asnIdentifier": "S21389333",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "DS1-9.2",
+      "statementLabel": "Element",
+      "description": "Summarize results.",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "93F86E351B324CADA9A21C2FDD0454BE": {
+      "id": "93F86E351B324CADA9A21C2FDD0454BE",
+      "asnIdentifier": "S21389332",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "DS1-9.1",
+      "statementLabel": "Element",
+      "description": "Utilize visual reporting and statistic tools to perform 1 and 2 sample t-tests and linear regression testing using technology (not by hand)",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "28B829B1E076494BA2ED8502F3155A5E": {
+      "id": "28B829B1E076494BA2ED8502F3155A5E",
+      "asnIdentifier": "S21389331",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "DS1-9",
+      "statementLabel": "Standard",
+      "description": "Analyze results by interpreting the information provided by the data analysis and how its interpretation supports possible answers to the question or problem being investigated.",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "0108E04C340C4DB58AF9130741B469C0": {
+      "id": "0108E04C340C4DB58AF9130741B469C0",
+      "asnIdentifier": "S21389330",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "DS1-8.2",
+      "statementLabel": "Element",
+      "description": "Understand the components and key steps to a successful deployment",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "F2A611284196413EBDFE81D68AA90835": {
+      "id": "F2A611284196413EBDFE81D68AA90835",
+      "asnIdentifier": "S21389329",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "DS1-8.1",
+      "statementLabel": "Element",
+      "description": "Describe the differences between the process of deployment and implementation of a solution.",
+      "ancestorIds": [
+        "1A9F054B16A1418DABEF28D2A1DFD07B"
+      ],
+      "parentId": "1A9F054B16A1418DABEF28D2A1DFD07B"
+    },
+    "1A9F054B16A1418DABEF28D2A1DFD07B": {
+      "id": "1A9F054B16A1418DABEF28D2A1DFD07B",
+      "asnIdentifier": "S21389328",
+      "position": 32000,
+      "depth": 0,
+      "statementNotation": "DS1-8",
+      "statementLabel": "Standard",
+      "description": "Deploy a data science solution in a production environment, follow implementation procedures, and develop a plan for long term maintenance.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "48DAE52ED32A4998B08FCCB5BFFC8DB5": {
+      "id": "48DAE52ED32A4998B08FCCB5BFFC8DB5",
+      "asnIdentifier": "S21389327",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "DS1-7.4",
+      "statementLabel": "Element",
+      "description": "Use of the group by and order by clauses in DMBS (SQL) queries",
+      "ancestorIds": [
+        "3F423C35D167488390B88715345520C6"
+      ],
+      "parentId": "3F423C35D167488390B88715345520C6"
+    },
+    "F87B7D827CF345F09A5112D51F1BC339": {
+      "id": "F87B7D827CF345F09A5112D51F1BC339",
+      "asnIdentifier": "S21389326",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "DS1-7.3",
+      "statementLabel": "Element",
+      "description": "Formulate DMBS (SQL) queries that use functions.",
+      "ancestorIds": [
+        "3F423C35D167488390B88715345520C6"
+      ],
+      "parentId": "3F423C35D167488390B88715345520C6"
+    },
+    "CD6BFE20E66146CCB49EAD69443D221E": {
+      "id": "CD6BFE20E66146CCB49EAD69443D221E",
+      "asnIdentifier": "S21389325",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "DS1-7.2",
+      "statementLabel": "Element",
+      "description": "Formulate single table DMBS (SQL) queries.",
+      "ancestorIds": [
+        "3F423C35D167488390B88715345520C6"
+      ],
+      "parentId": "3F423C35D167488390B88715345520C6"
+    },
+    "9B10D42D153F4D36BE24A834CFABDC02": {
+      "id": "9B10D42D153F4D36BE24A834CFABDC02",
+      "asnIdentifier": "S21389324",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "DS1-7.1",
+      "statementLabel": "Element",
+      "description": "Describe a Database Management System Language (DMBS) like SQL and summarize its basic operators.",
+      "ancestorIds": [
+        "3F423C35D167488390B88715345520C6"
+      ],
+      "parentId": "3F423C35D167488390B88715345520C6"
+    },
+    "3F423C35D167488390B88715345520C6": {
+      "id": "3F423C35D167488390B88715345520C6",
+      "asnIdentifier": "S21389323",
+      "position": 27000,
+      "depth": 0,
+      "statementNotation": "DS1-7",
+      "statementLabel": "Standard",
+      "description": "Build a database based on designed model, identify implementation policies and procedures, and establish plans for testing/debugging a data science solution.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E587757DA9BA46BF939B94EF6F38F0CA": {
+      "id": "E587757DA9BA46BF939B94EF6F38F0CA",
+      "asnIdentifier": "S21389322",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "DS1-6.4",
+      "statementLabel": "Element",
+      "description": "Assess end user data and information requirements and develop a logical model to fit those requirements",
+      "ancestorIds": [
+        "555D1038868D429393CFD7E791A7CE18"
+      ],
+      "parentId": "555D1038868D429393CFD7E791A7CE18"
+    },
+    "7BEF8651FD354A6B897C72453758FD37": {
+      "id": "7BEF8651FD354A6B897C72453758FD37",
+      "asnIdentifier": "S21389321",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "DS1-6.3",
+      "statementLabel": "Element",
+      "description": "Describe and build the major components of the database environment and explain how these components interact with each other",
+      "ancestorIds": [
+        "555D1038868D429393CFD7E791A7CE18"
+      ],
+      "parentId": "555D1038868D429393CFD7E791A7CE18"
+    },
+    "38F5A392CDC94B79B4EA1034A1402202": {
+      "id": "38F5A392CDC94B79B4EA1034A1402202",
+      "asnIdentifier": "S21389320",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "DS1-6.2",
+      "statementLabel": "Element",
+      "description": "Provide definitions of key terms and concepts that describe the database environment",
+      "ancestorIds": [
+        "555D1038868D429393CFD7E791A7CE18"
+      ],
+      "parentId": "555D1038868D429393CFD7E791A7CE18"
+    },
+    "746E1E1F471342FFBC292F83CC8FB8EF": {
+      "id": "746E1E1F471342FFBC292F83CC8FB8EF",
+      "asnIdentifier": "S21389319",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "DS1-6.1",
+      "statementLabel": "Element",
+      "description": "Identify and distinguish between variations of techniques (Artificial Intelligence, Machine Learning, etc.)",
+      "ancestorIds": [
+        "555D1038868D429393CFD7E791A7CE18"
+      ],
+      "parentId": "555D1038868D429393CFD7E791A7CE18"
+    },
+    "555D1038868D429393CFD7E791A7CE18": {
+      "id": "555D1038868D429393CFD7E791A7CE18",
+      "asnIdentifier": "S21389318",
+      "position": 22000,
+      "depth": 0,
+      "statementNotation": "DS1-6",
+      "statementLabel": "Standard",
+      "description": "Identify the general concepts of databases/data tools and how to utilize design thinking to produce solutions that are clean and thoughtful.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F24870CB37C844B4909211E359FDA463": {
+      "id": "F24870CB37C844B4909211E359FDA463",
+      "asnIdentifier": "S21389317",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "DS1-5.3",
+      "statementLabel": "Element",
+      "description": "Describe the characteristics of data tables and how they benefit end user experiences",
+      "ancestorIds": [
+        "030AC61155C4454483CA1EC1CFD991FB"
+      ],
+      "parentId": "030AC61155C4454483CA1EC1CFD991FB"
+    },
+    "1A3BA214813945A3AF9EC990846FE28D": {
+      "id": "1A3BA214813945A3AF9EC990846FE28D",
+      "asnIdentifier": "S21389316",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "DS1-5.2",
+      "statementLabel": "Element",
+      "description": "Create data tables and graphical representations of data including two-way tables, scatterplots, bar graphs, histograms, stem plots and dot plots from a spreadsheet software.",
+      "ancestorIds": [
+        "030AC61155C4454483CA1EC1CFD991FB"
+      ],
+      "parentId": "030AC61155C4454483CA1EC1CFD991FB"
+    },
+    "CCC4A1E031CC4E2EAE554CC4E9764541": {
+      "id": "CCC4A1E031CC4E2EAE554CC4E9764541",
+      "asnIdentifier": "S21389315",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "DS1-5.1",
+      "statementLabel": "Element",
+      "description": "Implement spreadsheet functions (i.e., preset formulas), formulas, conditional formatting, cell referencing, and pivot tables.",
+      "ancestorIds": [
+        "030AC61155C4454483CA1EC1CFD991FB"
+      ],
+      "parentId": "030AC61155C4454483CA1EC1CFD991FB"
+    },
+    "030AC61155C4454483CA1EC1CFD991FB": {
+      "id": "030AC61155C4454483CA1EC1CFD991FB",
+      "asnIdentifier": "S21389314",
+      "position": 18000,
+      "depth": 0,
+      "statementNotation": "DS1-5",
+      "statementLabel": "Standard",
+      "description": "Analyze data by selecting appropriate graphical and numerical methods",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E740B7410F874A8A8C68493D0FADD24A": {
+      "id": "E740B7410F874A8A8C68493D0FADD24A",
+      "asnIdentifier": "S21389313",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "DS1-4.2",
+      "statementLabel": "Element",
+      "description": "Describe the factors that must be considered in distributing data effectively and how a simple model can be used to obtain at least a first-cut distribution",
+      "ancestorIds": [
+        "BC6378406C4E45E1A4688D761477CC37"
+      ],
+      "parentId": "BC6378406C4E45E1A4688D761477CC37"
+    },
+    "8EDDCDDD904D49B3A33FD8148D5BAAF9": {
+      "id": "8EDDCDDD904D49B3A33FD8148D5BAAF9",
+      "asnIdentifier": "S21389312",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "DS1-4.1",
+      "statementLabel": "Element",
+      "description": "Define \"spreadsheet\" and \"database\" and describe ways they may be used.",
+      "ancestorIds": [
+        "BC6378406C4E45E1A4688D761477CC37"
+      ],
+      "parentId": "BC6378406C4E45E1A4688D761477CC37"
+    },
+    "BC6378406C4E45E1A4688D761477CC37": {
+      "id": "BC6378406C4E45E1A4688D761477CC37",
+      "asnIdentifier": "S21389311",
+      "position": 15000,
+      "depth": 0,
+      "statementNotation": "DS1-4",
+      "statementLabel": "Standard",
+      "description": "Design and implement a plan to collect appropriate data to answer a research question",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "89471AC47331496084C2FD5E12AB64E7": {
+      "id": "89471AC47331496084C2FD5E12AB64E7",
+      "asnIdentifier": "S21389310",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "DS1-3.3",
+      "statementLabel": "Element",
+      "description": "Frame a statistical question of interest in terms of measurable data",
+      "ancestorIds": [
+        "28DD70F4D825419688EBD467C4FF0678"
+      ],
+      "parentId": "28DD70F4D825419688EBD467C4FF0678"
+    },
+    "0E98CA7EA64B4F0E84716AF0FFA32CAF": {
+      "id": "0E98CA7EA64B4F0E84716AF0FFA32CAF",
+      "asnIdentifier": "S21389309",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "DS1-3.2",
+      "statementLabel": "Element",
+      "description": "Determine whether a problem involves categorical or quantitative data",
+      "ancestorIds": [
+        "28DD70F4D825419688EBD467C4FF0678"
+      ],
+      "parentId": "28DD70F4D825419688EBD467C4FF0678"
+    },
+    "33F01BA8E33248A194F7EE334BE11706": {
+      "id": "33F01BA8E33248A194F7EE334BE11706",
+      "asnIdentifier": "S21389308",
+      "position": 12000,
+      "depth": 1,
+      "statementNotation": "DS1-3.1",
+      "statementLabel": "Element",
+      "description": "Identify the objectives of data and information management",
+      "ancestorIds": [
+        "28DD70F4D825419688EBD467C4FF0678"
+      ],
+      "parentId": "28DD70F4D825419688EBD467C4FF0678"
+    },
+    "28DD70F4D825419688EBD467C4FF0678": {
+      "id": "28DD70F4D825419688EBD467C4FF0678",
+      "asnIdentifier": "S21389307",
+      "position": 11000,
+      "depth": 0,
+      "statementNotation": "DS1-3",
+      "statementLabel": "Standard",
+      "description": "Formulate Questions to Clarify the problem at hand and formulate 1 or more questions that can be answered with data analysis",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "50F71DDE98594375A1793F5CBFE08190": {
+      "id": "50F71DDE98594375A1793F5CBFE08190",
+      "asnIdentifier": "S21389306",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "DS1-2.3",
+      "statementLabel": "Element",
+      "description": "Identify different job opportunities within the data science field and how such job types are interrelated",
+      "ancestorIds": [
+        "78E994CEA751427F820992E28E6B60AB"
+      ],
+      "parentId": "78E994CEA751427F820992E28E6B60AB"
+    },
+    "666E168FF23D47AF832A482B5E2BF8D9": {
+      "id": "666E168FF23D47AF832A482B5E2BF8D9",
+      "asnIdentifier": "S21389305",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "DS1-2.2",
+      "statementLabel": "Element",
+      "description": "Identify and distinguish different skills sets used in data science",
+      "ancestorIds": [
+        "78E994CEA751427F820992E28E6B60AB"
+      ],
+      "parentId": "78E994CEA751427F820992E28E6B60AB"
+    },
+    "9DFEC60708D34DB89D04AE5E2BCE86F2": {
+      "id": "9DFEC60708D34DB89D04AE5E2BCE86F2",
+      "asnIdentifier": "S21389304",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "DS1-2.1",
+      "statementLabel": "Element",
+      "description": "Research post-secondary options for data science careers, including industry certifications, college options and organizational training.",
+      "ancestorIds": [
+        "78E994CEA751427F820992E28E6B60AB"
+      ],
+      "parentId": "78E994CEA751427F820992E28E6B60AB"
+    },
+    "78E994CEA751427F820992E28E6B60AB": {
+      "id": "78E994CEA751427F820992E28E6B60AB",
+      "asnIdentifier": "S21389303",
+      "position": 7000,
+      "depth": 0,
+      "statementNotation": "DS1-2",
+      "statementLabel": "Standard",
+      "description": "Explore, research, and present findings on data science careers",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "643BEFE7A6E54B42B296FCA36C0F885C": {
+      "id": "643BEFE7A6E54B42B296FCA36C0F885C",
+      "asnIdentifier": "S21389302",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "DS1-1.5",
+      "statementLabel": "Element",
+      "description": "Identify and compare potential bias issues in data science",
+      "ancestorIds": [
+        "5E8B73C21DE549CD85454143A34AE421"
+      ],
+      "parentId": "5E8B73C21DE549CD85454143A34AE421"
+    },
+    "805173DCB19B47A8BD41B590505A122D": {
+      "id": "805173DCB19B47A8BD41B590505A122D",
+      "asnIdentifier": "S21389301",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "DS1-1.4",
+      "statementLabel": "Element",
+      "description": "Give examples of how Data Science is used in the real world",
+      "ancestorIds": [
+        "5E8B73C21DE549CD85454143A34AE421"
+      ],
+      "parentId": "5E8B73C21DE549CD85454143A34AE421"
+    },
+    "7DA77EF4425649D29FC3BE2B387A6E54": {
+      "id": "7DA77EF4425649D29FC3BE2B387A6E54",
+      "asnIdentifier": "S21389300",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "DS1-1.3",
+      "statementLabel": "Element",
+      "description": "Identify ethical issues in data science.",
+      "ancestorIds": [
+        "5E8B73C21DE549CD85454143A34AE421"
+      ],
+      "parentId": "5E8B73C21DE549CD85454143A34AE421"
+    },
+    "AF4CD3DD979E40CA9ED8C5B20865288A": {
+      "id": "AF4CD3DD979E40CA9ED8C5B20865288A",
+      "asnIdentifier": "S21389299",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "DS1-1.2",
+      "statementLabel": "Element",
+      "description": "Identify and differentiate between different data governance standards.",
+      "ancestorIds": [
+        "5E8B73C21DE549CD85454143A34AE421"
+      ],
+      "parentId": "5E8B73C21DE549CD85454143A34AE421"
+    },
+    "D1C4F9B78AAE497C9EF5D83392E14475": {
+      "id": "D1C4F9B78AAE497C9EF5D83392E14475",
+      "asnIdentifier": "S21389298",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "DS1-1.1",
+      "statementLabel": "Element",
+      "description": "Demonstrate how data science impacts their lives.",
+      "ancestorIds": [
+        "5E8B73C21DE549CD85454143A34AE421"
+      ],
+      "parentId": "5E8B73C21DE549CD85454143A34AE421"
+    },
+    "5E8B73C21DE549CD85454143A34AE421": {
+      "id": "5E8B73C21DE549CD85454143A34AE421",
+      "asnIdentifier": "S21389297",
+      "position": 1000,
+      "depth": 0,
+      "statementNotation": "DS1-1",
+      "statementLabel": "Standard",
+      "description": "Demonstrate how Data Science can be used to impact school, work, and leisure time",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

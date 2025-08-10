@@ -1,0 +1,591 @@
+{
+  "id": "23FCE2D50BC744C0856E4CD089AF7CD2",
+  "title": "Big Idea #2 - Representation & Reasoning: Grades 3-5",
+  "subject": "AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "03",
+    "04",
+    "05"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Big Idea #2: Representation & Reasoning",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recxcTKIhgIFhboVS/fldIxltCXshIi374r/attXwjag0iceIuUIF?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "FA3C051D43D94D298C3622630E58DAD8": {
+      "id": "FA3C051D43D94D298C3622630E58DAD8",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Classification of pasta could be done either\nby constructing a decision tree (see the Pasta Land\nactivity) or by training a visual classifier like Teachable\nMachine on example images of each pasta type.",
+      "comments": [],
+      "ancestorIds": [
+        "837576CE675546ABB0BFEA0745C9E29E",
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "837576CE675546ABB0BFEA0745C9E29E"
+    },
+    "8F78062ACC1D4F8FBE8D1D4C0898F428": {
+      "id": "8F78062ACC1D4F8FBE8D1D4C0898F428",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Multiple algorithms can be used to solve a reasoning\nproblem.",
+      "comments": [],
+      "ancestorIds": [
+        "837576CE675546ABB0BFEA0745C9E29E",
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "837576CE675546ABB0BFEA0745C9E29E"
+    },
+    "C9BFDE1213AB4E7E8EBFDA564833FC93": {
+      "id": "C9BFDE1213AB4E7E8EBFDA564833FC93",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe the differences between two algorithms for\nclassifiying things: decision trees, or neural networks like\nTeachable Machine.",
+      "comments": [],
+      "ancestorIds": [
+        "837576CE675546ABB0BFEA0745C9E29E",
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "837576CE675546ABB0BFEA0745C9E29E"
+    },
+    "837576CE675546ABB0BFEA0745C9E29E": {
+      "id": "837576CE675546ABB0BFEA0745C9E29E",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Reasoning algorithms)",
+      "comments": [],
+      "ancestorIds": [
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "DD94F2AC2F964943B647F3A9DE8CB2A7"
+    },
+    "EA50CC038BEA44989399BE71B5C544B2": {
+      "id": "EA50CC038BEA44989399BE71B5C544B2",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Labeling images as dog photos or cat photos\n(as in Teachable Machine) is a classification problem.\nFinding the board positions that can be reached in one\nmove from a given starting position is an example of a\nsearch problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "01861D2BE1FE4F158857E3FAFC47820C",
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "01861D2BE1FE4F158857E3FAFC47820C"
+    },
+    "5EEBB9A6D2B1478FB32370C909B223C8": {
+      "id": "5EEBB9A6D2B1478FB32370C909B223C8",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Classification problems assign each input to one of\na predetermined set of classes. Search problems\nconstruct answers by applying operators to states to\ngenerate new states.",
+      "comments": [],
+      "ancestorIds": [
+        "01861D2BE1FE4F158857E3FAFC47820C",
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "01861D2BE1FE4F158857E3FAFC47820C"
+    },
+    "98697C3B97D44C3BA399427CC9B7327B": {
+      "id": "98697C3B97D44C3BA399427CC9B7327B",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Categorize problems as either classification\nproblems or search problems. ",
+      "comments": [],
+      "ancestorIds": [
+        "01861D2BE1FE4F158857E3FAFC47820C",
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "01861D2BE1FE4F158857E3FAFC47820C"
+    },
+    "01861D2BE1FE4F158857E3FAFC47820C": {
+      "id": "01861D2BE1FE4F158857E3FAFC47820C",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Types of reasoning\nproblems) ",
+      "comments": [],
+      "ancestorIds": [
+        "DD94F2AC2F964943B647F3A9DE8CB2A7"
+      ],
+      "parentId": "DD94F2AC2F964943B647F3A9DE8CB2A7"
+    },
+    "DD94F2AC2F964943B647F3A9DE8CB2A7": {
+      "id": "DD94F2AC2F964943B647F3A9DE8CB2A7",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "2.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B6A1DBDE9432488DA2A8913C98ECDEAA": {
+      "id": "B6A1DBDE9432488DA2A8913C98ECDEAA",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Search trees are a way of systematically\nexploring all possible moves in a game. (Illustration.) The\nstate space of a game is the set of all board states\nreachable from the start state, and the operators are the\nset of possible moves a player can make that adhere to\nthe rules of the game. ",
+      "comments": [],
+      "ancestorIds": [
+        "C73ECD7F7DC041419613236CCA36DB38",
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "C73ECD7F7DC041419613236CCA36DB38"
+    },
+    "09C3FBD3256A4CBF9B01D18D19CCDC78": {
+      "id": "09C3FBD3256A4CBF9B01D18D19CCDC78",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computer game playing programs may construct\nsearch trees to decide on their next move. ",
+      "comments": [],
+      "ancestorIds": [
+        "C73ECD7F7DC041419613236CCA36DB38",
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "C73ECD7F7DC041419613236CCA36DB38"
+    },
+    "C572AC0C26664BD2A038F42160606C2C": {
+      "id": "C572AC0C26664BD2A038F42160606C2C",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Given a state of a game such as tic-tac-toe or nim,\ndraw a search tree showing all possible next moves and\ntheir resulting states, and pick the best next move.",
+      "comments": [],
+      "ancestorIds": [
+        "C73ECD7F7DC041419613236CCA36DB38",
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "C73ECD7F7DC041419613236CCA36DB38"
+    },
+    "C73ECD7F7DC041419613236CCA36DB38": {
+      "id": "C73ECD7F7DC041419613236CCA36DB38",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Combinatorial search)",
+      "comments": [],
+      "ancestorIds": [
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "ED73500D0EF94487AD201961BDD2616F"
+    },
+    "9B1030F7D54543C7BC0C133D5A583F1B": {
+      "id": "9B1030F7D54543C7BC0C133D5A583F1B",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: The state space (or search space) of a game\nis the set of all board states reachable from the start\nstate (illustration), and the operators are the set of\npossible moves a player can make that adhere to the\nrules of the game. A particular game (linear sequence of\nboard positions: illustration) is one path through this state\nspace.",
+      "comments": [],
+      "ancestorIds": [
+        "A3E0D4BF32E7436E9E307DFE14458E77",
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "A3E0D4BF32E7436E9E307DFE14458E77"
+    },
+    "73FAF6A632584CAB85DFA7B4A58B094D": {
+      "id": "73FAF6A632584CAB85DFA7B4A58B094D",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computers play games and solve puzzles by\ncreating a sequence of states (board positions)\nconnected by legal moves, using an algorithm to choose\ntheir next move at each step. ",
+      "comments": [],
+      "ancestorIds": [
+        "A3E0D4BF32E7436E9E307DFE14458E77",
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "A3E0D4BF32E7436E9E307DFE14458E77"
+    },
+    "B8D4CF4125C447A894F805DF6CD2EC87": {
+      "id": "B8D4CF4125C447A894F805DF6CD2EC87",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate how a computer can represent the playing\nof a game such as tic-tac-toe or nim by drawing the\nlinear sequence of board positions produced by the\nplayers' moves. ",
+      "comments": [],
+      "ancestorIds": [
+        "A3E0D4BF32E7436E9E307DFE14458E77",
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "A3E0D4BF32E7436E9E307DFE14458E77"
+    },
+    "A3E0D4BF32E7436E9E307DFE14458E77": {
+      "id": "A3E0D4BF32E7436E9E307DFE14458E77",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(State spaces and\noperators)",
+      "comments": [],
+      "ancestorIds": [
+        "ED73500D0EF94487AD201961BDD2616F"
+      ],
+      "parentId": "ED73500D0EF94487AD201961BDD2616F"
+    },
+    "ED73500D0EF94487AD201961BDD2616F": {
+      "id": "ED73500D0EF94487AD201961BDD2616F",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Search",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0DF4DCBC783F4D1596949B7CBEA68F1E": {
+      "id": "0DF4DCBC783F4D1596949B7CBEA68F1E",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2.A.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Feature vectors represent concepts as\nsequences of numbers. The distance between two\nfeature vectors can be measured by counting the\nnumber of positions at which they disagree, so similar\nobjects lie closer together in feature space. Feature\nvectors can be constructed by hand, but they can also be\nconstructed automatically using machine learning. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6DDC723EC23494392C37B898C3292B1",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "A6DDC723EC23494392C37B898C3292B1"
+    },
+    "0F80AFB3E86A4BC0A7D50EEBAF2843FE": {
+      "id": "0F80AFB3E86A4BC0A7D50EEBAF2843FE",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2.A.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Recommender systems represent things like\nmovies, books, consumer products. or social media\nposts using feature vectors. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6DDC723EC23494392C37B898C3292B1",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "A6DDC723EC23494392C37B898C3292B1"
+    },
+    "4098DD546FA34AFE9456D6F0F8AFA9E0": {
+      "id": "4098DD546FA34AFE9456D6F0F8AFA9E0",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2.A.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Construct a feature vector representation for a set of\nobjects and show how similar objects are close together\nin feature space. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6DDC723EC23494392C37B898C3292B1",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "A6DDC723EC23494392C37B898C3292B1"
+    },
+    "A6DDC723EC23494392C37B898C3292B1": {
+      "id": "A6DDC723EC23494392C37B898C3292B1",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature vectors)",
+      "comments": [],
+      "ancestorIds": [
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "207ADFAF66BE4D4E968E5E943C588287"
+    },
+    "AF19CCCBD350453DA70BB41B03192EF9": {
+      "id": "AF19CCCBD350453DA70BB41B03192EF9",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: A tree is a collection of labeled nodes, each of\nwhich (save the root) has a link to a parent node above\nit in the hierarchy. Childless nodes are called leaves or\nterminal nodes; those with children are non-terminal\nnodes.",
+      "comments": [],
+      "ancestorIds": [
+        "D525B97356A843B6907EFB56CE1B0F85",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "D525B97356A843B6907EFB56CE1B0F85"
+    },
+    "8945FE0205E548918E96AADA1E2F03EE": {
+      "id": "8945FE0205E548918E96AADA1E2F03EE",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe the parts of a tree and how those parts are\nrelated. ",
+      "comments": [],
+      "ancestorIds": [
+        "D525B97356A843B6907EFB56CE1B0F85",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "D525B97356A843B6907EFB56CE1B0F85"
+    },
+    "D525B97356A843B6907EFB56CE1B0F85": {
+      "id": "D525B97356A843B6907EFB56CE1B0F85",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Data structures) ",
+      "comments": [],
+      "ancestorIds": [
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "207ADFAF66BE4D4E968E5E943C588287"
+    },
+    "1EDAA929B0964639956793BB691DE46F": {
+      "id": "1EDAA929B0964639956793BB691DE46F",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Ancestry trees, taxonomies, tables of\ncontents, organizational trees, and simple forms of mind\nmap all have the same hierarchical structure: every node\nsave the root has a single link to a parent node that\nappears higher in the hierarchy. Taxonomic information\nis an important part of the knowledge graphs used by AI\nsystems, and typically forms a tree structure within the\nlarger graph.",
+      "comments": [],
+      "ancestorIds": [
+        "A8F6639B3BDC42EAB7BDEBB9F74AA605",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "A8F6639B3BDC42EAB7BDEBB9F74AA605"
+    },
+    "52F095F83FAA4198A9A9733E19AD79F8": {
+      "id": "52F095F83FAA4198A9A9733E19AD79F8",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Many types of information have a hierarchical\nstructure, which can be visualized as a tree.",
+      "comments": [],
+      "ancestorIds": [
+        "A8F6639B3BDC42EAB7BDEBB9F74AA605",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "A8F6639B3BDC42EAB7BDEBB9F74AA605"
+    },
+    "0CDA7563F98348A1925E9C78337A2E09": {
+      "id": "0CDA7563F98348A1925E9C78337A2E09",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Give examples of tree structures commonly used by\npeople and explain the relationships among the\ncomponents.",
+      "comments": [],
+      "ancestorIds": [
+        "A8F6639B3BDC42EAB7BDEBB9F74AA605",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "A8F6639B3BDC42EAB7BDEBB9F74AA605"
+    },
+    "A8F6639B3BDC42EAB7BDEBB9F74AA605": {
+      "id": "A8F6639B3BDC42EAB7BDEBB9F74AA605",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Symbolic\nrepresentations) ",
+      "comments": [],
+      "ancestorIds": [
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "207ADFAF66BE4D4E968E5E943C588287"
+    },
+    "0F8734F8982B434BA6CFDB53D3B8B2C7": {
+      "id": "0F8734F8982B434BA6CFDB53D3B8B2C7",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Self-driving cars rely on road maps to plan\ntheir routes. Subway, train, and bus route maps may be\neither geometric or topological.",
+      "comments": [],
+      "ancestorIds": [
+        "4A336CF913104E28A680C88E35434576",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "4A336CF913104E28A680C88E35434576"
+    },
+    "1D015E008E694A68BEC77DEA92DFEFB0": {
+      "id": "1D015E008E694A68BEC77DEA92DFEFB0",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Maps can be geometrically accurate or just show\nwhich places are reachable from which other places\n(topology). They can contain many types of information,\nsuch as the names and sizes of cities and towns, or the\ntypes of roads connecting them. ",
+      "comments": [],
+      "ancestorIds": [
+        "4A336CF913104E28A680C88E35434576",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "4A336CF913104E28A680C88E35434576"
+    },
+    "0619009E285D4FB08F09E2F6D516E781": {
+      "id": "0619009E285D4FB08F09E2F6D516E781",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Demonstrate how different styles of map capture\ndifferent aspects of the world. ",
+      "comments": [],
+      "ancestorIds": [
+        "4A336CF913104E28A680C88E35434576",
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "4A336CF913104E28A680C88E35434576"
+    },
+    "4A336CF913104E28A680C88E35434576": {
+      "id": "4A336CF913104E28A680C88E35434576",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction)",
+      "comments": [],
+      "ancestorIds": [
+        "207ADFAF66BE4D4E968E5E943C588287"
+      ],
+      "parentId": "207ADFAF66BE4D4E968E5E943C588287"
+    },
+    "207ADFAF66BE4D4E968E5E943C588287": {
+      "id": "207ADFAF66BE4D4E968E5E943C588287",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Representation",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

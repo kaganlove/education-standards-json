@@ -1,0 +1,809 @@
+{
+  "id": "5D18A5105CCA40098939A8EADD0E39D1",
+  "title": "Pre-Calculus",
+  "subject": "Math",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Course Targets",
+    "sourceURL": "www.morton201.org"
+  },
+  "jurisdiction": {
+    "id": "7E1738CD9D1D4CE5A689DAC95E96D9BD",
+    "title": "Morton District 201"
+  },
+  "standards": {
+    "7EA40948156A410FA61E9BDDA2189D95": {
+      "id": "7EA40948156A410FA61E9BDDA2189D95",
+      "asnIdentifier": null,
+      "position": 34015,
+      "depth": 1,
+      "listId": "9E",
+      "statementNotation": "9E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use and apply the limit definition of the derivative",
+      "comments": [],
+      "ancestorIds": [
+        "FD2F9EEF00F346479D472CC07BDCFB7A"
+      ],
+      "parentId": "FD2F9EEF00F346479D472CC07BDCFB7A"
+    },
+    "D703214AA33E44E3918AB0726FB74A31": {
+      "id": "D703214AA33E44E3918AB0726FB74A31",
+      "asnIdentifier": null,
+      "position": 34014,
+      "depth": 1,
+      "listId": "9D",
+      "statementNotation": "9D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate one-sided limits and two-sided limits",
+      "comments": [],
+      "ancestorIds": [
+        "FD2F9EEF00F346479D472CC07BDCFB7A"
+      ],
+      "parentId": "FD2F9EEF00F346479D472CC07BDCFB7A"
+    },
+    "18288E68B77240CFA9BD1E7B264BE33F": {
+      "id": "18288E68B77240CFA9BD1E7B264BE33F",
+      "asnIdentifier": null,
+      "position": 34013,
+      "depth": 1,
+      "listId": "9C",
+      "statementNotation": "9C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate a limit of a function graphically",
+      "comments": [],
+      "ancestorIds": [
+        "FD2F9EEF00F346479D472CC07BDCFB7A"
+      ],
+      "parentId": "FD2F9EEF00F346479D472CC07BDCFB7A"
+    },
+    "28D0F479E18C41198FD67B2B13A40388": {
+      "id": "28D0F479E18C41198FD67B2B13A40388",
+      "asnIdentifier": null,
+      "position": 34012,
+      "depth": 1,
+      "listId": "9B",
+      "statementNotation": "9B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate a limit of a function numerically",
+      "comments": [],
+      "ancestorIds": [
+        "FD2F9EEF00F346479D472CC07BDCFB7A"
+      ],
+      "parentId": "FD2F9EEF00F346479D472CC07BDCFB7A"
+    },
+    "E37E775B6A6C4FE9B7688BDB82DB66D5": {
+      "id": "E37E775B6A6C4FE9B7688BDB82DB66D5",
+      "asnIdentifier": null,
+      "position": 34011,
+      "depth": 1,
+      "listId": "9A",
+      "statementNotation": "9A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate a limit of a function algebraically",
+      "comments": [],
+      "ancestorIds": [
+        "FD2F9EEF00F346479D472CC07BDCFB7A"
+      ],
+      "parentId": "FD2F9EEF00F346479D472CC07BDCFB7A"
+    },
+    "FD2F9EEF00F346479D472CC07BDCFB7A": {
+      "id": "FD2F9EEF00F346479D472CC07BDCFB7A",
+      "asnIdentifier": null,
+      "position": 33011,
+      "depth": 0,
+      "listId": "K9",
+      "statementNotation": "K9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Limits",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D10F23342C9A42B08A5FE584479CB562": {
+      "id": "D10F23342C9A42B08A5FE584479CB562",
+      "asnIdentifier": null,
+      "position": 33010,
+      "depth": 1,
+      "listId": "8G",
+      "statementNotation": "8G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decompose rational expressions into partial fractions",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "8B80C77F59C6401988D7ECCCF1244A92": {
+      "id": "8B80C77F59C6401988D7ECCCF1244A92",
+      "asnIdentifier": null,
+      "position": 33009,
+      "depth": 1,
+      "listId": "8F",
+      "statementNotation": "8F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the inverse of a matrix, if it exists, and use it to solve systems of linear equations",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "7A6FF171D7BD42F994270BB59A6A83B0": {
+      "id": "7A6FF171D7BD42F994270BB59A6A83B0",
+      "asnIdentifier": null,
+      "position": 33008,
+      "depth": 1,
+      "listId": "8E",
+      "statementNotation": "8E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a system of linear equations in matrix equation form",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "8158FA55C7EB4339B0E5214983B63C33": {
+      "id": "8158FA55C7EB4339B0E5214983B63C33",
+      "asnIdentifier": null,
+      "position": 33007,
+      "depth": 1,
+      "listId": "8D",
+      "statementNotation": "8D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply properties of vectors to real-life situations",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "6063A32AD20F41459AF3A58CEAB66775": {
+      "id": "6063A32AD20F41459AF3A58CEAB66775",
+      "asnIdentifier": null,
+      "position": 33006,
+      "depth": 1,
+      "listId": "8C",
+      "statementNotation": "8C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate and use properties of the Dot Product",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "6F548CFE2E324C23A4B70030B8A8D3D9": {
+      "id": "6F548CFE2E324C23A4B70030B8A8D3D9",
+      "asnIdentifier": null,
+      "position": 33005,
+      "depth": 1,
+      "listId": "8B",
+      "statementNotation": "8B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform vector operations: magnitude, direction angle, and unit vector",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "6CE9DFF4B2B946BB9A4E00A56AFEFF9B": {
+      "id": "6CE9DFF4B2B946BB9A4E00A56AFEFF9B",
+      "asnIdentifier": null,
+      "position": 33004,
+      "depth": 1,
+      "listId": "8A",
+      "statementNotation": "8A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform vector operations: scalar multiple and sums and represent them graphically",
+      "comments": [],
+      "ancestorIds": [
+        "14B1F7E9C6AD49DBAA2A58EE620E783E"
+      ],
+      "parentId": "14B1F7E9C6AD49DBAA2A58EE620E783E"
+    },
+    "14B1F7E9C6AD49DBAA2A58EE620E783E": {
+      "id": "14B1F7E9C6AD49DBAA2A58EE620E783E",
+      "asnIdentifier": null,
+      "position": 32004,
+      "depth": 0,
+      "listId": "K8",
+      "statementNotation": "K8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Vectors & Matrices",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3C5DA6FE28E344E495278B9F8BCD7484": {
+      "id": "3C5DA6FE28E344E495278B9F8BCD7484",
+      "asnIdentifier": null,
+      "position": 32003,
+      "depth": 1,
+      "listId": "7D",
+      "statementNotation": "7D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the sums of finite and infinite series",
+      "comments": [],
+      "ancestorIds": [
+        "963B5D132232486E8185903B50CF9C5E"
+      ],
+      "parentId": "963B5D132232486E8185903B50CF9C5E"
+    },
+    "57029873D9424342AB8CF99896B2E767": {
+      "id": "57029873D9424342AB8CF99896B2E767",
+      "asnIdentifier": null,
+      "position": 32002,
+      "depth": 1,
+      "listId": "7C",
+      "statementNotation": "7C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate and identify the explicit rule for geometric sequences and series",
+      "comments": [],
+      "ancestorIds": [
+        "963B5D132232486E8185903B50CF9C5E"
+      ],
+      "parentId": "963B5D132232486E8185903B50CF9C5E"
+    },
+    "2FB51B073103470A9E2FEE6001AD94BD": {
+      "id": "2FB51B073103470A9E2FEE6001AD94BD",
+      "asnIdentifier": null,
+      "position": 32001,
+      "depth": 1,
+      "listId": "7B",
+      "statementNotation": "7B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate and identify the explicit rule for arithmetic sequences and series",
+      "comments": [],
+      "ancestorIds": [
+        "963B5D132232486E8185903B50CF9C5E"
+      ],
+      "parentId": "963B5D132232486E8185903B50CF9C5E"
+    },
+    "BC20AA6A28494FBE93E8F87975CB0477": {
+      "id": "BC20AA6A28494FBE93E8F87975CB0477",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 1,
+      "listId": "7A",
+      "statementNotation": "7A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Expand the power of a binomial using the Binomial Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "963B5D132232486E8185903B50CF9C5E"
+      ],
+      "parentId": "963B5D132232486E8185903B50CF9C5E"
+    },
+    "963B5D132232486E8185903B50CF9C5E": {
+      "id": "963B5D132232486E8185903B50CF9C5E",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 0,
+      "listId": "K7",
+      "statementNotation": "K7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discrete Mathematics",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D7C7F3A52A164117B77F46C6903200DE": {
+      "id": "D7C7F3A52A164117B77F46C6903200DE",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 1,
+      "listId": "6D",
+      "statementNotation": "6D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Law of Sines and Law of Cosines to solve triangles",
+      "comments": [],
+      "ancestorIds": [
+        "13AB9A4DF6104D239226F8E95EB10E47"
+      ],
+      "parentId": "13AB9A4DF6104D239226F8E95EB10E47"
+    },
+    "FEBDC8B0D9EF47E282660505076A53C1": {
+      "id": "FEBDC8B0D9EF47E282660505076A53C1",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "6C",
+      "statementNotation": "6C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve equations using trigonometric identities",
+      "comments": [],
+      "ancestorIds": [
+        "13AB9A4DF6104D239226F8E95EB10E47"
+      ],
+      "parentId": "13AB9A4DF6104D239226F8E95EB10E47"
+    },
+    "7E61DAFF1A5A43E5944ECA4EDEE3937A": {
+      "id": "7E61DAFF1A5A43E5944ECA4EDEE3937A",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 1,
+      "listId": "6B",
+      "statementNotation": "6B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prove trigonometric identities",
+      "comments": [],
+      "ancestorIds": [
+        "13AB9A4DF6104D239226F8E95EB10E47"
+      ],
+      "parentId": "13AB9A4DF6104D239226F8E95EB10E47"
+    },
+    "C8C84DDD24D24121ADE5CA167621B899": {
+      "id": "C8C84DDD24D24121ADE5CA167621B899",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "6A",
+      "statementNotation": "6A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Verify, evaluate, and apply trigonometric identities and formulas",
+      "comments": [],
+      "ancestorIds": [
+        "13AB9A4DF6104D239226F8E95EB10E47"
+      ],
+      "parentId": "13AB9A4DF6104D239226F8E95EB10E47"
+    },
+    "13AB9A4DF6104D239226F8E95EB10E47": {
+      "id": "13AB9A4DF6104D239226F8E95EB10E47",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 0,
+      "listId": "K6",
+      "statementNotation": "K6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analytic Trigonometry",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "20B9988A2DAB43A3A3FBD2F429C996FF": {
+      "id": "20B9988A2DAB43A3A3FBD2F429C996FF",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "5D",
+      "statementNotation": "5D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate inverse and composite trigonometric functions and expressions using the unit circle",
+      "comments": [],
+      "ancestorIds": [
+        "01B91D99BE04441BB4B34205E5A41DAD"
+      ],
+      "parentId": "01B91D99BE04441BB4B34205E5A41DAD"
+    },
+    "D0ED83C1423E4CBDA99466AD52823F9D": {
+      "id": "D0ED83C1423E4CBDA99466AD52823F9D",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "5C",
+      "statementNotation": "5C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rigid and non-rigid transformations of sinusoids",
+      "comments": [],
+      "ancestorIds": [
+        "01B91D99BE04441BB4B34205E5A41DAD"
+      ],
+      "parentId": "01B91D99BE04441BB4B34205E5A41DAD"
+    },
+    "6389316B2179479EB59BDD81E1554DC0": {
+      "id": "6389316B2179479EB59BDD81E1554DC0",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "5B",
+      "statementNotation": "5B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use reference angles to evaluate trigonometric ratios given specific constraints",
+      "comments": [],
+      "ancestorIds": [
+        "01B91D99BE04441BB4B34205E5A41DAD"
+      ],
+      "parentId": "01B91D99BE04441BB4B34205E5A41DAD"
+    },
+    "79DA9D1C92A44EF8BCFFE84EF90F9831": {
+      "id": "79DA9D1C92A44EF8BCFFE84EF90F9831",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "5A",
+      "statementNotation": "5A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate trigonometric functions and expressions",
+      "comments": [],
+      "ancestorIds": [
+        "01B91D99BE04441BB4B34205E5A41DAD"
+      ],
+      "parentId": "01B91D99BE04441BB4B34205E5A41DAD"
+    },
+    "01B91D99BE04441BB4B34205E5A41DAD": {
+      "id": "01B91D99BE04441BB4B34205E5A41DAD",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 0,
+      "listId": "K5",
+      "statementNotation": "K5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Trigonometric Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B3226689BC5547BDBFDF1659828335A2": {
+      "id": "B3226689BC5547BDBFDF1659828335A2",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 0,
+      "listId": "K4",
+      "statementNotation": "K4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analytic Geometry",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D02ADD8189454AE598FDC612A8FB9AFF": {
+      "id": "D02ADD8189454AE598FDC612A8FB9AFF",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "3G",
+      "statementNotation": "3G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve real-world applications using exponential and logarithmic functions",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "4BE1B0B6CC6941F4BEC32E5C5C39E673": {
+      "id": "4BE1B0B6CC6941F4BEC32E5C5C39E673",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "3F",
+      "statementNotation": "3F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model real-world situations and use regressions with the use of functions",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "64121D508463466294C1A23990DFC24A": {
+      "id": "64121D508463466294C1A23990DFC24A",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "3E",
+      "statementNotation": "3E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know and apply product, quotient, and power rules of logarithmic functions",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "A2C298E5505846BF92D77BC3DD4429EC": {
+      "id": "A2C298E5505846BF92D77BC3DD4429EC",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "3D",
+      "statementNotation": "3D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rigid and non-rigid transformations of exponential and logarithmic functions",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "D7992B1CC3C84918A8826D724F79E98F": {
+      "id": "D7992B1CC3C84918A8826D724F79E98F",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "3C",
+      "statementNotation": "3C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand properties of common and natural logarithmic functions",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "1AB4F4D94A684058B9E5734478F6F928": {
+      "id": "1AB4F4D94A684058B9E5734478F6F928",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "3B",
+      "statementNotation": "3B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know and understand the inverse relationships of exponential and logarithmic equations",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "7F5F6C7AE81F4AE29E7B250A0D360983": {
+      "id": "7F5F6C7AE81F4AE29E7B250A0D360983",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "3A",
+      "statementNotation": "3A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and analyze properties of exponential, logarithmic, and logistic functions and their graphs",
+      "comments": [],
+      "ancestorIds": [
+        "6F5FEE17534C4D30BC080D34CCC96628"
+      ],
+      "parentId": "6F5FEE17534C4D30BC080D34CCC96628"
+    },
+    "6F5FEE17534C4D30BC080D34CCC96628": {
+      "id": "6F5FEE17534C4D30BC080D34CCC96628",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 0,
+      "listId": "K3",
+      "statementNotation": "K3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exponential and Logarithmic Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3A54E28D2C174E8AAD441EF653EFE689": {
+      "id": "3A54E28D2C174E8AAD441EF653EFE689",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "2E",
+      "statementNotation": "2E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph, Solve, and Analyze Rational Functions",
+      "comments": [],
+      "ancestorIds": [
+        "A81D658354B54085AD0D6CFD3D76D4BD"
+      ],
+      "parentId": "A81D658354B54085AD0D6CFD3D76D4BD"
+    },
+    "AC2762EFD2994C6AB53DDE063FE23CB3": {
+      "id": "AC2762EFD2994C6AB53DDE063FE23CB3",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "2D",
+      "statementNotation": "2D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the Fundamental Theorem of Algebra",
+      "comments": [],
+      "ancestorIds": [
+        "A81D658354B54085AD0D6CFD3D76D4BD"
+      ],
+      "parentId": "A81D658354B54085AD0D6CFD3D76D4BD"
+    },
+    "F67125A3CD34435CB08BF4B85A39890B": {
+      "id": "F67125A3CD34435CB08BF4B85A39890B",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "2C",
+      "statementNotation": "2C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct Polynomials Given Real or Complex Zeros",
+      "comments": [],
+      "ancestorIds": [
+        "A81D658354B54085AD0D6CFD3D76D4BD"
+      ],
+      "parentId": "A81D658354B54085AD0D6CFD3D76D4BD"
+    },
+    "83BC7DD96E2140CEB4763E388ED9063D": {
+      "id": "83BC7DD96E2140CEB4763E388ED9063D",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "2B",
+      "statementNotation": "2B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find Real and Complex Zeros By Synthetic Division",
+      "comments": [],
+      "ancestorIds": [
+        "A81D658354B54085AD0D6CFD3D76D4BD"
+      ],
+      "parentId": "A81D658354B54085AD0D6CFD3D76D4BD"
+    },
+    "9DC9A6DC99C1492794DB0624F155AB2A": {
+      "id": "9DC9A6DC99C1492794DB0624F155AB2A",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "2A",
+      "statementNotation": "2A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph, Solve, and Analyze Polynomial Functions",
+      "comments": [],
+      "ancestorIds": [
+        "A81D658354B54085AD0D6CFD3D76D4BD"
+      ],
+      "parentId": "A81D658354B54085AD0D6CFD3D76D4BD"
+    },
+    "A81D658354B54085AD0D6CFD3D76D4BD": {
+      "id": "A81D658354B54085AD0D6CFD3D76D4BD",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 0,
+      "listId": "K2",
+      "statementNotation": "K2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "KC2 Polynomials & Rational Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C1EDC280CF5F4442928E439007F802C3": {
+      "id": "C1EDC280CF5F4442928E439007F802C3",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "1E",
+      "statementNotation": "1E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model Real-World Situations and Using Regressions",
+      "comments": [],
+      "ancestorIds": [
+        "57DC96E1A9BE4076938889153A42750E"
+      ],
+      "parentId": "57DC96E1A9BE4076938889153A42750E"
+    },
+    "016FCA7558D442DE8B30FFF62F19F964": {
+      "id": "016FCA7558D442DE8B30FFF62F19F964",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1D",
+      "statementNotation": "1D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Transformations of Parent Functions",
+      "comments": [],
+      "ancestorIds": [
+        "57DC96E1A9BE4076938889153A42750E"
+      ],
+      "parentId": "57DC96E1A9BE4076938889153A42750E"
+    },
+    "66F96D224D6349F2BCEA0DA976EFBB46": {
+      "id": "66F96D224D6349F2BCEA0DA976EFBB46",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "1C",
+      "statementNotation": "1C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and Analyze Parent Functions",
+      "comments": [],
+      "ancestorIds": [
+        "57DC96E1A9BE4076938889153A42750E"
+      ],
+      "parentId": "57DC96E1A9BE4076938889153A42750E"
+    },
+    "F519B655B0344E89BE0BA7BDA8861464": {
+      "id": "F519B655B0344E89BE0BA7BDA8861464",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1B",
+      "statementNotation": "1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Build Functions From Functions (Composition & Inverse)",
+      "comments": [],
+      "ancestorIds": [
+        "57DC96E1A9BE4076938889153A42750E"
+      ],
+      "parentId": "57DC96E1A9BE4076938889153A42750E"
+    },
+    "1F12AC2049F94A0196B640A7B16E67F3": {
+      "id": "1F12AC2049F94A0196B640A7B16E67F3",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1A",
+      "statementNotation": "1A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze Functions Using Specific Properties",
+      "comments": [],
+      "ancestorIds": [
+        "57DC96E1A9BE4076938889153A42750E"
+      ],
+      "parentId": "57DC96E1A9BE4076938889153A42750E"
+    },
+    "57DC96E1A9BE4076938889153A42750E": {
+      "id": "57DC96E1A9BE4076938889153A42750E",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "K1",
+      "statementNotation": "K1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "KC1 Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

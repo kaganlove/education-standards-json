@@ -1,0 +1,436 @@
+{
+  "id": "B54A104643014E9BA59DDF33F05CC9D3",
+  "title": "Unity Certified User: VR Developer",
+  "subject": "Unity Video Game Design",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "VocationalTraining",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Unity Certified User VR Developer",
+    "sourceURL": "https://certiport.filecamp.com/s/i/UCU_VR_Developer_0823"
+  },
+  "jurisdiction": {
+    "id": "03E1B088192C4CC193F075BC2ED0B752",
+    "title": "Unity"
+  },
+  "standards": {
+    "93AD5C871D40420288DB8A8985513A17": {
+      "id": "93AD5C871D40420288DB8A8985513A17",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "5.4",
+      "statementNotation": "5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify correct optimization methods when working on a VR scene,\r\nincluding but not limited to camera occlusion culling, removing unused\r\nobjects, or level of detail (LOD)",
+      "comments": [],
+      "ancestorIds": [
+        "6FEDD059A608438D9B671B90BD61FBA4"
+      ],
+      "parentId": "6FEDD059A608438D9B671B90BD61FBA4"
+    },
+    "17388D67B0064AAA8371FD294910BB2E": {
+      "id": "17388D67B0064AAA8371FD294910BB2E",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "5.3",
+      "statementNotation": "5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify errors output to the Console and the steps to fix them, including null\r\nreferences, missing end of line markers, or syntax errors",
+      "comments": [],
+      "ancestorIds": [
+        "6FEDD059A608438D9B671B90BD61FBA4"
+      ],
+      "parentId": "6FEDD059A608438D9B671B90BD61FBA4"
+    },
+    "6190B52CFDCE4216B0B4461EF79D9A75": {
+      "id": "6190B52CFDCE4216B0B4461EF79D9A75",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "5.2",
+      "statementNotation": "5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify types of logs in the Console",
+      "comments": [],
+      "ancestorIds": [
+        "6FEDD059A608438D9B671B90BD61FBA4"
+      ],
+      "parentId": "6FEDD059A608438D9B671B90BD61FBA4"
+    },
+    "1441739C6D874384A59627FF2DDDA6C1": {
+      "id": "1441739C6D874384A59627FF2DDDA6C1",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "5.1",
+      "statementNotation": "5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a problem discovered in playtesting, identify areas to troubleshoot,\r\nincluding Static objects, missing Colliders, missing Rigidbodies, incorrect\r\nsettings, Is Trigger, Is Kinematic, or Use Gravity",
+      "comments": [],
+      "ancestorIds": [
+        "6FEDD059A608438D9B671B90BD61FBA4"
+      ],
+      "parentId": "6FEDD059A608438D9B671B90BD61FBA4"
+    },
+    "6FEDD059A608438D9B671B90BD61FBA4": {
+      "id": "6FEDD059A608438D9B671B90BD61FBA4",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Troubleshooting and Playtesting",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "33E65722391B483CBFBD27D6C95D8EEF": {
+      "id": "33E65722391B483CBFBD27D6C95D8EEF",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "4.3",
+      "statementNotation": "4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, identify how to handle a collision or trigger Enter, Stay, or\r\nExit event",
+      "comments": [],
+      "ancestorIds": [
+        "508CD87B46C647F082F36870E6B4790E"
+      ],
+      "parentId": "508CD87B46C647F082F36870E6B4790E"
+    },
+    "3D9E1B13BA2F419FA9D0D2A99F0AAF94": {
+      "id": "3D9E1B13BA2F419FA9D0D2A99F0AAF94",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "4.2",
+      "statementNotation": "4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, select the appropriate Unity structure to achieve a goal\r\nthat requires knowledge of data structures, such as Vector3, GameObject,\r\nCollider, Rigidbody, or AudioSource",
+      "comments": [],
+      "ancestorIds": [
+        "508CD87B46C647F082F36870E6B4790E"
+      ],
+      "parentId": "508CD87B46C647F082F36870E6B4790E"
+    },
+    "F064FDED08A441BEA66EFDD545747F10": {
+      "id": "F064FDED08A441BEA66EFDD545747F10",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "4.1",
+      "statementNotation": "4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, select the appropriate basic C# code to achieve a goal\r\nthat requires knowledge of properties, variables, methods, basic data types,\r\nor binary operators",
+      "comments": [],
+      "ancestorIds": [
+        "508CD87B46C647F082F36870E6B4790E"
+      ],
+      "parentId": "508CD87B46C647F082F36870E6B4790E"
+    },
+    "508CD87B46C647F082F36870E6B4790E": {
+      "id": "508CD87B46C647F082F36870E6B4790E",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Scripting with Unity",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A31F247D43A64DBD96F36F8734BC0FEC": {
+      "id": "A31F247D43A64DBD96F36F8734BC0FEC",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "3.5",
+      "statementNotation": "3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Differentiate between attributes of audio sources, including but not limited\r\nto 2D and spatial audio",
+      "comments": [],
+      "ancestorIds": [
+        "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+      ],
+      "parentId": "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+    },
+    "25CE41F4B69446108BE15EF1B528A1E9": {
+      "id": "25CE41F4B69446108BE15EF1B528A1E9",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "3.4",
+      "statementNotation": "3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, identify optimal VR interactions regarding health and\r\nsafety",
+      "comments": [],
+      "ancestorIds": [
+        "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+      ],
+      "parentId": "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+    },
+    "4AAE80DC0D2A4B35B09C5573078B9B24": {
+      "id": "4AAE80DC0D2A4B35B09C5573078B9B24",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "3.3",
+      "statementNotation": "3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify types of player locomotion, including degrees of freedom, moving\r\nan avatar, 3-axis motion, 6-axis rotation, and rotating along an axis",
+      "comments": [],
+      "ancestorIds": [
+        "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+      ],
+      "parentId": "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+    },
+    "7EC232983C05480EA57AECD396F80C58": {
+      "id": "7EC232983C05480EA57AECD396F80C58",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "3.2",
+      "statementNotation": "3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, determine the components needed for a user to physically\r\nmanipulate objects, including but not limited to Colliders, the XR Grab\r\nInteractable, and Rigidbodies",
+      "comments": [],
+      "ancestorIds": [
+        "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+      ],
+      "parentId": "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+    },
+    "C8CC1188812A4877A5F33BE2DA501A09": {
+      "id": "C8CC1188812A4877A5F33BE2DA501A09",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "3.1",
+      "statementNotation": "3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the steps to create a basic UI using World Space for a VR scene,\r\nincluding the use of Canvas, Button, Image, Text, and the Event System",
+      "comments": [],
+      "ancestorIds": [
+        "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+      ],
+      "parentId": "76EB0A2217D540CBB8BCEF8F70AFFEF1"
+    },
+    "76EB0A2217D540CBB8BCEF8F70AFFEF1": {
+      "id": "76EB0A2217D540CBB8BCEF8F70AFFEF1",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "UX Implementation for VR",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F4E20C03D35B4177AE53FAD74281B2E4": {
+      "id": "F4E20C03D35B4177AE53FAD74281B2E4",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify various types of light and when to use Baked vs Realtime lighting",
+      "comments": [],
+      "ancestorIds": [
+        "82CE63643E414615BBBB580BC3CEA371"
+      ],
+      "parentId": "82CE63643E414615BBBB580BC3CEA371"
+    },
+    "9563A1A3ABE34F498C7BD1DD05985B20": {
+      "id": "9563A1A3ABE34F498C7BD1DD05985B20",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify correct methods to implement environment design with 3D objects\r\nusing finalized assets",
+      "comments": [],
+      "ancestorIds": [
+        "82CE63643E414615BBBB580BC3CEA371"
+      ],
+      "parentId": "82CE63643E414615BBBB580BC3CEA371"
+    },
+    "3E062B7C7EDD4A97B6384490E63C95B4": {
+      "id": "3E062B7C7EDD4A97B6384490E63C95B4",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, identify common preplanning techniques, including design\r\ndocuments, flow charts, animatics, character model sheets, prototyping,\r\ngreyboxing, storyboarding, concept art, and proportional level scaling",
+      "comments": [],
+      "ancestorIds": [
+        "82CE63643E414615BBBB580BC3CEA371"
+      ],
+      "parentId": "82CE63643E414615BBBB580BC3CEA371"
+    },
+    "82CE63643E414615BBBB580BC3CEA371": {
+      "id": "82CE63643E414615BBBB580BC3CEA371",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Building a Scene for VR",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B36345B5EACD40C69AC19049114902EB": {
+      "id": "B36345B5EACD40C69AC19049114902EB",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "1.6",
+      "statementNotation": "1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Manage components in the Inspector Window",
+      "comments": [],
+      "ancestorIds": [
+        "C6164EFCEA944F1BA137D377D12DA214"
+      ],
+      "parentId": "C6164EFCEA944F1BA137D377D12DA214"
+    },
+    "71A69979E3274ECDB272A2BEDDD3C2AA": {
+      "id": "71A69979E3274ECDB272A2BEDDD3C2AA",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "1.5",
+      "statementNotation": "1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the correct primary interface window to complete a given task while\r\nusing the default workspace",
+      "comments": [],
+      "ancestorIds": [
+        "C6164EFCEA944F1BA137D377D12DA214"
+      ],
+      "parentId": "C6164EFCEA944F1BA137D377D12DA214"
+    },
+    "81B3B940173C4DBCBCA2765FAC0E36A7": {
+      "id": "81B3B940173C4DBCBCA2765FAC0E36A7",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "1.4",
+      "statementNotation": "1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, identify how to use the Transform component to position,\r\nrotate, and scale an object in the scene",
+      "comments": [],
+      "ancestorIds": [
+        "C6164EFCEA944F1BA137D377D12DA214"
+      ],
+      "parentId": "C6164EFCEA944F1BA137D377D12DA214"
+    },
+    "C548DEE235514786AE882B9CCC1A2E67": {
+      "id": "C548DEE235514786AE882B9CCC1A2E67",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1.3",
+      "statementNotation": "1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate how to import or modify assets, including Prefabs",
+      "comments": [],
+      "ancestorIds": [
+        "C6164EFCEA944F1BA137D377D12DA214"
+      ],
+      "parentId": "C6164EFCEA944F1BA137D377D12DA214"
+    },
+    "200B59DCE88E4456B26D5C599FA26BBD": {
+      "id": "200B59DCE88E4456B26D5C599FA26BBD",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate how to use Package Manager to manage packages, including\r\nbut not limited to the XR Interaction Toolkit",
+      "comments": [],
+      "ancestorIds": [
+        "C6164EFCEA944F1BA137D377D12DA214"
+      ],
+      "parentId": "C6164EFCEA944F1BA137D377D12DA214"
+    },
+    "F9FDB64FE87148C99138B808B1D54E1C": {
+      "id": "F9FDB64FE87148C99138B808B1D54E1C",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define essential VR concepts, including but not limited to stereoscopic\r\nvision, how VR differs from other forms of XR, tracking methods, and VR\r\ninput methods",
+      "comments": [],
+      "ancestorIds": [
+        "C6164EFCEA944F1BA137D377D12DA214"
+      ],
+      "parentId": "C6164EFCEA944F1BA137D377D12DA214"
+    },
+    "C6164EFCEA944F1BA137D377D12DA214": {
+      "id": "C6164EFCEA944F1BA137D377D12DA214",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1.",
+      "statementNotation": "1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic Unity Concepts for VR Development",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

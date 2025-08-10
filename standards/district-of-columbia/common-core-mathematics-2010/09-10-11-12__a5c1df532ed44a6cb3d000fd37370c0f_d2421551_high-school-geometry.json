@@ -1,0 +1,1399 @@
+{
+  "id": "A5C1DF532ED44A6CB3D000FD37370C0F_D2421551_high-school-geometry",
+  "title": "High School — Geometry",
+  "subject": "Common Core Mathematics (2010-)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "valid": "2010",
+    "title": "Common Core State Standards for Mathematics",
+    "sourceURL": "http://www.corestandards.org/assets/CCSSI_Math%20Standards.pdf",
+    "asnIdentifier": "D2421551",
+    "publicationStatus": "Published",
+    "id": "D2421551"
+  },
+  "jurisdiction": {
+    "id": "A5C1DF532ED44A6CB3D000FD37370C0F",
+    "title": "District of Columbia"
+  },
+  "standards": {
+    "F5825C10DFE401315F2F68A86D17958E": {
+      "asnIdentifier": "S2422204",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-MG.A.3",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/MG/A/3"
+      ],
+      "id": "F5825C10DFE401315F2F68A86D17958E",
+      "position": 75000,
+      "altStatementNotation": "G.MG.3",
+      "listId": "3.",
+      "description": "Apply geometric methods to solve design problems (e.g., designing an object or structure to satisfy physical constraints or minimize cost; working with typographic grid systems based on ratios).",
+      "ancestorIds": [
+        "F58129E0DFE401315F2C68A86D17958E",
+        "F580CE80DFE401315F2B68A86D17958E"
+      ],
+      "parentId": "F58129E0DFE401315F2C68A86D17958E"
+    },
+    "F5820000DFE401315F2E68A86D17958E": {
+      "asnIdentifier": "S2422203",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-MG.A.2",
+      "statementLabel": "Standard",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "id": "F5820000DFE401315F2E68A86D17958E",
+      "altStatementNotation": "G.MG.2",
+      "listId": "2.",
+      "description": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/MG/A/2"
+      ],
+      "position": 74000,
+      "ancestorIds": [
+        "F58129E0DFE401315F2C68A86D17958E",
+        "F580CE80DFE401315F2B68A86D17958E"
+      ],
+      "parentId": "F58129E0DFE401315F2C68A86D17958E"
+    },
+    "F581A080DFE401315F2D68A86D17958E": {
+      "depth": 2,
+      "altStatementNotation": "G.MG.1",
+      "statementLabel": "Standard",
+      "description": "Use geometric shapes, their measures, and their properties to describe objects (e.g., modeling a tree trunk or a human torso as a cylinder).",
+      "listId": "1.",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/MG/A/1"
+      ],
+      "id": "F581A080DFE401315F2D68A86D17958E",
+      "asnIdentifier": "S2422202",
+      "position": 73000,
+      "statementNotation": "CCSS.Math.Content.HSG-MG.A.1",
+      "ancestorIds": [
+        "F58129E0DFE401315F2C68A86D17958E",
+        "F580CE80DFE401315F2B68A86D17958E"
+      ],
+      "parentId": "F58129E0DFE401315F2C68A86D17958E"
+    },
+    "F58129E0DFE401315F2C68A86D17958E": {
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-MG.A",
+      "statementLabel": "Cluster",
+      "description": "Apply geometric concepts in modeling situations",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/MG/A"
+      ],
+      "id": "F58129E0DFE401315F2C68A86D17958E",
+      "asnIdentifier": "S2422201",
+      "position": 72000,
+      "ancestorIds": [
+        "F580CE80DFE401315F2B68A86D17958E"
+      ],
+      "parentId": "F580CE80DFE401315F2B68A86D17958E"
+    },
+    "F580CE80DFE401315F2B68A86D17958E": {
+      "id": "F580CE80DFE401315F2B68A86D17958E",
+      "asnIdentifier": "S2422200",
+      "position": 71000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Modeling with Geometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F5806C10DFE401315F2A68A86D17958E": {
+      "asnIdentifier": "S2422199",
+      "altStatementNotation": "G.GMD.4",
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "description": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+      "id": "F5806C10DFE401315F2A68A86D17958E",
+      "position": 70000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-GMD.B.4",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GMD/B/4"
+      ],
+      "ancestorIds": [
+        "F57FFCE0DFE401315F2968A86D17958E",
+        "F57E2AD0DFE401315F2468A86D17958E"
+      ],
+      "parentId": "F57FFCE0DFE401315F2968A86D17958E"
+    },
+    "F57FFCE0DFE401315F2968A86D17958E": {
+      "id": "F57FFCE0DFE401315F2968A86D17958E",
+      "asnIdentifier": "S2422198",
+      "position": 69000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-GMD.B",
+      "statementLabel": "Cluster",
+      "description": "Visualize relationships between two-dimensional and three-dimensional objects",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GMD/B"
+      ],
+      "ancestorIds": [
+        "F57E2AD0DFE401315F2468A86D17958E"
+      ],
+      "parentId": "F57E2AD0DFE401315F2468A86D17958E"
+    },
+    "F57F9290DFE401315F2868A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GMD/A/3"
+      ],
+      "depth": 2,
+      "asnIdentifier": "S2422197",
+      "position": 68000,
+      "statementNotation": "CCSS.Math.Content.HSG-GMD.A.3",
+      "altStatementNotation": "G.GMD.3",
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "description": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+      "id": "F57F9290DFE401315F2868A86D17958E",
+      "ancestorIds": [
+        "F57E8A90DFE401315F2568A86D17958E",
+        "F57E2AD0DFE401315F2468A86D17958E"
+      ],
+      "parentId": "F57E8A90DFE401315F2568A86D17958E"
+    },
+    "F57F3A80DFE401315F2768A86D17958E": {
+      "asnIdentifier": "S2422196",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-GMD.A.2",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "id": "F57F3A80DFE401315F2768A86D17958E",
+      "position": 67000,
+      "altStatementNotation": "G.GMD.2",
+      "description": "(+) Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GMD/A/2"
+      ],
+      "ancestorIds": [
+        "F57E8A90DFE401315F2568A86D17958E",
+        "F57E2AD0DFE401315F2468A86D17958E"
+      ],
+      "parentId": "F57E8A90DFE401315F2568A86D17958E"
+    },
+    "F57EE030DFE401315F2668A86D17958E": {
+      "comments": [
+        "Use dissection arguments, Cavalieri's principle, and informal limit arguments."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GMD/A/1"
+      ],
+      "id": "F57EE030DFE401315F2668A86D17958E",
+      "position": 66000,
+      "statementLabel": "Standard",
+      "altStatementNotation": "G.GMD.1",
+      "listId": "1.",
+      "description": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, volume of a cylinder, pyramid, and cone.",
+      "asnIdentifier": "S2422195",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-GMD.A.1",
+      "ancestorIds": [
+        "F57E8A90DFE401315F2568A86D17958E",
+        "F57E2AD0DFE401315F2468A86D17958E"
+      ],
+      "parentId": "F57E8A90DFE401315F2568A86D17958E"
+    },
+    "F57E8A90DFE401315F2568A86D17958E": {
+      "id": "F57E8A90DFE401315F2568A86D17958E",
+      "asnIdentifier": "S2422194",
+      "position": 65000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-GMD.A",
+      "statementLabel": "Cluster",
+      "description": "Explain volume formulas and use them to solve problems",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GMD/A"
+      ],
+      "ancestorIds": [
+        "F57E2AD0DFE401315F2468A86D17958E"
+      ],
+      "parentId": "F57E2AD0DFE401315F2468A86D17958E"
+    },
+    "F57E2AD0DFE401315F2468A86D17958E": {
+      "asnIdentifier": "S2422193",
+      "position": 64000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Geometric Measurement and Dimension",
+      "id": "F57E2AD0DFE401315F2468A86D17958E",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F57D9D40DFE401315F2368A86D17958E": {
+      "asnIdentifier": "S2422192",
+      "position": 63000,
+      "depth": 2,
+      "altStatementNotation": "G.GPE.7",
+      "statementLabel": "Standard",
+      "listId": "7.",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "id": "F57D9D40DFE401315F2368A86D17958E",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/B/7"
+      ],
+      "description": "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.",
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.B.7",
+      "ancestorIds": [
+        "F57C26B0DFE401315F1F68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57C26B0DFE401315F1F68A86D17958E"
+    },
+    "F57D39C0DFE401315F2268A86D17958E": {
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "description": "Find the point on a directed line segment between two given points that partitions the segment in a given ratio.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/B/6"
+      ],
+      "id": "F57D39C0DFE401315F2268A86D17958E",
+      "asnIdentifier": "S2422191",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.B.6",
+      "position": 62000,
+      "altStatementNotation": "G.GPE.6",
+      "ancestorIds": [
+        "F57C26B0DFE401315F1F68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57C26B0DFE401315F1F68A86D17958E"
+    },
+    "F57CE350DFE401315F2168A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.B.5",
+      "altStatementNotation": "G.GPE.5",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/B/5"
+      ],
+      "description": "Prove the slope criteria for parallel and perpendicular lines and use them to solve geometric problems (e.g., find the equation of a line parallel or perpendicular to a given line that passes through a given point).",
+      "id": "F57CE350DFE401315F2168A86D17958E",
+      "asnIdentifier": "S2422190",
+      "position": 61000,
+      "depth": 2,
+      "listId": "5.",
+      "ancestorIds": [
+        "F57C26B0DFE401315F1F68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57C26B0DFE401315F1F68A86D17958E"
+    },
+    "F57C87C0DFE401315F2068A86D17958E": {
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "description": "Use coordinates to prove simple geometric theorems algebraically.",
+      "id": "F57C87C0DFE401315F2068A86D17958E",
+      "asnIdentifier": "S2422189",
+      "position": 60000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.B.4",
+      "altStatementNotation": "G.GPE.4",
+      "comments": [
+        "For example, prove or disprove that a figure defined by four given points in the coordinate plane is a rectangle; prove or disprove that the point (1, √3) lies on the circle centered at the origin and containing the point (0, 2)."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/B/4"
+      ],
+      "ancestorIds": [
+        "F57C26B0DFE401315F1F68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57C26B0DFE401315F1F68A86D17958E"
+    },
+    "F57C26B0DFE401315F1F68A86D17958E": {
+      "description": "Use coordinates to prove simple geometric theorems algebraically",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/B"
+      ],
+      "id": "F57C26B0DFE401315F1F68A86D17958E",
+      "asnIdentifier": "S2422188",
+      "position": 59000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.B",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57A44F0DFE401315F1A68A86D17958E"
+    },
+    "F57BCB00DFE401315F1E68A86D17958E": {
+      "id": "F57BCB00DFE401315F1E68A86D17958E",
+      "asnIdentifier": "S2422187",
+      "position": 58000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "description": "(+) Derive the equations of ellipses and hyperbolas given the foci, using the fact that the sum or difference of distances from the foci is constant.",
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.A.3",
+      "altStatementNotation": "G.GPE.3",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/A/3"
+      ],
+      "ancestorIds": [
+        "F57AAB80DFE401315F1B68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57AAB80DFE401315F1B68A86D17958E"
+    },
+    "F57B6920DFE401315F1D68A86D17958E": {
+      "altStatementNotation": "G.GPE.2",
+      "statementLabel": "Standard",
+      "description": "Derive the equation of a parabola given a focus and directrix.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/A/2"
+      ],
+      "asnIdentifier": "S2422186",
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.A.2",
+      "depth": 2,
+      "listId": "2.",
+      "id": "F57B6920DFE401315F1D68A86D17958E",
+      "position": 57000,
+      "ancestorIds": [
+        "F57AAB80DFE401315F1B68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57AAB80DFE401315F1B68A86D17958E"
+    },
+    "F57B08C0DFE401315F1C68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.A.1",
+      "id": "F57B08C0DFE401315F1C68A86D17958E",
+      "position": 56000,
+      "depth": 2,
+      "altStatementNotation": "G.GPE.1",
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "description": "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find the center and radius of a circle given by an equation.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/A/1"
+      ],
+      "asnIdentifier": "S2422185",
+      "ancestorIds": [
+        "F57AAB80DFE401315F1B68A86D17958E",
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57AAB80DFE401315F1B68A86D17958E"
+    },
+    "F57AAB80DFE401315F1B68A86D17958E": {
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-GPE.A",
+      "statementLabel": "Cluster",
+      "description": "Translate between the geometric description and the equation for a conic section",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/GPE/A"
+      ],
+      "id": "F57AAB80DFE401315F1B68A86D17958E",
+      "asnIdentifier": "S2422184",
+      "position": 55000,
+      "ancestorIds": [
+        "F57A44F0DFE401315F1A68A86D17958E"
+      ],
+      "parentId": "F57A44F0DFE401315F1A68A86D17958E"
+    },
+    "F57A44F0DFE401315F1A68A86D17958E": {
+      "asnIdentifier": "S2422183",
+      "position": 54000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Expressing Geometric Properties with Equations",
+      "id": "F57A44F0DFE401315F1A68A86D17958E",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F579F320DFE401315F1968A86D17958E": {
+      "id": "F579F320DFE401315F1968A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-C.B.5",
+      "statementLabel": "Standard",
+      "listId": "5.",
+      "description": "Derive using similarity the fact that the length of the arc intercepted by an angle is proportional to the radius, and define the radian measure of the angle as the constant of proportionality; derive the formula for the area of a sector.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/B/5"
+      ],
+      "asnIdentifier": "S2422182",
+      "position": 53000,
+      "altStatementNotation": "G.C.5",
+      "ancestorIds": [
+        "F579A260DFE401315F1868A86D17958E",
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F579A260DFE401315F1868A86D17958E"
+    },
+    "F579A260DFE401315F1868A86D17958E": {
+      "statementLabel": "Cluster",
+      "description": "Find arc lengths and areas of sectors of circles",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/B"
+      ],
+      "id": "F579A260DFE401315F1868A86D17958E",
+      "asnIdentifier": "S2422181",
+      "position": 52000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-C.B",
+      "ancestorIds": [
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F5774CC0DFE401315F1268A86D17958E"
+    },
+    "F57950E0DFE401315F1768A86D17958E": {
+      "statementLabel": "Standard",
+      "description": "(+) Construct a tangent line from a point outside a given circle to the circle.",
+      "altStatementNotation": "G.C.4",
+      "listId": "4.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/A/4"
+      ],
+      "id": "F57950E0DFE401315F1768A86D17958E",
+      "asnIdentifier": "S2422180",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-C.A.4",
+      "ancestorIds": [
+        "F577B0B0DFE401315F1368A86D17958E",
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F577B0B0DFE401315F1368A86D17958E"
+    },
+    "F578FD00DFE401315F1668A86D17958E": {
+      "asnIdentifier": "S2422179",
+      "altStatementNotation": "G.C.3",
+      "statementLabel": "Standard",
+      "description": "Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/A/3"
+      ],
+      "id": "F578FD00DFE401315F1668A86D17958E",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-C.A.3",
+      "listId": "3.",
+      "ancestorIds": [
+        "F577B0B0DFE401315F1368A86D17958E",
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F577B0B0DFE401315F1368A86D17958E"
+    },
+    "F578A0F0DFE401315F1568A86D17958E": {
+      "id": "F578A0F0DFE401315F1568A86D17958E",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/A/2"
+      ],
+      "altStatementNotation": "G.C.2",
+      "description": "Identify and describe relationships among inscribed angles, radii, and chords.",
+      "comments": [
+        "Include the relationship between central, inscribed, and circumscribed angles; inscribed angles on a diameter are right angles; the radius of a circle is perpendicular to the tangent where the radius intersects the circle."
+      ],
+      "asnIdentifier": "S2422178",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-C.A.2",
+      "ancestorIds": [
+        "F577B0B0DFE401315F1368A86D17958E",
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F577B0B0DFE401315F1368A86D17958E"
+    },
+    "F5782AB0DFE401315F1468A86D17958E": {
+      "depth": 2,
+      "altStatementNotation": "G.C.1",
+      "listId": "1.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/A/1"
+      ],
+      "id": "F5782AB0DFE401315F1468A86D17958E",
+      "position": 48000,
+      "statementLabel": "Standard",
+      "description": "Prove that all circles are similar.",
+      "asnIdentifier": "S2422177",
+      "statementNotation": "CCSS.Math.Content.HSG-C.A.1",
+      "ancestorIds": [
+        "F577B0B0DFE401315F1368A86D17958E",
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F577B0B0DFE401315F1368A86D17958E"
+    },
+    "F577B0B0DFE401315F1368A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-C.A",
+      "statementLabel": "Cluster",
+      "description": "Understand and apply theorems about circles",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/C/A"
+      ],
+      "id": "F577B0B0DFE401315F1368A86D17958E",
+      "asnIdentifier": "S2422176",
+      "position": 47000,
+      "depth": 1,
+      "ancestorIds": [
+        "F5774CC0DFE401315F1268A86D17958E"
+      ],
+      "parentId": "F5774CC0DFE401315F1268A86D17958E"
+    },
+    "F5774CC0DFE401315F1268A86D17958E": {
+      "id": "F5774CC0DFE401315F1268A86D17958E",
+      "asnIdentifier": "S2422175",
+      "position": 46000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Circles",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F5769310DFE401315F1068A86D17958E": {
+      "asnIdentifier": "S2422174",
+      "position": 45000,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.D.11",
+      "listId": "11.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/D/11"
+      ],
+      "id": "F5769310DFE401315F1068A86D17958E",
+      "depth": 2,
+      "altStatementNotation": "G.SRT.11",
+      "statementLabel": "Standard",
+      "description": "(+) Understand and apply the Law of Sines and the Law of Cosines to find unknown measurements in right and non-right triangles (e.g., surveying problems, resultant forces).",
+      "ancestorIds": [
+        "F575EBD0DFE401315F0E68A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F575EBD0DFE401315F0E68A86D17958E"
+    },
+    "F5763F20DFE401315F0F68A86D17958E": {
+      "id": "F5763F20DFE401315F0F68A86D17958E",
+      "asnIdentifier": "S2422173",
+      "depth": 2,
+      "altStatementNotation": "G.SRT.10",
+      "statementLabel": "Standard",
+      "listId": "10.",
+      "description": "(+) Prove the Laws of Sines and Cosines and use them to solve problems.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/D/10"
+      ],
+      "position": 44000,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.D.10",
+      "ancestorIds": [
+        "F575EBD0DFE401315F0E68A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F575EBD0DFE401315F0E68A86D17958E"
+    },
+    "F576F0C0DFE401315F1168A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/D/9"
+      ],
+      "statementLabel": "Standard",
+      "listId": "9.",
+      "description": "(+) Derive the formula A = 1/2 ab sin(C) for the area of a triangle by drawing an auxiliary line from a vertex perpendicular to the opposite side.",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.D.9",
+      "altStatementNotation": "G.SRT.9",
+      "id": "F576F0C0DFE401315F1168A86D17958E",
+      "asnIdentifier": "S2422172",
+      "position": 43000,
+      "ancestorIds": [
+        "F575EBD0DFE401315F0E68A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F575EBD0DFE401315F0E68A86D17958E"
+    },
+    "F575EBD0DFE401315F0E68A86D17958E": {
+      "position": 42000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.D",
+      "statementLabel": "Cluster",
+      "description": "Apply trigonometry to general triangles",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/D"
+      ],
+      "id": "F575EBD0DFE401315F0E68A86D17958E",
+      "asnIdentifier": "S2422171",
+      "ancestorIds": [
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5708730DFE401315F0068A86D17958E"
+    },
+    "F5759480DFE401315F0D68A86D17958E": {
+      "id": "F5759480DFE401315F0D68A86D17958E",
+      "depth": 2,
+      "altStatementNotation": "G.SRT.8",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/C/8"
+      ],
+      "asnIdentifier": "S2422170",
+      "position": 41000,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.C.8",
+      "listId": "8.",
+      "description": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "ancestorIds": [
+        "F5748180DFE401315F0A68A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5748180DFE401315F0A68A86D17958E"
+    },
+    "F5753A50DFE401315F0C68A86D17958E": {
+      "description": "Explain and use the relationship between the sine and cosine of complementary angles.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/C/7"
+      ],
+      "id": "F5753A50DFE401315F0C68A86D17958E",
+      "asnIdentifier": "S2422169",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.C.7",
+      "position": 40000,
+      "altStatementNotation": "G.SRT.7",
+      "statementLabel": "Standard",
+      "listId": "7.",
+      "ancestorIds": [
+        "F5748180DFE401315F0A68A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5748180DFE401315F0A68A86D17958E"
+    },
+    "F574D660DFE401315F0B68A86D17958E": {
+      "description": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+      "id": "F574D660DFE401315F0B68A86D17958E",
+      "asnIdentifier": "S2422168",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.C.6",
+      "altStatementNotation": "G.SRT.6",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/C/6"
+      ],
+      "ancestorIds": [
+        "F5748180DFE401315F0A68A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5748180DFE401315F0A68A86D17958E"
+    },
+    "F5748180DFE401315F0A68A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/C"
+      ],
+      "id": "F5748180DFE401315F0A68A86D17958E",
+      "asnIdentifier": "S2422167",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.C",
+      "statementLabel": "Cluster",
+      "description": "Define trigonometric ratios and solve problems involving right triangles",
+      "ancestorIds": [
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5708730DFE401315F0068A86D17958E"
+    },
+    "F5742BB0DFE401315F0968A86D17958E": {
+      "listId": "5.",
+      "id": "F5742BB0DFE401315F0968A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.B.5",
+      "statementLabel": "Standard",
+      "altStatementNotation": "G.SRT.5",
+      "description": "Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/B/5"
+      ],
+      "asnIdentifier": "S2422166",
+      "position": 37000,
+      "depth": 2,
+      "ancestorIds": [
+        "F5736010DFE401315F0768A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5736010DFE401315F0768A86D17958E"
+    },
+    "F573C7F0DFE401315F0868A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.B.4",
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "comments": [
+        "Theorems include: a line parallel to one side of a triangle divides the other two proportionally, and conversely; the Pythagorean Theorem proved using triangle similarity."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/B/4"
+      ],
+      "asnIdentifier": "S2422165",
+      "position": 36000,
+      "altStatementNotation": "G.SRT.4",
+      "description": "Prove theorems about triangles.",
+      "id": "F573C7F0DFE401315F0868A86D17958E",
+      "depth": 2,
+      "ancestorIds": [
+        "F5736010DFE401315F0768A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5736010DFE401315F0768A86D17958E"
+    },
+    "F5736010DFE401315F0768A86D17958E": {
+      "asnIdentifier": "S2422164",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.B",
+      "statementLabel": "Cluster",
+      "description": "Prove theorems involving similarity",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/B"
+      ],
+      "id": "F5736010DFE401315F0768A86D17958E",
+      "ancestorIds": [
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5708730DFE401315F0068A86D17958E"
+    },
+    "F572F940DFE401315F0668A86D17958E": {
+      "asnIdentifier": "S2422163",
+      "position": 34000,
+      "depth": 2,
+      "id": "F572F940DFE401315F0668A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.A.3",
+      "altStatementNotation": "G.SRT.3",
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "description": "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/A/3"
+      ],
+      "ancestorIds": [
+        "F570FB70DFE401315F0168A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F570FB70DFE401315F0168A86D17958E"
+    },
+    "F5729960DFE401315F0568A86D17958E": {
+      "asnIdentifier": "S2422162",
+      "position": 33000,
+      "depth": 2,
+      "altStatementNotation": "G.SRT.2",
+      "description": "Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar; explain using similarity transformations the meaning of similarity for triangles as the equality of all corresponding pairs of angles and the proportionality of all corresponding pairs of sides.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/A/2"
+      ],
+      "id": "F5729960DFE401315F0568A86D17958E",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.A.2",
+      "ancestorIds": [
+        "F570FB70DFE401315F0168A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F570FB70DFE401315F0168A86D17958E"
+    },
+    "F5720E50DFE401315F0468A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.A.1b",
+      "altStatementNotation": "G.SRT.1.b",
+      "listId": "b.",
+      "description": "The dilation of a line segment is longer or shorter in the ratio given by the scale factor.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/A/1/b"
+      ],
+      "position": 32000,
+      "asnIdentifier": "S2422161",
+      "depth": 3,
+      "statementLabel": "Component",
+      "id": "F5720E50DFE401315F0468A86D17958E",
+      "ancestorIds": [
+        "F5715430DFE401315F0268A86D17958E",
+        "F570FB70DFE401315F0168A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5715430DFE401315F0268A86D17958E"
+    },
+    "F571B480DFE401315F0368A86D17958E": {
+      "altStatementNotation": "G.SRT.1.a",
+      "listId": "a.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/A/1/a"
+      ],
+      "description": "A dilation takes a line not passing through the center of the dilation to a parallel line, and leaves a line passing through the center unchanged.",
+      "id": "F571B480DFE401315F0368A86D17958E",
+      "asnIdentifier": "S2422160",
+      "position": 31000,
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.A.1a",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "F5715430DFE401315F0268A86D17958E",
+        "F570FB70DFE401315F0168A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5715430DFE401315F0268A86D17958E"
+    },
+    "F5715430DFE401315F0268A86D17958E": {
+      "description": "Verify experimentally the properties of dilations given by a center and a scale factor:",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/A/1"
+      ],
+      "id": "F5715430DFE401315F0268A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.A.1",
+      "listId": "1.",
+      "altStatementNotation": "G.SRT.1",
+      "statementLabel": "Standard",
+      "asnIdentifier": "S2422159",
+      "position": 30000,
+      "depth": 2,
+      "ancestorIds": [
+        "F570FB70DFE401315F0168A86D17958E",
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F570FB70DFE401315F0168A86D17958E"
+    },
+    "F570FB70DFE401315F0168A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-SRT.A",
+      "statementLabel": "Cluster",
+      "description": "Understand similarity in terms of similarity transformations",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/SRT/A"
+      ],
+      "id": "F570FB70DFE401315F0168A86D17958E",
+      "asnIdentifier": "S2422158",
+      "position": 29000,
+      "depth": 1,
+      "ancestorIds": [
+        "F5708730DFE401315F0068A86D17958E"
+      ],
+      "parentId": "F5708730DFE401315F0068A86D17958E"
+    },
+    "F5708730DFE401315F0068A86D17958E": {
+      "id": "F5708730DFE401315F0068A86D17958E",
+      "asnIdentifier": "S2422157",
+      "position": 28000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Similarity, Right Triangles, and Trigonometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F57033E0DFE401315EFF68A86D17958E": {
+      "id": "F57033E0DFE401315EFF68A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSG-CO.D.13",
+      "statementLabel": "Standard",
+      "listId": "13.",
+      "description": "Construct an equilateral triangle, a square, and a regular hexagon inscribed in a circle.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/D/13"
+      ],
+      "asnIdentifier": "S2422156",
+      "position": 27000,
+      "depth": 2,
+      "altStatementNotation": "G.CO.13",
+      "ancestorIds": [
+        "F56F7940DFE401315EFD68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56F7940DFE401315EFD68A86D17958E"
+    },
+    "F56FDA90DFE401315EFE68A86D17958E": {
+      "description": "Make formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.). Copying a segment; copying an angle; bisecting a segment; bisecting an angle; constructing perpendicular lines, including the perpendicular bisector of a line segment; and constructing a line parallel to a given line through a point not on the line.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/D/12"
+      ],
+      "id": "F56FDA90DFE401315EFE68A86D17958E",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.D.12",
+      "altStatementNotation": "G.CO.12",
+      "statementLabel": "Standard",
+      "asnIdentifier": "S2422155",
+      "listId": "12.",
+      "ancestorIds": [
+        "F56F7940DFE401315EFD68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56F7940DFE401315EFD68A86D17958E"
+    },
+    "F56F7940DFE401315EFD68A86D17958E": {
+      "asnIdentifier": "S2422154",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.D",
+      "statementLabel": "Cluster",
+      "description": "Make geometric constructions",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/D"
+      ],
+      "id": "F56F7940DFE401315EFD68A86D17958E",
+      "ancestorIds": [
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F569E480DFE401315EEE68A86D17958E"
+    },
+    "F56EB540DFE401315EFB68A86D17958E": {
+      "description": "Prove theorems about parallelograms.",
+      "comments": [
+        "Theorems include: opposite sides are congruent, opposite angles are congruent, the diagonals of a parallelogram bisect each other, and conversely, rectangles are parallelograms with congruent diagonals."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/C/11"
+      ],
+      "position": 24000,
+      "statementLabel": "Standard",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.C.11",
+      "altStatementNotation": "G.CO.11",
+      "listId": "11.",
+      "id": "F56EB540DFE401315EFB68A86D17958E",
+      "asnIdentifier": "S2422153",
+      "ancestorIds": [
+        "F56DE400DFE401315EF968A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56DE400DFE401315EF968A86D17958E"
+    },
+    "F56E52C0DFE401315EFA68A86D17958E": {
+      "asnIdentifier": "S2422152",
+      "statementLabel": "Standard",
+      "description": "Prove theorems about triangles.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/C/10"
+      ],
+      "id": "F56E52C0DFE401315EFA68A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.C.10",
+      "altStatementNotation": "G.CO.10",
+      "listId": "10.",
+      "comments": [
+        "Theorems include: measures of interior angles of a triangle sum to 180°; base angles of isosceles triangles are congruent; the segment joining midpoints of two sides of a triangle is parallel to the third side and half the length; the medians of a triangle meet at a point."
+      ],
+      "position": 23000,
+      "ancestorIds": [
+        "F56DE400DFE401315EF968A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56DE400DFE401315EF968A86D17958E"
+    },
+    "F56F1B70DFE401315EFC68A86D17958E": {
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.C.9",
+      "listId": "9.",
+      "description": "Prove theorems about lines and angles.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/C/9"
+      ],
+      "id": "F56F1B70DFE401315EFC68A86D17958E",
+      "position": 22000,
+      "altStatementNotation": "G.CO.9",
+      "statementLabel": "Standard",
+      "comments": [
+        "Theorems include: vertical angles are congruent; when a transversal crosses parallel lines, alternate interior angles are congruent and corresponding angles are congruent; points on a perpendicular bisector of a line segment are exactly those equidistant from the segment's endpoints."
+      ],
+      "asnIdentifier": "S2422151",
+      "ancestorIds": [
+        "F56DE400DFE401315EF968A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56DE400DFE401315EF968A86D17958E"
+    },
+    "F56DE400DFE401315EF968A86D17958E": {
+      "description": "Prove geometric theorems",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/C"
+      ],
+      "id": "F56DE400DFE401315EF968A86D17958E",
+      "asnIdentifier": "S2422150",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.C",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F569E480DFE401315EEE68A86D17958E"
+    },
+    "F56D7F70DFE401315EF868A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/B/8"
+      ],
+      "id": "F56D7F70DFE401315EF868A86D17958E",
+      "asnIdentifier": "S2422149",
+      "position": 20000,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.B.8",
+      "altStatementNotation": "G.CO.8",
+      "listId": "8.",
+      "description": "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.",
+      "depth": 2,
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "F56C6F60DFE401315EF568A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56C6F60DFE401315EF568A86D17958E"
+    },
+    "F56D24C0DFE401315EF768A86D17958E": {
+      "asnIdentifier": "S2422148",
+      "statementLabel": "Standard",
+      "listId": "7.",
+      "description": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent if and only if corresponding pairs of sides and corresponding pairs of angles are congruent.",
+      "id": "F56D24C0DFE401315EF768A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.B.7",
+      "altStatementNotation": "G.CO.7",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/B/7"
+      ],
+      "position": 19000,
+      "ancestorIds": [
+        "F56C6F60DFE401315EF568A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56C6F60DFE401315EF568A86D17958E"
+    },
+    "F56CC9B0DFE401315EF668A86D17958E": {
+      "asnIdentifier": "S2422147",
+      "listId": "6.",
+      "description": "Use geometric descriptions of rigid motions to transform figures and to predict the effect of a given rigid motion on a given figure; given two figures, use the definition of congruence in terms of rigid motions to decide if they are congruent.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/B/6"
+      ],
+      "id": "F56CC9B0DFE401315EF668A86D17958E",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.B.6",
+      "altStatementNotation": "G.CO.6",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "F56C6F60DFE401315EF568A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56C6F60DFE401315EF568A86D17958E"
+    },
+    "F56C6F60DFE401315EF568A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/B"
+      ],
+      "id": "F56C6F60DFE401315EF568A86D17958E",
+      "asnIdentifier": "S2422146",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.B",
+      "statementLabel": "Cluster",
+      "description": "Understand congruence in terms of rigid motions",
+      "ancestorIds": [
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F569E480DFE401315EEE68A86D17958E"
+    },
+    "F56C13F0DFE401315EF468A86D17958E": {
+      "listId": "5.",
+      "id": "F56C13F0DFE401315EF468A86D17958E",
+      "asnIdentifier": "S2422145",
+      "altStatementNotation": "G.CO.5",
+      "statementLabel": "Standard",
+      "description": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure using, e.g., graph paper, tracing paper, or geometry software. Specify a sequence of transformations that will carry a given figure onto another.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/A/5"
+      ],
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.A.5",
+      "ancestorIds": [
+        "F56A4CA0DFE401315EEF68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56A4CA0DFE401315EEF68A86D17958E"
+    },
+    "F56BB0E0DFE401315EF368A86D17958E": {
+      "altStatementNotation": "G.CO.4",
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "description": "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular lines, parallel lines, and line segments.",
+      "id": "F56BB0E0DFE401315EF368A86D17958E",
+      "position": 15000,
+      "depth": 2,
+      "asnIdentifier": "S2422144",
+      "statementNotation": "CCSS.Math.Content.HSG-CO.A.4",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/A/4"
+      ],
+      "ancestorIds": [
+        "F56A4CA0DFE401315EEF68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56A4CA0DFE401315EEF68A86D17958E"
+    },
+    "F56B5990DFE401315EF268A86D17958E": {
+      "asnIdentifier": "S2422143",
+      "position": 14000,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.A.3",
+      "statementLabel": "Standard",
+      "id": "F56B5990DFE401315EF268A86D17958E",
+      "depth": 2,
+      "altStatementNotation": "G.CO.3",
+      "listId": "3.",
+      "description": "Given a rectangle, parallelogram, trapezoid, or regular polygon, describe the rotations and reflections that carry it onto itself.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/A/3"
+      ],
+      "ancestorIds": [
+        "F56A4CA0DFE401315EEF68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56A4CA0DFE401315EEF68A86D17958E"
+    },
+    "F56B0290DFE401315EF168A86D17958E": {
+      "depth": 2,
+      "altStatementNotation": "G.CO.2",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/A/2"
+      ],
+      "id": "F56B0290DFE401315EF168A86D17958E",
+      "asnIdentifier": "S2422142",
+      "position": 13000,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.A.2",
+      "listId": "2.",
+      "description": "Represent transformations in the plane using, e.g., transparencies and geometry software; describe transformations as functions that take points in the plane as inputs and give other points as outputs. Compare transformations that preserve distance and angle to those that do not (e.g., translation versus horizontal stretch).",
+      "ancestorIds": [
+        "F56A4CA0DFE401315EEF68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56A4CA0DFE401315EEF68A86D17958E"
+    },
+    "F56AAB40DFE401315EF068A86D17958E": {
+      "id": "F56AAB40DFE401315EF068A86D17958E",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSG-CO.A.1",
+      "altStatementNotation": "G.CO.1",
+      "listId": "1.",
+      "asnIdentifier": "S2422141",
+      "statementLabel": "Standard",
+      "description": "Know precise definitions of angle, circle, perpendicular line, parallel line, and line segment, based on the undefined notions of point, line, distance along a line, and distance around a circular arc.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/A/1"
+      ],
+      "ancestorIds": [
+        "F56A4CA0DFE401315EEF68A86D17958E",
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F56A4CA0DFE401315EEF68A86D17958E"
+    },
+    "F56A4CA0DFE401315EEF68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSG-CO.A",
+      "statementLabel": "Cluster",
+      "description": "Experiment with transformations in the plane",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSG/CO/A"
+      ],
+      "id": "F56A4CA0DFE401315EEF68A86D17958E",
+      "asnIdentifier": "S2422140",
+      "position": 11000,
+      "depth": 1,
+      "ancestorIds": [
+        "F569E480DFE401315EEE68A86D17958E"
+      ],
+      "parentId": "F569E480DFE401315EEE68A86D17958E"
+    },
+    "F569E480DFE401315EEE68A86D17958E": {
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Congruence",
+      "id": "F569E480DFE401315EEE68A86D17958E",
+      "asnIdentifier": "S2422139",
+      "position": 10000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "56F09638E07A4D01B438DB3402B135BA": {
+      "description": "Look for and express regularity in repeated reasoning.",
+      "id": "56F09638E07A4D01B438DB3402B135BA",
+      "asnIdentifier": "S2421560",
+      "statementNotation": "CCSS.Math.Practice.MP8",
+      "altStatementNotation": "MP.8",
+      "statementLabel": "Standard",
+      "position": 9000,
+      "depth": 1,
+      "listId": "8.",
+      "comments": [
+        "Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP8"
+      ],
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "DCD0C97F87DE4FFC967583B144F124B4": {
+      "position": 8000,
+      "listId": "7.",
+      "comments": [
+        "Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+      ],
+      "id": "DCD0C97F87DE4FFC967583B144F124B4",
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP7",
+      "altStatementNotation": "MP.7",
+      "statementLabel": "Standard",
+      "description": "Look for and make use of structure.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP7"
+      ],
+      "asnIdentifier": "S2421559",
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "55B9DA2354904106B382E8281E879527": {
+      "position": 7000,
+      "depth": 1,
+      "comments": [
+        "Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
+      ],
+      "id": "55B9DA2354904106B382E8281E879527",
+      "asnIdentifier": "S2421558",
+      "statementNotation": "CCSS.Math.Practice.MP6",
+      "altStatementNotation": "MP.6",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "description": "Attend to precision.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP6"
+      ],
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "2301C9A5FFBB45E2946F86CA71D4A4D1": {
+      "comments": [
+        "Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
+      ],
+      "id": "2301C9A5FFBB45E2946F86CA71D4A4D1",
+      "asnIdentifier": "S2421557",
+      "statementNotation": "CCSS.Math.Practice.MP5",
+      "altStatementNotation": "MP.5",
+      "listId": "5.",
+      "position": 6000,
+      "depth": 1,
+      "statementLabel": "Standard",
+      "description": "Use appropriate tools strategically.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP5"
+      ],
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "B83C439D659547D3815272EC6116B9D4": {
+      "asnIdentifier": "S2421556",
+      "depth": 1,
+      "statementLabel": "Standard",
+      "id": "B83C439D659547D3815272EC6116B9D4",
+      "statementNotation": "CCSS.Math.Practice.MP4",
+      "altStatementNotation": "MP.4",
+      "listId": "4.",
+      "description": "Model with mathematics.",
+      "comments": [
+        "Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP4"
+      ],
+      "position": 5000,
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "5D40ECB61DFF426AA02632398A9BFDB8": {
+      "listId": "3.",
+      "id": "5D40ECB61DFF426AA02632398A9BFDB8",
+      "asnIdentifier": "S2421555",
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP3",
+      "altStatementNotation": "MP.3",
+      "statementLabel": "Standard",
+      "position": 4000,
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "comments": [
+        "Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP3"
+      ],
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "AAB854CB8D0644CFBDC19410C417D378": {
+      "altStatementNotation": "MP.2",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "description": "Reason abstractly and quantitatively.",
+      "comments": [
+        "Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
+      ],
+      "id": "AAB854CB8D0644CFBDC19410C417D378",
+      "position": 3000,
+      "statementNotation": "CCSS.Math.Practice.MP2",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP2"
+      ],
+      "asnIdentifier": "S2421554",
+      "depth": 1,
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "DF52FB2A9EBB4718B5A1C33384539F8A": {
+      "statementNotation": "CCSS.Math.Practice.MP1",
+      "altStatementNotation": "MP.1",
+      "statementLabel": "Standard",
+      "description": "Make sense of problems and persevere in solving them.",
+      "id": "DF52FB2A9EBB4718B5A1C33384539F8A",
+      "asnIdentifier": "S2421553",
+      "depth": 1,
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP1"
+      ],
+      "position": 2000,
+      "listId": "1.",
+      "comments": [
+        "Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
+      ],
+      "ancestorIds": [
+        "29347F66C6424832B8C3A1990E6E6036"
+      ],
+      "parentId": "29347F66C6424832B8C3A1990E6E6036"
+    },
+    "29347F66C6424832B8C3A1990E6E6036": {
+      "depth": 0,
+      "description": "Standards for Mathematical Practice",
+      "id": "29347F66C6424832B8C3A1990E6E6036",
+      "asnIdentifier": "S2421552",
+      "position": 1000,
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

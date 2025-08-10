@@ -1,0 +1,861 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2623547_grade-07",
+  "title": "Grade 7",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "07"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "asnIdentifier": "D2623547",
+    "publicationStatus": "Deprecated",
+    "id": "D2623547",
+    "valid": "2015",
+    "title": "Mathematics Georgia Standards of Excellence - Grade 7",
+    "sourceURL": "https://www.georgiastandards.org/Common-Core/Documents/Grade-6-8-Mathematics-Standards.pdf"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "DEAD0E8F136A4E1FB53FA4016FAE4FA8": {
+      "description": "Explain ways to set up a simulation and use the simulation to generate frequencies for compound events.",
+      "comments": [
+        "For example, if 40% of donors have type A blood, create a simulation to predict the probability that it will take at least 4 donors to find one with type A blood?"
+      ],
+      "id": "DEAD0E8F136A4E1FB53FA4016FAE4FA8",
+      "asnIdentifier": "S2635135",
+      "position": 58000,
+      "depth": 3,
+      "statementNotation": "MGSE7.SP.8.c",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "5157428B71DB4E9A95920A0111E800FB",
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "5157428B71DB4E9A95920A0111E800FB"
+    },
+    "20A42F3708534B4FB90F34FD490AEFC2": {
+      "position": 57000,
+      "depth": 3,
+      "statementNotation": "MGSE7.SP.8.b",
+      "statementLabel": "Component",
+      "description": "Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., \"rolling double sixes\"), identify the outcomes in the sample space which compose the event.",
+      "id": "20A42F3708534B4FB90F34FD490AEFC2",
+      "asnIdentifier": "S2635134",
+      "ancestorIds": [
+        "5157428B71DB4E9A95920A0111E800FB",
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "5157428B71DB4E9A95920A0111E800FB"
+    },
+    "32F307F0DEA644E08FC3D0B4B2E610FE": {
+      "asnIdentifier": "S2635133",
+      "position": 56000,
+      "depth": 3,
+      "statementNotation": "MGSE7.SP.8.a",
+      "statementLabel": "Component",
+      "description": "Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.",
+      "id": "32F307F0DEA644E08FC3D0B4B2E610FE",
+      "ancestorIds": [
+        "5157428B71DB4E9A95920A0111E800FB",
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "5157428B71DB4E9A95920A0111E800FB"
+    },
+    "5157428B71DB4E9A95920A0111E800FB": {
+      "statementLabel": "Standard",
+      "description": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+      "id": "5157428B71DB4E9A95920A0111E800FB",
+      "asnIdentifier": "S2635132",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.8",
+      "ancestorIds": [
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "F5D09EFD3B39489A8F9111DCBCE23A19"
+    },
+    "F04812704B0E41AAACB5F235CD92D915": {
+      "statementLabel": "Component",
+      "description": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.",
+      "comments": [
+        "For example, find the approximate probability that a spinning penny will land heads up or that a tossed paper cup will land open-end down. Do the outcomes for the spinning penny appear to be equally likely based on the observed frequencies?"
+      ],
+      "id": "F04812704B0E41AAACB5F235CD92D915",
+      "asnIdentifier": "S2635131",
+      "position": 54000,
+      "depth": 3,
+      "statementNotation": "MGSE7.SP.7.b",
+      "ancestorIds": [
+        "0717FE6D0D644A20AC9E5528A193FC7B",
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "0717FE6D0D644A20AC9E5528A193FC7B"
+    },
+    "A814A0325AE9428E97B6E9A818A2557F": {
+      "id": "A814A0325AE9428E97B6E9A818A2557F",
+      "asnIdentifier": "S2635130",
+      "position": 53000,
+      "depth": 3,
+      "statementNotation": "MGSE7.SP.7.a",
+      "statementLabel": "Component",
+      "description": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",
+      "comments": [
+        "For example, if a student is selected at random from a class, find the probability that Jane will be selected and the probability that a girl will be selected."
+      ],
+      "ancestorIds": [
+        "0717FE6D0D644A20AC9E5528A193FC7B",
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "0717FE6D0D644A20AC9E5528A193FC7B"
+    },
+    "0717FE6D0D644A20AC9E5528A193FC7B": {
+      "description": "Develop a probability model and use it to find probabilities of events. Compare experimental and theoretical probabilities of events. If the probabilities are not close, explain possible sources of the discrepancy.",
+      "id": "0717FE6D0D644A20AC9E5528A193FC7B",
+      "asnIdentifier": "S2635129",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.7",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "F5D09EFD3B39489A8F9111DCBCE23A19"
+    },
+    "50C184C8B3A44945B1AED9B3AAE67232": {
+      "id": "50C184C8B3A44945B1AED9B3AAE67232",
+      "asnIdentifier": "S2635128",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.6",
+      "statementLabel": "Standard",
+      "description": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency. Predict the approximate relative frequency given the probability.",
+      "comments": [
+        "For example, when rolling a number cube 600 times, predict that a 3 or 6 would be rolled roughly 200 times, but probably not exactly 200 times."
+      ],
+      "ancestorIds": [
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "F5D09EFD3B39489A8F9111DCBCE23A19"
+    },
+    "9E38D3ED78E1411FA1D4B90AB55CFF6F": {
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.5",
+      "statementLabel": "Standard",
+      "description": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
+      "id": "9E38D3ED78E1411FA1D4B90AB55CFF6F",
+      "asnIdentifier": "S2635127",
+      "position": 50000,
+      "ancestorIds": [
+        "F5D09EFD3B39489A8F9111DCBCE23A19",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "F5D09EFD3B39489A8F9111DCBCE23A19"
+    },
+    "F5D09EFD3B39489A8F9111DCBCE23A19": {
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Investigate chance processes and develop, use, and evaluate probability models.",
+      "id": "F5D09EFD3B39489A8F9111DCBCE23A19",
+      "asnIdentifier": "S2635126",
+      "position": 49000,
+      "ancestorIds": [
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "A875F5A7BE4045809594D79538C0116F"
+    },
+    "3E920F070D6C4777928A15905EF8DA56": {
+      "statementNotation": "MGSE7.SP.4",
+      "statementLabel": "Standard",
+      "description": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations.",
+      "comments": [
+        "For example, decide whether the words in a chapter of a seventh-grade science book are generally longer than the words in a chapter of a fourth-grade science book."
+      ],
+      "id": "3E920F070D6C4777928A15905EF8DA56",
+      "asnIdentifier": "S2635125",
+      "position": 48000,
+      "depth": 2,
+      "ancestorIds": [
+        "2409A40AFEC6412DA990168F46E74A79",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "2409A40AFEC6412DA990168F46E74A79"
+    },
+    "4B3B14A8297D4E1CA2BD574596B27B7B": {
+      "id": "4B3B14A8297D4E1CA2BD574596B27B7B",
+      "asnIdentifier": "S2635124",
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.3",
+      "statementLabel": "Standard",
+      "description": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the medians by expressing it as a multiple of the interquartile range.",
+      "ancestorIds": [
+        "2409A40AFEC6412DA990168F46E74A79",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "2409A40AFEC6412DA990168F46E74A79"
+    },
+    "2409A40AFEC6412DA990168F46E74A79": {
+      "statementLabel": "Cluster",
+      "description": "Draw informal comparative inferences about two populations.",
+      "id": "2409A40AFEC6412DA990168F46E74A79",
+      "asnIdentifier": "S2635123",
+      "position": 46000,
+      "depth": 1,
+      "ancestorIds": [
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "A875F5A7BE4045809594D79538C0116F"
+    },
+    "FFDEE1E557574F6BB4913A728F6EF8D4": {
+      "comments": [
+        "For example, estimate the mean word length in a book by randomly sampling words from the book; predict the winner of a school election based on randomly sampled survey data. Gauge how far off the estimate or prediction might be."
+      ],
+      "id": "FFDEE1E557574F6BB4913A728F6EF8D4",
+      "asnIdentifier": "S2635122",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.2",
+      "statementLabel": "Standard",
+      "description": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions.",
+      "ancestorIds": [
+        "CC2198194B664033A5B4F59A705761B5",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "CC2198194B664033A5B4F59A705761B5"
+    },
+    "DDAD3006BFC64CE0B0EA439D775BA21E": {
+      "id": "DDAD3006BFC64CE0B0EA439D775BA21E",
+      "asnIdentifier": "S2635121",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "MGSE7.SP.1",
+      "statementLabel": "Standard",
+      "description": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
+      "ancestorIds": [
+        "CC2198194B664033A5B4F59A705761B5",
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "CC2198194B664033A5B4F59A705761B5"
+    },
+    "CC2198194B664033A5B4F59A705761B5": {
+      "description": "Use random sampling to draw inferences about a population.",
+      "id": "CC2198194B664033A5B4F59A705761B5",
+      "asnIdentifier": "S2635120",
+      "position": 43000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "A875F5A7BE4045809594D79538C0116F"
+      ],
+      "parentId": "A875F5A7BE4045809594D79538C0116F"
+    },
+    "A875F5A7BE4045809594D79538C0116F": {
+      "id": "A875F5A7BE4045809594D79538C0116F",
+      "asnIdentifier": "S2635119",
+      "position": 42000,
+      "depth": 0,
+      "statementNotation": "7.SP",
+      "statementLabel": "Domain",
+      "description": "Statistics and Probability",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "90C391D123E4410A99285C877856E960": {
+      "description": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
+      "id": "90C391D123E4410A99285C877856E960",
+      "asnIdentifier": "S2635118",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "MGSE7.G.6",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "147F2AF4EDC14F07A8828DDD06A72738",
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "147F2AF4EDC14F07A8828DDD06A72738"
+    },
+    "F3373BC692884EF2B4EF0AD56FA9C3E3": {
+      "statementNotation": "MGSE7.G.5",
+      "statementLabel": "Standard",
+      "description": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
+      "id": "F3373BC692884EF2B4EF0AD56FA9C3E3",
+      "asnIdentifier": "S2635117",
+      "position": 40000,
+      "depth": 2,
+      "ancestorIds": [
+        "147F2AF4EDC14F07A8828DDD06A72738",
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "147F2AF4EDC14F07A8828DDD06A72738"
+    },
+    "6A07CFDDFBC94482972AFE07050F45FB": {
+      "statementLabel": "Standard",
+      "description": "Given the formulas for the area and circumference of a circle, use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
+      "id": "6A07CFDDFBC94482972AFE07050F45FB",
+      "asnIdentifier": "S2635116",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "MGSE7.G.4",
+      "ancestorIds": [
+        "147F2AF4EDC14F07A8828DDD06A72738",
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "147F2AF4EDC14F07A8828DDD06A72738"
+    },
+    "147F2AF4EDC14F07A8828DDD06A72738": {
+      "statementLabel": "Cluster",
+      "description": "Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+      "id": "147F2AF4EDC14F07A8828DDD06A72738",
+      "asnIdentifier": "S2635115",
+      "position": 38000,
+      "depth": 1,
+      "ancestorIds": [
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "9BA3713A0EFF4F0A97F775802F5A9AB3"
+    },
+    "73BE01ED3DD5476FBDDB3220D0FCED1C": {
+      "asnIdentifier": "S2635114",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "MGSE7.G.3",
+      "statementLabel": "Standard",
+      "description": "Describe the two-dimensional figures (cross sections) that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms, right rectangular pyramids, cones, cylinders, and spheres.",
+      "id": "73BE01ED3DD5476FBDDB3220D0FCED1C",
+      "ancestorIds": [
+        "BCB7445D59D940D78E9C81964194C18E",
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "BCB7445D59D940D78E9C81964194C18E"
+    },
+    "254DFCC1D08B40C88AC2D26D2B2C18D1": {
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "MGSE7.G.2",
+      "statementLabel": "Standard",
+      "description": "Explore various geometric shapes with given conditions. Focus on creating triangles from three measures of angles and/or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
+      "id": "254DFCC1D08B40C88AC2D26D2B2C18D1",
+      "asnIdentifier": "S2635113",
+      "ancestorIds": [
+        "BCB7445D59D940D78E9C81964194C18E",
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "BCB7445D59D940D78E9C81964194C18E"
+    },
+    "73305F2E754E4A81BCB2BFE60E679B7C": {
+      "asnIdentifier": "S2635112",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "MGSE7.G.1",
+      "statementLabel": "Standard",
+      "description": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
+      "id": "73305F2E754E4A81BCB2BFE60E679B7C",
+      "ancestorIds": [
+        "BCB7445D59D940D78E9C81964194C18E",
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "BCB7445D59D940D78E9C81964194C18E"
+    },
+    "BCB7445D59D940D78E9C81964194C18E": {
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Draw, construct, and describe geometrical figures and describe the relationships between them.",
+      "id": "BCB7445D59D940D78E9C81964194C18E",
+      "asnIdentifier": "S2635111",
+      "position": 34000,
+      "ancestorIds": [
+        "9BA3713A0EFF4F0A97F775802F5A9AB3"
+      ],
+      "parentId": "9BA3713A0EFF4F0A97F775802F5A9AB3"
+    },
+    "9BA3713A0EFF4F0A97F775802F5A9AB3": {
+      "position": 33000,
+      "depth": 0,
+      "statementNotation": "7.G",
+      "statementLabel": "Domain",
+      "description": "Geometry",
+      "id": "9BA3713A0EFF4F0A97F775802F5A9AB3",
+      "asnIdentifier": "S2635110",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D11D6AE79F0A42EEA676361E913BD56E": {
+      "asnIdentifier": "S2635109",
+      "position": 32000,
+      "depth": 3,
+      "statementNotation": "MGSE7.EE.4.c",
+      "statementLabel": "Component",
+      "description": "Solve real-world and mathematical problems by writing and solving equations of the form x+p = q and px = q in which p and q are rational numbers.",
+      "id": "D11D6AE79F0A42EEA676361E913BD56E",
+      "ancestorIds": [
+        "907A2C89742C4752BE8BED66EAC657A4",
+        "711DB2A17A824A689CA0D1C7136D6002",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "907A2C89742C4752BE8BED66EAC657A4"
+    },
+    "462E26A017A44AE48A2FB4C1B3F28AE6": {
+      "asnIdentifier": "S2635108",
+      "position": 31000,
+      "depth": 3,
+      "statementNotation": "MGSE7.EE.4.b",
+      "statementLabel": "Component",
+      "description": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem.",
+      "comments": [
+        "For example, as a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make, and describe the solutions."
+      ],
+      "id": "462E26A017A44AE48A2FB4C1B3F28AE6",
+      "ancestorIds": [
+        "907A2C89742C4752BE8BED66EAC657A4",
+        "711DB2A17A824A689CA0D1C7136D6002",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "907A2C89742C4752BE8BED66EAC657A4"
+    },
+    "25F8DE0954224CD08DE2C86E2DE4203A": {
+      "description": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach.",
+      "comments": [
+        "For example, the perimeter of a rectangle is 54 cm. Its length is 6 cm. What is its width?"
+      ],
+      "id": "25F8DE0954224CD08DE2C86E2DE4203A",
+      "asnIdentifier": "S2635107",
+      "position": 30000,
+      "depth": 3,
+      "statementNotation": "MGSE7.EE.4.a",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "907A2C89742C4752BE8BED66EAC657A4",
+        "711DB2A17A824A689CA0D1C7136D6002",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "907A2C89742C4752BE8BED66EAC657A4"
+    },
+    "907A2C89742C4752BE8BED66EAC657A4": {
+      "depth": 2,
+      "statementNotation": "MGSE7.EE.4",
+      "statementLabel": "Standard",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+      "id": "907A2C89742C4752BE8BED66EAC657A4",
+      "asnIdentifier": "S2635106",
+      "position": 29000,
+      "ancestorIds": [
+        "711DB2A17A824A689CA0D1C7136D6002",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "711DB2A17A824A689CA0D1C7136D6002"
+    },
+    "EBFDD8265836405787C6192FDA4C3418": {
+      "id": "EBFDD8265836405787C6192FDA4C3418",
+      "asnIdentifier": "S2635105",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "MGSE7.EE.3",
+      "statementLabel": "Standard",
+      "description": "Solve multistep real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals) by applying properties of operations as strategies to calculate with numbers, converting between forms as appropriate, and assessing the reasonableness of answers using mental computation and estimation strategies.",
+      "comments": [
+        "For example:<ul><li>If a woman making $25 an hour gets a 10% raise, she will make an additional 1/10 of her salary an hour, or $2.50, for a new salary of $27.50.</li><li>If you want to place a towel bar 9 3/4 inches long in the center of a door that is 27 1/2 inches wide, you will need to place the bar about 9 inches from each edge; this estimate can be used as a check on the exact computation.</li></ul>"
+      ],
+      "ancestorIds": [
+        "711DB2A17A824A689CA0D1C7136D6002",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "711DB2A17A824A689CA0D1C7136D6002"
+    },
+    "711DB2A17A824A689CA0D1C7136D6002": {
+      "id": "711DB2A17A824A689CA0D1C7136D6002",
+      "asnIdentifier": "S2635104",
+      "position": 27000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+      "ancestorIds": [
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+    },
+    "48225DEB9BED4B60856C79EBAC648F02": {
+      "comments": [
+        "For example a + 0.05a = 1.05a means that adding a 5% tax to a total is the same as multiplying the total by 1.05."
+      ],
+      "id": "48225DEB9BED4B60856C79EBAC648F02",
+      "asnIdentifier": "S2635103",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "MGSE7.EE.2",
+      "statementLabel": "Standard",
+      "description": "Understand that rewriting an expression in different forms in a problem context can clarify the problem and how the quantities in it are related.",
+      "ancestorIds": [
+        "E93B68B5E947470989451DEE9DFA0398",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "E93B68B5E947470989451DEE9DFA0398"
+    },
+    "E02BCD40F91B4E4694EE6651DFA86531": {
+      "id": "E02BCD40F91B4E4694EE6651DFA86531",
+      "asnIdentifier": "S2635102",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "MGSE7.EE.1",
+      "statementLabel": "Standard",
+      "description": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
+      "ancestorIds": [
+        "E93B68B5E947470989451DEE9DFA0398",
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "E93B68B5E947470989451DEE9DFA0398"
+    },
+    "E93B68B5E947470989451DEE9DFA0398": {
+      "position": 24000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Use properties of operations to generate equivalent expressions.",
+      "id": "E93B68B5E947470989451DEE9DFA0398",
+      "asnIdentifier": "S2635101",
+      "ancestorIds": [
+        "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+      ],
+      "parentId": "FEE73D4CDE5C459D8CB62F4E6948E3A0"
+    },
+    "FEE73D4CDE5C459D8CB62F4E6948E3A0": {
+      "statementLabel": "Domain",
+      "description": "Expressions and Equations",
+      "id": "FEE73D4CDE5C459D8CB62F4E6948E3A0",
+      "asnIdentifier": "S2635100",
+      "position": 23000,
+      "depth": 0,
+      "statementNotation": "7.EE",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5FECD22FEE0F4EF8BE8ACE247CCB16E9": {
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "MGSE7.NS.3",
+      "statementLabel": "Standard",
+      "description": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
+      "id": "5FECD22FEE0F4EF8BE8ACE247CCB16E9",
+      "asnIdentifier": "S2635099",
+      "ancestorIds": [
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "7426C9C598544CEA89E981113FF7D7B2"
+    },
+    "6E144C6DFEAF4B9482C3CF8558F772CA": {
+      "statementNotation": "MGSE7.NS.2.d",
+      "statementLabel": "Component",
+      "description": "Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.",
+      "id": "6E144C6DFEAF4B9482C3CF8558F772CA",
+      "asnIdentifier": "S2635098",
+      "position": 21000,
+      "depth": 3,
+      "ancestorIds": [
+        "3156CD8660834909A818D3D7145D0E00",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "3156CD8660834909A818D3D7145D0E00"
+    },
+    "C2CDD43A650D4331AA9E366789FCA460": {
+      "depth": 3,
+      "statementNotation": "MGSE7.NS.2.c",
+      "statementLabel": "Component",
+      "description": "Apply properties of operations as strategies to multiply and divide rational numbers.",
+      "id": "C2CDD43A650D4331AA9E366789FCA460",
+      "asnIdentifier": "S2635097",
+      "position": 20000,
+      "ancestorIds": [
+        "3156CD8660834909A818D3D7145D0E00",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "3156CD8660834909A818D3D7145D0E00"
+    },
+    "8277B0175D944D6789C4C69A64289261": {
+      "description": "Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If p and q are integers then –(p/q) = (-p)/q = p/(-q). Interpret quotients of rational numbers by describing real-world contexts.",
+      "id": "8277B0175D944D6789C4C69A64289261",
+      "asnIdentifier": "S2635096",
+      "position": 19000,
+      "depth": 3,
+      "statementNotation": "MGSE7.NS.2.b",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "3156CD8660834909A818D3D7145D0E00",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "3156CD8660834909A818D3D7145D0E00"
+    },
+    "AD332000F11841CFA574350538F06DAA": {
+      "statementNotation": "MGSE7.NS.2.a",
+      "statementLabel": "Component",
+      "description": "Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.",
+      "id": "AD332000F11841CFA574350538F06DAA",
+      "asnIdentifier": "S2635095",
+      "position": 18000,
+      "depth": 3,
+      "ancestorIds": [
+        "3156CD8660834909A818D3D7145D0E00",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "3156CD8660834909A818D3D7145D0E00"
+    },
+    "3156CD8660834909A818D3D7145D0E00": {
+      "id": "3156CD8660834909A818D3D7145D0E00",
+      "asnIdentifier": "S2635094",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MGSE7.NS.2",
+      "statementLabel": "Standard",
+      "description": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+      "ancestorIds": [
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "7426C9C598544CEA89E981113FF7D7B2"
+    },
+    "D9A35A472C424F689E0BB71A54BF1FD1": {
+      "asnIdentifier": "S2635093",
+      "position": 16000,
+      "depth": 3,
+      "statementNotation": "MGSE7.NS.1.d",
+      "statementLabel": "Component",
+      "description": "Apply properties of operations as strategies to add and subtract rational numbers.",
+      "id": "D9A35A472C424F689E0BB71A54BF1FD1",
+      "ancestorIds": [
+        "730493D01FF7443AB99E98FE4A71AEA6",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "730493D01FF7443AB99E98FE4A71AEA6"
+    },
+    "5BE015AA86F942CD9186BFC2F93ABAFD": {
+      "id": "5BE015AA86F942CD9186BFC2F93ABAFD",
+      "asnIdentifier": "S2635092",
+      "position": 15000,
+      "depth": 3,
+      "statementNotation": "MGSE7.NS.1.c",
+      "statementLabel": "Component",
+      "description": "Understand subtraction of rational numbers as adding the additive inverse, p – q = p + (-q). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.",
+      "ancestorIds": [
+        "730493D01FF7443AB99E98FE4A71AEA6",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "730493D01FF7443AB99E98FE4A71AEA6"
+    },
+    "B1F6B7FC16AD4CE882F41953595208C8": {
+      "id": "B1F6B7FC16AD4CE882F41953595208C8",
+      "asnIdentifier": "S2635091",
+      "position": 14000,
+      "depth": 3,
+      "statementNotation": "MGSE7.NS.1.b",
+      "statementLabel": "Component",
+      "description": "Understand p + q as the number located a distance |q| from p, in the positive or negative direction depending on whether q is positive or negative. Interpret sums of rational numbers by describing real world contexts.",
+      "ancestorIds": [
+        "730493D01FF7443AB99E98FE4A71AEA6",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "730493D01FF7443AB99E98FE4A71AEA6"
+    },
+    "BE1A0DF8FF964748905F3FFF93A00614": {
+      "description": "Show that a number and its opposite have a sum of 0 (are additive inverses). Describe situations in which opposite quantities combine to make 0.",
+      "comments": [
+        "For example, your bank account balance is -$25.00. You deposit $25.00 into your account. The net balance is $0.00."
+      ],
+      "id": "BE1A0DF8FF964748905F3FFF93A00614",
+      "asnIdentifier": "S2635090",
+      "position": 13000,
+      "depth": 3,
+      "statementNotation": "MGSE7.NS.1.a",
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "730493D01FF7443AB99E98FE4A71AEA6",
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "730493D01FF7443AB99E98FE4A71AEA6"
+    },
+    "730493D01FF7443AB99E98FE4A71AEA6": {
+      "id": "730493D01FF7443AB99E98FE4A71AEA6",
+      "asnIdentifier": "S2635089",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "MGSE7.NS.1",
+      "statementLabel": "Standard",
+      "description": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+      "ancestorIds": [
+        "7426C9C598544CEA89E981113FF7D7B2",
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "7426C9C598544CEA89E981113FF7D7B2"
+    },
+    "7426C9C598544CEA89E981113FF7D7B2": {
+      "id": "7426C9C598544CEA89E981113FF7D7B2",
+      "asnIdentifier": "S2635088",
+      "position": 11000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+      "ancestorIds": [
+        "5227F37D1B604FBE8D87FA7263CDB9A8"
+      ],
+      "parentId": "5227F37D1B604FBE8D87FA7263CDB9A8"
+    },
+    "5227F37D1B604FBE8D87FA7263CDB9A8": {
+      "statementNotation": "7.NS",
+      "statementLabel": "Domain",
+      "description": "The Number System",
+      "id": "5227F37D1B604FBE8D87FA7263CDB9A8",
+      "asnIdentifier": "S2635087",
+      "position": 10000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "520A56A6458B425ABBE972E78B26EA75": {
+      "depth": 2,
+      "statementNotation": "MGSE7.RP.3",
+      "statementLabel": "Standard",
+      "description": "Use proportional relationships to solve multistep ratio and percent problems. Examples: simple interest, tax, markups and markdowns, gratuities and commissions, and fees.",
+      "id": "520A56A6458B425ABBE972E78B26EA75",
+      "asnIdentifier": "S2635086",
+      "position": 9000,
+      "ancestorIds": [
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "9E6DA71291404909A5843144DC3A8B40"
+    },
+    "152B468B85C5410AB64BE76CFA4AC510": {
+      "id": "152B468B85C5410AB64BE76CFA4AC510",
+      "asnIdentifier": "S2635085",
+      "position": 8000,
+      "depth": 3,
+      "statementNotation": "MGSE7.RP.2.d",
+      "statementLabel": "Component",
+      "description": "Explain what a point (x,y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0,0) and (1,r) where r is the unit rate.",
+      "ancestorIds": [
+        "DF0DBAE853D6492EA2600C13F7488E85",
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "DF0DBAE853D6492EA2600C13F7488E85"
+    },
+    "0F051201F7E74C1380AD516F3BA91938": {
+      "id": "0F051201F7E74C1380AD516F3BA91938",
+      "asnIdentifier": "S2635084",
+      "position": 7000,
+      "depth": 3,
+      "statementNotation": "MGSE7.RP.2.c",
+      "statementLabel": "Component",
+      "description": "Represent proportional relationships by equations. For example, if total cost t is proportional to the number n of items purchased at a constant price p, the relationship between the total cost and the number of items can be expressed as t = pn.",
+      "ancestorIds": [
+        "DF0DBAE853D6492EA2600C13F7488E85",
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "DF0DBAE853D6492EA2600C13F7488E85"
+    },
+    "637E66D82DDB4369A111DE146D386A40": {
+      "position": 6000,
+      "depth": 3,
+      "statementNotation": "MGSE7.RP.2.b",
+      "statementLabel": "Component",
+      "description": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
+      "id": "637E66D82DDB4369A111DE146D386A40",
+      "asnIdentifier": "S2635083",
+      "ancestorIds": [
+        "DF0DBAE853D6492EA2600C13F7488E85",
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "DF0DBAE853D6492EA2600C13F7488E85"
+    },
+    "FDA7280D1AF245B2B6871B18062D643F": {
+      "statementNotation": "MGSE7.RP.2.a",
+      "statementLabel": "Component",
+      "description": "Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.",
+      "id": "FDA7280D1AF245B2B6871B18062D643F",
+      "asnIdentifier": "S2635082",
+      "position": 5000,
+      "depth": 3,
+      "ancestorIds": [
+        "DF0DBAE853D6492EA2600C13F7488E85",
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "DF0DBAE853D6492EA2600C13F7488E85"
+    },
+    "DF0DBAE853D6492EA2600C13F7488E85": {
+      "statementLabel": "Standard",
+      "description": "Recognize and represent proportional relationships between quantities.",
+      "id": "DF0DBAE853D6492EA2600C13F7488E85",
+      "asnIdentifier": "S2635081",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "MGSE7.RP.2",
+      "ancestorIds": [
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "9E6DA71291404909A5843144DC3A8B40"
+    },
+    "91C2772AA29749BA987897BE0EBE033D": {
+      "statementNotation": "MGSE7.RP.1",
+      "statementLabel": "Standard",
+      "description": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units. For example, if a person walks 1/2 mile in each 1/4 hour, compute the unit rate as the complex fraction (1/2)/(1/4) miles per hour, equivalently 2 miles per hour.",
+      "id": "91C2772AA29749BA987897BE0EBE033D",
+      "asnIdentifier": "S2635080",
+      "position": 3000,
+      "depth": 2,
+      "ancestorIds": [
+        "9E6DA71291404909A5843144DC3A8B40",
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "9E6DA71291404909A5843144DC3A8B40"
+    },
+    "9E6DA71291404909A5843144DC3A8B40": {
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "description": "Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+      "id": "9E6DA71291404909A5843144DC3A8B40",
+      "asnIdentifier": "S2635079",
+      "ancestorIds": [
+        "B4061CB39899475195EF2AB9C6B45311"
+      ],
+      "parentId": "B4061CB39899475195EF2AB9C6B45311"
+    },
+    "B4061CB39899475195EF2AB9C6B45311": {
+      "description": "Ratios and Proportional Relationships",
+      "id": "B4061CB39899475195EF2AB9C6B45311",
+      "asnIdentifier": "S2635078",
+      "position": 1000,
+      "depth": 0,
+      "statementNotation": "7.RP",
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

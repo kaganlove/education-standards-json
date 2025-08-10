@@ -1,0 +1,984 @@
+{
+  "id": "C6C2A7C25C90437AB98689888FDEE09A",
+  "title": "AP Calculus AB & BC (2016)",
+  "subject": "AP Calculus",
+  "normalizedSubject": null,
+  "educationLevels": [],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "AP Calculus AB and BC Course and Exam Description",
+    "sourceURL": "https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-calculus-ab-and-bc-course-and-exam-description.pdf"
+  },
+  "jurisdiction": {
+    "id": "0A5FD99233A74D8FA3A74F52E5F6CDEC",
+    "title": "College Board"
+  },
+  "standards": {
+    "A070C3570D7542F98E5F6D25CD355D5E": {
+      "id": "A070C3570D7542F98E5F6D25CD355D5E",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "4.2C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the radius and interval of convergence of a power series.",
+      "comments": [],
+      "ancestorIds": [
+        "F47233A33D474994BB8D146E1DF28C83",
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "F47233A33D474994BB8D146E1DF28C83"
+    },
+    "FEA3020BC1E34D499BFA873A9E79CF7E": {
+      "id": "FEA3020BC1E34D499BFA873A9E79CF7E",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.2B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write a power series representing a given function.",
+      "comments": [],
+      "ancestorIds": [
+        "F47233A33D474994BB8D146E1DF28C83",
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "F47233A33D474994BB8D146E1DF28C83"
+    },
+    "B894A04937464BE38FF88BBEB0906C92": {
+      "id": "B894A04937464BE38FF88BBEB0906C92",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.2A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct and use Taylor polynomials.",
+      "comments": [],
+      "ancestorIds": [
+        "F47233A33D474994BB8D146E1DF28C83",
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "F47233A33D474994BB8D146E1DF28C83"
+    },
+    "F47233A33D474994BB8D146E1DF28C83": {
+      "id": "F47233A33D474994BB8D146E1DF28C83",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 1,
+      "listId": "4.2",
+      "statementNotation": "EU 4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A function can be represented by an associated power series over the interval of convergence for the power series.",
+      "comments": [],
+      "ancestorIds": [
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "5C28341CDC294333816F05C8BED4F6FF"
+    },
+    "A01274447F5548E3ABA85F959DC2BD65": {
+      "id": "A01274447F5548E3ABA85F959DC2BD65",
+      "asnIdentifier": null,
+      "position": 52001,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine or estimate the sum of a series.",
+      "comments": [],
+      "ancestorIds": [
+        "7B47D287A5794079914D4423EF6933BD",
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "7B47D287A5794079914D4423EF6933BD"
+    },
+    "4D3DF72CE00F496CAAC985C1EBD0CBCD": {
+      "id": "4D3DF72CE00F496CAAC985C1EBD0CBCD",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.1A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a series converges or diverges.",
+      "comments": [],
+      "ancestorIds": [
+        "7B47D287A5794079914D4423EF6933BD",
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "7B47D287A5794079914D4423EF6933BD"
+    },
+    "7B47D287A5794079914D4423EF6933BD": {
+      "id": "7B47D287A5794079914D4423EF6933BD",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 1,
+      "listId": "4.1",
+      "statementNotation": "EU 4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The sum of an infinite number of real numbers may converge.",
+      "comments": [],
+      "ancestorIds": [
+        "5C28341CDC294333816F05C8BED4F6FF"
+      ],
+      "parentId": "5C28341CDC294333816F05C8BED4F6FF"
+    },
+    "5C28341CDC294333816F05C8BED4F6FF": {
+      "id": "5C28341CDC294333816F05C8BED4F6FF",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Idea 4: Series (BC)",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "224EA03C38114DC09057A2F02EF1EA6A": {
+      "id": "224EA03C38114DC09057A2F02EF1EA6A",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "3.5B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret, create, and solve differentiable equations from problems in context.",
+      "comments": [],
+      "ancestorIds": [
+        "F8B3FF56595544C8AD9CC728D186E8A9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "F8B3FF56595544C8AD9CC728D186E8A9"
+    },
+    "31DE5621566F41AEB0DEFCB2064EDC2D": {
+      "id": "31DE5621566F41AEB0DEFCB2064EDC2D",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.5A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze differential equations to obtain general and specific solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "F8B3FF56595544C8AD9CC728D186E8A9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "F8B3FF56595544C8AD9CC728D186E8A9"
+    },
+    "F8B3FF56595544C8AD9CC728D186E8A9": {
+      "id": "F8B3FF56595544C8AD9CC728D186E8A9",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "3.5",
+      "statementNotation": "EU 3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Antidifferentiation is an underlying concept involved in solving separable differential equations. Solving separable differential equations involves determining a function or relation given its rate of change.",
+      "comments": [],
+      "ancestorIds": [
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "BE2D1C6FA0C34D72AF78DE6616433465"
+    },
+    "F75BE6D16B364ADCB456B4FFE83E03D2": {
+      "id": "F75BE6D16B364ADCB456B4FFE83E03D2",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "3.4E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the definite integral to solve problems in various contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "744B8E4718EC4399B91E061412CA2159",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "744B8E4718EC4399B91E061412CA2159"
+    },
+    "61CCAD0C10694D4FA74ED0958AA5311C": {
+      "id": "61CCAD0C10694D4FA74ED0958AA5311C",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "3.4D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply definite integrals to problems involving area, volume, (BC) and length of a curve.",
+      "comments": [],
+      "ancestorIds": [
+        "744B8E4718EC4399B91E061412CA2159",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "744B8E4718EC4399B91E061412CA2159"
+    },
+    "0236097BB6C84BFCA46EF9C204955684": {
+      "id": "0236097BB6C84BFCA46EF9C204955684",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "3.4C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply definite integrals to problems involving motion.",
+      "comments": [],
+      "ancestorIds": [
+        "744B8E4718EC4399B91E061412CA2159",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "744B8E4718EC4399B91E061412CA2159"
+    },
+    "F9500BC82A7241F9A6BFC28F4800392F": {
+      "id": "F9500BC82A7241F9A6BFC28F4800392F",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "3.4B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply definite integrals to problems involving the average value of a function.",
+      "comments": [],
+      "ancestorIds": [
+        "744B8E4718EC4399B91E061412CA2159",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "744B8E4718EC4399B91E061412CA2159"
+    },
+    "2D2003F14BA740DFB6877DC776C16E52": {
+      "id": "2D2003F14BA740DFB6877DC776C16E52",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.4A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of a definite integral within a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "744B8E4718EC4399B91E061412CA2159",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "744B8E4718EC4399B91E061412CA2159"
+    },
+    "744B8E4718EC4399B91E061412CA2159": {
+      "id": "744B8E4718EC4399B91E061412CA2159",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "3.4",
+      "statementNotation": "EU 3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definite integral of a function over an interval is a mathematical tool with many interpretations and applications involving accumulation.",
+      "comments": [],
+      "ancestorIds": [
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "BE2D1C6FA0C34D72AF78DE6616433465"
+    },
+    "E4FC6D1E76534643A540E56753059D96": {
+      "id": "E4FC6D1E76534643A540E56753059D96",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "B(b)",
+      "statementNotation": "3.3B(b)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate definite integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "6793DF9464E54DC382C30320D05FF1BD",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "6793DF9464E54DC382C30320D05FF1BD"
+    },
+    "72D79379B85145849314501059FF0FCE": {
+      "id": "72D79379B85145849314501059FF0FCE",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "B(a)",
+      "statementNotation": "3.3B(a)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate antiderivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "6793DF9464E54DC382C30320D05FF1BD",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "6793DF9464E54DC382C30320D05FF1BD"
+    },
+    "9DDB819A77B14753BC67958CE809A000": {
+      "id": "9DDB819A77B14753BC67958CE809A000",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.3A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze functions defined by an integral.",
+      "comments": [],
+      "ancestorIds": [
+        "6793DF9464E54DC382C30320D05FF1BD",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "6793DF9464E54DC382C30320D05FF1BD"
+    },
+    "6793DF9464E54DC382C30320D05FF1BD": {
+      "id": "6793DF9464E54DC382C30320D05FF1BD",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "3.3",
+      "statementNotation": "EU 3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Fundamental Theorem of Calculus, which has two distinct formulations, connects differentiation and integration.",
+      "comments": [],
+      "ancestorIds": [
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "BE2D1C6FA0C34D72AF78DE6616433465"
+    },
+    "4B4C1E4FF638461F8D261FE47AD2AD90": {
+      "id": "4B4C1E4FF638461F8D261FE47AD2AD90",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "3.2D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(BC) Evaluate an improper integral or show that an improper integral diverges.",
+      "comments": [],
+      "ancestorIds": [
+        "EF1729CE6F55432081A59114B3827BC9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "EF1729CE6F55432081A59114B3827BC9"
+    },
+    "DF861D7E0DFA4AB7B69EC0D115F07F92": {
+      "id": "DF861D7E0DFA4AB7B69EC0D115F07F92",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "3.2C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate a definite integral using areas and properties of definite integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "EF1729CE6F55432081A59114B3827BC9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "EF1729CE6F55432081A59114B3827BC9"
+    },
+    "2AB2007FE7044B5B9BF0A9DC13A9A166": {
+      "id": "2AB2007FE7044B5B9BF0A9DC13A9A166",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "3.2B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approximate a definite integral.",
+      "comments": [],
+      "ancestorIds": [
+        "EF1729CE6F55432081A59114B3827BC9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "EF1729CE6F55432081A59114B3827BC9"
+    },
+    "745104A05420445A9DA3B2AAF67E95BA": {
+      "id": "745104A05420445A9DA3B2AAF67E95BA",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "A(b)",
+      "statementNotation": "3.2A(b)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Express the limit of a Riemann sum in integral notation.",
+      "comments": [],
+      "ancestorIds": [
+        "EF1729CE6F55432081A59114B3827BC9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "EF1729CE6F55432081A59114B3827BC9"
+    },
+    "942ECFB724244FDB9CA13D4F8F1A95AF": {
+      "id": "942ECFB724244FDB9CA13D4F8F1A95AF",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "A(a)",
+      "statementNotation": "3.2A(a)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the definite integral as the limit of a Riemann sum.",
+      "comments": [],
+      "ancestorIds": [
+        "EF1729CE6F55432081A59114B3827BC9",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "EF1729CE6F55432081A59114B3827BC9"
+    },
+    "EF1729CE6F55432081A59114B3827BC9": {
+      "id": "EF1729CE6F55432081A59114B3827BC9",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "3.2",
+      "statementNotation": "EU 3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definite integral of a function over an interval is the limit of a Riemann sum over that interval and can be calculated using a variety of strategies.",
+      "comments": [],
+      "ancestorIds": [
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "BE2D1C6FA0C34D72AF78DE6616433465"
+    },
+    "EC9A903E1A6E4C06B01D527E1F53A6A1": {
+      "id": "EC9A903E1A6E4C06B01D527E1F53A6A1",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.1A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize antiderivatives of basic functions.",
+      "comments": [],
+      "ancestorIds": [
+        "30101E2BB34742D4A480BED80500FDC0",
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "30101E2BB34742D4A480BED80500FDC0"
+    },
+    "30101E2BB34742D4A480BED80500FDC0": {
+      "id": "30101E2BB34742D4A480BED80500FDC0",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "3.1",
+      "statementNotation": "EU 3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Antidifferentiation is the inverse process of differentiation.",
+      "comments": [],
+      "ancestorIds": [
+        "BE2D1C6FA0C34D72AF78DE6616433465"
+      ],
+      "parentId": "BE2D1C6FA0C34D72AF78DE6616433465"
+    },
+    "BE2D1C6FA0C34D72AF78DE6616433465": {
+      "id": "BE2D1C6FA0C34D72AF78DE6616433465",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Idea 3: Integrals and the Fundamental Theorem of Calculus",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CC1D42C792EE4306BBE5B5EC64075AA9": {
+      "id": "CC1D42C792EE4306BBE5B5EC64075AA9",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "2.4A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the Mean Value Theorem  to describe the behavior of a function over an interval.",
+      "comments": [],
+      "ancestorIds": [
+        "C9FF3C8B463A409188810C956945003E",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "C9FF3C8B463A409188810C956945003E"
+    },
+    "C9FF3C8B463A409188810C956945003E": {
+      "id": "C9FF3C8B463A409188810C956945003E",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "2.4",
+      "statementNotation": "EU 2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Mean Value Theorem connects the behavior of a differentiable function over an interval to the behavior of the derivative of that function at a particular point in the interval.",
+      "comments": [],
+      "ancestorIds": [
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "5ECEF623848E472D9A02D203BC14EAFC"
+    },
+    "20C73B09173946C081825CC3A41BFC82": {
+      "id": "20C73B09173946C081825CC3A41BFC82",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "2.3F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate solutions to differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "A8E044D0C17545E8AF58B3E9D5F37E4B",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A8E044D0C17545E8AF58B3E9D5F37E4B"
+    },
+    "10590B4BDF40469D99D32C61C056F09D": {
+      "id": "10590B4BDF40469D99D32C61C056F09D",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "2.3E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Verify solutions to differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "A8E044D0C17545E8AF58B3E9D5F37E4B",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A8E044D0C17545E8AF58B3E9D5F37E4B"
+    },
+    "66BFEF9182E14F26A6264BEB831C873F": {
+      "id": "66BFEF9182E14F26A6264BEB831C873F",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "2.3D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems involving rates of change in applied contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "A8E044D0C17545E8AF58B3E9D5F37E4B",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A8E044D0C17545E8AF58B3E9D5F37E4B"
+    },
+    "3FFD691E6E4C4C67B0EF5B34DAC6EC33": {
+      "id": "3FFD691E6E4C4C67B0EF5B34DAC6EC33",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "2.3C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems involving related rates, optimization, rectilinear motion, (BC) and planar motion.",
+      "comments": [],
+      "ancestorIds": [
+        "A8E044D0C17545E8AF58B3E9D5F37E4B",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A8E044D0C17545E8AF58B3E9D5F37E4B"
+    },
+    "34A422E02EAE466D8D885AAC125A3D64": {
+      "id": "34A422E02EAE466D8D885AAC125A3D64",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "2.3B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems involving the slope of a tangent line.",
+      "comments": [],
+      "ancestorIds": [
+        "A8E044D0C17545E8AF58B3E9D5F37E4B",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A8E044D0C17545E8AF58B3E9D5F37E4B"
+    },
+    "0F11026A682F45F5B9BD7D23977872F7": {
+      "id": "0F11026A682F45F5B9BD7D23977872F7",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "2.3A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the meaning of a derivative within a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "A8E044D0C17545E8AF58B3E9D5F37E4B",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A8E044D0C17545E8AF58B3E9D5F37E4B"
+    },
+    "A8E044D0C17545E8AF58B3E9D5F37E4B": {
+      "id": "A8E044D0C17545E8AF58B3E9D5F37E4B",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "EU 2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative has multiple interpretations and applications including those that involve instantaneous rate of change.",
+      "comments": [],
+      "ancestorIds": [
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "5ECEF623848E472D9A02D203BC14EAFC"
+    },
+    "A6919810A08F49FA82E04558485E4197": {
+      "id": "A6919810A08F49FA82E04558485E4197",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "2.2B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize the connection between differentiability and continuity.",
+      "comments": [],
+      "ancestorIds": [
+        "A28DF01BDC6A47979F564C586DFD4986",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A28DF01BDC6A47979F564C586DFD4986"
+    },
+    "44CE60B461674BF391F09A52E0E7F988": {
+      "id": "44CE60B461674BF391F09A52E0E7F988",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "2.2A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use derivatives to analyze properties of a function.",
+      "comments": [],
+      "ancestorIds": [
+        "A28DF01BDC6A47979F564C586DFD4986",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "A28DF01BDC6A47979F564C586DFD4986"
+    },
+    "A28DF01BDC6A47979F564C586DFD4986": {
+      "id": "A28DF01BDC6A47979F564C586DFD4986",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "EU 2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A function's derivative, which is itself a function, can be used to understand the behavior of the function.",
+      "comments": [],
+      "ancestorIds": [
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "5ECEF623848E472D9A02D203BC14EAFC"
+    },
+    "693735618CF547519C626A44B579DB01": {
+      "id": "693735618CF547519C626A44B579DB01",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "2.1D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine higher order derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "6BB327244FE2498E846429776A137F90",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "6BB327244FE2498E846429776A137F90"
+    },
+    "2695F1ED38AC4C9AAADDBB8230D7A9F9": {
+      "id": "2695F1ED38AC4C9AAADDBB8230D7A9F9",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "2.1C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "6BB327244FE2498E846429776A137F90",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "6BB327244FE2498E846429776A137F90"
+    },
+    "C715BFC09BBF4BB79AB69317FB2B8993": {
+      "id": "C715BFC09BBF4BB79AB69317FB2B8993",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "2.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "6BB327244FE2498E846429776A137F90",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "6BB327244FE2498E846429776A137F90"
+    },
+    "3E2F36F8686C4E389E73B82758F4E6EB": {
+      "id": "3E2F36F8686C4E389E73B82758F4E6EB",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "2.1A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the derivative of a function as the limit of a difference quotient.",
+      "comments": [],
+      "ancestorIds": [
+        "6BB327244FE2498E846429776A137F90",
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "6BB327244FE2498E846429776A137F90"
+    },
+    "6BB327244FE2498E846429776A137F90": {
+      "id": "6BB327244FE2498E846429776A137F90",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "EU 2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The derivative of a function is defined as the limit of a difference quotient and can be determined using a variety of strategies.",
+      "comments": [],
+      "ancestorIds": [
+        "5ECEF623848E472D9A02D203BC14EAFC"
+      ],
+      "parentId": "5ECEF623848E472D9A02D203BC14EAFC"
+    },
+    "5ECEF623848E472D9A02D203BC14EAFC": {
+      "id": "5ECEF623848E472D9A02D203BC14EAFC",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Idea 2: Derivatives",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "698836A7D59C4869A6FFA9F6D79C589A": {
+      "id": "698836A7D59C4869A6FFA9F6D79C589A",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "1.2B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the applicability of important calculus theorems using continuity.",
+      "comments": [],
+      "ancestorIds": [
+        "3B61AAD4CE9A45FE8E9621FF6A9868B8",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "3B61AAD4CE9A45FE8E9621FF6A9868B8"
+    },
+    "6F7865A61F8F45099AE7F75E9A2D4BFF": {
+      "id": "6F7865A61F8F45099AE7F75E9A2D4BFF",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "1.2A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze functions for intervals of continuity or points of discontinuity.",
+      "comments": [],
+      "ancestorIds": [
+        "3B61AAD4CE9A45FE8E9621FF6A9868B8",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "3B61AAD4CE9A45FE8E9621FF6A9868B8"
+    },
+    "3B61AAD4CE9A45FE8E9621FF6A9868B8": {
+      "id": "3B61AAD4CE9A45FE8E9621FF6A9868B8",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "EU 1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Continuity is a key property of functions that is defined using limits.",
+      "comments": [],
+      "ancestorIds": [
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+    },
+    "9F729DCF0A9E4B028647FB39E84804A4": {
+      "id": "9F729DCF0A9E4B028647FB39E84804A4",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "1.1D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Deduce and interpret behavior of functions using limits.",
+      "comments": [],
+      "ancestorIds": [
+        "CED2A6E3B2154FF889FABAAA5C47511E",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "CED2A6E3B2154FF889FABAAA5C47511E"
+    },
+    "5C19F63F47DE4C309DCF792307272EC1": {
+      "id": "5C19F63F47DE4C309DCF792307272EC1",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "1.1C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine limits of functions.",
+      "comments": [],
+      "ancestorIds": [
+        "CED2A6E3B2154FF889FABAAA5C47511E",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "CED2A6E3B2154FF889FABAAA5C47511E"
+    },
+    "3E67977447DC49A0A1B638CA020F08C4": {
+      "id": "3E67977447DC49A0A1B638CA020F08C4",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "1.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate limits of functions.",
+      "comments": [],
+      "ancestorIds": [
+        "CED2A6E3B2154FF889FABAAA5C47511E",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "CED2A6E3B2154FF889FABAAA5C47511E"
+    },
+    "4737EDB1D4824170AA4600B348B6B0E9": {
+      "id": "4737EDB1D4824170AA4600B348B6B0E9",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "A(b)",
+      "statementNotation": "1.1A(b)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret limits expressed symbolically.",
+      "comments": [],
+      "ancestorIds": [
+        "CED2A6E3B2154FF889FABAAA5C47511E",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "CED2A6E3B2154FF889FABAAA5C47511E"
+    },
+    "11C2AB0087F9484396FCAB9972EB2646": {
+      "id": "11C2AB0087F9484396FCAB9972EB2646",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "A(a)",
+      "statementNotation": "1.1A(a)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Express limits symbolically using correct notation.",
+      "comments": [],
+      "ancestorIds": [
+        "CED2A6E3B2154FF889FABAAA5C47511E",
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "CED2A6E3B2154FF889FABAAA5C47511E"
+    },
+    "CED2A6E3B2154FF889FABAAA5C47511E": {
+      "id": "CED2A6E3B2154FF889FABAAA5C47511E",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "EU 1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The concept of a limit can be used to understand the behavior of functions.",
+      "comments": [],
+      "ancestorIds": [
+        "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+      ],
+      "parentId": "C5FEE2E6F5194B37A1ACCDA1E59C9202"
+    },
+    "C5FEE2E6F5194B37A1ACCDA1E59C9202": {
+      "id": "C5FEE2E6F5194B37A1ACCDA1E59C9202",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Idea 1: Limits",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,3679 @@
+{
+  "id": "33DC6821E93542819BE06F082364D6D2",
+  "title": "A Level",
+  "subject": "Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "11"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "CIE",
+    "sourceURL": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/"
+  },
+  "jurisdiction": {
+    "id": "435B39603C684724B759AAEBDD1B509B",
+    "title": "St-Ignatius School"
+  },
+  "standards": {
+    "723AF5FA38964C159F6B1ADA4D584399": {
+      "id": "723AF5FA38964C159F6B1ADA4D584399",
+      "asnIdentifier": null,
+      "position": 211000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "DE1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Declarative Practical",
+      "comments": [],
+      "ancestorIds": [
+        "7576F447B15C4F82B4C48B7B08496AB9",
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "7576F447B15C4F82B4C48B7B08496AB9"
+    },
+    "7576F447B15C4F82B4C48B7B08496AB9": {
+      "id": "7576F447B15C4F82B4C48B7B08496AB9",
+      "asnIdentifier": null,
+      "position": 210000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "DE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Declarative Programming",
+      "comments": [],
+      "ancestorIds": [
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "9B1FF30ECD474A08B3EC42081C1C9D1F"
+    },
+    "D4BE2F5D766E442BA51EDAB367D9A3CD": {
+      "id": "D4BE2F5D766E442BA51EDAB367D9A3CD",
+      "asnIdentifier": null,
+      "position": 209000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "OO2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "OOP Practical",
+      "comments": [],
+      "ancestorIds": [
+        "58295DC1DEDC4E8192182253C78F1D49",
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "58295DC1DEDC4E8192182253C78F1D49"
+    },
+    "DE6D989CD7EF4CE083239BAD83BCF958": {
+      "id": "DE6D989CD7EF4CE083239BAD83BCF958",
+      "asnIdentifier": null,
+      "position": 208000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "OO1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "OOP Theory",
+      "comments": [],
+      "ancestorIds": [
+        "58295DC1DEDC4E8192182253C78F1D49",
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "58295DC1DEDC4E8192182253C78F1D49"
+    },
+    "58295DC1DEDC4E8192182253C78F1D49": {
+      "id": "58295DC1DEDC4E8192182253C78F1D49",
+      "asnIdentifier": null,
+      "position": 207000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "OO",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Object-Oriented Programming (OOP)",
+      "comments": [],
+      "ancestorIds": [
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "9B1FF30ECD474A08B3EC42081C1C9D1F"
+    },
+    "05FE203A8C2741E88548A9E109A6122E": {
+      "id": "05FE203A8C2741E88548A9E109A6122E",
+      "asnIdentifier": null,
+      "position": 206000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "PRO1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Procedural Practical",
+      "comments": [],
+      "ancestorIds": [
+        "F92A916A3F944804935E3B755C44A69F",
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "F92A916A3F944804935E3B755C44A69F"
+    },
+    "F92A916A3F944804935E3B755C44A69F": {
+      "id": "F92A916A3F944804935E3B755C44A69F",
+      "asnIdentifier": null,
+      "position": 205000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "PRO",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Imperative (Procedural) Programming",
+      "comments": [],
+      "ancestorIds": [
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "9B1FF30ECD474A08B3EC42081C1C9D1F"
+    },
+    "9D5EC07B81D142128324F149E529026A": {
+      "id": "9D5EC07B81D142128324F149E529026A",
+      "asnIdentifier": null,
+      "position": 204000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "LL1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Low Level Practical",
+      "comments": [],
+      "ancestorIds": [
+        "02CA3B8DEA4742839DE5764BB1BE564D",
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "02CA3B8DEA4742839DE5764BB1BE564D"
+    },
+    "02CA3B8DEA4742839DE5764BB1BE564D": {
+      "id": "02CA3B8DEA4742839DE5764BB1BE564D",
+      "asnIdentifier": null,
+      "position": 203000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "LL",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Low-Level Programming",
+      "comments": [],
+      "ancestorIds": [
+        "9B1FF30ECD474A08B3EC42081C1C9D1F",
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "9B1FF30ECD474A08B3EC42081C1C9D1F"
+    },
+    "9B1FF30ECD474A08B3EC42081C1C9D1F": {
+      "id": "9B1FF30ECD474A08B3EC42081C1C9D1F",
+      "asnIdentifier": null,
+      "position": 202000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "PP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming Paradigms",
+      "comments": [],
+      "ancestorIds": [
+        "2B8384983FD54C918E327B717E17ECED"
+      ],
+      "parentId": "2B8384983FD54C918E327B717E17ECED"
+    },
+    "2B8384983FD54C918E327B717E17ECED": {
+      "id": "2B8384983FD54C918E327B717E17ECED",
+      "asnIdentifier": null,
+      "position": 201000,
+      "depth": 0,
+      "listId": "9",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Further Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A4108108C4334D6C87616FE8F67594E2": {
+      "id": "A4108108C4334D6C87616FE8F67594E2",
+      "asnIdentifier": null,
+      "position": 200000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "RE2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate how stacks are used for recursion and unwinding",
+      "comments": [],
+      "ancestorIds": [
+        "36D8FCA0D5224F4A926E9728FEE2ECD1",
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "36D8FCA0D5224F4A926E9728FEE2ECD1"
+    },
+    "36D8FCA0D5224F4A926E9728FEE2ECD1": {
+      "id": "36D8FCA0D5224F4A926E9728FEE2ECD1",
+      "asnIdentifier": null,
+      "position": 199000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "RE2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show areness of how a compiler translates recursive programming code",
+      "comments": [],
+      "ancestorIds": [
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD"
+    },
+    "76031FF3C21448888C1FBEC811A58897": {
+      "id": "76031FF3C21448888C1FBEC811A58897",
+      "asnIdentifier": null,
+      "position": 198000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "RE1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain when the use of recursion is beneficial",
+      "comments": [],
+      "ancestorIds": [
+        "AA0CD2A971394BD3B35FC795BF570A6F",
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "AA0CD2A971394BD3B35FC795BF570A6F"
+    },
+    "C84A7454F81049FFB561DFD03681E51C": {
+      "id": "C84A7454F81049FFB561DFD03681E51C",
+      "asnIdentifier": null,
+      "position": 197000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "RE1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write and trace recursive algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "AA0CD2A971394BD3B35FC795BF570A6F",
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "AA0CD2A971394BD3B35FC795BF570A6F"
+    },
+    "7A93F2B7BA92448287571B98B34CFC62": {
+      "id": "7A93F2B7BA92448287571B98B34CFC62",
+      "asnIdentifier": null,
+      "position": 196000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "RE1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate how recursion is expressed in a programming language",
+      "comments": [],
+      "ancestorIds": [
+        "AA0CD2A971394BD3B35FC795BF570A6F",
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "AA0CD2A971394BD3B35FC795BF570A6F"
+    },
+    "1F10585EDB404872A1969494DEDACC7B": {
+      "id": "1F10585EDB404872A1969494DEDACC7B",
+      "asnIdentifier": null,
+      "position": 195000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "RE1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain what the features of recursion",
+      "comments": [],
+      "ancestorIds": [
+        "AA0CD2A971394BD3B35FC795BF570A6F",
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "AA0CD2A971394BD3B35FC795BF570A6F"
+    },
+    "AA0CD2A971394BD3B35FC795BF570A6F": {
+      "id": "AA0CD2A971394BD3B35FC795BF570A6F",
+      "asnIdentifier": null,
+      "position": 194000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "RE1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of recursion",
+      "comments": [],
+      "ancestorIds": [
+        "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD"
+    },
+    "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD": {
+      "id": "B6FAB3ABCE3D48B7BBD7EFB7CB4A20CD",
+      "asnIdentifier": null,
+      "position": 193000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "RE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recursion",
+      "comments": [],
+      "ancestorIds": [
+        "0B30BCA0154A41C3AD129955B62461B8"
+      ],
+      "parentId": "0B30BCA0154A41C3AD129955B62461B8"
+    },
+    "0B30BCA0154A41C3AD129955B62461B8": {
+      "id": "0B30BCA0154A41C3AD129955B62461B8",
+      "asnIdentifier": null,
+      "position": 192000,
+      "depth": 0,
+      "listId": "8",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recursion",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F120FEBC693E4191A5D04B4FFDC8576F": {
+      "id": "F120FEBC693E4191A5D04B4FFDC8576F",
+      "asnIdentifier": null,
+      "position": 191000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "AL8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Big O notation in relation to time and space complexity",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "B89F0E390573489D88B9869A9B40767C": {
+      "id": "B89F0E390573489D88B9869A9B40767C",
+      "asnIdentifier": null,
+      "position": 190000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "AL7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by Big O notation",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "1F27BAA416E148D69ED0EDC56902E48D": {
+      "id": "1F27BAA416E148D69ED0EDC56902E48D",
+      "asnIdentifier": null,
+      "position": 189000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "AL6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show how it is possible for ADT to be implemented from a built in data-type",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "1B4908B773204C88ABC711F17655769F": {
+      "id": "1B4908B773204C88ABC711F17655769F",
+      "asnIdentifier": null,
+      "position": 188000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "AL5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show how it is possible for ADT to be implemented from another ADT",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "FD4B289D60CC4EB3AA7FAD0DC37E4070": {
+      "id": "FD4B289D60CC4EB3AA7FAD0DC37E4070",
+      "asnIdentifier": null,
+      "position": 187000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "AL4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify the usage of a graph for a given situation",
+      "comments": [],
+      "ancestorIds": [
+        "4D3974F4118D46459F78A5C6416D965E",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D3974F4118D46459F78A5C6416D965E"
+    },
+    "4746C647C4FE4EC4B7188C575CFAD674": {
+      "id": "4746C647C4FE4EC4B7188C575CFAD674",
+      "asnIdentifier": null,
+      "position": 186000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "AL4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the features of a graph",
+      "comments": [],
+      "ancestorIds": [
+        "4D3974F4118D46459F78A5C6416D965E",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D3974F4118D46459F78A5C6416D965E"
+    },
+    "4D3974F4118D46459F78A5C6416D965E": {
+      "id": "4D3974F4118D46459F78A5C6416D965E",
+      "asnIdentifier": null,
+      "position": 185000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "AL4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding that a graph is an ADT",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "BF76DBA85E674071974CCDF42B302544": {
+      "id": "BF76DBA85E674071974CCDF42B302544",
+      "asnIdentifier": null,
+      "position": 184000,
+      "depth": 3,
+      "listId": "14",
+      "statementNotation": "AL3.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write an algorithm to delete an item in a linked list",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "53B1E20D429E4DEE95934CC1B0115BB1": {
+      "id": "53B1E20D429E4DEE95934CC1B0115BB1",
+      "asnIdentifier": null,
+      "position": 183000,
+      "depth": 3,
+      "listId": "12",
+      "statementNotation": "AL3.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write an algorithm to delete an item in a queue",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "F07158900DE249C5BDD6F6377378296C": {
+      "id": "F07158900DE249C5BDD6F6377378296C",
+      "asnIdentifier": null,
+      "position": 182000,
+      "depth": 3,
+      "listId": "11",
+      "statementNotation": "AL3.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write an algorithm to delete an item in a stack",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "04E730805205477D8C35BBDAB7A910CB": {
+      "id": "04E730805205477D8C35BBDAB7A910CB",
+      "asnIdentifier": null,
+      "position": 181000,
+      "depth": 3,
+      "listId": "10",
+      "statementNotation": "AL3.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write algorithm to insert an item in a binary tree",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "ADA38331EAC44D86819CD8B783959455": {
+      "id": "ADA38331EAC44D86819CD8B783959455",
+      "asnIdentifier": null,
+      "position": 180000,
+      "depth": 3,
+      "listId": "9",
+      "statementNotation": "AL3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write algorithm to insert an item in a linked list",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "497AF708215D465FBD3986C141EEF359": {
+      "id": "497AF708215D465FBD3986C141EEF359",
+      "asnIdentifier": null,
+      "position": 179000,
+      "depth": 3,
+      "listId": "8",
+      "statementNotation": "AL3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write algorithm to insert an item in a queue",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "5FF01F7796924F43A1CE8113BCE50F09": {
+      "id": "5FF01F7796924F43A1CE8113BCE50F09",
+      "asnIdentifier": null,
+      "position": 178000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "AL3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write algorithm insert an item in a stack",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "495291B09B414B1FBE5F0F1B389F921D": {
+      "id": "495291B09B414B1FBE5F0F1B389F921D",
+      "asnIdentifier": null,
+      "position": 177000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "AL3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write algorithm to find an item in a binary tree",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "4F977856ADC944E789C368FBCC7F9944": {
+      "id": "4F977856ADC944E789C368FBCC7F9944",
+      "asnIdentifier": null,
+      "position": 176000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "AL3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write algorithm to find an item in a linked list",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "C19A9B2ABB1E4733BEAB467E67E0DB38": {
+      "id": "C19A9B2ABB1E4733BEAB467E67E0DB38",
+      "asnIdentifier": null,
+      "position": 175000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "AL3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a queue works",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "74CBDE9EDBA44854A53931FF782CF075": {
+      "id": "74CBDE9EDBA44854A53931FF782CF075",
+      "asnIdentifier": null,
+      "position": 174000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "AL3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a stack works",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "2C10CFCE4405422E849A724AB836CDA3": {
+      "id": "2C10CFCE4405422E849A724AB836CDA3",
+      "asnIdentifier": null,
+      "position": 173000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "AL3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a binary tree works",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "4ED415A8E1BB43DFBCBA7348711E7E02": {
+      "id": "4ED415A8E1BB43DFBCBA7348711E7E02",
+      "asnIdentifier": null,
+      "position": 172000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "AL3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a linked list works",
+      "comments": [],
+      "ancestorIds": [
+        "679C53F7967D41F1AA7714C655BF5482",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "679C53F7967D41F1AA7714C655BF5482"
+    },
+    "679C53F7967D41F1AA7714C655BF5482": {
+      "id": "679C53F7967D41F1AA7714C655BF5482",
+      "asnIdentifier": null,
+      "position": 171000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "AL3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of ADT",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "47CE0155BF834C9C9739132A259660E6": {
+      "id": "47CE0155BF834C9C9739132A259660E6",
+      "asnIdentifier": null,
+      "position": 170000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "AL2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the performances for an insertion sort",
+      "comments": [],
+      "ancestorIds": [
+        "4D19E67BA8B14A0892CD333196D321ED",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D19E67BA8B14A0892CD333196D321ED"
+    },
+    "2625EC96EB384044866B4BE0FA7DC74D": {
+      "id": "2625EC96EB384044866B4BE0FA7DC74D",
+      "asnIdentifier": null,
+      "position": 169000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "AL2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the performance factors for a bubble sort",
+      "comments": [],
+      "ancestorIds": [
+        "4D19E67BA8B14A0892CD333196D321ED",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D19E67BA8B14A0892CD333196D321ED"
+    },
+    "B09D97793BFF4800B305DAEA47CFCFC8": {
+      "id": "B09D97793BFF4800B305DAEA47CFCFC8",
+      "asnIdentifier": null,
+      "position": 168000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "AL2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write a bubble sort algorithm",
+      "comments": [],
+      "ancestorIds": [
+        "4D19E67BA8B14A0892CD333196D321ED",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D19E67BA8B14A0892CD333196D321ED"
+    },
+    "11839C90BB9844B7976CA18F0BFB6D0E": {
+      "id": "11839C90BB9844B7976CA18F0BFB6D0E",
+      "asnIdentifier": null,
+      "position": 167000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "AL2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write an insertion sort algorithm",
+      "comments": [],
+      "ancestorIds": [
+        "4D19E67BA8B14A0892CD333196D321ED",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D19E67BA8B14A0892CD333196D321ED"
+    },
+    "E4B98691B5D649F7AC6EB445AF6682DA": {
+      "id": "E4B98691B5D649F7AC6EB445AF6682DA",
+      "asnIdentifier": null,
+      "position": 166000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "AL2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a bubble sort works",
+      "comments": [],
+      "ancestorIds": [
+        "4D19E67BA8B14A0892CD333196D321ED",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D19E67BA8B14A0892CD333196D321ED"
+    },
+    "219811E88CD34E1B952C369FB60B94CE": {
+      "id": "219811E88CD34E1B952C369FB60B94CE",
+      "asnIdentifier": null,
+      "position": 165000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "AL2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how an insertion sort works",
+      "comments": [],
+      "ancestorIds": [
+        "4D19E67BA8B14A0892CD333196D321ED",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "4D19E67BA8B14A0892CD333196D321ED"
+    },
+    "4D19E67BA8B14A0892CD333196D321ED": {
+      "id": "4D19E67BA8B14A0892CD333196D321ED",
+      "asnIdentifier": null,
+      "position": 164000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "AL2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of insertion sort and bubble sort methods",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "68404FFAB42C43018B113D80215A0ED8": {
+      "id": "68404FFAB42C43018B113D80215A0ED8",
+      "asnIdentifier": null,
+      "position": 163000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "AL1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the performance of a binary search varies according to the number of data items",
+      "comments": [],
+      "ancestorIds": [
+        "E374BA30CD0E42FB806C3B66D0478D3D",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "E374BA30CD0E42FB806C3B66D0478D3D"
+    },
+    "123559FF6A434330AB71973F314D13C2": {
+      "id": "123559FF6A434330AB71973F314D13C2",
+      "asnIdentifier": null,
+      "position": 162000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "AL1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify when to use a binary search",
+      "comments": [],
+      "ancestorIds": [
+        "E374BA30CD0E42FB806C3B66D0478D3D",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "E374BA30CD0E42FB806C3B66D0478D3D"
+    },
+    "862D8981E26F46709FD6F5EAAE129387": {
+      "id": "862D8981E26F46709FD6F5EAAE129387",
+      "asnIdentifier": null,
+      "position": 161000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "AL1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create your own binary search",
+      "comments": [],
+      "ancestorIds": [
+        "E374BA30CD0E42FB806C3B66D0478D3D",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "E374BA30CD0E42FB806C3B66D0478D3D"
+    },
+    "C080EB0E97BD44538B89FF8575CB71F9": {
+      "id": "C080EB0E97BD44538B89FF8575CB71F9",
+      "asnIdentifier": null,
+      "position": 160000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "AL1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how a binary search works",
+      "comments": [],
+      "ancestorIds": [
+        "E374BA30CD0E42FB806C3B66D0478D3D",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "E374BA30CD0E42FB806C3B66D0478D3D"
+    },
+    "836DAAF3F3F04807BF2BAD6D94042D14": {
+      "id": "836DAAF3F3F04807BF2BAD6D94042D14",
+      "asnIdentifier": null,
+      "position": 159000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "AL1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create your own linear search",
+      "comments": [],
+      "ancestorIds": [
+        "E374BA30CD0E42FB806C3B66D0478D3D",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "E374BA30CD0E42FB806C3B66D0478D3D"
+    },
+    "6EC72D91E95949CEA611D149553C98EB": {
+      "id": "6EC72D91E95949CEA611D149553C98EB",
+      "asnIdentifier": null,
+      "position": 158000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "AL1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how a linear search works",
+      "comments": [],
+      "ancestorIds": [
+        "E374BA30CD0E42FB806C3B66D0478D3D",
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "E374BA30CD0E42FB806C3B66D0478D3D"
+    },
+    "E374BA30CD0E42FB806C3B66D0478D3D": {
+      "id": "E374BA30CD0E42FB806C3B66D0478D3D",
+      "asnIdentifier": null,
+      "position": 157000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "AL1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of linear and binary searching methods",
+      "comments": [],
+      "ancestorIds": [
+        "2C248D58AB8C470490A8FDCEC562FFAC",
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "2C248D58AB8C470490A8FDCEC562FFAC"
+    },
+    "2C248D58AB8C470490A8FDCEC562FFAC": {
+      "id": "2C248D58AB8C470490A8FDCEC562FFAC",
+      "asnIdentifier": null,
+      "position": 156000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AL",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "3AA85D8323804C38B2C069C7B37A9A2B"
+      ],
+      "parentId": "3AA85D8323804C38B2C069C7B37A9A2B"
+    },
+    "3AA85D8323804C38B2C069C7B37A9A2B": {
+      "id": "3AA85D8323804C38B2C069C7B37A9A2B",
+      "asnIdentifier": null,
+      "position": 155000,
+      "depth": 0,
+      "listId": "7",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Thinking and Problem Solving",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "02FF38AD651A4B26B00499D69F04BDCE": {
+      "id": "02FF38AD651A4B26B00499D69F04BDCE",
+      "asnIdentifier": null,
+      "position": 154000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "AI6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain regression methods in machine learning",
+      "comments": [],
+      "ancestorIds": [
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "912B87D77FD04A19853F7DFD7ABA14A4"
+    },
+    "2C332EC91B8D484D818432BD77410682": {
+      "id": "2C332EC91B8D484D818432BD77410682",
+      "asnIdentifier": null,
+      "position": 153000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "AI5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of back propagation of errors",
+      "comments": [],
+      "ancestorIds": [
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "912B87D77FD04A19853F7DFD7ABA14A4"
+    },
+    "DDC6C348601C4243A99D20BD3C67FD20": {
+      "id": "DDC6C348601C4243A99D20BD3C67FD20",
+      "asnIdentifier": null,
+      "position": 152000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "AI4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the purpose of unsupervised learning",
+      "comments": [],
+      "ancestorIds": [
+        "9B5B103DAA21460684523628CD335A12",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "9B5B103DAA21460684523628CD335A12"
+    },
+    "C668E40925DC45BDB0EBE6B4927EFB4E": {
+      "id": "C668E40925DC45BDB0EBE6B4927EFB4E",
+      "asnIdentifier": null,
+      "position": 151000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "AI4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by unsupervised learning",
+      "comments": [],
+      "ancestorIds": [
+        "9B5B103DAA21460684523628CD335A12",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "9B5B103DAA21460684523628CD335A12"
+    },
+    "A30CE9338F9C41A4A9D117B54CD71879": {
+      "id": "A30CE9338F9C41A4A9D117B54CD71879",
+      "asnIdentifier": null,
+      "position": 150000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "AI4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the purposes of supervised learning",
+      "comments": [],
+      "ancestorIds": [
+        "9B5B103DAA21460684523628CD335A12",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "9B5B103DAA21460684523628CD335A12"
+    },
+    "42007B28C98B46CCA2C4E8E0D2575589": {
+      "id": "42007B28C98B46CCA2C4E8E0D2575589",
+      "asnIdentifier": null,
+      "position": 149000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "AI4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by supervised learning",
+      "comments": [],
+      "ancestorIds": [
+        "9B5B103DAA21460684523628CD335A12",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "9B5B103DAA21460684523628CD335A12"
+    },
+    "9B5B103DAA21460684523628CD335A12": {
+      "id": "9B5B103DAA21460684523628CD335A12",
+      "asnIdentifier": null,
+      "position": 148000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "AI4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand deep learning, machine learning and reinforcement learning",
+      "comments": [],
+      "ancestorIds": [
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "912B87D77FD04A19853F7DFD7ABA14A4"
+    },
+    "5FEC61AA638D478EA375A854516A7695": {
+      "id": "5FEC61AA638D478EA375A854516A7695",
+      "asnIdentifier": null,
+      "position": 147000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "AI3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how artificial neural networks have helped machine learning",
+      "comments": [],
+      "ancestorIds": [
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "912B87D77FD04A19853F7DFD7ABA14A4"
+    },
+    "43C3EEA06D054C13872E8066C7A1447A": {
+      "id": "43C3EEA06D054C13872E8066C7A1447A",
+      "asnIdentifier": null,
+      "position": 146000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "AI2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Dijkstra's algorithms to perform searches on a graph",
+      "comments": [],
+      "ancestorIds": [
+        "29408ABA12364CA2BA597C529EAC3B85",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "29408ABA12364CA2BA597C529EAC3B85"
+    },
+    "BE4038B6AE72421F89577F8202461DF0": {
+      "id": "BE4038B6AE72421F89577F8202461DF0",
+      "asnIdentifier": null,
+      "position": 145000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "AI2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use A* algorithm to perform searches on a graph",
+      "comments": [],
+      "ancestorIds": [
+        "29408ABA12364CA2BA597C529EAC3B85",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "29408ABA12364CA2BA597C529EAC3B85"
+    },
+    "CD4CF66D0E9A4313BFC44271907501FA": {
+      "id": "CD4CF66D0E9A4313BFC44271907501FA",
+      "asnIdentifier": null,
+      "position": 144000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "AI2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the purpose and structure of a graph",
+      "comments": [],
+      "ancestorIds": [
+        "29408ABA12364CA2BA597C529EAC3B85",
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "29408ABA12364CA2BA597C529EAC3B85"
+    },
+    "29408ABA12364CA2BA597C529EAC3B85": {
+      "id": "29408ABA12364CA2BA597C529EAC3B85",
+      "asnIdentifier": null,
+      "position": 143000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "AI2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of how graphs can be used to aid AI",
+      "comments": [],
+      "ancestorIds": [
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "912B87D77FD04A19853F7DFD7ABA14A4"
+    },
+    "C55BF1B1AD524AED95A783D954F6A19B": {
+      "id": "C55BF1B1AD524AED95A783D954F6A19B",
+      "asnIdentifier": null,
+      "position": 142000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "AI1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by AI",
+      "comments": [],
+      "ancestorIds": [
+        "912B87D77FD04A19853F7DFD7ABA14A4",
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "912B87D77FD04A19853F7DFD7ABA14A4"
+    },
+    "912B87D77FD04A19853F7DFD7ABA14A4": {
+      "id": "912B87D77FD04A19853F7DFD7ABA14A4",
+      "asnIdentifier": null,
+      "position": 141000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Artificial Intelligence",
+      "comments": [],
+      "ancestorIds": [
+        "6C970A2EE6A7417DB309D1E60FC1071A"
+      ],
+      "parentId": "6C970A2EE6A7417DB309D1E60FC1071A"
+    },
+    "6C970A2EE6A7417DB309D1E60FC1071A": {
+      "id": "6C970A2EE6A7417DB309D1E60FC1071A",
+      "asnIdentifier": null,
+      "position": 140000,
+      "depth": 0,
+      "listId": "VI",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Artificial Intelligence",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "882AAFBBE74D4FCDA3E32AF2060D64C9": {
+      "id": "882AAFBBE74D4FCDA3E32AF2060D64C9",
+      "asnIdentifier": null,
+      "position": 139000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "SE3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a digital certificate is used to produce digital signatures",
+      "comments": [],
+      "ancestorIds": [
+        "5F3BC84A691445829733F57EB3E73544",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "5F3BC84A691445829733F57EB3E73544"
+    },
+    "FF2F04B928E44C5CB7768A948FA05D7A": {
+      "id": "FF2F04B928E44C5CB7768A948FA05D7A",
+      "asnIdentifier": null,
+      "position": 138000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "SE3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by a digital signature",
+      "comments": [],
+      "ancestorIds": [
+        "5F3BC84A691445829733F57EB3E73544",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "5F3BC84A691445829733F57EB3E73544"
+    },
+    "2EC0312FD4F84EA9BF6CFEF69D2E448D": {
+      "id": "2EC0312FD4F84EA9BF6CFEF69D2E448D",
+      "asnIdentifier": null,
+      "position": 137000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "SE3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how a digital certificate is acquired",
+      "comments": [],
+      "ancestorIds": [
+        "5F3BC84A691445829733F57EB3E73544",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "5F3BC84A691445829733F57EB3E73544"
+    },
+    "5F3BC84A691445829733F57EB3E73544": {
+      "id": "5F3BC84A691445829733F57EB3E73544",
+      "asnIdentifier": null,
+      "position": 136000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "SE3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of digital certification",
+      "comments": [],
+      "ancestorIds": [
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "5736B29EF3CE41A6A0B36AC284EC22F9"
+    },
+    "7976CC58313E4F26AF3488BDD7D9E4B8": {
+      "id": "7976CC58313E4F26AF3488BDD7D9E4B8",
+      "asnIdentifier": null,
+      "position": 135000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "SE2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain where SSL/TLS is used",
+      "comments": [],
+      "ancestorIds": [
+        "4B76C275CE33472AB7B962CB8D2D4630",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "4B76C275CE33472AB7B962CB8D2D4630"
+    },
+    "80BF51CFE11B48AEA882B2A5CBD076BE": {
+      "id": "80BF51CFE11B48AEA882B2A5CBD076BE",
+      "asnIdentifier": null,
+      "position": 134000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "SE2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how TLS/SSL is used in client-server communication",
+      "comments": [],
+      "ancestorIds": [
+        "4B76C275CE33472AB7B962CB8D2D4630",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "4B76C275CE33472AB7B962CB8D2D4630"
+    },
+    "66105684A490442D964901F129CAA4B2": {
+      "id": "66105684A490442D964901F129CAA4B2",
+      "asnIdentifier": null,
+      "position": 133000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "SE2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the purpose of SSL/TLS",
+      "comments": [],
+      "ancestorIds": [
+        "4B76C275CE33472AB7B962CB8D2D4630",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "4B76C275CE33472AB7B962CB8D2D4630"
+    },
+    "4B76C275CE33472AB7B962CB8D2D4630": {
+      "id": "4B76C275CE33472AB7B962CB8D2D4630",
+      "asnIdentifier": null,
+      "position": 132000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "SE2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of SSL and TLS",
+      "comments": [],
+      "ancestorIds": [
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "5736B29EF3CE41A6A0B36AC284EC22F9"
+    },
+    "2E9C4DB02E314C21A31853DB10E24089": {
+      "id": "2E9C4DB02E314C21A31853DB10E24089",
+      "asnIdentifier": null,
+      "position": 131000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "SE1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how data is encrypted and decrypted using symmetric and asymmetric cryptography",
+      "comments": [],
+      "ancestorIds": [
+        "C414E0F3C887447D8E60D73F7A5F1BD0",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "C414E0F3C887447D8E60D73F7A5F1BD0"
+    },
+    "C34DB165A4AA47DB936E133554DCFCE4": {
+      "id": "C34DB165A4AA47DB936E133554DCFCE4",
+      "asnIdentifier": null,
+      "position": 130000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "SE1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how keys can be used for verification in regards to encryption",
+      "comments": [],
+      "ancestorIds": [
+        "C414E0F3C887447D8E60D73F7A5F1BD0",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "C414E0F3C887447D8E60D73F7A5F1BD0"
+    },
+    "0329D6F4F8F646F1BE95C1AA5046577B": {
+      "id": "0329D6F4F8F646F1BE95C1AA5046577B",
+      "asnIdentifier": null,
+      "position": 129000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "SE1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the keys can be used in encryption",
+      "comments": [],
+      "ancestorIds": [
+        "C414E0F3C887447D8E60D73F7A5F1BD0",
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "C414E0F3C887447D8E60D73F7A5F1BD0"
+    },
+    "C414E0F3C887447D8E60D73F7A5F1BD0": {
+      "id": "C414E0F3C887447D8E60D73F7A5F1BD0",
+      "asnIdentifier": null,
+      "position": 128000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "SE1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of how encryption works",
+      "comments": [],
+      "ancestorIds": [
+        "5736B29EF3CE41A6A0B36AC284EC22F9",
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "5736B29EF3CE41A6A0B36AC284EC22F9"
+    },
+    "5736B29EF3CE41A6A0B36AC284EC22F9": {
+      "id": "5736B29EF3CE41A6A0B36AC284EC22F9",
+      "asnIdentifier": null,
+      "position": 127000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "SE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Encryption, Encryption Protocols and Digital certificates",
+      "comments": [],
+      "ancestorIds": [
+        "CB6F251B9B8E4A63B92AA60D0886B05C"
+      ],
+      "parentId": "CB6F251B9B8E4A63B92AA60D0886B05C"
+    },
+    "CB6F251B9B8E4A63B92AA60D0886B05C": {
+      "id": "CB6F251B9B8E4A63B92AA60D0886B05C",
+      "asnIdentifier": null,
+      "position": 126000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9269703236E746CEBCDDECA5A5C716EB": {
+      "id": "9269703236E746CEBCDDECA5A5C716EB",
+      "asnIdentifier": null,
+      "position": 125000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "TR3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use RPN",
+      "comments": [],
+      "ancestorIds": [
+        "98B88DB341FA4A6DA4A1D43F765B457E",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "98B88DB341FA4A6DA4A1D43F765B457E"
+    },
+    "BFA8EE143AE9421BB6829FA47EE5A74D": {
+      "id": "BFA8EE143AE9421BB6829FA47EE5A74D",
+      "asnIdentifier": null,
+      "position": 124000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "TR3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand RPN",
+      "comments": [],
+      "ancestorIds": [
+        "98B88DB341FA4A6DA4A1D43F765B457E",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "98B88DB341FA4A6DA4A1D43F765B457E"
+    },
+    "B4D0F374FADD478CACDAE5EB2560D5A6": {
+      "id": "B4D0F374FADD478CACDAE5EB2560D5A6",
+      "asnIdentifier": null,
+      "position": 123000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "TR3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use BNF",
+      "comments": [],
+      "ancestorIds": [
+        "98B88DB341FA4A6DA4A1D43F765B457E",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "98B88DB341FA4A6DA4A1D43F765B457E"
+    },
+    "4FA48604AD2242F68E1C70DCD19F17DE": {
+      "id": "4FA48604AD2242F68E1C70DCD19F17DE",
+      "asnIdentifier": null,
+      "position": 122000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "TR3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use syntax diagrams",
+      "comments": [],
+      "ancestorIds": [
+        "98B88DB341FA4A6DA4A1D43F765B457E",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "98B88DB341FA4A6DA4A1D43F765B457E"
+    },
+    "98B88DB341FA4A6DA4A1D43F765B457E": {
+      "id": "98B88DB341FA4A6DA4A1D43F765B457E",
+      "asnIdentifier": null,
+      "position": 121000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "TR3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of grammar of languages",
+      "comments": [],
+      "ancestorIds": [
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "2005295BF0B4403EBA8A17321941750C"
+    },
+    "48753F3D53B2432EBB59CE90AABC4C65": {
+      "id": "48753F3D53B2432EBB59CE90AABC4C65",
+      "asnIdentifier": null,
+      "position": 120000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "TR2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by code generation and optimisation",
+      "comments": [],
+      "ancestorIds": [
+        "7DDEA10BEFC0414ABD076FF911242AB2",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "7DDEA10BEFC0414ABD076FF911242AB2"
+    },
+    "3065606A26204E6CB87A38E98DA2F43F": {
+      "id": "3065606A26204E6CB87A38E98DA2F43F",
+      "asnIdentifier": null,
+      "position": 119000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "TR2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by syntax analysis",
+      "comments": [],
+      "ancestorIds": [
+        "7DDEA10BEFC0414ABD076FF911242AB2",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "7DDEA10BEFC0414ABD076FF911242AB2"
+    },
+    "D35C9D7FA02F4111B7E03F14DBEB58FA": {
+      "id": "D35C9D7FA02F4111B7E03F14DBEB58FA",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "TR2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by lexical analysis",
+      "comments": [],
+      "ancestorIds": [
+        "7DDEA10BEFC0414ABD076FF911242AB2",
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "7DDEA10BEFC0414ABD076FF911242AB2"
+    },
+    "7DDEA10BEFC0414ABD076FF911242AB2": {
+      "id": "7DDEA10BEFC0414ABD076FF911242AB2",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "TR2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of the various stages in the compilation of a program",
+      "comments": [],
+      "ancestorIds": [
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "2005295BF0B4403EBA8A17321941750C"
+    },
+    "F7A9A13CE948440F91A6388791C0401D": {
+      "id": "F7A9A13CE948440F91A6388791C0401D",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "TR1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State how an interpreter can execute programs without producing a translated version",
+      "comments": [],
+      "ancestorIds": [
+        "2005295BF0B4403EBA8A17321941750C",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "2005295BF0B4403EBA8A17321941750C"
+    },
+    "2005295BF0B4403EBA8A17321941750C": {
+      "id": "2005295BF0B4403EBA8A17321941750C",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "TR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translation Software",
+      "comments": [],
+      "ancestorIds": [
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "144A8EA3074D485F85AED2778206B046"
+    },
+    "04BBD85002C245879E50C677D2CD037E": {
+      "id": "04BBD85002C245879E50C677D2CD037E",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "OS10.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State how disk thrashing can occur",
+      "comments": [],
+      "ancestorIds": [
+        "6CECCC0BDB4F451C91200F1D2222A6EC",
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "6CECCC0BDB4F451C91200F1D2222A6EC"
+    },
+    "AF0568FC090C4DEF97E206C935765829": {
+      "id": "AF0568FC090C4DEF97E206C935765829",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "OS10.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State how pages can be replaced",
+      "comments": [],
+      "ancestorIds": [
+        "6CECCC0BDB4F451C91200F1D2222A6EC",
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "6CECCC0BDB4F451C91200F1D2222A6EC"
+    },
+    "8ACD565409914825B8B20A593B189570": {
+      "id": "8ACD565409914825B8B20A593B189570",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "OS10.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the difference between paging and segmentation",
+      "comments": [],
+      "ancestorIds": [
+        "6CECCC0BDB4F451C91200F1D2222A6EC",
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "6CECCC0BDB4F451C91200F1D2222A6EC"
+    },
+    "A1EA74C69C174F48B0F99E7592AEF734": {
+      "id": "A1EA74C69C174F48B0F99E7592AEF734",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "OS10.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by segmentation",
+      "comments": [],
+      "ancestorIds": [
+        "6CECCC0BDB4F451C91200F1D2222A6EC",
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "6CECCC0BDB4F451C91200F1D2222A6EC"
+    },
+    "A313FE20487F4D82B1CB33498439A249": {
+      "id": "A313FE20487F4D82B1CB33498439A249",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "OS10.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by virtual memory",
+      "comments": [],
+      "ancestorIds": [
+        "6CECCC0BDB4F451C91200F1D2222A6EC",
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "6CECCC0BDB4F451C91200F1D2222A6EC"
+    },
+    "FE04D67128C04EB19A6674534440B02F": {
+      "id": "FE04D67128C04EB19A6674534440B02F",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "OS10.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by paging",
+      "comments": [],
+      "ancestorIds": [
+        "6CECCC0BDB4F451C91200F1D2222A6EC",
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "6CECCC0BDB4F451C91200F1D2222A6EC"
+    },
+    "6CECCC0BDB4F451C91200F1D2222A6EC": {
+      "id": "6CECCC0BDB4F451C91200F1D2222A6EC",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "OS10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of virtual memory, paging and segmentation for memory management",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "01FF86EE845041E4ABEFC478929E8BB0": {
+      "id": "01FF86EE845041E4ABEFC478929E8BB0",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "OS9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how interrupt handling is used to manage low-level scheduling",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "7F8BA1A4494F443CA03C849AAA0282A7": {
+      "id": "7F8BA1A4494F443CA03C849AAA0282A7",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "OS8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the kernel of the OS acts as an interrupt handler",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "632CC6E1DBEA4F6987E8E0B5E9D3C3A0": {
+      "id": "632CC6E1DBEA4F6987E8E0B5E9D3C3A0",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "OS7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the benefits of different scheduling routines",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "D1FD072E65374F01A0DF0E6A75DC5254": {
+      "id": "D1FD072E65374F01A0DF0E6A75DC5254",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "OS6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the need for scheduling",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "B3072B899F564694BB7CB62477A1E0B2": {
+      "id": "B3072B899F564694BB7CB62477A1E0B2",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "OS5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by the process states: running, ready, and blocked",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "A9CEB549C0C34CC59E2A2053E7389671": {
+      "id": "A9CEB549C0C34CC59E2A2053E7389671",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "OS4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by the concept of multi-tasking and a process",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "235FE18A62564AAC9CC3504F410D0BD6": {
+      "id": "235FE18A62564AAC9CC3504F410D0BD6",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "OS3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by process management",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "C4CDC953555F496B8DD61B9B9D8B2FE4": {
+      "id": "C4CDC953555F496B8DD61B9B9D8B2FE4",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "OS2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how a UI hides the complexities of the hardware from the user",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "B425A6697CD34E7F867C222B7EA7200F": {
+      "id": "B425A6697CD34E7F867C222B7EA7200F",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "OS1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how an OS can maximise the use of resources",
+      "comments": [],
+      "ancestorIds": [
+        "23490FAD3C8D433E948C1BD660A7C1F8",
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "23490FAD3C8D433E948C1BD660A7C1F8"
+    },
+    "23490FAD3C8D433E948C1BD660A7C1F8": {
+      "id": "23490FAD3C8D433E948C1BD660A7C1F8",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "OS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The purposes of an OS",
+      "comments": [],
+      "ancestorIds": [
+        "144A8EA3074D485F85AED2778206B046"
+      ],
+      "parentId": "144A8EA3074D485F85AED2778206B046"
+    },
+    "144A8EA3074D485F85AED2778206B046": {
+      "id": "144A8EA3074D485F85AED2778206B046",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "System Software",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5A66163613754177A99DF90DC3954506": {
+      "id": "5A66163613754177A99DF90DC3954506",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "BA5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems using K-Maps",
+      "comments": [],
+      "ancestorIds": [
+        "F5C0F001079248DE809FC45A0F889420",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "F5C0F001079248DE809FC45A0F889420"
+    },
+    "F697B10E49C441F5A78B780C68376124": {
+      "id": "F697B10E49C441F5A78B780C68376124",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "BA5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the benefits of using K-Maps",
+      "comments": [],
+      "ancestorIds": [
+        "F5C0F001079248DE809FC45A0F889420",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "F5C0F001079248DE809FC45A0F889420"
+    },
+    "F5C0F001079248DE809FC45A0F889420": {
+      "id": "F5C0F001079248DE809FC45A0F889420",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "BA5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of K-Map",
+      "comments": [],
+      "ancestorIds": [
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "E21F71102C1F4BAF9588F1FF81239283"
+    },
+    "DFD327E26EC0405FA7FC2D8DDDAEE5EE": {
+      "id": "DFD327E26EC0405FA7FC2D8DDDAEE5EE",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "BA4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the other rules of Boolean Algebra",
+      "comments": [],
+      "ancestorIds": [
+        "C6AAB98A6902493B9CF9C2D72F2EC6D4",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "C6AAB98A6902493B9CF9C2D72F2EC6D4"
+    },
+    "AECF7C3553BD4D629382C704E9848106": {
+      "id": "AECF7C3553BD4D629382C704E9848106",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "BA4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use De Modan's Laws",
+      "comments": [],
+      "ancestorIds": [
+        "C6AAB98A6902493B9CF9C2D72F2EC6D4",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "C6AAB98A6902493B9CF9C2D72F2EC6D4"
+    },
+    "A295D04E5A464AC5A43B925FA361B857": {
+      "id": "A295D04E5A464AC5A43B925FA361B857",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "BA4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "List all the rules of Boolean Algebra",
+      "comments": [],
+      "ancestorIds": [
+        "C6AAB98A6902493B9CF9C2D72F2EC6D4",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "C6AAB98A6902493B9CF9C2D72F2EC6D4"
+    },
+    "C6AAB98A6902493B9CF9C2D72F2EC6D4": {
+      "id": "C6AAB98A6902493B9CF9C2D72F2EC6D4",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "BA4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of Boolean Algebra",
+      "comments": [],
+      "ancestorIds": [
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "E21F71102C1F4BAF9588F1FF81239283"
+    },
+    "5B618E36D15E462AB9DCCB4A3BA77E3D": {
+      "id": "5B618E36D15E462AB9DCCB4A3BA77E3D",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "BA3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how flip-flops are used as data storage elements",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "BCE6784E27724AF3A93C9FE538617FD0": {
+      "id": "BCE6784E27724AF3A93C9FE538617FD0",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "BA3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a truth table for a SR flip-flop",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "71F745F95EAF4E9AB9735CD76FAFDCDE": {
+      "id": "71F745F95EAF4E9AB9735CD76FAFDCDE",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "BA3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a truth table for a JK flip-flop",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "3D5A586C3099453788E14CDF14EB2829": {
+      "id": "3D5A586C3099453788E14CDF14EB2829",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "BA3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw a circuit for a SR flip-flop",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "3DC7DA9B79EA46F1B30485FB1BDE0677": {
+      "id": "3DC7DA9B79EA46F1B30485FB1BDE0677",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "BA3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw a circuit for a JK flip-flop",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "AFD6C5454EF34226B6F63EAE8DA11A35": {
+      "id": "AFD6C5454EF34226B6F63EAE8DA11A35",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "BA3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by a JK flip-flop",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "C67D8922671E46CA8928D8F052EC0571": {
+      "id": "C67D8922671E46CA8928D8F052EC0571",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "BA3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by a SR flip-flop",
+      "comments": [],
+      "ancestorIds": [
+        "695B5D20F8BD4C9884B7A080CFE3CCA8",
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "695B5D20F8BD4C9884B7A080CFE3CCA8"
+    },
+    "695B5D20F8BD4C9884B7A080CFE3CCA8": {
+      "id": "695B5D20F8BD4C9884B7A080CFE3CCA8",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "BA3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "What are flip-flops",
+      "comments": [],
+      "ancestorIds": [
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "E21F71102C1F4BAF9588F1FF81239283"
+    },
+    "51B5CF0653354DB982CF359F7594475B": {
+      "id": "51B5CF0653354DB982CF359F7594475B",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "BA2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Produce truth tables for full-adders",
+      "comments": [],
+      "ancestorIds": [
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "E21F71102C1F4BAF9588F1FF81239283"
+    },
+    "3063A1D4AA694CDF9EF4B54DBE7D54DE": {
+      "id": "3063A1D4AA694CDF9EF4B54DBE7D54DE",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "BA1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Produce truth tables for half-adders",
+      "comments": [],
+      "ancestorIds": [
+        "E21F71102C1F4BAF9588F1FF81239283",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "E21F71102C1F4BAF9588F1FF81239283"
+    },
+    "E21F71102C1F4BAF9588F1FF81239283": {
+      "id": "E21F71102C1F4BAF9588F1FF81239283",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "BA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Boolean Algebra and Logic Circuits",
+      "comments": [],
+      "ancestorIds": [
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "0CF51D7238B74064BDA60E0F93B0E744"
+    },
+    "F4150D425153420780FAB54623D8752F": {
+      "id": "F4150D425153420780FAB54623D8752F",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "PP11.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the limitations of virtual machines",
+      "comments": [],
+      "ancestorIds": [
+        "3E149FC9A2CC4F8080F1B7F43E9D0AA4",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "3E149FC9A2CC4F8080F1B7F43E9D0AA4"
+    },
+    "2E153067FAB045159C0CE379529DFFA7": {
+      "id": "2E153067FAB045159C0CE379529DFFA7",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "PP11.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits of virtual machines",
+      "comments": [],
+      "ancestorIds": [
+        "3E149FC9A2CC4F8080F1B7F43E9D0AA4",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "3E149FC9A2CC4F8080F1B7F43E9D0AA4"
+    },
+    "ED4574701794456581FBC5B237BB8247": {
+      "id": "ED4574701794456581FBC5B237BB8247",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "PP11.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is the role of virtual machines",
+      "comments": [],
+      "ancestorIds": [
+        "3E149FC9A2CC4F8080F1B7F43E9D0AA4",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "3E149FC9A2CC4F8080F1B7F43E9D0AA4"
+    },
+    "3E149FC9A2CC4F8080F1B7F43E9D0AA4": {
+      "id": "3E149FC9A2CC4F8080F1B7F43E9D0AA4",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "11",
+      "statementNotation": "PP11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "What is a virtual machine",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "C66412E6DA5043BDAADE6B13EE550309": {
+      "id": "C66412E6DA5043BDAADE6B13EE550309",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "PP10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the characteristics of massively parallel computers",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "2372BB139E1249D29B44B2B53E95055B": {
+      "id": "2372BB139E1249D29B44B2B53E95055B",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "PP9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by massively parallel computers",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "BECDF39F91794BC6BA66BD37B4259D08": {
+      "id": "BECDF39F91794BC6BA66BD37B4259D08",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "PP8.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how MIMD works",
+      "comments": [],
+      "ancestorIds": [
+        "F380E18CFE274FB08F71C58C1572BAB1",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "F380E18CFE274FB08F71C58C1572BAB1"
+    },
+    "D2A00A5876B8487B9994F78FAA8064CD": {
+      "id": "D2A00A5876B8487B9994F78FAA8064CD",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "PP8.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how MISD works",
+      "comments": [],
+      "ancestorIds": [
+        "F380E18CFE274FB08F71C58C1572BAB1",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "F380E18CFE274FB08F71C58C1572BAB1"
+    },
+    "D964EB25EB92477BB89149D5AE36509F": {
+      "id": "D964EB25EB92477BB89149D5AE36509F",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "PP8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how SIMD works",
+      "comments": [],
+      "ancestorIds": [
+        "F380E18CFE274FB08F71C58C1572BAB1",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "F380E18CFE274FB08F71C58C1572BAB1"
+    },
+    "7ECC88364CBB4E7F8B61C0D28871D79E": {
+      "id": "7ECC88364CBB4E7F8B61C0D28871D79E",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "PP8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how SISD works",
+      "comments": [],
+      "ancestorIds": [
+        "F380E18CFE274FB08F71C58C1572BAB1",
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "F380E18CFE274FB08F71C58C1572BAB1"
+    },
+    "F380E18CFE274FB08F71C58C1572BAB1": {
+      "id": "F380E18CFE274FB08F71C58C1572BAB1",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "PP8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the four basic computer architectures",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "BCB542F569884F7A9FA5A4A47C33999E": {
+      "id": "BCB542F569884F7A9FA5A4A47C33999E",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "PP7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how pipelining takes place in RISC",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "740C0346E5C241CBB5DE5C5CCA962E9C": {
+      "id": "740C0346E5C241CBB5DE5C5CCA962E9C",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "PP6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by pipelining",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "30E7FA26F1264A008DB8166F515CFF84": {
+      "id": "30E7FA26F1264A008DB8166F515CFF84",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "PP5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how interrupt handling occurs on RISC",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "08A50457019E41139D5CB7CF00D6DBE0": {
+      "id": "08A50457019E41139D5CB7CF00D6DBE0",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "PP4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how interrupt handling occurs on CISC",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "8BD6FADD29024A208C45F758E2DDBEDA": {
+      "id": "8BD6FADD29024A208C45F758E2DDBEDA",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "PP3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the differences between RISC and CISC",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "0C612E20D2244BC78DC17EABBA151623": {
+      "id": "0C612E20D2244BC78DC17EABBA151623",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "PP2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by CISC",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "AC7AF032021C4937ABDF586192723980": {
+      "id": "AC7AF032021C4937ABDF586192723980",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "PP1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by RISC",
+      "comments": [],
+      "ancestorIds": [
+        "B34DF744E2C44CEF83AD106C6E239571",
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "B34DF744E2C44CEF83AD106C6E239571"
+    },
+    "B34DF744E2C44CEF83AD106C6E239571": {
+      "id": "B34DF744E2C44CEF83AD106C6E239571",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "PP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Processors, Parallel Processing and Virtual Machines",
+      "comments": [],
+      "ancestorIds": [
+        "0CF51D7238B74064BDA60E0F93B0E744"
+      ],
+      "parentId": "0CF51D7238B74064BDA60E0F93B0E744"
+    },
+    "0CF51D7238B74064BDA60E0F93B0E744": {
+      "id": "0CF51D7238B74064BDA60E0F93B0E744",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware and Virtual Machines",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0C981772439141F8B8484341A378C6F7": {
+      "id": "0C981772439141F8B8484341A378C6F7",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "PS7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain where packet switching can be used",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "B046419109D343288F86FDA1EBDA146F": {
+      "id": "B046419109D343288F86FDA1EBDA146F",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "PS6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the drawbacks of packet switching",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "6923DAFC7C0047048E29A9C167F0C07F": {
+      "id": "6923DAFC7C0047048E29A9C167F0C07F",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "PS5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the benefits of packet switching",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "FE9BA2393A8A4FD7B72A2DF2DBBE556F": {
+      "id": "FE9BA2393A8A4FD7B72A2DF2DBBE556F",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "PS4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain where circuit switching can be used",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "9CA9360303F041F3B7146824F6251721": {
+      "id": "9CA9360303F041F3B7146824F6251721",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "PS3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the drawbacks of circuit switching",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "5E43976F54BC49BE96EE1BB4AA512D54": {
+      "id": "5E43976F54BC49BE96EE1BB4AA512D54",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "PS2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the benefits of circuit switching",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "9D8302A78CCC4113B0F6840D834E19FB": {
+      "id": "9D8302A78CCC4113B0F6840D834E19FB",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "PS1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by circuit switching",
+      "comments": [],
+      "ancestorIds": [
+        "026F063364DE4A11A2DF21A9B8885C3E",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "026F063364DE4A11A2DF21A9B8885C3E"
+    },
+    "026F063364DE4A11A2DF21A9B8885C3E": {
+      "id": "026F063364DE4A11A2DF21A9B8885C3E",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "PS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Circuit Switching, Packet Switching",
+      "comments": [],
+      "ancestorIds": [
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "646A786D28C94344A8B9EBB0507388D6"
+    },
+    "4F6861023F6041F49C80403E4D3C3457": {
+      "id": "4F6861023F6041F49C80403E4D3C3457",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "PR8.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how BitTorrent works and what it is used for",
+      "comments": [],
+      "ancestorIds": [
+        "6DE67BF943D44D23937DD25E5649BDB1",
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "6DE67BF943D44D23937DD25E5649BDB1"
+    },
+    "0156663652424976BD9327451735DC41": {
+      "id": "0156663652424976BD9327451735DC41",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "PR8.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how SMTP works and what it is used for",
+      "comments": [],
+      "ancestorIds": [
+        "6DE67BF943D44D23937DD25E5649BDB1",
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "6DE67BF943D44D23937DD25E5649BDB1"
+    },
+    "5835F5C6870E4083946D122B06C7D06B": {
+      "id": "5835F5C6870E4083946D122B06C7D06B",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "PR8.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how IMAP works and what it is used for",
+      "comments": [],
+      "ancestorIds": [
+        "6DE67BF943D44D23937DD25E5649BDB1",
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "6DE67BF943D44D23937DD25E5649BDB1"
+    },
+    "012C1CDBFE1048F2B1FFA138A3A70262": {
+      "id": "012C1CDBFE1048F2B1FFA138A3A70262",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "PR8.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how POP3 works and what it is used for",
+      "comments": [],
+      "ancestorIds": [
+        "6DE67BF943D44D23937DD25E5649BDB1",
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "6DE67BF943D44D23937DD25E5649BDB1"
+    },
+    "366737819BD743DBBE88B78FB72AFFED": {
+      "id": "366737819BD743DBBE88B78FB72AFFED",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "PR8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how FTP works and what it is used for",
+      "comments": [],
+      "ancestorIds": [
+        "6DE67BF943D44D23937DD25E5649BDB1",
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "6DE67BF943D44D23937DD25E5649BDB1"
+    },
+    "82C1DDE8F2B94E02B9DEC2063CEFDFE9": {
+      "id": "82C1DDE8F2B94E02B9DEC2063CEFDFE9",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "PR8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how HTTP works and what it is used for",
+      "comments": [],
+      "ancestorIds": [
+        "6DE67BF943D44D23937DD25E5649BDB1",
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "6DE67BF943D44D23937DD25E5649BDB1"
+    },
+    "6DE67BF943D44D23937DD25E5649BDB1": {
+      "id": "6DE67BF943D44D23937DD25E5649BDB1",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "PR8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show understanding of the different protocols",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "FF49EA11A05F43E9AF54796296604E31": {
+      "id": "FF49EA11A05F43E9AF54796296604E31",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "PR7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the different protocols on each layer of the stack",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "6FDDCB61FEF04A6291F3D4372CBB55D9": {
+      "id": "6FDDCB61FEF04A6291F3D4372CBB55D9",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "PR6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by application in regards to the TCP/IP stack",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "B0E9BC7DDED144CE8E1000071F896430": {
+      "id": "B0E9BC7DDED144CE8E1000071F896430",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "PR5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the function of each layer of the TCP/IP stack",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "1348F638FA0D4C2B91303AC02248E913": {
+      "id": "1348F638FA0D4C2B91303AC02248E913",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "PR4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of each layer of the TCP/IP stack",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "9449B2626238434B8E010827F4000902": {
+      "id": "9449B2626238434B8E010827F4000902",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "PR3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the levels of the TCP/IP stack",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "E9EDF57321E448EF8012DEF5E1321D40": {
+      "id": "E9EDF57321E448EF8012DEF5E1321D40",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "PR2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain why a protocol is needed for communication between computers",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "397BAFC684B543B7BC30EA7A68BF2333": {
+      "id": "397BAFC684B543B7BC30EA7A68BF2333",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "PR1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by a protocol",
+      "comments": [],
+      "ancestorIds": [
+        "442EEA3665794FFCBA4E6C64DEB57DF8",
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "442EEA3665794FFCBA4E6C64DEB57DF8"
+    },
+    "442EEA3665794FFCBA4E6C64DEB57DF8": {
+      "id": "442EEA3665794FFCBA4E6C64DEB57DF8",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "PR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Protocols",
+      "comments": [],
+      "ancestorIds": [
+        "646A786D28C94344A8B9EBB0507388D6"
+      ],
+      "parentId": "646A786D28C94344A8B9EBB0507388D6"
+    },
+    "646A786D28C94344A8B9EBB0507388D6": {
+      "id": "646A786D28C94344A8B9EBB0507388D6",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication and Internet Technologies",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F1AF2DFB94B64A09A22D2373F86B3294": {
+      "id": "F1AF2DFB94B64A09A22D2373F86B3294",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "FP10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show how binary representation could lead to rounding errrors",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "C785FD89ADF14081AA49C4E1B22BABF8": {
+      "id": "C785FD89ADF14081AA49C4E1B22BABF8",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "FP9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by an overflow error",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "C61AD40C84D045E6AD9BEE19CF8F299A": {
+      "id": "C61AD40C84D045E6AD9BEE19CF8F299A",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "FP8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by an underflow error",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "12806E9F1FDB412DB9BF93D0B9AF0EFD": {
+      "id": "12806E9F1FDB412DB9BF93D0B9AF0EFD",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "FP7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand why we would normalise a floating-point number",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "8BE889CFB5EE4E33967F1337AEA14B4B": {
+      "id": "8BE889CFB5EE4E33967F1337AEA14B4B",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "FP6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Normalise a floating point number",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "801B5DF5C977439D95C7C450E5B7F0D9": {
+      "id": "801B5DF5C977439D95C7C450E5B7F0D9",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "FP5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert denary into floating-point real numbers",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "8E360E01E4724E50BDFDA2C8F49494D8": {
+      "id": "8E360E01E4724E50BDFDA2C8F49494D8",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "FP4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert binary floating-point real numbers into denary",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "F0A2503B5441445DACA0EF905C9AC1EE": {
+      "id": "F0A2503B5441445DACA0EF905C9AC1EE",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "FP3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the changes of a mantissa/exponent (in terms of bits) have an impact on a floating-point representation",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "22A69B3AD08E41868655ACDDF8BEAC60": {
+      "id": "22A69B3AD08E41868655ACDDF8BEAC60",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "FP2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use 2's complement for floating point numbers",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "C2AB8FEF06FC43FDB893E15D0FA339A8": {
+      "id": "C2AB8FEF06FC43FDB893E15D0FA339A8",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "FP1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the format of binary floating point numbers",
+      "comments": [],
+      "ancestorIds": [
+        "21884B5A20FA451C8C5CC11C276227F6",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "21884B5A20FA451C8C5CC11C276227F6"
+    },
+    "21884B5A20FA451C8C5CC11C276227F6": {
+      "id": "21884B5A20FA451C8C5CC11C276227F6",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "FP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Floating-Point Numbers, Representation and Manipulation",
+      "comments": [],
+      "ancestorIds": [
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+    },
+    "67C8DC21383A4C0584E3DEA5D2C9E02A": {
+      "id": "67C8DC21383A4C0584E3DEA5D2C9E02A",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "12",
+      "statementNotation": "FO12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how different hashing algorithms read an write to random/sequential files",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "E540024499A04F66A797642CB1DF4AD5": {
+      "id": "E540024499A04F66A797642CB1DF4AD5",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "11",
+      "statementNotation": "FO11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by hashing algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "96CDE677CFCB45C8A7B0CF04B61DDF1C": {
+      "id": "96CDE677CFCB45C8A7B0CF04B61DDF1C",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "FO10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how direct access works for sequential and random files",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "458C8EB3425D4D36B3E20268D69AA9BE": {
+      "id": "458C8EB3425D4D36B3E20268D69AA9BE",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "FO9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how sequential access works for serial and sequential files",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "BBC8448C30E540F18FFE9F9D25FC6F75": {
+      "id": "BBC8448C30E540F18FFE9F9D25FC6F75",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "FO8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the disadvantages of the different types of file access",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "808FCC78B976476A85B0F43BF4344CB8": {
+      "id": "808FCC78B976476A85B0F43BF4344CB8",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "FO7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the advantages of the different types of file access",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "853FCB2162D449C5B9480FA528F16E5F": {
+      "id": "853FCB2162D449C5B9480FA528F16E5F",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "FO6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the different types of file access",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "2227AB9DAEB34A6EB26D52A58AA1ED8C": {
+      "id": "2227AB9DAEB34A6EB26D52A58AA1ED8C",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "FO5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by file access",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "7BA12F4F12E74495A876D8C6B05A918C": {
+      "id": "7BA12F4F12E74495A876D8C6B05A918C",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "FO4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the disadvantages of the different types of file organisation",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "F87B6A3D3A804869B6F718B6F286013E": {
+      "id": "F87B6A3D3A804869B6F718B6F286013E",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "FO3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the advantages of the different types of file organisation",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "B37F82AC0631407AAF9DC4036BCA3A25": {
+      "id": "B37F82AC0631407AAF9DC4036BCA3A25",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "FO2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the different types of file organisation",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "F031B64B635F46EFAEB92F12008DDEEF": {
+      "id": "F031B64B635F46EFAEB92F12008DDEEF",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "FO1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by file organisation",
+      "comments": [],
+      "ancestorIds": [
+        "2CC2950BDA404EEF84D65F05E3E96A3A",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "2CC2950BDA404EEF84D65F05E3E96A3A"
+    },
+    "2CC2950BDA404EEF84D65F05E3E96A3A": {
+      "id": "2CC2950BDA404EEF84D65F05E3E96A3A",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "FO",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "File Organisation and Access",
+      "comments": [],
+      "ancestorIds": [
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+    },
+    "090D79880F34498CA6CB49060FE350C0": {
+      "id": "090D79880F34498CA6CB49060FE350C0",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "DT9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create your own user defined data type to solve a problem",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "E3893BD7AC7F465FAD69303C696842AC": {
+      "id": "E3893BD7AC7F465FAD69303C696842AC",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "DT8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use composite data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "E5E5EF44E102451F9CCBB0FE699B7BE1": {
+      "id": "E5E5EF44E102451F9CCBB0FE699B7BE1",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "DT7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use non-composite data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "EBB7FAEB96BA4BFDADA7854C48B32EA8": {
+      "id": "EBB7FAEB96BA4BFDADA7854C48B32EA8",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "DT6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Give examples of composite data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "63DF67F0DD574E2F8E8851C080B62554": {
+      "id": "63DF67F0DD574E2F8E8851C080B62554",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "DT5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Give examples of non-composite data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "8DEF89AFA96E4C3E8CF94945AA28BF66": {
+      "id": "8DEF89AFA96E4C3E8CF94945AA28BF66",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "DT4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by composite data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "FCCD5110831A4CE693025F480119399E": {
+      "id": "FCCD5110831A4CE693025F480119399E",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "DT3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by non-composite data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "6A23CEECD975436CAF75C558B4D1C35D": {
+      "id": "6A23CEECD975436CAF75C558B4D1C35D",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "DT2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the purpose of user-defined data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "0485FD1331E949DF8B53E9133EA7B5A3": {
+      "id": "0485FD1331E949DF8B53E9133EA7B5A3",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "DT1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State what is meant by user defined data types",
+      "comments": [],
+      "ancestorIds": [
+        "C495C3D041CA40AEAC9218775E230699",
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "C495C3D041CA40AEAC9218775E230699"
+    },
+    "C495C3D041CA40AEAC9218775E230699": {
+      "id": "C495C3D041CA40AEAC9218775E230699",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "DT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "User Defined Data Types",
+      "comments": [],
+      "ancestorIds": [
+        "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+      ],
+      "parentId": "77A7CF7B9ECC4EC8903FD222DF5B65C6"
+    },
+    "77A7CF7B9ECC4EC8903FD222DF5B65C6": {
+      "id": "77A7CF7B9ECC4EC8903FD222DF5B65C6",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Representation",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,994 @@
+{
+  "id": "FCE3699E1EF54E64A2098D4DF8F9AACF",
+  "title": "STEM I: Foundations (2021): Grade 9",
+  "subject": "CTE (2020-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "STEM I: Foundations",
+    "sourceURL": "https://www.tn.gov/education/educators/career-and-technical-education/career-clusters/cte-cluster-stem.html"
+  },
+  "jurisdiction": {
+    "id": "180878796A3C448D808F38BCCCFD26CF",
+    "title": "Tennessee"
+  },
+  "standards": {
+    "FB1A9C747FBB436AAC92A5CA4984A8F9": {
+      "id": "FB1A9C747FBB436AAC92A5CA4984A8F9",
+      "asnIdentifier": null,
+      "position": 1058,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "19.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Police frequently use mathematics in the analysis of crime data. Data can be stored and\ninterpreted using wavelets, probability, and statistics. It can be securely transmitted using\nprime numbers and cryptography. (Mathematics/Technology) ",
+      "comments": [],
+      "ancestorIds": [
+        "0C7D6DB3B2F0459DACC5BBE54096A67C",
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "0C7D6DB3B2F0459DACC5BBE54096A67C"
+    },
+    "BDA16972E635494C8C38C0F08AD281C8": {
+      "id": "BDA16972E635494C8C38C0F08AD281C8",
+      "asnIdentifier": null,
+      "position": 1057,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "19.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Forensic scientists collect, identify, classify, and analyze physical evidence related to\ncriminal investigations. They perform tests on weapons or substances, such as fiber, hair,\nand tissue, to determine significance to the investigation. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "0C7D6DB3B2F0459DACC5BBE54096A67C",
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "0C7D6DB3B2F0459DACC5BBE54096A67C"
+    },
+    "0C7D6DB3B2F0459DACC5BBE54096A67C": {
+      "id": "0C7D6DB3B2F0459DACC5BBE54096A67C",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 1,
+      "listId": "19",
+      "statementNotation": "19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze data from scientific investigation or prototype testing and accurately identify the cause of\nthe results. Examine constraints including cost, safety, reliability, and aesthetics. Consider social,\ncultural, and environmental impacts. Summarize findings using tables, functions, graphical\nrepresentations, and written explanations.",
+      "comments": [],
+      "ancestorIds": [
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "B2A68EA7C220432E8A1E6628D663951A"
+    },
+    "0D68F69F3B3C47DCB04830F416B6B545": {
+      "id": "0D68F69F3B3C47DCB04830F416B6B545",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "18.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Civil engineers and civil drafters use the computer as a problem-solving tool. They\nidentify locations of forces (tension, compression, torsion, shear, and resonance) in their\nbridge designs. Investigate the use of software to make modifications to multiple\nproperties and gain immediate access to cost analysis and forces data.\n(Engineering/Technology)",
+      "comments": [],
+      "ancestorIds": [
+        "FD4912732F4C430D9AC347F4EFB566C1",
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "FD4912732F4C430D9AC347F4EFB566C1"
+    },
+    "252E6413A7D74753B14B5EC21E892691": {
+      "id": "252E6413A7D74753B14B5EC21E892691",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "18.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Meteorologists interpret data, reports, maps, photographs, or charts to predict long- or\nshort-range weather conditions, using computer models and knowledge of climate\ntheory, physics, and mathematics. Investigate the use of mathematical or computer\nmodels for weather forecasting. (Science)",
+      "comments": [],
+      "ancestorIds": [
+        "FD4912732F4C430D9AC347F4EFB566C1",
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "FD4912732F4C430D9AC347F4EFB566C1"
+    },
+    "FD4912732F4C430D9AC347F4EFB566C1": {
+      "id": "FD4912732F4C430D9AC347F4EFB566C1",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 1,
+      "listId": "18",
+      "statementNotation": "18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore mathematical models and/or computer simulations that are used by scientists and\nengineers to accurately predict the effect of components of their original prototype design.\nExamine a range of resources (e.g. texts, experiments, simulations) to consider which models are\nlikely to be most efficient, economic, and beneficial. Write a justification to support the\nconclusion. ",
+      "comments": [],
+      "ancestorIds": [
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "B2A68EA7C220432E8A1E6628D663951A"
+    },
+    "B9ABE90C60A34528B0953A39B066A575": {
+      "id": "B9ABE90C60A34528B0953A39B066A575",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "17.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply standardized mathematical formulas, principles, and methodology to the solution\nof technological problems involving projectiles as a mathematical technician would. Use\ncomputer software to analyze the critical aspects of parabolic motion, for example: height\nat any given time, maximum height, maximum distance. (Technology/Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "55AADBF8BBA642958151DF1046F6CCC0",
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "55AADBF8BBA642958151DF1046F6CCC0"
+    },
+    "8468B5B15B2B486A9202E5DBEBC692B2": {
+      "id": "8468B5B15B2B486A9202E5DBEBC692B2",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "17.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Aerospace engineers perform engineering duties in designing, constructing, and testing\naircraft, missiles, and spacecraft. They conduct basic and applied research to evaluate\nadaptability of materials and equipment to aircraft design and manufacture, and\nrecommend improvements in testing equipment and techniques. For example, variations\nin the nose and fins will result in different behaviors, so construction and testing of\nmultiple designs is necessary. (Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "55AADBF8BBA642958151DF1046F6CCC0",
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "55AADBF8BBA642958151DF1046F6CCC0"
+    },
+    "55AADBF8BBA642958151DF1046F6CCC0": {
+      "id": "55AADBF8BBA642958151DF1046F6CCC0",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 1,
+      "listId": "17",
+      "statementNotation": "17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze multiple aspects of a problem scenario to identify cause/effect patterns. Consider the\nhistory of a problem to identify factors such as risks and benefits.",
+      "comments": [],
+      "ancestorIds": [
+        "B2A68EA7C220432E8A1E6628D663951A"
+      ],
+      "parentId": "B2A68EA7C220432E8A1E6628D663951A"
+    },
+    "B2A68EA7C220432E8A1E6628D663951A": {
+      "id": "B2A68EA7C220432E8A1E6628D663951A",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cause and Effect Relationships in STEM",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A36ADF1626C84617A8285A01991C3495": {
+      "id": "A36ADF1626C84617A8285A01991C3495",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "16.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Aerospace engineers test a drag device to slow a spacecraft and protect its cargo, as well\nas calculate the surface area and measure the mass of the spacecraft.\n(Science/Mathematics) ",
+      "comments": [],
+      "ancestorIds": [
+        "983F020D68BE480CBB99DD30A11052F8",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "983F020D68BE480CBB99DD30A11052F8"
+    },
+    "32B2525A4A164B7EAB3B3F68F91B2FDD": {
+      "id": "32B2525A4A164B7EAB3B3F68F91B2FDD",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "16.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Biomedical scientists and biomedical engineers design and construct prototype implants\nto fill and stabilize a partial bone defect. (Science)",
+      "comments": [],
+      "ancestorIds": [
+        "983F020D68BE480CBB99DD30A11052F8",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "983F020D68BE480CBB99DD30A11052F8"
+    },
+    "983F020D68BE480CBB99DD30A11052F8": {
+      "id": "983F020D68BE480CBB99DD30A11052F8",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 1,
+      "listId": "16",
+      "statementNotation": "16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use available data to create an original prototype/solution to a scenario. ",
+      "comments": [],
+      "ancestorIds": [
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "E94A55F6386D4E4686E5A3264489C654"
+    },
+    "C3E363404B2C4FCAAA5CA83DF766B5C2": {
+      "id": "C3E363404B2C4FCAAA5CA83DF766B5C2",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "15.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineers collect data such as ease of use, operation safety, material properties, and\nmaterial costs in order to determine an optimal design solution from multiple ideas. ",
+      "comments": [],
+      "ancestorIds": [
+        "63531CD10CDB415C8C62090AD4F603BB",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "63531CD10CDB415C8C62090AD4F603BB"
+    },
+    "242A01F5FA3049D6A7B95A37074F5BD7": {
+      "id": "242A01F5FA3049D6A7B95A37074F5BD7",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "15.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Statisticians analyze outcomes such as employment and educational attainment by\nidentifying data sources, such as public data sets available from the Census Bureau, or\ncollecting original data from the field, in order to model relationships among variables.",
+      "comments": [],
+      "ancestorIds": [
+        "63531CD10CDB415C8C62090AD4F603BB",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "63531CD10CDB415C8C62090AD4F603BB"
+    },
+    "63531CD10CDB415C8C62090AD4F603BB": {
+      "id": "63531CD10CDB415C8C62090AD4F603BB",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 1,
+      "listId": "15",
+      "statementNotation": "15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify multiple forms of data and list mechanisms for collection that are essential to solving a\nproblem. Prepare written documentation to justify findings.",
+      "comments": [],
+      "ancestorIds": [
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "E94A55F6386D4E4686E5A3264489C654"
+    },
+    "2CD860CA92F14791B15BC39AC7A2A265": {
+      "id": "2CD860CA92F14791B15BC39AC7A2A265",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "14.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Economists study economic and statistical data in various areas of specialization,\nsuch as finance, labor, or agriculture. They also compile, analyze, and report data to\nexplain economic phenomena and forecast market trends, applying mathematical models\nand statistical techniques. (Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "B032BF45B1534C9B856FFD1043C9AA25",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "B032BF45B1534C9B856FFD1043C9AA25"
+    },
+    "51E58253A42A4A2582EE0C71030ECD57": {
+      "id": "51E58253A42A4A2582EE0C71030ECD57",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "14.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Aerospace engineers identify information by categorizing, estimating, recognizing\ndifferences or similarities, and detecting changes in circumstances or events. They are\nalso expected to evaluate product data and design from inspections and reports for\nconformance to engineering principles, customer requirements, and quality standards.\n(Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "B032BF45B1534C9B856FFD1043C9AA25",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "B032BF45B1534C9B856FFD1043C9AA25"
+    },
+    "79FB9BB716AF43F8B3436F3A827F0F9E": {
+      "id": "79FB9BB716AF43F8B3436F3A827F0F9E",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "14.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Environmental scientists collect, synthesize, analyze, manage, and report environmental\ndata, such as pollution emission measurements, atmospheric monitoring measurements,\nmeteorological or mineralogical information, and soil or water samples. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "B032BF45B1534C9B856FFD1043C9AA25",
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "B032BF45B1534C9B856FFD1043C9AA25"
+    },
+    "B032BF45B1534C9B856FFD1043C9AA25": {
+      "id": "B032BF45B1534C9B856FFD1043C9AA25",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 1,
+      "listId": "14",
+      "statementNotation": "14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sort and evaluate data for its significance and/or meaning in the process of solving a problem as\na STEM professional would. Examine the data in ways that reveal the relationships, patterns, and\ntrends that can be found within it. Differentiate between quantitative and qualitative data. For\nexample: ",
+      "comments": [],
+      "ancestorIds": [
+        "E94A55F6386D4E4686E5A3264489C654"
+      ],
+      "parentId": "E94A55F6386D4E4686E5A3264489C654"
+    },
+    "E94A55F6386D4E4686E5A3264489C654": {
+      "id": "E94A55F6386D4E4686E5A3264489C654",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "STEM Field Readiness",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "73BB6E32E2B84224BE5ED6EBED22FB25": {
+      "id": "73BB6E32E2B84224BE5ED6EBED22FB25",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "13.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Statisticians work on projects related to national and international debt, the global\npopulation, or workforce imbalances and lack of jobs worldwide. (Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "1E5230ACA688473DBDDC5EB6917865E5",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "1E5230ACA688473DBDDC5EB6917865E5"
+    },
+    "74A2B67092594A49A25FF01C5F9A9103": {
+      "id": "74A2B67092594A49A25FF01C5F9A9103",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "13.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engineers work to address issues related to climate change and global warming, global\nwater shortages, and the need for alternative energy sources. (Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "1E5230ACA688473DBDDC5EB6917865E5",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "1E5230ACA688473DBDDC5EB6917865E5"
+    },
+    "BA16C3AF6C2842F2AABB26C1C742134F": {
+      "id": "BA16C3AF6C2842F2AABB26C1C742134F",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "13.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Scientists work to address the threat of a global pandemic or issues related to food\nsecurity. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "1E5230ACA688473DBDDC5EB6917865E5",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "1E5230ACA688473DBDDC5EB6917865E5"
+    },
+    "1E5230ACA688473DBDDC5EB6917865E5": {
+      "id": "1E5230ACA688473DBDDC5EB6917865E5",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 1,
+      "listId": "13",
+      "statementNotation": "13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conduct research to create a list of problems that are considered major global challenges. Choose\none to analyze. Evaluate possible solutions, aligning work with the steps of the scientific method\nor the engineering design process. Consider possible constraints, including cost, safety, reliability,\nand aesthetics, as well as possible social, cultural, and environmental impacts. Identify trade-offs\nand defend decisions that were made as a result of those trade-offs. Possible global challenges\ncould include the following: ",
+      "comments": [],
+      "ancestorIds": [
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "C9E8CC8036354A358D693CD4204EA138"
+    },
+    "FD42331DCEA64948BE0D150420B26C50": {
+      "id": "FD42331DCEA64948BE0D150420B26C50",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "12.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A scenario that requires calculation of an investment of an inheritance so that its growth\nis maximized by a certain time. (Mathematics) ",
+      "comments": [],
+      "ancestorIds": [
+        "34BC7CAA9BC048A58E58D2045DB7E558",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "34BC7CAA9BC048A58E58D2045DB7E558"
+    },
+    "BA8CC66E51D84566AB889E240AA77A2E": {
+      "id": "BA8CC66E51D84566AB889E240AA77A2E",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "12.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A scenario that requires the design of a self-sustaining city for humans living on another\nplanet. (Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "34BC7CAA9BC048A58E58D2045DB7E558",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "34BC7CAA9BC048A58E58D2045DB7E558"
+    },
+    "7BD6B26C85014403AC04F8D00CA655BA": {
+      "id": "7BD6B26C85014403AC04F8D00CA655BA",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "12.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "A scenario to diagnosis and identify a method of treatment for an illness based on several\nphysical symptoms. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "34BC7CAA9BC048A58E58D2045DB7E558",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "34BC7CAA9BC048A58E58D2045DB7E558"
+    },
+    "34BC7CAA9BC048A58E58D2045DB7E558": {
+      "id": "34BC7CAA9BC048A58E58D2045DB7E558",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "12",
+      "statementNotation": "12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collaborate to write a fictional, yet plausible, STEM problem-based scenario. Evaluate possible\nsolutions, aligning work with the steps of the scientific method or the engineering design process.\nConsider possible constraints, including cost, safety, reliability, and aesthetics, as well as possible\nsocial, cultural, and environmental impacts. Sample scenarios might include the following:",
+      "comments": [],
+      "ancestorIds": [
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "C9E8CC8036354A358D693CD4204EA138"
+    },
+    "E26D2FAABF44470D9213A55FAA43F546": {
+      "id": "E26D2FAABF44470D9213A55FAA43F546",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "11.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and construct a robot to maneuver through a given obstacle course. Use\ncircumference of the wheels and distance needed to travel to calculate how many\nrotations the wheels need to make. Justify the solution selected for the robot to\nmaneuver most efficiently through the course. (Technology/Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "8A11A7793B2A4DD9850730AADCE30E09",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "8A11A7793B2A4DD9850730AADCE30E09"
+    },
+    "1A5233D66181480C8EDD6763736F2EBF": {
+      "id": "1A5233D66181480C8EDD6763736F2EBF",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "11.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using readily available, low cost materials, design a water filter in a soda bottle that lets\nas much water through as possible, but also removes as much particulate matter as\npossible as would a civil engineer. (Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "8A11A7793B2A4DD9850730AADCE30E09",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "8A11A7793B2A4DD9850730AADCE30E09"
+    },
+    "F6B47BC8E8394D5A9A9CB9D269930D79": {
+      "id": "F6B47BC8E8394D5A9A9CB9D269930D79",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "11.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a construction set to efficiently build a vehicle at low cost, and to travel a straight\npath with predictability. (Science)",
+      "comments": [],
+      "ancestorIds": [
+        "8A11A7793B2A4DD9850730AADCE30E09",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "8A11A7793B2A4DD9850730AADCE30E09"
+    },
+    "8A11A7793B2A4DD9850730AADCE30E09": {
+      "id": "8A11A7793B2A4DD9850730AADCE30E09",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and develop several solution prototypes, conduct feasibility testing, and use the data to\njustify the solution selected. For example: ",
+      "comments": [],
+      "ancestorIds": [
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "C9E8CC8036354A358D693CD4204EA138"
+    },
+    "ABCDE03C86914177B3C20A0765C169AA": {
+      "id": "ABCDE03C86914177B3C20A0765C169AA",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "10.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Robots need to be programmed to perform specific tasks in harsh working conditions\nsuch as welding parts in an automobile assembly line operation. Compare and contrast\nthe pros and cons of using robots versus humans in a manufacturing facility.\n(Technology/Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "2E76D134B8134D69B4F77788B25F51C4",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "2E76D134B8134D69B4F77788B25F51C4"
+    },
+    "CD09F28E37414D28B516C3711296EF18": {
+      "id": "CD09F28E37414D28B516C3711296EF18",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "10.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The organization Engineers Without Borders implements projects worldwide to provide\nclean drinking water to developing nations. Identify the conditions and information\ncollected in order to provide a sustainable water source to a rural farming community.\n(Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "2E76D134B8134D69B4F77788B25F51C4",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "2E76D134B8134D69B4F77788B25F51C4"
+    },
+    "7D0213EF862F4C2DB0F3440E699580DD": {
+      "id": "7D0213EF862F4C2DB0F3440E699580DD",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "10.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Environmental scientists perform tests on the quality of water in oceans, lakes, beaches,\nponds, rivers, etc. Compare and contrast the pros and cons of using a satellite to provide\nreal time data of water conditions in order to determine its validity as a resource for\nenvironmental engineers. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "2E76D134B8134D69B4F77788B25F51C4",
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "2E76D134B8134D69B4F77788B25F51C4"
+    },
+    "2E76D134B8134D69B4F77788B25F51C4": {
+      "id": "2E76D134B8134D69B4F77788B25F51C4",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a real-world STEM scenario, identify the problem and develop meaningful questions.\nDifferentiate between necessary and non-essential information as well as needs and wants for\napplying the scientific method of investigation or the engineering design process. For example,\nevaluate a STEM scenario related to one of the following:",
+      "comments": [],
+      "ancestorIds": [
+        "C9E8CC8036354A358D693CD4204EA138"
+      ],
+      "parentId": "C9E8CC8036354A358D693CD4204EA138"
+    },
+    "C9E8CC8036354A358D693CD4204EA138": {
+      "id": "C9E8CC8036354A358D693CD4204EA138",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critical Thinking in Context",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F27A83AF862F46FF9B72131135C81598": {
+      "id": "F27A83AF862F46FF9B72131135C81598",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "9.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Investigate the development and use of models such as diagrams, simulations, graphs,\nand equations to represent findings from either science or engineering research. Critique\nothers' proposals by providing specific arguments for or against their reasoning and\nmethodology as would a statistician. (Technology/Mathematics) ",
+      "comments": [],
+      "ancestorIds": [
+        "7419DE5A5A974CF8845A0F17D9C3619E",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "7419DE5A5A974CF8845A0F17D9C3619E"
+    },
+    "6D745046AEB942C58F54D08B3AD597FE": {
+      "id": "6D745046AEB942C58F54D08B3AD597FE",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "9.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research ways a chemical engineer performs tests and monitors performance of\nprocesses throughout the stages of production for manufacturing chemicals and\nproducts such as gasoline, synthetic rubber, plastics, detergents, cement, paper, and pulp.\nSubmit a proposal for which one most effectively uses the design process in terms of\nfactors like mixing, crushing, heat transfer, distillation, and drying.\n(Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "7419DE5A5A974CF8845A0F17D9C3619E",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "7419DE5A5A974CF8845A0F17D9C3619E"
+    },
+    "6FA3F8B7C0CB4F67907915618BAD5D4B": {
+      "id": "6FA3F8B7C0CB4F67907915618BAD5D4B",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "9.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research types of prosthetics and submit a proposal for which one most effectively uses\nthe design process in terms of feasibility, cost, safety, aesthetics, and durability like a\nbiomedical engineer. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "7419DE5A5A974CF8845A0F17D9C3619E",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "7419DE5A5A974CF8845A0F17D9C3619E"
+    },
+    "7419DE5A5A974CF8845A0F17D9C3619E": {
+      "id": "7419DE5A5A974CF8845A0F17D9C3619E",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze solutions to a real-world problem collaboratively, to identify critical factors of the steps of\nthe design process. Explain why these factors are critical. For example:",
+      "comments": [],
+      "ancestorIds": [
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "74A12A888ED14E518AD3E2824B3FADD0"
+    },
+    "2557478C9490485B97B8EF15D66D11B8": {
+      "id": "2557478C9490485B97B8EF15D66D11B8",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "8.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore commonly used methods to safeguard computer files against accidental or\nunauthorized alteration, destruction, or disclosure as would an information security\nanalyst. (Technology/Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "5C913AB1DCC342599922AA89A5DA98A7",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "5C913AB1DCC342599922AA89A5DA98A7"
+    },
+    "B2A35109BF84459F846BF5B37DD07CE0": {
+      "id": "B2A35109BF84459F846BF5B37DD07CE0",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "8.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Investigate a variety of materials suitable for building structures to withstand earthquakes\nas would a civil engineer. (Technology/Engineering) ",
+      "comments": [],
+      "ancestorIds": [
+        "5C913AB1DCC342599922AA89A5DA98A7",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "5C913AB1DCC342599922AA89A5DA98A7"
+    },
+    "6F74ADD5905249D08054879F35B5DD26": {
+      "id": "6F74ADD5905249D08054879F35B5DD26",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "8.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research several treatment plans for a severe allergy sufferer as would a biochemist or\nbiophysicist. (Science) ",
+      "comments": [],
+      "ancestorIds": [
+        "5C913AB1DCC342599922AA89A5DA98A7",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "5C913AB1DCC342599922AA89A5DA98A7"
+    },
+    "5C913AB1DCC342599922AA89A5DA98A7": {
+      "id": "5C913AB1DCC342599922AA89A5DA98A7",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a real-world problem, identify several possible solutions using both the engineering design\nprocess and the scientific inquiry. For example:",
+      "comments": [],
+      "ancestorIds": [
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "74A12A888ED14E518AD3E2824B3FADD0"
+    },
+    "C92E5D6653FA47ACBC5E2355F6CC1B57": {
+      "id": "C92E5D6653FA47ACBC5E2355F6CC1B57",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "7.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine what information an actuary would need to know in order to answer a\nresearch question about which factors (accident, sickness, disability, etc.) are contributing\nthe most to medical insurance claims in a region. (Mathematics)",
+      "comments": [],
+      "ancestorIds": [
+        "97DD41B9620B47D39CE79AB569422C1E",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "97DD41B9620B47D39CE79AB569422C1E"
+    },
+    "C799CF67D15E4A688DB14EE7F8193A5E": {
+      "id": "C799CF67D15E4A688DB14EE7F8193A5E",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "7.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the information necessary in order to design a vehicle to carry a specified\npayload a designated distance in the least amount of time like a mechanical engineer.\n(Technology/Engineering)",
+      "comments": [],
+      "ancestorIds": [
+        "97DD41B9620B47D39CE79AB569422C1E",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "97DD41B9620B47D39CE79AB569422C1E"
+    },
+    "DD5EEE8B06B14CC5810B2BC106474D48": {
+      "id": "DD5EEE8B06B14CC5810B2BC106474D48",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "7.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a set of symptoms, determine whether there is enough data to diagnose a medical\ncondition as would a physician or nurse practitioner. (Science)",
+      "comments": [],
+      "ancestorIds": [
+        "97DD41B9620B47D39CE79AB569422C1E",
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "97DD41B9620B47D39CE79AB569422C1E"
+    },
+    "97DD41B9620B47D39CE79AB569422C1E": {
+      "id": "97DD41B9620B47D39CE79AB569422C1E",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate a question to determine if it is testable and can produce empirical data. Plan an\ninvestigation that outlines the steps of the design process to collect, record, analyze, and evaluate\ndata. For example:",
+      "comments": [],
+      "ancestorIds": [
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "74A12A888ED14E518AD3E2824B3FADD0"
+    },
+    "BA5985B085A349ED8DA17FAF627693E6": {
+      "id": "BA5985B085A349ED8DA17FAF627693E6",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research the terms engineering design and scientific inquiry. Compare and contrast the steps of\nthe engineering design process to the steps of the scientific inquiry in a graphic illustration or\npresentation. ",
+      "comments": [],
+      "ancestorIds": [
+        "74A12A888ED14E518AD3E2824B3FADD0"
+      ],
+      "parentId": "74A12A888ED14E518AD3E2824B3FADD0"
+    },
+    "74A12A888ED14E518AD3E2824B3FADD0": {
+      "id": "74A12A888ED14E518AD3E2824B3FADD0",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Problem-Resolution Skills",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E99F013E07C54097B761BF87DA619BB6": {
+      "id": "E99F013E07C54097B761BF87DA619BB6",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Investigate an assortment of skills and education required for STEM professionals. Write an\ninformative text that identifies the typical educational and certification requirements, working\nenvironments, and career opportunities for these occupations. For example, participate in an\ninformation-gathering tour of a local organization that uses computer-aided design, and report\non the roles and responsibilities of STEM professionals on staff, including the kinds of software\nand equipment they use. ",
+      "comments": [],
+      "ancestorIds": [
+        "4FE22251886E487CA93E1BE6B1C5D340"
+      ],
+      "parentId": "4FE22251886E487CA93E1BE6B1C5D340"
+    },
+    "A7B47813DE5F443A9DC9B394740294DD": {
+      "id": "A7B47813DE5F443A9DC9B394740294DD",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore several occupations within the STEM field (such as manufacturing, computer\nscience/programming, aviation, forensics, health science, engineering, transportation/ distribution\n& logistics, actuarial science) and describe the many sources and types of information that these\noccupations use. Determine how various industries employ different kinds of data to meet their\nneeds. ",
+      "comments": [],
+      "ancestorIds": [
+        "4FE22251886E487CA93E1BE6B1C5D340"
+      ],
+      "parentId": "4FE22251886E487CA93E1BE6B1C5D340"
+    },
+    "F829867E164D4434A828EA75B5E37D69": {
+      "id": "F829867E164D4434A828EA75B5E37D69",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research the history of science, math, and engineering related to technology. Examine how these\ntechnologies have evolved, and evaluate their influence on present-day society, citing specific\ntextual evidence from news articles and scholarly journals. ",
+      "comments": [],
+      "ancestorIds": [
+        "4FE22251886E487CA93E1BE6B1C5D340"
+      ],
+      "parentId": "4FE22251886E487CA93E1BE6B1C5D340"
+    },
+    "4FE22251886E487CA93E1BE6B1C5D340": {
+      "id": "4FE22251886E487CA93E1BE6B1C5D340",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "STEM Fields Exploration",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2463A667D9DE47AE942B7E4034877D95": {
+      "id": "2463A667D9DE47AE942B7E4034877D95",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and explain the intended use of safety equipment available in the classroom. For example,\ndemonstrate how to properly inspect, use, and maintain safe operating procedures with tools and\nequipment. Incorporate safety procedures and complete safety test with 100 percent accuracy. ",
+      "comments": [],
+      "ancestorIds": [
+        "346CE0D68C744CC9A3099241D812523B"
+      ],
+      "parentId": "346CE0D68C744CC9A3099241D812523B"
+    },
+    "A83256C6ED3348129F0ABF36FD14B878": {
+      "id": "A83256C6ED3348129F0ABF36FD14B878",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Accurately read and interpret safety rules, including but not limited to rules published by the\nNational Science Teachers Association (NSTA), rules pertaining to electrical safety, Occupational\nSafety and Health Administration (OSHA) guidelines, and state and national code requirements.\nBe able to distinguish between the rules and explain why certain rules apply. ",
+      "comments": [],
+      "ancestorIds": [
+        "346CE0D68C744CC9A3099241D812523B"
+      ],
+      "parentId": "346CE0D68C744CC9A3099241D812523B"
+    },
+    "346CE0D68C744CC9A3099241D812523B": {
+      "id": "346CE0D68C744CC9A3099241D812523B",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Safety",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

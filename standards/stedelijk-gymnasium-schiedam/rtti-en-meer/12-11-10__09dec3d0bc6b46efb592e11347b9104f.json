@@ -1,0 +1,446 @@
+{
+  "id": "09DEC3D0BC6B46EFB592E11347B9104F",
+  "title": "Onderbouw",
+  "subject": "RTTI en meer",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12",
+    "11",
+    "10"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Mezelf en het RTTI",
+    "sourceURL": "https://www.rttionline.nl/"
+  },
+  "jurisdiction": {
+    "id": "21E30CDB6CFB435EAB4D6D0EB724AFC5",
+    "title": "Stedelijk Gymnasium Schiedam"
+  },
+  "standards": {
+    "DE92D75F92AB491CA3A2396E05D74C36": {
+      "id": "DE92D75F92AB491CA3A2396E05D74C36",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "D2",
+      "statementNotation": "InMe",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inzicht-Methode: Er zijn wel meerdere kenniselementen gegeven, maar de manier hoe die te gebruiken niet.",
+      "comments": [],
+      "ancestorIds": [
+        "4FDEC65ABC9F43A5B5ADD1DB9AB4ED63"
+      ],
+      "parentId": "4FDEC65ABC9F43A5B5ADD1DB9AB4ED63"
+    },
+    "754128D013594B5CA2B78040C1659350": {
+      "id": "754128D013594B5CA2B78040C1659350",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "D1",
+      "statementNotation": "InKe",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inzicht-Kennis: Er zijn meerdere onbekende kenniselementen nodig, maar de manier waarop is wel duidelijk.",
+      "comments": [],
+      "ancestorIds": [
+        "4FDEC65ABC9F43A5B5ADD1DB9AB4ED63"
+      ],
+      "parentId": "4FDEC65ABC9F43A5B5ADD1DB9AB4ED63"
+    },
+    "4FDEC65ABC9F43A5B5ADD1DB9AB4ED63": {
+      "id": "4FDEC65ABC9F43A5B5ADD1DB9AB4ED63",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 0,
+      "listId": "D",
+      "statementNotation": "In",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inzicht: het combineren van meerdere niet aangegeven kenniselementen en/of het gebruik van meerdere aangegeven kenniselementen op een niet aangegeven methode.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9EF47EA632CF406A96FA659C53CDAB6F": {
+      "id": "9EF47EA632CF406A96FA659C53CDAB6F",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "C3b",
+      "statementNotation": "T2LeOp",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Les-Opgave: Over de toe te passen kennis, in een andere context, is een opgave gemaakt.",
+      "comments": [],
+      "ancestorIds": [
+        "32628C31AD814D48AE214EC3F52126C8",
+        "5322EE867F1E4CABB20C5E5F89833012"
+      ],
+      "parentId": "32628C31AD814D48AE214EC3F52126C8"
+    },
+    "2A952A255ED94040BE7CF9D3B38D6FF8": {
+      "id": "2A952A255ED94040BE7CF9D3B38D6FF8",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "C3a",
+      "statementNotation": "T2LeVi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Les-Video: Over de toe te passen kennis, niet de context,  is een video laten zien in de les",
+      "comments": [],
+      "ancestorIds": [
+        "32628C31AD814D48AE214EC3F52126C8",
+        "5322EE867F1E4CABB20C5E5F89833012"
+      ],
+      "parentId": "32628C31AD814D48AE214EC3F52126C8"
+    },
+    "32628C31AD814D48AE214EC3F52126C8": {
+      "id": "32628C31AD814D48AE214EC3F52126C8",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "C3",
+      "statementNotation": "T2Le",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Les: Over de toepassing van de kennis is in de les verteld, maar niet in de context van de vraag.",
+      "comments": [],
+      "ancestorIds": [
+        "5322EE867F1E4CABB20C5E5F89833012"
+      ],
+      "parentId": "5322EE867F1E4CABB20C5E5F89833012"
+    },
+    "FAA943EC6B5D4054ABAC371B417F0581": {
+      "id": "FAA943EC6B5D4054ABAC371B417F0581",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "C2",
+      "statementNotation": "T2Aa",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Aantekening: Over de toe te passen kennis is een aantekening gegeven, maar zonder de context. ",
+      "comments": [],
+      "ancestorIds": [
+        "5322EE867F1E4CABB20C5E5F89833012"
+      ],
+      "parentId": "5322EE867F1E4CABB20C5E5F89833012"
+    },
+    "715C4C8BD3AB4BD589CB1FB09DE5E28F": {
+      "id": "715C4C8BD3AB4BD589CB1FB09DE5E28F",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "C1a",
+      "statementNotation": "T2BoKa",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Boek: De toe te passen kennis komt uit een kader in de tekst van het boek, maar de context niet.",
+      "comments": [],
+      "ancestorIds": [
+        "70E81C5EBF8D46D89AB899B1F5BFC78B",
+        "5322EE867F1E4CABB20C5E5F89833012"
+      ],
+      "parentId": "70E81C5EBF8D46D89AB899B1F5BFC78B"
+    },
+    "70E81C5EBF8D46D89AB899B1F5BFC78B": {
+      "id": "70E81C5EBF8D46D89AB899B1F5BFC78B",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "C1",
+      "statementNotation": "T2Bo",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Boek: De toe te passen kennis komt uit de tekst van het boek, maar de context niet.",
+      "comments": [],
+      "ancestorIds": [
+        "5322EE867F1E4CABB20C5E5F89833012"
+      ],
+      "parentId": "5322EE867F1E4CABB20C5E5F89833012"
+    },
+    "5322EE867F1E4CABB20C5E5F89833012": {
+      "id": "5322EE867F1E4CABB20C5E5F89833012",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "T2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen in een onbekende context: kennis wordt op een directe wijze gebruikt in een onbekend voorbeeld",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5F0AD43C3F274EE8A5BB6FE3040557FF": {
+      "id": "5F0AD43C3F274EE8A5BB6FE3040557FF",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "B3b",
+      "statementNotation": "T1LeOp",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Les-Opgave: De toepassing kwam voor in een gemaakte opgave",
+      "comments": [],
+      "ancestorIds": [
+        "449A69F51C5444529601286B3E93C9D5",
+        "428DAEDDE06F4C4F93D37F4DA310A637"
+      ],
+      "parentId": "449A69F51C5444529601286B3E93C9D5"
+    },
+    "2420B101E8DA43578A785260E8E7264D": {
+      "id": "2420B101E8DA43578A785260E8E7264D",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "B3a",
+      "statementNotation": "T1LeVi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Les-Video: De toepassing is laten zien in een video in de les",
+      "comments": [],
+      "ancestorIds": [
+        "449A69F51C5444529601286B3E93C9D5",
+        "428DAEDDE06F4C4F93D37F4DA310A637"
+      ],
+      "parentId": "449A69F51C5444529601286B3E93C9D5"
+    },
+    "449A69F51C5444529601286B3E93C9D5": {
+      "id": "449A69F51C5444529601286B3E93C9D5",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "B3",
+      "statementNotation": "T1Le",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Les: Over de toepassing van de kennis is in de les verteld, de leerling zou dat opgeschreven moeten hebben",
+      "comments": [],
+      "ancestorIds": [
+        "428DAEDDE06F4C4F93D37F4DA310A637"
+      ],
+      "parentId": "428DAEDDE06F4C4F93D37F4DA310A637"
+    },
+    "D0F4D524FC894EE88A150555A7123242": {
+      "id": "D0F4D524FC894EE88A150555A7123242",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "B2",
+      "statementNotation": "T1Aa",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Aantekening: Over de toepassing van de kennis is een aantekening gegeven ",
+      "comments": [],
+      "ancestorIds": [
+        "428DAEDDE06F4C4F93D37F4DA310A637"
+      ],
+      "parentId": "428DAEDDE06F4C4F93D37F4DA310A637"
+    },
+    "A88179F2469B4BF6AF1FF2F5F6BAB7DC": {
+      "id": "A88179F2469B4BF6AF1FF2F5F6BAB7DC",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "B1a",
+      "statementNotation": "T1BoKa",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Boek-Kader: De toepassing van de kennis in de context staat beschreven in een kader in het boek",
+      "comments": [],
+      "ancestorIds": [
+        "C89F17D0694A456482341F87E3A11F69",
+        "428DAEDDE06F4C4F93D37F4DA310A637"
+      ],
+      "parentId": "C89F17D0694A456482341F87E3A11F69"
+    },
+    "C89F17D0694A456482341F87E3A11F69": {
+      "id": "C89F17D0694A456482341F87E3A11F69",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "B1",
+      "statementNotation": "T1Bo",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen-Boek: De toepassing van de kennis in de context staat beschreven in de tekst van het boek",
+      "comments": [],
+      "ancestorIds": [
+        "428DAEDDE06F4C4F93D37F4DA310A637"
+      ],
+      "parentId": "428DAEDDE06F4C4F93D37F4DA310A637"
+    },
+    "428DAEDDE06F4C4F93D37F4DA310A637": {
+      "id": "428DAEDDE06F4C4F93D37F4DA310A637",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "T1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Toepassen in een bekende context: kennis wordt op een directe wijze gebruikt in een voorgedaan voorbeeld",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "24EED66752F64CE280405CF3C949D009": {
+      "id": "24EED66752F64CE280405CF3C949D009",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "A3b",
+      "statementNotation": "Re LeOp",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Les-Opgave: De benodigde kennis voor het antwoord stond in de gemaakte opgaven",
+      "comments": [],
+      "ancestorIds": [
+        "F3FF6462118A4D9FBC5800969C36B4F8",
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "F3FF6462118A4D9FBC5800969C36B4F8"
+    },
+    "08728FAC742744289EB750B266C381F5": {
+      "id": "08728FAC742744289EB750B266C381F5",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "A3a",
+      "statementNotation": "ReLeVi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Les-Video: De benodigde kennis voor het antwoord is laten zien in de les",
+      "comments": [],
+      "ancestorIds": [
+        "F3FF6462118A4D9FBC5800969C36B4F8",
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "F3FF6462118A4D9FBC5800969C36B4F8"
+    },
+    "F3FF6462118A4D9FBC5800969C36B4F8": {
+      "id": "F3FF6462118A4D9FBC5800969C36B4F8",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "A3",
+      "statementNotation": "ReLe",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Les: De benodigde kennis voor het antwoord is verteld in de les en de leerling zou het opgeschreven moeten hebben",
+      "comments": [],
+      "ancestorIds": [
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "4EBDD898911B43D299FDE252EB1C64E9"
+    },
+    "B7DEA10DB8964473877F392C5AC36584": {
+      "id": "B7DEA10DB8964473877F392C5AC36584",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "A2a",
+      "statementNotation": "ReAaSc",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Aantekening-Schema: De benodigde kennis voor het antwoord staat in een beschikbaar gesteld schema of figuur",
+      "comments": [],
+      "ancestorIds": [
+        "A49A2D377D3141BB9F28B419A304F737",
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "A49A2D377D3141BB9F28B419A304F737"
+    },
+    "A49A2D377D3141BB9F28B419A304F737": {
+      "id": "A49A2D377D3141BB9F28B419A304F737",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "A2",
+      "statementNotation": "ReAa",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Aantekening: De benodigde kennis voor het antwoord staat in een beschikbaar gestelde aantekening in tekst",
+      "comments": [],
+      "ancestorIds": [
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "4EBDD898911B43D299FDE252EB1C64E9"
+    },
+    "6F277CED01D14E649573D85EB84EE505": {
+      "id": "6F277CED01D14E649573D85EB84EE505",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "A1b",
+      "statementNotation": "ReBoAf",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Boek-Afbeelding: De benodigde kennis voor het antwoord staat in een afbeelding van het boek (en mogelijk ook in de tekst)",
+      "comments": [],
+      "ancestorIds": [
+        "4F28F76B06804D28A6FA41A77BB284B3",
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "4F28F76B06804D28A6FA41A77BB284B3"
+    },
+    "35FD0A5B599D49E4AF4AE9E446894207": {
+      "id": "35FD0A5B599D49E4AF4AE9E446894207",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "A1a",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Boek: De benodigde kennis voor het antwoord staat in het boek in de tekst.",
+      "comments": [],
+      "ancestorIds": [
+        "4F28F76B06804D28A6FA41A77BB284B3",
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "4F28F76B06804D28A6FA41A77BB284B3"
+    },
+    "4F28F76B06804D28A6FA41A77BB284B3": {
+      "id": "4F28F76B06804D28A6FA41A77BB284B3",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "A1",
+      "statementNotation": "ReBo",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie-Boek: De benodigde kennis voor het antwoord staat in de tekst van het boek",
+      "comments": [],
+      "ancestorIds": [
+        "4EBDD898911B43D299FDE252EB1C64E9"
+      ],
+      "parentId": "4EBDD898911B43D299FDE252EB1C64E9"
+    },
+    "4EBDD898911B43D299FDE252EB1C64E9": {
+      "id": "4EBDD898911B43D299FDE252EB1C64E9",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "Re",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reproductie: Letterlijke kennis",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

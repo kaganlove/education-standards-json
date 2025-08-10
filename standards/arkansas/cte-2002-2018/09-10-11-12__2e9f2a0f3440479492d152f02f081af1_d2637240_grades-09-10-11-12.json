@@ -1,0 +1,2485 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2637240_grades-09-10-11-12",
+  "title": "Programming I: Grades 9, 10, 11, 12",
+  "subject": "CTE (2002-2018)",
+  "normalizedSubject": "Career Education",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "title": "Programming I",
+    "sourceURL": "http://ace.arkansas.gov/cte/informationforms/curriculumframeworks/documents/frameworks/business/programmingone1-2007.pdf",
+    "asnIdentifier": "D2637240",
+    "publicationStatus": "Published",
+    "id": "D2637240",
+    "valid": "2007"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "E2730022C1C94B19A0AE740800A08CC5": {
+      "position": 182000,
+      "depth": 2,
+      "statementNotation": "7.12.2",
+      "statementLabel": "Application",
+      "description": "Write programs that use nested for loops",
+      "id": "E2730022C1C94B19A0AE740800A08CC5",
+      "asnIdentifier": "S2638437",
+      "ancestorIds": [
+        "1E8A5609E0C949939CA5EDB914A4494E",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "1E8A5609E0C949939CA5EDB914A4494E"
+    },
+    "DCF772527AD14F76B6AF4A8A0B4BB8DA": {
+      "depth": 2,
+      "statementNotation": "7.12.1",
+      "statementLabel": "Application",
+      "description": "Determine the output of a nested loop",
+      "id": "DCF772527AD14F76B6AF4A8A0B4BB8DA",
+      "asnIdentifier": "S2638436",
+      "position": 181000,
+      "ancestorIds": [
+        "1E8A5609E0C949939CA5EDB914A4494E",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "1E8A5609E0C949939CA5EDB914A4494E"
+    },
+    "1E8A5609E0C949939CA5EDB914A4494E": {
+      "position": 180000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.12",
+      "description": "Explain the syntax of nested loops",
+      "id": "1E8A5609E0C949939CA5EDB914A4494E",
+      "asnIdentifier": "S2638435",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "7CE9971E4E8249C6897C65BADDFE2E6A": {
+      "description": "Write programs that use do while loops",
+      "id": "7CE9971E4E8249C6897C65BADDFE2E6A",
+      "asnIdentifier": "S2638434",
+      "position": 179000,
+      "depth": 2,
+      "statementNotation": "7.11.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "CA5E8264E8764227803836C8091CAF48",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "CA5E8264E8764227803836C8091CAF48"
+    },
+    "CA5E8264E8764227803836C8091CAF48": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.11",
+      "description": "Explain the difference in the effect of a while loop (entrance condition loop) and a do while (exit condition loop) loop",
+      "id": "CA5E8264E8764227803836C8091CAF48",
+      "asnIdentifier": "S2638433",
+      "position": 178000,
+      "depth": 1,
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "E687105957DF47C78ED0ECF1170E6FFD": {
+      "id": "E687105957DF47C78ED0ECF1170E6FFD",
+      "asnIdentifier": "S2638432",
+      "position": 177000,
+      "depth": 2,
+      "statementNotation": "7.10.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use accumulators with loops",
+      "ancestorIds": [
+        "E9986D1B8AD444DFB0CA042703A42DFC",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E9986D1B8AD444DFB0CA042703A42DFC"
+    },
+    "E9986D1B8AD444DFB0CA042703A42DFC": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.10",
+      "description": "Explain the logic of using accumulators with loops",
+      "id": "E9986D1B8AD444DFB0CA042703A42DFC",
+      "asnIdentifier": "S2638431",
+      "position": 176000,
+      "depth": 1,
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "249CE69AE2D147D6917D4634606DF0BA": {
+      "description": "Write programs that use counters with loops",
+      "id": "249CE69AE2D147D6917D4634606DF0BA",
+      "asnIdentifier": "S2638430",
+      "position": 175000,
+      "depth": 2,
+      "statementNotation": "7.9.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "B633068856E343638A422FD9478E6E02",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "B633068856E343638A422FD9478E6E02"
+    },
+    "B633068856E343638A422FD9478E6E02": {
+      "position": 174000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.9",
+      "description": "Explain the process of using counters with loops",
+      "id": "B633068856E343638A422FD9478E6E02",
+      "asnIdentifier": "S2638429",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "DAEC4884669D446C8595369E7A303643": {
+      "position": 173000,
+      "depth": 2,
+      "statementNotation": "7.8.2",
+      "statementLabel": "Application",
+      "description": "Write loops that use an InputBox and end when the Cancel button is selected",
+      "id": "DAEC4884669D446C8595369E7A303643",
+      "asnIdentifier": "S2638428",
+      "ancestorIds": [
+        "658DB9AB07D44173BA12247DD88186AD",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "658DB9AB07D44173BA12247DD88186AD"
+    },
+    "D96DDBAB6BDF46F7BC61467E5434F418": {
+      "id": "D96DDBAB6BDF46F7BC61467E5434F418",
+      "asnIdentifier": "S2638427",
+      "position": 172000,
+      "depth": 2,
+      "statementNotation": "7.8.1",
+      "statementLabel": "Application",
+      "description": "Write loops that end when a sentinel or flag is entered",
+      "ancestorIds": [
+        "658DB9AB07D44173BA12247DD88186AD",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "658DB9AB07D44173BA12247DD88186AD"
+    },
+    "658DB9AB07D44173BA12247DD88186AD": {
+      "id": "658DB9AB07D44173BA12247DD88186AD",
+      "asnIdentifier": "S2638426",
+      "position": 171000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.8",
+      "description": "Describe a loop which ends when a sentinel or flag is entered",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "8828D24E1B3041A99ECA4C63E8716270": {
+      "description": "Explain the potential effects of placing the condition on the do line and the loop line and conditions where each is appropriate",
+      "id": "8828D24E1B3041A99ECA4C63E8716270",
+      "asnIdentifier": "S2638425",
+      "position": 170000,
+      "depth": 2,
+      "statementNotation": "7.7.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "EF8C4AAB916E42DF9F2EA549A0DFC4B9",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "EF8C4AAB916E42DF9F2EA549A0DFC4B9"
+    },
+    "EF8C4AAB916E42DF9F2EA549A0DFC4B9": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.7",
+      "description": "Describe the difference in a entrance condition loop and an exit condition loop",
+      "id": "EF8C4AAB916E42DF9F2EA549A0DFC4B9",
+      "asnIdentifier": "S2638424",
+      "position": 169000,
+      "depth": 1,
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "4EABB5BADD7C4F8EBF16B8CFBBA9B69B": {
+      "description": "Write programs that use do while…loop",
+      "id": "4EABB5BADD7C4F8EBF16B8CFBBA9B69B",
+      "asnIdentifier": "S2638423",
+      "position": 168000,
+      "depth": 2,
+      "statementNotation": "7.6.2",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "BB5C79448F7E40438F8DA54BB60B2E20",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "BB5C79448F7E40438F8DA54BB60B2E20"
+    },
+    "0DCF6B7D6C9549B0A8D59D46A5AA9510": {
+      "id": "0DCF6B7D6C9549B0A8D59D46A5AA9510",
+      "asnIdentifier": "S2638422",
+      "position": 167000,
+      "depth": 2,
+      "statementNotation": "7.6.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use do…loop while",
+      "ancestorIds": [
+        "BB5C79448F7E40438F8DA54BB60B2E20",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "BB5C79448F7E40438F8DA54BB60B2E20"
+    },
+    "BB5C79448F7E40438F8DA54BB60B2E20": {
+      "id": "BB5C79448F7E40438F8DA54BB60B2E20",
+      "asnIdentifier": "S2638421",
+      "position": 166000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.6",
+      "description": "Describe the difference in a do until and a do while loop",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "3AF44C38519341CFB1D55E8AD4084A67": {
+      "position": 165000,
+      "depth": 2,
+      "statementNotation": "7.5.2",
+      "statementLabel": "Application",
+      "description": "Write programs that use do until…loop",
+      "id": "3AF44C38519341CFB1D55E8AD4084A67",
+      "asnIdentifier": "S2638420",
+      "ancestorIds": [
+        "84198FE6515E4278BF10B6DF8FC0D50E",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "84198FE6515E4278BF10B6DF8FC0D50E"
+    },
+    "5D6E34DA63194142B3911D51099CC44B": {
+      "description": "Write programs that use do…loop until",
+      "id": "5D6E34DA63194142B3911D51099CC44B",
+      "asnIdentifier": "S2638419",
+      "position": 164000,
+      "depth": 2,
+      "statementNotation": "7.5.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "84198FE6515E4278BF10B6DF8FC0D50E",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "84198FE6515E4278BF10B6DF8FC0D50E"
+    },
+    "84198FE6515E4278BF10B6DF8FC0D50E": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.5",
+      "description": "Describe the use of a do until loop",
+      "id": "84198FE6515E4278BF10B6DF8FC0D50E",
+      "asnIdentifier": "S2638418",
+      "position": 163000,
+      "depth": 1,
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "DFE91400F04147AAA5161118C8EA409F": {
+      "statementLabel": "Application",
+      "description": "Write programs that use do loops",
+      "id": "DFE91400F04147AAA5161118C8EA409F",
+      "asnIdentifier": "S2638417",
+      "position": 162000,
+      "depth": 2,
+      "statementNotation": "7.4.1",
+      "ancestorIds": [
+        "72C62B3874E349B5846857F4AA76F58F",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "72C62B3874E349B5846857F4AA76F58F"
+    },
+    "72C62B3874E349B5846857F4AA76F58F": {
+      "listId": "7.4",
+      "description": "List the types of do loops",
+      "id": "72C62B3874E349B5846857F4AA76F58F",
+      "asnIdentifier": "S2638416",
+      "position": 161000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "4FEF0533C72344B99FCD5651C584E508": {
+      "depth": 2,
+      "statementNotation": "7.3.1",
+      "statementLabel": "Application",
+      "description": "Write counting for loops with increments other than 1",
+      "id": "4FEF0533C72344B99FCD5651C584E508",
+      "asnIdentifier": "S2638415",
+      "position": 160000,
+      "ancestorIds": [
+        "EB16448E5EB3475F95FA175EEE098903",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "EB16448E5EB3475F95FA175EEE098903"
+    },
+    "EB16448E5EB3475F95FA175EEE098903": {
+      "asnIdentifier": "S2638414",
+      "position": 159000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.3",
+      "description": "Explain the procedure to use for loops to count in increments/decrements other than one",
+      "id": "EB16448E5EB3475F95FA175EEE098903",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "746D7A580D264996A1E1A8D482426EB4": {
+      "id": "746D7A580D264996A1E1A8D482426EB4",
+      "asnIdentifier": "S2638413",
+      "position": 158000,
+      "depth": 2,
+      "statementNotation": "7.2.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use for-next loops",
+      "ancestorIds": [
+        "4F0C5B2421E94FE4960FC46B3ABF7E35",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "4F0C5B2421E94FE4960FC46B3ABF7E35"
+    },
+    "4F0C5B2421E94FE4960FC46B3ABF7E35": {
+      "position": 157000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.2",
+      "description": "Describe the purpose and syntax of for-next loops",
+      "id": "4F0C5B2421E94FE4960FC46B3ABF7E35",
+      "asnIdentifier": "S2638412",
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "C69012D2F5D1442CAB8102AC3E5FC5DB": {
+      "description": "Prepare a list of terms with definitions",
+      "id": "C69012D2F5D1442CAB8102AC3E5FC5DB",
+      "asnIdentifier": "S2638411",
+      "position": 156000,
+      "depth": 2,
+      "statementNotation": "7.1.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "5D1705B181C74E74AE8600940EA4E1AD",
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "5D1705B181C74E74AE8600940EA4E1AD"
+    },
+    "5D1705B181C74E74AE8600940EA4E1AD": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.1",
+      "description": "Define terminology",
+      "id": "5D1705B181C74E74AE8600940EA4E1AD",
+      "asnIdentifier": "S2638410",
+      "position": 155000,
+      "depth": 1,
+      "ancestorIds": [
+        "E8F5DB7A0E454C40A0A44158B7020995"
+      ],
+      "parentId": "E8F5DB7A0E454C40A0A44158B7020995"
+    },
+    "E8F5DB7A0E454C40A0A44158B7020995": {
+      "description": "Loops",
+      "id": "E8F5DB7A0E454C40A0A44158B7020995",
+      "asnIdentifier": "S2638409",
+      "position": 154000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "7:",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8F775D3DB737457A85ABC44359176B54": {
+      "id": "8F775D3DB737457A85ABC44359176B54",
+      "asnIdentifier": "S2638408",
+      "position": 153000,
+      "depth": 2,
+      "statementNotation": "6.8.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use the select case statement, including cases that use a range of values, a list of possible values, and case else",
+      "ancestorIds": [
+        "BE662E73CDCE4761849DB093A9A3540C",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "BE662E73CDCE4761849DB093A9A3540C"
+    },
+    "BE662E73CDCE4761849DB093A9A3540C": {
+      "listId": "6.8",
+      "description": "Explain the use of the select case statement",
+      "id": "BE662E73CDCE4761849DB093A9A3540C",
+      "asnIdentifier": "S2638407",
+      "position": 152000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "BA88FBDE35E94BCFBF85901555FECAB9": {
+      "statementNotation": "6.7.1",
+      "statementLabel": "Application",
+      "description": "Write programs which require the use and, not, and or",
+      "id": "BA88FBDE35E94BCFBF85901555FECAB9",
+      "asnIdentifier": "S2638406",
+      "position": 151000,
+      "depth": 2,
+      "ancestorIds": [
+        "5D6E192DAEA04DDCB4FF0A2083CF37DD",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "5D6E192DAEA04DDCB4FF0A2083CF37DD"
+    },
+    "5D6E192DAEA04DDCB4FF0A2083CF37DD": {
+      "description": "Explain the use of logical operators and, or, and not",
+      "id": "5D6E192DAEA04DDCB4FF0A2083CF37DD",
+      "asnIdentifier": "S2638405",
+      "position": 150000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.7",
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "BA3C9AECE8E446BDB0042813BCDD7B60": {
+      "statementNotation": "6.6.1",
+      "statementLabel": "Application",
+      "description": "Write statements that use if-else to make the correct decision based on the data",
+      "id": "BA3C9AECE8E446BDB0042813BCDD7B60",
+      "asnIdentifier": "S2638404",
+      "position": 149000,
+      "depth": 2,
+      "ancestorIds": [
+        "B7CCE280A40647EF8027132FD53A3018",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "B7CCE280A40647EF8027132FD53A3018"
+    },
+    "B7CCE280A40647EF8027132FD53A3018": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.6",
+      "description": "Explain the syntax and logic of if-else statements",
+      "id": "B7CCE280A40647EF8027132FD53A3018",
+      "asnIdentifier": "S2638403",
+      "position": 148000,
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "8651600950844D429FE2392F2F8FA8D5": {
+      "depth": 2,
+      "statementNotation": "6.5.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use statements if",
+      "id": "8651600950844D429FE2392F2F8FA8D5",
+      "asnIdentifier": "S2638402",
+      "position": 147000,
+      "ancestorIds": [
+        "7323FAF93FBC4B10A5F925BAA0BEA5A3",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "7323FAF93FBC4B10A5F925BAA0BEA5A3"
+    },
+    "7323FAF93FBC4B10A5F925BAA0BEA5A3": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.5",
+      "description": "Explain the syntax and logic of if statements",
+      "id": "7323FAF93FBC4B10A5F925BAA0BEA5A3",
+      "asnIdentifier": "S2638401",
+      "position": 146000,
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "1582EF02997247ABB97AD18F9902BB90": {
+      "statementLabel": "Application",
+      "description": "Write statements that avoid the problems if created by roundoff errors",
+      "id": "1582EF02997247ABB97AD18F9902BB90",
+      "asnIdentifier": "S2638400",
+      "position": 145000,
+      "depth": 2,
+      "statementNotation": "6.4.1",
+      "ancestorIds": [
+        "4EBF2ECF6BAD4FCB96B13C0BE50B04BA",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "4EBF2ECF6BAD4FCB96B13C0BE50B04BA"
+    },
+    "4EBF2ECF6BAD4FCB96B13C0BE50B04BA": {
+      "position": 144000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.4",
+      "description": "Describe a roundoff error",
+      "id": "4EBF2ECF6BAD4FCB96B13C0BE50B04BA",
+      "asnIdentifier": "S2638399",
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "4943B8970DD748DB8773B987B714CFA8": {
+      "statementLabel": "Application",
+      "description": "When given two strings, determine if they are equal, the first is smaller, or the first is larger",
+      "id": "4943B8970DD748DB8773B987B714CFA8",
+      "asnIdentifier": "S2638398",
+      "position": 143000,
+      "depth": 2,
+      "statementNotation": "6.3.1",
+      "ancestorIds": [
+        "5A31C9AD02EF4A76895C09ED87512429",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "5A31C9AD02EF4A76895C09ED87512429"
+    },
+    "5A31C9AD02EF4A76895C09ED87512429": {
+      "id": "5A31C9AD02EF4A76895C09ED87512429",
+      "asnIdentifier": "S2638397",
+      "position": 142000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.3",
+      "description": "Describe the process of comparing two strings",
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "1E6777DA65D04D07A3D9A33625734ABF": {
+      "depth": 2,
+      "statementNotation": "6.2.1",
+      "statementLabel": "Application",
+      "description": "Write Boolean expressions that use the appropriate relational operator",
+      "id": "1E6777DA65D04D07A3D9A33625734ABF",
+      "asnIdentifier": "S2638396",
+      "position": 141000,
+      "ancestorIds": [
+        "E40BCBE0C7BF4F23BE18FFC683E88C34",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "E40BCBE0C7BF4F23BE18FFC683E88C34"
+    },
+    "E40BCBE0C7BF4F23BE18FFC683E88C34": {
+      "asnIdentifier": "S2638395",
+      "position": 140000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.2",
+      "description": "List relational operators",
+      "id": "E40BCBE0C7BF4F23BE18FFC683E88C34",
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "E796854AF074474DA0677151BB94AF42": {
+      "asnIdentifier": "S2638394",
+      "position": 139000,
+      "depth": 2,
+      "statementNotation": "6.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "E796854AF074474DA0677151BB94AF42",
+      "ancestorIds": [
+        "1F22CD7097B7493FA6BE060EBDB2BF60",
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "1F22CD7097B7493FA6BE060EBDB2BF60"
+    },
+    "1F22CD7097B7493FA6BE060EBDB2BF60": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.1",
+      "description": "Define terminology",
+      "id": "1F22CD7097B7493FA6BE060EBDB2BF60",
+      "asnIdentifier": "S2638393",
+      "position": 138000,
+      "ancestorIds": [
+        "243429E45BB1422B9999E6EE9A3BD570"
+      ],
+      "parentId": "243429E45BB1422B9999E6EE9A3BD570"
+    },
+    "243429E45BB1422B9999E6EE9A3BD570": {
+      "position": 137000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "6:",
+      "description": "Decision Structure",
+      "id": "243429E45BB1422B9999E6EE9A3BD570",
+      "asnIdentifier": "S2638392",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "98E77D06D93146A88B4E9757B2823E20": {
+      "asnIdentifier": "S2638391",
+      "position": 136000,
+      "depth": 2,
+      "statementNotation": "5.7.2",
+      "statementLabel": "Application",
+      "description": "Write programs where the expected data is numeric, using IsNumeric() to check validity, and val() to convert to a number",
+      "id": "98E77D06D93146A88B4E9757B2823E20",
+      "ancestorIds": [
+        "EA9DADD3D4E141618ABC2748D8BEC32F",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "EA9DADD3D4E141618ABC2748D8BEC32F"
+    },
+    "6DBE4B1AC6B04A5185D6CAF1853A3927": {
+      "statementLabel": "Application",
+      "description": "Write programs where the data being returned is being used as a String",
+      "id": "6DBE4B1AC6B04A5185D6CAF1853A3927",
+      "asnIdentifier": "S2638390",
+      "position": 135000,
+      "depth": 2,
+      "statementNotation": "5.7.1",
+      "ancestorIds": [
+        "EA9DADD3D4E141618ABC2748D8BEC32F",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "EA9DADD3D4E141618ABC2748D8BEC32F"
+    },
+    "EA9DADD3D4E141618ABC2748D8BEC32F": {
+      "listId": "5.7",
+      "description": "Describe the type of data returned by an InputBox and the needed steps to convert to the String data to numeric data",
+      "id": "EA9DADD3D4E141618ABC2748D8BEC32F",
+      "asnIdentifier": "S2638389",
+      "position": 134000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "589503B1168E404C971C05D709BAB551": {
+      "statementLabel": "Application",
+      "description": "Write programs that use an InputBox",
+      "id": "589503B1168E404C971C05D709BAB551",
+      "asnIdentifier": "S2638388",
+      "position": 133000,
+      "depth": 2,
+      "statementNotation": "5.6.1",
+      "ancestorIds": [
+        "C8BEAC07405D491699EBC408B95066C4",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "C8BEAC07405D491699EBC408B95066C4"
+    },
+    "C8BEAC07405D491699EBC408B95066C4": {
+      "description": "Describe the purpose for an InputBox",
+      "id": "C8BEAC07405D491699EBC408B95066C4",
+      "asnIdentifier": "S2638387",
+      "position": 132000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.6",
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "3F453E54B9194C7FBE2232D55CCD2810": {
+      "asnIdentifier": "S2638386",
+      "position": 131000,
+      "depth": 2,
+      "statementNotation": "5.5.3",
+      "statementLabel": "Application",
+      "description": "Set the SizeMode to Normal, StretchImage, AutoSize, or CenterImage",
+      "id": "3F453E54B9194C7FBE2232D55CCD2810",
+      "ancestorIds": [
+        "06830FA412C044E6AC2EA8336D6277F9",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "06830FA412C044E6AC2EA8336D6277F9"
+    },
+    "45CAB59E9A4E415FAEC076766F52259E": {
+      "description": "Place the image in the bin folder",
+      "id": "45CAB59E9A4E415FAEC076766F52259E",
+      "asnIdentifier": "S2638385",
+      "position": 130000,
+      "depth": 2,
+      "statementNotation": "5.5.2",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "06830FA412C044E6AC2EA8336D6277F9",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "06830FA412C044E6AC2EA8336D6277F9"
+    },
+    "F9B63F3BBCD041E8A54BDDC0756DD62A": {
+      "id": "F9B63F3BBCD041E8A54BDDC0756DD62A",
+      "asnIdentifier": "S2638384",
+      "position": 129000,
+      "depth": 2,
+      "statementNotation": "5.5.1",
+      "statementLabel": "Application",
+      "description": "Design a form with a PictureBox with a graphic image",
+      "ancestorIds": [
+        "06830FA412C044E6AC2EA8336D6277F9",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "06830FA412C044E6AC2EA8336D6277F9"
+    },
+    "06830FA412C044E6AC2EA8336D6277F9": {
+      "id": "06830FA412C044E6AC2EA8336D6277F9",
+      "asnIdentifier": "S2638383",
+      "position": 128000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.5",
+      "description": "Describe the use for a PictureBox",
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "B85805C9CA46477698D0485DC0C2EEFC": {
+      "id": "B85805C9CA46477698D0485DC0C2EEFC",
+      "asnIdentifier": "S2638382",
+      "position": 127000,
+      "depth": 2,
+      "statementNotation": "5.4.1",
+      "statementLabel": "Application",
+      "description": "Write code that shows a message box to display information or a warning, setting the text, caption, and icon",
+      "ancestorIds": [
+        "61BD6777FA994F749417A25A43049623",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "61BD6777FA994F749417A25A43049623"
+    },
+    "61BD6777FA994F749417A25A43049623": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.4",
+      "description": "Describe a MessageBox",
+      "id": "61BD6777FA994F749417A25A43049623",
+      "asnIdentifier": "S2638381",
+      "position": 126000,
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "7D32E874CBCF445E8CBCCD7A3FE23EFA": {
+      "id": "7D32E874CBCF445E8CBCCD7A3FE23EFA",
+      "asnIdentifier": "S2638380",
+      "position": 125000,
+      "depth": 2,
+      "statementNotation": "5.3.2",
+      "statementLabel": "Application",
+      "description": "Use a GroupBox for a set of RadioButtons",
+      "ancestorIds": [
+        "151CAFA37DE54195BF9558EB8B159F3C",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "151CAFA37DE54195BF9558EB8B159F3C"
+    },
+    "79795BB062484D9C9E9FF6C07FDC354B": {
+      "id": "79795BB062484D9C9E9FF6C07FDC354B",
+      "asnIdentifier": "S2638379",
+      "position": 124000,
+      "depth": 2,
+      "statementNotation": "5.3.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use RadioButtons--code both the click event and use the checked property to determine the item selected",
+      "ancestorIds": [
+        "151CAFA37DE54195BF9558EB8B159F3C",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "151CAFA37DE54195BF9558EB8B159F3C"
+    },
+    "151CAFA37DE54195BF9558EB8B159F3C": {
+      "description": "Describe the features of a RadioButtons and a GroupBox",
+      "id": "151CAFA37DE54195BF9558EB8B159F3C",
+      "asnIdentifier": "S2638378",
+      "position": 123000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.3",
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "3B37DCC3CF9F4F119B9C5E3098EFA89A": {
+      "id": "3B37DCC3CF9F4F119B9C5E3098EFA89A",
+      "asnIdentifier": "S2638377",
+      "position": 122000,
+      "depth": 2,
+      "statementNotation": "5.2.1",
+      "statementLabel": "Application",
+      "description": "Use the checked property in code to determine which object is selected",
+      "ancestorIds": [
+        "E54902D0C8A948FF8EE54570A1709113",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "E54902D0C8A948FF8EE54570A1709113"
+    },
+    "E54902D0C8A948FF8EE54570A1709113": {
+      "description": "Explain the use of the checked property--for example with a RadioButton or CheckBox",
+      "id": "E54902D0C8A948FF8EE54570A1709113",
+      "asnIdentifier": "S2638376",
+      "position": 121000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.2",
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "8866085FC2B4400C953DB8D7D911B72F": {
+      "position": 120000,
+      "depth": 2,
+      "statementNotation": "5.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "8866085FC2B4400C953DB8D7D911B72F",
+      "asnIdentifier": "S2638375",
+      "ancestorIds": [
+        "E833889B44E04ADC805CCA77E59484A0",
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "E833889B44E04ADC805CCA77E59484A0"
+    },
+    "E833889B44E04ADC805CCA77E59484A0": {
+      "listId": "5.1",
+      "description": "Define terminology",
+      "id": "E833889B44E04ADC805CCA77E59484A0",
+      "asnIdentifier": "S2638374",
+      "position": 119000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "0691497EEF534FEFAC50358BC9EE9565"
+      ],
+      "parentId": "0691497EEF534FEFAC50358BC9EE9565"
+    },
+    "0691497EEF534FEFAC50358BC9EE9565": {
+      "listId": "5:",
+      "description": "More Visual Basic Features",
+      "id": "0691497EEF534FEFAC50358BC9EE9565",
+      "asnIdentifier": "S2638373",
+      "position": 118000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7C88FD0A119E491BBC5B8748362BC240": {
+      "statementLabel": "Application",
+      "description": "Write programs that use text boxes for user input",
+      "id": "7C88FD0A119E491BBC5B8748362BC240",
+      "asnIdentifier": "S2638372",
+      "position": 117000,
+      "depth": 2,
+      "statementNotation": "4.12.1",
+      "ancestorIds": [
+        "12A6ED8B69B84493B9C21935CBF08F58",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "12A6ED8B69B84493B9C21935CBF08F58"
+    },
+    "12A6ED8B69B84493B9C21935CBF08F58": {
+      "listId": "4.12",
+      "description": "Explain the uses for a TextBox",
+      "id": "12A6ED8B69B84493B9C21935CBF08F58",
+      "asnIdentifier": "S2638371",
+      "position": 116000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "1FBDB85B9E4445F4AC7FB9D93CC692F5": {
+      "position": 115000,
+      "depth": 2,
+      "statementNotation": "4.11.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use buttons and code the click event procedure",
+      "id": "1FBDB85B9E4445F4AC7FB9D93CC692F5",
+      "asnIdentifier": "S2638370",
+      "ancestorIds": [
+        "74AC7107758A4B9E8708567C17C6A382",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "74AC7107758A4B9E8708567C17C6A382"
+    },
+    "74AC7107758A4B9E8708567C17C6A382": {
+      "id": "74AC7107758A4B9E8708567C17C6A382",
+      "asnIdentifier": "S2638369",
+      "position": 114000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.11",
+      "description": "Explain the use of a button",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "DDD889C9025E406ABB30D0A731097541": {
+      "id": "DDD889C9025E406ABB30D0A731097541",
+      "asnIdentifier": "S2638368",
+      "position": 113000,
+      "depth": 2,
+      "statementNotation": "4.10.2",
+      "statementLabel": "Application",
+      "description": "Write programs that use labels to display answers",
+      "ancestorIds": [
+        "19FF98FCBDAE4249BF2537A5BDB35749",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "19FF98FCBDAE4249BF2537A5BDB35749"
+    },
+    "6A510A4193954DA3A4C230FDFA37BB2A": {
+      "statementLabel": "Application",
+      "description": "Write programs that use labels as prompts",
+      "id": "6A510A4193954DA3A4C230FDFA37BB2A",
+      "asnIdentifier": "S2638367",
+      "position": 112000,
+      "depth": 2,
+      "statementNotation": "4.10.1",
+      "ancestorIds": [
+        "19FF98FCBDAE4249BF2537A5BDB35749",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "19FF98FCBDAE4249BF2537A5BDB35749"
+    },
+    "19FF98FCBDAE4249BF2537A5BDB35749": {
+      "listId": "4.10",
+      "description": "Describe the purpose of a label",
+      "id": "19FF98FCBDAE4249BF2537A5BDB35749",
+      "asnIdentifier": "S2638366",
+      "position": 111000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "40CB10F8779947158F328D6CB05D5E02": {
+      "asnIdentifier": "S2638365",
+      "position": 110000,
+      "depth": 2,
+      "statementNotation": "4.9.1",
+      "statementLabel": "Application",
+      "description": "Use these features in programs to improve the appearance of the forms and the objects on the form",
+      "id": "40CB10F8779947158F328D6CB05D5E02",
+      "ancestorIds": [
+        "5E5CC56320724AA5B293A0B02CC24F03",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "5E5CC56320724AA5B293A0B02CC24F03"
+    },
+    "5E5CC56320724AA5B293A0B02CC24F03": {
+      "asnIdentifier": "S2638364",
+      "position": 109000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.9",
+      "description": "List several properties that can be used to improve the appearance of objects (Font and font features, BackColor, ForeColor, TextAlign)",
+      "id": "5E5CC56320724AA5B293A0B02CC24F03",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "20D70809E398469DA1C9406BE27F8DE5": {
+      "id": "20D70809E398469DA1C9406BE27F8DE5",
+      "asnIdentifier": "S2638363",
+      "position": 108000,
+      "depth": 2,
+      "statementNotation": "4.8.1",
+      "statementLabel": "Application",
+      "description": "Write programs that contain a MainMenu",
+      "ancestorIds": [
+        "F671FC75D44C41B690184D06E85AECF5",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "F671FC75D44C41B690184D06E85AECF5"
+    },
+    "F671FC75D44C41B690184D06E85AECF5": {
+      "id": "F671FC75D44C41B690184D06E85AECF5",
+      "asnIdentifier": "S2638362",
+      "position": 107000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.8",
+      "description": "Explain the use and features of MainMenu",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "3D1BBE7BF42349E68E5828160F3C1F5C": {
+      "statementNotation": "4.7.1",
+      "statementLabel": "Application",
+      "description": "Write program statements that change the values of properties at runtime, using Me, dot notation, equal sign, and IntelliSense",
+      "id": "3D1BBE7BF42349E68E5828160F3C1F5C",
+      "asnIdentifier": "S2638361",
+      "position": 106000,
+      "depth": 2,
+      "ancestorIds": [
+        "7936DB3A86AA4E03AB3F0CD0145435EB",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "7936DB3A86AA4E03AB3F0CD0145435EB"
+    },
+    "7936DB3A86AA4E03AB3F0CD0145435EB": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.7",
+      "description": "Explain how to use an assignment statement to change an object's value at runtime, including the use of Me, dot (.) notation, the equal (=) sign, and IntelliSense",
+      "id": "7936DB3A86AA4E03AB3F0CD0145435EB",
+      "asnIdentifier": "S2638360",
+      "position": 105000,
+      "depth": 1,
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "3F799F5D5C9B41798DBDFAF5F2473A8D": {
+      "id": "3F799F5D5C9B41798DBDFAF5F2473A8D",
+      "asnIdentifier": "S2638359",
+      "position": 104000,
+      "depth": 2,
+      "statementNotation": "4.6.2",
+      "statementLabel": "Application",
+      "description": "Write click event procedures",
+      "ancestorIds": [
+        "4C5B0011CD764E98A3099F04242D99CE",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "4C5B0011CD764E98A3099F04242D99CE"
+    },
+    "4C5B0011CD764E98A3099F04242D99CE": {
+      "listId": "4.6",
+      "description": "Describe some actions that can trigger event procedures",
+      "id": "4C5B0011CD764E98A3099F04242D99CE",
+      "asnIdentifier": "S2638358",
+      "position": 103000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "EFABB97F8BC94DF691DD1CB679706D1C": {
+      "description": "Use the text property to change the text on various object, both setting it at design time and in the code",
+      "id": "EFABB97F8BC94DF691DD1CB679706D1C",
+      "asnIdentifier": "S2638357",
+      "position": 102000,
+      "depth": 2,
+      "statementNotation": "4.5.2",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "ADC6E631091741099A24AB7DE3ED9B64",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "ADC6E631091741099A24AB7DE3ED9B64"
+    },
+    "3C917A61A84046558D2B7DF1128FA183": {
+      "statementNotation": "4.5.1",
+      "statementLabel": "Application",
+      "description": "Name controls using the convention of beginning the object name with a prefix, such as btn for button or mnu for menu",
+      "id": "3C917A61A84046558D2B7DF1128FA183",
+      "asnIdentifier": "S2638356",
+      "position": 101000,
+      "depth": 2,
+      "ancestorIds": [
+        "ADC6E631091741099A24AB7DE3ED9B64",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "ADC6E631091741099A24AB7DE3ED9B64"
+    },
+    "ADC6E631091741099A24AB7DE3ED9B64": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.5",
+      "description": "Describe the difference in the name and text property",
+      "id": "ADC6E631091741099A24AB7DE3ED9B64",
+      "asnIdentifier": "S2638355",
+      "position": 100000,
+      "depth": 1,
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "99269A36BB76410E92F56482BFD379E5": {
+      "id": "99269A36BB76410E92F56482BFD379E5",
+      "asnIdentifier": "S2638354",
+      "position": 99000,
+      "depth": 2,
+      "statementNotation": "4.4.1",
+      "statementLabel": "Application",
+      "description": "Create a program where properties are set both in the design phase and set or modified in the code",
+      "ancestorIds": [
+        "B73752AEB8054ADF960BB43C9382FCC8",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "B73752AEB8054ADF960BB43C9382FCC8"
+    },
+    "B73752AEB8054ADF960BB43C9382FCC8": {
+      "asnIdentifier": "S2638353",
+      "position": 98000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.4",
+      "description": "Explain the difference in setting properties at design time and setting/changing properties at runtime",
+      "id": "B73752AEB8054ADF960BB43C9382FCC8",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "F7856C5103744A49BBA7E7BAF7116810": {
+      "id": "F7856C5103744A49BBA7E7BAF7116810",
+      "asnIdentifier": "S2638352",
+      "position": 97000,
+      "depth": 2,
+      "statementNotation": "4.3.3",
+      "statementLabel": "Application",
+      "description": "Set properties in the properties window",
+      "ancestorIds": [
+        "AF117662DC914B8BB4A17CF2B733B8FF",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "AF117662DC914B8BB4A17CF2B733B8FF"
+    },
+    "653210D066224E0D8E59DA98BCBBF577": {
+      "statementNotation": "4.3.2",
+      "statementLabel": "Application",
+      "description": "Place and size controls on the form",
+      "id": "653210D066224E0D8E59DA98BCBBF577",
+      "asnIdentifier": "S2638351",
+      "position": 96000,
+      "depth": 2,
+      "ancestorIds": [
+        "AF117662DC914B8BB4A17CF2B733B8FF",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "AF117662DC914B8BB4A17CF2B733B8FF"
+    },
+    "76ED6CF5B7824630B8F0CDC6CA3F9ACD": {
+      "statementNotation": "4.3.1",
+      "statementLabel": "Application",
+      "description": "Create or design a form",
+      "id": "76ED6CF5B7824630B8F0CDC6CA3F9ACD",
+      "asnIdentifier": "S2638350",
+      "position": 95000,
+      "depth": 2,
+      "ancestorIds": [
+        "AF117662DC914B8BB4A17CF2B733B8FF",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "AF117662DC914B8BB4A17CF2B733B8FF"
+    },
+    "AF117662DC914B8BB4A17CF2B733B8FF": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.3",
+      "description": "Describe the process of creating/designing a form",
+      "id": "AF117662DC914B8BB4A17CF2B733B8FF",
+      "asnIdentifier": "S2638349",
+      "position": 94000,
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "7BE56D5865E14AB7A02F603B2ED73BB9": {
+      "id": "7BE56D5865E14AB7A02F603B2ED73BB9",
+      "asnIdentifier": "S2638348",
+      "position": 93000,
+      "depth": 2,
+      "statementNotation": "4.2.1",
+      "statementLabel": "Application",
+      "description": "Create a new Visual Basic project",
+      "ancestorIds": [
+        "61D6C7BC12D5493BBEF6673C34171197",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "61D6C7BC12D5493BBEF6673C34171197"
+    },
+    "61D6C7BC12D5493BBEF6673C34171197": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.2",
+      "description": "Describe the process of creating a new project",
+      "id": "61D6C7BC12D5493BBEF6673C34171197",
+      "asnIdentifier": "S2638347",
+      "position": 92000,
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "340DCF8F72C84A48B096F95DBCAC664C": {
+      "asnIdentifier": "S2638346",
+      "position": 91000,
+      "depth": 2,
+      "statementNotation": "4.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "340DCF8F72C84A48B096F95DBCAC664C",
+      "ancestorIds": [
+        "3B72E3E8FC6845E9A5B989EE87FF5039",
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "3B72E3E8FC6845E9A5B989EE87FF5039"
+    },
+    "3B72E3E8FC6845E9A5B989EE87FF5039": {
+      "description": "Define terminology",
+      "id": "3B72E3E8FC6845E9A5B989EE87FF5039",
+      "asnIdentifier": "S2638345",
+      "position": 90000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.1",
+      "ancestorIds": [
+        "6CFB5C43A15245179DBA5050076DE5F5"
+      ],
+      "parentId": "6CFB5C43A15245179DBA5050076DE5F5"
+    },
+    "6CFB5C43A15245179DBA5050076DE5F5": {
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "4:",
+      "description": "Simple Programs and Visual Basic Features",
+      "id": "6CFB5C43A15245179DBA5050076DE5F5",
+      "asnIdentifier": "S2638344",
+      "position": 89000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BD3D143531334F7B96ADBDB2053E2344": {
+      "description": "Write programs that use static variables as accumulators",
+      "id": "BD3D143531334F7B96ADBDB2053E2344",
+      "asnIdentifier": "S2638343",
+      "position": 88000,
+      "depth": 2,
+      "statementNotation": "3.22.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "80C8EA27125D4A6E9079BD901421EC54",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "80C8EA27125D4A6E9079BD901421EC54"
+    },
+    "80C8EA27125D4A6E9079BD901421EC54": {
+      "id": "80C8EA27125D4A6E9079BD901421EC54",
+      "asnIdentifier": "S2638342",
+      "position": 87000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.22",
+      "description": "Explain the purpose of an accumulator variable",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "1B544DDEA21844A4A4B80007A8DA09C9": {
+      "asnIdentifier": "S2638341",
+      "position": 86000,
+      "depth": 2,
+      "statementNotation": "3.21.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use static variables as counters",
+      "id": "1B544DDEA21844A4A4B80007A8DA09C9",
+      "ancestorIds": [
+        "8AF378D1622249AFA013F64FB1E29CD9",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "8AF378D1622249AFA013F64FB1E29CD9"
+    },
+    "8AF378D1622249AFA013F64FB1E29CD9": {
+      "listId": "3.21",
+      "description": "Explain the purpose of a counter variable",
+      "id": "8AF378D1622249AFA013F64FB1E29CD9",
+      "asnIdentifier": "S2638340",
+      "position": 85000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "2F22C25A0F264D4DB5BBF5A55216EE42": {
+      "description": "Write programs that use static variables",
+      "id": "2F22C25A0F264D4DB5BBF5A55216EE42",
+      "asnIdentifier": "S2638339",
+      "position": 84000,
+      "depth": 2,
+      "statementNotation": "3.20.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "ACA6B6707CC24F0B98890C8CF95CFCD5",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "ACA6B6707CC24F0B98890C8CF95CFCD5"
+    },
+    "ACA6B6707CC24F0B98890C8CF95CFCD5": {
+      "position": 83000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.20",
+      "description": "Explain the scope and lifetime of static variables",
+      "id": "ACA6B6707CC24F0B98890C8CF95CFCD5",
+      "asnIdentifier": "S2638338",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "3203D6E90DA343B58659116DB0E3C494": {
+      "statementLabel": "Application",
+      "description": "Predict the results of using Fix() and Int() with a group of real (floating point) numbers",
+      "id": "3203D6E90DA343B58659116DB0E3C494",
+      "asnIdentifier": "S2638337",
+      "position": 82000,
+      "depth": 2,
+      "statementNotation": "3.19.1",
+      "ancestorIds": [
+        "648C3450D12D44EEA956273EF2EEDC41",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "648C3450D12D44EEA956273EF2EEDC41"
+    },
+    "648C3450D12D44EEA956273EF2EEDC41": {
+      "id": "648C3450D12D44EEA956273EF2EEDC41",
+      "asnIdentifier": "S2638336",
+      "position": 81000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.19",
+      "description": "Explain how Int() and Fix() functions work",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "B33998E6A25043E9AD12B7E0773DC859": {
+      "id": "B33998E6A25043E9AD12B7E0773DC859",
+      "asnIdentifier": "S2638335",
+      "position": 80000,
+      "depth": 2,
+      "statementNotation": "3.18.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use random numbers",
+      "ancestorIds": [
+        "E30F15C4303940CEAD308B9B6C4532C5",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "E30F15C4303940CEAD308B9B6C4532C5"
+    },
+    "E30F15C4303940CEAD308B9B6C4532C5": {
+      "description": "Explain the uses for random numbers and the purpose of the Randomize() statement",
+      "id": "E30F15C4303940CEAD308B9B6C4532C5",
+      "asnIdentifier": "S2638334",
+      "position": 79000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.18",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "218DAAFF31CB464CBD9418A102B574E4": {
+      "position": 78000,
+      "depth": 2,
+      "statementNotation": "3.17.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use the IsNumeric() function to check the data prior to use in a mathematical formula or numeric variable",
+      "id": "218DAAFF31CB464CBD9418A102B574E4",
+      "asnIdentifier": "S2638333",
+      "ancestorIds": [
+        "5B477BEEED5747B3B23E8638C6045DDB",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "5B477BEEED5747B3B23E8638C6045DDB"
+    },
+    "5B477BEEED5747B3B23E8638C6045DDB": {
+      "asnIdentifier": "S2638332",
+      "position": 77000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.17",
+      "description": "Explain the use of the IsNumeric function",
+      "id": "5B477BEEED5747B3B23E8638C6045DDB",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "2A0FBE554DAD45D7BAA010DCFA942CE0": {
+      "depth": 2,
+      "statementNotation": "13.16.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use the val() function to cast text to a number",
+      "id": "2A0FBE554DAD45D7BAA010DCFA942CE0",
+      "asnIdentifier": "S2638331",
+      "position": 76000,
+      "ancestorIds": [
+        "58FE03C375444FBBBDE1DAAF77420EA7",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "58FE03C375444FBBBDE1DAAF77420EA7"
+    },
+    "58FE03C375444FBBBDE1DAAF77420EA7": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.16",
+      "description": "Explain the purpose of the val() function and explain what is stored when non-numeric data is used",
+      "id": "58FE03C375444FBBBDE1DAAF77420EA7",
+      "asnIdentifier": "S2638330",
+      "position": 75000,
+      "depth": 1,
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "57D102BE03434AF583A8AF38715AEC85": {
+      "id": "57D102BE03434AF583A8AF38715AEC85",
+      "asnIdentifier": "S2638329",
+      "position": 74000,
+      "depth": 2,
+      "statementNotation": "13.15.2",
+      "statementLabel": "Application",
+      "description": "Determine the value stored in a double variable when an integer is used",
+      "ancestorIds": [
+        "98C764CA9D6D4BE8871BC4D572F7EA06",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "98C764CA9D6D4BE8871BC4D572F7EA06"
+    },
+    "8812391F61544A69B8A8E8ED260E86B4": {
+      "position": 73000,
+      "depth": 2,
+      "statementNotation": "13.15.1",
+      "statementLabel": "Application",
+      "description": "Determine the value stored in an integer variable when a double is used",
+      "id": "8812391F61544A69B8A8E8ED260E86B4",
+      "asnIdentifier": "S2638328",
+      "ancestorIds": [
+        "98C764CA9D6D4BE8871BC4D572F7EA06",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "98C764CA9D6D4BE8871BC4D572F7EA06"
+    },
+    "98C764CA9D6D4BE8871BC4D572F7EA06": {
+      "id": "98C764CA9D6D4BE8871BC4D572F7EA06",
+      "asnIdentifier": "S2638327",
+      "position": 72000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.15",
+      "description": "Explain automatic type conversion (for example, an integer assigned to double variable, or a double assigned to an integer variable)",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "ED9D0D30E7DA4928BCF3752552B08BCC": {
+      "statementLabel": "Application",
+      "description": "Write programs where the variables are declared appropriately (either globally at the beginning of the program or locally within the procedure)",
+      "id": "ED9D0D30E7DA4928BCF3752552B08BCC",
+      "asnIdentifier": "S2638326",
+      "position": 71000,
+      "depth": 2,
+      "statementNotation": "3.14.1",
+      "ancestorIds": [
+        "168156F4227D4CABAEBCDD505E7DFC46",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "168156F4227D4CABAEBCDD505E7DFC46"
+    },
+    "168156F4227D4CABAEBCDD505E7DFC46": {
+      "description": "Describe the circumstances under which variables should be declared locally and globally",
+      "id": "168156F4227D4CABAEBCDD505E7DFC46",
+      "asnIdentifier": "S2638325",
+      "position": 70000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.14",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "EEB30A0E2BDB48DF8E67A798525784A5": {
+      "description": "Write programs where the results of calculations are formatted in Currency, Standard, and Percent formats",
+      "id": "EEB30A0E2BDB48DF8E67A798525784A5",
+      "asnIdentifier": "S2638324",
+      "position": 69000,
+      "depth": 2,
+      "statementNotation": "3.13.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "9FA9674AD39F41D18883EC1A8DB7EB8E",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "9FA9674AD39F41D18883EC1A8DB7EB8E"
+    },
+    "9FA9674AD39F41D18883EC1A8DB7EB8E": {
+      "id": "9FA9674AD39F41D18883EC1A8DB7EB8E",
+      "asnIdentifier": "S2638323",
+      "position": 68000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.13",
+      "description": "Display the results of calculations formatted appropriately (Currency, Standard, Percent)",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "90B258DFFD0A47A0A9C47BA490F2238B": {
+      "statementLabel": "Application",
+      "description": "Write programs that use these constants",
+      "id": "90B258DFFD0A47A0A9C47BA490F2238B",
+      "asnIdentifier": "S2638322",
+      "position": 67000,
+      "depth": 2,
+      "statementNotation": "3.12.1",
+      "ancestorIds": [
+        "05CC4D4B347D4B5FB3407F3EF2BE4805",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "05CC4D4B347D4B5FB3407F3EF2BE4805"
+    },
+    "05CC4D4B347D4B5FB3407F3EF2BE4805": {
+      "id": "05CC4D4B347D4B5FB3407F3EF2BE4805",
+      "asnIdentifier": "S2638321",
+      "position": 66000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.12",
+      "description": "List and explain the function of the following constants: vbCrLF, vbTab, Nothing",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "313A1A96A55D4E88A7E9A7695AD76891": {
+      "asnIdentifier": "S2638320",
+      "position": 65000,
+      "depth": 2,
+      "statementNotation": "3.11.1",
+      "statementLabel": "Application",
+      "description": "Use appropriate constants when writing programs",
+      "id": "313A1A96A55D4E88A7E9A7695AD76891",
+      "ancestorIds": [
+        "797E1E5675AA43B4B4B030F5AADA429B",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "797E1E5675AA43B4B4B030F5AADA429B"
+    },
+    "797E1E5675AA43B4B4B030F5AADA429B": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.11",
+      "description": "Explain the circumstances and give examples of appropriate occasions to use constants",
+      "id": "797E1E5675AA43B4B4B030F5AADA429B",
+      "asnIdentifier": "S2638319",
+      "position": 64000,
+      "depth": 1,
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "556DD469A9ED432A99A5223ACB4299D6": {
+      "id": "556DD469A9ED432A99A5223ACB4299D6",
+      "asnIdentifier": "S2638318",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "3.10.2",
+      "statementLabel": "Application",
+      "description": "Write programs that use descriptive variable names",
+      "ancestorIds": [
+        "2DAF0A79C0E84C4CB8B34D59B0866112",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "2DAF0A79C0E84C4CB8B34D59B0866112"
+    },
+    "5C1B4B72A29E4EA3B0E47B711971544E": {
+      "depth": 2,
+      "statementNotation": "3.10.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use proper variable naming conventions",
+      "id": "5C1B4B72A29E4EA3B0E47B711971544E",
+      "asnIdentifier": "S2638317",
+      "position": 62000,
+      "ancestorIds": [
+        "2DAF0A79C0E84C4CB8B34D59B0866112",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "2DAF0A79C0E84C4CB8B34D59B0866112"
+    },
+    "2DAF0A79C0E84C4CB8B34D59B0866112": {
+      "description": "Explain rules for choosing variable names",
+      "id": "2DAF0A79C0E84C4CB8B34D59B0866112",
+      "asnIdentifier": "S2638316",
+      "position": 61000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.10",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "07EAB49D76B84E1D8A82DA14428F70A6": {
+      "statementNotation": "3.9.2",
+      "statementLabel": "Application",
+      "description": "Write statements that assign values to variables",
+      "id": "07EAB49D76B84E1D8A82DA14428F70A6",
+      "asnIdentifier": "S2638315",
+      "position": 60000,
+      "depth": 2,
+      "ancestorIds": [
+        "6A470913C8E941B78ABA64F865B59BE9",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "6A470913C8E941B78ABA64F865B59BE9"
+    },
+    "81C32902187A4678A6906AB54A12C533": {
+      "description": "Write statements that assign values to objects, such as text to a label",
+      "id": "81C32902187A4678A6906AB54A12C533",
+      "asnIdentifier": "S2638314",
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "3.9.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "6A470913C8E941B78ABA64F865B59BE9",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "6A470913C8E941B78ABA64F865B59BE9"
+    },
+    "6A470913C8E941B78ABA64F865B59BE9": {
+      "id": "6A470913C8E941B78ABA64F865B59BE9",
+      "asnIdentifier": "S2638313",
+      "position": 58000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.9",
+      "description": "Describe the syntax for assignment statement",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "E2566F3D5C754C5F9C4D0BDB7D7B3F5B": {
+      "statementNotation": "3.8.2",
+      "statementLabel": "Application",
+      "description": "Write programs that use mathematical operations correctly (integer arithmetic vs floating point arithmetic)",
+      "id": "E2566F3D5C754C5F9C4D0BDB7D7B3F5B",
+      "asnIdentifier": "S2638312",
+      "position": 57000,
+      "depth": 2,
+      "ancestorIds": [
+        "37A0861C0D27404B862C36CA6AB70668",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "37A0861C0D27404B862C36CA6AB70668"
+    },
+    "70705266ABD74E1280A7F83E9EFEAC66": {
+      "asnIdentifier": "S2638311",
+      "position": 56000,
+      "depth": 2,
+      "statementNotation": "3.8.1",
+      "statementLabel": "Application",
+      "description": "Write formulas using operators and order of operations",
+      "id": "70705266ABD74E1280A7F83E9EFEAC66",
+      "ancestorIds": [
+        "37A0861C0D27404B862C36CA6AB70668",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "37A0861C0D27404B862C36CA6AB70668"
+    },
+    "37A0861C0D27404B862C36CA6AB70668": {
+      "id": "37A0861C0D27404B862C36CA6AB70668",
+      "asnIdentifier": "S2638310",
+      "position": 55000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.8",
+      "description": "List arithmetic operations and order of operations (^, *, /, \\, mod, +, -)",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "C4046539D52C4406B6DD28E13370777F": {
+      "id": "C4046539D52C4406B6DD28E13370777F",
+      "asnIdentifier": "S2638309",
+      "position": 54000,
+      "depth": 2,
+      "statementNotation": "3.7.1",
+      "statementLabel": "Application",
+      "description": "Use floating point variables in programs where appropriate",
+      "ancestorIds": [
+        "4ECA2EF32C5B4F96B2367EB6E6024E7B",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "4ECA2EF32C5B4F96B2367EB6E6024E7B"
+    },
+    "4ECA2EF32C5B4F96B2367EB6E6024E7B": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.7",
+      "description": "Explain the advantages and disadvantages of floating-point numbers (round-off errors, more memory, approximate answers, slower computation, size of numbers to be stored, etc.)",
+      "id": "4ECA2EF32C5B4F96B2367EB6E6024E7B",
+      "asnIdentifier": "S2638308",
+      "position": 53000,
+      "depth": 1,
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "D5D021A01A13447D82C2CDD312B90937": {
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "3.6.1",
+      "statementLabel": "Application",
+      "description": "Use integer variables in programs where appropriate",
+      "id": "D5D021A01A13447D82C2CDD312B90937",
+      "asnIdentifier": "S2638307",
+      "ancestorIds": [
+        "A6CD84F09C48484FB62315D357BFC7E0",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "A6CD84F09C48484FB62315D357BFC7E0"
+    },
+    "A6CD84F09C48484FB62315D357BFC7E0": {
+      "listId": "3.6",
+      "description": "Explain the advantages of using integer variables whenever possible (faster computation, require less memory, obtain exact answers)",
+      "id": "A6CD84F09C48484FB62315D357BFC7E0",
+      "asnIdentifier": "S2638306",
+      "position": 51000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "11BCB47845264C368316DDF72FD38C22": {
+      "id": "11BCB47845264C368316DDF72FD38C22",
+      "asnIdentifier": "S2638305",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "3.5.1",
+      "statementLabel": "Application",
+      "description": "Write output lines that use concatenation",
+      "ancestorIds": [
+        "D55F9DE458904729B2EFE0DE0987983E",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "D55F9DE458904729B2EFE0DE0987983E"
+    },
+    "D55F9DE458904729B2EFE0DE0987983E": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.5",
+      "description": "Describe concatenation and list the concatenation operator (&)",
+      "id": "D55F9DE458904729B2EFE0DE0987983E",
+      "asnIdentifier": "S2638304",
+      "position": 49000,
+      "depth": 1,
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "FC61A3079365438EA718C7ED1FAA9652": {
+      "statementLabel": "Application",
+      "description": "Write a program that uses assignment statements",
+      "id": "FC61A3079365438EA718C7ED1FAA9652",
+      "asnIdentifier": "S2638303",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "3.4.1",
+      "ancestorIds": [
+        "F42ACD8CF830425FB08E9305A386D23E",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "F42ACD8CF830425FB08E9305A386D23E"
+    },
+    "F42ACD8CF830425FB08E9305A386D23E": {
+      "id": "F42ACD8CF830425FB08E9305A386D23E",
+      "asnIdentifier": "S2638302",
+      "position": 47000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.4",
+      "description": "Describe the syntax of an assignment statement",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "812B04A68818406BAFFD0C5D7D16966B": {
+      "depth": 2,
+      "statementNotation": "3.3.1",
+      "statementLabel": "Application",
+      "description": "Write programs in which variables are declared",
+      "id": "812B04A68818406BAFFD0C5D7D16966B",
+      "asnIdentifier": "S2638301",
+      "position": 46000,
+      "ancestorIds": [
+        "8A3A168F02B6446EB538B51D85B3794B",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "8A3A168F02B6446EB538B51D85B3794B"
+    },
+    "8A3A168F02B6446EB538B51D85B3794B": {
+      "description": "Describe how to declare a variable (using Dim) and list the initial value for each type of data",
+      "id": "8A3A168F02B6446EB538B51D85B3794B",
+      "asnIdentifier": "S2638300",
+      "position": 45000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.3",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "0D1D292F2A894405A560A764C72868B4": {
+      "id": "0D1D292F2A894405A560A764C72868B4",
+      "asnIdentifier": "S2638299",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "3.2.6",
+      "statementLabel": "Application",
+      "description": "Explain the similarities and differences between Strings and Chars",
+      "ancestorIds": [
+        "C85D6CFB74934EF18FCA9D116CF93619",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "C85D6CFB74934EF18FCA9D116CF93619"
+    },
+    "D77B7847493B4C4883DFDDFAF7199D98": {
+      "asnIdentifier": "S2638298",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "3.2.5",
+      "statementLabel": "Application",
+      "description": "Determine whether an identification number (such as Social Security Number) should be treated as a string or number",
+      "id": "D77B7847493B4C4883DFDDFAF7199D98",
+      "ancestorIds": [
+        "C85D6CFB74934EF18FCA9D116CF93619",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "C85D6CFB74934EF18FCA9D116CF93619"
+    },
+    "43247FFEB778420E968F891668CFCDDB": {
+      "id": "43247FFEB778420E968F891668CFCDDB",
+      "asnIdentifier": "S2638297",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "3.2.4",
+      "statementLabel": "Application",
+      "description": "Designate data type using correct syntax",
+      "ancestorIds": [
+        "C85D6CFB74934EF18FCA9D116CF93619",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "C85D6CFB74934EF18FCA9D116CF93619"
+    },
+    "6453420083694109B78775BD7A403A34": {
+      "id": "6453420083694109B78775BD7A403A34",
+      "asnIdentifier": "S2638296",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "3.2.3",
+      "statementLabel": "Application",
+      "description": "Determine whether a number should be treated as an integer or a floating point (i.e. single, double)",
+      "ancestorIds": [
+        "C85D6CFB74934EF18FCA9D116CF93619",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "C85D6CFB74934EF18FCA9D116CF93619"
+    },
+    "E20B537FB09B4859823FF28D52855CE7": {
+      "id": "E20B537FB09B4859823FF28D52855CE7",
+      "asnIdentifier": "S2638295",
+      "position": 40000,
+      "depth": 2,
+      "statementNotation": "3.2.2",
+      "statementLabel": "Application",
+      "description": "Determine whether a particular \"number\" would be considered numeric",
+      "ancestorIds": [
+        "C85D6CFB74934EF18FCA9D116CF93619",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "C85D6CFB74934EF18FCA9D116CF93619"
+    },
+    "04C3CBD4271A4C8CBABAFA0B474A8A43": {
+      "depth": 2,
+      "statementNotation": "3.2.1",
+      "statementLabel": "Application",
+      "description": "Compare the data types",
+      "id": "04C3CBD4271A4C8CBABAFA0B474A8A43",
+      "asnIdentifier": "S2638294",
+      "position": 39000,
+      "ancestorIds": [
+        "C85D6CFB74934EF18FCA9D116CF93619",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "C85D6CFB74934EF18FCA9D116CF93619"
+    },
+    "C85D6CFB74934EF18FCA9D116CF93619": {
+      "description": "List the following data types: Integer, Boolean, Single/Double, String, Char",
+      "id": "C85D6CFB74934EF18FCA9D116CF93619",
+      "asnIdentifier": "S2638293",
+      "position": 38000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.2",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "03B49B2DFB8B46FC9482DDDC646CD0AB": {
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "03B49B2DFB8B46FC9482DDDC646CD0AB",
+      "asnIdentifier": "S2638292",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "3.1.1",
+      "ancestorIds": [
+        "2F6F9DE30D0945E48EA937AD8531C71C",
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "2F6F9DE30D0945E48EA937AD8531C71C"
+    },
+    "2F6F9DE30D0945E48EA937AD8531C71C": {
+      "description": "Define terminology",
+      "id": "2F6F9DE30D0945E48EA937AD8531C71C",
+      "asnIdentifier": "S2638291",
+      "position": 36000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.1",
+      "ancestorIds": [
+        "879C11130A914442B4A8A354DA63CCC9"
+      ],
+      "parentId": "879C11130A914442B4A8A354DA63CCC9"
+    },
+    "879C11130A914442B4A8A354DA63CCC9": {
+      "id": "879C11130A914442B4A8A354DA63CCC9",
+      "asnIdentifier": "S2638290",
+      "position": 35000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "3:",
+      "description": "Data Types, Variables, Constants, and Mathematical Operations",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5FC343705CAF4C8AA8E9459E0248A407": {
+      "id": "5FC343705CAF4C8AA8E9459E0248A407",
+      "asnIdentifier": "S2638289",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "2.8.5",
+      "statementLabel": "Application",
+      "description": "Use the line continuation character (_) in the code to make it more readable",
+      "ancestorIds": [
+        "73E2251A43324A3EBD820C0EE0AB6E6B",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "73E2251A43324A3EBD820C0EE0AB6E6B"
+    },
+    "E5E1E8E9B6BF4589ADA6EA4DD747742D": {
+      "id": "E5E1E8E9B6BF4589ADA6EA4DD747742D",
+      "asnIdentifier": "S2638288",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "2.8.4",
+      "statementLabel": "Application",
+      "description": "Use standard naming conventions for controls by beginning the name with the appropriate prefix (btn for button, lbl for label, etc.)",
+      "ancestorIds": [
+        "73E2251A43324A3EBD820C0EE0AB6E6B",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "73E2251A43324A3EBD820C0EE0AB6E6B"
+    },
+    "CEB489D8638C466BB3D1FA6869F2CD55": {
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "2.8.3",
+      "statementLabel": "Application",
+      "description": "Document difficult logic to make it easy to follow",
+      "id": "CEB489D8638C466BB3D1FA6869F2CD55",
+      "asnIdentifier": "S2638287",
+      "ancestorIds": [
+        "73E2251A43324A3EBD820C0EE0AB6E6B",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "73E2251A43324A3EBD820C0EE0AB6E6B"
+    },
+    "6167B29EE1E543818F5099A46A65E9E5": {
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "2.8.2",
+      "statementLabel": "Application",
+      "description": "Declare and use variables",
+      "id": "6167B29EE1E543818F5099A46A65E9E5",
+      "asnIdentifier": "S2638286",
+      "ancestorIds": [
+        "73E2251A43324A3EBD820C0EE0AB6E6B",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "73E2251A43324A3EBD820C0EE0AB6E6B"
+    },
+    "C367B5109B02468E80772FB09ADDF3FC": {
+      "depth": 2,
+      "statementNotation": "2.8.1",
+      "statementLabel": "Application",
+      "description": "Explain the characteristics of readable programs",
+      "id": "C367B5109B02468E80772FB09ADDF3FC",
+      "asnIdentifier": "S2638285",
+      "position": 30000,
+      "ancestorIds": [
+        "73E2251A43324A3EBD820C0EE0AB6E6B",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "73E2251A43324A3EBD820C0EE0AB6E6B"
+    },
+    "73E2251A43324A3EBD820C0EE0AB6E6B": {
+      "id": "73E2251A43324A3EBD820C0EE0AB6E6B",
+      "asnIdentifier": "S2638284",
+      "position": 29000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.8",
+      "description": "Explain the characteristics of readable programs",
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "494F633BA04A487487C51DE034184C42": {
+      "id": "494F633BA04A487487C51DE034184C42",
+      "asnIdentifier": "S2638283",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "2.7.1",
+      "statementLabel": "Application",
+      "description": "When given an example, identify the error type",
+      "ancestorIds": [
+        "A5D0886FCBB84AC7B52B27763A6C2B43",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "A5D0886FCBB84AC7B52B27763A6C2B43"
+    },
+    "A5D0886FCBB84AC7B52B27763A6C2B43": {
+      "listId": "2.7",
+      "description": "Identify different types of errors (syntax, semantic, run-time, compile time)",
+      "id": "A5D0886FCBB84AC7B52B27763A6C2B43",
+      "asnIdentifier": "S2638282",
+      "position": 27000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "0D1EACB584274F83B4D75048C745C4FA": {
+      "description": "Write a psuedocode (algorithm) for a programming problem",
+      "id": "0D1EACB584274F83B4D75048C745C4FA",
+      "asnIdentifier": "S2638281",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "2.6.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "AA61A94DDB6043479B868546E1C33E2E",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "AA61A94DDB6043479B868546E1C33E2E"
+    },
+    "AA61A94DDB6043479B868546E1C33E2E": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.6",
+      "description": "Explain the importance of algorithm and/or pseudocode in program development",
+      "id": "AA61A94DDB6043479B868546E1C33E2E",
+      "asnIdentifier": "S2638280",
+      "position": 25000,
+      "depth": 1,
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "C264A362CF65431391425BD876FAC5C0": {
+      "depth": 2,
+      "statementNotation": "2.5.2",
+      "statementLabel": "Application",
+      "description": "Update an existing program",
+      "id": "C264A362CF65431391425BD876FAC5C0",
+      "asnIdentifier": "S2638279",
+      "position": 24000,
+      "ancestorIds": [
+        "42143DFF313840E1A05406A5ADE5296F",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42143DFF313840E1A05406A5ADE5296F"
+    },
+    "746906327C0D45F88F52D96BCEDABC6E": {
+      "depth": 2,
+      "statementNotation": "2.5.1",
+      "statementLabel": "Application",
+      "description": "Write programs that contain comments",
+      "id": "746906327C0D45F88F52D96BCEDABC6E",
+      "asnIdentifier": "S2638278",
+      "position": 23000,
+      "ancestorIds": [
+        "42143DFF313840E1A05406A5ADE5296F",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42143DFF313840E1A05406A5ADE5296F"
+    },
+    "42143DFF313840E1A05406A5ADE5296F": {
+      "listId": "2.5",
+      "description": "Explain the importance of program documentation and maintenance",
+      "id": "42143DFF313840E1A05406A5ADE5296F",
+      "asnIdentifier": "S2638277",
+      "position": 22000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "BFAA7A323B604B0AAE965A70939B315D": {
+      "depth": 2,
+      "statementNotation": "2.4.2",
+      "statementLabel": "Application",
+      "description": "Write programs whose output is easy to read and understand",
+      "id": "BFAA7A323B604B0AAE965A70939B315D",
+      "asnIdentifier": "S2638276",
+      "position": 21000,
+      "ancestorIds": [
+        "C54578A2D09B48BB87159D58F80DB497",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "C54578A2D09B48BB87159D58F80DB497"
+    },
+    "FBC8738378A54D19BE6402E93465E0B7": {
+      "depth": 2,
+      "statementNotation": "2.4.1",
+      "statementLabel": "Application",
+      "description": "Write programs that have clear instructions",
+      "id": "FBC8738378A54D19BE6402E93465E0B7",
+      "asnIdentifier": "S2638275",
+      "position": 20000,
+      "ancestorIds": [
+        "C54578A2D09B48BB87159D58F80DB497",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "C54578A2D09B48BB87159D58F80DB497"
+    },
+    "C54578A2D09B48BB87159D58F80DB497": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.4",
+      "description": "Explain the characteristics of user-friendly programs",
+      "id": "C54578A2D09B48BB87159D58F80DB497",
+      "asnIdentifier": "S2638274",
+      "position": 19000,
+      "depth": 1,
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "98C41C50998644EFAA9F89C4EF9891A1": {
+      "description": "Use appropriate syntax to include comments in programs",
+      "id": "98C41C50998644EFAA9F89C4EF9891A1",
+      "asnIdentifier": "S2638273",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "2.3.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "4A449F0E0CA84E64832246F46AB743AD",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "4A449F0E0CA84E64832246F46AB743AD"
+    },
+    "4A449F0E0CA84E64832246F46AB743AD": {
+      "id": "4A449F0E0CA84E64832246F46AB743AD",
+      "asnIdentifier": "S2638272",
+      "position": 17000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.3",
+      "description": "Identify syntax of comments",
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "416786FD982E48899BE9BCD9A51D4AE4": {
+      "asnIdentifier": "S2638271",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "2.2.1",
+      "statementLabel": "Application",
+      "description": "When given an example, be able to identify the correct steps",
+      "id": "416786FD982E48899BE9BCD9A51D4AE4",
+      "ancestorIds": [
+        "A47CBBF458F54F29B0C4AE8E83961C2D",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "A47CBBF458F54F29B0C4AE8E83961C2D"
+    },
+    "A47CBBF458F54F29B0C4AE8E83961C2D": {
+      "id": "A47CBBF458F54F29B0C4AE8E83961C2D",
+      "asnIdentifier": "S2638270",
+      "position": 15000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.2",
+      "description": "List the steps of the programming process",
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "87DA8E1C279D4E0C88C0934FC8F17DF2": {
+      "asnIdentifier": "S2638269",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "2.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "87DA8E1C279D4E0C88C0934FC8F17DF2",
+      "ancestorIds": [
+        "024D7EED870F4958AA8FB78D556F37B9",
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "024D7EED870F4958AA8FB78D556F37B9"
+    },
+    "024D7EED870F4958AA8FB78D556F37B9": {
+      "description": "Define terminology",
+      "id": "024D7EED870F4958AA8FB78D556F37B9",
+      "asnIdentifier": "S2638268",
+      "position": 13000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.1",
+      "ancestorIds": [
+        "42A167E14BC6418193BF1315D00054EC"
+      ],
+      "parentId": "42A167E14BC6418193BF1315D00054EC"
+    },
+    "42A167E14BC6418193BF1315D00054EC": {
+      "statementLabel": "Unit",
+      "listId": "2:",
+      "description": "Programming Techniques and Characteristics of Good Programs",
+      "id": "42A167E14BC6418193BF1315D00054EC",
+      "asnIdentifier": "S2638267",
+      "position": 12000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0CC0F4E63B3547D6B7973846E6F3F19A": {
+      "statementLabel": "Application",
+      "description": "Give examples of events and the actions that result in an event-driven program",
+      "id": "0CC0F4E63B3547D6B7973846E6F3F19A",
+      "asnIdentifier": "S2638266",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "1.5.1",
+      "ancestorIds": [
+        "A3731033B26F4508AF94FE41D843CE2C",
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "A3731033B26F4508AF94FE41D843CE2C"
+    },
+    "A3731033B26F4508AF94FE41D843CE2C": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.5",
+      "description": "Discuss Windows applications, events, and event driven programs",
+      "id": "A3731033B26F4508AF94FE41D843CE2C",
+      "asnIdentifier": "S2638265",
+      "position": 10000,
+      "ancestorIds": [
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "9E74B5B174D04A5CA0810E39656E9DDC"
+    },
+    "305B7DFEB9B446679CACF578B217ED9D": {
+      "description": "Explain the difference between executable code and source code",
+      "id": "305B7DFEB9B446679CACF578B217ED9D",
+      "asnIdentifier": "S2638264",
+      "position": 9000,
+      "depth": 2,
+      "statementNotation": "1.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "F573731E5EF342A0A9B1A7165CFB5E55",
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "F573731E5EF342A0A9B1A7165CFB5E55"
+    },
+    "F573731E5EF342A0A9B1A7165CFB5E55": {
+      "id": "F573731E5EF342A0A9B1A7165CFB5E55",
+      "asnIdentifier": "S2638262",
+      "position": 8000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.4",
+      "description": "Describe executable code and source code",
+      "ancestorIds": [
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "9E74B5B174D04A5CA0810E39656E9DDC"
+    },
+    "DBD9234C4E1B4690B199B8B1F1B31E19": {
+      "id": "DBD9234C4E1B4690B199B8B1F1B31E19",
+      "asnIdentifier": "S2638261",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "1.3.1",
+      "statementLabel": "Application",
+      "description": "Identify technology as either hardware or software",
+      "ancestorIds": [
+        "C0AE5F37E7B743B18D2FDAF81BED7A07",
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "C0AE5F37E7B743B18D2FDAF81BED7A07"
+    },
+    "C0AE5F37E7B743B18D2FDAF81BED7A07": {
+      "id": "C0AE5F37E7B743B18D2FDAF81BED7A07",
+      "asnIdentifier": "S2638260",
+      "position": 6000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.3",
+      "description": "Discuss hardware and software",
+      "ancestorIds": [
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "9E74B5B174D04A5CA0810E39656E9DDC"
+    },
+    "55FF4C68BEEF498E8B5469CEA0DFDFF6": {
+      "description": "Identify various software as system or application",
+      "id": "55FF4C68BEEF498E8B5469CEA0DFDFF6",
+      "asnIdentifier": "S2638259",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "1.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "6245CCC72DB64DB6B4238B0B196397D9",
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "6245CCC72DB64DB6B4238B0B196397D9"
+    },
+    "6245CCC72DB64DB6B4238B0B196397D9": {
+      "description": "Explain the difference between system and application software",
+      "id": "6245CCC72DB64DB6B4238B0B196397D9",
+      "asnIdentifier": "S2638258",
+      "position": 4000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.2",
+      "ancestorIds": [
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "9E74B5B174D04A5CA0810E39656E9DDC"
+    },
+    "900E9E93FEC148B7B24A63659A619487": {
+      "statementNotation": "1.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "900E9E93FEC148B7B24A63659A619487",
+      "asnIdentifier": "S2638257",
+      "position": 3000,
+      "depth": 2,
+      "ancestorIds": [
+        "3D68D57A981145C6820DC03ADF52734E",
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "3D68D57A981145C6820DC03ADF52734E"
+    },
+    "3D68D57A981145C6820DC03ADF52734E": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.1",
+      "description": "Define terminology",
+      "id": "3D68D57A981145C6820DC03ADF52734E",
+      "asnIdentifier": "S2638256",
+      "position": 2000,
+      "ancestorIds": [
+        "9E74B5B174D04A5CA0810E39656E9DDC"
+      ],
+      "parentId": "9E74B5B174D04A5CA0810E39656E9DDC"
+    },
+    "9E74B5B174D04A5CA0810E39656E9DDC": {
+      "id": "9E74B5B174D04A5CA0810E39656E9DDC",
+      "asnIdentifier": "S2638255",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "1:",
+      "description": "Introduction to Programming",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

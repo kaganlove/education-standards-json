@@ -1,0 +1,755 @@
+{
+  "id": "F4CB2B5DF6904071BBCC671A3AB783B8_D2784929_high-school-number-and-quantity",
+  "title": "High School — Number and Quantity",
+  "subject": "Mathematics (2017-)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2784929",
+    "valid": "2017",
+    "title": "Ohio Learning Standards: Mathematics",
+    "sourceURL": "http://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-2017.pdf.aspx",
+    "asnIdentifier": "D2784929",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "F4CB2B5DF6904071BBCC671A3AB783B8",
+    "title": "Ohio"
+  },
+  "standards": {
+    "8026315D9D8642C99CE4C40D06188742": {
+      "id": "8026315D9D8642C99CE4C40D06188742",
+      "asnIdentifier": "S2787752",
+      "position": 54000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.12",
+      "statementLabel": "Standard",
+      "description": "Work with 2 × 2 matrices as transformations of the plane, and interpret the absolute value of the determinant in terms of area.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "7D3D738F337A47E684A046A0F1870022": {
+      "id": "7D3D738F337A47E684A046A0F1870022",
+      "asnIdentifier": "S2787751",
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.11",
+      "statementLabel": "Standard",
+      "description": "Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "2DC6AD851F7F42539120C35D6F9C6C1B": {
+      "id": "2DC6AD851F7F42539120C35D6F9C6C1B",
+      "asnIdentifier": "S2787750",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.10",
+      "statementLabel": "Standard",
+      "description": "Understand that the zero and identity matrices play a role in matrix addition and multiplication analogous to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "D7AD1BFBE07741AFA72F355BC6185C3A": {
+      "id": "D7AD1BFBE07741AFA72F355BC6185C3A",
+      "asnIdentifier": "S2787749",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.9",
+      "statementLabel": "Standard",
+      "description": "Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "E3A9D56A302A499FA55F82CF8E55A18E": {
+      "id": "E3A9D56A302A499FA55F82CF8E55A18E",
+      "asnIdentifier": "S2787748",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.8",
+      "statementLabel": "Standard",
+      "description": "Add, subtract, and multiply matrices of appropriate dimensions.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "69350FB3C208422E8C1C26A7E6CB25D8": {
+      "id": "69350FB3C208422E8C1C26A7E6CB25D8",
+      "asnIdentifier": "S2787747",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.7",
+      "statementLabel": "Standard",
+      "description": "Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs in a game are doubled.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "18A2A8C81E324D37B430097A7E0FDDC9": {
+      "id": "18A2A8C81E324D37B430097A7E0FDDC9",
+      "asnIdentifier": "S2787746",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.6",
+      "statementLabel": "Standard",
+      "description": "Use matrices to represent and manipulate data, e.g., to represent payoffs or incidence relationships in a network.",
+      "ancestorIds": [
+        "7E729ADA39A6446CBED3C646DE47A135",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7E729ADA39A6446CBED3C646DE47A135"
+    },
+    "7E729ADA39A6446CBED3C646DE47A135": {
+      "id": "7E729ADA39A6446CBED3C646DE47A135",
+      "asnIdentifier": "S2787745",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "HSN-VM.C",
+      "statementLabel": "Cluster",
+      "description": "Perform operations on matrices, and use matrices in applications.",
+      "ancestorIds": [
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "15316B7842DB45CD83809DFC80A9801C"
+    },
+    "86A0CFC9084E4DBF90360AF271B1C7A1": {
+      "id": "86A0CFC9084E4DBF90360AF271B1C7A1",
+      "asnIdentifier": "S2788025",
+      "position": 46000,
+      "depth": 3,
+      "statementNotation": "(+)N.VM.5.b",
+      "statementLabel": "Component",
+      "description": "Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).",
+      "ancestorIds": [
+        "FE45B946D070472CBA848860C4D2D4B9",
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "FE45B946D070472CBA848860C4D2D4B9"
+    },
+    "16991DE1B65E4B1F8AA55B5CDA78B0EA": {
+      "id": "16991DE1B65E4B1F8AA55B5CDA78B0EA",
+      "asnIdentifier": "S2788024",
+      "position": 45000,
+      "depth": 3,
+      "statementNotation": "(+)N.VM.5.a",
+      "statementLabel": "Component",
+      "description": "Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c (v<sub>x</sub>, v<sub>y</sub>) = (cv <sub>x</sub>, cv<sub>y</sub>).",
+      "ancestorIds": [
+        "FE45B946D070472CBA848860C4D2D4B9",
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "FE45B946D070472CBA848860C4D2D4B9"
+    },
+    "FE45B946D070472CBA848860C4D2D4B9": {
+      "id": "FE45B946D070472CBA848860C4D2D4B9",
+      "asnIdentifier": "S2788023",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.5",
+      "statementLabel": "Standard",
+      "description": "Multiply a vector by a scalar",
+      "ancestorIds": [
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "B19A3474A52E4602B36136FAD450DCDE"
+    },
+    "0A22F26CD21F46B2BAF07F361DB5E1B9": {
+      "id": "0A22F26CD21F46B2BAF07F361DB5E1B9",
+      "asnIdentifier": "S2787744",
+      "position": 43000,
+      "depth": 3,
+      "statementNotation": "N.VM.4.c",
+      "statementLabel": "Component",
+      "description": "Understand vector subtraction v − w as v + (-w), where -w is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.",
+      "ancestorIds": [
+        "7C129644DB7E4F54923BFB0DFBA741F5",
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7C129644DB7E4F54923BFB0DFBA741F5"
+    },
+    "26EE9C0584224F4C9A44A41A23CEFF2D": {
+      "id": "26EE9C0584224F4C9A44A41A23CEFF2D",
+      "asnIdentifier": "S2787743",
+      "position": 42000,
+      "depth": 3,
+      "statementNotation": "N.VM.4.b",
+      "statementLabel": "Component",
+      "description": "Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.",
+      "ancestorIds": [
+        "7C129644DB7E4F54923BFB0DFBA741F5",
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7C129644DB7E4F54923BFB0DFBA741F5"
+    },
+    "8DCC5727D0E54A4B8FC5FF5AE4B88434": {
+      "id": "8DCC5727D0E54A4B8FC5FF5AE4B88434",
+      "asnIdentifier": "S2787742",
+      "position": 41000,
+      "depth": 3,
+      "statementNotation": "N.VM.4.a",
+      "statementLabel": "Component",
+      "description": "Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.",
+      "ancestorIds": [
+        "7C129644DB7E4F54923BFB0DFBA741F5",
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "7C129644DB7E4F54923BFB0DFBA741F5"
+    },
+    "7C129644DB7E4F54923BFB0DFBA741F5": {
+      "id": "7C129644DB7E4F54923BFB0DFBA741F5",
+      "asnIdentifier": "S2787741",
+      "position": 40000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.4",
+      "statementLabel": "Standard",
+      "description": "Add and subtract vectors.",
+      "ancestorIds": [
+        "B19A3474A52E4602B36136FAD450DCDE",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "B19A3474A52E4602B36136FAD450DCDE"
+    },
+    "B19A3474A52E4602B36136FAD450DCDE": {
+      "id": "B19A3474A52E4602B36136FAD450DCDE",
+      "asnIdentifier": "S2787740",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "HSN-VM.B",
+      "statementLabel": "Cluster",
+      "description": "Perform operations on vectors.",
+      "ancestorIds": [
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "15316B7842DB45CD83809DFC80A9801C"
+    },
+    "1352FEC2DEE745E8A19F74E4A9F37504": {
+      "id": "1352FEC2DEE745E8A19F74E4A9F37504",
+      "asnIdentifier": "S2787739",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.3",
+      "statementLabel": "Standard",
+      "description": "Solve problems involving velocity and other quantities that can be represented by vectors.",
+      "ancestorIds": [
+        "22C75B974F054DBE9B8EA828BF1B2999",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "22C75B974F054DBE9B8EA828BF1B2999"
+    },
+    "8180AEF163414F80B306C37CE45EAED9": {
+      "id": "8180AEF163414F80B306C37CE45EAED9",
+      "asnIdentifier": "S2787738",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.2",
+      "statementLabel": "Standard",
+      "description": "Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.",
+      "ancestorIds": [
+        "22C75B974F054DBE9B8EA828BF1B2999",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "22C75B974F054DBE9B8EA828BF1B2999"
+    },
+    "1C5737BABB854FE689F494ADB8DA06F1": {
+      "id": "1C5737BABB854FE689F494ADB8DA06F1",
+      "asnIdentifier": "S2787737",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "(+)N.VM.1",
+      "statementLabel": "Standard",
+      "description": "Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes, e.g., v, |v|, ||v||, <img src=\"https://purl.org/ASN/resources/images/D2784929/N.VM.1.gif\" alt=\"vec{x}\" />.",
+      "ancestorIds": [
+        "22C75B974F054DBE9B8EA828BF1B2999",
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "22C75B974F054DBE9B8EA828BF1B2999"
+    },
+    "22C75B974F054DBE9B8EA828BF1B2999": {
+      "id": "22C75B974F054DBE9B8EA828BF1B2999",
+      "asnIdentifier": "S2787736",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "HSN-VM.A",
+      "statementLabel": "Cluster",
+      "description": "Represent and model with vector quantities.",
+      "ancestorIds": [
+        "15316B7842DB45CD83809DFC80A9801C"
+      ],
+      "parentId": "15316B7842DB45CD83809DFC80A9801C"
+    },
+    "15316B7842DB45CD83809DFC80A9801C": {
+      "id": "15316B7842DB45CD83809DFC80A9801C",
+      "asnIdentifier": "S2787735",
+      "position": 34000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Vector And Matrix Quantities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "61FEB3F1B13B4FC5B31EF8ABD450531E": {
+      "id": "61FEB3F1B13B4FC5B31EF8ABD450531E",
+      "asnIdentifier": "S2787734",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "(+)N.CN.9",
+      "statementLabel": "Standard",
+      "description": "Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials.",
+      "ancestorIds": [
+        "995628CAD0DD44E1A41122C350CB7A14",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "995628CAD0DD44E1A41122C350CB7A14"
+    },
+    "1202F64EFD9C4781AE9B90D764A9F22B": {
+      "id": "1202F64EFD9C4781AE9B90D764A9F22B",
+      "asnIdentifier": "S2787733",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "(+)N.CN.8",
+      "statementLabel": "Standard",
+      "description": "Extend polynomial identities to the complex numbers.",
+      "ancestorIds": [
+        "995628CAD0DD44E1A41122C350CB7A14",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "995628CAD0DD44E1A41122C350CB7A14"
+    },
+    "A0D8FCAFD793411490698EFA075C284D": {
+      "id": "A0D8FCAFD793411490698EFA075C284D",
+      "asnIdentifier": "S2787732",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "N.CN.7",
+      "statementLabel": "Standard",
+      "description": "Solve quadratic equations with real coefficients that have complex solutions.",
+      "ancestorIds": [
+        "995628CAD0DD44E1A41122C350CB7A14",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "995628CAD0DD44E1A41122C350CB7A14"
+    },
+    "995628CAD0DD44E1A41122C350CB7A14": {
+      "id": "995628CAD0DD44E1A41122C350CB7A14",
+      "asnIdentifier": "S2787731",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "HSN-CN.C",
+      "statementLabel": "Cluster",
+      "description": "Use complex numbers in polynomial identities and equations.",
+      "ancestorIds": [
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "ADE14EF03F1740F099A0F6B16E70CAF4"
+    },
+    "8A6510F1571E46518C53160F701BA512": {
+      "id": "8A6510F1571E46518C53160F701BA512",
+      "asnIdentifier": "S2787730",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "(+)N.CN.6",
+      "statementLabel": "Standard",
+      "description": "Calculate the distance between numbers in the complex plane as the magnitude of the difference, and the midpoint of a segment as the average of the numbers at its endpoints.",
+      "ancestorIds": [
+        "5315CE0DBDE243C2A8519D51F89833F8",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "5315CE0DBDE243C2A8519D51F89833F8"
+    },
+    "1E1E2AFC5FFD466CAB3CFB422F83BE1E": {
+      "id": "1E1E2AFC5FFD466CAB3CFB422F83BE1E",
+      "asnIdentifier": "S2787729",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "(+)N.CN.5",
+      "statementLabel": "Standard",
+      "description": "Represent addition, subtraction, multiplication, and conjugation of complex numbers geometrically on the complex plane; use properties of this representation for computation.",
+      "ancestorIds": [
+        "5315CE0DBDE243C2A8519D51F89833F8",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "5315CE0DBDE243C2A8519D51F89833F8"
+    },
+    "740FCEB5CD1C44D3B02B6A8D284DC7A4": {
+      "id": "740FCEB5CD1C44D3B02B6A8D284DC7A4",
+      "asnIdentifier": "S2787728",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "(+)N.CN.4",
+      "statementLabel": "Standard",
+      "description": "Represent complex numbers on the complex plane in rectangular and polar form (including real and imaginary numbers), and explain why the rectangular and polar forms of a given complex number represent the same number.",
+      "ancestorIds": [
+        "5315CE0DBDE243C2A8519D51F89833F8",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "5315CE0DBDE243C2A8519D51F89833F8"
+    },
+    "5315CE0DBDE243C2A8519D51F89833F8": {
+      "id": "5315CE0DBDE243C2A8519D51F89833F8",
+      "asnIdentifier": "S2787727",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "HSN-CN.B",
+      "statementLabel": "Cluster",
+      "description": "Represent complex numbers and their operations on the complex plane.",
+      "ancestorIds": [
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "ADE14EF03F1740F099A0F6B16E70CAF4"
+    },
+    "FE4FF4A307394E9D96204F0A319D1965": {
+      "id": "FE4FF4A307394E9D96204F0A319D1965",
+      "asnIdentifier": "S2787726",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "(+)N.CN.3",
+      "statementLabel": "Standard",
+      "description": "Find the conjugate of a complex number; use conjugates to find magnitudes and quotients of complex numbers.",
+      "ancestorIds": [
+        "59B5FFCA91C049619C54C083C8B1500C",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "59B5FFCA91C049619C54C083C8B1500C"
+    },
+    "B0D3136C3E00463682EB7B0D383DEADC": {
+      "id": "B0D3136C3E00463682EB7B0D383DEADC",
+      "asnIdentifier": "S2787725",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "N.CN.2",
+      "statementLabel": "Standard",
+      "description": "Use the relation i² = −1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers.",
+      "ancestorIds": [
+        "59B5FFCA91C049619C54C083C8B1500C",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "59B5FFCA91C049619C54C083C8B1500C"
+    },
+    "27EBFED1207D4A779E7B3E8C85725438": {
+      "id": "27EBFED1207D4A779E7B3E8C85725438",
+      "asnIdentifier": "S2787724",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "N.CN.1",
+      "statementLabel": "Standard",
+      "description": "Know there is a complex number i such that i² = −1, and every complex number has the form a + bi with a and b real.",
+      "ancestorIds": [
+        "59B5FFCA91C049619C54C083C8B1500C",
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "59B5FFCA91C049619C54C083C8B1500C"
+    },
+    "59B5FFCA91C049619C54C083C8B1500C": {
+      "id": "59B5FFCA91C049619C54C083C8B1500C",
+      "asnIdentifier": "S2787723",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "HSN-CN.A",
+      "statementLabel": "Cluster",
+      "description": "Perform arithmetic operations with complex numbers.",
+      "ancestorIds": [
+        "ADE14EF03F1740F099A0F6B16E70CAF4"
+      ],
+      "parentId": "ADE14EF03F1740F099A0F6B16E70CAF4"
+    },
+    "ADE14EF03F1740F099A0F6B16E70CAF4": {
+      "id": "ADE14EF03F1740F099A0F6B16E70CAF4",
+      "asnIdentifier": "S2787722",
+      "position": 21000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "The Complex Number System",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6C8D47AF45C44C11823745681107A873": {
+      "id": "6C8D47AF45C44C11823745681107A873",
+      "asnIdentifier": "S2787721",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "N.Q.3",
+      "statementLabel": "Standard",
+      "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.",
+      "ancestorIds": [
+        "56B6A547989B41EB8A4605D60F8EC958",
+        "81500663D24946BCA867F35145548CF8"
+      ],
+      "parentId": "56B6A547989B41EB8A4605D60F8EC958"
+    },
+    "1BEBB46D2DDC45B59E89B9BE7A27BB55": {
+      "id": "1BEBB46D2DDC45B59E89B9BE7A27BB55",
+      "asnIdentifier": "S2787720",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "N.Q.2",
+      "statementLabel": "Standard",
+      "description": "Define appropriate quantities for the purpose of descriptive modeling.",
+      "ancestorIds": [
+        "56B6A547989B41EB8A4605D60F8EC958",
+        "81500663D24946BCA867F35145548CF8"
+      ],
+      "parentId": "56B6A547989B41EB8A4605D60F8EC958"
+    },
+    "CBAFF6C747584F37ADAE74E1ECCA0737": {
+      "id": "CBAFF6C747584F37ADAE74E1ECCA0737",
+      "asnIdentifier": "S2787719",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "N.Q.1",
+      "statementLabel": "Standard",
+      "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.",
+      "ancestorIds": [
+        "56B6A547989B41EB8A4605D60F8EC958",
+        "81500663D24946BCA867F35145548CF8"
+      ],
+      "parentId": "56B6A547989B41EB8A4605D60F8EC958"
+    },
+    "56B6A547989B41EB8A4605D60F8EC958": {
+      "id": "56B6A547989B41EB8A4605D60F8EC958",
+      "asnIdentifier": "S2787718",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "HSN-Q.A",
+      "statementLabel": "Cluster",
+      "description": "Reason quantitatively and use units to solve problems.",
+      "ancestorIds": [
+        "81500663D24946BCA867F35145548CF8"
+      ],
+      "parentId": "81500663D24946BCA867F35145548CF8"
+    },
+    "81500663D24946BCA867F35145548CF8": {
+      "id": "81500663D24946BCA867F35145548CF8",
+      "asnIdentifier": "S2787717",
+      "position": 16000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Quantities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "699508BA434D4AAEB474021E7907D1A9": {
+      "id": "699508BA434D4AAEB474021E7907D1A9",
+      "asnIdentifier": "S2787716",
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "N.RN.3",
+      "statementLabel": "Standard",
+      "description": "Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.",
+      "ancestorIds": [
+        "FC6A1C3FBEB04FDAAF03F9E483203901",
+        "28A35AF86E91453F9E25ECFAA9DEEDC9"
+      ],
+      "parentId": "FC6A1C3FBEB04FDAAF03F9E483203901"
+    },
+    "FC6A1C3FBEB04FDAAF03F9E483203901": {
+      "id": "FC6A1C3FBEB04FDAAF03F9E483203901",
+      "asnIdentifier": "S2787715",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "HSN-RN.B",
+      "statementLabel": "Cluster",
+      "description": "Use properties of rational and irrational numbers.",
+      "ancestorIds": [
+        "28A35AF86E91453F9E25ECFAA9DEEDC9"
+      ],
+      "parentId": "28A35AF86E91453F9E25ECFAA9DEEDC9"
+    },
+    "617D6AEA65334A7E85D6AA9CE246DB5D": {
+      "id": "617D6AEA65334A7E85D6AA9CE246DB5D",
+      "asnIdentifier": "S2787714",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "N.RN.2",
+      "statementLabel": "Standard",
+      "description": "Rewrite expressions involving radicals and rational exponents using the properties of exponents.",
+      "ancestorIds": [
+        "C88CD92F9A3642F9B8EDF3A86CEBE442",
+        "28A35AF86E91453F9E25ECFAA9DEEDC9"
+      ],
+      "parentId": "C88CD92F9A3642F9B8EDF3A86CEBE442"
+    },
+    "EB7D51512860423BAC18F24900C1F431": {
+      "id": "EB7D51512860423BAC18F24900C1F431",
+      "asnIdentifier": "S2787713",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "N.RN.1",
+      "statementLabel": "Standard",
+      "description": "Explain how the definition of the meaning of rational exponents follows from extending the properties of integer exponents to those values, allowing for a notation for radicals in terms of rational exponents.",
+      "ancestorIds": [
+        "C88CD92F9A3642F9B8EDF3A86CEBE442",
+        "28A35AF86E91453F9E25ECFAA9DEEDC9"
+      ],
+      "parentId": "C88CD92F9A3642F9B8EDF3A86CEBE442"
+    },
+    "C88CD92F9A3642F9B8EDF3A86CEBE442": {
+      "id": "C88CD92F9A3642F9B8EDF3A86CEBE442",
+      "asnIdentifier": "S2787712",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "HSN-RN.A",
+      "statementLabel": "Cluster",
+      "description": "Extend the properties of exponents to rational exponents.",
+      "ancestorIds": [
+        "28A35AF86E91453F9E25ECFAA9DEEDC9"
+      ],
+      "parentId": "28A35AF86E91453F9E25ECFAA9DEEDC9"
+    },
+    "28A35AF86E91453F9E25ECFAA9DEEDC9": {
+      "id": "28A35AF86E91453F9E25ECFAA9DEEDC9",
+      "asnIdentifier": "S2787711",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "The Real Number System",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EC291318ACA74213AC80F10DF0454A9A": {
+      "id": "EC291318ACA74213AC80F10DF0454A9A",
+      "asnIdentifier": "S2787260",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "MP.8",
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "2FB1ABC8BAB1425FBD3446DED0622837": {
+      "id": "2FB1ABC8BAB1425FBD3446DED0622837",
+      "asnIdentifier": "S2787259",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "MP.7",
+      "statementLabel": "Standard",
+      "description": "Look for and make use of structure.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "5F4277BB9239405D9BAA8F43154A08EA": {
+      "id": "5F4277BB9239405D9BAA8F43154A08EA",
+      "asnIdentifier": "S2787258",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "MP.6",
+      "statementLabel": "Standard",
+      "description": "Attend to precision.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "A1472C6FB43C4D5DA29CB048766AAEDA": {
+      "id": "A1472C6FB43C4D5DA29CB048766AAEDA",
+      "asnIdentifier": "S2787257",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "MP.5",
+      "statementLabel": "Standard",
+      "description": "Use appropriate tools strategically.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "644CEF4C86A14931BFE5CB27F69EBE7B": {
+      "id": "644CEF4C86A14931BFE5CB27F69EBE7B",
+      "asnIdentifier": "S2787256",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "MP.4",
+      "statementLabel": "Standard",
+      "description": "Model with mathematics.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "786A090A61474EC5B4EE4F8ADB892FCC": {
+      "id": "786A090A61474EC5B4EE4F8ADB892FCC",
+      "asnIdentifier": "S2787255",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "MP.3",
+      "statementLabel": "Standard",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "0F2FB603BE3A44EA963A6A7712D0FB73": {
+      "id": "0F2FB603BE3A44EA963A6A7712D0FB73",
+      "asnIdentifier": "S2787254",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "MP.2",
+      "statementLabel": "Standard",
+      "description": "Reason abstractly and quantitatively.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "92DFDD59B04E4C04A4ED2C12F345A133": {
+      "id": "92DFDD59B04E4C04A4ED2C12F345A133",
+      "asnIdentifier": "S2787253",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "MP.1",
+      "statementLabel": "Standard",
+      "description": "Make sense of problems and persevere in solving them.",
+      "ancestorIds": [
+        "64565AA080D14459B12CB462A76F3CE3"
+      ],
+      "parentId": "64565AA080D14459B12CB462A76F3CE3"
+    },
+    "64565AA080D14459B12CB462A76F3CE3": {
+      "id": "64565AA080D14459B12CB462A76F3CE3",
+      "asnIdentifier": "S2787252",
+      "position": 1000,
+      "depth": 0,
+      "description": "Standards for Mathematical Practice",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

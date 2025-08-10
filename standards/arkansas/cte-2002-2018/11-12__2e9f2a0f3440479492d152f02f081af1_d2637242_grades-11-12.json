@@ -1,0 +1,4643 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2637242_grades-11-12",
+  "title": "Oracle - Database Programming: Grades 11, 12",
+  "subject": "CTE (2002-2018)",
+  "normalizedSubject": "Career Education",
+  "educationLevels": [
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "id": "D2637242",
+    "valid": "2006",
+    "title": "Oracle - Database Programming",
+    "sourceURL": "http://ace.arkansas.gov/cte/informationForms/curriculumFrameworks/Documents/Frameworks/Business/databaseprogramming2007.pdf",
+    "asnIdentifier": "D2637242",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "633D11F4074D4B079BD43118DC6CF820": {
+      "description": "Define database links with explanation of object privileges",
+      "id": "633D11F4074D4B079BD43118DC6CF820",
+      "asnIdentifier": "S2638252",
+      "position": 343000,
+      "depth": 2,
+      "statementNotation": "8.10.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "8E30F89E635F4F6BB58C2353F1895230",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "8E30F89E635F4F6BB58C2353F1895230"
+    },
+    "8E30F89E635F4F6BB58C2353F1895230": {
+      "position": 342000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.10",
+      "description": "Define a database link and explain the object privileges that apply with a remote database",
+      "id": "8E30F89E635F4F6BB58C2353F1895230",
+      "asnIdentifier": "S2638251",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "08A4F922016C4DA68B0F5D5B700C297C": {
+      "id": "08A4F922016C4DA68B0F5D5B700C297C",
+      "asnIdentifier": "S2638249",
+      "position": 341000,
+      "depth": 2,
+      "statementNotation": "8.9.1",
+      "statementLabel": "Application",
+      "description": "Define with explanation of the advantages of a role",
+      "ancestorIds": [
+        "8680E45E7B8E43E1A09120EB5782B01A",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "8680E45E7B8E43E1A09120EB5782B01A"
+    },
+    "8680E45E7B8E43E1A09120EB5782B01A": {
+      "id": "8680E45E7B8E43E1A09120EB5782B01A",
+      "asnIdentifier": "S2638248",
+      "position": 340000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.9",
+      "description": "Define and explain the advantages of a role",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "BC11790F655C4646975EFE0233A9FD25": {
+      "asnIdentifier": "S2638247",
+      "position": 339000,
+      "depth": 2,
+      "statementNotation": "8.8.1",
+      "statementLabel": "Application",
+      "description": "Write a statement to grant these privileges",
+      "id": "BC11790F655C4646975EFE0233A9FD25",
+      "ancestorIds": [
+        "D82D046DD6684B03839305AB1EF08A52",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "D82D046DD6684B03839305AB1EF08A52"
+    },
+    "D82D046DD6684B03839305AB1EF08A52": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.8",
+      "description": "Write a statement to GRANT privileges such as CREATE SESSION, CREATE TABLE, CREATE SEQUENCE, CREATE VIEW, and CREATE PROCEDURE",
+      "id": "D82D046DD6684B03839305AB1EF08A52",
+      "asnIdentifier": "S2638246",
+      "position": 338000,
+      "depth": 1,
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "3EB237810C85484FAB6C97B43367D4A8": {
+      "position": 337000,
+      "depth": 2,
+      "statementNotation": "8.7.1",
+      "statementLabel": "Application",
+      "description": "Write a statement to create a user",
+      "id": "3EB237810C85484FAB6C97B43367D4A8",
+      "asnIdentifier": "S2638245",
+      "ancestorIds": [
+        "E85223D4854D48F7B1E902C7BCCB3F1C",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "E85223D4854D48F7B1E902C7BCCB3F1C"
+    },
+    "E85223D4854D48F7B1E902C7BCCB3F1C": {
+      "id": "E85223D4854D48F7B1E902C7BCCB3F1C",
+      "asnIdentifier": "S2638244",
+      "position": 336000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.7",
+      "description": "Write a statement to create a user",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "9B1E0078F743498783E75C25D89CEAD3": {
+      "id": "9B1E0078F743498783E75C25D89CEAD3",
+      "asnIdentifier": "S2638243",
+      "position": 335000,
+      "depth": 2,
+      "statementNotation": "8.6.1",
+      "statementLabel": "Application",
+      "description": "List five system privileges with function explanation",
+      "ancestorIds": [
+        "9E9A4FABE43740AA9BE5BB5117B19FC3",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "9E9A4FABE43740AA9BE5BB5117B19FC3"
+    },
+    "9E9A4FABE43740AA9BE5BB5117B19FC3": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.6",
+      "description": "List 5 system privileges and explain their functions",
+      "id": "9E9A4FABE43740AA9BE5BB5117B19FC3",
+      "asnIdentifier": "S2638242",
+      "position": 334000,
+      "depth": 1,
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "1ABEEB4A61B944898B880F3639E9A69C": {
+      "position": 333000,
+      "depth": 2,
+      "statementNotation": "8.5.1",
+      "statementLabel": "Application",
+      "description": "Research and provide evidence to support the assigned topic",
+      "id": "1ABEEB4A61B944898B880F3639E9A69C",
+      "asnIdentifier": "S2638241",
+      "ancestorIds": [
+        "21EE2AD57A274DE7AD00CAFC8FD17CA2",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "21EE2AD57A274DE7AD00CAFC8FD17CA2"
+    },
+    "21EE2AD57A274DE7AD00CAFC8FD17CA2": {
+      "position": 332000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.5",
+      "description": "Discuss why it is important, from a business perspective, to be able to set up user accounts with different types of access permissions",
+      "id": "21EE2AD57A274DE7AD00CAFC8FD17CA2",
+      "asnIdentifier": "S2638239",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "C897F60E5BB0487A8154FB297E4143DC": {
+      "asnIdentifier": "S2638238",
+      "position": 331000,
+      "depth": 2,
+      "statementNotation": "8.4.1",
+      "statementLabel": "Application",
+      "description": "Explain differences between system security and data security",
+      "id": "C897F60E5BB0487A8154FB297E4143DC",
+      "ancestorIds": [
+        "8F007F80E323435E9607264BB3696E02",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "8F007F80E323435E9607264BB3696E02"
+    },
+    "8F007F80E323435E9607264BB3696E02": {
+      "description": "Explain the difference between system security and data security as it relates to a database",
+      "id": "8F007F80E323435E9607264BB3696E02",
+      "asnIdentifier": "S2638237",
+      "position": 330000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.4",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "5D2D91A8228B467EAB22EE0A1B7A0BA7": {
+      "id": "5D2D91A8228B467EAB22EE0A1B7A0BA7",
+      "asnIdentifier": "S2638236",
+      "position": 329000,
+      "depth": 2,
+      "statementNotation": "8.3.1",
+      "statementLabel": "Application",
+      "description": "Explain the importance of controlling the flow of transaction processing",
+      "ancestorIds": [
+        "F97754200216424CAD22AA6432B187FE",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "F97754200216424CAD22AA6432B187FE"
+    },
+    "F97754200216424CAD22AA6432B187FE": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.3",
+      "description": "Explain why it is important, from a business perspective, to be able to control the flow of transaction processing",
+      "id": "F97754200216424CAD22AA6432B187FE",
+      "asnIdentifier": "S2638235",
+      "position": 328000,
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "36B5F98F43E34A32A180C96C37D35352": {
+      "id": "36B5F98F43E34A32A180C96C37D35352",
+      "asnIdentifier": "S2638234",
+      "position": 327000,
+      "depth": 2,
+      "statementNotation": "8.2.1",
+      "statementLabel": "Application",
+      "description": "List three advantages using these statements",
+      "ancestorIds": [
+        "C87459D7B1954CE8BADD29CD5C9FE102",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "C87459D7B1954CE8BADD29CD5C9FE102"
+    },
+    "C87459D7B1954CE8BADD29CD5C9FE102": {
+      "listId": "8.2",
+      "description": "List three advantages of the COMMIT, ROLLBACK, and SAVEPOINT statements",
+      "id": "C87459D7B1954CE8BADD29CD5C9FE102",
+      "asnIdentifier": "S2638233",
+      "position": 326000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "306050F2C650418D9640280D19C680B2": {
+      "asnIdentifier": "S2638232",
+      "position": 325000,
+      "depth": 2,
+      "statementNotation": "8.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "306050F2C650418D9640280D19C680B2",
+      "ancestorIds": [
+        "2E51E38BD50C450797C9A1B74A632276",
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "2E51E38BD50C450797C9A1B74A632276"
+    },
+    "2E51E38BD50C450797C9A1B74A632276": {
+      "position": 324000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.1",
+      "description": "Define terminology",
+      "id": "2E51E38BD50C450797C9A1B74A632276",
+      "asnIdentifier": "S2638231",
+      "ancestorIds": [
+        "18307A4C2EC94312AD958F9BB1D74DEA"
+      ],
+      "parentId": "18307A4C2EC94312AD958F9BB1D74DEA"
+    },
+    "18307A4C2EC94312AD958F9BB1D74DEA": {
+      "statementLabel": "Unit",
+      "listId": "8:",
+      "description": "Database Operations",
+      "id": "18307A4C2EC94312AD958F9BB1D74DEA",
+      "asnIdentifier": "S2638230",
+      "position": 323000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F90F7FBC84F14D66BFB91A14E0113F26": {
+      "id": "F90F7FBC84F14D66BFB91A14E0113F26",
+      "asnIdentifier": "S2638229",
+      "position": 322000,
+      "depth": 2,
+      "statementNotation": "7.9.1",
+      "statementLabel": "Application",
+      "description": "Present to class functional database created along with data, reports, and forms",
+      "ancestorIds": [
+        "ADC54DE97E524976998C2CAFEEA7660D",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "ADC54DE97E524976998C2CAFEEA7660D"
+    },
+    "ADC54DE97E524976998C2CAFEEA7660D": {
+      "asnIdentifier": "S2638228",
+      "position": 321000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.9",
+      "description": "Explain how to format report pages",
+      "id": "ADC54DE97E524976998C2CAFEEA7660D",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "BFE70465FDA34376A3B940B21B230F12": {
+      "statementLabel": "Application",
+      "description": "Create charts to display summary data",
+      "id": "BFE70465FDA34376A3B940B21B230F12",
+      "asnIdentifier": "S2638227",
+      "position": 320000,
+      "depth": 2,
+      "statementNotation": "7.8.1",
+      "ancestorIds": [
+        "C40BA12BB294463D80C415CB6F03E155",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "C40BA12BB294463D80C415CB6F03E155"
+    },
+    "C40BA12BB294463D80C415CB6F03E155": {
+      "description": "Discuss how to create and produce reports about customer orders using the ORDER input form and report page",
+      "id": "C40BA12BB294463D80C415CB6F03E155",
+      "asnIdentifier": "S2638226",
+      "position": 319000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.8",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "D0A81319E5AA4584AAE153EEFB08916F": {
+      "position": 318000,
+      "depth": 2,
+      "statementNotation": "7.7.1",
+      "statementLabel": "Application",
+      "description": "Format the report pages",
+      "id": "D0A81319E5AA4584AAE153EEFB08916F",
+      "asnIdentifier": "S2638225",
+      "ancestorIds": [
+        "796D4D70646940B485D44C316EFDACA7",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "796D4D70646940B485D44C316EFDACA7"
+    },
+    "796D4D70646940B485D44C316EFDACA7": {
+      "listId": "7.7",
+      "description": "Discuss how to create input forms and report areas for the application's ORDERS and ITEMS pages to enable use of the LOVs for inputting data using a wizard",
+      "id": "796D4D70646940B485D44C316EFDACA7",
+      "asnIdentifier": "S2638224",
+      "position": 317000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "6083BB85F3E0431A9BF66BF24D21F667": {
+      "asnIdentifier": "S2638222",
+      "position": 316000,
+      "depth": 2,
+      "statementNotation": "7.6.1",
+      "statementLabel": "Application",
+      "description": "Create input forms to report areas for applications such as orders and items",
+      "id": "6083BB85F3E0431A9BF66BF24D21F667",
+      "ancestorIds": [
+        "EE98D2167BFC4017BD11E8C027E06ADF",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "EE98D2167BFC4017BD11E8C027E06ADF"
+    },
+    "EE98D2167BFC4017BD11E8C027E06ADF": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.6",
+      "description": "Describe how to input data into the CUSTOMERS, SUBJECTS, PUBLISHERS, and ITEM_TYPES tables using a wizard",
+      "id": "EE98D2167BFC4017BD11E8C027E06ADF",
+      "asnIdentifier": "S2638221",
+      "position": 315000,
+      "depth": 1,
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "94DCB5442ACC4F0F83E676B6F8E5CDCE": {
+      "depth": 2,
+      "statementNotation": "7.5.1",
+      "statementLabel": "Application",
+      "description": "Using Oracle's HTML DB SQL create input forms",
+      "id": "94DCB5442ACC4F0F83E676B6F8E5CDCE",
+      "asnIdentifier": "S2638220",
+      "position": 314000,
+      "ancestorIds": [
+        "D2CD4C8CF3F843F3ACE8A6C6062093BD",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "D2CD4C8CF3F843F3ACE8A6C6062093BD"
+    },
+    "D2CD4C8CF3F843F3ACE8A6C6062093BD": {
+      "position": 313000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.5",
+      "description": "Use Oracle HTML DB SQL Workshop to create input forms using a wizard",
+      "id": "D2CD4C8CF3F843F3ACE8A6C6062093BD",
+      "asnIdentifier": "S2638219",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "281BC59DB5234AD48917ACA1EDCB6120": {
+      "position": 312000,
+      "depth": 2,
+      "statementNotation": "7.4.1",
+      "statementLabel": "Application",
+      "description": "Using Oracle's HTML DB SQL create application pages, different page styles, and a list of values",
+      "id": "281BC59DB5234AD48917ACA1EDCB6120",
+      "asnIdentifier": "S2638218",
+      "ancestorIds": [
+        "1EBBD72F09E84F9E9DF5F9FDC6DE18FF",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "1EBBD72F09E84F9E9DF5F9FDC6DE18FF"
+    },
+    "1EBBD72F09E84F9E9DF5F9FDC6DE18FF": {
+      "asnIdentifier": "S2638217",
+      "position": 311000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.4",
+      "description": "Use Oracle HTML DB SQL Workshop to create the application's pages, page style, and popup list of values (LOVs) using a wizard",
+      "id": "1EBBD72F09E84F9E9DF5F9FDC6DE18FF",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "505447441CEC44AAB95483BE39CF0E96": {
+      "position": 310000,
+      "depth": 2,
+      "statementNotation": "7.3.1",
+      "statementLabel": "Application",
+      "description": "Use Oracle's HTML DB SQL to make a table using layouts from a wizard",
+      "id": "505447441CEC44AAB95483BE39CF0E96",
+      "asnIdentifier": "S2638216",
+      "ancestorIds": [
+        "14678D11731C4C95AD4ABE94CC3776F0",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "14678D11731C4C95AD4ABE94CC3776F0"
+    },
+    "14678D11731C4C95AD4ABE94CC3776F0": {
+      "asnIdentifier": "S2638215",
+      "position": 309000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.3",
+      "description": "Discuss how to use Oracle HTML DB SQL Workshop to create table components and layouts using a wizard",
+      "id": "14678D11731C4C95AD4ABE94CC3776F0",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "8207EB7ECBA647D993F9196D60E9A903": {
+      "depth": 2,
+      "statementNotation": "7.2.4",
+      "statementLabel": "Application",
+      "description": "Create and produce reports for customers orders using ORDER in the input form and report page",
+      "id": "8207EB7ECBA647D993F9196D60E9A903",
+      "asnIdentifier": "S2638214",
+      "position": 308000,
+      "ancestorIds": [
+        "CAD58095F40C4BD0954E48C8FD49AE0D",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "CAD58095F40C4BD0954E48C8FD49AE0D"
+    },
+    "41FD45F6CF014658AB19E5126CBE706E": {
+      "statementLabel": "Application",
+      "description": "Using HTML DB SQL input data for the businesses customers, subjects, publishers, and item types",
+      "id": "41FD45F6CF014658AB19E5126CBE706E",
+      "asnIdentifier": "S2638213",
+      "position": 307000,
+      "depth": 2,
+      "statementNotation": "7.2.3",
+      "ancestorIds": [
+        "CAD58095F40C4BD0954E48C8FD49AE0D",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "CAD58095F40C4BD0954E48C8FD49AE0D"
+    },
+    "8E4EA74AB3F34DE3B35066A57727E2B9": {
+      "position": 306000,
+      "depth": 2,
+      "statementNotation": "7.2.2",
+      "statementLabel": "Application",
+      "description": "Using SQL form a database for a small business with a new list of values",
+      "id": "8E4EA74AB3F34DE3B35066A57727E2B9",
+      "asnIdentifier": "S2638212",
+      "ancestorIds": [
+        "CAD58095F40C4BD0954E48C8FD49AE0D",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "CAD58095F40C4BD0954E48C8FD49AE0D"
+    },
+    "6F80B56FCB7F4A62A06C36DA71FCB23A": {
+      "description": "Using SQL you will form a database for a small business",
+      "id": "6F80B56FCB7F4A62A06C36DA71FCB23A",
+      "asnIdentifier": "S2638211",
+      "position": 305000,
+      "depth": 2,
+      "statementNotation": "7.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "CAD58095F40C4BD0954E48C8FD49AE0D",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "CAD58095F40C4BD0954E48C8FD49AE0D"
+    },
+    "CAD58095F40C4BD0954E48C8FD49AE0D": {
+      "position": 304000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.2",
+      "description": "Discuss using SQL concepts to create a functional database appropriate for a small business",
+      "id": "CAD58095F40C4BD0954E48C8FD49AE0D",
+      "asnIdentifier": "S2638210",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "34DD24EEE45340C5BBE9B138A1638623": {
+      "asnIdentifier": "S2638209",
+      "position": 303000,
+      "depth": 2,
+      "statementNotation": "7.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "34DD24EEE45340C5BBE9B138A1638623",
+      "ancestorIds": [
+        "11D51A848988474AA4AD768859D88DD6",
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "11D51A848988474AA4AD768859D88DD6"
+    },
+    "11D51A848988474AA4AD768859D88DD6": {
+      "id": "11D51A848988474AA4AD768859D88DD6",
+      "asnIdentifier": "S2638208",
+      "position": 302000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "4AED6DAEB925463D90F9432E604FD730"
+      ],
+      "parentId": "4AED6DAEB925463D90F9432E604FD730"
+    },
+    "4AED6DAEB925463D90F9432E604FD730": {
+      "listId": "7:",
+      "description": "HTML DB",
+      "id": "4AED6DAEB925463D90F9432E604FD730",
+      "asnIdentifier": "S2638207",
+      "position": 301000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5EE206A1B12244EC9D1A971873883509": {
+      "statementLabel": "Application",
+      "description": "Categorize the results returned by a function as single row or multiple row",
+      "id": "5EE206A1B12244EC9D1A971873883509",
+      "asnIdentifier": "S2638206",
+      "position": 300000,
+      "depth": 2,
+      "statementNotation": "6.41.1",
+      "ancestorIds": [
+        "D18159613F3348FAA66E2171318E6247",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "D18159613F3348FAA66E2171318E6247"
+    },
+    "D18159613F3348FAA66E2171318E6247": {
+      "description": "Compare and contrast the results returned by single row and multiple row functions",
+      "id": "D18159613F3348FAA66E2171318E6247",
+      "asnIdentifier": "S2638205",
+      "position": 299000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.41",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "4B0B59E74943410A95A4A623A4F484D5": {
+      "depth": 2,
+      "statementNotation": "6.40.1",
+      "statementLabel": "Application",
+      "description": "Classify a function as a single row or multiple row function",
+      "id": "4B0B59E74943410A95A4A623A4F484D5",
+      "asnIdentifier": "S2638204",
+      "position": 298000,
+      "ancestorIds": [
+        "1BC3D7E8CD64487C963FF882E05F4843",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "1BC3D7E8CD64487C963FF882E05F4843"
+    },
+    "1BC3D7E8CD64487C963FF882E05F4843": {
+      "description": "Identify a function as a single row or multiple row function",
+      "id": "1BC3D7E8CD64487C963FF882E05F4843",
+      "asnIdentifier": "S2638203",
+      "position": 297000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.40",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "92A46927A51E44AC976CBA1122AC15F1": {
+      "id": "92A46927A51E44AC976CBA1122AC15F1",
+      "asnIdentifier": "S2638202",
+      "position": 296000,
+      "depth": 2,
+      "statementNotation": "6.39.1",
+      "statementLabel": "Application",
+      "description": "Use single-row functions in a query",
+      "ancestorIds": [
+        "B48AE213C8FF4AED93A1415781137AA2",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "B48AE213C8FF4AED93A1415781137AA2"
+    },
+    "B48AE213C8FF4AED93A1415781137AA2": {
+      "position": 295000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.39",
+      "description": "Identify appropriate applications of single-row functions in query statements",
+      "id": "B48AE213C8FF4AED93A1415781137AA2",
+      "asnIdentifier": "S2638201",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "B86348189021476A88853DC0C9A046AA": {
+      "statementNotation": "6.38.1",
+      "statementLabel": "Application",
+      "description": "Construct a query to order a result set for single or multiple columns",
+      "id": "B86348189021476A88853DC0C9A046AA",
+      "asnIdentifier": "S2638200",
+      "position": 294000,
+      "depth": 2,
+      "ancestorIds": [
+        "DDED1EBC0B7945A48E1107BB5928B7BD",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DDED1EBC0B7945A48E1107BB5928B7BD"
+    },
+    "DDED1EBC0B7945A48E1107BB5928B7BD": {
+      "description": "Identify a query to order a result set for single or multiple columns",
+      "id": "DDED1EBC0B7945A48E1107BB5928B7BD",
+      "asnIdentifier": "S2638198",
+      "position": 293000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.38",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "6EADCAD0A3724D6F96EB0A43C189F709": {
+      "id": "6EADCAD0A3724D6F96EB0A43C189F709",
+      "asnIdentifier": "S2638197",
+      "position": 292000,
+      "depth": 2,
+      "statementNotation": "6.37.1",
+      "statementLabel": "Application",
+      "description": "Construct a query to order a result set using a column alias",
+      "ancestorIds": [
+        "53C3F4AC90254BE299A27108173E9D81",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "53C3F4AC90254BE299A27108173E9D81"
+    },
+    "53C3F4AC90254BE299A27108173E9D81": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.37",
+      "description": "Identify a query to order a result set using a column alias",
+      "id": "53C3F4AC90254BE299A27108173E9D81",
+      "asnIdentifier": "S2638196",
+      "position": 291000,
+      "depth": 1,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "29064500088945E0925DBE948C240CC2": {
+      "description": "Construct a query to sort a result set in ascending or descending order",
+      "id": "29064500088945E0925DBE948C240CC2",
+      "asnIdentifier": "S2638195",
+      "position": 290000,
+      "depth": 2,
+      "statementNotation": "6.36.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "D7A9FB69A1D64C71BE1E135C6330EFFE",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "D7A9FB69A1D64C71BE1E135C6330EFFE"
+    },
+    "D7A9FB69A1D64C71BE1E135C6330EFFE": {
+      "position": 289000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.36",
+      "description": "Identify a query to sort a result set in ascending or descending order",
+      "id": "D7A9FB69A1D64C71BE1E135C6330EFFE",
+      "asnIdentifier": "S2638194",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "0F295967A9994F669CD442CB0E1E0ECF": {
+      "position": 288000,
+      "depth": 2,
+      "statementNotation": "6.35.1",
+      "statementLabel": "Application",
+      "description": "Apply the rules of precedence to determine the order in which expressions are evaluated and calculated",
+      "id": "0F295967A9994F669CD442CB0E1E0ECF",
+      "asnIdentifier": "S2638193",
+      "ancestorIds": [
+        "4A8A228FAACE48D2A3265C3F8297DE8D",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "4A8A228FAACE48D2A3265C3F8297DE8D"
+    },
+    "4A8A228FAACE48D2A3265C3F8297DE8D": {
+      "listId": "6.35",
+      "description": "Explain the rules of precedence by which expressions are evaluated and calculated",
+      "id": "4A8A228FAACE48D2A3265C3F8297DE8D",
+      "asnIdentifier": "S2638192",
+      "position": 287000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "871473CD697F4AA3A5786AA0294EF01D": {
+      "description": "Evaluate logical comparisons to restrict the rows returned based on two or more conditions",
+      "id": "871473CD697F4AA3A5786AA0294EF01D",
+      "asnIdentifier": "S2638191",
+      "position": 286000,
+      "depth": 2,
+      "statementNotation": "6.34.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "354D4B4317664B02955D597CE87B4392",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "354D4B4317664B02955D597CE87B4392"
+    },
+    "354D4B4317664B02955D597CE87B4392": {
+      "id": "354D4B4317664B02955D597CE87B4392",
+      "asnIdentifier": "S2638190",
+      "position": 285000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.34",
+      "description": "Explain the use of logical comparisons to restrict the rows returned based on two or more conditions",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "AB4FE483637C4CFFA86FC2BEB896E12A": {
+      "position": 284000,
+      "depth": 2,
+      "statementNotation": "6.33.1",
+      "statementLabel": "Application",
+      "description": "Construct a query that limits or restricts a column or row",
+      "id": "AB4FE483637C4CFFA86FC2BEB896E12A",
+      "asnIdentifier": "S2638189",
+      "ancestorIds": [
+        "F138A00AA7344D56A45AC4CA114BE89E",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "F138A00AA7344D56A45AC4CA114BE89E"
+    },
+    "F138A00AA7344D56A45AC4CA114BE89E": {
+      "asnIdentifier": "S2638188",
+      "position": 283000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.33",
+      "description": "Explain why it is important to be able to easily limit data retrieved from a table",
+      "id": "F138A00AA7344D56A45AC4CA114BE89E",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "FBCA837F79F943BAA5CE4B41AEFE28DB": {
+      "depth": 2,
+      "statementNotation": "6.32.1",
+      "statementLabel": "Application",
+      "description": "Apply the WHERE clause to restrict rows returned in a SQL query",
+      "id": "FBCA837F79F943BAA5CE4B41AEFE28DB",
+      "asnIdentifier": "S2638187",
+      "position": 282000,
+      "ancestorIds": [
+        "5A13486BFCCB41AA8261C46B13E4CA39",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "5A13486BFCCB41AA8261C46B13E4CA39"
+    },
+    "5A13486BFCCB41AA8261C46B13E4CA39": {
+      "id": "5A13486BFCCB41AA8261C46B13E4CA39",
+      "asnIdentifier": "S2638186",
+      "position": 281000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.32",
+      "description": "Discuss how to use WHERE clause to restrict rows returned in a SQL query",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "3F7E0ADEF2DE483F8DD2A8F38338DD3B": {
+      "statementNotation": "6.31.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the ability to log into the self test software",
+      "id": "3F7E0ADEF2DE483F8DD2A8F38338DD3B",
+      "asnIdentifier": "S2638185",
+      "position": 280000,
+      "depth": 2,
+      "ancestorIds": [
+        "C00D07CAE7B7468BA9EC82D9B099A24D",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "C00D07CAE7B7468BA9EC82D9B099A24D"
+    },
+    "C00D07CAE7B7468BA9EC82D9B099A24D": {
+      "listId": "6.31",
+      "description": "Discuss how to access self test software to review for certification exam",
+      "id": "C00D07CAE7B7468BA9EC82D9B099A24D",
+      "asnIdentifier": "S2638184",
+      "position": 279000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "3DA4832E63C84F35AB515E5D1A0B2C3C": {
+      "asnIdentifier": "S2638183",
+      "position": 278000,
+      "depth": 2,
+      "statementNotation": "6.30.1",
+      "statementLabel": "Application",
+      "description": "Edit, execute, and save SQL statements in HTML DB",
+      "id": "3DA4832E63C84F35AB515E5D1A0B2C3C",
+      "ancestorIds": [
+        "DA96A4C69BEF422292DE1C2C5839BF6A",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DA96A4C69BEF422292DE1C2C5839BF6A"
+    },
+    "DA96A4C69BEF422292DE1C2C5839BF6A": {
+      "id": "DA96A4C69BEF422292DE1C2C5839BF6A",
+      "asnIdentifier": "S2638182",
+      "position": 277000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.30",
+      "description": "Illustrate the use of HTML DB to run, edit, and save SQL statements",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "AEC26397CFCA453CBA3C3ED47E72686B": {
+      "id": "AEC26397CFCA453CBA3C3ED47E72686B",
+      "asnIdentifier": "S2638181",
+      "position": 276000,
+      "depth": 2,
+      "statementNotation": "6.29.1",
+      "statementLabel": "Application",
+      "description": "Display the structure of a table using DESCRIBE",
+      "ancestorIds": [
+        "8574268EE8CD4E18A53BF4A307400BB2",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "8574268EE8CD4E18A53BF4A307400BB2"
+    },
+    "8574268EE8CD4E18A53BF4A307400BB2": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.29",
+      "description": "Discuss the structure of a table using DESCRIBE",
+      "id": "8574268EE8CD4E18A53BF4A307400BB2",
+      "asnIdentifier": "S2638180",
+      "position": 275000,
+      "depth": 1,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "C9768631DB5D47B6890B263F3B2F787A": {
+      "position": 274000,
+      "depth": 2,
+      "statementNotation": "6.28.1",
+      "statementLabel": "Application",
+      "description": "Apply DISTINCT to eliminate duplicates in query results",
+      "id": "C9768631DB5D47B6890B263F3B2F787A",
+      "asnIdentifier": "S2638179",
+      "ancestorIds": [
+        "396631B657E64414B2BE2E1960E5884B",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "396631B657E64414B2BE2E1960E5884B"
+    },
+    "396631B657E64414B2BE2E1960E5884B": {
+      "asnIdentifier": "S2638178",
+      "position": 273000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.28",
+      "description": "Define and use DISTINCT to eliminate duplicates in query results",
+      "id": "396631B657E64414B2BE2E1960E5884B",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "70F1329C25124D12B913BAAD1637FE6F": {
+      "depth": 2,
+      "statementNotation": "6.27.1",
+      "statementLabel": "Application",
+      "description": "Use literal values of type character, number, and date in a SQL SELECT statement",
+      "id": "70F1329C25124D12B913BAAD1637FE6F",
+      "asnIdentifier": "S2638177",
+      "position": 272000,
+      "ancestorIds": [
+        "D66BA89E67654FE08EA82CBA5CD561E1",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "D66BA89E67654FE08EA82CBA5CD561E1"
+    },
+    "D66BA89E67654FE08EA82CBA5CD561E1": {
+      "position": 271000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.27",
+      "description": "Discuss use of literal values of type character, number, and date",
+      "id": "D66BA89E67654FE08EA82CBA5CD561E1",
+      "asnIdentifier": "S2638176",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "C11F795265E04BC4B6D5F21E9F20BC25": {
+      "depth": 2,
+      "statementNotation": "6.26.1",
+      "statementLabel": "Application",
+      "description": "Apply the concatenation operator to link column values and expressions to create a character expression",
+      "id": "C11F795265E04BC4B6D5F21E9F20BC25",
+      "asnIdentifier": "S2638175",
+      "position": 270000,
+      "ancestorIds": [
+        "805BBDDA35304969AAEAF3737910BF9D",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "805BBDDA35304969AAEAF3737910BF9D"
+    },
+    "805BBDDA35304969AAEAF3737910BF9D": {
+      "id": "805BBDDA35304969AAEAF3737910BF9D",
+      "asnIdentifier": "S2638174",
+      "position": 269000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.26",
+      "description": "Recall how to use the concatenation operator",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "B1453998A07646D0B09F6F0AE4E084D1": {
+      "asnIdentifier": "S2638173",
+      "position": 268000,
+      "depth": 2,
+      "statementNotation": "6.25.1",
+      "statementLabel": "Application",
+      "description": "Construct a query using a column alias",
+      "id": "B1453998A07646D0B09F6F0AE4E084D1",
+      "ancestorIds": [
+        "D07B263F03EF4870BEEBEE3D5D41F8C4",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "D07B263F03EF4870BEEBEE3D5D41F8C4"
+    },
+    "D07B263F03EF4870BEEBEE3D5D41F8C4": {
+      "position": 267000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.25",
+      "description": "Discuss how to use a column alias",
+      "id": "D07B263F03EF4870BEEBEE3D5D41F8C4",
+      "asnIdentifier": "S2638172",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "E14B919B25A54999B5EEB019B1E11DAE": {
+      "position": 266000,
+      "depth": 2,
+      "statementNotation": "6.24.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the effect null values have in arithmetic expressions",
+      "id": "E14B919B25A54999B5EEB019B1E11DAE",
+      "asnIdentifier": "S2638171",
+      "ancestorIds": [
+        "49E666085C324AABBF6CE7D9770701F5",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "49E666085C324AABBF6CE7D9770701F5"
+    },
+    "49E666085C324AABBF6CE7D9770701F5": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.24",
+      "description": "Recall the effect null values have in arithmetic expressions",
+      "id": "49E666085C324AABBF6CE7D9770701F5",
+      "asnIdentifier": "S2638170",
+      "position": 265000,
+      "depth": 1,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "1497D8EF6D9947C3B5B594A6FD53442F": {
+      "depth": 2,
+      "statementNotation": "6.23.1",
+      "statementLabel": "Application",
+      "description": "Categorize the concepts of null, zero, and an empty string",
+      "id": "1497D8EF6D9947C3B5B594A6FD53442F",
+      "asnIdentifier": "S2638169",
+      "position": 264000,
+      "ancestorIds": [
+        "5C1B085AB6654FCEB2E281136475552A",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "5C1B085AB6654FCEB2E281136475552A"
+    },
+    "5C1B085AB6654FCEB2E281136475552A": {
+      "asnIdentifier": "S2638168",
+      "position": 263000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.23",
+      "description": "Compare and contrast the concepts of null, zero and an empty string",
+      "id": "5C1B085AB6654FCEB2E281136475552A",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "390CD6ACB299412197426BC963B14646": {
+      "id": "390CD6ACB299412197426BC963B14646",
+      "asnIdentifier": "S2638167",
+      "position": 262000,
+      "depth": 2,
+      "statementNotation": "6.22.1",
+      "statementLabel": "Application",
+      "description": "Formulate queries using correct operator precedence to display desired results",
+      "ancestorIds": [
+        "3BCE2EF0A49C4FB99DFDF8F251E06257",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "3BCE2EF0A49C4FB99DFDF8F251E06257"
+    },
+    "3BCE2EF0A49C4FB99DFDF8F251E06257": {
+      "listId": "6.22",
+      "description": "Recall correct operator precedence to display desired results",
+      "id": "3BCE2EF0A49C4FB99DFDF8F251E06257",
+      "asnIdentifier": "S2638166",
+      "position": 261000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "401B59A67A144FB3967B3DA98E10AA55": {
+      "asnIdentifier": "S2638165",
+      "position": 260000,
+      "depth": 2,
+      "statementNotation": "6.21.1",
+      "statementLabel": "Application",
+      "description": "Use the correct syntax to perform arithmetic expressions on the columns of a query",
+      "id": "401B59A67A144FB3967B3DA98E10AA55",
+      "ancestorIds": [
+        "F634610AE8FD4D7BB73671221E50E9FC",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "F634610AE8FD4D7BB73671221E50E9FC"
+    },
+    "F634610AE8FD4D7BB73671221E50E9FC": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.21",
+      "description": "Discuss the correct syntax to perform arithmetic expressions on the columns of a query",
+      "id": "F634610AE8FD4D7BB73671221E50E9FC",
+      "asnIdentifier": "S2638164",
+      "position": 259000,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "4C62423DE98C4C28A27021A64F65BD4E": {
+      "statementLabel": "Application",
+      "description": "Use the correct syntax to perform projection, selection, & join",
+      "id": "4C62423DE98C4C28A27021A64F65BD4E",
+      "asnIdentifier": "S2638163",
+      "position": 258000,
+      "depth": 2,
+      "statementNotation": "6.20.1",
+      "ancestorIds": [
+        "2E45C19AA5A7470296D29D5CEF94A25B",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "2E45C19AA5A7470296D29D5CEF94A25B"
+    },
+    "2E45C19AA5A7470296D29D5CEF94A25B": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.20",
+      "description": "Identify the appropriate SQL functions to perform projection, selection, and join",
+      "id": "2E45C19AA5A7470296D29D5CEF94A25B",
+      "asnIdentifier": "S2638162",
+      "position": 257000,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "3D5B3F36A9BD4FEC98C2CD4B9FAD3134": {
+      "description": "Identify key differences between application software and system software",
+      "id": "3D5B3F36A9BD4FEC98C2CD4B9FAD3134",
+      "asnIdentifier": "S2638161",
+      "position": 256000,
+      "depth": 2,
+      "statementNotation": "6.19.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "99BB68C2613F4BE1A467ABC1BC834D29",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "99BB68C2613F4BE1A467ABC1BC834D29"
+    },
+    "99BB68C2613F4BE1A467ABC1BC834D29": {
+      "listId": "6.19",
+      "description": "Compare and contrast application software and system software",
+      "id": "99BB68C2613F4BE1A467ABC1BC834D29",
+      "asnIdentifier": "S2638160",
+      "position": 255000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "38B5802870F34B4680BAD1E2219021D1": {
+      "statementNotation": "6.18.1",
+      "statementLabel": "Application",
+      "description": "Identify & describe the efficiency, accuracy, flexibility, workflow, & reporting qualities of Oracle",
+      "id": "38B5802870F34B4680BAD1E2219021D1",
+      "asnIdentifier": "S2638159",
+      "position": 254000,
+      "depth": 2,
+      "ancestorIds": [
+        "E0F806EF9F79414B89F92B505AA2301C",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "E0F806EF9F79414B89F92B505AA2301C"
+    },
+    "E0F806EF9F79414B89F92B505AA2301C": {
+      "id": "E0F806EF9F79414B89F92B505AA2301C",
+      "asnIdentifier": "S2638158",
+      "position": 253000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.18",
+      "description": "Explain the features and benefits that Oracle Database Environment provides for businesses",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "D243935B334E4BE5A406415B6E6F08C4": {
+      "depth": 2,
+      "statementNotation": "6.17.1",
+      "statementLabel": "Application",
+      "description": "Produce query output using HTML DB",
+      "id": "D243935B334E4BE5A406415B6E6F08C4",
+      "asnIdentifier": "S2638157",
+      "position": 252000,
+      "ancestorIds": [
+        "C9F10BDF184A452C9F988FA06CDFCDF7",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "C9F10BDF184A452C9F988FA06CDFCDF7"
+    },
+    "C9F10BDF184A452C9F988FA06CDFCDF7": {
+      "description": "Recall how to issue SQL queries in HTML DB",
+      "id": "C9F10BDF184A452C9F988FA06CDFCDF7",
+      "asnIdentifier": "S2638156",
+      "position": 251000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.17",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "B0188BF93F2D40ED9F6BF3270FF4BCF3": {
+      "depth": 2,
+      "statementNotation": "6.16.1",
+      "statementLabel": "Application",
+      "description": "Use HTML DB to implement tables from an ERD",
+      "id": "B0188BF93F2D40ED9F6BF3270FF4BCF3",
+      "asnIdentifier": "S2638155",
+      "position": 250000,
+      "ancestorIds": [
+        "B173CE71E9374D428BE3B9C8DBA031C2",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "B173CE71E9374D428BE3B9C8DBA031C2"
+    },
+    "B173CE71E9374D428BE3B9C8DBA031C2": {
+      "description": "Recall how to implement tables from an ERD",
+      "id": "B173CE71E9374D428BE3B9C8DBA031C2",
+      "asnIdentifier": "S2638154",
+      "position": 249000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.16",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "940AA75EC6C4497D9B1DD09E6C355A2D": {
+      "statementNotation": "6.15.1",
+      "statementLabel": "Application",
+      "description": "Correctly apply relationships to List of Values (LOV) in an organizational hierarchy",
+      "id": "940AA75EC6C4497D9B1DD09E6C355A2D",
+      "asnIdentifier": "S2638153",
+      "position": 248000,
+      "depth": 2,
+      "ancestorIds": [
+        "5328268D2D544F42BCBB52A5A8C3F49F",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "5328268D2D544F42BCBB52A5A8C3F49F"
+    },
+    "5328268D2D544F42BCBB52A5A8C3F49F": {
+      "id": "5328268D2D544F42BCBB52A5A8C3F49F",
+      "asnIdentifier": "S2638152",
+      "position": 247000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.15",
+      "description": "Discuss the relationship between project tasks to the different stages of the system development lifecycle",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "C7726DFB7D174C7AB7C66005DE9E50A9": {
+      "id": "C7726DFB7D174C7AB7C66005DE9E50A9",
+      "asnIdentifier": "S2638151",
+      "position": 246000,
+      "depth": 2,
+      "statementNotation": "6.14.1",
+      "statementLabel": "Application",
+      "description": "Explain the purpose of data modeling",
+      "ancestorIds": [
+        "516AB980CE584D0E8FC4CAAE7ABB709F",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "516AB980CE584D0E8FC4CAAE7ABB709F"
+    },
+    "516AB980CE584D0E8FC4CAAE7ABB709F": {
+      "id": "516AB980CE584D0E8FC4CAAE7ABB709F",
+      "asnIdentifier": "S2638150",
+      "position": 245000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.14",
+      "description": "Explain the role of data modeling in the system development lifecycle",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "563206E5583C4F9AB36EF074D7C0B816": {
+      "statementNotation": "6.13.1",
+      "statementLabel": "Application",
+      "description": "List and describe the different stages of the system development lifecycle",
+      "id": "563206E5583C4F9AB36EF074D7C0B816",
+      "asnIdentifier": "S2638149",
+      "position": 244000,
+      "depth": 2,
+      "ancestorIds": [
+        "7B085EC07A814EDD96EEBAC710349E9F",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "7B085EC07A814EDD96EEBAC710349E9F"
+    },
+    "7B085EC07A814EDD96EEBAC710349E9F": {
+      "id": "7B085EC07A814EDD96EEBAC710349E9F",
+      "asnIdentifier": "S2638148",
+      "position": 243000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.13",
+      "description": "Explain the different stages of the system development lifecycle",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "C679DF9D491849FA85F906850FD11F5E": {
+      "depth": 2,
+      "statementNotation": "6.12.1",
+      "statementLabel": "Application",
+      "description": "Create and present a database solution to a business problem",
+      "id": "C679DF9D491849FA85F906850FD11F5E",
+      "asnIdentifier": "S2638147",
+      "position": 242000,
+      "ancestorIds": [
+        "7CD3273368E2493DAB530AE7E27E8BAA",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "7CD3273368E2493DAB530AE7E27E8BAA"
+    },
+    "7CD3273368E2493DAB530AE7E27E8BAA": {
+      "description": "Illustrate a database solution to a business problem",
+      "id": "7CD3273368E2493DAB530AE7E27E8BAA",
+      "asnIdentifier": "S2638146",
+      "position": 241000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.12",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "50C45EB787B845079556343A2CDD85CF": {
+      "depth": 2,
+      "statementNotation": "6.11.1",
+      "statementLabel": "Application",
+      "description": "Work as a group to solve business problems using database technology",
+      "id": "50C45EB787B845079556343A2CDD85CF",
+      "asnIdentifier": "S2638145",
+      "position": 240000,
+      "ancestorIds": [
+        "0AFD01BAFCCA4565866D065F5E46E342",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "0AFD01BAFCCA4565866D065F5E46E342"
+    },
+    "0AFD01BAFCCA4565866D065F5E46E342": {
+      "asnIdentifier": "S2638144",
+      "position": 239000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.11",
+      "description": "Discuss solutions to business problems using database technology",
+      "id": "0AFD01BAFCCA4565866D065F5E46E342",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "324CFEEBAFA1497D9A89AC5A514311EA": {
+      "statementNotation": "6.10.1",
+      "statementLabel": "Application",
+      "description": "Use a data-modeling project to salve a business information need",
+      "id": "324CFEEBAFA1497D9A89AC5A514311EA",
+      "asnIdentifier": "S2638143",
+      "position": 238000,
+      "depth": 2,
+      "ancestorIds": [
+        "E6A54516CAF54F30B5B462678F6CD5C8",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "E6A54516CAF54F30B5B462678F6CD5C8"
+    },
+    "E6A54516CAF54F30B5B462678F6CD5C8": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.10",
+      "description": "Illustrate a data-modeling project",
+      "id": "E6A54516CAF54F30B5B462678F6CD5C8",
+      "asnIdentifier": "S2638142",
+      "position": 237000,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "99F91EC8925B4F6BB7DFB4BC6A3AB146": {
+      "depth": 2,
+      "statementNotation": "6.9.1",
+      "statementLabel": "Application",
+      "description": "Use the DELETE and ALTER TABLE",
+      "id": "99F91EC8925B4F6BB7DFB4BC6A3AB146",
+      "asnIdentifier": "S2638141",
+      "position": 236000,
+      "ancestorIds": [
+        "D8F5A36B595D44E082D2027D874C5FCD",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "D8F5A36B595D44E082D2027D874C5FCD"
+    },
+    "D8F5A36B595D44E082D2027D874C5FCD": {
+      "id": "D8F5A36B595D44E082D2027D874C5FCD",
+      "asnIdentifier": "S2638140",
+      "position": 235000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.9",
+      "description": "Discuss applications of DELETE",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "E693713C8460457687B0497D016E773B": {
+      "depth": 2,
+      "statementNotation": "6.8.1",
+      "statementLabel": "Application",
+      "description": "Apply the rules of SQL to add a new column to an existing table",
+      "id": "E693713C8460457687B0497D016E773B",
+      "asnIdentifier": "S2638139",
+      "position": 234000,
+      "ancestorIds": [
+        "23A510605B2F43A487577792CC3C3E34",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "23A510605B2F43A487577792CC3C3E34"
+    },
+    "23A510605B2F43A487577792CC3C3E34": {
+      "description": "Explain how to add a new column to an existing table",
+      "id": "23A510605B2F43A487577792CC3C3E34",
+      "asnIdentifier": "S2638138",
+      "position": 233000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.8",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "EBA1B9601DBF4A3A86D0E605C9BC4DB0": {
+      "position": 232000,
+      "depth": 2,
+      "statementNotation": "6.7.1",
+      "statementLabel": "Application",
+      "description": "Apply the rules of SQL to add new data to a table containing 4 columns",
+      "id": "EBA1B9601DBF4A3A86D0E605C9BC4DB0",
+      "asnIdentifier": "S2638137",
+      "ancestorIds": [
+        "B5354AE55C5740D0B2B21326307F7607",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "B5354AE55C5740D0B2B21326307F7607"
+    },
+    "B5354AE55C5740D0B2B21326307F7607": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.7",
+      "description": "Explain how to add new data to a table containing 4 columns",
+      "id": "B5354AE55C5740D0B2B21326307F7607",
+      "asnIdentifier": "S2638136",
+      "position": 231000,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "8E58F42B968C4F289E4ECA33F191C227": {
+      "statementNotation": "6.6.1",
+      "statementLabel": "Application",
+      "description": "Apply the rules of SQL to display a subset of the columns of a table specified by criteria",
+      "id": "8E58F42B968C4F289E4ECA33F191C227",
+      "asnIdentifier": "S2638135",
+      "position": 230000,
+      "depth": 2,
+      "ancestorIds": [
+        "06D52C63D48744048D775135DFB534B1",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "06D52C63D48744048D775135DFB534B1"
+    },
+    "06D52C63D48744048D775135DFB534B1": {
+      "listId": "6.6",
+      "description": "Recall the rules of SQL to display a subset of the columns of a table specified by criteria",
+      "id": "06D52C63D48744048D775135DFB534B1",
+      "asnIdentifier": "S2638134",
+      "position": 229000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "8D776BE02EDF45D2BA3FC225BF88760D": {
+      "depth": 2,
+      "statementNotation": "6.5.1",
+      "statementLabel": "Application",
+      "description": "Apply the rules of SQL to display all columns of a table",
+      "id": "8D776BE02EDF45D2BA3FC225BF88760D",
+      "asnIdentifier": "S2638133",
+      "position": 228000,
+      "ancestorIds": [
+        "B01618B317BD477CACF89A1E5925A443",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "B01618B317BD477CACF89A1E5925A443"
+    },
+    "B01618B317BD477CACF89A1E5925A443": {
+      "id": "B01618B317BD477CACF89A1E5925A443",
+      "asnIdentifier": "S2638132",
+      "position": 227000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.5",
+      "description": "Recall the rules of SQL to display all columns of a table",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "6C2F3E115E9B4B66951DFE1FE2D7C23E": {
+      "description": "Correct violations of data-integrity rules",
+      "id": "6C2F3E115E9B4B66951DFE1FE2D7C23E",
+      "asnIdentifier": "S2638131",
+      "position": 226000,
+      "depth": 2,
+      "statementNotation": "6.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "4C479CB56B2A4DA9A35C80C187BBF717",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "4C479CB56B2A4DA9A35C80C187BBF717"
+    },
+    "4C479CB56B2A4DA9A35C80C187BBF717": {
+      "position": 225000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.4",
+      "description": "Identify violations of data-integrity rules",
+      "id": "4C479CB56B2A4DA9A35C80C187BBF717",
+      "asnIdentifier": "S2638130",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "CA99F87EA08A491EA21C166A40F82AE0": {
+      "id": "CA99F87EA08A491EA21C166A40F82AE0",
+      "asnIdentifier": "S2638129",
+      "position": 224000,
+      "depth": 2,
+      "statementNotation": "6.3.1",
+      "statementLabel": "Application",
+      "description": "Printout a table and identify the rows, columns, UID, FK",
+      "ancestorIds": [
+        "729F5C5E0AA3457FA2D47AA32F6051F4",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "729F5C5E0AA3457FA2D47AA32F6051F4"
+    },
+    "729F5C5E0AA3457FA2D47AA32F6051F4": {
+      "position": 223000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.3",
+      "description": "Identify table, row, column, primary key, unique key, and foreign key given in a diagram containing them",
+      "id": "729F5C5E0AA3457FA2D47AA32F6051F4",
+      "asnIdentifier": "S2638128",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "05DE6E70A6754F69A7A49F0078990480": {
+      "asnIdentifier": "S2638127",
+      "position": 222000,
+      "depth": 2,
+      "statementNotation": "6.2.1",
+      "statementLabel": "Application",
+      "description": "Create a table following the Integrity Rule",
+      "id": "05DE6E70A6754F69A7A49F0078990480",
+      "ancestorIds": [
+        "B41449B676F640F8A3906E7A5B28A227",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "B41449B676F640F8A3906E7A5B28A227"
+    },
+    "B41449B676F640F8A3906E7A5B28A227": {
+      "position": 221000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.2",
+      "description": "Explain Integrity Rule as it relates to database tables",
+      "id": "B41449B676F640F8A3906E7A5B28A227",
+      "asnIdentifier": "S2638126",
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "FA5BA0BF660341C9B28689954D7FF7E2": {
+      "asnIdentifier": "S2638125",
+      "position": 220000,
+      "depth": 2,
+      "statementNotation": "6.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "FA5BA0BF660341C9B28689954D7FF7E2",
+      "ancestorIds": [
+        "7852117452864B2AB1D63362B5D591CB",
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "7852117452864B2AB1D63362B5D591CB"
+    },
+    "7852117452864B2AB1D63362B5D591CB": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.1",
+      "description": "Define terminology",
+      "id": "7852117452864B2AB1D63362B5D591CB",
+      "asnIdentifier": "S2638124",
+      "position": 219000,
+      "ancestorIds": [
+        "DF2A020E6F9241818F8DB6AA60B8B2F6"
+      ],
+      "parentId": "DF2A020E6F9241818F8DB6AA60B8B2F6"
+    },
+    "DF2A020E6F9241818F8DB6AA60B8B2F6": {
+      "asnIdentifier": "S2638123",
+      "position": 218000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "6:",
+      "description": "Knowledge",
+      "id": "DF2A020E6F9241818F8DB6AA60B8B2F6",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "90040DD40CED417FAA83200E4D95CE97": {
+      "position": 217000,
+      "depth": 2,
+      "statementNotation": "5.14.2",
+      "statementLabel": "Application",
+      "description": "Query a table to view data using a provided SQL script",
+      "id": "90040DD40CED417FAA83200E4D95CE97",
+      "asnIdentifier": "S2638122",
+      "ancestorIds": [
+        "F4530113A9BC44A5A66B8984991B2758",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "F4530113A9BC44A5A66B8984991B2758"
+    },
+    "62019E9652A349178AA31999CAC5ADC2": {
+      "asnIdentifier": "S2638121",
+      "position": 216000,
+      "depth": 2,
+      "statementNotation": "5.14.1",
+      "statementLabel": "Application",
+      "description": "Enter sample data into an existing table using a provided SQL script",
+      "id": "62019E9652A349178AA31999CAC5ADC2",
+      "ancestorIds": [
+        "F4530113A9BC44A5A66B8984991B2758",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "F4530113A9BC44A5A66B8984991B2758"
+    },
+    "F4530113A9BC44A5A66B8984991B2758": {
+      "id": "F4530113A9BC44A5A66B8984991B2758",
+      "asnIdentifier": "S2638120",
+      "position": 215000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.14",
+      "description": "Discuss entering data into an existing table using a provided SQL script",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "7F9D058EC52D41A8B1BE12EDD309949A": {
+      "description": "Create a table in HTML DB using a provided SQL script",
+      "id": "7F9D058EC52D41A8B1BE12EDD309949A",
+      "asnIdentifier": "S2638119",
+      "position": 214000,
+      "depth": 2,
+      "statementNotation": "5.13.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "61E4831D8EE14E46B2AA4A9482008293",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "61E4831D8EE14E46B2AA4A9482008293"
+    },
+    "61E4831D8EE14E46B2AA4A9482008293": {
+      "asnIdentifier": "S2638118",
+      "position": 213000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.13",
+      "description": "Discuss how to create a table in HTML DB using a provided SQL script",
+      "id": "61E4831D8EE14E46B2AA4A9482008293",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "71CF657BA6D046579E82F0D8EBA7F84A": {
+      "depth": 2,
+      "statementNotation": "5.12.1",
+      "statementLabel": "Application",
+      "description": "State and apply the table, column, identifiers, relationship, and integrity restraint rules for mapping supertype and subtype arc implementations",
+      "id": "71CF657BA6D046579E82F0D8EBA7F84A",
+      "asnIdentifier": "S2638117",
+      "position": 212000,
+      "ancestorIds": [
+        "2E85AEF8E9434C01A56AB72C0940FC26",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "2E85AEF8E9434C01A56AB72C0940FC26"
+    },
+    "2E85AEF8E9434C01A56AB72C0940FC26": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.12",
+      "description": "Recall the table, column, identifiers, relationship, and integrity restraint rules for mapping supertype and subtype arc implementations",
+      "id": "2E85AEF8E9434C01A56AB72C0940FC26",
+      "asnIdentifier": "S2638116",
+      "position": 211000,
+      "depth": 1,
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "237DC6F843184A089FE5B50784788FD9": {
+      "depth": 2,
+      "statementNotation": "5.11.1",
+      "statementLabel": "Application",
+      "description": "State and apply the table, column, identifiers, relationship, and integrity restraint rules for mapping subtype implementations",
+      "id": "237DC6F843184A089FE5B50784788FD9",
+      "asnIdentifier": "S2638115",
+      "position": 210000,
+      "ancestorIds": [
+        "1EADBB9F120C44F59DAC2C154CB878BF",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "1EADBB9F120C44F59DAC2C154CB878BF"
+    },
+    "1EADBB9F120C44F59DAC2C154CB878BF": {
+      "id": "1EADBB9F120C44F59DAC2C154CB878BF",
+      "asnIdentifier": "S2638114",
+      "position": 209000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.11",
+      "description": "Recall the table, column, identifiers, relationship, and integrity restraint rules for mapping subtype implementations",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "5A116F04819A45279ADCB909E23C7324": {
+      "statementNotation": "5.10.1",
+      "statementLabel": "Application",
+      "description": "State and apply the table, column, identifiers, relationship, and integrity restraint rules for mapping supertype implementations",
+      "id": "5A116F04819A45279ADCB909E23C7324",
+      "asnIdentifier": "S2638113",
+      "position": 208000,
+      "depth": 2,
+      "ancestorIds": [
+        "92D50602D3654EA593E49D14316A1775",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "92D50602D3654EA593E49D14316A1775"
+    },
+    "92D50602D3654EA593E49D14316A1775": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.10",
+      "description": "Recall the table, column, identifiers, relationship, and integrity restraint rules for mapping supertype implementations",
+      "id": "92D50602D3654EA593E49D14316A1775",
+      "asnIdentifier": "S2638112",
+      "position": 207000,
+      "depth": 1,
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "47BA0759BFCC4478985E1F1EC61EA6A0": {
+      "statementNotation": "5.9.1",
+      "statementLabel": "Application",
+      "description": "Apply the rule of relationship mapping to correctly transform relationships in an arc",
+      "id": "47BA0759BFCC4478985E1F1EC61EA6A0",
+      "asnIdentifier": "S2638111",
+      "position": 206000,
+      "depth": 2,
+      "ancestorIds": [
+        "D0F375B566FE4F2E91B82333C0629563",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "D0F375B566FE4F2E91B82333C0629563"
+    },
+    "D0F375B566FE4F2E91B82333C0629563": {
+      "listId": "5.9",
+      "description": "Recall the rule of relationship mapping to correctly transform relationships in an arc",
+      "id": "D0F375B566FE4F2E91B82333C0629563",
+      "asnIdentifier": "S2638110",
+      "position": 205000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "CBD73B443D1E4778A1A65BAC262F50E9": {
+      "description": "Apply the rule of relationship mapping to correctly transform one-to-one relationships",
+      "id": "CBD73B443D1E4778A1A65BAC262F50E9",
+      "asnIdentifier": "S2638109",
+      "position": 204000,
+      "depth": 2,
+      "statementNotation": "5.8.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "D6B8E69D415B4091AC0E73EA5A8E626A",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "D6B8E69D415B4091AC0E73EA5A8E626A"
+    },
+    "D6B8E69D415B4091AC0E73EA5A8E626A": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.8",
+      "description": "Recall the rule of relationship mapping to correctly transform one-to-one relationships",
+      "id": "D6B8E69D415B4091AC0E73EA5A8E626A",
+      "asnIdentifier": "S2638108",
+      "position": 203000,
+      "depth": 1,
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "08172A707878430FA02314BDA2C57BDB": {
+      "id": "08172A707878430FA02314BDA2C57BDB",
+      "asnIdentifier": "S2638107",
+      "position": 202000,
+      "depth": 2,
+      "statementNotation": "5.7.1",
+      "statementLabel": "Application",
+      "description": "Apply the rule of relationship mapping to correctly transform many-to-many relationships",
+      "ancestorIds": [
+        "A62D58DC8C06440AAF2950AF92ABBB4F",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "A62D58DC8C06440AAF2950AF92ABBB4F"
+    },
+    "A62D58DC8C06440AAF2950AF92ABBB4F": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.7",
+      "description": "Recall the rule of relationship mapping to correctly transform many-to-many relationships",
+      "id": "A62D58DC8C06440AAF2950AF92ABBB4F",
+      "asnIdentifier": "S2638106",
+      "position": 201000,
+      "depth": 1,
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "0C7AED3E56BF4F589B93B2D221F00F17": {
+      "id": "0C7AED3E56BF4F589B93B2D221F00F17",
+      "asnIdentifier": "S2638105",
+      "position": 200000,
+      "depth": 2,
+      "statementNotation": "5.6.1",
+      "statementLabel": "Application",
+      "description": "Apply the rule of relationship mapping to correctly transform one to many and barred relationships",
+      "ancestorIds": [
+        "48FF4DE6A8A14DEBA2A6E71A4A1D27E4",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "48FF4DE6A8A14DEBA2A6E71A4A1D27E4"
+    },
+    "48FF4DE6A8A14DEBA2A6E71A4A1D27E4": {
+      "position": 199000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.6",
+      "description": "Recall the rule of relationship mapping to correctly transform one to many and barred relationships",
+      "id": "48FF4DE6A8A14DEBA2A6E71A4A1D27E4",
+      "asnIdentifier": "S2638104",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "E24C1EFDACEA45DFA2821A4C966E4B8D": {
+      "depth": 2,
+      "statementNotation": "5.5.1",
+      "statementLabel": "Application",
+      "description": "Apply the rule of Oracle naming conventions for tables and columns used in relational models",
+      "id": "E24C1EFDACEA45DFA2821A4C966E4B8D",
+      "asnIdentifier": "S2638103",
+      "position": 198000,
+      "ancestorIds": [
+        "68C721E6C94F44DC97A64D048095B639",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "68C721E6C94F44DC97A64D048095B639"
+    },
+    "68C721E6C94F44DC97A64D048095B639": {
+      "description": "Recall the rule of Oracle naming conventions for tables and columns used in relational models",
+      "id": "68C721E6C94F44DC97A64D048095B639",
+      "asnIdentifier": "S2638102",
+      "position": 197000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.5",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "FDD407BEC5E447AE815FAFC5D7DC0B8A": {
+      "id": "FDD407BEC5E447AE815FAFC5D7DC0B8A",
+      "asnIdentifier": "S2638101",
+      "position": 196000,
+      "depth": 2,
+      "statementNotation": "5.4.1",
+      "statementLabel": "Application",
+      "description": "Apply the rule of basic mapping to transform an entity into a table",
+      "ancestorIds": [
+        "22E2933EACEA41E1A0C8BC48EE79A2DB",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "22E2933EACEA41E1A0C8BC48EE79A2DB"
+    },
+    "22E2933EACEA41E1A0C8BC48EE79A2DB": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.4",
+      "description": "Discuss the rule of basic mapping to transform an entity into a table",
+      "id": "22E2933EACEA41E1A0C8BC48EE79A2DB",
+      "asnIdentifier": "S2638100",
+      "position": 195000,
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "F93BF233F9F74A90A3C1125DE0615ECA": {
+      "description": "Describe the terminology mapping between a conceptual model and a relational database model",
+      "id": "F93BF233F9F74A90A3C1125DE0615ECA",
+      "asnIdentifier": "S2638099",
+      "position": 194000,
+      "depth": 2,
+      "statementNotation": "5.3.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "CD15A7DBF1AE4888B5BDB0144EB4E4D3",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "CD15A7DBF1AE4888B5BDB0144EB4E4D3"
+    },
+    "CD15A7DBF1AE4888B5BDB0144EB4E4D3": {
+      "asnIdentifier": "S2638098",
+      "position": 193000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.3",
+      "description": "Compare and contrast the conceptual and physical data models",
+      "id": "CD15A7DBF1AE4888B5BDB0144EB4E4D3",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "6CF2F99CE5844058A1592E105FDB8BD7": {
+      "asnIdentifier": "S2638097",
+      "position": 192000,
+      "depth": 2,
+      "statementNotation": "5.2.1",
+      "statementLabel": "Application",
+      "description": "Distinguish entity relationship models from database models",
+      "id": "6CF2F99CE5844058A1592E105FDB8BD7",
+      "ancestorIds": [
+        "57B3FD2413B84794A4ABB140F99FE9B6",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "57B3FD2413B84794A4ABB140F99FE9B6"
+    },
+    "57B3FD2413B84794A4ABB140F99FE9B6": {
+      "description": "Identify entity relationship models and database models",
+      "id": "57B3FD2413B84794A4ABB140F99FE9B6",
+      "asnIdentifier": "S2638096",
+      "position": 191000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.2",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "EDAC0F9D06904D8AA71DDB1FB0E5CBFF": {
+      "description": "Prepare a list of terms with definitions",
+      "id": "EDAC0F9D06904D8AA71DDB1FB0E5CBFF",
+      "asnIdentifier": "S2638095",
+      "position": 190000,
+      "depth": 2,
+      "statementNotation": "5.1.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "508CD786F43B49DC94697DB367F22AF0",
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "508CD786F43B49DC94697DB367F22AF0"
+    },
+    "508CD786F43B49DC94697DB367F22AF0": {
+      "listId": "5.1",
+      "description": "Define terminology",
+      "id": "508CD786F43B49DC94697DB367F22AF0",
+      "asnIdentifier": "S2638094",
+      "position": 189000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "936E5A7542EE413FA98C534801E5C829"
+      ],
+      "parentId": "936E5A7542EE413FA98C534801E5C829"
+    },
+    "936E5A7542EE413FA98C534801E5C829": {
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "5:",
+      "description": "Transforming from the Conceptual to the Physical",
+      "id": "936E5A7542EE413FA98C534801E5C829",
+      "asnIdentifier": "S2638093",
+      "position": 188000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "44FB7EB84D3746329821399ED3A4D180": {
+      "id": "44FB7EB84D3746329821399ED3A4D180",
+      "asnIdentifier": "S2638092",
+      "position": 187000,
+      "depth": 2,
+      "statementNotation": "4.30.1",
+      "statementLabel": "Application",
+      "description": "Research evidence to support the assigned topic",
+      "ancestorIds": [
+        "A7E87A7CD8D2451EBB9A00A5D19C6170",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "A7E87A7CD8D2451EBB9A00A5D19C6170"
+    },
+    "A7E87A7CD8D2451EBB9A00A5D19C6170": {
+      "description": "Discuss the different activities that a database administrator might perform with regard to constraints",
+      "id": "A7E87A7CD8D2451EBB9A00A5D19C6170",
+      "asnIdentifier": "S2638091",
+      "position": 186000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.30",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "ED09C1C34F1D4CBE8149829E8F9B3D44": {
+      "id": "ED09C1C34F1D4CBE8149829E8F9B3D44",
+      "asnIdentifier": "S2638090",
+      "position": 185000,
+      "depth": 2,
+      "statementNotation": "4.29.1",
+      "statementLabel": "Application",
+      "description": "Write the code to resolve the problem",
+      "ancestorIds": [
+        "2D0C377FFAEA4841BE64560B0A7E85FE",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "2D0C377FFAEA4841BE64560B0A7E85FE"
+    },
+    "2D0C377FFAEA4841BE64560B0A7E85FE": {
+      "id": "2D0C377FFAEA4841BE64560B0A7E85FE",
+      "asnIdentifier": "S2638089",
+      "position": 184000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.29",
+      "description": "Evaluate a business problem to modify an existing table with new constraints",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "51AA8B096BB14139A1A4EBCFBCEFE062": {
+      "asnIdentifier": "S2638088",
+      "position": 183000,
+      "depth": 2,
+      "statementNotation": "4.28.1",
+      "statementLabel": "Application",
+      "description": "Identify the function that requires DBA rights",
+      "id": "51AA8B096BB14139A1A4EBCFBCEFE062",
+      "ancestorIds": [
+        "43ACEEEECCBA4ECDA43DEB710FE57F2E",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "43ACEEEECCBA4ECDA43DEB710FE57F2E"
+    },
+    "43ACEEEECCBA4ECDA43DEB710FE57F2E": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.28",
+      "description": "Name a business function that would require a DBA to drop, enable, and/or disable a constraint or use the CASCADE",
+      "id": "43ACEEEECCBA4ECDA43DEB710FE57F2E",
+      "asnIdentifier": "S2638087",
+      "position": 182000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "5B88B00CE1694B148C90E923B0658597": {
+      "depth": 2,
+      "statementNotation": "4.27.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate how each ALTER statement works",
+      "id": "5B88B00CE1694B148C90E923B0658597",
+      "asnIdentifier": "S2638086",
+      "position": 181000,
+      "ancestorIds": [
+        "A52E3F2B5918486099ACDA43BA4DECF4",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "A52E3F2B5918486099ACDA43BA4DECF4"
+    },
+    "A52E3F2B5918486099ACDA43BA4DECF4": {
+      "position": 180000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.27",
+      "description": "List three different functions that the ALTER statement can perform on constraints",
+      "id": "A52E3F2B5918486099ACDA43BA4DECF4",
+      "asnIdentifier": "S2638085",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "E54661F715984F7B9F0ADBF94B3B4DDA": {
+      "statementNotation": "4.26.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the different ways of using constraints",
+      "id": "E54661F715984F7B9F0ADBF94B3B4DDA",
+      "asnIdentifier": "S2638084",
+      "position": 179000,
+      "depth": 2,
+      "ancestorIds": [
+        "A6BBBF4CEE4F4BCEA779779DC224591D",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "A6BBBF4CEE4F4BCEA779779DC224591D"
+    },
+    "A6BBBF4CEE4F4BCEA779779DC224591D": {
+      "listId": "4.26",
+      "description": "Differentiate between checking vs. constraint management",
+      "id": "A6BBBF4CEE4F4BCEA779779DC224591D",
+      "asnIdentifier": "S2638083",
+      "position": 178000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "A051C765E4344C9DA83B2F575B727A86": {
+      "position": 177000,
+      "depth": 2,
+      "statementNotation": "4.25.1",
+      "statementLabel": "Application",
+      "description": "Write the code to execute the addition of a PRIMARY KEY and FOREIGN KEY; demonstrate them by creating a table",
+      "id": "A051C765E4344C9DA83B2F575B727A86",
+      "asnIdentifier": "S2638082",
+      "ancestorIds": [
+        "7C9B6C549724488298350184DAD39BC1",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "7C9B6C549724488298350184DAD39BC1"
+    },
+    "7C9B6C549724488298350184DAD39BC1": {
+      "position": 176000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.25",
+      "description": "Evaluate a business problem requiring the addition of a PRIMARY KEY and FOREIGN KEY constraint",
+      "id": "7C9B6C549724488298350184DAD39BC1",
+      "asnIdentifier": "S2638081",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "B545791EB3D3466FBC7E9BA7CA3C3805": {
+      "asnIdentifier": "S2638080",
+      "position": 175000,
+      "depth": 2,
+      "statementNotation": "4.24.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the creation of constraints at the column level and table level in a CREATE TABLE statement",
+      "id": "B545791EB3D3466FBC7E9BA7CA3C3805",
+      "ancestorIds": [
+        "72D87F490503408588C02907DFA64206",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "72D87F490503408588C02907DFA64206"
+    },
+    "72D87F490503408588C02907DFA64206": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.24",
+      "description": "Discuss how to use the CREATE TABLE",
+      "id": "72D87F490503408588C02907DFA64206",
+      "asnIdentifier": "S2638079",
+      "position": 174000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "1C08587DD3F5409FBC98DA90A9E99B7E": {
+      "description": "Explain each term as it is used in a table",
+      "id": "1C08587DD3F5409FBC98DA90A9E99B7E",
+      "asnIdentifier": "S2638078",
+      "position": 173000,
+      "depth": 2,
+      "statementNotation": "4.23.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "0B0E01FB6943468FB5F75FE130CAD711",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "0B0E01FB6943468FB5F75FE130CAD711"
+    },
+    "0B0E01FB6943468FB5F75FE130CAD711": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.23",
+      "description": "Discuss the purpose of defining PRIMARY KEY, FOREIGN KEY, and CHECK constraints",
+      "id": "0B0E01FB6943468FB5F75FE130CAD711",
+      "asnIdentifier": "S2638077",
+      "position": 172000,
+      "depth": 1,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "51A53AD2C3864762B4C80FF8D4262361": {
+      "depth": 2,
+      "statementNotation": "4.22.1",
+      "statementLabel": "Application",
+      "description": "Create a table using an example of PRIMARY KEY, FOREIGN KEY, and CHECK constraints",
+      "id": "51A53AD2C3864762B4C80FF8D4262361",
+      "asnIdentifier": "S2638076",
+      "position": 171000,
+      "ancestorIds": [
+        "0297A980965B49DF9C180F86E86693B3",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "0297A980965B49DF9C180F86E86693B3"
+    },
+    "0297A980965B49DF9C180F86E86693B3": {
+      "listId": "4.22",
+      "description": "Discuss PRIMARY KEY, FOREIGN KEY, and CHECK constraints",
+      "id": "0297A980965B49DF9C180F86E86693B3",
+      "asnIdentifier": "S2638075",
+      "position": 170000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "0FB41C6A2BB3451AB1A8480AA6F785C0": {
+      "description": "Write and display a code for both NOT NULL and UNIQUE constraints",
+      "id": "0FB41C6A2BB3451AB1A8480AA6F785C0",
+      "asnIdentifier": "S2638074",
+      "position": 169000,
+      "depth": 2,
+      "statementNotation": "4.21.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "EFD10D9354EA4209B16FF6E81EFB6810",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "EFD10D9354EA4209B16FF6E81EFB6810"
+    },
+    "EFD10D9354EA4209B16FF6E81EFB6810": {
+      "listId": "4.21",
+      "description": "Evaluate a business problem that would involve a new table with NOT NULL and UNIQUE constraints",
+      "id": "EFD10D9354EA4209B16FF6E81EFB6810",
+      "asnIdentifier": "S2638073",
+      "position": 168000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "C1474BFEB0A5492EA595A14646D1EBAD": {
+      "statementLabel": "Application",
+      "description": "Research ways a business can use all of them together",
+      "id": "C1474BFEB0A5492EA595A14646D1EBAD",
+      "asnIdentifier": "S2638072",
+      "position": 167000,
+      "depth": 2,
+      "statementNotation": "4.20.2",
+      "ancestorIds": [
+        "A6A19FEC64D74C48B56292B1501E211A",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "A6A19FEC64D74C48B56292B1501E211A"
+    },
+    "FBD6766AEBD24EA0AC958F8E557C1FD4": {
+      "asnIdentifier": "S2638071",
+      "position": 166000,
+      "depth": 2,
+      "statementNotation": "4.20.1",
+      "statementLabel": "Application",
+      "description": "Research and provide evidence to support the assigned topic",
+      "id": "FBD6766AEBD24EA0AC958F8E557C1FD4",
+      "ancestorIds": [
+        "A6A19FEC64D74C48B56292B1501E211A",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "A6A19FEC64D74C48B56292B1501E211A"
+    },
+    "A6A19FEC64D74C48B56292B1501E211A": {
+      "asnIdentifier": "S2638070",
+      "position": 165000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.20",
+      "description": "Discuss why it is important, from a business perspective, for a language to have built-in constraint-checking capability",
+      "id": "A6A19FEC64D74C48B56292B1501E211A",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "0C96BC3DA4E14153AEE1CA5AA84C97A1": {
+      "position": 164000,
+      "depth": 2,
+      "statementNotation": "4.19.1",
+      "statementLabel": "Application",
+      "description": "Create one example for each reason constraints are incorporated into table definitions",
+      "id": "0C96BC3DA4E14153AEE1CA5AA84C97A1",
+      "asnIdentifier": "S2638069",
+      "ancestorIds": [
+        "7D93669AF2A54F3D92FA1DAC9FBDC0DF",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "7D93669AF2A54F3D92FA1DAC9FBDC0DF"
+    },
+    "7D93669AF2A54F3D92FA1DAC9FBDC0DF": {
+      "listId": "4.19",
+      "description": "Identify two reasons why constraints are incorporated into table definitions",
+      "id": "7D93669AF2A54F3D92FA1DAC9FBDC0DF",
+      "asnIdentifier": "S2638068",
+      "position": 163000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "B610C5F4B4C44A8B8AD52E822C397AFA": {
+      "position": 162000,
+      "depth": 2,
+      "statementNotation": "4.18.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate NOT NULL and a UNIQUE constraint in a new table",
+      "id": "B610C5F4B4C44A8B8AD52E822C397AFA",
+      "asnIdentifier": "S2638067",
+      "ancestorIds": [
+        "8FE15FD3C82B49FDAB8F24937ABCC98E",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "8FE15FD3C82B49FDAB8F24937ABCC98E"
+    },
+    "8FE15FD3C82B49FDAB8F24937ABCC98E": {
+      "id": "8FE15FD3C82B49FDAB8F24937ABCC98E",
+      "asnIdentifier": "S2638066",
+      "position": 161000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.18",
+      "description": "Discuss NOT NULL and a UNIQUE constraint",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "CEF5B68EF0C940DF8CA29AD04CB78C14": {
+      "depth": 2,
+      "statementNotation": "4.17.1",
+      "statementLabel": "Application",
+      "description": "Create a list of ways to use constraints",
+      "id": "CEF5B68EF0C940DF8CA29AD04CB78C14",
+      "asnIdentifier": "S2638065",
+      "position": 160000,
+      "ancestorIds": [
+        "9F9D7A3B3DED4ACA847F52AA0F4B96D8",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "9F9D7A3B3DED4ACA847F52AA0F4B96D8"
+    },
+    "9F9D7A3B3DED4ACA847F52AA0F4B96D8": {
+      "asnIdentifier": "S2638064",
+      "position": 159000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.17",
+      "description": "Discuss the term constraint as it relates to data integrity",
+      "id": "9F9D7A3B3DED4ACA847F52AA0F4B96D8",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "4F93FE163A814D39AC5D1144FE2B4A25": {
+      "position": 158000,
+      "depth": 2,
+      "statementNotation": "4.16.1",
+      "statementLabel": "Application",
+      "description": "Create a chart explaining each guideline",
+      "id": "4F93FE163A814D39AC5D1144FE2B4A25",
+      "asnIdentifier": "S2638063",
+      "ancestorIds": [
+        "299347E71C8B48D697E43372D22DC365",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "299347E71C8B48D697E43372D22DC365"
+    },
+    "299347E71C8B48D697E43372D22DC365": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.16",
+      "description": "List the guidelines related to using a DROP TABLE statement",
+      "id": "299347E71C8B48D697E43372D22DC365",
+      "asnIdentifier": "S2638062",
+      "position": 157000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "9EF8042EC92F42C09240522A4D9871C1": {
+      "id": "9EF8042EC92F42C09240522A4D9871C1",
+      "asnIdentifier": "S2638061",
+      "position": 156000,
+      "depth": 2,
+      "statementNotation": "4.15.1",
+      "statementLabel": "Application",
+      "description": "Diagram when and why the SET UNUSED statement is advantageous",
+      "ancestorIds": [
+        "7BAA85EACE594302B43C09E7D47B8829",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "7BAA85EACE594302B43C09E7D47B8829"
+    },
+    "7BAA85EACE594302B43C09E7D47B8829": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.15",
+      "description": "Discuss when and why the SET UNUSED statement is advantageous",
+      "id": "7BAA85EACE594302B43C09E7D47B8829",
+      "asnIdentifier": "S2638060",
+      "position": 155000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "1631B34CF6DA4A7E817D4DE2DD4A801C": {
+      "asnIdentifier": "S2638059",
+      "position": 154000,
+      "depth": 2,
+      "statementNotation": "4.14.1",
+      "statementLabel": "Application",
+      "description": "Create a list of examples of dropping columns when constraints are present",
+      "id": "1631B34CF6DA4A7E817D4DE2DD4A801C",
+      "ancestorIds": [
+        "93C03631BC254EB287C735E7F69012B7",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "93C03631BC254EB287C735E7F69012B7"
+    },
+    "93C03631BC254EB287C735E7F69012B7": {
+      "description": "Discuss the guidelines for dropping a column when constraints are present",
+      "id": "93C03631BC254EB287C735E7F69012B7",
+      "asnIdentifier": "S2638058",
+      "position": 153000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.14",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "045DFD18E1234D72B19D89144E5F67CC": {
+      "id": "045DFD18E1234D72B19D89144E5F67CC",
+      "asnIdentifier": "S2638057",
+      "position": 152000,
+      "depth": 2,
+      "statementNotation": "4.13.1",
+      "statementLabel": "Application",
+      "description": "Create a list of examples of changes that can and cannot be made to modify a column",
+      "ancestorIds": [
+        "598EA4B55CA74E7F8E78FECDB7DFACC4",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "598EA4B55CA74E7F8E78FECDB7DFACC4"
+    },
+    "598EA4B55CA74E7F8E78FECDB7DFACC4": {
+      "description": "Identify the changes that can and cannot be made to modify a column",
+      "id": "598EA4B55CA74E7F8E78FECDB7DFACC4",
+      "asnIdentifier": "S2638056",
+      "position": 151000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.13",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "D4B15AE3B1D44324A4FB698A9555E242": {
+      "id": "D4B15AE3B1D44324A4FB698A9555E242",
+      "asnIdentifier": "S2638055",
+      "position": 150000,
+      "depth": 2,
+      "statementNotation": "4.12.1",
+      "statementLabel": "Application",
+      "description": "Create a table and add a comment using COMMENT ON TABLE command",
+      "ancestorIds": [
+        "81CAF36EC7294444BDF68F0C8BECFA42",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "81CAF36EC7294444BDF68F0C8BECFA42"
+    },
+    "81CAF36EC7294444BDF68F0C8BECFA42": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.12",
+      "description": "Discuss adding a comment to a table using the COMMENT ON TABLE command",
+      "id": "81CAF36EC7294444BDF68F0C8BECFA42",
+      "asnIdentifier": "S2638054",
+      "position": 149000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "1E198F940F1C4F57896B349858D8804B": {
+      "id": "1E198F940F1C4F57896B349858D8804B",
+      "asnIdentifier": "S2638053",
+      "position": 148000,
+      "depth": 2,
+      "statementNotation": "4.11.1",
+      "statementLabel": "Application",
+      "description": "Provide a list of differences between TRUNCATE vs. DELETE",
+      "ancestorIds": [
+        "22CAA0C0E6FF4F9F895409C5A8155677",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "22CAA0C0E6FF4F9F895409C5A8155677"
+    },
+    "22CAA0C0E6FF4F9F895409C5A8155677": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.11",
+      "description": "Discuss the rationale for using TRUNCATE vs. DELETE for tables",
+      "id": "22CAA0C0E6FF4F9F895409C5A8155677",
+      "asnIdentifier": "S2638052",
+      "position": 147000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "603E7708E51A42F1A59142C014895734": {
+      "statementLabel": "Application",
+      "description": "Execute a query using the ALTER TABLE commands ADD, MODIFY, and DROP",
+      "id": "603E7708E51A42F1A59142C014895734",
+      "asnIdentifier": "S2638051",
+      "position": 146000,
+      "depth": 2,
+      "statementNotation": "4.10.1",
+      "ancestorIds": [
+        "3338775B73334E68B1B50AC15B3B16A9",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "3338775B73334E68B1B50AC15B3B16A9"
+    },
+    "3338775B73334E68B1B50AC15B3B16A9": {
+      "id": "3338775B73334E68B1B50AC15B3B16A9",
+      "asnIdentifier": "S2638050",
+      "position": 145000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.10",
+      "description": "Discuss how to construct a query using the ALTER TABLE commands ADD, MODIFY, and DROP",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "57E9629EA62B430BB74C4CF009DB638B": {
+      "statementNotation": "4.9.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the importance of being able to modify tables",
+      "id": "57E9629EA62B430BB74C4CF009DB638B",
+      "asnIdentifier": "S2638049",
+      "position": 144000,
+      "depth": 2,
+      "ancestorIds": [
+        "1E4C1A6569234B2093AF42AD850C5F4B",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "1E4C1A6569234B2093AF42AD850C5F4B"
+    },
+    "1E4C1A6569234B2093AF42AD850C5F4B": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.9",
+      "description": "Discuss why it is important to be able to modify a table",
+      "id": "1E4C1A6569234B2093AF42AD850C5F4B",
+      "asnIdentifier": "S2638048",
+      "position": 143000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "F9ED4B61A36B42F19BCA5B14C3B876B6": {
+      "id": "F9ED4B61A36B42F19BCA5B14C3B876B6",
+      "asnIdentifier": "S2638047",
+      "position": 142000,
+      "depth": 2,
+      "statementNotation": "4.8.1",
+      "statementLabel": "Application",
+      "description": "Give examples of each DDL statement: ALTER, DROP, RENAME, and TRUNCATE and show the effect each has on tables and columns",
+      "ancestorIds": [
+        "C23930CD5ED34B9F982DC44118E9877A",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "C23930CD5ED34B9F982DC44118E9877A"
+    },
+    "C23930CD5ED34B9F982DC44118E9877A": {
+      "id": "C23930CD5ED34B9F982DC44118E9877A",
+      "asnIdentifier": "S2638046",
+      "position": 141000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.8",
+      "description": "Discuss each of the DDL statements: ALTER, DROP, RENAME, and TRUNCATE and discuss the effect each has on tables and columns",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "7773656384F44423AB37FC2F1F587CD4": {
+      "id": "7773656384F44423AB37FC2F1F587CD4",
+      "asnIdentifier": "S2638045",
+      "position": 140000,
+      "depth": 2,
+      "statementNotation": "4.7.1",
+      "statementLabel": "Application",
+      "description": "Research the changes in work and educational requirements",
+      "ancestorIds": [
+        "941AE8D5408D45418661C2EE29C38C82",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "941AE8D5408D45418661C2EE29C38C82"
+    },
+    "941AE8D5408D45418661C2EE29C38C82": {
+      "listId": "4.7",
+      "description": "Articulate the changing nature of work and its associated educational requirements",
+      "id": "941AE8D5408D45418661C2EE29C38C82",
+      "asnIdentifier": "S2638044",
+      "position": 139000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "C87958AFC40648B98A191D48C3F5479F": {
+      "depth": 2,
+      "statementNotation": "4.6.1",
+      "statementLabel": "Application",
+      "description": "Research a list of examples of how businesses use time stamps for time zones",
+      "id": "C87958AFC40648B98A191D48C3F5479F",
+      "asnIdentifier": "S2638043",
+      "position": 138000,
+      "ancestorIds": [
+        "CBF7618DED534A808C0E2600EF6B7F3B",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "CBF7618DED534A808C0E2600EF6B7F3B"
+    },
+    "CBF7618DED534A808C0E2600EF6B7F3B": {
+      "position": 137000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.6",
+      "description": "Discuss how an organization use time stamps for time zones in business situations",
+      "id": "CBF7618DED534A808C0E2600EF6B7F3B",
+      "asnIdentifier": "S2638042",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "03442D8995E444D08280D5B2C3A9A6B5": {
+      "statementNotation": "4.5.1",
+      "statementLabel": "Application",
+      "description": "Create a table incorporating TIMESTAMP, INTERVAL YEAR TO MONTH, AND INTERVAL DAY TO SECOND data types",
+      "id": "03442D8995E444D08280D5B2C3A9A6B5",
+      "asnIdentifier": "S2638041",
+      "position": 136000,
+      "depth": 2,
+      "ancestorIds": [
+        "B022810E4E21472D824A9A0D599F4B25",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B022810E4E21472D824A9A0D599F4B25"
+    },
+    "B022810E4E21472D824A9A0D599F4B25": {
+      "listId": "4.5",
+      "description": "Discuss tables incorporating TIMESTAMP, INTERVAL YEAR TO MONTH, AND INTERVAL DAY TO SECOND data types to columns",
+      "id": "B022810E4E21472D824A9A0D599F4B25",
+      "asnIdentifier": "S2638040",
+      "position": 135000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "CBBE7B0861FC4EAEB3B08FA3359EEC61": {
+      "description": "Diagram the appropriate uses of each data type",
+      "id": "CBBE7B0861FC4EAEB3B08FA3359EEC61",
+      "asnIdentifier": "S2638039",
+      "position": 134000,
+      "depth": 2,
+      "statementNotation": "4.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "68D5273FADC048F0A496AC7E697080F7",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "68D5273FADC048F0A496AC7E697080F7"
+    },
+    "68D5273FADC048F0A496AC7E697080F7": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.4",
+      "description": "Create a table applying the appropriate data type for each column",
+      "id": "68D5273FADC048F0A496AC7E697080F7",
+      "asnIdentifier": "S2638038",
+      "position": 133000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "D8B3A29102D640D49B4B59976FB766D7": {
+      "statementLabel": "Application",
+      "description": "Create a table with examples of the number, character, and date data types",
+      "id": "D8B3A29102D640D49B4B59976FB766D7",
+      "asnIdentifier": "S2638037",
+      "position": 132000,
+      "depth": 2,
+      "statementNotation": "4.3.1",
+      "ancestorIds": [
+        "B9540CA0989242BD87C1C631C88A99B7",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B9540CA0989242BD87C1C631C88A99B7"
+    },
+    "B9540CA0989242BD87C1C631C88A99B7": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.3",
+      "description": "List each of the number, character, and date data types",
+      "id": "B9540CA0989242BD87C1C631C88A99B7",
+      "asnIdentifier": "S2638036",
+      "position": 131000,
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "0B1FC11571B04CCFA82ED403717AE779": {
+      "description": "Execute a MERGE statement",
+      "id": "0B1FC11571B04CCFA82ED403717AE779",
+      "asnIdentifier": "S2638035",
+      "position": 130000,
+      "depth": 2,
+      "statementNotation": "4.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "7E56033D4A44400EB6E014D19FCDAC51",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "7E56033D4A44400EB6E014D19FCDAC51"
+    },
+    "7E56033D4A44400EB6E014D19FCDAC51": {
+      "id": "7E56033D4A44400EB6E014D19FCDAC51",
+      "asnIdentifier": "S2638034",
+      "position": 129000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.2",
+      "description": "Construct a MERGE statement",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "4586A21194AF4E0FBA0AD9DF4C6A999E": {
+      "position": 128000,
+      "depth": 2,
+      "statementNotation": "4.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "4586A21194AF4E0FBA0AD9DF4C6A999E",
+      "asnIdentifier": "S2638033",
+      "ancestorIds": [
+        "B94BC5907BB34E0BB2E82D7DE1F1E7A2",
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B94BC5907BB34E0BB2E82D7DE1F1E7A2"
+    },
+    "B94BC5907BB34E0BB2E82D7DE1F1E7A2": {
+      "id": "B94BC5907BB34E0BB2E82D7DE1F1E7A2",
+      "asnIdentifier": "S2638032",
+      "position": 127000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "B64F0B0C13E54C86BE1B8A918EA9C38E"
+      ],
+      "parentId": "B64F0B0C13E54C86BE1B8A918EA9C38E"
+    },
+    "B64F0B0C13E54C86BE1B8A918EA9C38E": {
+      "description": "Data Management Language",
+      "id": "B64F0B0C13E54C86BE1B8A918EA9C38E",
+      "asnIdentifier": "S2638031",
+      "position": 126000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "4:",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3309B056B390492F91E819188957B3D0": {
+      "id": "3309B056B390492F91E819188957B3D0",
+      "asnIdentifier": "S2638030",
+      "position": 125000,
+      "depth": 2,
+      "statementNotation": "3.12.1",
+      "statementLabel": "Application",
+      "description": "Discuss the importance of the first impression in the interview process",
+      "ancestorIds": [
+        "66F93A795216420CBF7E237258F02795",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "66F93A795216420CBF7E237258F02795"
+    },
+    "66F93A795216420CBF7E237258F02795": {
+      "asnIdentifier": "S2638029",
+      "position": 124000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.12",
+      "description": "Explain the importance of a first impression in the interview process",
+      "id": "66F93A795216420CBF7E237258F02795",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "192DF681F7114A31B8756ADF620B8DC5": {
+      "id": "192DF681F7114A31B8756ADF620B8DC5",
+      "asnIdentifier": "S2638028",
+      "position": 123000,
+      "depth": 2,
+      "statementNotation": "3.11.1",
+      "statementLabel": "Application",
+      "description": "Research the types of questions that cannot be asked in an interview",
+      "ancestorIds": [
+        "5F5DFBABE43B4D2782F50DB346B5D9CF",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "5F5DFBABE43B4D2782F50DB346B5D9CF"
+    },
+    "5F5DFBABE43B4D2782F50DB346B5D9CF": {
+      "description": "Identify the types of questions that cannot be asked during an interview",
+      "id": "5F5DFBABE43B4D2782F50DB346B5D9CF",
+      "asnIdentifier": "S2638027",
+      "position": 122000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.11",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "426F8B73D6A9407AA59B03CD391ADAD6": {
+      "id": "426F8B73D6A9407AA59B03CD391ADAD6",
+      "asnIdentifier": "S2638026",
+      "position": 121000,
+      "depth": 2,
+      "statementNotation": "3.10.1",
+      "statementLabel": "Application",
+      "description": "Create specific steps needed to better prepare for a job interview",
+      "ancestorIds": [
+        "C7BC977F5E6141D7A5C6D10EF37CCC94",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "C7BC977F5E6141D7A5C6D10EF37CCC94"
+    },
+    "C7BC977F5E6141D7A5C6D10EF37CCC94": {
+      "description": "List specific steps needed to better prepare for a job interview",
+      "id": "C7BC977F5E6141D7A5C6D10EF37CCC94",
+      "asnIdentifier": "S2638025",
+      "position": 120000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.10",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "9B58F17574324E9F96374794A29F0BF1": {
+      "position": 119000,
+      "depth": 2,
+      "statementNotation": "3.9.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the different kinds of interviews and the purpose of each",
+      "id": "9B58F17574324E9F96374794A29F0BF1",
+      "asnIdentifier": "S2638024",
+      "ancestorIds": [
+        "BDB95D79C7A849A28B62628CB4963C33",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "BDB95D79C7A849A28B62628CB4963C33"
+    },
+    "BDB95D79C7A849A28B62628CB4963C33": {
+      "listId": "3.9",
+      "description": "Differentiate between different kinds of interviews and the purposes of each",
+      "id": "BDB95D79C7A849A28B62628CB4963C33",
+      "asnIdentifier": "S2638023",
+      "position": 118000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "A1789BB909A242FAA165EB2ED8F1A891": {
+      "statementNotation": "3.8.1",
+      "statementLabel": "Application",
+      "description": "Give examples of how to construct a SQL query applying COUNT, DISTINCT, NVL group functions",
+      "id": "A1789BB909A242FAA165EB2ED8F1A891",
+      "asnIdentifier": "S2638022",
+      "position": 117000,
+      "depth": 2,
+      "ancestorIds": [
+        "EF10495B08D74CDF82FAD24A4D96814D",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "EF10495B08D74CDF82FAD24A4D96814D"
+    },
+    "EF10495B08D74CDF82FAD24A4D96814D": {
+      "listId": "3.8",
+      "description": "Discuss how to construct and execute a SQL query applying COUNT, DISTINCT, NVL group functions",
+      "id": "EF10495B08D74CDF82FAD24A4D96814D",
+      "asnIdentifier": "S2638021",
+      "position": 116000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "3CA0DA11A5054A188676F67C0993F488": {
+      "asnIdentifier": "S2638020",
+      "position": 115000,
+      "depth": 2,
+      "statementNotation": "3.7.1",
+      "statementLabel": "Application",
+      "description": "What business problems does this solve?",
+      "id": "3CA0DA11A5054A188676F67C0993F488",
+      "ancestorIds": [
+        "A782504AEB464D358CE9D2520FF527C2",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "A782504AEB464D358CE9D2520FF527C2"
+    },
+    "A782504AEB464D358CE9D2520FF527C2": {
+      "listId": "3.7",
+      "description": "Discuss why is it important, from a business perspective, to be able to easily aggregate data (group)",
+      "id": "A782504AEB464D358CE9D2520FF527C2",
+      "asnIdentifier": "S2638019",
+      "position": 114000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "1BE274BC729D4C07BD3C944D4090F240": {
+      "statementNotation": "3.6.1",
+      "statementLabel": "Application",
+      "description": "Discuss the results set obtained from single-row functions versus group functions",
+      "id": "1BE274BC729D4C07BD3C944D4090F240",
+      "asnIdentifier": "S2638018",
+      "position": 113000,
+      "depth": 2,
+      "ancestorIds": [
+        "215077DA159E4474B4D806367170CB16",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "215077DA159E4474B4D806367170CB16"
+    },
+    "215077DA159E4474B4D806367170CB16": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.6",
+      "description": "Compare and contrast the results set obtained from single-row functions versus group functions",
+      "id": "215077DA159E4474B4D806367170CB16",
+      "asnIdentifier": "S2638017",
+      "position": 112000,
+      "depth": 1,
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "F5F1AD615DB14D15AFBECA529A614939": {
+      "statementNotation": "3.5.1",
+      "statementLabel": "Application",
+      "description": "Illustrate how to construct and execute a group function that will operate to produce a single value",
+      "id": "F5F1AD615DB14D15AFBECA529A614939",
+      "asnIdentifier": "S2638016",
+      "position": 111000,
+      "depth": 2,
+      "ancestorIds": [
+        "60A2C2A6306A430F9ADD5789CA99A569",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "60A2C2A6306A430F9ADD5789CA99A569"
+    },
+    "60A2C2A6306A430F9ADD5789CA99A569": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.5",
+      "description": "Discuss how to construct and execute group functions that operate to produce a single value",
+      "id": "60A2C2A6306A430F9ADD5789CA99A569",
+      "asnIdentifier": "S2638015",
+      "position": 110000,
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "E05CEE65D7FB420A895B38AEEDDFC83B": {
+      "description": "Construct and execute group functions that operate only with numeric data types",
+      "id": "E05CEE65D7FB420A895B38AEEDDFC83B",
+      "asnIdentifier": "S2638014",
+      "position": 109000,
+      "depth": 2,
+      "statementNotation": "3.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "84A5090DB04E41F1BD1C12CEDFE7DD1A",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "84A5090DB04E41F1BD1C12CEDFE7DD1A"
+    },
+    "84A5090DB04E41F1BD1C12CEDFE7DD1A": {
+      "position": 108000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.4",
+      "description": "Discuss how to construct and execute group functions that operate only with numeric data types",
+      "id": "84A5090DB04E41F1BD1C12CEDFE7DD1A",
+      "asnIdentifier": "S2638013",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "F233C03C356B45B0B13065A2F543D93C": {
+      "statementNotation": "3.3.1",
+      "statementLabel": "Application",
+      "description": "Diagram a SQL query using SELECT, FROM, WHERE, GROUP BY, ORDER BY syntax using group functions",
+      "id": "F233C03C356B45B0B13065A2F543D93C",
+      "asnIdentifier": "S2638012",
+      "position": 107000,
+      "depth": 2,
+      "ancestorIds": [
+        "ECFED2AE8C9144789B9122DC485AFBC8",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECFED2AE8C9144789B9122DC485AFBC8"
+    },
+    "ECFED2AE8C9144789B9122DC485AFBC8": {
+      "asnIdentifier": "S2638011",
+      "position": 106000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.3",
+      "description": "Discuss how to construct and execute a SQL query using SELECT, FROM, WHERE, GROUP BY, ORDER BY syntax using group functions",
+      "id": "ECFED2AE8C9144789B9122DC485AFBC8",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "FBE4FDE033FC4EC6ABB602EF65911A43": {
+      "id": "FBE4FDE033FC4EC6ABB602EF65911A43",
+      "asnIdentifier": "S2638010",
+      "position": 105000,
+      "depth": 2,
+      "statementNotation": "3.2.2",
+      "statementLabel": "Application",
+      "description": "Research and give an example of the seven group functions",
+      "ancestorIds": [
+        "9C5BDF61D0714E3CA98B73322494BFD5",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "9C5BDF61D0714E3CA98B73322494BFD5"
+    },
+    "9C5BDF61D0714E3CA98B73322494BFD5": {
+      "id": "9C5BDF61D0714E3CA98B73322494BFD5",
+      "asnIdentifier": "S2638009",
+      "position": 104000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.2",
+      "description": "Explain the seven group functions: AVG, COUNT, MAX, MIN, STUDDEV, SUM, VARIANCE",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "19E42C1014644D26A2EE7D7B4B9E3346": {
+      "description": "Prepare a list of terms with definitions",
+      "id": "19E42C1014644D26A2EE7D7B4B9E3346",
+      "asnIdentifier": "S2638008",
+      "position": 103000,
+      "depth": 2,
+      "statementNotation": "3.1.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "8E8AF59454564DD39E9B25F20BFB8CEC",
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "8E8AF59454564DD39E9B25F20BFB8CEC"
+    },
+    "8E8AF59454564DD39E9B25F20BFB8CEC": {
+      "description": "Define terminology",
+      "id": "8E8AF59454564DD39E9B25F20BFB8CEC",
+      "asnIdentifier": "S2638007",
+      "position": 102000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.1",
+      "ancestorIds": [
+        "ECB511F6DAE74183B497350CF198C1F9"
+      ],
+      "parentId": "ECB511F6DAE74183B497350CF198C1F9"
+    },
+    "ECB511F6DAE74183B497350CF198C1F9": {
+      "description": "Group Functions and Subqueries",
+      "id": "ECB511F6DAE74183B497350CF198C1F9",
+      "asnIdentifier": "S2638006",
+      "position": 101000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "3:",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F43D5C4CF7B847FE8283137D2ADA487A": {
+      "position": 100000,
+      "depth": 2,
+      "statementNotation": "2.26.1",
+      "statementLabel": "Application",
+      "description": "Write an HTML query that uses an inner join",
+      "id": "F43D5C4CF7B847FE8283137D2ADA487A",
+      "asnIdentifier": "S2638005",
+      "ancestorIds": [
+        "EB1211D4C4F74071BE1D08377795585B",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "EB1211D4C4F74071BE1D08377795585B"
+    },
+    "EB1211D4C4F74071BE1D08377795585B": {
+      "id": "EB1211D4C4F74071BE1D08377795585B",
+      "asnIdentifier": "S2638004",
+      "position": 99000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.26",
+      "description": "Construct and execute a query to use an inner join",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "FE5B84F1E5CD4A9DBFC9CE9A5F4525D9": {
+      "statementNotation": "2.25.1",
+      "statementLabel": "Application",
+      "description": "Create a query that uses a full outer join",
+      "id": "FE5B84F1E5CD4A9DBFC9CE9A5F4525D9",
+      "asnIdentifier": "S2638003",
+      "position": 98000,
+      "depth": 2,
+      "ancestorIds": [
+        "1EE7BD2790034FFAA4AB130A51D511C9",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "1EE7BD2790034FFAA4AB130A51D511C9"
+    },
+    "1EE7BD2790034FFAA4AB130A51D511C9": {
+      "id": "1EE7BD2790034FFAA4AB130A51D511C9",
+      "asnIdentifier": "S2638002",
+      "position": 97000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.25",
+      "description": "Discuss how to construct and execute a query to use a full outer join",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "E791E455E90E4D68A86F7D187A17CD85": {
+      "statementLabel": "Application",
+      "description": "Create a query that uses a right outer join",
+      "id": "E791E455E90E4D68A86F7D187A17CD85",
+      "asnIdentifier": "S2638001",
+      "position": 96000,
+      "depth": 2,
+      "statementNotation": "2.24.1",
+      "ancestorIds": [
+        "8E48C5753F1A4C789325FA801D710C86",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "8E48C5753F1A4C789325FA801D710C86"
+    },
+    "8E48C5753F1A4C789325FA801D710C86": {
+      "asnIdentifier": "S2638000",
+      "position": 95000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.24",
+      "description": "Discuss how to construct and execute a query to use a right outer join",
+      "id": "8E48C5753F1A4C789325FA801D710C86",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "3B06075D61384147B450F6935B20B1F6": {
+      "id": "3B06075D61384147B450F6935B20B1F6",
+      "asnIdentifier": "S2637999",
+      "position": 94000,
+      "depth": 2,
+      "statementNotation": "2.23.1",
+      "statementLabel": "Application",
+      "description": "Create a query that uses a left outer join",
+      "ancestorIds": [
+        "75B0CF2E7BCE4FED94502D9F38C7EACB",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "75B0CF2E7BCE4FED94502D9F38C7EACB"
+    },
+    "75B0CF2E7BCE4FED94502D9F38C7EACB": {
+      "description": "Discuss how to construct and execute a query to use a left outer join",
+      "id": "75B0CF2E7BCE4FED94502D9F38C7EACB",
+      "asnIdentifier": "S2637998",
+      "position": 93000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.23",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "CA8EAC38DC5D47849F4AB164DCE729DD": {
+      "description": "Demonstrate inner and outer joins",
+      "id": "CA8EAC38DC5D47849F4AB164DCE729DD",
+      "asnIdentifier": "S2637997",
+      "position": 92000,
+      "depth": 2,
+      "statementNotation": "2.22.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "AD3F946E14294F6D9DDBAF0C5EAD85A0",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AD3F946E14294F6D9DDBAF0C5EAD85A0"
+    },
+    "AD3F946E14294F6D9DDBAF0C5EAD85A0": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.22",
+      "description": "Compare and contrast an inner and outer join",
+      "id": "AD3F946E14294F6D9DDBAF0C5EAD85A0",
+      "asnIdentifier": "S2637996",
+      "position": 91000,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "B2E8249AF24C400E8816B17E279F9641": {
+      "description": "Demonstrate the Oracle proprietary joins and their ANSI/SO SQL: 1999 counterparts",
+      "id": "B2E8249AF24C400E8816B17E279F9641",
+      "asnIdentifier": "S2637995",
+      "position": 90000,
+      "depth": 2,
+      "statementNotation": "2.21.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "1912CD4DC21B46FF9F581577401DC70A",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "1912CD4DC21B46FF9F581577401DC70A"
+    },
+    "1912CD4DC21B46FF9F581577401DC70A": {
+      "asnIdentifier": "S2637994",
+      "position": 89000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.21",
+      "description": "Name the Oracle proprietary joins and their ANSI/SO SQL: 1999 counterparts",
+      "id": "1912CD4DC21B46FF9F581577401DC70A",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "F0A9F2DC5D8C475AA87924154DB99983": {
+      "id": "F0A9F2DC5D8C475AA87924154DB99983",
+      "asnIdentifier": "S2637993",
+      "position": 88000,
+      "depth": 2,
+      "statementNotation": "2.20.1",
+      "statementLabel": "Application",
+      "description": "Create an ANSI/SO SQL: 1999 query that joins three tables",
+      "ancestorIds": [
+        "16AC86C2CC784E28B560AB72216FC884",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "16AC86C2CC784E28B560AB72216FC884"
+    },
+    "16AC86C2CC784E28B560AB72216FC884": {
+      "position": 87000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.20",
+      "description": "Discuss how to compose and execute an ANSI/SO SQL: 1999 query that joins three tables",
+      "id": "16AC86C2CC784E28B560AB72216FC884",
+      "asnIdentifier": "S2637992",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "69D274991E494CF984AFC10BA9C74434": {
+      "description": "Create a join with the USING and ON clauses",
+      "id": "69D274991E494CF984AFC10BA9C74434",
+      "asnIdentifier": "S2637991",
+      "position": 86000,
+      "depth": 2,
+      "statementNotation": "2.19.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "21C72EC8D1D44B57956F753F546D2BD6",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "21C72EC8D1D44B57956F753F546D2BD6"
+    },
+    "21C72EC8D1D44B57956F753F546D2BD6": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.19",
+      "description": "Discuss how to compose and execute a join with the USING and ON clauses",
+      "id": "21C72EC8D1D44B57956F753F546D2BD6",
+      "asnIdentifier": "S2637990",
+      "position": 85000,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "5B6FE20115FC4F938B5189825C03A338": {
+      "statementNotation": "2.18.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate why it is important to have a standard for SQL as defined by ANSI",
+      "id": "5B6FE20115FC4F938B5189825C03A338",
+      "asnIdentifier": "S2637989",
+      "position": 84000,
+      "depth": 2,
+      "ancestorIds": [
+        "B3968C5C0379419E800334BB0FCE1604",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "B3968C5C0379419E800334BB0FCE1604"
+    },
+    "B3968C5C0379419E800334BB0FCE1604": {
+      "id": "B3968C5C0379419E800334BB0FCE1604",
+      "asnIdentifier": "S2637988",
+      "position": 83000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.18",
+      "description": "Discuss why it is important to have a standard for SQL as defined by ANSI",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "5F6C42F0DD424AFBB3575F9437883A11": {
+      "description": "Demonstrate the relationship between a natural join and an equijoin",
+      "id": "5F6C42F0DD424AFBB3575F9437883A11",
+      "asnIdentifier": "S2637987",
+      "position": 82000,
+      "depth": 2,
+      "statementNotation": "2.17.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "B2F7652704EF4AA6B8206ABB6B7B90A0",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "B2F7652704EF4AA6B8206ABB6B7B90A0"
+    },
+    "B2F7652704EF4AA6B8206ABB6B7B90A0": {
+      "listId": "2.17",
+      "description": "Discuss the relationship between a natural join and an equijoin",
+      "id": "B2F7652704EF4AA6B8206ABB6B7B90A0",
+      "asnIdentifier": "S2637986",
+      "position": 81000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "78A6DE1424764AEB848F9AA82A7AF0BB": {
+      "asnIdentifier": "S2637985",
+      "position": 80000,
+      "depth": 2,
+      "statementNotation": "2.16.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the relationship between a cross-join and a Cartesian product",
+      "id": "78A6DE1424764AEB848F9AA82A7AF0BB",
+      "ancestorIds": [
+        "776BB34731F4439BA70740486DC93676",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "776BB34731F4439BA70740486DC93676"
+    },
+    "776BB34731F4439BA70740486DC93676": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.16",
+      "description": "Discuss the relationship between a cross-join and a Cartesian product",
+      "id": "776BB34731F4439BA70740486DC93676",
+      "asnIdentifier": "S2637984",
+      "position": 79000,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "811FE79E8FAF482B82CD2583B4F43C56": {
+      "id": "811FE79E8FAF482B82CD2583B4F43C56",
+      "asnIdentifier": "S2637983",
+      "position": 78000,
+      "depth": 2,
+      "statementNotation": "2.15.1",
+      "statementLabel": "Application",
+      "description": "Create a query using SQL joint syntax that will result in a Cartesian product",
+      "ancestorIds": [
+        "D5FA8200B1954762AD13E791229DB4EE",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "D5FA8200B1954762AD13E791229DB4EE"
+    },
+    "D5FA8200B1954762AD13E791229DB4EE": {
+      "id": "D5FA8200B1954762AD13E791229DB4EE",
+      "asnIdentifier": "S2637982",
+      "position": 77000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.15",
+      "description": "Discuss how to create a Cartesian product using SQL join syntax",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "64FE0B4771B34394B6AF7162B7641901": {
+      "id": "64FE0B4771B34394B6AF7162B7641901",
+      "asnIdentifier": "S2637981",
+      "position": 76000,
+      "depth": 2,
+      "statementNotation": "2.14.1",
+      "statementLabel": "Application",
+      "description": "Create a query using SQL join syntax that will execute a natural join",
+      "ancestorIds": [
+        "02A79D3209B9443AAC0439C9FBD0F71D",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "02A79D3209B9443AAC0439C9FBD0F71D"
+    },
+    "02A79D3209B9443AAC0439C9FBD0F71D": {
+      "asnIdentifier": "S2637980",
+      "position": 75000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.14",
+      "description": "Discuss how to compose and execute a natural join using SQL join syntax",
+      "id": "02A79D3209B9443AAC0439C9FBD0F71D",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "32A652A285374F089E3BB8B72131613D": {
+      "position": 74000,
+      "depth": 2,
+      "statementNotation": "2.13.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate how to incorporate into a career plan skills to stay up-to-date in anticipation of the changing nature of work",
+      "id": "32A652A285374F089E3BB8B72131613D",
+      "asnIdentifier": "S2637979",
+      "ancestorIds": [
+        "CE371C828BB942059A0A0D9B1D5B160D",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "CE371C828BB942059A0A0D9B1D5B160D"
+    },
+    "CE371C828BB942059A0A0D9B1D5B160D": {
+      "listId": "2.13",
+      "description": "Illustrate how to incorporate into a career plan skills to stay up-to-date in anticipation of the changing nature of work",
+      "id": "CE371C828BB942059A0A0D9B1D5B160D",
+      "asnIdentifier": "S2637978",
+      "position": 73000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "D468E27C1AA248EA8DCF2F332124E35B": {
+      "statementLabel": "Application",
+      "description": "Discuss examples of factors that contribute to the changing nature of work",
+      "id": "D468E27C1AA248EA8DCF2F332124E35B",
+      "asnIdentifier": "S2637977",
+      "position": 72000,
+      "depth": 2,
+      "statementNotation": "2.12.1",
+      "ancestorIds": [
+        "290182073AAC4340901B04645D744920",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "290182073AAC4340901B04645D744920"
+    },
+    "290182073AAC4340901B04645D744920": {
+      "asnIdentifier": "S2637976",
+      "position": 71000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.12",
+      "description": "Identify factors that contribute to the changing nature of work",
+      "id": "290182073AAC4340901B04645D744920",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "900A90683B29446990484D9145E923FC": {
+      "depth": 2,
+      "statementNotation": "2.11.1",
+      "statementLabel": "Application",
+      "description": "Create a SELECT statement to join a table to itself using a self-join",
+      "id": "900A90683B29446990484D9145E923FC",
+      "asnIdentifier": "S2637975",
+      "position": 70000,
+      "ancestorIds": [
+        "F6C664FC6DA2433BA67C43D636CFA4DD",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "F6C664FC6DA2433BA67C43D636CFA4DD"
+    },
+    "F6C664FC6DA2433BA67C43D636CFA4DD": {
+      "id": "F6C664FC6DA2433BA67C43D636CFA4DD",
+      "asnIdentifier": "S2637974",
+      "position": 69000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.11",
+      "description": "Discuss how to construct and execute a SELECT statement to join a table to itself using a self-join",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "3F7BAE7243F741559638A6ED5A2733BF": {
+      "description": "Discuss examples of positive associations between learning and work",
+      "id": "3F7BAE7243F741559638A6ED5A2733BF",
+      "asnIdentifier": "S2637973",
+      "position": 68000,
+      "depth": 2,
+      "statementNotation": "2.10.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "D4842CC8FDCB4D4EAB0458E6DBBDE654",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "D4842CC8FDCB4D4EAB0458E6DBBDE654"
+    },
+    "D4842CC8FDCB4D4EAB0458E6DBBDE654": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.10",
+      "description": "Illustrate positive associations between learning and work",
+      "id": "D4842CC8FDCB4D4EAB0458E6DBBDE654",
+      "asnIdentifier": "S2637972",
+      "position": 67000,
+      "depth": 1,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "15EBD8C5B0C6463CBA7C6A12F4699D36": {
+      "id": "15EBD8C5B0C6463CBA7C6A12F4699D36",
+      "asnIdentifier": "S2637971",
+      "position": 66000,
+      "depth": 2,
+      "statementNotation": "2.9.1",
+      "statementLabel": "Application",
+      "description": "Create a SELECT statement to access data from more than one table using an outer join",
+      "ancestorIds": [
+        "8957BEFF44954031A6E315C60AFC4DD8",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "8957BEFF44954031A6E315C60AFC4DD8"
+    },
+    "8957BEFF44954031A6E315C60AFC4DD8": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.9",
+      "description": "Discuss how to SELECT and execute a statement to access data from more than one table using an outer join",
+      "id": "8957BEFF44954031A6E315C60AFC4DD8",
+      "asnIdentifier": "S2637970",
+      "position": 65000,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "4C05431FC63A4D16A965262C443BFF6B": {
+      "asnIdentifier": "S2637969",
+      "position": 64000,
+      "depth": 2,
+      "statementNotation": "2.8.1",
+      "statementLabel": "Application",
+      "description": "Create a SELECT statement to access data from more than one table using a nonequijoin",
+      "id": "4C05431FC63A4D16A965262C443BFF6B",
+      "ancestorIds": [
+        "61A90BEAE4C648AF926FB4917C76FCFF",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "61A90BEAE4C648AF926FB4917C76FCFF"
+    },
+    "61A90BEAE4C648AF926FB4917C76FCFF": {
+      "description": "Discuss how to construct and execute a SELECT statement to access data from more than one table using a nonequijoin",
+      "id": "61A90BEAE4C648AF926FB4917C76FCFF",
+      "asnIdentifier": "S2637968",
+      "position": 63000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.8",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "F7F6CAAAF7D44B5F9B67565B4EBF41D2": {
+      "asnIdentifier": "S2637967",
+      "position": 62000,
+      "depth": 2,
+      "statementNotation": "2.7.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate why is it important, from a business perspective, for a language to be able to combine information from multiple data sources",
+      "id": "F7F6CAAAF7D44B5F9B67565B4EBF41D2",
+      "ancestorIds": [
+        "E2141C47280F451C8D6E2093D9F4CE81",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "E2141C47280F451C8D6E2093D9F4CE81"
+    },
+    "E2141C47280F451C8D6E2093D9F4CE81": {
+      "position": 61000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.7",
+      "description": "Discuss why it is it important, from a business perspective, for a language to be able to combine information from multiple data sources",
+      "id": "E2141C47280F451C8D6E2093D9F4CE81",
+      "asnIdentifier": "S2637966",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "6C679F5911F9493790DEF5D1844C113F": {
+      "id": "6C679F5911F9493790DEF5D1844C113F",
+      "asnIdentifier": "S2637965",
+      "position": 60000,
+      "depth": 2,
+      "statementNotation": "2.6.1",
+      "statementLabel": "Application",
+      "description": "Create a column alias in a join statement",
+      "ancestorIds": [
+        "C11428D9256D4989A8323D1F6E76B7B0",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "C11428D9256D4989A8323D1F6E76B7B0"
+    },
+    "C11428D9256D4989A8323D1F6E76B7B0": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.6",
+      "description": "Discuss how to apply the rule for using column aliases in a join statement",
+      "id": "C11428D9256D4989A8323D1F6E76B7B0",
+      "asnIdentifier": "S2637964",
+      "position": 59000,
+      "depth": 1,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "9C2FDE52FEFD4CF684A023743F04ADC4": {
+      "description": "Create a SELECT statements that add search conditions using the AND operator",
+      "id": "9C2FDE52FEFD4CF684A023743F04ADC4",
+      "asnIdentifier": "S2637963",
+      "position": 58000,
+      "depth": 2,
+      "statementNotation": "2.5.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "3072A8FF75BA4031A855919295553DDF",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "3072A8FF75BA4031A855919295553DDF"
+    },
+    "3072A8FF75BA4031A855919295553DDF": {
+      "description": "Discuss how to construct and execute a SELECT statement that add search conditions using the AND operator",
+      "id": "3072A8FF75BA4031A855919295553DDF",
+      "asnIdentifier": "S2637962",
+      "position": 57000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.5",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "EB0A6D465530407E9AC3328A887378D2": {
+      "depth": 2,
+      "statementNotation": "2.4.1",
+      "statementLabel": "Application",
+      "description": "Create a SELECT statement to access data from more than one table using an equijoin",
+      "id": "EB0A6D465530407E9AC3328A887378D2",
+      "asnIdentifier": "S2637961",
+      "position": 56000,
+      "ancestorIds": [
+        "8A607C66A8514486A3C48B4FC6D404B4",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "8A607C66A8514486A3C48B4FC6D404B4"
+    },
+    "8A607C66A8514486A3C48B4FC6D404B4": {
+      "description": "Discuss how to construct and execute a SELECT statement to access data from more than one table using an equijoin",
+      "id": "8A607C66A8514486A3C48B4FC6D404B4",
+      "asnIdentifier": "S2637960",
+      "position": 55000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.4",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "6A9BE8AB95464A8E9B2138A505F10B86": {
+      "statementLabel": "Application",
+      "description": "Create a SELECT statement that results in a cartesian product",
+      "id": "6A9BE8AB95464A8E9B2138A505F10B86",
+      "asnIdentifier": "S2637959",
+      "position": 54000,
+      "depth": 2,
+      "statementNotation": "2.3.1",
+      "ancestorIds": [
+        "F5AF928604B646AB828F44391BC08F46",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "F5AF928604B646AB828F44391BC08F46"
+    },
+    "F5AF928604B646AB828F44391BC08F46": {
+      "id": "F5AF928604B646AB828F44391BC08F46",
+      "asnIdentifier": "S2637958",
+      "position": 53000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.3",
+      "description": "Discuss how to construct and execute a SELECT statement that results in a cartesian product",
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "436C3EF4F1604390B85ACAC38185EC40": {
+      "id": "436C3EF4F1604390B85ACAC38185EC40",
+      "asnIdentifier": "S2637957",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "2.2.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the purpose of joins conditions",
+      "ancestorIds": [
+        "74E12B3AD1074C18A932DB9BFFB8C626",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "74E12B3AD1074C18A932DB9BFFB8C626"
+    },
+    "74E12B3AD1074C18A932DB9BFFB8C626": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.2",
+      "description": "Identify the purpose of joins conditions",
+      "id": "74E12B3AD1074C18A932DB9BFFB8C626",
+      "asnIdentifier": "S2637956",
+      "position": 51000,
+      "depth": 1,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "03D251519FD8458C9823FAED50063939": {
+      "statementNotation": "2.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "id": "03D251519FD8458C9823FAED50063939",
+      "asnIdentifier": "S2637955",
+      "position": 50000,
+      "depth": 2,
+      "ancestorIds": [
+        "6D55FBF5A9DE4B7299A8B43BA99B850C",
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "6D55FBF5A9DE4B7299A8B43BA99B850C"
+    },
+    "6D55FBF5A9DE4B7299A8B43BA99B850C": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.1",
+      "description": "Define terminology",
+      "id": "6D55FBF5A9DE4B7299A8B43BA99B850C",
+      "asnIdentifier": "S2637954",
+      "position": 49000,
+      "depth": 1,
+      "ancestorIds": [
+        "AA8F24C2E6DC49DF8F47860868C511A9"
+      ],
+      "parentId": "AA8F24C2E6DC49DF8F47860868C511A9"
+    },
+    "AA8F24C2E6DC49DF8F47860868C511A9": {
+      "id": "AA8F24C2E6DC49DF8F47860868C511A9",
+      "asnIdentifier": "S2637953",
+      "position": 48000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "2:",
+      "description": "Joins",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5300F106E093498C923770B79C27A3A1": {
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "1.23.1",
+      "statementLabel": "Application",
+      "description": "Write the code to use a HTML DB",
+      "id": "5300F106E093498C923770B79C27A3A1",
+      "asnIdentifier": "S2637952",
+      "ancestorIds": [
+        "382FD59BA7F5430BB180504B485C6E0A",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "382FD59BA7F5430BB180504B485C6E0A"
+    },
+    "382FD59BA7F5430BB180504B485C6E0A": {
+      "id": "382FD59BA7F5430BB180504B485C6E0A",
+      "asnIdentifier": "S2637951",
+      "position": 46000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.23",
+      "description": "Construct and execute two methods for implementing IF-THEN-ELSE conditional logic",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "27D74CD5B3994C42A2C9390916CD92A8": {
+      "asnIdentifier": "S2637950",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "1.22.1",
+      "statementLabel": "Application",
+      "description": "Write the code to use a HTML DB",
+      "id": "27D74CD5B3994C42A2C9390916CD92A8",
+      "ancestorIds": [
+        "3DBC06181434408E9ED41DD963C3E1D9",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "3DBC06181434408E9ED41DD963C3E1D9"
+    },
+    "3DBC06181434408E9ED41DD963C3E1D9": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.22",
+      "description": "Construct and execute a SQL query that correctly uses the DECODE and CASE functions",
+      "id": "3DBC06181434408E9ED41DD963C3E1D9",
+      "asnIdentifier": "S2637949",
+      "position": 44000,
+      "depth": 1,
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "BB913FB66FD841A99073D2671C9A27EC": {
+      "statementLabel": "Application",
+      "description": "Demonstrate the use of DECODE and CASE functions",
+      "id": "BB913FB66FD841A99073D2671C9A27EC",
+      "asnIdentifier": "S2637948",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "1.21.1",
+      "ancestorIds": [
+        "6E60DF32C6304E1584ABEC3260D40B68",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "6E60DF32C6304E1584ABEC3260D40B68"
+    },
+    "6E60DF32C6304E1584ABEC3260D40B68": {
+      "position": 42000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.21",
+      "description": "Compare and contrast the DECODE and CASE functions",
+      "id": "6E60DF32C6304E1584ABEC3260D40B68",
+      "asnIdentifier": "S2637947",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "C31A7C255BC040DA9028D111B888382B": {
+      "depth": 2,
+      "statementNotation": "1.20.1",
+      "statementLabel": "Application",
+      "description": "Write the code to use a HTML DB",
+      "id": "C31A7C255BC040DA9028D111B888382B",
+      "asnIdentifier": "S2637946",
+      "position": 41000,
+      "ancestorIds": [
+        "A58D18903DB744C7BF4B0BF9C1C08E3C",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "A58D18903DB744C7BF4B0BF9C1C08E3C"
+    },
+    "A58D18903DB744C7BF4B0BF9C1C08E3C": {
+      "id": "A58D18903DB744C7BF4B0BF9C1C08E3C",
+      "asnIdentifier": "S2637945",
+      "position": 40000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.20",
+      "description": "Construct and execute a SQL query that correctly applies NVL, NVL2, NULLIF, and COALESCE single-row functions",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "E1B53563896C48D18FCB5B9B146781A6": {
+      "description": "Demonstrate the use of COALESCE and the NVL functions",
+      "id": "E1B53563896C48D18FCB5B9B146781A6",
+      "asnIdentifier": "S2637944",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "1.19.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "521D2DBF329F4C7984A7C89CA50660B5",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "521D2DBF329F4C7984A7C89CA50660B5"
+    },
+    "521D2DBF329F4C7984A7C89CA50660B5": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.19",
+      "description": "Explain the use of COALESCE and the NVL functions",
+      "id": "521D2DBF329F4C7984A7C89CA50660B5",
+      "asnIdentifier": "S2637943",
+      "position": 38000,
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "4A25ED3BBF0E43ED8B9EB7D2E199EC8C": {
+      "asnIdentifier": "S2637942",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "1.18.1",
+      "statementLabel": "Application",
+      "description": "Create a chart showing the four functions",
+      "id": "4A25ED3BBF0E43ED8B9EB7D2E199EC8C",
+      "ancestorIds": [
+        "EA05EAF071B646EB823BDCB1DD9FA68D",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "EA05EAF071B646EB823BDCB1DD9FA68D"
+    },
+    "EA05EAF071B646EB823BDCB1DD9FA68D": {
+      "id": "EA05EAF071B646EB823BDCB1DD9FA68D",
+      "asnIdentifier": "S2637941",
+      "position": 36000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.18",
+      "description": "List at least four general functions that work with any data type and relate to handling null values",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "03FEDB3231A8474AA42C920458EACFF8": {
+      "statementLabel": "Application",
+      "description": "Demonstrate the evaluation of a nested function",
+      "id": "03FEDB3231A8474AA42C920458EACFF8",
+      "asnIdentifier": "S2637940",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "1.17.1",
+      "ancestorIds": [
+        "276C1516B85A4A93906E8AD76F267667",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "276C1516B85A4A93906E8AD76F267667"
+    },
+    "276C1516B85A4A93906E8AD76F267667": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.17",
+      "description": "Explain the evaluation of a nested function",
+      "id": "276C1516B85A4A93906E8AD76F267667",
+      "asnIdentifier": "S2637939",
+      "position": 34000,
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "721CA225CE204925B007D5C8A537E67F": {
+      "description": "Write the code to use a DUAL",
+      "id": "721CA225CE204925B007D5C8A537E67F",
+      "asnIdentifier": "S2637938",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "1.16.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "E50F0F1617204C1F9A15270CF63F2425",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "E50F0F1617204C1F9A15270CF63F2425"
+    },
+    "E50F0F1617204C1F9A15270CF63F2425": {
+      "id": "E50F0F1617204C1F9A15270CF63F2425",
+      "asnIdentifier": "S2637937",
+      "position": 32000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.16",
+      "description": "Explain and apply the use YYYY and RRRR to return the correct year as stored in the database",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "F6A9E783D86A4EF2B15E390AD64F52D2": {
+      "id": "F6A9E783D86A4EF2B15E390AD64F52D2",
+      "asnIdentifier": "S2637936",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "1.15.1",
+      "statementLabel": "Application",
+      "description": "Prepare the code to run in HTML DB",
+      "ancestorIds": [
+        "4F1F45BE8FCD41B5A6B17597ADFEB84B",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4F1F45BE8FCD41B5A6B17597ADFEB84B"
+    },
+    "4F1F45BE8FCD41B5A6B17597ADFEB84B": {
+      "position": 30000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.15",
+      "description": "Apply the appropriate date and/or character format model to produce a desired output",
+      "id": "4F1F45BE8FCD41B5A6B17597ADFEB84B",
+      "asnIdentifier": "S2637935",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "1B248313C4704C4A9C031F0B22F7BC03": {
+      "depth": 2,
+      "statementNotation": "1.14.1",
+      "statementLabel": "Application",
+      "description": "Prepare the code to run in HTML DB",
+      "id": "1B248313C4704C4A9C031F0B22F7BC03",
+      "asnIdentifier": "S2637934",
+      "position": 29000,
+      "ancestorIds": [
+        "EA60810A76FD43E0B99DE1B4A1DF43D4",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "EA60810A76FD43E0B99DE1B4A1DF43D4"
+    },
+    "EA60810A76FD43E0B99DE1B4A1DF43D4": {
+      "listId": "1.14",
+      "description": "Construct a SQL-query that correctly applies TO_CHAR, TO_NUMBER, and TO_DATE single row functions to produce a desired result",
+      "id": "EA60810A76FD43E0B99DE1B4A1DF43D4",
+      "asnIdentifier": "S2637933",
+      "position": 28000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "B2D27987B90F4E318F8B29D94DA9A590": {
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "1.13.1",
+      "statementLabel": "Application",
+      "description": "Prepare an example of why it is important, from a business perspective, for a language to have built-in data-conversion capabilities",
+      "id": "B2D27987B90F4E318F8B29D94DA9A590",
+      "asnIdentifier": "S2637932",
+      "ancestorIds": [
+        "BA16ED3659874BFE86BF0153E6EDEAD3",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "BA16ED3659874BFE86BF0153E6EDEAD3"
+    },
+    "BA16ED3659874BFE86BF0153E6EDEAD3": {
+      "asnIdentifier": "S2637931",
+      "position": 26000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.13",
+      "description": "Explain why it is important, from a business perspective, for a language to have built-in data-conversion capabilities",
+      "id": "BA16ED3659874BFE86BF0153E6EDEAD3",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "AB09D1C5C064431188D07046891EAD64": {
+      "id": "AB09D1C5C064431188D07046891EAD64",
+      "asnIdentifier": "S2637930",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "1.12.1",
+      "statementLabel": "Application",
+      "description": "Discuss an example of an explicit data-type conversion and an implicit data-type conversion",
+      "ancestorIds": [
+        "6C589554B5694195BA4BA75D82B05DC3",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "6C589554B5694195BA4BA75D82B05DC3"
+    },
+    "6C589554B5694195BA4BA75D82B05DC3": {
+      "id": "6C589554B5694195BA4BA75D82B05DC3",
+      "asnIdentifier": "S2637929",
+      "position": 24000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.12",
+      "description": "Give an example of an explicit data-type conversion and an implicit data-type conversion",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "3866E6E0C1004B9E877C32DB79CFE27C": {
+      "asnIdentifier": "S2637928",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "1.11.1",
+      "statementLabel": "Application",
+      "description": "Explain the student concepts and evaluate the applications",
+      "id": "3866E6E0C1004B9E877C32DB79CFE27C",
+      "ancestorIds": [
+        "65B41C0741DD4E678F4895617D0F43D4",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "65B41C0741DD4E678F4895617D0F43D4"
+    },
+    "65B41C0741DD4E678F4895617D0F43D4": {
+      "id": "65B41C0741DD4E678F4895617D0F43D4",
+      "asnIdentifier": "S2637927",
+      "position": 22000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.11",
+      "description": "Apply concepts learned as a result of student's own work and academic experiences, and evaluate the application of skills to career options and the world of work",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "816F33DFEFE24ED4A716A2ABEACF92D1": {
+      "id": "816F33DFEFE24ED4A716A2ABEACF92D1",
+      "asnIdentifier": "S2637926",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "1.10.1",
+      "statementLabel": "Application",
+      "description": "Prepare a chart showing the IT career information",
+      "ancestorIds": [
+        "338385766286462B9F9D6EB33B23B432",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "338385766286462B9F9D6EB33B23B432"
+    },
+    "338385766286462B9F9D6EB33B23B432": {
+      "description": "Demonstrate skills for locating, evaluating, and interpreting IT career information",
+      "id": "338385766286462B9F9D6EB33B23B432",
+      "asnIdentifier": "S2637925",
+      "position": 20000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.10",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "147563210ABB44F38692AF505E92B0C3": {
+      "id": "147563210ABB44F38692AF505E92B0C3",
+      "asnIdentifier": "S2637924",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "1.9.1",
+      "statementLabel": "Application",
+      "description": "Research IT career options and education",
+      "ancestorIds": [
+        "3676DD24972C4869B160E91D3D8A8BAE",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "3676DD24972C4869B160E91D3D8A8BAE"
+    },
+    "3676DD24972C4869B160E91D3D8A8BAE": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.9",
+      "description": "Analyze and understand IT career options and education requirements based on interests, abilities, aptitudes, and accomplishments",
+      "id": "3676DD24972C4869B160E91D3D8A8BAE",
+      "asnIdentifier": "S2637923",
+      "position": 18000,
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "EFDFC72445AF43E1A5452572BD42915C": {
+      "id": "EFDFC72445AF43E1A5452572BD42915C",
+      "asnIdentifier": "S2637922",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "1.8.1",
+      "statementLabel": "Application",
+      "description": "Discuss the difference between TRUNC and ROUND",
+      "ancestorIds": [
+        "8E60C434EBC946E2B42650C095226E92",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "8E60C434EBC946E2B42650C095226E92"
+    },
+    "8E60C434EBC946E2B42650C095226E92": {
+      "listId": "1.8",
+      "description": "State the implications for business when applying TRUNC and ROUND to numeric values",
+      "id": "8E60C434EBC946E2B42650C095226E92",
+      "asnIdentifier": "S2637921",
+      "position": 16000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "5332F47CF8F94ACCAB74EE4B23978782": {
+      "depth": 2,
+      "statementNotation": "1.7.1",
+      "statementLabel": "Application",
+      "description": "Discuss the results obtained when TRUNC is applied to a numeric value and ROUND is applied to a numeric value",
+      "id": "5332F47CF8F94ACCAB74EE4B23978782",
+      "asnIdentifier": "S2637920",
+      "position": 15000,
+      "ancestorIds": [
+        "A71ECBC9731247FCAD78EBF523FC59EB",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "A71ECBC9731247FCAD78EBF523FC59EB"
+    },
+    "A71ECBC9731247FCAD78EBF523FC59EB": {
+      "position": 14000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.7",
+      "description": "Distinguish between the results obtained when TRUNC is applied to a numeric value and ROUND is applied to a numeric value",
+      "id": "A71ECBC9731247FCAD78EBF523FC59EB",
+      "asnIdentifier": "S2637919",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "2CB93338B9F947E69C95B8FC9B5EC8FA": {
+      "statementNotation": "1.6.1",
+      "statementLabel": "Application",
+      "description": "Prepare the code to run in HTML DB",
+      "id": "2CB93338B9F947E69C95B8FC9B5EC8FA",
+      "asnIdentifier": "S2637918",
+      "position": 13000,
+      "depth": 2,
+      "ancestorIds": [
+        "3FBA1530481D4468B6F3E0E8CED7F891",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "3FBA1530481D4468B6F3E0E8CED7F891"
+    },
+    "3FBA1530481D4468B6F3E0E8CED7F891": {
+      "id": "3FBA1530481D4468B6F3E0E8CED7F891",
+      "asnIdentifier": "S2637917",
+      "position": 12000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.6",
+      "description": "Select and apply the single-row number functions ROUND, TRUNC, and MOD in an SQL query",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "16ABB13FF7F3443D9300FE133BD91DAA": {
+      "statementLabel": "Application",
+      "description": "Prepare the code to run in HTML DB",
+      "id": "16ABB13FF7F3443D9300FE133BD91DAA",
+      "asnIdentifier": "S2637916",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "1.5.1",
+      "ancestorIds": [
+        "02F741370E7E485FBBAB6A6E2C52D2E3",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "02F741370E7E485FBBAB6A6E2C52D2E3"
+    },
+    "02F741370E7E485FBBAB6A6E2C52D2E3": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.5",
+      "description": "Select and apply character case-manipulation functions CONCAT, SUBSTR, LENGTH, INSTR, LPAD, RPAD, TRIM, and REPLACE in an SQL query",
+      "id": "02F741370E7E485FBBAB6A6E2C52D2E3",
+      "asnIdentifier": "S2637915",
+      "position": 10000,
+      "depth": 1,
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "25E48D231C884205ADD89306C9DF0468": {
+      "statementNotation": "1.4.1",
+      "statementLabel": "Application",
+      "description": "Prepare the code to run in HTML DB",
+      "id": "25E48D231C884205ADD89306C9DF0468",
+      "asnIdentifier": "S2637914",
+      "position": 9000,
+      "depth": 2,
+      "ancestorIds": [
+        "370DB34043904693A47B2E2AE9E2993E",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "370DB34043904693A47B2E2AE9E2993E"
+    },
+    "370DB34043904693A47B2E2AE9E2993E": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.4",
+      "description": "Select and apply character case-manipulation functions LOWER, UPPER, and INITCAP in an SQL query",
+      "id": "370DB34043904693A47B2E2AE9E2993E",
+      "asnIdentifier": "S2637913",
+      "position": 8000,
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "4418A2D58F974056BDEC7411FD7C8527": {
+      "description": "Apply single row functions that perform case conversions",
+      "id": "4418A2D58F974056BDEC7411FD7C8527",
+      "asnIdentifier": "S2637912",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "1.3.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "2D14750AF55341AF9AA0881B0A7564C1",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "2D14750AF55341AF9AA0881B0A7564C1"
+    },
+    "2D14750AF55341AF9AA0881B0A7564C1": {
+      "asnIdentifier": "S2637911",
+      "position": 6000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.3",
+      "description": "Identify single row functions that perform case conversions",
+      "id": "2D14750AF55341AF9AA0881B0A7564C1",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "61253C7240F744D580054C35C22D9D6A": {
+      "depth": 2,
+      "statementNotation": "1.2.1",
+      "statementLabel": "Application",
+      "description": "Demonstrate the difference between single row and multiple row subqueries",
+      "id": "61253C7240F744D580054C35C22D9D6A",
+      "asnIdentifier": "S2637910",
+      "position": 5000,
+      "ancestorIds": [
+        "7012239444AB461AA4F12BC29F631787",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "7012239444AB461AA4F12BC29F631787"
+    },
+    "7012239444AB461AA4F12BC29F631787": {
+      "id": "7012239444AB461AA4F12BC29F631787",
+      "asnIdentifier": "S2637909",
+      "position": 4000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.2",
+      "description": "Discuss the difference between single row and multiple row subqueries",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "E0E1159C2A8940FA8465704733B52431": {
+      "id": "E0E1159C2A8940FA8465704733B52431",
+      "asnIdentifier": "S2637908",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "1.1.1",
+      "statementLabel": "Application",
+      "description": "Prepare a list of terms with definitions",
+      "ancestorIds": [
+        "CE77F760B1044DC6880C503B2415672D",
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "CE77F760B1044DC6880C503B2415672D"
+    },
+    "CE77F760B1044DC6880C503B2415672D": {
+      "id": "CE77F760B1044DC6880C503B2415672D",
+      "asnIdentifier": "S2637907",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.1",
+      "description": "Define terminology",
+      "ancestorIds": [
+        "4C8DF62934A24F97AADF47B98E59F3B3"
+      ],
+      "parentId": "4C8DF62934A24F97AADF47B98E59F3B3"
+    },
+    "4C8DF62934A24F97AADF47B98E59F3B3": {
+      "listId": "1:",
+      "description": "Number, Date, and Conversion Functions",
+      "id": "4C8DF62934A24F97AADF47B98E59F3B3",
+      "asnIdentifier": "S2637906",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

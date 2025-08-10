@@ -1,0 +1,316 @@
+{
+  "id": "27D1AF28D2F54DD3A69C057DDA772BD0_D2773856_grades-09-10-11-12",
+  "title": "Grades 9, 10, 11, 12",
+  "subject": "Computer Mathematics (2016-2023)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2773856",
+    "valid": "2016",
+    "title": "Computer Mathematics",
+    "sourceURL": "http://www.doe.virginia.gov/testing/sol/standards_docs/mathematics/2016/stds/stds-computer-math.pdf",
+    "asnIdentifier": "D2773856",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "27D1AF28D2F54DD3A69C057DDA772BD0",
+    "title": "Virginia"
+  },
+  "standards": {
+    "C1F2689C3B5442D5BA36CDBFEBB5046F": {
+      "id": "C1F2689C3B5442D5BA36CDBFEBB5046F",
+      "asnIdentifier": "S2775539",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "COM.18",
+      "statementLabel": "Standard",
+      "description": "The student will debug a program using appropriate techniques (e.g., appropriately placed controlled breaks, the printing of intermediate results, other debugging tools available in the programming environment), and identify the difference among syntax errors, runtime errors, and logic errors.",
+      "ancestorIds": [
+        "5AC76EC4529B4443B31E08215DCD0BF4"
+      ],
+      "parentId": "5AC76EC4529B4443B31E08215DCD0BF4"
+    },
+    "BED998240B694CEBAD3D93FE14C1FD05": {
+      "id": "BED998240B694CEBAD3D93FE14C1FD05",
+      "asnIdentifier": "S2775538",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "COM.17",
+      "statementLabel": "Standard",
+      "description": "The student will test a program, using an appropriate set of data. The test data should include boundary cases and test all branches of a program.",
+      "ancestorIds": [
+        "5AC76EC4529B4443B31E08215DCD0BF4"
+      ],
+      "parentId": "5AC76EC4529B4443B31E08215DCD0BF4"
+    },
+    "5AC76EC4529B4443B31E08215DCD0BF4": {
+      "id": "5AC76EC4529B4443B31E08215DCD0BF4",
+      "asnIdentifier": "S2775537",
+      "position": 21000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Program Testing",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BD97F6D90C084E6C8E002B122BD4E0FC": {
+      "id": "BD97F6D90C084E6C8E002B122BD4E0FC",
+      "asnIdentifier": "S2775536",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "COM.16",
+      "statementLabel": "Standard",
+      "description": "The student will describe the way the computer stores, accesses, and processes variables, including the following topics: the use of variables versus constants, parameter passing, scope of variables, and local versus global variables.",
+      "ancestorIds": [
+        "7CA2C1235EBB40D5A6D1B29B2DC7EF06"
+      ],
+      "parentId": "7CA2C1235EBB40D5A6D1B29B2DC7EF06"
+    },
+    "3936A354CF72470D8B504392657ED78A": {
+      "id": "3936A354CF72470D8B504392657ED78A",
+      "asnIdentifier": "S2775535",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "COM.15",
+      "statementLabel": "Standard",
+      "description": "The student will define and use appropriate variable data types that include integer, real (fixed and scientific notation), character, string, Boolean, and object.",
+      "ancestorIds": [
+        "7CA2C1235EBB40D5A6D1B29B2DC7EF06"
+      ],
+      "parentId": "7CA2C1235EBB40D5A6D1B29B2DC7EF06"
+    },
+    "7CA2C1235EBB40D5A6D1B29B2DC7EF06": {
+      "id": "7CA2C1235EBB40D5A6D1B29B2DC7EF06",
+      "asnIdentifier": "S2775534",
+      "position": 18000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Data Manipulation",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0C19861C6B684E50B6A9631A85B8709D": {
+      "id": "0C19861C6B684E50B6A9631A85B8709D",
+      "asnIdentifier": "S2775533",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "COM.14",
+      "statementLabel": "Standard",
+      "description": "The student will select and implement appropriate data structures, including arrays (one- and/or two-dimensional), and objects.",
+      "ancestorIds": [
+        "422037D928A349138922C16CF265F988"
+      ],
+      "parentId": "422037D928A349138922C16CF265F988"
+    },
+    "1549E61A77F04BC2B38DCA1B40FEE385": {
+      "id": "1549E61A77F04BC2B38DCA1B40FEE385",
+      "asnIdentifier": "S2775532",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "COM.13",
+      "statementLabel": "Standard",
+      "description": "The student will implement various mechanisms for performing iteration with an algorithm.",
+      "ancestorIds": [
+        "422037D928A349138922C16CF265F988"
+      ],
+      "parentId": "422037D928A349138922C16CF265F988"
+    },
+    "32FDD70967F042B7B24F73F6B9CB8E2E": {
+      "id": "32FDD70967F042B7B24F73F6B9CB8E2E",
+      "asnIdentifier": "S2775531",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "COM.12",
+      "statementLabel": "Standard",
+      "description": "The student will design and implement computer graphics to enhance output.",
+      "ancestorIds": [
+        "422037D928A349138922C16CF265F988"
+      ],
+      "parentId": "422037D928A349138922C16CF265F988"
+    },
+    "511B4E2D0A514307802E4FC7ED44C506": {
+      "id": "511B4E2D0A514307802E4FC7ED44C506",
+      "asnIdentifier": "S2775530",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "COM.11",
+      "statementLabel": "Standard",
+      "description": "The student will design and implement the output phase of a computer program, which will include designing output layout, accessing available output devices, using output statements, and labeling results.",
+      "ancestorIds": [
+        "422037D928A349138922C16CF265F988"
+      ],
+      "parentId": "422037D928A349138922C16CF265F988"
+    },
+    "504D81D3B77143F6A147F06E76FB4140": {
+      "id": "504D81D3B77143F6A147F06E76FB4140",
+      "asnIdentifier": "S2775529",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "COM.10",
+      "statementLabel": "Standard",
+      "description": "The student will design and implement the input phase of a program, which will include designing screen layout, getting information into the program by way of user interaction and/or file input, and validating input.",
+      "ancestorIds": [
+        "422037D928A349138922C16CF265F988"
+      ],
+      "parentId": "422037D928A349138922C16CF265F988"
+    },
+    "422037D928A349138922C16CF265F988": {
+      "id": "422037D928A349138922C16CF265F988",
+      "asnIdentifier": "S2775528",
+      "position": 12000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Program Implementation",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8BC9082874EE47E2B394DD4B7473E38A": {
+      "id": "8BC9082874EE47E2B394DD4B7473E38A",
+      "asnIdentifier": "S2775527",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "COM.9",
+      "statementLabel": "Standard",
+      "description": "The student will implement pre-defined algorithms, including sort routines, search routines, and simple animation routines.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "C0FF97C62C39419189317DBA151058A7": {
+      "id": "C0FF97C62C39419189317DBA151058A7",
+      "asnIdentifier": "S2775526",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "COM.8",
+      "statementLabel": "Standard",
+      "description": "The student will implement conditional statements that include \"if/then\" statements, \"if/then/else\" statements, case statements, and Boolean logic.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "E85C29325DE144E297B392646CDA094C": {
+      "id": "E85C29325DE144E297B392646CDA094C",
+      "asnIdentifier": "S2775525",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "COM.7",
+      "statementLabel": "Standard",
+      "description": "The student will select and call library functions to process data, as appropriate.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "FACAEC9846AE429D9AB8DF932D64C0D7": {
+      "id": "FACAEC9846AE429D9AB8DF932D64C0D7",
+      "asnIdentifier": "S2775524",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "COM.6",
+      "statementLabel": "Standard",
+      "description": "The student will translate mathematical expressions into programming expressions by declaring variables, writing assignment statements, and using the order of operations.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "AC6B80E2EB2347DD9B618FAD3AD8211D": {
+      "id": "AC6B80E2EB2347DD9B618FAD3AD8211D",
+      "asnIdentifier": "S2775523",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "COM.5",
+      "statementLabel": "Standard",
+      "description": "The student will divide a given problem into modules by task and implement the solution.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "F61E148CA45D4B3885EF679AE3A31979": {
+      "id": "F61E148CA45D4B3885EF679AE3A31979",
+      "asnIdentifier": "S2775522",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "COM.4",
+      "statementLabel": "Standard",
+      "description": "The student will design an algorithm to solve a given problem.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "C86F9C5EF67B499782F85CB5FA7ED3C4": {
+      "id": "C86F9C5EF67B499782F85CB5FA7ED3C4",
+      "asnIdentifier": "S2775521",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "COM.3",
+      "statementLabel": "Standard",
+      "description": "The student will write program specifications that define the constraints of a given problem.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "36EB811B6E234F27A5F7029930FAC802": {
+      "id": "36EB811B6E234F27A5F7029930FAC802",
+      "asnIdentifier": "S2775520",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "COM.2",
+      "statementLabel": "Standard",
+      "description": "The student will design, write, document, test, and debug a computer program.",
+      "ancestorIds": [
+        "87F055E9F6134ED6898E922A17E75DD9"
+      ],
+      "parentId": "87F055E9F6134ED6898E922A17E75DD9"
+    },
+    "87F055E9F6134ED6898E922A17E75DD9": {
+      "id": "87F055E9F6134ED6898E922A17E75DD9",
+      "asnIdentifier": "S2775519",
+      "position": 3000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Program Design",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "623BC880F9BF4577981F174BC95C1897": {
+      "id": "623BC880F9BF4577981F174BC95C1897",
+      "asnIdentifier": "S2775518",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "COM.1",
+      "statementLabel": "Standard",
+      "description": "The student will design and apply computer programs to solve practical problems in mathematics arising from business and applications in mathematics.",
+      "ancestorIds": [
+        "79D87890B8AE4414ADC493A6C6FE7590"
+      ],
+      "parentId": "79D87890B8AE4414ADC493A6C6FE7590"
+    },
+    "79D87890B8AE4414ADC493A6C6FE7590": {
+      "id": "79D87890B8AE4414ADC493A6C6FE7590",
+      "asnIdentifier": "S2775517",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Problem Solving",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "id": "6B7F38F1940D4DE08050FB9B98EBD8FB",
+  "title": "Kindergarten",
+  "subject": "Computer Science (2022-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "K"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Ohio’s Learning Standards Computer Science ADOPTED JULY 2022",
+    "sourceURL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/OCS_Adopted-2022.pdf.aspx?lang=en-US",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "F4CB2B5DF6904071BBCC671A3AB783B8",
+    "title": "Ohio"
+  },
+  "standards": {
+    "0B30E3DDC0F94F1EB120EA09EAEC6E06": {
+      "id": "0B30E3DDC0F94F1EB120EA09EAEC6E06",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "IC.SLE.K.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, discuss examples of\nappropriate and inappropriate behavior online, including cyberbullying,\nand the steps to keep yourself and others safe and out of harm's way.",
+      "comments": [],
+      "ancestorIds": [
+        "4F5B501007E24F16A9D8E1BB756E0EB1",
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "4F5B501007E24F16A9D8E1BB756E0EB1"
+    },
+    "87518C19455B48369EFBFA83A85DD8D4": {
+      "id": "87518C19455B48369EFBFA83A85DD8D4",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "IC.SLE.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance, discuss appropriate uses of technology to\nsupport informed decisions. ",
+      "comments": [],
+      "ancestorIds": [
+        "4F5B501007E24F16A9D8E1BB756E0EB1",
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "4F5B501007E24F16A9D8E1BB756E0EB1"
+    },
+    "4F5B501007E24F16A9D8E1BB756E0EB1": {
+      "id": "4F5B501007E24F16A9D8E1BB756E0EB1",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "IC.SLE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Safety, Law and Ethics",
+      "comments": [],
+      "ancestorIds": [
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "CDFEDC0CD8C945C795C048D42753A236"
+    },
+    "4DAD47A092394B84988B2A6E44A76566": {
+      "id": "4DAD47A092394B84988B2A6E44A76566",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "IC.SI.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, identify and use safe and\nresponsible behaviors concerning information and technology.",
+      "comments": [],
+      "ancestorIds": [
+        "574195C6BECF41B0B5D6826391C0D860",
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "574195C6BECF41B0B5D6826391C0D860"
+    },
+    "574195C6BECF41B0B5D6826391C0D860": {
+      "id": "574195C6BECF41B0B5D6826391C0D860",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "IC.SI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Social Interactions",
+      "comments": [],
+      "ancestorIds": [
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "CDFEDC0CD8C945C795C048D42753A236"
+    },
+    "081FCBBE5E4A474A948EA06562B7A570": {
+      "id": "081FCBBE5E4A474A948EA06562B7A570",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "IC.Cu.K.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, recognize different ways\ncomputing devices are used regularly to understand technology's\nimpact on one’s own daily life.",
+      "comments": [],
+      "ancestorIds": [
+        "FE83A947FC5B48EDB0A86187700117F2",
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "FE83A947FC5B48EDB0A86187700117F2"
+    },
+    "ADE02D83F866463C9547B9E873C94E2E": {
+      "id": "ADE02D83F866463C9547B9E873C94E2E",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "IC.Cu.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, identify technologies that\nimpact one's own everyday life.",
+      "comments": [],
+      "ancestorIds": [
+        "FE83A947FC5B48EDB0A86187700117F2",
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "FE83A947FC5B48EDB0A86187700117F2"
+    },
+    "FE83A947FC5B48EDB0A86187700117F2": {
+      "id": "FE83A947FC5B48EDB0A86187700117F2",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "IC.Cu",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Culture",
+      "comments": [],
+      "ancestorIds": [
+        "CDFEDC0CD8C945C795C048D42753A236"
+      ],
+      "parentId": "CDFEDC0CD8C945C795C048D42753A236"
+    },
+    "CDFEDC0CD8C945C795C048D42753A236": {
+      "id": "CDFEDC0CD8C945C795C048D42753A236",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "IC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "IMPACTS OF COMPUTING",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "74B954E239D94522BDC2DF5DCC66FD3B": {
+      "id": "74B954E239D94522BDC2DF5DCC66FD3B",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.SI.K.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss if artificial intelligence is good or bad (see impacts\nof computing).",
+      "comments": [],
+      "ancestorIds": [
+        "DB78A3783F70473CB354FED07AE282E4",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "DB78A3783F70473CB354FED07AE282E4"
+    },
+    "0172436DC2D14AE1A1775E0CAD376775": {
+      "id": "0172436DC2D14AE1A1775E0CAD376775",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.SI.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support\n, locate AI applications used in\ndaily life to understand how humans use AI.",
+      "comments": [],
+      "ancestorIds": [
+        "DB78A3783F70473CB354FED07AE282E4",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "DB78A3783F70473CB354FED07AE282E4"
+    },
+    "DB78A3783F70473CB354FED07AE282E4": {
+      "id": "DB78A3783F70473CB354FED07AE282E4",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "AI.SI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Societal Impact\ns",
+      "comments": [],
+      "ancestorIds": [
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "EA95097DDD954C3BBC7D72942D547349"
+    },
+    "72642C1978A54C89A67A87C06A779DCE": {
+      "id": "72642C1978A54C89A67A87C06A779DCE",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.NI.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support\n,\nidentify how computers can\nrecognize different humans using some form of recognition software\nto see how computers interact with humans.",
+      "comments": [],
+      "ancestorIds": [
+        "79312197FAA24771B00E8C33E9D923D8",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "79312197FAA24771B00E8C33E9D923D8"
+    },
+    "79312197FAA24771B00E8C33E9D923D8": {
+      "id": "79312197FAA24771B00E8C33E9D923D8",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "AI.NI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Natural Interactions",
+      "comments": [],
+      "ancestorIds": [
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "EA95097DDD954C3BBC7D72942D547349"
+    },
+    "5D1B2D9FAA6F46198EDA1CE317DF88A4": {
+      "id": "5D1B2D9FAA6F46198EDA1CE317DF88A4",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.ML.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support\n, use a classifier that recognizes\ndrawings to see if a program can guess what they are drawing.",
+      "comments": [],
+      "ancestorIds": [
+        "C9DC884AE5764D529AC975ADCC53C02E",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "C9DC884AE5764D529AC975ADCC53C02E"
+    },
+    "C9DC884AE5764D529AC975ADCC53C02E": {
+      "id": "C9DC884AE5764D529AC975ADCC53C02E",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "AI.ML",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Machine Learning",
+      "comments": [],
+      "ancestorIds": [
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "EA95097DDD954C3BBC7D72942D547349"
+    },
+    "6399A644FF3946EEA1A0F64BAF700030": {
+      "id": "6399A644FF3946EEA1A0F64BAF700030",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.RR.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, use a simple decision tree to\nmake a decision to visually and explicitly represent decisions and\ndecision-making.",
+      "comments": [],
+      "ancestorIds": [
+        "9E880D509ACD4C9491E4FE997FBB9BEF",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "9E880D509ACD4C9491E4FE997FBB9BEF"
+    },
+    "9E880D509ACD4C9491E4FE997FBB9BEF": {
+      "id": "9E880D509ACD4C9491E4FE997FBB9BEF",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "AI.RR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Representation & Reasoning",
+      "comments": [],
+      "ancestorIds": [
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "EA95097DDD954C3BBC7D72942D547349"
+    },
+    "6EF8AF1A23114101AC3A925DE3CF5E57": {
+      "id": "6EF8AF1A23114101AC3A925DE3CF5E57",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.P.K.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, access intelligent agents to\ndemonstrate how they work.",
+      "comments": [],
+      "ancestorIds": [
+        "5BACAC73E4434A199546150E88A90E51",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "5BACAC73E4434A199546150E88A90E51"
+    },
+    "34F651FBF6DB4FB8B1D7EAF69F507123": {
+      "id": "34F651FBF6DB4FB8B1D7EAF69F507123",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.P.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, locate sensors on computers,\nrobots and intelligent appliances to understand that devices use\nsensors to gather information.",
+      "comments": [],
+      "ancestorIds": [
+        "5BACAC73E4434A199546150E88A90E51",
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "5BACAC73E4434A199546150E88A90E51"
+    },
+    "5BACAC73E4434A199546150E88A90E51": {
+      "id": "5BACAC73E4434A199546150E88A90E51",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "AI.P",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perception",
+      "comments": [],
+      "ancestorIds": [
+        "EA95097DDD954C3BBC7D72942D547349"
+      ],
+      "parentId": "EA95097DDD954C3BBC7D72942D547349"
+    },
+    "EA95097DDD954C3BBC7D72942D547349": {
+      "id": "EA95097DDD954C3BBC7D72942D547349",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "AI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ARTIFICIAL INTELLIGENCE",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "568B282CD0C84281B3EB3200E9182982": {
+      "id": "568B282CD0C84281B3EB3200E9182982",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "ATP.PD.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, plan or create an artifact to\nillustrate thoughts, ideas and problems in a sequential (step-by-step)\nmanner (e.g., story map, storyboard, sequential graphic organizer).",
+      "comments": [],
+      "ancestorIds": [
+        "CA55F5DA0C9D4FEE912F3A9021B7DABC",
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "CA55F5DA0C9D4FEE912F3A9021B7DABC"
+    },
+    "CA55F5DA0C9D4FEE912F3A9021B7DABC": {
+      "id": "CA55F5DA0C9D4FEE912F3A9021B7DABC",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "ATP.PD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program Development",
+      "comments": [],
+      "ancestorIds": [
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "803F714F37604FEDB07320AA9C1848F5"
+    },
+    "5948EFDBC2064D78ADD7CB516216B943": {
+      "id": "5948EFDBC2064D78ADD7CB516216B943",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "ATP.CS.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, model a sequence of\ninstructions (i.e., program) with a beginning, middle and end to solve a\nproblem or express an idea.",
+      "comments": [],
+      "ancestorIds": [
+        "2E9518256F9049ED94D90490DB934A46",
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "2E9518256F9049ED94D90490DB934A46"
+    },
+    "2E9518256F9049ED94D90490DB934A46": {
+      "id": "2E9518256F9049ED94D90490DB934A46",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "ATP.CS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Control Structures",
+      "comments": [],
+      "ancestorIds": [
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "803F714F37604FEDB07320AA9C1848F5"
+    },
+    "AAC597A1CA6F43C19FEAF50EF962ECD1": {
+      "id": "AAC597A1CA6F43C19FEAF50EF962ECD1",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "ATP.VDR.K.a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize that a group of items (e.g., numbers,\nsymbols or pictures) can be used to represent data. ",
+      "comments": [],
+      "ancestorIds": [
+        "D1ADDCDD03C8486FB7860D0E17AD9211",
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "D1ADDCDD03C8486FB7860D0E17AD9211"
+    },
+    "D1ADDCDD03C8486FB7860D0E17AD9211": {
+      "id": "D1ADDCDD03C8486FB7860D0E17AD9211",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "ATP.VDR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Variables and Data Representation",
+      "comments": [],
+      "ancestorIds": [
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "803F714F37604FEDB07320AA9C1848F5"
+    },
+    "C2E74A67EE3B4682ACAD2A04FA6F0B8E": {
+      "id": "C2E74A67EE3B4682ACAD2A04FA6F0B8E",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "ATP.A.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, model a real-world process by\nconstructing and following step-by-step directions (i.e., algorithms) to\ncomplete tasks.",
+      "comments": [],
+      "ancestorIds": [
+        "1F919FBEE3634B3AA6CA9683ECA49B33",
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "1F919FBEE3634B3AA6CA9683ECA49B33"
+    },
+    "1F919FBEE3634B3AA6CA9683ECA49B33": {
+      "id": "1F919FBEE3634B3AA6CA9683ECA49B33",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "ATP.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "803F714F37604FEDB07320AA9C1848F5"
+      ],
+      "parentId": "803F714F37604FEDB07320AA9C1848F5"
+    },
+    "803F714F37604FEDB07320AA9C1848F5": {
+      "id": "803F714F37604FEDB07320AA9C1848F5",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "ATP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ALGORITHMIC THINKING AND PROGRAMMING",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "14B260D1D1D545C4ADB7FBDDB96523E5": {
+      "id": "14B260D1D1D545C4ADB7FBDDB96523E5",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "DA.IM.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance, create a model of an object or process to\nidentify patterns.",
+      "comments": [],
+      "ancestorIds": [
+        "FD870E0A4CE44F7FA8284CE750B40128",
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "FD870E0A4CE44F7FA8284CE750B40128"
+    },
+    "FD870E0A4CE44F7FA8284CE750B40128": {
+      "id": "FD870E0A4CE44F7FA8284CE750B40128",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "DA.IM",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inference and Modeling",
+      "comments": [],
+      "ancestorIds": [
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "76119910E2BB40E8A785B5252408BD28"
+    },
+    "730C31846CD243F3B7D12AC50B4C7813": {
+      "id": "730C31846CD243F3B7D12AC50B4C7813",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "DA.VC.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance, organize and present data in various\nformats to make observations.",
+      "comments": [],
+      "ancestorIds": [
+        "0CCF22E6B81A4062BDACA63D06E98C94",
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "0CCF22E6B81A4062BDACA63D06E98C94"
+    },
+    "0CCF22E6B81A4062BDACA63D06E98C94": {
+      "id": "0CCF22E6B81A4062BDACA63D06E98C94",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "DA.VC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Visualization and Communication",
+      "comments": [],
+      "ancestorIds": [
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "76119910E2BB40E8A785B5252408BD28"
+    },
+    "C9CCD082F8284501843557D52CF72965": {
+      "id": "C9CCD082F8284501843557D52CF72965",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "DA.DCS.K.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, demonstrate how data can\nbe collected and stored in a variety of ways.",
+      "comments": [],
+      "ancestorIds": [
+        "5E737A9C263041B9A8DFF48CE8A43C1C",
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "5E737A9C263041B9A8DFF48CE8A43C1C"
+    },
+    "C43BCE14DFEF463C81114B1103F2FD28": {
+      "id": "C43BCE14DFEF463C81114B1103F2FD28",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "DA.DCS.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify data to collect and sort.",
+      "comments": [],
+      "ancestorIds": [
+        "5E737A9C263041B9A8DFF48CE8A43C1C",
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "5E737A9C263041B9A8DFF48CE8A43C1C"
+    },
+    "5E737A9C263041B9A8DFF48CE8A43C1C": {
+      "id": "5E737A9C263041B9A8DFF48CE8A43C1C",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "DA.DCS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Collection and Storage",
+      "comments": [],
+      "ancestorIds": [
+        "76119910E2BB40E8A785B5252408BD28"
+      ],
+      "parentId": "76119910E2BB40E8A785B5252408BD28"
+    },
+    "76119910E2BB40E8A785B5252408BD28": {
+      "id": "76119910E2BB40E8A785B5252408BD28",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "DA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "DATA AND ANALYSIS",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A34C2540E35141C580B1D043245D2692": {
+      "id": "A34C2540E35141C580B1D043245D2692",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "NI.IOT.K.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, recognize how devices\nconnect and exchange data over the internet to demonstrate how\ninformation is shared.",
+      "comments": [],
+      "ancestorIds": [
+        "CDCB336C4D43415E9EA31687901C76FD",
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "CDCB336C4D43415E9EA31687901C76FD"
+    },
+    "1CA36D380F06468586F58B2D7D0D9DCC": {
+      "id": "1CA36D380F06468586F58B2D7D0D9DCC",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "NI.IOT.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, identify what smart devices\nare to recognize what devices are able to connect to the internet.",
+      "comments": [],
+      "ancestorIds": [
+        "CDCB336C4D43415E9EA31687901C76FD",
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "CDCB336C4D43415E9EA31687901C76FD"
+    },
+    "CDCB336C4D43415E9EA31687901C76FD": {
+      "id": "CDCB336C4D43415E9EA31687901C76FD",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "NI.IOT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Internet of Things (IoT)",
+      "comments": [],
+      "ancestorIds": [
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "5046FDAAB8304F79A2B4C4E81D4C97B2"
+    },
+    "E04A520C75CC46138FB9424A10E8C40B": {
+      "id": "E04A520C75CC46138FB9424A10E8C40B",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "NI.C.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, identify and use secure\npractices (e.g., passwords) to protect private information. ",
+      "comments": [],
+      "ancestorIds": [
+        "20577B7BEE3D4ADBA26165EC6ADBC6B1",
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "20577B7BEE3D4ADBA26165EC6ADBC6B1"
+    },
+    "20577B7BEE3D4ADBA26165EC6ADBC6B1": {
+      "id": "20577B7BEE3D4ADBA26165EC6ADBC6B1",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "NI.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cybersecurity",
+      "comments": [],
+      "ancestorIds": [
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "5046FDAAB8304F79A2B4C4E81D4C97B2"
+    },
+    "DF008224047949C48FEFF6ECDC4ED6AF": {
+      "id": "DF008224047949C48FEFF6ECDC4ED6AF",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "NI.N.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, create a list of ways information\ncan be shared electronically to gain a deeper understanding of how\ninformation is transmitted (e.g., email, social media).",
+      "comments": [],
+      "ancestorIds": [
+        "4BD367A29C7E4B2192CE9EDB1DF7C9A6",
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "4BD367A29C7E4B2192CE9EDB1DF7C9A6"
+    },
+    "4BD367A29C7E4B2192CE9EDB1DF7C9A6": {
+      "id": "4BD367A29C7E4B2192CE9EDB1DF7C9A6",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "NI.N",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networking",
+      "comments": [],
+      "ancestorIds": [
+        "5046FDAAB8304F79A2B4C4E81D4C97B2"
+      ],
+      "parentId": "5046FDAAB8304F79A2B4C4E81D4C97B2"
+    },
+    "5046FDAAB8304F79A2B4C4E81D4C97B2": {
+      "id": "5046FDAAB8304F79A2B4C4E81D4C97B2",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "NI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "NETWORKS AND THE INTERNET",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C4BA4B7FACBE4C6BA1DA8413B7236792": {
+      "id": "C4BA4B7FACBE4C6BA1DA8413B7236792",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.T.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, use problem-solving strategies\nto troubleshoot a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "5CC1B55EA9DD44BA998A7AF4A7238E77",
+        "28B0819F9F0E4BF8AD73526589940CCF"
+      ],
+      "parentId": "5CC1B55EA9DD44BA998A7AF4A7238E77"
+    },
+    "5CC1B55EA9DD44BA998A7AF4A7238E77": {
+      "id": "5CC1B55EA9DD44BA998A7AF4A7238E77",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "CS.T",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Troubleshooting",
+      "comments": [],
+      "ancestorIds": [
+        "28B0819F9F0E4BF8AD73526589940CCF"
+      ],
+      "parentId": "28B0819F9F0E4BF8AD73526589940CCF"
+    },
+    "7F6B8643492F44B4BEBBF27B70EF4ADF": {
+      "id": "7F6B8643492F44B4BEBBF27B70EF4ADF",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.HS.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance and support, identify and use hardware and\nsoftware necessary for accomplishing a task.",
+      "comments": [],
+      "ancestorIds": [
+        "03A0D754AD5E4295AB7FB9FA12EA1B81",
+        "28B0819F9F0E4BF8AD73526589940CCF"
+      ],
+      "parentId": "03A0D754AD5E4295AB7FB9FA12EA1B81"
+    },
+    "03A0D754AD5E4295AB7FB9FA12EA1B81": {
+      "id": "03A0D754AD5E4295AB7FB9FA12EA1B81",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "CS.HS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware and Software",
+      "comments": [],
+      "ancestorIds": [
+        "28B0819F9F0E4BF8AD73526589940CCF"
+      ],
+      "parentId": "28B0819F9F0E4BF8AD73526589940CCF"
+    },
+    "6C5571FBD5584B198661ACD9D8B378C6": {
+      "id": "6C5571FBD5584B198661ACD9D8B378C6",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.D.K.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "With guidance, identify and label commonly used devices\nand their components, explaining their connection to different tasks, to\nperform a variety of tasks.",
+      "comments": [],
+      "ancestorIds": [
+        "393DCA69DE434BB285B1BCC15D206FBF",
+        "28B0819F9F0E4BF8AD73526589940CCF"
+      ],
+      "parentId": "393DCA69DE434BB285B1BCC15D206FBF"
+    },
+    "393DCA69DE434BB285B1BCC15D206FBF": {
+      "id": "393DCA69DE434BB285B1BCC15D206FBF",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "CS.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Devices",
+      "comments": [],
+      "ancestorIds": [
+        "28B0819F9F0E4BF8AD73526589940CCF"
+      ],
+      "parentId": "28B0819F9F0E4BF8AD73526589940CCF"
+    },
+    "28B0819F9F0E4BF8AD73526589940CCF": {
+      "id": "28B0819F9F0E4BF8AD73526589940CCF",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "CS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "COMPUTING SYSTEMS ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

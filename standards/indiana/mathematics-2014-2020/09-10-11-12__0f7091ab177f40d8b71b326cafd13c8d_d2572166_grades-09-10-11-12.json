@@ -1,0 +1,450 @@
+{
+  "id": "0F7091AB177F40D8B71B326CAFD13C8D_D2572166_grades-09-10-11-12",
+  "title": "Trigonometry: Grades 9, 10, 11, 12",
+  "subject": "Mathematics (2014-2020)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "valid": "2014",
+    "title": "Indiana Academic Standards for Mathematics: Trigonometry",
+    "sourceURL": "http://www.doe.in.gov/sites/default/files/standards/mathematics/2014-06-26-math-trigonometry-architecturewith-front-matter.pdf",
+    "asnIdentifier": "D2572166",
+    "publicationStatus": "Deprecated",
+    "id": "D2572166"
+  },
+  "jurisdiction": {
+    "id": "0F7091AB177F40D8B71B326CAFD13C8D",
+    "title": "Indiana"
+  },
+  "standards": {
+    "0A69099AFB2D4C089B4E975C32B0CF00": {
+      "id": "0A69099AFB2D4C089B4E975C32B0CF00",
+      "asnIdentifier": "S2572203",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "TR.V.3",
+      "description": "Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).",
+      "ancestorIds": [
+        "B45CE07C1C9F4C489D09BEDAF9E8FBB7"
+      ],
+      "parentId": "B45CE07C1C9F4C489D09BEDAF9E8FBB7"
+    },
+    "5C354DE6A33A49769F5DA807E2A8F527": {
+      "id": "5C354DE6A33A49769F5DA807E2A8F527",
+      "asnIdentifier": "S2572202",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "TR.V.2",
+      "description": "Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, vy) = (cvx, cvy).",
+      "ancestorIds": [
+        "B45CE07C1C9F4C489D09BEDAF9E8FBB7"
+      ],
+      "parentId": "B45CE07C1C9F4C489D09BEDAF9E8FBB7"
+    },
+    "7C3688B38D8F436AB5852DE1B8E509EA": {
+      "description": "Solve problems involving velocity and other quantities that can be represented by vectors.",
+      "id": "7C3688B38D8F436AB5852DE1B8E509EA",
+      "asnIdentifier": "S2572201",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "TR.V.1",
+      "ancestorIds": [
+        "B45CE07C1C9F4C489D09BEDAF9E8FBB7"
+      ],
+      "parentId": "B45CE07C1C9F4C489D09BEDAF9E8FBB7"
+    },
+    "B45CE07C1C9F4C489D09BEDAF9E8FBB7": {
+      "statementLabel": "Strand",
+      "description": "Vectors",
+      "id": "B45CE07C1C9F4C489D09BEDAF9E8FBB7",
+      "asnIdentifier": "S2572200",
+      "position": 33000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0B23FCC4264E4520B0DD7926B0ED7A60": {
+      "asnIdentifier": "S2572199",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "TR.PC.2",
+      "description": "Translate equations from rectangular coordinates to polar coordinates and from polar coordinates to rectangular coordinates. Graph equations in the polar coordinate plane.",
+      "id": "0B23FCC4264E4520B0DD7926B0ED7A60",
+      "ancestorIds": [
+        "BCF43EC2BE204752987678767045BD05"
+      ],
+      "parentId": "BCF43EC2BE204752987678767045BD05"
+    },
+    "16A8FB53E5724D929C1C36C2DA775F41": {
+      "id": "16A8FB53E5724D929C1C36C2DA775F41",
+      "asnIdentifier": "S2572198",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "R.PC.1",
+      "description": "Define polar coordinates and relate polar coordinates to Cartesian coordinates.",
+      "ancestorIds": [
+        "BCF43EC2BE204752987678767045BD05"
+      ],
+      "parentId": "BCF43EC2BE204752987678767045BD05"
+    },
+    "BCF43EC2BE204752987678767045BD05": {
+      "position": 30000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Polar Coordinates",
+      "id": "BCF43EC2BE204752987678767045BD05",
+      "asnIdentifier": "S2572197",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7B560BE6E11545CFA6E1E8211D5A0513": {
+      "depth": 1,
+      "statementNotation": "TR.ID.2",
+      "description": "Verify basic trigonometric identities and simplify expressions using these and other trigonometric identities.",
+      "id": "7B560BE6E11545CFA6E1E8211D5A0513",
+      "asnIdentifier": "S2572196",
+      "position": 29000,
+      "ancestorIds": [
+        "B610622856C74990866FFD1992955E52"
+      ],
+      "parentId": "B610622856C74990866FFD1992955E52"
+    },
+    "3543D2E3528D44B6983063C07AD34906": {
+      "asnIdentifier": "S2572195",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "TR.ID.1",
+      "description": "Prove the Pythagorean identity sin²(x) + cos²(x) = 1 and use it to find trigonometric ratios, given sin(x), cos(x), or tan(x), and the quadrant of the angle.",
+      "id": "3543D2E3528D44B6983063C07AD34906",
+      "ancestorIds": [
+        "B610622856C74990866FFD1992955E52"
+      ],
+      "parentId": "B610622856C74990866FFD1992955E52"
+    },
+    "B610622856C74990866FFD1992955E52": {
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Identities",
+      "id": "B610622856C74990866FFD1992955E52",
+      "asnIdentifier": "S2572194",
+      "position": 27000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9F56455B80354F5B9D2C0F3E9752C6E5": {
+      "id": "9F56455B80354F5B9D2C0F3E9752C6E5",
+      "asnIdentifier": "S2572193",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "TR.PF.7",
+      "description": "Define and use the trigonometric ratios (sine, cosine, tangent, cotangent, secant, cosecant) in terms of angles of right triangles and the coordinates on the unit circle.",
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "4F112A2FBE5749F8AF7ED496C90CAE92": {
+      "id": "4F112A2FBE5749F8AF7ED496C90CAE92",
+      "asnIdentifier": "S2572192",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "TR.PF.6",
+      "description": "Prove the double- and half-angle formulas for sine, cosine, and tangent. Use the formulas to solve problems.",
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "647CE35FF2994A32BF22DC9B56E44D92": {
+      "statementNotation": "TR.PF.5",
+      "description": "Prove the addition and subtraction formulas for sine, cosine, and tangent. Use the formulas to solve problems.",
+      "id": "647CE35FF2994A32BF22DC9B56E44D92",
+      "asnIdentifier": "S2572191",
+      "position": 24000,
+      "depth": 1,
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "C05BFEC47C1849C6B2A0162F1BF9737C": {
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "TR.PF.4",
+      "description": "Use inverse functions to solve trigonometric equations that arise in modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context.",
+      "id": "C05BFEC47C1849C6B2A0162F1BF9737C",
+      "asnIdentifier": "S2572190",
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "884DFF8E353B4C8CA491ACB38741D5B1": {
+      "asnIdentifier": "S2572189",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "TR.PF.3",
+      "description": "Construct the inverse trigonometric functions of sine, cosine, and tangent by restricting the domain.",
+      "id": "884DFF8E353B4C8CA491ACB38741D5B1",
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "8CD70F27604E4C6899053A8FBBD71F6D": {
+      "id": "8CD70F27604E4C6899053A8FBBD71F6D",
+      "asnIdentifier": "S2572188",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "TR.PF.2",
+      "description": "Graph trigonometric functions with and without technology. Use the graphs to model and analyze periodic phenomena, stating amplitude, period, frequency, phase shift, and midline (vertical shift).",
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "DC031168771D4A3B8653FB0350214C57": {
+      "id": "DC031168771D4A3B8653FB0350214C57",
+      "asnIdentifier": "S2572187",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "TR.PF.1",
+      "description": "Find a sinusoidal function to model a data set and explain the parameters of the model.",
+      "ancestorIds": [
+        "8974430E28F34FB682A7C19B0AB747D8"
+      ],
+      "parentId": "8974430E28F34FB682A7C19B0AB747D8"
+    },
+    "8974430E28F34FB682A7C19B0AB747D8": {
+      "id": "8974430E28F34FB682A7C19B0AB747D8",
+      "asnIdentifier": "S2572186",
+      "position": 19000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Periodic Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AA8B1081666F49979AE6BE01FD3F0C99": {
+      "depth": 1,
+      "statementNotation": "TR.G.6",
+      "description": "Derive the formula A = 1/2 ab sin(C) for the area of a triangle by drawing an auxiliary line. Use the formula to find areas of triangles.",
+      "id": "AA8B1081666F49979AE6BE01FD3F0C99",
+      "asnIdentifier": "S2572184",
+      "position": 18000,
+      "ancestorIds": [
+        "6B4C9B6306A2483CB9F256CCF06E071F"
+      ],
+      "parentId": "6B4C9B6306A2483CB9F256CCF06E071F"
+    },
+    "F3EAFE25944D4DE691B6B9E5A1726FCA": {
+      "id": "F3EAFE25944D4DE691B6B9E5A1726FCA",
+      "asnIdentifier": "S2572183",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "TR.G.5",
+      "description": "Understand and apply the Laws of Sines and Cosines to solve real-world and other mathematical problems involving right and non-right triangles.",
+      "ancestorIds": [
+        "6B4C9B6306A2483CB9F256CCF06E071F"
+      ],
+      "parentId": "6B4C9B6306A2483CB9F256CCF06E071F"
+    },
+    "2658A76011BF49EABA1029B475849387": {
+      "depth": 1,
+      "statementNotation": "TR.G.4",
+      "description": "Prove the Laws of Sines and Cosines and use them to solve problems.",
+      "id": "2658A76011BF49EABA1029B475849387",
+      "asnIdentifier": "S2572182",
+      "position": 16000,
+      "ancestorIds": [
+        "6B4C9B6306A2483CB9F256CCF06E071F"
+      ],
+      "parentId": "6B4C9B6306A2483CB9F256CCF06E071F"
+    },
+    "081221DBA8C943888BE768E65EF426B0": {
+      "id": "081221DBA8C943888BE768E65EF426B0",
+      "asnIdentifier": "S2572181",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "TR.G.3",
+      "description": "Use special triangles to determine the values of sine, cosine, and tangent for π/3, π/4, and π/6. Apply special right triangles to the unit circle and use them to express the values of sine, cosine, and tangent for x, π + x, and 2π – x in terms of their values for x, where x is any real number.",
+      "ancestorIds": [
+        "6B4C9B6306A2483CB9F256CCF06E071F"
+      ],
+      "parentId": "6B4C9B6306A2483CB9F256CCF06E071F"
+    },
+    "D5D1A07852394EBD8CB2BF09852F9ECD": {
+      "id": "D5D1A07852394EBD8CB2BF09852F9ECD",
+      "asnIdentifier": "S2572180",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "TR.G.2",
+      "description": "Explain and use the relationship between the sine and cosine of complementary angles.",
+      "ancestorIds": [
+        "6B4C9B6306A2483CB9F256CCF06E071F"
+      ],
+      "parentId": "6B4C9B6306A2483CB9F256CCF06E071F"
+    },
+    "54FAE517986F4E95BE7507029E2DB853": {
+      "asnIdentifier": "S2572185",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "TR.G.1",
+      "description": "Solve real-world problems with and without technology that can be modeled using right triangles, including problems that can be modeled using trigonometric ratios. Interpret the solutions and determine whether the solutions are reasonable.",
+      "id": "54FAE517986F4E95BE7507029E2DB853",
+      "ancestorIds": [
+        "6B4C9B6306A2483CB9F256CCF06E071F"
+      ],
+      "parentId": "6B4C9B6306A2483CB9F256CCF06E071F"
+    },
+    "6B4C9B6306A2483CB9F256CCF06E071F": {
+      "id": "6B4C9B6306A2483CB9F256CCF06E071F",
+      "asnIdentifier": "S2572179",
+      "position": 12000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Geometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D7391B41DC724FD48D793D3A94EBDAA5": {
+      "statementNotation": "TR.UC.3",
+      "description": "Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.",
+      "id": "D7391B41DC724FD48D793D3A94EBDAA5",
+      "asnIdentifier": "S2572177",
+      "position": 11000,
+      "depth": 1,
+      "ancestorIds": [
+        "CC1DECD2AEC54EDAB53E504A03C39EB1"
+      ],
+      "parentId": "CC1DECD2AEC54EDAB53E504A03C39EB1"
+    },
+    "754BA35145454CF8816EF1A9069AC5EF": {
+      "id": "754BA35145454CF8816EF1A9069AC5EF",
+      "asnIdentifier": "S2572176",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "TR.UC.2",
+      "description": "Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.",
+      "ancestorIds": [
+        "CC1DECD2AEC54EDAB53E504A03C39EB1"
+      ],
+      "parentId": "CC1DECD2AEC54EDAB53E504A03C39EB1"
+    },
+    "7236CBBBC8D741E08F1D2715E5A9BDF9": {
+      "id": "7236CBBBC8D741E08F1D2715E5A9BDF9",
+      "asnIdentifier": "S2572175",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "TR.UC.1",
+      "description": "Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.",
+      "ancestorIds": [
+        "CC1DECD2AEC54EDAB53E504A03C39EB1"
+      ],
+      "parentId": "CC1DECD2AEC54EDAB53E504A03C39EB1"
+    },
+    "CC1DECD2AEC54EDAB53E504A03C39EB1": {
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Unit Circles",
+      "id": "CC1DECD2AEC54EDAB53E504A03C39EB1",
+      "asnIdentifier": "S2572174",
+      "position": 8000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "516105EE0819416CA1B4D7D549C3EF62": {
+      "id": "516105EE0819416CA1B4D7D549C3EF62",
+      "asnIdentifier": "S2572173",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "TR.CO.6",
+      "description": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, volume of a cylinder, pyramid, and cone. Use dissection arguments, Cavalieri's principle, and informal limit arguments.",
+      "ancestorIds": [
+        "E306AD57A9F04122A207F5B47D01FB7A"
+      ],
+      "parentId": "E306AD57A9F04122A207F5B47D01FB7A"
+    },
+    "1D745779710F4A76B2BB95F6646040F4": {
+      "statementNotation": "TR.CO.5",
+      "description": "Graph conic sections. Identify and describe features like center, vertex or vertices, focus or foci, directrix, axis of symmetry, major axis, minor axis, and eccentricity.",
+      "id": "1D745779710F4A76B2BB95F6646040F4",
+      "asnIdentifier": "S2572172",
+      "position": 6000,
+      "depth": 1,
+      "ancestorIds": [
+        "E306AD57A9F04122A207F5B47D01FB7A"
+      ],
+      "parentId": "E306AD57A9F04122A207F5B47D01FB7A"
+    },
+    "AAF6C6D3B8BC4E56A9716AE78E1CCC5C": {
+      "depth": 1,
+      "statementNotation": "TR.CO.4",
+      "description": "Derive the equations of ellipses and hyperbolas given the foci, using the fact that the sum or difference of distances from the foci is constant.",
+      "id": "AAF6C6D3B8BC4E56A9716AE78E1CCC5C",
+      "asnIdentifier": "S2572171",
+      "position": 5000,
+      "ancestorIds": [
+        "E306AD57A9F04122A207F5B47D01FB7A"
+      ],
+      "parentId": "E306AD57A9F04122A207F5B47D01FB7A"
+    },
+    "00C19F1E475C4F49B81A712999125138": {
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "TR.CO.3",
+      "description": "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find the center and radius of a circle given by an equation.",
+      "id": "00C19F1E475C4F49B81A712999125138",
+      "asnIdentifier": "S2572170",
+      "ancestorIds": [
+        "E306AD57A9F04122A207F5B47D01FB7A"
+      ],
+      "parentId": "E306AD57A9F04122A207F5B47D01FB7A"
+    },
+    "02B4DF99FD6D4875BDB21AF390044ACA": {
+      "id": "02B4DF99FD6D4875BDB21AF390044ACA",
+      "asnIdentifier": "S2572169",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "TR.CO.2",
+      "description": "Derive the equation of a parabola given a focus and directrix.",
+      "ancestorIds": [
+        "E306AD57A9F04122A207F5B47D01FB7A"
+      ],
+      "parentId": "E306AD57A9F04122A207F5B47D01FB7A"
+    },
+    "FDF41E2E27A7403D8635C77BAB07DD4A": {
+      "id": "FDF41E2E27A7403D8635C77BAB07DD4A",
+      "asnIdentifier": "S2572168",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "TR.CO.1",
+      "description": "Determine how the graph of a parabola changes if a, b and c changes in the equation y = a(x – b)² + c. Find an equation for a parabola when given sufficient information.",
+      "ancestorIds": [
+        "E306AD57A9F04122A207F5B47D01FB7A"
+      ],
+      "parentId": "E306AD57A9F04122A207F5B47D01FB7A"
+    },
+    "E306AD57A9F04122A207F5B47D01FB7A": {
+      "statementLabel": "Strand",
+      "description": "Conics",
+      "id": "E306AD57A9F04122A207F5B47D01FB7A",
+      "asnIdentifier": "S2572167",
+      "position": 1000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

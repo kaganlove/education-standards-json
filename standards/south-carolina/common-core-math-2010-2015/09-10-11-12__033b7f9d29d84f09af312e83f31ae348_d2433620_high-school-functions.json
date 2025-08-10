@@ -1,0 +1,1326 @@
+{
+  "id": "033B7F9D29D84F09AF312E83F31AE348_D2433620_high-school-functions",
+  "title": "High School — Functions",
+  "subject": "Common Core Math (2010-2015)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "title": "Common Core State Standards for Mathematics",
+    "sourceURL": "http://www.corestandards.org/assets/CCSSI_Math%20Standards.pdf",
+    "asnIdentifier": "D2433620",
+    "publicationStatus": "Deprecated",
+    "id": "D2433620",
+    "valid": "2010"
+  },
+  "jurisdiction": {
+    "id": "033B7F9D29D84F09AF312E83F31AE348",
+    "title": "South Carolina"
+  },
+  "standards": {
+    "621DFD70DFE701319E5168A86D17958E": {
+      "id": "621DFD70DFE701319E5168A86D17958E",
+      "asnIdentifier": "S2434206",
+      "position": 68000,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.C.9",
+      "statementLabel": "Standard",
+      "description": "(+) Prove the addition and subtraction formulas for sine, cosine, and tangent and use them to solve problems.",
+      "depth": 2,
+      "altStatementNotation": "F.TF.9",
+      "listId": "9.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/C/9"
+      ],
+      "ancestorIds": [
+        "621D53A0DFE701319E4F68A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621D53A0DFE701319E4F68A86D17958E"
+    },
+    "621DA950DFE701319E5068A86D17958E": {
+      "description": "Prove the Pythagorean identity sin²(θ) + cos²(θ) = 1 and use it to find sin(θ), cos(θ), or tan(θ) given sin(θ), cos(θ), or tan(θ) and the quadrant of the angle.",
+      "id": "621DA950DFE701319E5068A86D17958E",
+      "altStatementNotation": "F.TF.8",
+      "statementLabel": "Standard",
+      "statementNotation": "CCSS.Math.Content.HSF-TF.C.8",
+      "listId": "8.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/C/8"
+      ],
+      "asnIdentifier": "S2434205",
+      "position": 67000,
+      "depth": 2,
+      "ancestorIds": [
+        "621D53A0DFE701319E4F68A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621D53A0DFE701319E4F68A86D17958E"
+    },
+    "621D53A0DFE701319E4F68A86D17958E": {
+      "description": "Prove and apply trigonometric identities",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/C"
+      ],
+      "id": "621D53A0DFE701319E4F68A86D17958E",
+      "asnIdentifier": "S2434204",
+      "position": 66000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.C",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621983B0DFE701319E4568A86D17958E"
+    },
+    "621CF480DFE701319E4E68A86D17958E": {
+      "position": 65000,
+      "description": "(+) Use inverse functions to solve trigonometric equations that arise in modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context.<sup>★</sup>",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/B/7"
+      ],
+      "asnIdentifier": "S2434203",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.B.7",
+      "altStatementNotation": "F.TF.7",
+      "statementLabel": "Standard",
+      "listId": "7.",
+      "id": "621CF480DFE701319E4E68A86D17958E",
+      "ancestorIds": [
+        "621BB280DFE701319E4B68A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621BB280DFE701319E4B68A86D17958E"
+    },
+    "621C8670DFE701319E4D68A86D17958E": {
+      "position": 64000,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.B.6",
+      "description": "(+) Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/B/6"
+      ],
+      "id": "621C8670DFE701319E4D68A86D17958E",
+      "asnIdentifier": "S2434202",
+      "depth": 2,
+      "altStatementNotation": "F.TF.6",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "ancestorIds": [
+        "621BB280DFE701319E4B68A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621BB280DFE701319E4B68A86D17958E"
+    },
+    "621C15D0DFE701319E4C68A86D17958E": {
+      "id": "621C15D0DFE701319E4C68A86D17958E",
+      "asnIdentifier": "S2434201",
+      "position": 63000,
+      "listId": "5.",
+      "description": "Choose trigonometric functions to model periodic phenomena with specified amplitude, frequency, and midline.<sup>★</sup>",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/B/5"
+      ],
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.B.5",
+      "altStatementNotation": "F.TF.5",
+      "statementLabel": "Standard",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "ancestorIds": [
+        "621BB280DFE701319E4B68A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621BB280DFE701319E4B68A86D17958E"
+    },
+    "621BB280DFE701319E4B68A86D17958E": {
+      "asnIdentifier": "S2434200",
+      "position": 62000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.B",
+      "statementLabel": "Cluster",
+      "description": "Model periodic phenomena with trigonometric functions",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/B"
+      ],
+      "id": "621BB280DFE701319E4B68A86D17958E",
+      "ancestorIds": [
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621983B0DFE701319E4568A86D17958E"
+    },
+    "621B32A0DFE701319E4A68A86D17958E": {
+      "listId": "4.",
+      "description": "(+) Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.",
+      "id": "621B32A0DFE701319E4A68A86D17958E",
+      "asnIdentifier": "S2434199",
+      "altStatementNotation": "F.TF.4",
+      "statementLabel": "Standard",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.A.4",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/A/4"
+      ],
+      "ancestorIds": [
+        "6219D930DFE701319E4668A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "6219D930DFE701319E4668A86D17958E"
+    },
+    "621AD2C0DFE701319E4968A86D17958E": {
+      "asnIdentifier": "S2434198",
+      "depth": 2,
+      "statementLabel": "Standard",
+      "description": "(+) Use special triangles to determine geometrically the values of sine, cosine, tangent for π/3, π/4 and π/6, and use the unit circle to express the values of sine, cosine, and tangent for π-x, π+x, and 2π-x in terms of their values for x, where x is any real number.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/A/3"
+      ],
+      "id": "621AD2C0DFE701319E4968A86D17958E",
+      "position": 60000,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.A.3",
+      "altStatementNotation": "F.TF.3",
+      "listId": "3.",
+      "ancestorIds": [
+        "6219D930DFE701319E4668A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "6219D930DFE701319E4668A86D17958E"
+    },
+    "621A8010DFE701319E4868A86D17958E": {
+      "id": "621A8010DFE701319E4868A86D17958E",
+      "asnIdentifier": "S2434197",
+      "statementLabel": "Standard",
+      "description": "Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/A/2"
+      ],
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.A.2",
+      "altStatementNotation": "F.TF.2",
+      "listId": "2.",
+      "ancestorIds": [
+        "6219D930DFE701319E4668A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "6219D930DFE701319E4668A86D17958E"
+    },
+    "621A2D50DFE701319E4768A86D17958E": {
+      "position": 58000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.A.1",
+      "altStatementNotation": "F.TF.1",
+      "statementLabel": "Standard",
+      "description": "Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/A/1"
+      ],
+      "id": "621A2D50DFE701319E4768A86D17958E",
+      "listId": "1.",
+      "asnIdentifier": "S2434196",
+      "ancestorIds": [
+        "6219D930DFE701319E4668A86D17958E",
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "6219D930DFE701319E4668A86D17958E"
+    },
+    "6219D930DFE701319E4668A86D17958E": {
+      "description": "Extend the domain of trigonometric functions using the unit circle",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/TF/A"
+      ],
+      "id": "6219D930DFE701319E4668A86D17958E",
+      "asnIdentifier": "S2434195",
+      "position": 57000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-TF.A",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "621983B0DFE701319E4568A86D17958E"
+      ],
+      "parentId": "621983B0DFE701319E4568A86D17958E"
+    },
+    "621983B0DFE701319E4568A86D17958E": {
+      "id": "621983B0DFE701319E4568A86D17958E",
+      "asnIdentifier": "S2434194",
+      "position": 56000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Trigonometric Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "621925E0DFE701319E4468A86D17958E": {
+      "id": "621925E0DFE701319E4468A86D17958E",
+      "asnIdentifier": "S2434193",
+      "description": "Interpret the parameters in a linear or exponential function in terms of a context.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/B/5"
+      ],
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.B.5",
+      "altStatementNotation": "F.LE.5",
+      "statementLabel": "Standard",
+      "listId": "5.",
+      "ancestorIds": [
+        "6218D260DFE701319E4368A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "6218D260DFE701319E4368A86D17958E"
+    },
+    "6218D260DFE701319E4368A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSF-LE.B",
+      "statementLabel": "Cluster",
+      "description": "Interpret expressions for functions in terms of the situation they model",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/B"
+      ],
+      "id": "6218D260DFE701319E4368A86D17958E",
+      "asnIdentifier": "S2434192",
+      "position": 54000,
+      "depth": 1,
+      "ancestorIds": [
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "62154CA0DFE701319E3A68A86D17958E"
+    },
+    "62187D20DFE701319E4268A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/4"
+      ],
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.4",
+      "description": "For exponential models, express as a logarithm the solution to ab<sup>ct</sup> = d where a, c, and d are numbers and the base b is 2, 10, or e; evaluate the logarithm using technology.",
+      "position": 53000,
+      "depth": 2,
+      "altStatementNotation": "F.LE.4",
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "id": "62187D20DFE701319E4268A86D17958E",
+      "asnIdentifier": "S2434191",
+      "ancestorIds": [
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "6215A540DFE701319E3B68A86D17958E"
+    },
+    "621827C0DFE701319E4168A86D17958E": {
+      "position": 52000,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.3",
+      "altStatementNotation": "F.LE.3",
+      "listId": "3.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/3"
+      ],
+      "id": "621827C0DFE701319E4168A86D17958E",
+      "asnIdentifier": "S2434190",
+      "depth": 2,
+      "statementLabel": "Standard",
+      "description": "Observe using graphs and tables that a quantity increasing exponentially eventually exceeds a quantity increasing linearly, quadratically, or (more generally) as a polynomial function.",
+      "ancestorIds": [
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "6215A540DFE701319E3B68A86D17958E"
+    },
+    "6217C590DFE701319E4068A86D17958E": {
+      "depth": 2,
+      "altStatementNotation": "F.LE.2",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/2"
+      ],
+      "id": "6217C590DFE701319E4068A86D17958E",
+      "asnIdentifier": "S2434189",
+      "position": 51000,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.2",
+      "listId": "2.",
+      "description": "Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).",
+      "ancestorIds": [
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "6215A540DFE701319E3B68A86D17958E"
+    },
+    "62173BE0DFE701319E3F68A86D17958E": {
+      "id": "62173BE0DFE701319E3F68A86D17958E",
+      "position": 50000,
+      "statementLabel": "Component",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/1/c"
+      ],
+      "description": "Recognize situations in which a quantity grows or decays by a constant percent rate per unit interval relative to another.",
+      "asnIdentifier": "S2434188",
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.1c",
+      "altStatementNotation": "F.LE.1.c",
+      "listId": "c.",
+      "ancestorIds": [
+        "62161E40DFE701319E3C68A86D17958E",
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "62161E40DFE701319E3C68A86D17958E"
+    },
+    "6216D7E0DFE701319E3E68A86D17958E": {
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.1b",
+      "altStatementNotation": "F.LE.1.b",
+      "id": "6216D7E0DFE701319E3E68A86D17958E",
+      "position": 49000,
+      "statementLabel": "Component",
+      "listId": "b.",
+      "description": "Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/1/b"
+      ],
+      "asnIdentifier": "S2434187",
+      "ancestorIds": [
+        "62161E40DFE701319E3C68A86D17958E",
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "62161E40DFE701319E3C68A86D17958E"
+    },
+    "62167F50DFE701319E3D68A86D17958E": {
+      "id": "62167F50DFE701319E3D68A86D17958E",
+      "asnIdentifier": "S2434186",
+      "position": 48000,
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.1a",
+      "statementLabel": "Component",
+      "description": "Prove that linear functions grow by equal differences over equal intervals, and that exponential functions grow by equal factors over equal intervals.",
+      "altStatementNotation": "F.LE.1.a",
+      "listId": "a.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/1/a"
+      ],
+      "ancestorIds": [
+        "62161E40DFE701319E3C68A86D17958E",
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "62161E40DFE701319E3C68A86D17958E"
+    },
+    "62161E40DFE701319E3C68A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A/1"
+      ],
+      "id": "62161E40DFE701319E3C68A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A.1",
+      "depth": 2,
+      "altStatementNotation": "F.LE.1",
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "description": "Distinguish between situations that can be modeled with linear functions and with exponential functions.",
+      "asnIdentifier": "S2434185",
+      "position": 47000,
+      "ancestorIds": [
+        "6215A540DFE701319E3B68A86D17958E",
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "6215A540DFE701319E3B68A86D17958E"
+    },
+    "6215A540DFE701319E3B68A86D17958E": {
+      "id": "6215A540DFE701319E3B68A86D17958E",
+      "asnIdentifier": "S2434184",
+      "position": 46000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-LE.A",
+      "statementLabel": "Cluster",
+      "description": "Construct and compare linear, quadratic, and exponential models and solve problems",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/LE/A"
+      ],
+      "ancestorIds": [
+        "62154CA0DFE701319E3A68A86D17958E"
+      ],
+      "parentId": "62154CA0DFE701319E3A68A86D17958E"
+    },
+    "62154CA0DFE701319E3A68A86D17958E": {
+      "statementLabel": "Domain",
+      "description": "Linear, Quadratic, and Exponential Models<sup>★</sup>",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "id": "62154CA0DFE701319E3A68A86D17958E",
+      "asnIdentifier": "S2434183",
+      "position": 45000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6214F9E0DFE701319E3968A86D17958E": {
+      "depth": 2,
+      "altStatementNotation": "F.BF.5",
+      "listId": "5.",
+      "description": "(+) Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems involving logarithms and exponents.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/5"
+      ],
+      "position": 44000,
+      "asnIdentifier": "S2434182",
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.5",
+      "statementLabel": "Standard",
+      "id": "6214F9E0DFE701319E3968A86D17958E",
+      "ancestorIds": [
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "621272C0DFE701319E3268A86D17958E"
+    },
+    "6214A550DFE701319E3868A86D17958E": {
+      "listId": "d.",
+      "description": "(+) Produce an invertible function from a non-invertible function by restricting the domain.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/4/d"
+      ],
+      "asnIdentifier": "S2434181",
+      "altStatementNotation": "F.BF.4.d",
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.4d",
+      "statementLabel": "Component",
+      "id": "6214A550DFE701319E3868A86D17958E",
+      "position": 43000,
+      "ancestorIds": [
+        "62133A20DFE701319E3468A86D17958E",
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62133A20DFE701319E3468A86D17958E"
+    },
+    "62144D00DFE701319E3768A86D17958E": {
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.4c",
+      "altStatementNotation": "F.BF.4.c",
+      "statementLabel": "Component",
+      "description": "(+) Read values of an inverse function from a graph or a table, given that the function has an inverse.",
+      "id": "62144D00DFE701319E3768A86D17958E",
+      "position": 42000,
+      "listId": "c.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/4/c"
+      ],
+      "asnIdentifier": "S2434180",
+      "ancestorIds": [
+        "62133A20DFE701319E3468A86D17958E",
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62133A20DFE701319E3468A86D17958E"
+    },
+    "6213E820DFE701319E3668A86D17958E": {
+      "altStatementNotation": "F.BF.4.b",
+      "statementLabel": "Component",
+      "description": "(+) Verify by composition that one function is the inverse of another.",
+      "id": "6213E820DFE701319E3668A86D17958E",
+      "asnIdentifier": "S2434179",
+      "position": 41000,
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/4/b"
+      ],
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.4b",
+      "listId": "b.",
+      "ancestorIds": [
+        "62133A20DFE701319E3468A86D17958E",
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62133A20DFE701319E3468A86D17958E"
+    },
+    "62139010DFE701319E3568A86D17958E": {
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.4a",
+      "altStatementNotation": "F.BF.4.a",
+      "statementLabel": "Component",
+      "listId": "a.",
+      "id": "62139010DFE701319E3568A86D17958E",
+      "asnIdentifier": "S2434178",
+      "position": 40000,
+      "description": "Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse.",
+      "comments": [
+        "For example, f(x) =2 x3 or f(x) = (x+1)/(x—1) for x ? 1."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/4/a"
+      ],
+      "ancestorIds": [
+        "62133A20DFE701319E3468A86D17958E",
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62133A20DFE701319E3468A86D17958E"
+    },
+    "62133A20DFE701319E3468A86D17958E": {
+      "id": "62133A20DFE701319E3468A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.4",
+      "altStatementNotation": "F.BF.4",
+      "description": "Find inverse functions.",
+      "asnIdentifier": "S2434177",
+      "position": 39000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/4"
+      ],
+      "ancestorIds": [
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "621272C0DFE701319E3268A86D17958E"
+    },
+    "6212DBD0DFE701319E3368A86D17958E": {
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B/3"
+      ],
+      "id": "6212DBD0DFE701319E3368A86D17958E",
+      "asnIdentifier": "S2434176",
+      "position": 38000,
+      "altStatementNotation": "F.BF.3",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B.3",
+      "description": "Identify the effect on the graph of replacing f(x) by f(x) + k, k f(x), f(kx), and f(x + k) for specific values of k (both positive and negative); find the value of k given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them.",
+      "ancestorIds": [
+        "621272C0DFE701319E3268A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "621272C0DFE701319E3268A86D17958E"
+    },
+    "621272C0DFE701319E3268A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/B"
+      ],
+      "id": "621272C0DFE701319E3268A86D17958E",
+      "asnIdentifier": "S2434175",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.B",
+      "statementLabel": "Cluster",
+      "description": "Build new functions from existing functions",
+      "ancestorIds": [
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "620F9370DFE701319E2B68A86D17958E"
+    },
+    "6211FB40DFE701319E3168A86D17958E": {
+      "id": "6211FB40DFE701319E3168A86D17958E",
+      "asnIdentifier": "S2434174",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.A.2",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "altStatementNotation": "F.BF.2",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "description": "Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms.<sup>★</sup>",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/A/2"
+      ],
+      "ancestorIds": [
+        "621010B0DFE701319E2C68A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "621010B0DFE701319E2C68A86D17958E"
+    },
+    "62119E90DFE701319E3068A86D17958E": {
+      "altStatementNotation": "F.BF.1.c",
+      "listId": "c.",
+      "description": "(+) Compose functions.",
+      "comments": [
+        "For example, if T(y) is the temperature in the atmosphere as a function of height, and h(t) is the height of a weather balloon as a function of time, then T(h(t)) is the temperature at the location of the weather balloon as a function of time."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/A/1/c"
+      ],
+      "id": "62119E90DFE701319E3068A86D17958E",
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.A.1c",
+      "asnIdentifier": "S2434173",
+      "position": 35000,
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "62109190DFE701319E2D68A86D17958E",
+        "621010B0DFE701319E2C68A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62109190DFE701319E2D68A86D17958E"
+    },
+    "62114A00DFE701319E2F68A86D17958E": {
+      "id": "62114A00DFE701319E2F68A86D17958E",
+      "description": "Combine standard function types using arithmetic operations.",
+      "comments": [
+        "For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/A/1/b"
+      ],
+      "asnIdentifier": "S2434172",
+      "position": 34000,
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.A.1b",
+      "altStatementNotation": "F.BF.1.b",
+      "statementLabel": "Component",
+      "listId": "b.",
+      "ancestorIds": [
+        "62109190DFE701319E2D68A86D17958E",
+        "621010B0DFE701319E2C68A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62109190DFE701319E2D68A86D17958E"
+    },
+    "6210F420DFE701319E2E68A86D17958E": {
+      "id": "6210F420DFE701319E2E68A86D17958E",
+      "position": 33000,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.A.1a",
+      "altStatementNotation": "F.BF.1.a",
+      "statementLabel": "Component",
+      "description": "Determine an explicit expression, a recursive process, or steps for calculation from a context.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/A/1/a"
+      ],
+      "asnIdentifier": "S2434171",
+      "depth": 3,
+      "listId": "a.",
+      "ancestorIds": [
+        "62109190DFE701319E2D68A86D17958E",
+        "621010B0DFE701319E2C68A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "62109190DFE701319E2D68A86D17958E"
+    },
+    "62109190DFE701319E2D68A86D17958E": {
+      "asnIdentifier": "S2434170",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.A.1",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/A/1"
+      ],
+      "id": "62109190DFE701319E2D68A86D17958E",
+      "altStatementNotation": "F.BF.1",
+      "listId": "1.",
+      "description": "Write a function that describes a relationship between two quantities <sup>★</sup>",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "ancestorIds": [
+        "621010B0DFE701319E2C68A86D17958E",
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "621010B0DFE701319E2C68A86D17958E"
+    },
+    "621010B0DFE701319E2C68A86D17958E": {
+      "id": "621010B0DFE701319E2C68A86D17958E",
+      "asnIdentifier": "S2434169",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-BF.A",
+      "statementLabel": "Cluster",
+      "description": "Build a function that models a relationship between two quantities",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/BF/A"
+      ],
+      "ancestorIds": [
+        "620F9370DFE701319E2B68A86D17958E"
+      ],
+      "parentId": "620F9370DFE701319E2B68A86D17958E"
+    },
+    "620F9370DFE701319E2B68A86D17958E": {
+      "id": "620F9370DFE701319E2B68A86D17958E",
+      "asnIdentifier": "S2434168",
+      "position": 30000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Building Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "620F3DE0DFE701319E2A68A86D17958E": {
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/9"
+      ],
+      "asnIdentifier": "S2434167",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.9",
+      "comments": [
+        "For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum."
+      ],
+      "id": "620F3DE0DFE701319E2A68A86D17958E",
+      "altStatementNotation": "F.IF.9",
+      "listId": "9.",
+      "description": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
+      "ancestorIds": [
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620BAFC0DFE701319E2068A86D17958E"
+    },
+    "620EE3F0DFE701319E2968A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/8/b"
+      ],
+      "id": "620EE3F0DFE701319E2968A86D17958E",
+      "position": 28000,
+      "statementLabel": "Component",
+      "listId": "b.",
+      "comments": [
+        "For example, identify percent rate of change in functions such as y = (1.02)<sup>t</sup>, y = (0.97)<sup>t</sup>, y = (1.01 <sup>12t</sup>, y = (1.2)<sup>t/10</sup>, and classify them as representing exponential growth or decay."
+      ],
+      "asnIdentifier": "S2434166",
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.8b",
+      "altStatementNotation": "F.IF.8.b",
+      "description": "Use the properties of exponents to interpret expressions for exponential functions.",
+      "ancestorIds": [
+        "620E2DD0DFE701319E2768A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620E2DD0DFE701319E2768A86D17958E"
+    },
+    "620E89E0DFE701319E2868A86D17958E": {
+      "depth": 3,
+      "altStatementNotation": "F.IF.8.a",
+      "listId": "a.",
+      "description": "Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context.",
+      "asnIdentifier": "S2434165",
+      "position": 27000,
+      "statementLabel": "Component",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/8/a"
+      ],
+      "id": "620E89E0DFE701319E2868A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.8a",
+      "ancestorIds": [
+        "620E2DD0DFE701319E2768A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620E2DD0DFE701319E2768A86D17958E"
+    },
+    "620E2DD0DFE701319E2768A86D17958E": {
+      "altStatementNotation": "F.IF.8",
+      "statementLabel": "Standard",
+      "description": "Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/8"
+      ],
+      "asnIdentifier": "S2434164",
+      "position": 26000,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.8",
+      "listId": "8.",
+      "id": "620E2DD0DFE701319E2768A86D17958E",
+      "depth": 2,
+      "ancestorIds": [
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620BAFC0DFE701319E2068A86D17958E"
+    },
+    "620DD920DFE701319E2668A86D17958E": {
+      "altStatementNotation": "F.IF.7.e",
+      "description": "Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude.",
+      "asnIdentifier": "S2434163",
+      "position": 25000,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.7e",
+      "statementLabel": "Component",
+      "listId": "e.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/7/e"
+      ],
+      "id": "620DD920DFE701319E2668A86D17958E",
+      "depth": 3,
+      "ancestorIds": [
+        "620C04A0DFE701319E2168A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620C04A0DFE701319E2168A86D17958E"
+    },
+    "620D7930DFE701319E2568A86D17958E": {
+      "id": "620D7930DFE701319E2568A86D17958E",
+      "asnIdentifier": "S2434162",
+      "depth": 3,
+      "altStatementNotation": "F.IF.7.d",
+      "description": "(+) Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/7/d"
+      ],
+      "position": 24000,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.7d",
+      "statementLabel": "Component",
+      "listId": "d.",
+      "ancestorIds": [
+        "620C04A0DFE701319E2168A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620C04A0DFE701319E2168A86D17958E"
+    },
+    "620D1C60DFE701319E2468A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/7/c"
+      ],
+      "asnIdentifier": "S2434161",
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.7c",
+      "altStatementNotation": "F.IF.7.c",
+      "listId": "c.",
+      "description": "Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.",
+      "id": "620D1C60DFE701319E2468A86D17958E",
+      "position": 23000,
+      "depth": 3,
+      "statementLabel": "Component",
+      "ancestorIds": [
+        "620C04A0DFE701319E2168A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620C04A0DFE701319E2168A86D17958E"
+    },
+    "620CBB30DFE701319E2368A86D17958E": {
+      "position": 22000,
+      "depth": 3,
+      "statementLabel": "Component",
+      "listId": "b.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/7/b"
+      ],
+      "asnIdentifier": "S2434160",
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.7b",
+      "altStatementNotation": "F.IF.7.b",
+      "description": "Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions.",
+      "id": "620CBB30DFE701319E2368A86D17958E",
+      "ancestorIds": [
+        "620C04A0DFE701319E2168A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620C04A0DFE701319E2168A86D17958E"
+    },
+    "620C5ED0DFE701319E2268A86D17958E": {
+      "listId": "a.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/7/a"
+      ],
+      "altStatementNotation": "F.IF.7.a",
+      "statementLabel": "Component",
+      "description": "Graph linear and quadratic functions and show intercepts, maxima, and minima.",
+      "id": "620C5ED0DFE701319E2268A86D17958E",
+      "asnIdentifier": "S2434159",
+      "position": 21000,
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.7a",
+      "ancestorIds": [
+        "620C04A0DFE701319E2168A86D17958E",
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620C04A0DFE701319E2168A86D17958E"
+    },
+    "620C04A0DFE701319E2168A86D17958E": {
+      "asnIdentifier": "S2434158",
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C.7",
+      "altStatementNotation": "F.IF.7",
+      "listId": "7.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C/7"
+      ],
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "id": "620C04A0DFE701319E2168A86D17958E",
+      "position": 20000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.<sup>★</sup>",
+      "ancestorIds": [
+        "620BAFC0DFE701319E2068A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "620BAFC0DFE701319E2068A86D17958E"
+    },
+    "620BAFC0DFE701319E2068A86D17958E": {
+      "statementLabel": "Cluster",
+      "description": "Analyze functions using different representations",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/C"
+      ],
+      "id": "620BAFC0DFE701319E2068A86D17958E",
+      "asnIdentifier": "S2434157",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.C",
+      "ancestorIds": [
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "62082090DFE701319E1768A86D17958E"
+    },
+    "620B5590DFE701319E1F68A86D17958E": {
+      "altStatementNotation": "F.IF.6",
+      "description": "Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.<sup>★</sup>",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/B/6"
+      ],
+      "id": "620B5590DFE701319E1F68A86D17958E",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.B.6",
+      "asnIdentifier": "S2434156",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "ancestorIds": [
+        "6209EB50DFE701319E1C68A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "6209EB50DFE701319E1C68A86D17958E"
+    },
+    "620AF460DFE701319E1E68A86D17958E": {
+      "asnIdentifier": "S2434155",
+      "position": 17000,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.B.5",
+      "altStatementNotation": "F.IF.5",
+      "statementLabel": "Standard",
+      "listId": "5.",
+      "comments": [
+        "For example, if the function h(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function.",
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "id": "620AF460DFE701319E1E68A86D17958E",
+      "description": "Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes.<sup>★</sup>",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/B/5"
+      ],
+      "depth": 2,
+      "ancestorIds": [
+        "6209EB50DFE701319E1C68A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "6209EB50DFE701319E1C68A86D17958E"
+    },
+    "620A7320DFE701319E1D68A86D17958E": {
+      "asnIdentifier": "S2434154",
+      "position": 16000,
+      "description": "For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship.<sup>★</sup>",
+      "comments": [
+        "Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.",
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "listId": "4.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/B/4"
+      ],
+      "id": "620A7320DFE701319E1D68A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.B.4",
+      "altStatementNotation": "F.IF.4",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "6209EB50DFE701319E1C68A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "6209EB50DFE701319E1C68A86D17958E"
+    },
+    "6209EB50DFE701319E1C68A86D17958E": {
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.B",
+      "statementLabel": "Cluster",
+      "description": "Interpret functions that arise in applications in terms of the context",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/B"
+      ],
+      "id": "6209EB50DFE701319E1C68A86D17958E",
+      "asnIdentifier": "S2434153",
+      "ancestorIds": [
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "62082090DFE701319E1768A86D17958E"
+    },
+    "62099430DFE701319E1B68A86D17958E": {
+      "asnIdentifier": "S2434152",
+      "position": 14000,
+      "depth": 2,
+      "altStatementNotation": "F.IF.3",
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "id": "62099430DFE701319E1B68A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSF-IF.A.3",
+      "description": "Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers.",
+      "comments": [
+        "For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ≥ 1."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/A/3"
+      ],
+      "ancestorIds": [
+        "62087930DFE701319E1868A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "62087930DFE701319E1868A86D17958E"
+    },
+    "62093A40DFE701319E1A68A86D17958E": {
+      "position": 13000,
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/A/2"
+      ],
+      "id": "62093A40DFE701319E1A68A86D17958E",
+      "asnIdentifier": "S2434151",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.A.2",
+      "altStatementNotation": "F.IF.2",
+      "description": "Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context.",
+      "ancestorIds": [
+        "62087930DFE701319E1868A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "62087930DFE701319E1868A86D17958E"
+    },
+    "6208DF60DFE701319E1968A86D17958E": {
+      "altStatementNotation": "F.IF.1",
+      "listId": "1.",
+      "id": "6208DF60DFE701319E1968A86D17958E",
+      "position": 12000,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.A.1",
+      "statementLabel": "Standard",
+      "description": "Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. If f is a function and x is an element of its domain, then f(x) denotes the output of f corresponding to the input x. The graph of f is the graph of the equation y = f(x).",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/A/1"
+      ],
+      "asnIdentifier": "S2434150",
+      "depth": 2,
+      "ancestorIds": [
+        "62087930DFE701319E1868A86D17958E",
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "62087930DFE701319E1868A86D17958E"
+    },
+    "62087930DFE701319E1868A86D17958E": {
+      "description": "Understand the concept of a function and use function notation",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSF/IF/A"
+      ],
+      "id": "62087930DFE701319E1868A86D17958E",
+      "asnIdentifier": "S2434149",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSF-IF.A",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "62082090DFE701319E1768A86D17958E"
+      ],
+      "parentId": "62082090DFE701319E1768A86D17958E"
+    },
+    "62082090DFE701319E1768A86D17958E": {
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Interpreting Functions",
+      "id": "62082090DFE701319E1768A86D17958E",
+      "asnIdentifier": "S2434148",
+      "position": 10000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0FABC2198F294872A65B7360BACFD4C7": {
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP8"
+      ],
+      "statementNotation": "CCSS.Math.Practice.MP8",
+      "asnIdentifier": "S2433629",
+      "position": 9000,
+      "depth": 1,
+      "altStatementNotation": "MP.8",
+      "listId": "8.",
+      "comments": [
+        "Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
+      ],
+      "id": "0FABC2198F294872A65B7360BACFD4C7",
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "14D051DB334E4FC19BCAD018E974FDF5": {
+      "asnIdentifier": "S2433628",
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP7",
+      "altStatementNotation": "MP.7",
+      "listId": "7.",
+      "description": "Look for and make use of structure.",
+      "comments": [
+        "Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+      ],
+      "id": "14D051DB334E4FC19BCAD018E974FDF5",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP7"
+      ],
+      "position": 8000,
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "EAD3F4FD7D6E4461BF1C380A04BFCB02": {
+      "comments": [
+        "Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP6"
+      ],
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP6",
+      "altStatementNotation": "MP.6",
+      "description": "Attend to precision.",
+      "listId": "6.",
+      "id": "EAD3F4FD7D6E4461BF1C380A04BFCB02",
+      "asnIdentifier": "S2433627",
+      "position": 7000,
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "C870EA0820594A0396FA3AF44AF7D760": {
+      "position": 6000,
+      "depth": 1,
+      "altStatementNotation": "MP.5",
+      "comments": [
+        "Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP5"
+      ],
+      "id": "C870EA0820594A0396FA3AF44AF7D760",
+      "asnIdentifier": "S2433626",
+      "statementNotation": "CCSS.Math.Practice.MP5",
+      "statementLabel": "Standard",
+      "listId": "5.",
+      "description": "Use appropriate tools strategically.",
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "0DBCAAE0A4BA4519809A6209165981A6": {
+      "asnIdentifier": "S2433625",
+      "statementNotation": "CCSS.Math.Practice.MP4",
+      "statementLabel": "Standard",
+      "comments": [
+        "Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+      ],
+      "id": "0DBCAAE0A4BA4519809A6209165981A6",
+      "position": 5000,
+      "depth": 1,
+      "altStatementNotation": "MP.4",
+      "listId": "4.",
+      "description": "Model with mathematics.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP4"
+      ],
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "B8036A3FFE3747FCBD5BF6F7241ADA4D": {
+      "asnIdentifier": "S2433624",
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "comments": [
+        "Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
+      ],
+      "id": "B8036A3FFE3747FCBD5BF6F7241ADA4D",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP3",
+      "altStatementNotation": "MP.3",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP3"
+      ],
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "79F3B4A4175B4DC29AF7FC69A825A198": {
+      "id": "79F3B4A4175B4DC29AF7FC69A825A198",
+      "depth": 1,
+      "description": "Reason abstractly and quantitatively.",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "comments": [
+        "Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP2"
+      ],
+      "asnIdentifier": "S2433623",
+      "position": 3000,
+      "statementNotation": "CCSS.Math.Practice.MP2",
+      "altStatementNotation": "MP.2",
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "E0AED90E96034808B1034E41CAE8928F": {
+      "id": "E0AED90E96034808B1034E41CAE8928F",
+      "position": 2000,
+      "statementNotation": "CCSS.Math.Practice.MP1",
+      "altStatementNotation": "MP.1",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP1"
+      ],
+      "asnIdentifier": "S2433622",
+      "depth": 1,
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "description": "Make sense of problems and persevere in solving them.",
+      "comments": [
+        "Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
+      ],
+      "ancestorIds": [
+        "F775C907DD1649C39E4670130599D503"
+      ],
+      "parentId": "F775C907DD1649C39E4670130599D503"
+    },
+    "F775C907DD1649C39E4670130599D503": {
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Standards for Mathematical Practice",
+      "id": "F775C907DD1649C39E4670130599D503",
+      "asnIdentifier": "S2433621",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,904 @@
+{
+  "id": "BD9F1823F64844E38377E11EB39F173B_D2501119_grade-01",
+  "title": "Grade 1",
+  "subject": "Common Core Mathematics (2010-2016)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "01"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "id": "D2501119",
+    "valid": "2010",
+    "title": "New Jersey Common Core State Standards for Mathematics",
+    "sourceURL": "http://www.corestandards.org/assets/CCSSI_Math%20Standards.pdf",
+    "asnIdentifier": "D2501119",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "BD9F1823F64844E38377E11EB39F173B",
+    "title": "New Jersey"
+  },
+  "standards": {
+    "BC878310DFE60131784F68A86D17958E": {
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.G.A.3",
+      "listId": "3.",
+      "description": "Partition circles and rectangles into two and four equal shares, describe the shares using the words halves, fourths, and quarters, and use the phrases half of, fourth of, and quarter of. Describe the whole as two of, or four of the shares. Understand for these examples that decomposing into more equal shares creates smaller shares.",
+      "id": "BC878310DFE60131784F68A86D17958E",
+      "altStatementNotation": "1.G.3",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/G/A/3"
+      ],
+      "asnIdentifier": "S2501328",
+      "ancestorIds": [
+        "BC86ACD0DFE60131784C68A86D17958E",
+        "BC866B50DFE60131784B68A86D17958E"
+      ],
+      "parentId": "BC86ACD0DFE60131784C68A86D17958E"
+    },
+    "BC8732A0DFE60131784E68A86D17958E": {
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.G.A.2",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "comments": [
+        "Students do not need to learn formal names such as \"right rectangular prism.\""
+      ],
+      "id": "BC8732A0DFE60131784E68A86D17958E",
+      "asnIdentifier": "S2501327",
+      "altStatementNotation": "1.G.2",
+      "description": "Compose two-dimensional shapes (rectangles, squares, trapezoids, triangles, half-circles, and quarter-circles) or three-dimensional shapes (cubes, right rectangular prisms, right circular cones, and right circular cylinders) to create a composite shape, and compose new shapes from the composite shape.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/G/A/2"
+      ],
+      "ancestorIds": [
+        "BC86ACD0DFE60131784C68A86D17958E",
+        "BC866B50DFE60131784B68A86D17958E"
+      ],
+      "parentId": "BC86ACD0DFE60131784C68A86D17958E"
+    },
+    "BC86ED40DFE60131784D68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.1.G.A.1",
+      "listId": "1.",
+      "description": "Distinguish between defining attributes (e.g., triangles are closed and three-sided) versus non-defining attributes (e.g., color, orientation, overall size); build and draw shapes to possess defining attributes.",
+      "id": "BC86ED40DFE60131784D68A86D17958E",
+      "asnIdentifier": "S2501326",
+      "position": 46000,
+      "depth": 2,
+      "altStatementNotation": "1.G.1",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/G/A/1"
+      ],
+      "ancestorIds": [
+        "BC86ACD0DFE60131784C68A86D17958E",
+        "BC866B50DFE60131784B68A86D17958E"
+      ],
+      "parentId": "BC86ACD0DFE60131784C68A86D17958E"
+    },
+    "BC86ACD0DFE60131784C68A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/G/A"
+      ],
+      "id": "BC86ACD0DFE60131784C68A86D17958E",
+      "asnIdentifier": "S2501325",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.G.A",
+      "statementLabel": "Cluster",
+      "description": "Reason with shapes and their attributes.",
+      "ancestorIds": [
+        "BC866B50DFE60131784B68A86D17958E"
+      ],
+      "parentId": "BC866B50DFE60131784B68A86D17958E"
+    },
+    "BC866B50DFE60131784B68A86D17958E": {
+      "description": "Geometry",
+      "id": "BC866B50DFE60131784B68A86D17958E",
+      "asnIdentifier": "S2501316",
+      "position": 44000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BC861DD0DFE60131784A68A86D17958E": {
+      "altStatementNotation": "1.MD.4",
+      "listId": "4.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/C/4"
+      ],
+      "id": "BC861DD0DFE60131784A68A86D17958E",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.MD.C.4",
+      "asnIdentifier": "S2501258",
+      "statementLabel": "Standard",
+      "description": "Organize, represent, and interpret data with up to three categories; ask and answer questions about the total number of data points, how many in each category, and how many more or less are in one category than in another.",
+      "ancestorIds": [
+        "BC85DD40DFE60131784968A86D17958E",
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC85DD40DFE60131784968A86D17958E"
+    },
+    "BC85DD40DFE60131784968A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.1.MD.C",
+      "statementLabel": "Cluster",
+      "description": "Represent and interpret data.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/C"
+      ],
+      "id": "BC85DD40DFE60131784968A86D17958E",
+      "asnIdentifier": "S2501257",
+      "position": 42000,
+      "depth": 1,
+      "ancestorIds": [
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC843310DFE60131784368A86D17958E"
+    },
+    "BC8598B0DFE60131784868A86D17958E": {
+      "description": "Tell and write time in hours and half-hours using analog and digital clocks.",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.MD.B.3",
+      "altStatementNotation": "1.MD.3",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/B/3"
+      ],
+      "id": "BC8598B0DFE60131784868A86D17958E",
+      "asnIdentifier": "S2501256",
+      "position": 41000,
+      "listId": "3.",
+      "ancestorIds": [
+        "BC8552A0DFE60131784768A86D17958E",
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC8552A0DFE60131784768A86D17958E"
+    },
+    "BC8552A0DFE60131784768A86D17958E": {
+      "description": "Tell and write time.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/B"
+      ],
+      "id": "BC8552A0DFE60131784768A86D17958E",
+      "asnIdentifier": "S2501255",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.MD.B",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC843310DFE60131784368A86D17958E"
+    },
+    "BC850830DFE60131784668A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.1.MD.A.2",
+      "altStatementNotation": "1.MD.2",
+      "statementLabel": "Standard",
+      "comments": [
+        "Limit to contexts where the object being measured is spanned by a whole number of length units with no gaps or overlaps."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/A/2"
+      ],
+      "id": "BC850830DFE60131784668A86D17958E",
+      "asnIdentifier": "S2501254",
+      "depth": 2,
+      "position": 39000,
+      "listId": "2.",
+      "description": "Express the length of an object as a whole number of length units, by laying multiple copies of a shorter object (the length unit) end to end; understand that the length measurement of an object is the number of same-size length units that span it with no gaps or overlaps.",
+      "ancestorIds": [
+        "BC847430DFE60131784468A86D17958E",
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC847430DFE60131784468A86D17958E"
+    },
+    "BC84C350DFE60131784568A86D17958E": {
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.MD.A.1",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/A/1"
+      ],
+      "id": "BC84C350DFE60131784568A86D17958E",
+      "position": 38000,
+      "altStatementNotation": "1.MD.1",
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "description": "Order three objects by length; compare the lengths of two objects indirectly by using a third object.",
+      "asnIdentifier": "S2501253",
+      "ancestorIds": [
+        "BC847430DFE60131784468A86D17958E",
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC847430DFE60131784468A86D17958E"
+    },
+    "BC847430DFE60131784468A86D17958E": {
+      "description": "Measure lengths indirectly and by iterating length units.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/MD/A"
+      ],
+      "id": "BC847430DFE60131784468A86D17958E",
+      "asnIdentifier": "S2501252",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.MD.A",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "BC843310DFE60131784368A86D17958E"
+      ],
+      "parentId": "BC843310DFE60131784368A86D17958E"
+    },
+    "BC843310DFE60131784368A86D17958E": {
+      "description": "Measurement and Data",
+      "id": "BC843310DFE60131784368A86D17958E",
+      "asnIdentifier": "S2501246",
+      "position": 36000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BC83F220DFE60131784268A86D17958E": {
+      "position": 35000,
+      "altStatementNotation": "1.NBT.6",
+      "description": "Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or zero differences), using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
+      "id": "BC83F220DFE60131784268A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.NBT.C.6",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/C/6"
+      ],
+      "asnIdentifier": "S2501216",
+      "ancestorIds": [
+        "BC8324C0DFE60131783F68A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC8324C0DFE60131783F68A86D17958E"
+    },
+    "BC83B0E0DFE60131784168A86D17958E": {
+      "asnIdentifier": "S2501215",
+      "position": 34000,
+      "depth": 2,
+      "listId": "5.",
+      "id": "BC83B0E0DFE60131784168A86D17958E",
+      "altStatementNotation": "1.NBT.5",
+      "statementLabel": "Standard",
+      "description": "Given a two-digit number, mentally find 10 more or 10 less than the number, without having to count; explain the reasoning used.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/C/5"
+      ],
+      "statementNotation": "CCSS.Math.Content.1.NBT.C.5",
+      "ancestorIds": [
+        "BC8324C0DFE60131783F68A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC8324C0DFE60131783F68A86D17958E"
+    },
+    "BC836C90DFE60131784068A86D17958E": {
+      "id": "BC836C90DFE60131784068A86D17958E",
+      "asnIdentifier": "S2501214",
+      "statementNotation": "CCSS.Math.Content.1.NBT.C.4",
+      "altStatementNotation": "1.NBT.4",
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "description": "Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used. Understand that in adding two-digit numbers, one adds tens and tens, ones and ones; and sometimes it is necessary to compose a ten.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/C/4"
+      ],
+      "position": 33000,
+      "depth": 2,
+      "ancestorIds": [
+        "BC8324C0DFE60131783F68A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC8324C0DFE60131783F68A86D17958E"
+    },
+    "BC8324C0DFE60131783F68A86D17958E": {
+      "asnIdentifier": "S2501213",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.NBT.C",
+      "statementLabel": "Cluster",
+      "description": "Use place value understanding and properties of operations to add and subtract.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/C"
+      ],
+      "id": "BC8324C0DFE60131783F68A86D17958E",
+      "ancestorIds": [
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC808CB0DFE60131783668A86D17958E"
+    },
+    "BC82CCE0DFE60131783E68A86D17958E": {
+      "depth": 2,
+      "statementLabel": "Standard",
+      "listId": "3.",
+      "id": "BC82CCE0DFE60131783E68A86D17958E",
+      "asnIdentifier": "S2501205",
+      "position": 31000,
+      "statementNotation": "CCSS.Math.Content.1.NBT.B.3",
+      "altStatementNotation": "1.NBT.3",
+      "description": "Compare two two-digit numbers based on meanings of the tens and ones digits, recording the results of comparisons with the symbols >, =, and <.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/B/3"
+      ],
+      "ancestorIds": [
+        "BC816180DFE60131783968A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC816180DFE60131783968A86D17958E"
+    },
+    "BC827690DFE60131783D68A86D17958E": {
+      "statementLabel": "Component",
+      "listId": "c.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/B/2/c"
+      ],
+      "id": "BC827690DFE60131783D68A86D17958E",
+      "statementNotation": "CCSS.Math.Content.1.NBT.B.2c",
+      "depth": 3,
+      "altStatementNotation": "1.NBT.2.c",
+      "description": "The numbers 10, 20, 30, 40, 50, 60, 70, 80, 90 refer to one, two, three, four, five, six, seven, eight, or nine tens (and 0 ones).",
+      "asnIdentifier": "S2501204",
+      "position": 30000,
+      "ancestorIds": [
+        "BC81A280DFE60131783A68A86D17958E",
+        "BC816180DFE60131783968A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC81A280DFE60131783A68A86D17958E"
+    },
+    "BC822FA0DFE60131783C68A86D17958E": {
+      "asnIdentifier": "S2501203",
+      "depth": 3,
+      "id": "BC822FA0DFE60131783C68A86D17958E",
+      "statementNotation": "CCSS.Math.Content.1.NBT.B.2b",
+      "altStatementNotation": "1.NBT.2.b",
+      "statementLabel": "Component",
+      "listId": "b.",
+      "description": "The numbers from 11 to 19 are composed of a ten and one, two, three, four, five, six, seven, eight, or nine ones.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/B/2/b"
+      ],
+      "position": 29000,
+      "ancestorIds": [
+        "BC81A280DFE60131783A68A86D17958E",
+        "BC816180DFE60131783968A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC81A280DFE60131783A68A86D17958E"
+    },
+    "BC81E5E0DFE60131783B68A86D17958E": {
+      "asnIdentifier": "S2501202",
+      "position": 28000,
+      "statementLabel": "Component",
+      "id": "BC81E5E0DFE60131783B68A86D17958E",
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.1.NBT.B.2a",
+      "altStatementNotation": "1.NBT.2.a",
+      "listId": "a.",
+      "description": "10 can be thought of as a bundle of ten ones — called a \"ten.\"",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/B/2/a"
+      ],
+      "ancestorIds": [
+        "BC81A280DFE60131783A68A86D17958E",
+        "BC816180DFE60131783968A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC81A280DFE60131783A68A86D17958E"
+    },
+    "BC81A280DFE60131783A68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.1.NBT.B.2",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/B/2"
+      ],
+      "depth": 2,
+      "asnIdentifier": "S2501201",
+      "position": 27000,
+      "altStatementNotation": "1.NBT.2",
+      "listId": "2.",
+      "description": "Understand that the two digits of a two-digit number represent amounts of tens and ones. Understand the following as special cases:",
+      "id": "BC81A280DFE60131783A68A86D17958E",
+      "ancestorIds": [
+        "BC816180DFE60131783968A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC816180DFE60131783968A86D17958E"
+    },
+    "BC816180DFE60131783968A86D17958E": {
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.NBT.B",
+      "statementLabel": "Cluster",
+      "description": "Understand place value.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/B"
+      ],
+      "id": "BC816180DFE60131783968A86D17958E",
+      "asnIdentifier": "S2501200",
+      "position": 26000,
+      "ancestorIds": [
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC808CB0DFE60131783668A86D17958E"
+    },
+    "BC8119E0DFE60131783868A86D17958E": {
+      "position": 25000,
+      "depth": 2,
+      "altStatementNotation": "1.NBT.1",
+      "listId": "1.",
+      "description": "Count to 120, starting at any number less than 120. In this range, read and write numerals and represent a number of objects with a written numeral.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/A/1"
+      ],
+      "id": "BC8119E0DFE60131783868A86D17958E",
+      "asnIdentifier": "S2501199",
+      "statementNotation": "CCSS.Math.Content.1.NBT.A.1",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "BC80CEC0DFE60131783768A86D17958E",
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC80CEC0DFE60131783768A86D17958E"
+    },
+    "BC80CEC0DFE60131783768A86D17958E": {
+      "description": "Extend the counting sequence.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/NBT/A"
+      ],
+      "id": "BC80CEC0DFE60131783768A86D17958E",
+      "asnIdentifier": "S2501198",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.NBT.A",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "BC808CB0DFE60131783668A86D17958E"
+      ],
+      "parentId": "BC808CB0DFE60131783668A86D17958E"
+    },
+    "BC808CB0DFE60131783668A86D17958E": {
+      "comments": [
+        "Grade 4 expectations in this domain are limited to whole numbers less than or equal to 1,000,000."
+      ],
+      "id": "BC808CB0DFE60131783668A86D17958E",
+      "asnIdentifier": "S2501195",
+      "position": 23000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Number and Operations in Base Ten",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BC804B30DFE60131783568A86D17958E": {
+      "altStatementNotation": "1.OA.8",
+      "statementLabel": "Standard",
+      "description": "Determine the unknown whole number in an addition or subtraction equation relating three whole numbers.",
+      "comments": [
+        "For example, determine the unknown number that makes the equation true in each of the equations 8 + ? = 11, 5 = <img src=\"http://purl.org/ASN/resources/images/rectangle_vertical.gif\" style=\"vertical-align: middle;\" /> - 3, 6 + 6 = <img src=\"http://purl.org/ASN/resources/images/rectangle_vertical.gif\" style=\"vertical-align: middle;\" />."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/D/8"
+      ],
+      "id": "BC804B30DFE60131783568A86D17958E",
+      "position": 22000,
+      "depth": 2,
+      "asnIdentifier": "S2501165",
+      "statementNotation": "CCSS.Math.Content.1.OA.D.8",
+      "listId": "8.",
+      "ancestorIds": [
+        "BC7FC0D0DFE60131783368A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7FC0D0DFE60131783368A86D17958E"
+    },
+    "BC800810DFE60131783468A86D17958E": {
+      "description": "Understand the meaning of the equal sign, and determine if equations involving addition and subtraction are true or false.",
+      "comments": [
+        "For example, which of the following equations are true and which are false? 6 = 6, 7 = 8 - 1, 5 + 2 = 2 + 5, 4 + 1 = 5 + 2."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/D/7"
+      ],
+      "altStatementNotation": "1.OA.7",
+      "statementLabel": "Standard",
+      "listId": "7.",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.OA.D.7",
+      "id": "BC800810DFE60131783468A86D17958E",
+      "asnIdentifier": "S2501164",
+      "position": 21000,
+      "ancestorIds": [
+        "BC7FC0D0DFE60131783368A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7FC0D0DFE60131783368A86D17958E"
+    },
+    "BC7FC0D0DFE60131783368A86D17958E": {
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.OA.D",
+      "statementLabel": "Cluster",
+      "description": "Work with addition and subtraction equations.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/D"
+      ],
+      "id": "BC7FC0D0DFE60131783368A86D17958E",
+      "asnIdentifier": "S2501163",
+      "position": 20000,
+      "ancestorIds": [
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7CDA80DFE60131782968A86D17958E"
+    },
+    "BC7F5660DFE60131783268A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.1.OA.C.6",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/C/6"
+      ],
+      "id": "BC7F5660DFE60131783268A86D17958E",
+      "asnIdentifier": "S2501160",
+      "position": 19000,
+      "depth": 2,
+      "altStatementNotation": "1.OA.6",
+      "listId": "6.",
+      "description": "Add and subtract within 20, demonstrating fluency for addition and subtraction within 10. Use strategies such as counting on; making ten (e.g., 8 + 6 = 8 + 2 + 4 = 10 + 4 = 14); decomposing a number leading to a ten (e.g., 13 - 4 = 13 - 3 - 1 = 10 - 1 = 9); using the relationship between addition and subtraction (e.g., knowing that 8 + 4 = 12, one knows 12 - 8 = 4); and creating equivalent but easier or known sums (e.g., adding 6 + 7 by creating the known equivalent 6 + 6 + 1 = 12 + 1 = 13).",
+      "ancestorIds": [
+        "BC7EBDC0DFE60131783068A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7EBDC0DFE60131783068A86D17958E"
+    },
+    "BC7EFB10DFE60131783168A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/C/5"
+      ],
+      "altStatementNotation": "1.OA.5",
+      "listId": "5.",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.OA.C.5",
+      "statementLabel": "Standard",
+      "description": "Relate counting to addition and subtraction (e.g., by counting on 2 to add 2).",
+      "id": "BC7EFB10DFE60131783168A86D17958E",
+      "asnIdentifier": "S2501159",
+      "ancestorIds": [
+        "BC7EBDC0DFE60131783068A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7EBDC0DFE60131783068A86D17958E"
+    },
+    "BC7EBDC0DFE60131783068A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/C"
+      ],
+      "id": "BC7EBDC0DFE60131783068A86D17958E",
+      "asnIdentifier": "S2501158",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.OA.C",
+      "statementLabel": "Cluster",
+      "description": "Add and subtract within 20.",
+      "ancestorIds": [
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7CDA80DFE60131782968A86D17958E"
+    },
+    "BC7E7EE0DFE60131782F68A86D17958E": {
+      "asnIdentifier": "S2501157",
+      "statementNotation": "CCSS.Math.Content.1.OA.B.4",
+      "statementLabel": "Standard",
+      "description": "Understand subtraction as an unknown-addend problem.",
+      "comments": [
+        "For example, subtract 10 - 8 by finding the number that makes 10 when added to 8."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/B/4"
+      ],
+      "id": "BC7E7EE0DFE60131782F68A86D17958E",
+      "position": 16000,
+      "depth": 2,
+      "altStatementNotation": "1.OA.4",
+      "listId": "4.",
+      "ancestorIds": [
+        "BC7DF760DFE60131782D68A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7DF760DFE60131782D68A86D17958E"
+    },
+    "BC7E3D30DFE60131782E68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.1.OA.B.3",
+      "altStatementNotation": "1.OA.3",
+      "listId": "3.",
+      "description": "Apply properties of operations as strategies to add and subtract.",
+      "comments": [
+        "Students need not use formal terms for these properties.",
+        "To add 2 + 6 + 4, the second two numbers can be added to make a ten, so 2 + 6 + 4 = 2 + 10 = 12. (Associative property of addition.)",
+        "If 8 + 3 = 11 is known, then 3 + 8 = 11 is also known. (Commutative property of addition.)"
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/B/3"
+      ],
+      "id": "BC7E3D30DFE60131782E68A86D17958E",
+      "asnIdentifier": "S2501156",
+      "position": 15000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "BC7DF760DFE60131782D68A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7DF760DFE60131782D68A86D17958E"
+    },
+    "BC7DF760DFE60131782D68A86D17958E": {
+      "id": "BC7DF760DFE60131782D68A86D17958E",
+      "asnIdentifier": "S2501155",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.OA.B",
+      "statementLabel": "Cluster",
+      "description": "Understand and apply properties of operations and the relationship between addition and subtraction.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/B"
+      ],
+      "ancestorIds": [
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7CDA80DFE60131782968A86D17958E"
+    },
+    "BC7DB1F0DFE60131782C68A86D17958E": {
+      "listId": "2.",
+      "id": "BC7DB1F0DFE60131782C68A86D17958E",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.1.OA.A.2",
+      "altStatementNotation": "1.OA.2",
+      "statementLabel": "Standard",
+      "asnIdentifier": "S2501152",
+      "description": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/A/2"
+      ],
+      "ancestorIds": [
+        "BC7D1D70DFE60131782A68A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7D1D70DFE60131782A68A86D17958E"
+    },
+    "BC7D6BE0DFE60131782B68A86D17958E": {
+      "description": "Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/A/1"
+      ],
+      "asnIdentifier": "S2501151",
+      "statementNotation": "CCSS.Math.Content.1.OA.A.1",
+      "altStatementNotation": "1.OA.1",
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "id": "BC7D6BE0DFE60131782B68A86D17958E",
+      "position": 12000,
+      "depth": 2,
+      "ancestorIds": [
+        "BC7D1D70DFE60131782A68A86D17958E",
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7D1D70DFE60131782A68A86D17958E"
+    },
+    "BC7D1D70DFE60131782A68A86D17958E": {
+      "statementLabel": "Cluster",
+      "description": "Represent and solve problems involving addition and subtraction.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/1/OA/A"
+      ],
+      "id": "BC7D1D70DFE60131782A68A86D17958E",
+      "asnIdentifier": "S2501150",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.1.OA.A",
+      "ancestorIds": [
+        "BC7CDA80DFE60131782968A86D17958E"
+      ],
+      "parentId": "BC7CDA80DFE60131782968A86D17958E"
+    },
+    "BC7CDA80DFE60131782968A86D17958E": {
+      "description": "Operations and Algebraic Thinking",
+      "id": "BC7CDA80DFE60131782968A86D17958E",
+      "asnIdentifier": "S2501143",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "BC7C8DF0DFE60131782868A86D17958E": {
+      "altStatementNotation": "MP.8",
+      "listId": "8.",
+      "asnIdentifier": "S2501128",
+      "statementNotation": "CCSS.Math.Practice.MP8",
+      "depth": 1,
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "comments": [
+        "Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP8"
+      ],
+      "id": "BC7C8DF0DFE60131782868A86D17958E",
+      "position": 9000,
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7C4190DFE60131782768A86D17958E": {
+      "listId": "7.",
+      "description": "Look for and make use of structure.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP7"
+      ],
+      "id": "BC7C4190DFE60131782768A86D17958E",
+      "asnIdentifier": "S2501127",
+      "statementNotation": "CCSS.Math.Practice.MP7",
+      "altStatementNotation": "MP.7",
+      "statementLabel": "Standard",
+      "comments": [
+        "Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+      ],
+      "position": 8000,
+      "depth": 1,
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7BF6B0DFE60131782668A86D17958E": {
+      "asnIdentifier": "S2501126",
+      "position": 7000,
+      "statementNotation": "CCSS.Math.Practice.MP6",
+      "comments": [
+        "Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
+      ],
+      "listId": "6.",
+      "description": "Attend to precision.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP6"
+      ],
+      "id": "BC7BF6B0DFE60131782668A86D17958E",
+      "depth": 1,
+      "altStatementNotation": "MP.6",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7BA480DFE60131782568A86D17958E": {
+      "description": "Use appropriate tools strategically.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP5"
+      ],
+      "id": "BC7BA480DFE60131782568A86D17958E",
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP5",
+      "statementLabel": "Standard",
+      "listId": "5.",
+      "asnIdentifier": "S2501125",
+      "position": 6000,
+      "altStatementNotation": "MP.5",
+      "comments": [
+        "Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
+      ],
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7B4CB0DFE60131782468A86D17958E": {
+      "asnIdentifier": "S2501124",
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP4",
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "description": "Model with mathematics.",
+      "id": "BC7B4CB0DFE60131782468A86D17958E",
+      "altStatementNotation": "MP.4",
+      "comments": [
+        "Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP4"
+      ],
+      "position": 5000,
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7AF7C0DFE60131782368A86D17958E": {
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP3",
+      "altStatementNotation": "MP.3",
+      "listId": "3.",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "comments": [
+        "Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
+      ],
+      "id": "BC7AF7C0DFE60131782368A86D17958E",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP3"
+      ],
+      "statementLabel": "Standard",
+      "asnIdentifier": "S2501123",
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7AA540DFE60131782268A86D17958E": {
+      "altStatementNotation": "MP.2",
+      "statementLabel": "Standard",
+      "listId": "2.",
+      "description": "Reason abstractly and quantitatively.",
+      "comments": [
+        "Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
+      ],
+      "id": "BC7AA540DFE60131782268A86D17958E",
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP2",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP2"
+      ],
+      "asnIdentifier": "S2501122",
+      "position": 3000,
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC7A4BA0DFE60131782168A86D17958E": {
+      "position": 2000,
+      "depth": 1,
+      "altStatementNotation": "MP.1",
+      "comments": [
+        "Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
+      ],
+      "asnIdentifier": "S2501121",
+      "statementNotation": "CCSS.Math.Practice.MP1",
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "description": "Make sense of problems and persevere in solving them.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP1"
+      ],
+      "id": "BC7A4BA0DFE60131782168A86D17958E",
+      "ancestorIds": [
+        "BC79EB90DFE60131782068A86D17958E"
+      ],
+      "parentId": "BC79EB90DFE60131782068A86D17958E"
+    },
+    "BC79EB90DFE60131782068A86D17958E": {
+      "id": "BC79EB90DFE60131782068A86D17958E",
+      "asnIdentifier": "S2501120",
+      "position": 1000,
+      "depth": 0,
+      "description": "Standards for Mathematical Practice",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

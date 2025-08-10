@@ -1,0 +1,591 @@
+{
+  "id": "764F880A83884DF8B87BAF3923F817B7",
+  "title": "Big Idea #1 - Perception: Grades 9-12",
+  "subject": "AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "AI4K12-Big-Idea-1-Progression-Chart-Working-Draft-of-Big-Idea-1-v.5.28.2020.pdf",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recxcTKIhgIFhboVS/fldIxltCXshIi374r/attGRivtSLFLBUtiE?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "A87416D0787F418C9A7341003769A6DF": {
+      "id": "A87416D0787F418C9A7341003769A6DF",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Dark or low contrast facial features are\nharder to recognize than bright, high contrast\nfeatures. Children's speech is in a higher register\nand less clearly articulated than adult speech. ",
+      "comments": [],
+      "ancestorIds": [
+        "AA7FEDD7194A4BCFB9F662FB0D1A31B4",
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "AA7FEDD7194A4BCFB9F662FB0D1A31B4"
+    },
+    "A5DF74F245574A299CF30F5B6E6B81AB": {
+      "id": "A5DF74F245574A299CF30F5B6E6B81AB",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe some of the technical difficulties in\nmaking computer perception systems function\nwell for diverse groups. ",
+      "comments": [],
+      "ancestorIds": [
+        "AA7FEDD7194A4BCFB9F662FB0D1A31B4",
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "AA7FEDD7194A4BCFB9F662FB0D1A31B4"
+    },
+    "AA7FEDD7194A4BCFB9F662FB0D1A31B4": {
+      "id": "AA7FEDD7194A4BCFB9F662FB0D1A31B4",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Inclusivity)",
+      "comments": [],
+      "ancestorIds": [
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "3086706FF9574FCB8FE3E717B9E53869"
+    },
+    "CD7ABA0406F74CEC9AEB032F2EE512C3": {
+      "id": "CD7ABA0406F74CEC9AEB032F2EE512C3",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: sample image databases:\n ImageNet: https://image-net.org/\n Coco: http://cocodataset.org/#explore\nWord prediction when typing texts or emails is an\nexample of the use of statistical prediction similar\nto what is found in high level perception systems.\nAnalyzing large collections of images produces\nstatistics about what kinds of objects are likely to\nco-occur in a scene. ",
+      "comments": [],
+      "ancestorIds": [
+        "A7B8ACDC5EFB45F2AEF60C68DC90A7BB",
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "A7B8ACDC5EFB45F2AEF60C68DC90A7BB"
+    },
+    "E3AE60167CD34F8DBEF6FA7A780C42F1": {
+      "id": "E3AE60167CD34F8DBEF6FA7A780C42F1",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Domain knowledge in AI systems is often\nderived from statistics collected from millions of\nsentences or images.",
+      "comments": [],
+      "ancestorIds": [
+        "A7B8ACDC5EFB45F2AEF60C68DC90A7BB",
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "A7B8ACDC5EFB45F2AEF60C68DC90A7BB"
+    },
+    "F8FA4C5A22E54FA4AA27A3D256D04216": {
+      "id": "F8FA4C5A22E54FA4AA27A3D256D04216",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Analyze one or more online image datasets\nand describe the information the datasets provide\nand how this can be used to extract domain\nknowledge for a computer vision system. ",
+      "comments": [],
+      "ancestorIds": [
+        "A7B8ACDC5EFB45F2AEF60C68DC90A7BB",
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "A7B8ACDC5EFB45F2AEF60C68DC90A7BB"
+    },
+    "A7B8ACDC5EFB45F2AEF60C68DC90A7BB": {
+      "id": "A7B8ACDC5EFB45F2AEF60C68DC90A7BB",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Types of Domain\nKnowledge) ",
+      "comments": [],
+      "ancestorIds": [
+        "3086706FF9574FCB8FE3E717B9E53869"
+      ],
+      "parentId": "3086706FF9574FCB8FE3E717B9E53869"
+    },
+    "3086706FF9574FCB8FE3E717B9E53869": {
+      "id": "3086706FF9574FCB8FE3E717B9E53869",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Domain Knowledge",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "572F881D0D66440A87A434DDB2BAD745": {
+      "id": "572F881D0D66440A87A434DDB2BAD745",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "1.B.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Scenes are composed of objects, which are\ncomposed of surfaces and boundaries.\nBoundaries are marked by contours, which are\ncomposed of edges, which are made up of pixels.\nRelationships between objects in a scene, such\nas one object occluding another, are inferred\nfrom the arrangement of their surfaces and\nboundaries. ",
+      "comments": [],
+      "ancestorIds": [
+        "7662A44B6F9B40B1B8DD373BEB6D17F1",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "7662A44B6F9B40B1B8DD373BEB6D17F1"
+    },
+    "F4F1AC38A4AC4AE9B6648F492FCA35A3": {
+      "id": "F4F1AC38A4AC4AE9B6648F492FCA35A3",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "1.B.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Demonstrate how perceptual reasoning at a\nhigher level of abstraction draws upon earlier,\nlower levels of abstraction. ",
+      "comments": [],
+      "ancestorIds": [
+        "7662A44B6F9B40B1B8DD373BEB6D17F1",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "7662A44B6F9B40B1B8DD373BEB6D17F1"
+    },
+    "7662A44B6F9B40B1B8DD373BEB6D17F1": {
+      "id": "7662A44B6F9B40B1B8DD373BEB6D17F1",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction Pipeline:\nVision)",
+      "comments": [],
+      "ancestorIds": [
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "EE3900555B0442529C64CEACC4131082"
+    },
+    "8880D449EB9E4CC7839BF8CCFBE60AAD": {
+      "id": "8880D449EB9E4CC7839BF8CCFBE60AAD",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.B.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: To go from noisy, ambiguous signals\nto meaning requires recognizing structure and\napplying domain knowledge at multiple levels of\nabstraction. A classic example: the sentences\n\"How to recognize speech\" and \"How to wreck a\nnice beach\" are virtually identical at the waveform\nlevel. ",
+      "comments": [],
+      "ancestorIds": [
+        "2927F80D30BB45A8946A2A843AA5A7BA",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "2927F80D30BB45A8946A2A843AA5A7BA"
+    },
+    "77EC923966C54993880F47AD85765EBB": {
+      "id": "77EC923966C54993880F47AD85765EBB",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.B.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The spoken language hierarchy is:\nwaveforms -> articulatory gestures -> sounds ->\nmorphemes -> words -> phrases -> sentences. ",
+      "comments": [],
+      "ancestorIds": [
+        "2927F80D30BB45A8946A2A843AA5A7BA",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "2927F80D30BB45A8946A2A843AA5A7BA"
+    },
+    "FA7B778D5CB247DA9F40B0158AC25D2D": {
+      "id": "FA7B778D5CB247DA9F40B0158AC25D2D",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.B.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate the abstraction hierarchy for speech\nunderstanding, from waveforms to sentences,\nshowing how knowledge at each level is used to\nresolve ambiguities in the levels below. ",
+      "comments": [],
+      "ancestorIds": [
+        "2927F80D30BB45A8946A2A843AA5A7BA",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "2927F80D30BB45A8946A2A843AA5A7BA"
+    },
+    "2927F80D30BB45A8946A2A843AA5A7BA": {
+      "id": "2927F80D30BB45A8946A2A843AA5A7BA",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction Pipeline:\nLanguage)",
+      "comments": [],
+      "ancestorIds": [
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "EE3900555B0442529C64CEACC4131082"
+    },
+    "EDFE71D7BB72450B89B03D5BBB10E144": {
+      "id": "EDFE71D7BB72450B89B03D5BBB10E144",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Different formant patterns are\nassociated with different speech sounds, i.e.,\ndifferent vowels and consonants. ",
+      "comments": [],
+      "ancestorIds": [
+        "7D11E0BBE46444D5A2A7F983FE4CA79C",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "7D11E0BBE46444D5A2A7F983FE4CA79C"
+    },
+    "84D890571B444C66BBD47A455D7D69E0": {
+      "id": "84D890571B444C66BBD47A455D7D69E0",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: A speech spectrogram shows the energy\npresent in a waveform in various frequency\nbands. Formants are auditory features defined as\nregions of concentrated energy in the\nspectrogram. Feature extraction from images\nbegins with detecting edges in the image, or\nintensity gradients at multiple scales. ",
+      "comments": [],
+      "ancestorIds": [
+        "7D11E0BBE46444D5A2A7F983FE4CA79C",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "7D11E0BBE46444D5A2A7F983FE4CA79C"
+    },
+    "E627068A08404C1EB615094CED3B8E4B": {
+      "id": "E627068A08404C1EB615094CED3B8E4B",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain how features are extracted from\nwaveforms and images. ",
+      "comments": [],
+      "ancestorIds": [
+        "7D11E0BBE46444D5A2A7F983FE4CA79C",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "7D11E0BBE46444D5A2A7F983FE4CA79C"
+    },
+    "7D11E0BBE46444D5A2A7F983FE4CA79C": {
+      "id": "7D11E0BBE46444D5A2A7F983FE4CA79C",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature Extraction)",
+      "comments": [],
+      "ancestorIds": [
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "EE3900555B0442529C64CEACC4131082"
+    },
+    "253061C4566A486789C23266ED75B4D9": {
+      "id": "253061C4566A486789C23266ED75B4D9",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Many devices and services rely on\nspecialized perception algorithms, e.g., license\nplate readers, zip code readers, face-based\nphone unlocking, tagging people in Facebook\nposts, object identification (e.g., Google Lens), or\nvoice-based customer service. ",
+      "comments": [],
+      "ancestorIds": [
+        "2A58AC6193624DC38219A3FD1051A56D",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "2A58AC6193624DC38219A3FD1051A56D"
+    },
+    "E89099C1603E422A98338A5A91D4D85A": {
+      "id": "E89099C1603E422A98338A5A91D4D85A",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain perception algorithms and how they\nare used in real-world applications.",
+      "comments": [],
+      "ancestorIds": [
+        "2A58AC6193624DC38219A3FD1051A56D",
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "2A58AC6193624DC38219A3FD1051A56D"
+    },
+    "2A58AC6193624DC38219A3FD1051A56D": {
+      "id": "2A58AC6193624DC38219A3FD1051A56D",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Sensing vs.\nPerception)",
+      "comments": [],
+      "ancestorIds": [
+        "EE3900555B0442529C64CEACC4131082"
+      ],
+      "parentId": "EE3900555B0442529C64CEACC4131082"
+    },
+    "EE3900555B0442529C64CEACC4131082": {
+      "id": "EE3900555B0442529C64CEACC4131082",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Processing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "874197E45F12426AB72622A9E6942D00": {
+      "id": "874197E45F12426AB72622A9E6942D00",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Radar and lidar measure distance as\nthe time for a reflected signal to return to the\ntransceiver. GPS determines position by\ntriangulating precisely timed signals from three or\nmore satellites. Accelerometers use orthogonally\noriented strain gauges to measure acceleration in\nthree dimensions. ",
+      "comments": [],
+      "ancestorIds": [
+        "CD113E42E3B14191BF2FC64A2879D681",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "CD113E42E3B14191BF2FC64A2879D681"
+    },
+    "C30714E36D1D41729F541FE3E9ABB1C4": {
+      "id": "C30714E36D1D41729F541FE3E9ABB1C4",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Radar and lidar do depth imaging: each pixel\nis a depth value. GPS triangulates position using\nsatellite signals and gives a location as longitude\nand lattitude. Accelerometers measure\naccleration in 3 orthogonal dimensions.",
+      "comments": [],
+      "ancestorIds": [
+        "CD113E42E3B14191BF2FC64A2879D681",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "CD113E42E3B14191BF2FC64A2879D681"
+    },
+    "DC4A73F814CC4092BA68E714F07D10D6": {
+      "id": "DC4A73F814CC4092BA68E714F07D10D6",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain how radar, lidar, GPS, and\naccelerometer data are represented. ",
+      "comments": [],
+      "ancestorIds": [
+        "CD113E42E3B14191BF2FC64A2879D681",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "CD113E42E3B14191BF2FC64A2879D681"
+    },
+    "CD113E42E3B14191BF2FC64A2879D681": {
+      "id": "CD113E42E3B14191BF2FC64A2879D681",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Digital Encoding)",
+      "comments": [],
+      "ancestorIds": [
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "05BF38E421A6453882F6A05706CFF04A"
+    },
+    "ED5210FA3B404433B022BA93F6CA9686": {
+      "id": "ED5210FA3B404433B022BA93F6CA9686",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Cameras have limited resolution,\ndynamic range, and spectral sensitivity.\nMicrophones have limited sensitivity and\nfrequency response. Signals may be degraded\nby noise, such as a microphone in a noisy\nenvironment. Some sensors can detect things\nthat people cannot, such as infrared or ultraviolet\nimagery, or ultrasonic sounds. ",
+      "comments": [],
+      "ancestorIds": [
+        "5CFA2900BA18434CBFD24BE1A9D486E2",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "5CFA2900BA18434CBFD24BE1A9D486E2"
+    },
+    "6BADB7AEBF6C4368B5E6F07F9710ED69": {
+      "id": "6BADB7AEBF6C4368B5E6F07F9710ED69",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Sensors are devices that measure physical\nphenomena such as light, sound, temperature, or\npressure. ",
+      "comments": [],
+      "ancestorIds": [
+        "5CFA2900BA18434CBFD24BE1A9D486E2",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "5CFA2900BA18434CBFD24BE1A9D486E2"
+    },
+    "EBACF3F233F04C72A81149980D1E0807": {
+      "id": "EBACF3F233F04C72A81149980D1E0807",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe the limitations and advantages of\nvarious types of computer sensors. ",
+      "comments": [],
+      "ancestorIds": [
+        "5CFA2900BA18434CBFD24BE1A9D486E2",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "5CFA2900BA18434CBFD24BE1A9D486E2"
+    },
+    "5CFA2900BA18434CBFD24BE1A9D486E2": {
+      "id": "5CFA2900BA18434CBFD24BE1A9D486E2",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Computer Sensors)",
+      "comments": [],
+      "ancestorIds": [
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "05BF38E421A6453882F6A05706CFF04A"
+    },
+    "B3F26A4DBA5143E7AE9D509EDBB46138": {
+      "id": "B3F26A4DBA5143E7AE9D509EDBB46138",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "N/A -- for AI purposes, this topic has already\nbeen adequately addressed in the lower grade\nbands. Other courses, such as biology or an\nelective on sensory psychology, could go into\nmore detail about topics such as taste, smell,\nproprioception, and vestibular organs.\nPossible enrichment material: look at optical\nillusions (Muller-Lyer illusion, Kanizsa triangle)\nand ask which ones are computer vision systems\nalso subject to. ",
+      "comments": [],
+      "ancestorIds": [
+        "09CDA3A39D9B4EF4861B9C2DD8CD4158",
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "09CDA3A39D9B4EF4861B9C2DD8CD4158"
+    },
+    "09CDA3A39D9B4EF4861B9C2DD8CD4158": {
+      "id": "09CDA3A39D9B4EF4861B9C2DD8CD4158",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Living Things)",
+      "comments": [],
+      "ancestorIds": [
+        "05BF38E421A6453882F6A05706CFF04A"
+      ],
+      "parentId": "05BF38E421A6453882F6A05706CFF04A"
+    },
+    "05BF38E421A6453882F6A05706CFF04A": {
+      "id": "05BF38E421A6453882F6A05706CFF04A",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sensing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

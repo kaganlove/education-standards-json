@@ -1,0 +1,607 @@
+{
+  "id": "0EAF170DA8EF466B99B09AD21499CA60",
+  "title": "Big Idea #1 - Perception: Grades 6-8",
+  "subject": "AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "06",
+    "07",
+    "08"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "AI4K12-Big-Idea-1-Progression-Chart-Working-Draft-of-Big-Idea-1-v.5.28.2020.pdf",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recxcTKIhgIFhboVS/fldIxltCXshIi374r/attGRivtSLFLBUtiE?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "0F7C15D580224BAE9854120EBE365FED": {
+      "id": "0F7C15D580224BAE9854120EBE365FED",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: A self-driving car that only knows\nabout American traffic signs will not be able to\nrecognize traffic signs in Europe or Asia.",
+      "comments": [],
+      "ancestorIds": [
+        "C63CA349957D484C906DCC0A08BE02FA",
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "C63CA349957D484C906DCC0A08BE02FA"
+    },
+    "DB36895E5BFB4C358A56D65F51579C4C": {
+      "id": "DB36895E5BFB4C358A56D65F51579C4C",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Domain knowledge must take multiple\ncultures into account if an AI application is to\nserve diverse groups. ",
+      "comments": [],
+      "ancestorIds": [
+        "C63CA349957D484C906DCC0A08BE02FA",
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "C63CA349957D484C906DCC0A08BE02FA"
+    },
+    "0E7393643FA746BE84B5879956484880": {
+      "id": "0E7393643FA746BE84B5879956484880",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.C.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe how a vision system might exhibit\ncultural bias if it lacked knowledge of objects not\nfound in the culture of the people who created it.",
+      "comments": [],
+      "ancestorIds": [
+        "C63CA349957D484C906DCC0A08BE02FA",
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "C63CA349957D484C906DCC0A08BE02FA"
+    },
+    "C63CA349957D484C906DCC0A08BE02FA": {
+      "id": "C63CA349957D484C906DCC0A08BE02FA",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Inclusivity)",
+      "comments": [],
+      "ancestorIds": [
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "DD0787A068014573972B95DCFB668BD0"
+    },
+    "7C48B360FCED4E6A952F64CD681EE8B8": {
+      "id": "7C48B360FCED4E6A952F64CD681EE8B8",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: In a traffic scene, cars appear on\nroads, some traffic signs appear alongside of\nroads but not in the road, some signs appear\nabove the road, and pedestrians appear on\nsidewalks, in crosswalks, and occasionally on\nroads. In a nature scene, the top of the image is\nlikely to be blue sky and the bottom of the image\nis likely to be green grass or trees.",
+      "comments": [],
+      "ancestorIds": [
+        "AB4AFDA12E244FFB89DF7C7BFDCB8B93",
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "AB4AFDA12E244FFB89DF7C7BFDCB8B93"
+    },
+    "FFDC65FD320A4E8294B25CD16FB6ECD8": {
+      "id": "FFDC65FD320A4E8294B25CD16FB6ECD8",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Domain knowledge for vision includes\nknowing what kinds of objects are likely to appear\nin a scene, where they are likely to appear in\nrelation to other objects, and how occlusions and\nshadows can alter object appearances. ",
+      "comments": [],
+      "ancestorIds": [
+        "AB4AFDA12E244FFB89DF7C7BFDCB8B93",
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "AB4AFDA12E244FFB89DF7C7BFDCB8B93"
+    },
+    "3AE1386EE1D244B09D4FAD80CABA8B24": {
+      "id": "3AE1386EE1D244B09D4FAD80CABA8B24",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.C.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Classify a given image (e.g., \"traffic scene\",\n\"nature scene\", \"social gathering\", etc.) and then\ndescribe the kinds of knowledge a computer\nwould need in order to understand scenes of this\ntype. ",
+      "comments": [],
+      "ancestorIds": [
+        "AB4AFDA12E244FFB89DF7C7BFDCB8B93",
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "AB4AFDA12E244FFB89DF7C7BFDCB8B93"
+    },
+    "AB4AFDA12E244FFB89DF7C7BFDCB8B93": {
+      "id": "AB4AFDA12E244FFB89DF7C7BFDCB8B93",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Types of Domain\nKnowledge)",
+      "comments": [],
+      "ancestorIds": [
+        "DD0787A068014573972B95DCFB668BD0"
+      ],
+      "parentId": "DD0787A068014573972B95DCFB668BD0"
+    },
+    "DD0787A068014573972B95DCFB668BD0": {
+      "id": "DD0787A068014573972B95DCFB668BD0",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Domain Knowledge",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "227134FBA1F14C73B110D664A5F43E4A": {
+      "id": "227134FBA1F14C73B110D664A5F43E4A",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "1.B.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Example: detecting an \"A\" by looking\nfor a combination of three oriented edges. Edges\nare detected by looking at pixels.",
+      "comments": [],
+      "ancestorIds": [
+        "F110FD55D04243358B75EF99507537E6",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "F110FD55D04243358B75EF99507537E6"
+    },
+    "D836D1BB5AD34C179788E1B6C9CBACCB": {
+      "id": "D836D1BB5AD34C179788E1B6C9CBACCB",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "1.B.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The progression from signal to meaning\ntakes place in stages, with increasingly complex\nfeatures extracted at each stage.",
+      "comments": [],
+      "ancestorIds": [
+        "F110FD55D04243358B75EF99507537E6",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "F110FD55D04243358B75EF99507537E6"
+    },
+    "B7821E2E607A448DA79C610F2B5703B5": {
+      "id": "B7821E2E607A448DA79C610F2B5703B5",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "1.B.iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe how edge detectors can be\ncomposed to form more complex feature\ndetectors, e.g., for letters or shapes. ",
+      "comments": [],
+      "ancestorIds": [
+        "F110FD55D04243358B75EF99507537E6",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "F110FD55D04243358B75EF99507537E6"
+    },
+    "F110FD55D04243358B75EF99507537E6": {
+      "id": "F110FD55D04243358B75EF99507537E6",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction Pipeline:\nVision)",
+      "comments": [],
+      "ancestorIds": [
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "219C55A95F7E4FD3854053107FA0236E"
+    },
+    "0A95ECF930C44BE2BCB0C04FBF1FD47D": {
+      "id": "0A95ECF930C44BE2BCB0C04FBF1FD47D",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.B.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: in a three-word phrase, if the first\nword might be \"seat\" or \"sea\" or \"see\", the\nsecond word might be \"the\" or \"a\" or \"of\", and the\nthird word might be \"moody\" or \"movie\", then the\nmost likely phrase is \"see the movie\" because it's\nboth grammatical and statistically common.\nAlternatives such as \"seat a moody\" sound\nsimilar, but are neither grammatical nor\nstatistically common. ",
+      "comments": [],
+      "ancestorIds": [
+        "5CAB71D18E194EBA8E8601C79F018FBD",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "5CAB71D18E194EBA8E8601C79F018FBD"
+    },
+    "3379192EABFE4053AC07999D5BB7FB5F": {
+      "id": "3379192EABFE4053AC07999D5BB7FB5F",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.B.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Information at higher levels of representation\ncan be used to resolve ambiguities in lower levels\nof the language abstraction pipeline. ",
+      "comments": [],
+      "ancestorIds": [
+        "5CAB71D18E194EBA8E8601C79F018FBD",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "5CAB71D18E194EBA8E8601C79F018FBD"
+    },
+    "52F9C51AC64E47EAAD93C558E0311D78": {
+      "id": "52F9C51AC64E47EAAD93C558E0311D78",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.B.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate how sequences of words can be\nrecognized as phrases, even if some of the\nwords are unclear, by looking at how the words fit\ntogether. ",
+      "comments": [],
+      "ancestorIds": [
+        "5CAB71D18E194EBA8E8601C79F018FBD",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "5CAB71D18E194EBA8E8601C79F018FBD"
+    },
+    "5CAB71D18E194EBA8E8601C79F018FBD": {
+      "id": "5CAB71D18E194EBA8E8601C79F018FBD",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction Pipeline:\nLanguage) ",
+      "comments": [],
+      "ancestorIds": [
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "219C55A95F7E4FD3854053107FA0236E"
+    },
+    "F07BA5DD5585436691A660A2DBA415A5": {
+      "id": "F07BA5DD5585436691A660A2DBA415A5",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Locations and orientations of edges in an\nimage are features that can be detected by\nlooking for specific arrangements of light and\ndark pixels in a small (local) area. ",
+      "comments": [],
+      "ancestorIds": [
+        "70A6B4141EF74A86BDCA2C87FBCEB5C1",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "70A6B4141EF74A86BDCA2C87FBCEB5C1"
+    },
+    "88023E883B854B43A04BC662C9830C91": {
+      "id": "88023E883B854B43A04BC662C9830C91",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.B.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate the concept of feature extraction\nfrom images by simulating an edge detector.",
+      "comments": [],
+      "ancestorIds": [
+        "70A6B4141EF74A86BDCA2C87FBCEB5C1",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "70A6B4141EF74A86BDCA2C87FBCEB5C1"
+    },
+    "70A6B4141EF74A86BDCA2C87FBCEB5C1": {
+      "id": "70A6B4141EF74A86BDCA2C87FBCEB5C1",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature Extraction)",
+      "comments": [],
+      "ancestorIds": [
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "219C55A95F7E4FD3854053107FA0236E"
+    },
+    "A2E68F1BB53D4CE28AFD48B5A2D54DB5": {
+      "id": "A2E68F1BB53D4CE28AFD48B5A2D54DB5",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: There are many specialized algorithms for\nperceptual tasks, such as face detection, facial\nexpression recognition, object recognition,\nobstacle detection, speech recognition, vocal\nstress measurement, music recognition, etc. ",
+      "comments": [],
+      "ancestorIds": [
+        "0DE5FD6BF6364925B7C6CAF316A86264",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "0DE5FD6BF6364925B7C6CAF316A86264"
+    },
+    "316D8C5AB39D48F1A0BB61E88D5DC02B": {
+      "id": "316D8C5AB39D48F1A0BB61E88D5DC02B",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.B.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Give examples of diferent types of computer\nperception that can extract meaning from sensory\nsignals. ",
+      "comments": [],
+      "ancestorIds": [
+        "0DE5FD6BF6364925B7C6CAF316A86264",
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "0DE5FD6BF6364925B7C6CAF316A86264"
+    },
+    "0DE5FD6BF6364925B7C6CAF316A86264": {
+      "id": "0DE5FD6BF6364925B7C6CAF316A86264",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Sensing vs.\nPerception) ",
+      "comments": [],
+      "ancestorIds": [
+        "219C55A95F7E4FD3854053107FA0236E"
+      ],
+      "parentId": "219C55A95F7E4FD3854053107FA0236E"
+    },
+    "219C55A95F7E4FD3854053107FA0236E": {
+      "id": "219C55A95F7E4FD3854053107FA0236E",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Processing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "60326BC4E1CB47EDB5F73AEF3991047E": {
+      "id": "60326BC4E1CB47EDB5F73AEF3991047E",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Sounds are digitally encoded by sampling\nthe waveform at discrete points (typically several\nthousand samples per second), yielding a series\nof numbers. ",
+      "comments": [],
+      "ancestorIds": [
+        "C9604CE62D5F46618D37647ADB36ADC1",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "C9604CE62D5F46618D37647ADB36ADC1"
+    },
+    "1EC11E2FA99E4FBB945D28D9BF446F73": {
+      "id": "1EC11E2FA99E4FBB945D28D9BF446F73",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "1.A.iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Explain how sounds are represented digitally\nin a computer. ",
+      "comments": [],
+      "ancestorIds": [
+        "C9604CE62D5F46618D37647ADB36ADC1",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "C9604CE62D5F46618D37647ADB36ADC1"
+    },
+    "C9604CE62D5F46618D37647ADB36ADC1": {
+      "id": "C9604CE62D5F46618D37647ADB36ADC1",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Digital Encoding)",
+      "comments": [],
+      "ancestorIds": [
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "03CE5D322E3C490ABA782F80BD061ADA"
+    },
+    "D16084EF0F364E1EBB4A1B31E5E24399": {
+      "id": "D16084EF0F364E1EBB4A1B31E5E24399",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Self driving cars combine computer vision\nwith radar or lidar imaging. GPS measurement,\nand accelerometer data to form a detailed\nrepresentation of the environment and their\nmotion through it. ",
+      "comments": [],
+      "ancestorIds": [
+        "DE0C52A35A394B959342FD026EB78BD8",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "DE0C52A35A394B959342FD026EB78BD8"
+    },
+    "5DCB5D5984FE40D4A6A7671DA435511D": {
+      "id": "5DCB5D5984FE40D4A6A7671DA435511D",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "1.A.ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Give examples of how intelligent agents\ncombine information from multiple sensors.",
+      "comments": [],
+      "ancestorIds": [
+        "DE0C52A35A394B959342FD026EB78BD8",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "DE0C52A35A394B959342FD026EB78BD8"
+    },
+    "DE0C52A35A394B959342FD026EB78BD8": {
+      "id": "DE0C52A35A394B959342FD026EB78BD8",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Computer Sensors)",
+      "comments": [],
+      "ancestorIds": [
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "03CE5D322E3C490ABA782F80BD061ADA"
+    },
+    "7B757B594131419497624700E879D5AD": {
+      "id": "7B757B594131419497624700E879D5AD",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: In a noisy environment, speech is\nmore understandable when the speaker's mouth\nis visible. People learn the sounds associated\nwith various actions (such as dropping an object)\nand can recognize when the sound doesn't match\ntheir expectation. ",
+      "comments": [],
+      "ancestorIds": [
+        "BE3C0B96D5FD469C9D2C71D5EAA68D1F",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "BE3C0B96D5FD469C9D2C71D5EAA68D1F"
+    },
+    "D52A4935D0BB4F99B059D7D1A42B7DA8": {
+      "id": "D52A4935D0BB4F99B059D7D1A42B7DA8",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: People can exploit correlations between\nsenses, such as sight and sound, to make sense\nof ambiguous signals. ",
+      "comments": [],
+      "ancestorIds": [
+        "BE3C0B96D5FD469C9D2C71D5EAA68D1F",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "BE3C0B96D5FD469C9D2C71D5EAA68D1F"
+    },
+    "23F25CF7036644CC941C2A4D01822613": {
+      "id": "23F25CF7036644CC941C2A4D01822613",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "1.A.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Give examples of how humans combine\ninformation from muliple modalities.\n",
+      "comments": [],
+      "ancestorIds": [
+        "BE3C0B96D5FD469C9D2C71D5EAA68D1F",
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "BE3C0B96D5FD469C9D2C71D5EAA68D1F"
+    },
+    "BE3C0B96D5FD469C9D2C71D5EAA68D1F": {
+      "id": "BE3C0B96D5FD469C9D2C71D5EAA68D1F",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Living Things)",
+      "comments": [],
+      "ancestorIds": [
+        "03CE5D322E3C490ABA782F80BD061ADA"
+      ],
+      "parentId": "03CE5D322E3C490ABA782F80BD061ADA"
+    },
+    "03CE5D322E3C490ABA782F80BD061ADA": {
+      "id": "03CE5D322E3C490ABA782F80BD061ADA",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sensing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "id": "10023236A36146EA95C86865F78A03FD",
+  "title": "Programming Design and Development (2022)",
+  "subject": "CTE",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Alabama Course of Study Career and Technical Education",
+    "sourceURL": "https://www.alabamaachieves.org/wp-content/uploads/2023/08/INSER_2022215_IT-COS_V1.0.pdf",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "B838B98D043045748F3814B9E43CAC85",
+    "title": "Alabama"
+  },
+  "standards": {
+    "5E172D41443042B6BF8B9068F4492B11": {
+      "id": "5E172D41443042B6BF8B9068F4492B11",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "20",
+      "statementNotation": "PDD.SD.20",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct multidimensional arrays and use the input and output data to solve a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "3A59C9379F21414A9C56FBEEF40B6957": {
+      "id": "3A59C9379F21414A9C56FBEEF40B6957",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: changing the number of arguments to determine which instance of the class will be created",
+      "comments": [],
+      "ancestorIds": [
+        "CC591C6348C34888B30C3A6DCF733B83",
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "CC591C6348C34888B30C3A6DCF733B83"
+    },
+    "CC591C6348C34888B30C3A6DCF733B83": {
+      "id": "CC591C6348C34888B30C3A6DCF733B83",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "19",
+      "statementNotation": "PDD.SD.19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop class constructors using method overloading concepts. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "7F72C2C3365F45FC80656B7437151AED": {
+      "id": "7F72C2C3365F45FC80656B7437151AED",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 1,
+      "listId": "18",
+      "statementNotation": "PDD.SD.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct recursive algorithms to solve a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "3F51D7913FFE4118A6B7CA767EFF87F9": {
+      "id": "3F51D7913FFE4118A6B7CA767EFF87F9",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "17",
+      "statementNotation": "PDD.SD.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create complex applications using input, calculations, output, control structures, and data structures.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "78A9690BE37D4D879BF4026B73D9F8A5": {
+      "id": "78A9690BE37D4D879BF4026B73D9F8A5",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Example: Use BigO notation to determine whether an algorithm is both correct and efficient.",
+      "comments": [],
+      "ancestorIds": [
+        "586638EF882A4212BBD1BE6FB34FC212",
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "586638EF882A4212BBD1BE6FB34FC212"
+    },
+    "586638EF882A4212BBD1BE6FB34FC212": {
+      "id": "586638EF882A4212BBD1BE6FB34FC212",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "16",
+      "statementNotation": "PDD.SD.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize mathematical formulas to assess the efficiency of sorting and searching algorithms and choose the more efficient one to use in a given situation. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "BEFD057B004F42C88C2656C5BBFB7D53": {
+      "id": "BEFD057B004F42C88C2656C5BBFB7D53",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: linear, binary, jump, interpolation, exponential, ternary",
+      "comments": [],
+      "ancestorIds": [
+        "E92ECE17B91F476FB9ECA342F0D45C48",
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "E92ECE17B91F476FB9ECA342F0D45C48"
+    },
+    "E92ECE17B91F476FB9ECA342F0D45C48": {
+      "id": "E92ECE17B91F476FB9ECA342F0D45C48",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "15",
+      "statementNotation": "PDD.SD.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize efficient searching algorithms to solve a given problem. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "3C795142BAE149F2B27D45211BC23F32": {
+      "id": "3C795142BAE149F2B27D45211BC23F32",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "14",
+      "statementNotation": "PDD.SD.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Debug processes within a program by identifying and locating the problem, removing the faulty source code, and repairing the code.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "4751D877481144A69E19D3FF11D8ABB3": {
+      "id": "4751D877481144A69E19D3FF11D8ABB3",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "13",
+      "statementNotation": "PDD.SD.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create an algorithm that includes an input and an output to solve a real-world problem.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "40024D95CFAD42C291CB7C184A0353B0": {
+      "id": "40024D95CFAD42C291CB7C184A0353B0",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "12",
+      "statementNotation": "PDD.SD.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize Boolean operators, mathematical operators, and relational operators in creating program code.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "AAAFA0190B774D64907F64FDD09AB361": {
+      "id": "AAAFA0190B774D64907F64FDD09AB361",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: logical reasoning, order of operations, functional reasoning, proportional reasoning",
+      "comments": [],
+      "ancestorIds": [
+        "4A0943238F5D43C3B0D386D053CC69D8",
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "4A0943238F5D43C3B0D386D053CC69D8"
+    },
+    "4A0943238F5D43C3B0D386D053CC69D8": {
+      "id": "4A0943238F5D43C3B0D386D053CC69D8",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "PDD.SD.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integrate mathematical concepts into a program by writing the code, performing unit testing, and debugging the program. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "97418E32826E45849E6C5A3EE00D4755": {
+      "id": "97418E32826E45849E6C5A3EE00D4755",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: if-else statements, comparison",
+      "comments": [],
+      "ancestorIds": [
+        "C391CF0296D441F9898131470CF4E27E",
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "C391CF0296D441F9898131470CF4E27E"
+    },
+    "C391CF0296D441F9898131470CF4E27E": {
+      "id": "C391CF0296D441F9898131470CF4E27E",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "PDD.SD.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design a program that uses data, functions, looping and iteration, sequencing, abstraction, list, and selection. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "2AD0B3FC1346460B83F361B9FA026838": {
+      "id": "2AD0B3FC1346460B83F361B9FA026838",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "PDD.SD.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create an advanced algorithm using plain language and incorporating pseudocode to solve a real-world programming problem.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "E884CC44F3E345B9BBDAA987721EEFCA": {
+      "id": "E884CC44F3E345B9BBDAA987721EEFCA",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "PDD.SD.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a software program that demonstrates input/output, processing, and storage in order to outline the flow of data for each phase.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "F16F7E89C1FC42808C0096788DFECEB4": {
+      "id": "F16F7E89C1FC42808C0096788DFECEB4",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "PDD.SD.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct console and file input and output, functions, arrays, and strings.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "89D5D44437D64970889EC36B84D31F0E": {
+      "id": "89D5D44437D64970889EC36B84D31F0E",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "PDD.SD.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify program structure, blocks, and storage types according to operational efficiency.",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "4B6C9AABB71B41BE9B7EE2B1C2A3F827": {
+      "id": "4B6C9AABB71B41BE9B7EE2B1C2A3F827",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: IDEs, professional and amateur repositories",
+      "comments": [],
+      "ancestorIds": [
+        "0F288E809A2447A4B6B926ADEA86E913",
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "0F288E809A2447A4B6B926ADEA86E913"
+    },
+    "0F288E809A2447A4B6B926ADEA86E913": {
+      "id": "0F288E809A2447A4B6B926ADEA86E913",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "PDD.SD.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate the effective use of tools for software development. ",
+      "comments": [],
+      "ancestorIds": [
+        "BF683CC34A72469C972A805E5CB56FE5"
+      ],
+      "parentId": "BF683CC34A72469C972A805E5CB56FE5"
+    },
+    "BF683CC34A72469C972A805E5CB56FE5": {
+      "id": "BF683CC34A72469C972A805E5CB56FE5",
+      "asnIdentifier": null,
+      "position": 13001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software\nDesign",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CB18A58EE90A43A98054BE1A832472E1": {
+      "id": "CB18A58EE90A43A98054BE1A832472E1",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "PDD.CS.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Deliver and evaluate basic technical documents, presentations, and group interactions, using a variety of authoring tools and desktop and cloud-based software.",
+      "comments": [],
+      "ancestorIds": [
+        "9F49C7A4DC234D81A00CCE327185C4D0"
+      ],
+      "parentId": "9F49C7A4DC234D81A00CCE327185C4D0"
+    },
+    "7FF73AD3EA2E4A60ACDADBDBD10105E5": {
+      "id": "7FF73AD3EA2E4A60ACDADBDBD10105E5",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examples: quality audits, quality testing, inspection, checkpoint reviews",
+      "comments": [],
+      "ancestorIds": [
+        "4359BE1BDF184D12B3A9F161D4B92162",
+        "9F49C7A4DC234D81A00CCE327185C4D0"
+      ],
+      "parentId": "4359BE1BDF184D12B3A9F161D4B92162"
+    },
+    "4359BE1BDF184D12B3A9F161D4B92162": {
+      "id": "4359BE1BDF184D12B3A9F161D4B92162",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "PDD.CS.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform quality assurance protocols to enable the delivery of working software products according to specifications. ",
+      "comments": [],
+      "ancestorIds": [
+        "9F49C7A4DC234D81A00CCE327185C4D0"
+      ],
+      "parentId": "9F49C7A4DC234D81A00CCE327185C4D0"
+    },
+    "F377BAFA85514D86B11EB0A2F0FDAAF4": {
+      "id": "F377BAFA85514D86B11EB0A2F0FDAAF4",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "PDD.CS.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design an information technology-based project plan utilizing researched strategies to solve a given problem, including aspects of planning and cybersecurity, design implementation, and project management.",
+      "comments": [],
+      "ancestorIds": [
+        "9F49C7A4DC234D81A00CCE327185C4D0"
+      ],
+      "parentId": "9F49C7A4DC234D81A00CCE327185C4D0"
+    },
+    "DDD690F0726A48959245AAF8AD3E58F6": {
+      "id": "DDD690F0726A48959245AAF8AD3E58F6",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Example: Design and utilize a questionnaire to assess customers’ needs.",
+      "comments": [],
+      "ancestorIds": [
+        "F1BFB54C551C40928DB5702DB98A3BAC",
+        "9F49C7A4DC234D81A00CCE327185C4D0"
+      ],
+      "parentId": "F1BFB54C551C40928DB5702DB98A3BAC"
+    },
+    "F1BFB54C551C40928DB5702DB98A3BAC": {
+      "id": "F1BFB54C551C40928DB5702DB98A3BAC",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "PDD.CS.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and collect data to create a solution that aligns with the client's needs and goals. ",
+      "comments": [],
+      "ancestorIds": [
+        "9F49C7A4DC234D81A00CCE327185C4D0"
+      ],
+      "parentId": "9F49C7A4DC234D81A00CCE327185C4D0"
+    },
+    "9F49C7A4DC234D81A00CCE327185C4D0": {
+      "id": "9F49C7A4DC234D81A00CCE327185C4D0",
+      "asnIdentifier": null,
+      "position": 7001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Customer\nService",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7A5236B2C45249D7B771B730529107DD": {
+      "id": "7A5236B2C45249D7B771B730529107DD",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "PDD.FD.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Formulate new ideas, solve problems, or  create products through the design and engineering process by utilizing testing, prototypes, and user feedback.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "C06493BB50614499BDFE102A193F82E5": {
+      "id": "C06493BB50614499BDFE102A193F82E5",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "PDD.FD.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use technology to collaborate with peers and/or experts to create digital artifacts that can be published online for a target audience.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "0133DA2EA2AE4944A601EAFCCF6FDF86": {
+      "id": "0133DA2EA2AE4944A601EAFCCF6FDF86",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "PDD.FD.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Participate in a Career and Technical Student Organization (CTSO) to increase knowledge and skills and to enhance leadership and teamwork.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "6615D079CE1B4D41A7B84C9E1B15B92D": {
+      "id": "6615D079CE1B4D41A7B84C9E1B15B92D",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "PDD.FD.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Advocate and practice safe, legal, responsible, and ethical use of  information and technology tools specific to the industry pathway.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "91FF7AA99FD24762A789EFAED44D05F2": {
+      "id": "91FF7AA99FD24762A789EFAED44D05F2",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "PDD.FD.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore the range of careers available in the field and investigate their educational requirements, and demonstrate job-seeking skills including resume-writing and interviewing.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "14790EDB9B124263B4C44D2ED52144BB": {
+      "id": "14790EDB9B124263B4C44D2ED52144BB",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "PDD.FD.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate effective workplace and employability skills, including communication, awareness of diversity, positive work ethic, problem-solving, time management, and teamwork.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "74139A782C1B4C0EBE3DB79E9A301E53": {
+      "id": "74139A782C1B4C0EBE3DB79E9A301E53",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "PDD.FD.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Incorporate safety procedures in handling, operating, and maintaining tools and machinery; handling materials; utilizing personal protective equipment; maintaining a safe work area; and handling hazardous materials and forces.",
+      "comments": [],
+      "ancestorIds": [
+        "BEEEAA5745434DE7953BD8BBB6E74898"
+      ],
+      "parentId": "BEEEAA5745434DE7953BD8BBB6E74898"
+    },
+    "BEEEAA5745434DE7953BD8BBB6E74898": {
+      "id": "BEEEAA5745434DE7953BD8BBB6E74898",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Foundational Standards",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

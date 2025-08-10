@@ -1,0 +1,1167 @@
+{
+  "id": "1BFADC3B840A44548168B9FCAF262BE1",
+  "title": "Game Programming and Design (2022)",
+  "subject": "CTE: Science, Technology, Engineering, and Mathematics (2022-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Game Programming and Design (One Credit)",
+    "sourceURL": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=19&pt=2&ch=127&rl=767"
+  },
+  "jurisdiction": {
+    "id": "28903EF2A9F9469C9BF592D4D0BE10F8",
+    "title": "Texas"
+  },
+  "standards": {
+    "9C1B990042CE41A7B83DEE41E3D84C6B": {
+      "id": "9C1B990042CE41A7B83DEE41E3D84C6B",
+      "asnIdentifier": null,
+      "position": 1067,
+      "depth": 2,
+      "listId": "S",
+      "statementNotation": "c.6.S",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of player progression, including leveling, linear progression, and maintaining high score data.",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "13FAFDC2DA5D470B81BDEBCD161AFAC8": {
+      "id": "13FAFDC2DA5D470B81BDEBCD161AFAC8",
+      "asnIdentifier": null,
+      "position": 1066,
+      "depth": 2,
+      "listId": "R",
+      "statementNotation": "c.6.R",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of game balance and tuning; and",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "44DCBD3D3FE244FE8CAFA26BD6B7427F": {
+      "id": "44DCBD3D3FE244FE8CAFA26BD6B7427F",
+      "asnIdentifier": null,
+      "position": 1065,
+      "depth": 2,
+      "listId": "Q",
+      "statementNotation": "c.6.Q",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of artificial intelligence and develop and implement artificial intelligence;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "5FF171803DF643FAA405CFBFB3C973EB": {
+      "id": "5FF171803DF643FAA405CFBFB3C973EB",
+      "asnIdentifier": null,
+      "position": 1064,
+      "depth": 2,
+      "listId": "P",
+      "statementNotation": "c.6.P",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "implement a tile-based game, including loading tile maps, drawing tile maps, rendering a tile map, and layering sprites;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "88533DA0AEC14D1692A4A7B08EA3BDAA": {
+      "id": "88533DA0AEC14D1692A4A7B08EA3BDAA",
+      "asnIdentifier": null,
+      "position": 1063,
+      "depth": 2,
+      "listId": "O",
+      "statementNotation": "c.6.O",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of and implement collision detection, including bounding boxes and sprite collisions;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "80BE2F2D8F7B43C693BDF22D7CB2BE08": {
+      "id": "80BE2F2D8F7B43C693BDF22D7CB2BE08",
+      "asnIdentifier": null,
+      "position": 1062,
+      "depth": 2,
+      "listId": "N",
+      "statementNotation": "c.6.N",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of game events, including listeners, triggers, and timed events;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "A7718087DFAE4E8B87B495A75C15A09F": {
+      "id": "A7718087DFAE4E8B87B495A75C15A09F",
+      "asnIdentifier": null,
+      "position": 1061,
+      "depth": 2,
+      "listId": "M",
+      "statementNotation": "c.6.M",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of decision making and types of decisions;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "99BFA802EC4B44A693E95CF02197EAFA": {
+      "id": "99BFA802EC4B44A693E95CF02197EAFA",
+      "asnIdentifier": null,
+      "position": 1060,
+      "depth": 2,
+      "listId": "L",
+      "statementNotation": "c.6.L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of and apply game animation, including the principles of animation and frame-based animation;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "33AF3CE64936446DB6F406AD933F2C7A": {
+      "id": "33AF3CE64936446DB6F406AD933F2C7A",
+      "asnIdentifier": null,
+      "position": 1059,
+      "depth": 2,
+      "listId": "K",
+      "statementNotation": "c.6.K",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use game control design to understand, access, and control input devices, including keyboard, mouse, and joystick;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "D65CA1CECEC04E90B013744D53F70E0B": {
+      "id": "D65CA1CECEC04E90B013744D53F70E0B",
+      "asnIdentifier": null,
+      "position": 1058,
+      "depth": 2,
+      "listId": "J",
+      "statementNotation": "c.6.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "apply basic game screen design and layout, including visual controls, user interfaces, menus, and options;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "A8FCD4D5BCFE40698B5FF1905CA6D3B4": {
+      "id": "A8FCD4D5BCFE40698B5FF1905CA6D3B4",
+      "asnIdentifier": null,
+      "position": 1057,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "c.6.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of video display flicker and double buffering;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "822BB83A930E408C8064DD478E774DA3": {
+      "id": "822BB83A930E408C8064DD478E774DA3",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "c.6.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of the role of game engines;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "A08ADE292E3E4AE09F0A72824FA42770": {
+      "id": "A08ADE292E3E4AE09F0A72824FA42770",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "c.6.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of the role of game events, the animation loop, and game timing;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "536E60680D974D6D9516D14894AE7CBB": {
+      "id": "536E60680D974D6D9516D14894AE7CBB",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "c.6.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of game programming essentials, including event-driven programming, communicating with messages, and device management;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "831EBF9540E44EB89C2030F1DDEBAA38": {
+      "id": "831EBF9540E44EB89C2030F1DDEBAA38",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "c.6.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of and apply object-oriented game programming;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "757FE56018C44717AD29DB1D1A01A2C7": {
+      "id": "757FE56018C44717AD29DB1D1A01A2C7",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "c.6.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "develop an appropriate data model;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "BFAF424953D94FE789B1BE3295425842": {
+      "id": "BFAF424953D94FE789B1BE3295425842",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "c.6.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create a program implementing conditional statements;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "C8478EFE89654105B833FCD5A040EC0B": {
+      "id": "C8478EFE89654105B833FCD5A040EC0B",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "c.6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "generate random numbers in a program;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "8C26FC194E5B4556B3F8125E55E836AF": {
+      "id": "8C26FC194E5B4556B3F8125E55E836AF",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "c.6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify basic game components, including the game engine, game play subsystems, data structures, models, and interfaces;",
+      "comments": [],
+      "ancestorIds": [
+        "EC2DECA7F7B84664A99F79842B5ADB89",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "EC2DECA7F7B84664A99F79842B5ADB89"
+    },
+    "EC2DECA7F7B84664A99F79842B5ADB89": {
+      "id": "EC2DECA7F7B84664A99F79842B5ADB89",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "c.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Technology operations and concepts. The student understands technology concepts, systems, and operations as they apply to game programming. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "7286BCD00DD241DDA387D878E03A0793"
+    },
+    "DC6AEC5444464897A8D276B99F8D3EE3": {
+      "id": "DC6AEC5444464897A8D276B99F8D3EE3",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "c.5.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "evaluate the cultural aspects of game design fundamentals, including rationale for games and types of games.",
+      "comments": [],
+      "ancestorIds": [
+        "BFD46ACED1384A7BB83CA8C4B905B34E",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "BFD46ACED1384A7BB83CA8C4B905B34E"
+    },
+    "D0CE12CDEDC946E399A1C7EC2FC446D3": {
+      "id": "D0CE12CDEDC946E399A1C7EC2FC446D3",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "c.5.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "discuss and evaluate the social issues surrounding gaming; and",
+      "comments": [],
+      "ancestorIds": [
+        "BFD46ACED1384A7BB83CA8C4B905B34E",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "BFD46ACED1384A7BB83CA8C4B905B34E"
+    },
+    "5690824AD7CD4F41A3A3C7163ABB1180": {
+      "id": "5690824AD7CD4F41A3A3C7163ABB1180",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "c.5.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "model respect of intellectual property, including manipulating graphics, morphing graphics, editing graphics, and editing sound;",
+      "comments": [],
+      "ancestorIds": [
+        "BFD46ACED1384A7BB83CA8C4B905B34E",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "BFD46ACED1384A7BB83CA8C4B905B34E"
+    },
+    "B6F6ACAE757D436DAF964D4A316A3226": {
+      "id": "B6F6ACAE757D436DAF964D4A316A3226",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "c.5.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate proper digital etiquette when using networks, responsible use of software, and knowledge of acceptable use policies;",
+      "comments": [],
+      "ancestorIds": [
+        "BFD46ACED1384A7BB83CA8C4B905B34E",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "BFD46ACED1384A7BB83CA8C4B905B34E"
+    },
+    "17A45CFA04F546BBA2A99D9268E34274": {
+      "id": "17A45CFA04F546BBA2A99D9268E34274",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "c.5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "model ethical acquisition and use of digital information;",
+      "comments": [],
+      "ancestorIds": [
+        "BFD46ACED1384A7BB83CA8C4B905B34E",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "BFD46ACED1384A7BB83CA8C4B905B34E"
+    },
+    "3194E3C0E6E44A98B5F1DBB249F46D6A": {
+      "id": "3194E3C0E6E44A98B5F1DBB249F46D6A",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "c.5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "explore intellectual property, privacy, sharing of information, copyright laws, and software licensing agreements;",
+      "comments": [],
+      "ancestorIds": [
+        "BFD46ACED1384A7BB83CA8C4B905B34E",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "BFD46ACED1384A7BB83CA8C4B905B34E"
+    },
+    "BFD46ACED1384A7BB83CA8C4B905B34E": {
+      "id": "BFD46ACED1384A7BB83CA8C4B905B34E",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "c.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital citizenship. The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "7286BCD00DD241DDA387D878E03A0793"
+    },
+    "84A4F658F9E7477182FDECE371905878": {
+      "id": "84A4F658F9E7477182FDECE371905878",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "c.4.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "test a finished game product by implementing sound testing techniques.",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "8C778DCCA5B846B68172BBC6CF148B87": {
+      "id": "8C778DCCA5B846B68172BBC6CF148B87",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "c.4.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "write computer game code, resolve game defects, and revise existing game code; and",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "31CAFCBA687243D5AA2B5EFDB9DCD796": {
+      "id": "31CAFCBA687243D5AA2B5EFDB9DCD796",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "c.4.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "develop game software;",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "191EE2B4F344412A958CC59CB0929BEF": {
+      "id": "191EE2B4F344412A958CC59CB0929BEF",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "c.4.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "write game rules and instructions;",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "7157A72E84BA40048294208B2CEB82FC": {
+      "id": "7157A72E84BA40048294208B2CEB82FC",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "c.4.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of the user experience by comparing rules and game-play patterns;",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "849AD7631D66430DB68C856F77960BAF": {
+      "id": "849AD7631D66430DB68C856F77960BAF",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "c.4.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "evaluate game rules and instructions;",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "DE89923C0F4C4437BD7853ED64396E42": {
+      "id": "DE89923C0F4C4437BD7853ED64396E42",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "c.4.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "write programs using variables of different data types;",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "CEFCF765D84F48C9BF041A509CD9E139": {
+      "id": "CEFCF765D84F48C9BF041A509CD9E139",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "c.4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of the game design process, including generating ideas, brainstorming, and paper prototyping;",
+      "comments": [],
+      "ancestorIds": [
+        "278493BE0B39406394B76EA5954AAA34",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "278493BE0B39406394B76EA5954AAA34"
+    },
+    "278493BE0B39406394B76EA5954AAA34": {
+      "id": "278493BE0B39406394B76EA5954AAA34",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "c.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critical thinking, problem solving, and decision making. The student uses appropriate strategies to analyze problems and design algorithms. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "7286BCD00DD241DDA387D878E03A0793"
+    },
+    "9ABFA607DEEE4C58832416D3F2E247F7": {
+      "id": "9ABFA607DEEE4C58832416D3F2E247F7",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "c.3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "research the dramatic elements in games, including kinds of fun, player types, and nonlinear storytelling.",
+      "comments": [],
+      "ancestorIds": [
+        "49B0A0D67FED40A1BADA7E42B51FD6E5",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "49B0A0D67FED40A1BADA7E42B51FD6E5"
+    },
+    "A5E72DA7AE0548AD83446BABDFF258AA": {
+      "id": "A5E72DA7AE0548AD83446BABDFF258AA",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "c.3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "evaluate, analyze, and document game styles and playability; and",
+      "comments": [],
+      "ancestorIds": [
+        "49B0A0D67FED40A1BADA7E42B51FD6E5",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "49B0A0D67FED40A1BADA7E42B51FD6E5"
+    },
+    "0F211342291145BE8F1520C2F3FE3F9B": {
+      "id": "0F211342291145BE8F1520C2F3FE3F9B",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "c.3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "play board games to research and collect game play data;",
+      "comments": [],
+      "ancestorIds": [
+        "49B0A0D67FED40A1BADA7E42B51FD6E5",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "49B0A0D67FED40A1BADA7E42B51FD6E5"
+    },
+    "49B0A0D67FED40A1BADA7E42B51FD6E5": {
+      "id": "49B0A0D67FED40A1BADA7E42B51FD6E5",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "c.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research and information fluency. The student locates, analyzes, processes, and organizes data. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "7286BCD00DD241DDA387D878E03A0793"
+    },
+    "918C1943D5F34128AEBB9E1CC3D5D7E4": {
+      "id": "918C1943D5F34128AEBB9E1CC3D5D7E4",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "c.2.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of and evaluate online technology, including online interaction and massive multiplayer games.",
+      "comments": [],
+      "ancestorIds": [
+        "FD9ADBFF73F142C383A60FBAC8F90AEC",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "FD9ADBFF73F142C383A60FBAC8F90AEC"
+    },
+    "EE31C9C6825B440A8D385F0AB4249819": {
+      "id": "EE31C9C6825B440A8D385F0AB4249819",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "c.2.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "collaborate to research the business of games, including the roles of developer, marketing, publisher, and retail sales; and",
+      "comments": [],
+      "ancestorIds": [
+        "FD9ADBFF73F142C383A60FBAC8F90AEC",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "FD9ADBFF73F142C383A60FBAC8F90AEC"
+    },
+    "433ABED6EDF14DD6A869DE749536724C": {
+      "id": "433ABED6EDF14DD6A869DE749536724C",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "c.2.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use network resources to acquire, organize, maintain, and evaluate information;",
+      "comments": [],
+      "ancestorIds": [
+        "FD9ADBFF73F142C383A60FBAC8F90AEC",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "FD9ADBFF73F142C383A60FBAC8F90AEC"
+    },
+    "82D4F3130C274CB391720C1E9BA4D092": {
+      "id": "82D4F3130C274CB391720C1E9BA4D092",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "c.2.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate knowledge and appropriate use of operating systems, program development tools, and networking resources;",
+      "comments": [],
+      "ancestorIds": [
+        "FD9ADBFF73F142C383A60FBAC8F90AEC",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "FD9ADBFF73F142C383A60FBAC8F90AEC"
+    },
+    "13A5B4E7FC7547498ECD594E361AC62C": {
+      "id": "13A5B4E7FC7547498ECD594E361AC62C",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "c.2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "seek and respond to input from peers and professionals in evaluating a game project;",
+      "comments": [],
+      "ancestorIds": [
+        "FD9ADBFF73F142C383A60FBAC8F90AEC",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "FD9ADBFF73F142C383A60FBAC8F90AEC"
+    },
+    "506BC29D3A634301BA0580B7CFE17E49": {
+      "id": "506BC29D3A634301BA0580B7CFE17E49",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "c.2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "design and implement procedures to set timelines for, track the progress of, and evaluate a game product;",
+      "comments": [],
+      "ancestorIds": [
+        "FD9ADBFF73F142C383A60FBAC8F90AEC",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "FD9ADBFF73F142C383A60FBAC8F90AEC"
+    },
+    "FD9ADBFF73F142C383A60FBAC8F90AEC": {
+      "id": "FD9ADBFF73F142C383A60FBAC8F90AEC",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "c.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication and collaboration. The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "7286BCD00DD241DDA387D878E03A0793"
+    },
+    "651227C569B24D5C965E8565BBB84AB0": {
+      "id": "651227C569B24D5C965E8565BBB84AB0",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "L",
+      "statementNotation": "c.1.L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "implement game sound mechanics, including playing, pausing, and looping.",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "B1EE97D5FF45496D8DF9D586C9F6FC0F": {
+      "id": "B1EE97D5FF45496D8DF9D586C9F6FC0F",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "K",
+      "statementNotation": "c.1.K",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "find, create, and edit game audio sound effects and music; and",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "7707EA0531034DA5960FF7EDA38FF486": {
+      "id": "7707EA0531034DA5960FF7EDA38FF486",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "J",
+      "statementNotation": "c.1.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of image rendering, including transparency, refresh rate, hardware acceleration, and animation;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "F1DD9DBF1E0043E3B1153F42C8E6F8C0": {
+      "id": "F1DD9DBF1E0043E3B1153F42C8E6F8C0",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "c.1.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create programs using sprite sheets;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "E6568077262645F4AE4CEDA4D38082EF": {
+      "id": "E6568077262645F4AE4CEDA4D38082EF",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "c.1.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create games using sprites by evaluating the role of sprites, creating sprites, and managing sprites;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "4BA7A900E47A4BD098E6C8C0CE7168B6": {
+      "id": "4BA7A900E47A4BD098E6C8C0CE7168B6",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "c.1.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "write programs creating images using geometric shapes;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "3DF157D528A54C5CAA32558A8E40A211": {
+      "id": "3DF157D528A54C5CAA32558A8E40A211",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "c.1.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create backgrounds, including solid, image, and tiled backgrounds;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "FACE4F069987482384355162C6E44F8C": {
+      "id": "FACE4F069987482384355162C6E44F8C",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "c.1.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use bitmap graphics images, including designing, creating, reading, and manipulating images;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "BB1C4FBCE95D4655AA0AD8202CEB76C0": {
+      "id": "BB1C4FBCE95D4655AA0AD8202CEB76C0",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "c.1.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate an understanding of the fundamentals of game art, including the look and feel, graphics coordinate system, basics of color, and color palettes;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "7757FE46AA3842AE94F36B171973F86E": {
+      "id": "7757FE46AA3842AE94F36B171973F86E",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "c.1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create a storyboard;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "3045DFD7C5F2459B90E09CDDC477B64F": {
+      "id": "3045DFD7C5F2459B90E09CDDC477B64F",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "c.1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create a design concept document;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "8F75383B0A81411DB03109159B37E2AE": {
+      "id": "8F75383B0A81411DB03109159B37E2AE",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "c.1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the basic game design elements, including conceptual ideas, storyline, visualization, storyboard, game effects, sound elements, game play, game controls, and player tutorial;",
+      "comments": [],
+      "ancestorIds": [
+        "F0947C954BC14EDC87D334149E433258",
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "F0947C954BC14EDC87D334149E433258"
+    },
+    "F0947C954BC14EDC87D334149E433258": {
+      "id": "F0947C954BC14EDC87D334149E433258",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "c.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Creativity and innovation. The student develops products and generates new understanding by extending existing knowledge. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "7286BCD00DD241DDA387D878E03A0793"
+      ],
+      "parentId": "7286BCD00DD241DDA387D878E03A0793"
+    },
+    "7286BCD00DD241DDA387D878E03A0793": {
+      "id": "7286BCD00DD241DDA387D878E03A0793",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 0,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Knowledge and skills.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8C8BCD24449B47D98B0EE9A126713D0D": {
+      "id": "8C8BCD24449B47D98B0EE9A126713D0D",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "b.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples.",
+      "comments": [],
+      "ancestorIds": [
+        "4757F3104FF64D738B20D66AD301E2FE"
+      ],
+      "parentId": "4757F3104FF64D738B20D66AD301E2FE"
+    },
+    "5949DCC9084746A482365EA79FB807A2": {
+      "id": "5949DCC9084746A482365EA79FB807A2",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "b.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations.",
+      "comments": [],
+      "ancestorIds": [
+        "4757F3104FF64D738B20D66AD301E2FE"
+      ],
+      "parentId": "4757F3104FF64D738B20D66AD301E2FE"
+    },
+    "6370B18586C44CE99B19651515320C16": {
+      "id": "6370B18586C44CE99B19651515320C16",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "b.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ame Programming and Design will foster student creativity and innovation by presenting students with opportunities to design, implement, and present meaningful programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve gaming problems. Through data analysis, students will include the identification of task requirements, plan search strategies, and use programming concepts to access, analyze, and evaluate information needed to design games. By acquiring programming knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will create a computer game that is presented to an evaluation panel. The six strands include creativity and innovation; communication and collaboration; research and information fluency; critical thinking; problem solving, and decision making; digital citizenship; and technology operations and concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "4757F3104FF64D738B20D66AD301E2FE"
+      ],
+      "parentId": "4757F3104FF64D738B20D66AD301E2FE"
+    },
+    "B4A3021F8EA74B6A939227E250F8E10A": {
+      "id": "B4A3021F8EA74B6A939227E250F8E10A",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "b.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Science, Technology, Engineering, and Mathematics (STEM) Career Cluster focuses on planning, managing, and providing scientific research and professional and technical services, including laboratory and testing services, and research and development services.",
+      "comments": [],
+      "ancestorIds": [
+        "4757F3104FF64D738B20D66AD301E2FE"
+      ],
+      "parentId": "4757F3104FF64D738B20D66AD301E2FE"
+    },
+    "208593AE4A88484A91DA892BD4C8F6A6": {
+      "id": "208593AE4A88484A91DA892BD4C8F6A6",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "b.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions.",
+      "comments": [],
+      "ancestorIds": [
+        "4757F3104FF64D738B20D66AD301E2FE"
+      ],
+      "parentId": "4757F3104FF64D738B20D66AD301E2FE"
+    },
+    "4757F3104FF64D738B20D66AD301E2FE": {
+      "id": "4757F3104FF64D738B20D66AD301E2FE",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 0,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EE9A752CB0314847A635FA936DFF47BB": {
+      "id": "EE9A752CB0314847A635FA936DFF47BB",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "General requirements. Students shall be awarded one credit for successful completion of this course. Prerequisite: Algebra I. This course is recommended for students in Grades 9-12.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

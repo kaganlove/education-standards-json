@@ -1,0 +1,696 @@
+{
+  "id": "A6E17CDEAA7046CD857BB3A8A7522AE0",
+  "title": "Bac Pro CIEL",
+  "subject": "Compétences Bac Pro CIEL",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "K",
+    "ProfessionalEducation-Development"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Compétences",
+    "sourceURL": "https://eduscol.education.fr/sti/sites/eduscol.education.fr.sti/files/actualites/15324/15324-ref-bcp-ciel-vpub-eduscol.pdf"
+  },
+  "jurisdiction": {
+    "id": "5894F89247F94D548A73D27AC02100A4",
+    "title": "LP ST Gab"
+  },
+  "standards": {
+    "5027C0281CE64612927D0ABC85D6D1F9": {
+      "id": "5027C0281CE64612927D0ABC85D6D1F9",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "C11-R5",
+      "statementNotation": "C11-R5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance des réseaux informatiques",
+      "comments": [],
+      "ancestorIds": [
+        "64E575E93017438E98832DCD716E6213"
+      ],
+      "parentId": "64E575E93017438E98832DCD716E6213"
+    },
+    "2DC5DACDBC754D1AA744867F6F58FD86": {
+      "id": "2DC5DACDBC754D1AA744867F6F58FD86",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "C11-E5",
+      "statementNotation": "C11-E5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance et réparation de produits électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "64E575E93017438E98832DCD716E6213"
+      ],
+      "parentId": "64E575E93017438E98832DCD716E6213"
+    },
+    "64E575E93017438E98832DCD716E6213": {
+      "id": "64E575E93017438E98832DCD716E6213",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 0,
+      "listId": "C11",
+      "statementNotation": "C11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAINTENIR UN SYSTÈME ÉLECTRONIQUE\nOU RÉSEAU INFORMATIQUE",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "419DF6500C224168BAD1217066B93583": {
+      "id": "419DF6500C224168BAD1217066B93583",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "C10-D3",
+      "statementNotation": "C10-D3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Gestion d’incidents",
+      "comments": [],
+      "ancestorIds": [
+        "2D8FB8BF7CE94BF6B763E990B8F94612"
+      ],
+      "parentId": "2D8FB8BF7CE94BF6B763E990B8F94612"
+    },
+    "5367CE6BCE7F4E6B8801F53DDB8AB4EA": {
+      "id": "5367CE6BCE7F4E6B8801F53DDB8AB4EA",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "C10-R5",
+      "statementNotation": "C10-R5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance des réseaux informatiques",
+      "comments": [],
+      "ancestorIds": [
+        "2D8FB8BF7CE94BF6B763E990B8F94612"
+      ],
+      "parentId": "2D8FB8BF7CE94BF6B763E990B8F94612"
+    },
+    "EDFFF85486D44614854A2D0BF9E420D3": {
+      "id": "EDFFF85486D44614854A2D0BF9E420D3",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "C10-R3",
+      "statementNotation": "C10-R3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exploitation et maintien en condition opérationnelle",
+      "comments": [],
+      "ancestorIds": [
+        "2D8FB8BF7CE94BF6B763E990B8F94612"
+      ],
+      "parentId": "2D8FB8BF7CE94BF6B763E990B8F94612"
+    },
+    "814B6E73BA9D4B18A33496753D6523CE": {
+      "id": "814B6E73BA9D4B18A33496753D6523CE",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "C10-R2",
+      "statementNotation": "C10-R2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Installation et qualification",
+      "comments": [],
+      "ancestorIds": [
+        "2D8FB8BF7CE94BF6B763E990B8F94612"
+      ],
+      "parentId": "2D8FB8BF7CE94BF6B763E990B8F94612"
+    },
+    "2D8FB8BF7CE94BF6B763E990B8F94612": {
+      "id": "2D8FB8BF7CE94BF6B763E990B8F94612",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 0,
+      "listId": "C10",
+      "statementNotation": "C10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EXPLOITER UN RÉSEAU INFORMATIQUE",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B1B918C913714DCCB863A4F1CE61AC41": {
+      "id": "B1B918C913714DCCB863A4F1CE61AC41",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "C09-R3",
+      "statementNotation": "C09-R3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exploitation et maintien en condition opérationnelle",
+      "comments": [],
+      "ancestorIds": [
+        "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+      ],
+      "parentId": "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+    },
+    "C1AAD409E65F4411AF7AB3A0F78CB4BF": {
+      "id": "C1AAD409E65F4411AF7AB3A0F78CB4BF",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "C09-R2",
+      "statementNotation": "C09-R2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Installation et qualification",
+      "comments": [],
+      "ancestorIds": [
+        "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+      ],
+      "parentId": "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+    },
+    "C919690487CD48229901E26A0CC90AD6": {
+      "id": "C919690487CD48229901E26A0CC90AD6",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "C09-E4",
+      "statementNotation": "C09-E4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Intégration matérielle et logicielle",
+      "comments": [],
+      "ancestorIds": [
+        "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+      ],
+      "parentId": "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+    },
+    "9784449EDA70417AB4C6A519350C5F80": {
+      "id": "9784449EDA70417AB4C6A519350C5F80",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 1,
+      "listId": "C09-E3",
+      "statementNotation": "C09-E3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Production et assemblage d'ensembles électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+      ],
+      "parentId": "28C09ABD7585436BB2AEA4DCA8FB6AB0"
+    },
+    "28C09ABD7585436BB2AEA4DCA8FB6AB0": {
+      "id": "28C09ABD7585436BB2AEA4DCA8FB6AB0",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 0,
+      "listId": "C09",
+      "statementNotation": "C09",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "INSTALLER LES ÉLÉMENTS D’UN SYSTÈME\nÉLECTRONIQUE OU INFORMATIQUE",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E4C7456B0462469B815F01A47505312D": {
+      "id": "E4C7456B0462469B815F01A47505312D",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 1,
+      "listId": "C08-D2",
+      "statementNotation": "C08-D2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Développement et validation de solutions logicielles",
+      "comments": [],
+      "ancestorIds": [
+        "9AE3448C51A546B6B65D2D8FCA69A8AC"
+      ],
+      "parentId": "9AE3448C51A546B6B65D2D8FCA69A8AC"
+    },
+    "9AE3448C51A546B6B65D2D8FCA69A8AC": {
+      "id": "9AE3448C51A546B6B65D2D8FCA69A8AC",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 0,
+      "listId": "C08",
+      "statementNotation": "C08",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "CODER",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5FCD3D927A774A4D806649491110F8C3": {
+      "id": "5FCD3D927A774A4D806649491110F8C3",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 1,
+      "listId": "C07-E3",
+      "statementNotation": "C07-E3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Production et assemblage d'ensembles électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "EC453B6705654CD381E488E145C240D8"
+      ],
+      "parentId": "EC453B6705654CD381E488E145C240D8"
+    },
+    "D33C50EA21A44BC8919AAA401D568842": {
+      "id": "D33C50EA21A44BC8919AAA401D568842",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "C07-E1",
+      "statementNotation": "C07-E1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Étude et conception de produits électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "EC453B6705654CD381E488E145C240D8"
+      ],
+      "parentId": "EC453B6705654CD381E488E145C240D8"
+    },
+    "EC453B6705654CD381E488E145C240D8": {
+      "id": "EC453B6705654CD381E488E145C240D8",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 0,
+      "listId": "C07",
+      "statementNotation": "C07",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "RÉALISER DES MAQUETTES\nET PROTOTYPES",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "47C876E9E30846E28CC332C02EF62018": {
+      "id": "47C876E9E30846E28CC332C02EF62018",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "C06-D3",
+      "statementNotation": "C06-D3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Gestion d’incidents",
+      "comments": [],
+      "ancestorIds": [
+        "D13550EEC7D848378E3E446FD6849494"
+      ],
+      "parentId": "D13550EEC7D848378E3E446FD6849494"
+    },
+    "F6C6649FD7454502AD24EC62DB18E109": {
+      "id": "F6C6649FD7454502AD24EC62DB18E109",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "C06-D2",
+      "statementNotation": "C06-D2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Développement et validation de solutions logicielles",
+      "comments": [],
+      "ancestorIds": [
+        "D13550EEC7D848378E3E446FD6849494"
+      ],
+      "parentId": "D13550EEC7D848378E3E446FD6849494"
+    },
+    "3C3A617C756B452785F30D8E3D093C18": {
+      "id": "3C3A617C756B452785F30D8E3D093C18",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "C06-R5",
+      "statementNotation": "C06-R5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance des réseaux informatiques",
+      "comments": [],
+      "ancestorIds": [
+        "D13550EEC7D848378E3E446FD6849494"
+      ],
+      "parentId": "D13550EEC7D848378E3E446FD6849494"
+    },
+    "F269E737B5AA448EB63D663881CD13E7": {
+      "id": "F269E737B5AA448EB63D663881CD13E7",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "C06-R3",
+      "statementNotation": "C06-R3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exploitation et maintien en condition opérationnelle",
+      "comments": [],
+      "ancestorIds": [
+        "D13550EEC7D848378E3E446FD6849494"
+      ],
+      "parentId": "D13550EEC7D848378E3E446FD6849494"
+    },
+    "02B527BFD89D47AABFB85129B183AB64": {
+      "id": "02B527BFD89D47AABFB85129B183AB64",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "C06-R2",
+      "statementNotation": "C06-R2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Installation et qualification",
+      "comments": [],
+      "ancestorIds": [
+        "D13550EEC7D848378E3E446FD6849494"
+      ],
+      "parentId": "D13550EEC7D848378E3E446FD6849494"
+    },
+    "C5C4EA5FB2C34E009B2F2F81ACAD1242": {
+      "id": "C5C4EA5FB2C34E009B2F2F81ACAD1242",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "C06-E2",
+      "statementNotation": "C06-E2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tests et essais",
+      "comments": [],
+      "ancestorIds": [
+        "D13550EEC7D848378E3E446FD6849494"
+      ],
+      "parentId": "D13550EEC7D848378E3E446FD6849494"
+    },
+    "D13550EEC7D848378E3E446FD6849494": {
+      "id": "D13550EEC7D848378E3E446FD6849494",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 0,
+      "listId": "C06",
+      "statementNotation": "C06",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "VALIDER LA CONFORMITÉ\nD’UNE INSTALLATION",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "50C12D63B676452286A83240B94235C0": {
+      "id": "50C12D63B676452286A83240B94235C0",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "C04-D3",
+      "statementNotation": "C04-D3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Gestion d’incidents",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "E4380BB09B9040C0BBD7951A4ACE71F6": {
+      "id": "E4380BB09B9040C0BBD7951A4ACE71F6",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "C04-D1",
+      "statementNotation": "C04-D1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Élaboration et appropriation d’un cahier des charges",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "5030E8297E9A47178D3F10195CB5C580": {
+      "id": "5030E8297E9A47178D3F10195CB5C580",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "C04-R5",
+      "statementNotation": "C04-R5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance des réseaux informatiques",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "97FD376E9DA04D6BB2D2D6697DD5FECA": {
+      "id": "97FD376E9DA04D6BB2D2D6697DD5FECA",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "C04-R1",
+      "statementNotation": "C04-R1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Accompagnement du client",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "12B6226D272A488EB9F9DBC070ECBFD0": {
+      "id": "12B6226D272A488EB9F9DBC070ECBFD0",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "C04-E5",
+      "statementNotation": "C04-E5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance et réparation de produits électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "92D341821D014ABF8754655F471A104C": {
+      "id": "92D341821D014ABF8754655F471A104C",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "C04-E4",
+      "statementNotation": "C04-E4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Intégration matérielle et logicielle",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "7C3A71E442B842088F0933CA221B1F2F": {
+      "id": "7C3A71E442B842088F0933CA221B1F2F",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "C04-E1",
+      "statementNotation": "C04-E1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Étude et conception de produits électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "CE5D65E842C6492C9E0C71C1AD781BB2"
+      ],
+      "parentId": "CE5D65E842C6492C9E0C71C1AD781BB2"
+    },
+    "CE5D65E842C6492C9E0C71C1AD781BB2": {
+      "id": "CE5D65E842C6492C9E0C71C1AD781BB2",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 0,
+      "listId": "C04",
+      "statementNotation": "C04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ANALYSER UNE STRUCTURE\nMATÉRIELLE ET LOGICIELLE",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2E977F3CDD2442A0AF229E121525F5C1": {
+      "id": "2E977F3CDD2442A0AF229E121525F5C1",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "C03-D1",
+      "statementNotation": "C03-D1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Élaboration et appropriation d’un cahier des charges",
+      "comments": [],
+      "ancestorIds": [
+        "23A13258DD734E13AA7CC4115302B4D9"
+      ],
+      "parentId": "23A13258DD734E13AA7CC4115302B4D9"
+    },
+    "0C723D1407894DF2947173879492D3D4": {
+      "id": "0C723D1407894DF2947173879492D3D4",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "C03-E3",
+      "statementNotation": "C03-E3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Production et assemblage d'ensembles électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "23A13258DD734E13AA7CC4115302B4D9"
+      ],
+      "parentId": "23A13258DD734E13AA7CC4115302B4D9"
+    },
+    "921795C5A0A2402D99CB8A90D7D99F11": {
+      "id": "921795C5A0A2402D99CB8A90D7D99F11",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "C03-E2",
+      "statementNotation": "C03-E2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tests et essais",
+      "comments": [],
+      "ancestorIds": [
+        "23A13258DD734E13AA7CC4115302B4D9"
+      ],
+      "parentId": "23A13258DD734E13AA7CC4115302B4D9"
+    },
+    "A9F4561E583241C88FEFECF4C3DCE100": {
+      "id": "A9F4561E583241C88FEFECF4C3DCE100",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "C03-E1",
+      "statementNotation": "C03-E1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Étude et conception de produits électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "23A13258DD734E13AA7CC4115302B4D9"
+      ],
+      "parentId": "23A13258DD734E13AA7CC4115302B4D9"
+    },
+    "23A13258DD734E13AA7CC4115302B4D9": {
+      "id": "23A13258DD734E13AA7CC4115302B4D9",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 0,
+      "listId": "C03",
+      "statementNotation": "C03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "PARTICIPER A UN PROJET",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7EED5C6683184089A2DDBA948800C7B4": {
+      "id": "7EED5C6683184089A2DDBA948800C7B4",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "C01-D1",
+      "statementNotation": "C01-D1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Élaboration et appropriation d’un cahier des charges",
+      "comments": [],
+      "ancestorIds": [
+        "545B7D8C03DE4BAE96E475A865114FA1"
+      ],
+      "parentId": "545B7D8C03DE4BAE96E475A865114FA1"
+    },
+    "17C1A6909F5149AEAE727BB78A6BB3C1": {
+      "id": "17C1A6909F5149AEAE727BB78A6BB3C1",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "C01-R1",
+      "statementNotation": "C01-R1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Accompagnement du client",
+      "comments": [],
+      "ancestorIds": [
+        "545B7D8C03DE4BAE96E475A865114FA1"
+      ],
+      "parentId": "545B7D8C03DE4BAE96E475A865114FA1"
+    },
+    "833040BDC38A42A199F40D4C83A1317F": {
+      "id": "833040BDC38A42A199F40D4C83A1317F",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "C01-E5",
+      "statementNotation": "C01-E5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintenance et réparation de produits électroniques",
+      "comments": [],
+      "ancestorIds": [
+        "545B7D8C03DE4BAE96E475A865114FA1"
+      ],
+      "parentId": "545B7D8C03DE4BAE96E475A865114FA1"
+    },
+    "D9476CE3473E4A3BAB57EF016F560D30": {
+      "id": "D9476CE3473E4A3BAB57EF016F560D30",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "C01-E2",
+      "statementNotation": "C01-E2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tests et essais",
+      "comments": [],
+      "ancestorIds": [
+        "545B7D8C03DE4BAE96E475A865114FA1"
+      ],
+      "parentId": "545B7D8C03DE4BAE96E475A865114FA1"
+    },
+    "545B7D8C03DE4BAE96E475A865114FA1": {
+      "id": "545B7D8C03DE4BAE96E475A865114FA1",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "C01",
+      "statementNotation": "C01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "COMMUNIQUER EN SITUATION\nPROFESSIONNELLE (FRANÇAIS/ANGLAIS)",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

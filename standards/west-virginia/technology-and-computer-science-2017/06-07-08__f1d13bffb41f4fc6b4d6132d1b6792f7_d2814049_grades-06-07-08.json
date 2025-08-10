@@ -1,0 +1,601 @@
+{
+  "id": "F1D13BFFB41F4FC6B4D6132D1B6792F7_D2814049_grades-06-07-08",
+  "title": "Discovering Computer Science: Grades 6, 7, 8",
+  "subject": "Technology and Computer Science (2017-)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "06",
+    "07",
+    "08"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2814049",
+    "valid": "2017",
+    "title": "Discovering Computer Science",
+    "sourceURL": "http://wvde.state.wv.us/policies/policy.php?p=2520.14&alt=1",
+    "asnIdentifier": "D2814049",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "F1D13BFFB41F4FC6B4D6132D1B6792F7",
+    "title": "West Virginia"
+  },
+  "standards": {
+    "1BE650B6183144FD8839C2A91F30CD00": {
+      "id": "1BE650B6183144FD8839C2A91F30CD00",
+      "asnIdentifier": "S2958482",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.40",
+      "statementLabel": "Standard",
+      "description": "Evaluate the accuracy, relevance, appropriateness, comprehensiveness, and bias of electronic information sources concerning real-world problems.",
+      "ancestorIds": [
+        "5E29E4331A0046EBA828B2CD9AAA800A"
+      ],
+      "parentId": "5E29E4331A0046EBA828B2CD9AAA800A"
+    },
+    "472A9649FFDE4BFF8DCCF49144194B3D": {
+      "id": "472A9649FFDE4BFF8DCCF49144194B3D",
+      "asnIdentifier": "S2958481",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.39",
+      "statementLabel": "Standard",
+      "description": "Analyze the positive and negative impacts of computing on human culture.",
+      "ancestorIds": [
+        "5E29E4331A0046EBA828B2CD9AAA800A"
+      ],
+      "parentId": "5E29E4331A0046EBA828B2CD9AAA800A"
+    },
+    "DCFE1B3FB638420EB59384E692485A44": {
+      "id": "DCFE1B3FB638420EB59384E692485A44",
+      "asnIdentifier": "S2958480",
+      "position": 43000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.38",
+      "statementLabel": "Standard",
+      "description": "Demonstrate knowledge of changes in information technologies over time and the effects those changes have on education, the workplace, and society.",
+      "ancestorIds": [
+        "5E29E4331A0046EBA828B2CD9AAA800A"
+      ],
+      "parentId": "5E29E4331A0046EBA828B2CD9AAA800A"
+    },
+    "72EEF4ED06664E34B35946B6AF3D4543": {
+      "id": "72EEF4ED06664E34B35946B6AF3D4543",
+      "asnIdentifier": "S2958479",
+      "position": 42000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.37",
+      "statementLabel": "Standard",
+      "description": "Demonstrate legal and ethical behaviors when using information and technology and discuss the consequences of misuse.",
+      "ancestorIds": [
+        "5E29E4331A0046EBA828B2CD9AAA800A"
+      ],
+      "parentId": "5E29E4331A0046EBA828B2CD9AAA800A"
+    },
+    "5E29E4331A0046EBA828B2CD9AAA800A": {
+      "id": "5E29E4331A0046EBA828B2CD9AAA800A",
+      "asnIdentifier": "S2958478",
+      "position": 41000,
+      "depth": 0,
+      "statementLabel": "Cluster",
+      "description": "Community, Global, and Ethical Impacts",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F28A9C29503A4C74BBD77EEFCB263C85": {
+      "id": "F28A9C29503A4C74BBD77EEFCB263C85",
+      "asnIdentifier": "S2958477",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.36",
+      "statementLabel": "Standard",
+      "description": "Describe ways in which computers use models of intelligent behavior (e.g., robot motion, speech and language understanding, and computer vision).",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "986741A63228479CB61363D2307F5992": {
+      "id": "986741A63228479CB61363D2307F5992",
+      "asnIdentifier": "S2958476",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.35",
+      "statementLabel": "Standard",
+      "description": "Describe what distinguishes humans from machines focusing on human intelligence versus machine intelligence and ways we can communicate.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "F52CFE0595824CBCBA2794644689DD1E": {
+      "id": "F52CFE0595824CBCBA2794644689DD1E",
+      "asnIdentifier": "S2958475",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.34",
+      "statementLabel": "Standard",
+      "description": "Describe the major components and functions of computer systems and networks.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "9C15FB2E72F14F1998332DE0B088AB66": {
+      "id": "9C15FB2E72F14F1998332DE0B088AB66",
+      "asnIdentifier": "S2958474",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.33",
+      "statementLabel": "Standard",
+      "description": "Apply strategies for identifying and solving routine hardware problems that occur during everyday computer use.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "6D4277C4DDCA42FAB327BE5A74390BF9": {
+      "id": "6D4277C4DDCA42FAB327BE5A74390BF9",
+      "asnIdentifier": "S2958473",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.32",
+      "statementLabel": "Standard",
+      "description": "Use developmentally appropriate, accurate terminology when communicating about technology.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "7798F7010BF74B97A790505FD6FB5AA4": {
+      "id": "7798F7010BF74B97A790505FD6FB5AA4",
+      "asnIdentifier": "S2958472",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.31",
+      "statementLabel": "Standard",
+      "description": "Demonstrate an understanding of the relationship between hardware and software.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "27150644DCDE4DB682CD24D60707C3DA": {
+      "id": "27150644DCDE4DB682CD24D60707C3DA",
+      "asnIdentifier": "S2958471",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.30",
+      "statementLabel": "Standard",
+      "description": "Identify a variety of electronic devices that contain computational processors.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "4FD536092CF34BCAB6FC797635D66383": {
+      "id": "4FD536092CF34BCAB6FC797635D66383",
+      "asnIdentifier": "S2958470",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.29",
+      "statementLabel": "Standard",
+      "description": "Recognize that computers are devices that execute programs.",
+      "ancestorIds": [
+        "7EB877EABBE442E28DACACF26FEB3EFA"
+      ],
+      "parentId": "7EB877EABBE442E28DACACF26FEB3EFA"
+    },
+    "7EB877EABBE442E28DACACF26FEB3EFA": {
+      "id": "7EB877EABBE442E28DACACF26FEB3EFA",
+      "asnIdentifier": "S2958469",
+      "position": 32000,
+      "depth": 0,
+      "statementLabel": "Cluster",
+      "description": "Computers & Communications Devices",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9246E60DF6D9434B81A72D65B80AD26C": {
+      "id": "9246E60DF6D9434B81A72D65B80AD26C",
+      "asnIdentifier": "S2958468",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.28",
+      "statementLabel": "Standard",
+      "description": "Collect and analyze data that is output from multiple runs of a computer program.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "DC626AAC7DAB4869ADC5B9E0A60BAC96": {
+      "id": "DC626AAC7DAB4869ADC5B9E0A60BAC96",
+      "asnIdentifier": "S2958467",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.27",
+      "statementLabel": "Standard",
+      "description": "Demonstrate characteristics used in open ended problem solving and programming (e.g., comfort with complexity, persistence, brainstorming, adaptability, patience, propensity to tinker, creativity, accepting challenge).",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "7CD962131CD349AB94149688E118B235": {
+      "id": "7CD962131CD349AB94149688E118B235",
+      "asnIdentifier": "S2958466",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.26",
+      "statementLabel": "Standard",
+      "description": "Identify interdisciplinary careers that are enhanced by computer science.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "36C65A481FCA44BF913CDFB681BDFFB5": {
+      "id": "36C65A481FCA44BF913CDFB681BDFFB5",
+      "asnIdentifier": "S2958465",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.25",
+      "statementLabel": "Standard",
+      "description": "Demonstrate good practices in personal information security, using passwords, encryption, and secure transactions.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "F3E400C3A4A34CAEA3FDBF3A322A2BA3": {
+      "id": "F3E400C3A4A34CAEA3FDBF3A322A2BA3",
+      "asnIdentifier": "S2958464",
+      "position": 27000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.24",
+      "statementLabel": "Standard",
+      "description": "Implement problem solutions using a programming language, including: looping behavior, conditional statements, logic, expressions, variables, and functions.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "A748873FDC55461CB78B9C781C53B427": {
+      "id": "A748873FDC55461CB78B9C781C53B427",
+      "asnIdentifier": "S2958463",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.23",
+      "statementLabel": "Standard",
+      "description": "Demonstrate an understanding of algorithms and their practical application.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "E1471A5B303241DDBF6759D61C5DE7FC": {
+      "id": "E1471A5B303241DDBF6759D61C5DE7FC",
+      "asnIdentifier": "S2958462",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.22",
+      "statementLabel": "Standard",
+      "description": "Design, develop, publish, and present products (e.g., webpages, mobile applications, animations) using technology resources that demonstrate and communicate curriculum concepts.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "AD597325E3DF4D0FADBEF1D025486370": {
+      "id": "AD597325E3DF4D0FADBEF1D025486370",
+      "asnIdentifier": "S2958461",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.21",
+      "statementLabel": "Standard",
+      "description": "Use a variety of multimedia tools and peripherals to support personal productivity and learning throughout the curriculum.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "308EA76401A047CAB76BE0F0BDC6C112": {
+      "id": "308EA76401A047CAB76BE0F0BDC6C112",
+      "asnIdentifier": "S2958460",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.20",
+      "statementLabel": "Standard",
+      "description": "Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems.",
+      "ancestorIds": [
+        "1B4623134AA849D3A4785E049FD954D7"
+      ],
+      "parentId": "1B4623134AA849D3A4785E049FD954D7"
+    },
+    "1B4623134AA849D3A4785E049FD954D7": {
+      "id": "1B4623134AA849D3A4785E049FD954D7",
+      "asnIdentifier": "S2958459",
+      "position": 22000,
+      "depth": 0,
+      "statementLabel": "Cluster",
+      "description": "Computing Practice & Programming",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CDD2C28C07C842BAA617CF3A3B5F76D6": {
+      "id": "CDD2C28C07C842BAA617CF3A3B5F76D6",
+      "asnIdentifier": "S2958458",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.19",
+      "statementLabel": "Standard",
+      "description": "Demonstrate characteristics necessary for collaboration: providing useful feedback, integrating feedback, understanding and accepting multiple perspectives, socialization.",
+      "ancestorIds": [
+        "FC3A22E2484F4221B0E984FA356BAD14"
+      ],
+      "parentId": "FC3A22E2484F4221B0E984FA356BAD14"
+    },
+    "6ACB99B42CF347C6BCC2C1D230652F63": {
+      "id": "6ACB99B42CF347C6BCC2C1D230652F63",
+      "asnIdentifier": "S2958457",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.18",
+      "statementLabel": "Standard",
+      "description": "Use collaborative practices such as pair programming, working in project teams, and participating in group active learning activities.",
+      "ancestorIds": [
+        "FC3A22E2484F4221B0E984FA356BAD14"
+      ],
+      "parentId": "FC3A22E2484F4221B0E984FA356BAD14"
+    },
+    "D90226E527E74530923E1387C19415B2": {
+      "id": "D90226E527E74530923E1387C19415B2",
+      "asnIdentifier": "S2958456",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.17",
+      "statementLabel": "Standard",
+      "description": "Collaboratively design, develop, publish, and present products (e.g., videos, podcasts, websites) using technology resources that demonstrate and communicate curriculum concepts.",
+      "ancestorIds": [
+        "FC3A22E2484F4221B0E984FA356BAD14"
+      ],
+      "parentId": "FC3A22E2484F4221B0E984FA356BAD14"
+    },
+    "F157A43BA9D34BA7A6327562737B5C8B": {
+      "id": "F157A43BA9D34BA7A6327562737B5C8B",
+      "asnIdentifier": "S2958455",
+      "position": 18000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.16",
+      "statementLabel": "Standard",
+      "description": "Apply productivity/multimedia tools and peripherals to group collaboration and support learning throughout the curriculum.",
+      "ancestorIds": [
+        "FC3A22E2484F4221B0E984FA356BAD14"
+      ],
+      "parentId": "FC3A22E2484F4221B0E984FA356BAD14"
+    },
+    "FC3A22E2484F4221B0E984FA356BAD14": {
+      "id": "FC3A22E2484F4221B0E984FA356BAD14",
+      "asnIdentifier": "S2958454",
+      "position": 17000,
+      "depth": 0,
+      "statementLabel": "Cluster",
+      "description": "Collaboration",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B8898E7FDACF4470837505C9AE6BAB8F": {
+      "id": "B8898E7FDACF4470837505C9AE6BAB8F",
+      "asnIdentifier": "S2958453",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.15",
+      "statementLabel": "Standard",
+      "description": "Provide examples of interdisciplinary applications of computational thinking.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "4323D63C19D543E3AE701D91229B60B0": {
+      "id": "4323D63C19D543E3AE701D91229B60B0",
+      "asnIdentifier": "S2958452",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.14",
+      "statementLabel": "Standard",
+      "description": "Examine connections between elements of mathematics and computer science including binary numbers, logic, sets and functions.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "F0A1B3165E1C433FB6EA66034C4B7552": {
+      "id": "F0A1B3165E1C433FB6EA66034C4B7552",
+      "asnIdentifier": "S2958451",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.13",
+      "statementLabel": "Standard",
+      "description": "Understand the notion of hierarchy and abstraction in computing including high level languages, translation, instruction set, and logic circuits.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "E098DACB1D4C4BAB9B20C45121B5A7F6": {
+      "id": "E098DACB1D4C4BAB9B20C45121B5A7F6",
+      "asnIdentifier": "S2958450",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.12",
+      "statementLabel": "Standard",
+      "description": "Use abstraction to decompose a problem into sub problems.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "B3EBB81CD45B4649BB8EA1806B65C043": {
+      "id": "B3EBB81CD45B4649BB8EA1806B65C043",
+      "asnIdentifier": "S2958449",
+      "position": 12000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.11",
+      "statementLabel": "Standard",
+      "description": "Analyze the degree to which a computer model accurately represents the real world.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "0BAA7B1E31944E96AF1BE4316F8BDD25": {
+      "id": "0BAA7B1E31944E96AF1BE4316F8BDD25",
+      "asnIdentifier": "S2958448",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.10",
+      "statementLabel": "Standard",
+      "description": "Evaluate what kinds of problems can be solved using modeling and simulation.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "4F53EAC2FB664D46AF352C5378564275": {
+      "id": "4F53EAC2FB664D46AF352C5378564275",
+      "asnIdentifier": "S2958447",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.9",
+      "statementLabel": "Standard",
+      "description": "Interact with content-specific models and simulations (e.g., ecosystems, epidemics, molecular dynamics) to support learning and research.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "ECE68D7F855F4657AD4B8D8609251148": {
+      "id": "ECE68D7F855F4657AD4B8D8609251148",
+      "asnIdentifier": "S2958446",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.8",
+      "statementLabel": "Standard",
+      "description": "Use visual representations of problem states, structures, and data (e.g., graphs, charts, network diagrams, flowcharts).",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "4816F31F720D48A59AA258AE60EF126E": {
+      "id": "4816F31F720D48A59AA258AE60EF126E",
+      "asnIdentifier": "S2958445",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.7",
+      "statementLabel": "Standard",
+      "description": "Represent data in a variety of ways including text, sounds, pictures, and numbers.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "2CC2EDAD2AC74EC1A287F5CD59AF9CE3": {
+      "id": "2CC2EDAD2AC74EC1A287F5CD59AF9CE3",
+      "asnIdentifier": "S2958444",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.6",
+      "statementLabel": "Standard",
+      "description": "Describe and analyze a sequence of instructions being followed (e.g., describe a character's behavior in a video game as driven by rules and algorithms).",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "F18621E2D9D14A5382EDEDCE18ACDEA4": {
+      "id": "F18621E2D9D14A5382EDEDCE18ACDEA4",
+      "asnIdentifier": "S2958443",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.5",
+      "statementLabel": "Standard",
+      "description": "Act out searching and sorting algorithms.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "4FBA6FE98757481BA278144DA98628AE": {
+      "id": "4FBA6FE98757481BA278144DA98628AE",
+      "asnIdentifier": "S2958442",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.4",
+      "statementLabel": "Standard",
+      "description": "Evaluate ways that different algorithms may be used to solve the same problem.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "6B8D8720B69541BC8B2A56C21764CE6C": {
+      "id": "6B8D8720B69541BC8B2A56C21764CE6C",
+      "asnIdentifier": "S2958441",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.3",
+      "statementLabel": "Standard",
+      "description": "Define an algorithm as a sequence of instructions that can be processed by a computer.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "E32AB0481E12467DA7770FAB7C67AACE": {
+      "id": "E32AB0481E12467DA7770FAB7C67AACE",
+      "asnIdentifier": "S2958440",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.2",
+      "statementLabel": "Standard",
+      "description": "Describe the process of parallelization as it relates to problem solving.",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "0133505705BB415A9F139982C3DBA777": {
+      "id": "0133505705BB415A9F139982C3DBA777",
+      "asnIdentifier": "S2958439",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "TCS.DCS.1",
+      "statementLabel": "Standard",
+      "description": "Use the basic steps in algorithmic problem solving to design solutions (e.g., problem statement and exploration, examination of sample instances, design, implementing a solution, testing, evaluation).",
+      "ancestorIds": [
+        "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+      ],
+      "parentId": "C0A45C0366CC4DF8A3AA3F73E2C0740F"
+    },
+    "C0A45C0366CC4DF8A3AA3F73E2C0740F": {
+      "id": "C0A45C0366CC4DF8A3AA3F73E2C0740F",
+      "asnIdentifier": "S2958438",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Cluster",
+      "description": "Computational Thinking",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2784937_grade-12",
+  "title": "Multivariable Calculus (2017)",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2784937",
+    "valid": "2017",
+    "title": "Mathematics Georgia Standards of Excellence - Multivariable Calculus",
+    "sourceURL": "https://www.georgiastandards.org/Georgia-Standards/Frameworks/Mutlivariable-Calculus-Standards.pdf",
+    "asnIdentifier": "D2784937",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "84B4BDD0B14649D8929545114A32F4FE": {
+      "id": "84B4BDD0B14649D8929545114A32F4FE",
+      "asnIdentifier": "S2785179",
+      "position": 44000,
+      "depth": 3,
+      "statementNotation": "MMC.DE.1.f",
+      "description": "Students will solve linear second-order differential equations of the form y\" + p(x)y' + q(x)y = c using the characteristic equation where the characteristic equation has two real roots, one real root, or no real roots.",
+      "ancestorIds": [
+        "A9B2378ABA88455CBEC05DAEFDD8B857",
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "A9B2378ABA88455CBEC05DAEFDD8B857"
+    },
+    "657A0CB790DD409AAC1947AFC3BD6C39": {
+      "id": "657A0CB790DD409AAC1947AFC3BD6C39",
+      "asnIdentifier": "S2785178",
+      "position": 43000,
+      "depth": 3,
+      "statementNotation": "MMC.DE.1.e",
+      "description": "Write linear first-order differential equations that represent real-world phenomena and solve them, such as those arising from Kirchhoff's Law and mixing problems.",
+      "ancestorIds": [
+        "A9B2378ABA88455CBEC05DAEFDD8B857",
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "A9B2378ABA88455CBEC05DAEFDD8B857"
+    },
+    "E41DF40C573F444E80674B30A056A969": {
+      "id": "E41DF40C573F444E80674B30A056A969",
+      "asnIdentifier": "S2785177",
+      "position": 42000,
+      "depth": 3,
+      "statementNotation": "MMC.DE.1.d",
+      "description": "Explore the concepts of families of solutions and envelopes.",
+      "ancestorIds": [
+        "A9B2378ABA88455CBEC05DAEFDD8B857",
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "A9B2378ABA88455CBEC05DAEFDD8B857"
+    },
+    "D9963359E0AD468CA210A922FE41B611": {
+      "id": "D9963359E0AD468CA210A922FE41B611",
+      "asnIdentifier": "S2785176",
+      "position": 41000,
+      "depth": 3,
+      "statementNotation": "MMC.DE.1.c",
+      "description": "Solve Clairaut equations.",
+      "ancestorIds": [
+        "A9B2378ABA88455CBEC05DAEFDD8B857",
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "A9B2378ABA88455CBEC05DAEFDD8B857"
+    },
+    "BF6AADE26C2A4BC79902694AA1EEE7A4": {
+      "id": "BF6AADE26C2A4BC79902694AA1EEE7A4",
+      "asnIdentifier": "S2785175",
+      "position": 40000,
+      "depth": 3,
+      "statementNotation": "MMC.DE.1.b",
+      "description": "Solve homogeneous linear first-order differential equations using a variable substitution.",
+      "ancestorIds": [
+        "A9B2378ABA88455CBEC05DAEFDD8B857",
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "A9B2378ABA88455CBEC05DAEFDD8B857"
+    },
+    "AC7DA8B1ABD84ED5AF36D55AA329ED56": {
+      "id": "AC7DA8B1ABD84ED5AF36D55AA329ED56",
+      "asnIdentifier": "S2785174",
+      "position": 39000,
+      "depth": 3,
+      "statementNotation": "MMC.DE.1.a",
+      "description": "Solve linear first-order differential equations of the form y' + p(x)y = q(x) with an integrating factor.",
+      "ancestorIds": [
+        "A9B2378ABA88455CBEC05DAEFDD8B857",
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "A9B2378ABA88455CBEC05DAEFDD8B857"
+    },
+    "A9B2378ABA88455CBEC05DAEFDD8B857": {
+      "id": "A9B2378ABA88455CBEC05DAEFDD8B857",
+      "asnIdentifier": "S2785173",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "MMC.DE.1",
+      "description": "Students will use, apply, and solve linear first-order differential equations.",
+      "ancestorIds": [
+        "72D8210FB4A04507B75569C6B572C418",
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "72D8210FB4A04507B75569C6B572C418"
+    },
+    "72D8210FB4A04507B75569C6B572C418": {
+      "id": "72D8210FB4A04507B75569C6B572C418",
+      "asnIdentifier": "S2785172",
+      "position": 37000,
+      "depth": 1,
+      "description": "Students will explore solution methods of linear differential equations.",
+      "ancestorIds": [
+        "C668F3F7BC584DD6BA5773A48A5D921C"
+      ],
+      "parentId": "C668F3F7BC584DD6BA5773A48A5D921C"
+    },
+    "C668F3F7BC584DD6BA5773A48A5D921C": {
+      "id": "C668F3F7BC584DD6BA5773A48A5D921C",
+      "asnIdentifier": "S2785171",
+      "position": 36000,
+      "depth": 0,
+      "description": "Differential Equations",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8B154D8F7A9946B7B9CC6B4CE26449D9": {
+      "id": "8B154D8F7A9946B7B9CC6B4CE26449D9",
+      "asnIdentifier": "S2785170",
+      "position": 35000,
+      "depth": 3,
+      "statementNotation": "MMC.I.2.c",
+      "description": "Define and apply the gradient, the divergence, and the curl in terms of integrals of vectors.",
+      "ancestorIds": [
+        "64A80DE56B6541ADBFC6E75525F77103",
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "64A80DE56B6541ADBFC6E75525F77103"
+    },
+    "F1757F9C087B4588AA5AE1F4400A9F28": {
+      "id": "F1757F9C087B4588AA5AE1F4400A9F28",
+      "asnIdentifier": "S2785169",
+      "position": 34000,
+      "depth": 3,
+      "statementNotation": "MMC.I.2.b",
+      "description": "Recognize, understand, and use line integrals that are independence of path.",
+      "ancestorIds": [
+        "64A80DE56B6541ADBFC6E75525F77103",
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "64A80DE56B6541ADBFC6E75525F77103"
+    },
+    "2ADE360A2A7E4630853E947AF99E432C": {
+      "id": "2ADE360A2A7E4630853E947AF99E432C",
+      "asnIdentifier": "S2785168",
+      "position": 33000,
+      "depth": 3,
+      "statementNotation": "MMC.I.2.a",
+      "description": "Apply line and surface integrals to functions representing real-world phenomena.",
+      "ancestorIds": [
+        "64A80DE56B6541ADBFC6E75525F77103",
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "64A80DE56B6541ADBFC6E75525F77103"
+    },
+    "64A80DE56B6541ADBFC6E75525F77103": {
+      "id": "64A80DE56B6541ADBFC6E75525F77103",
+      "asnIdentifier": "S2785167",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "MMC.I.2",
+      "description": "Students will apply and interpret the theorems of Green, Stokes, and Gauss.",
+      "ancestorIds": [
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "654665AC7F1941E9AB385BEB584D762E"
+    },
+    "7ED9F9A169D549B9BC9589E799B169A3": {
+      "id": "7ED9F9A169D549B9BC9589E799B169A3",
+      "asnIdentifier": "S2785166",
+      "position": 31000,
+      "depth": 3,
+      "statementNotation": "MMC.I.1.c",
+      "description": "Integrate functions through various techniques such as changing the order of integration, substituting variables, or changing to polar coordinates.",
+      "ancestorIds": [
+        "E600ECF244A84A6BA73F7ECD64006DFC",
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "E600ECF244A84A6BA73F7ECD64006DFC"
+    },
+    "E5220AAD009C4F8B9C197117C43D94FA": {
+      "id": "E5220AAD009C4F8B9C197117C43D94FA",
+      "asnIdentifier": "S2785165",
+      "position": 30000,
+      "depth": 3,
+      "statementNotation": "MMC.I.1.b",
+      "description": "Represent integrals of vectors as double and triple integrals.",
+      "ancestorIds": [
+        "E600ECF244A84A6BA73F7ECD64006DFC",
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "E600ECF244A84A6BA73F7ECD64006DFC"
+    },
+    "F1F9BFE55A0A46C69DF0944D87C84710": {
+      "id": "F1F9BFE55A0A46C69DF0944D87C84710",
+      "asnIdentifier": "S2785164",
+      "position": 29000,
+      "depth": 3,
+      "statementNotation": "MMC.I.1.a",
+      "description": "Define, use, and interpret double and triple integrals in terms of volume and mass.",
+      "ancestorIds": [
+        "E600ECF244A84A6BA73F7ECD64006DFC",
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "E600ECF244A84A6BA73F7ECD64006DFC"
+    },
+    "E600ECF244A84A6BA73F7ECD64006DFC": {
+      "id": "E600ECF244A84A6BA73F7ECD64006DFC",
+      "asnIdentifier": "S2785163",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "MMC.I.1",
+      "description": "Students will integrate functions of the form z = f(x, y) or w = f(x, y, z).",
+      "ancestorIds": [
+        "654665AC7F1941E9AB385BEB584D762E",
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "654665AC7F1941E9AB385BEB584D762E"
+    },
+    "654665AC7F1941E9AB385BEB584D762E": {
+      "id": "654665AC7F1941E9AB385BEB584D762E",
+      "asnIdentifier": "S2785162",
+      "position": 27000,
+      "depth": 1,
+      "description": "Students will explore double and triple integrals and integrals of vectors; use various methods of integration; understand and apply the theorems of Green, Stokes, and Gauss.",
+      "ancestorIds": [
+        "1CFF13F50E0F4BADB8195CAD933A7517"
+      ],
+      "parentId": "1CFF13F50E0F4BADB8195CAD933A7517"
+    },
+    "1CFF13F50E0F4BADB8195CAD933A7517": {
+      "id": "1CFF13F50E0F4BADB8195CAD933A7517",
+      "asnIdentifier": "S2785161",
+      "position": 26000,
+      "depth": 0,
+      "description": "Integration",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "74490011CF604A819A6AC9DE1EC307D1": {
+      "id": "74490011CF604A819A6AC9DE1EC307D1",
+      "asnIdentifier": "S2785160",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "MMC.D.3",
+      "description": "Students will define and apply the gradient, the divergence, and curl in terms of differential vector operations.",
+      "ancestorIds": [
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "A25B242A26644F9E855E6A19F790F17B"
+    },
+    "F7383588C52E4EA78F75B32C962FDA7A": {
+      "id": "F7383588C52E4EA78F75B32C962FDA7A",
+      "asnIdentifier": "S2785159",
+      "position": 24000,
+      "depth": 3,
+      "statementNotation": "MMC.D.2.f",
+      "description": "Apply partial differentiation to problems of optimization, including problems requiring the use of the Lagrange multiplier.",
+      "ancestorIds": [
+        "41C6971AD29E4CE897139ABA9E89400F",
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "41C6971AD29E4CE897139ABA9E89400F"
+    },
+    "8FEA8DF0BC11422381AB7964034511D9": {
+      "id": "8FEA8DF0BC11422381AB7964034511D9",
+      "asnIdentifier": "S2785158",
+      "position": 23000,
+      "depth": 3,
+      "statementNotation": "MMC.D.2.e",
+      "description": "Find the partial derivatives of the composition of functions using the general chain rule.",
+      "ancestorIds": [
+        "41C6971AD29E4CE897139ABA9E89400F",
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "41C6971AD29E4CE897139ABA9E89400F"
+    },
+    "830C81DD4C7D4955A34C0AF8A927DA18": {
+      "id": "830C81DD4C7D4955A34C0AF8A927DA18",
+      "asnIdentifier": "S2785157",
+      "position": 22000,
+      "depth": 3,
+      "statementNotation": "MMC.D.2.d",
+      "description": "Represent the partial derivatives of a system of two functions in two variables using the Jacobian.",
+      "ancestorIds": [
+        "41C6971AD29E4CE897139ABA9E89400F",
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "41C6971AD29E4CE897139ABA9E89400F"
+    },
+    "10DCF286CEDD4F729433993AA3BDFE4B": {
+      "id": "10DCF286CEDD4F729433993AA3BDFE4B",
+      "asnIdentifier": "S2785156",
+      "position": 21000,
+      "depth": 3,
+      "statementNotation": "MMC.D.2.c",
+      "description": "Define and apply the total differential to approximate real-world phenomena.",
+      "ancestorIds": [
+        "41C6971AD29E4CE897139ABA9E89400F",
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "41C6971AD29E4CE897139ABA9E89400F"
+    },
+    "E98F4D9D37004C8AB2EB314915BA6C9B": {
+      "id": "E98F4D9D37004C8AB2EB314915BA6C9B",
+      "asnIdentifier": "S2785155",
+      "position": 20000,
+      "depth": 3,
+      "statementNotation": "MMC.D.2.b",
+      "description": "Find expressions for the first and second partial derivatives of a function.",
+      "ancestorIds": [
+        "41C6971AD29E4CE897139ABA9E89400F",
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "41C6971AD29E4CE897139ABA9E89400F"
+    },
+    "AD231C06297E4FC49765E933922E4CD7": {
+      "id": "AD231C06297E4FC49765E933922E4CD7",
+      "asnIdentifier": "S2785154",
+      "position": 19000,
+      "depth": 3,
+      "statementNotation": "MMC.D.2.a",
+      "description": "Approximate the partial derivatives at a point of a function defined by a table of data.",
+      "ancestorIds": [
+        "41C6971AD29E4CE897139ABA9E89400F",
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "41C6971AD29E4CE897139ABA9E89400F"
+    },
+    "41C6971AD29E4CE897139ABA9E89400F": {
+      "id": "41C6971AD29E4CE897139ABA9E89400F",
+      "asnIdentifier": "S2785153",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "MMC.D.2",
+      "description": "Students will explore, find, use, and apply partial differentiation of functions of two independent variables of the form z = f(x, y) and implicit functions of the form f(x, y, z) = 0.",
+      "ancestorIds": [
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "A25B242A26644F9E855E6A19F790F17B"
+    },
+    "850C01A354B34E4B888FCA8EE37AAF08": {
+      "id": "850C01A354B34E4B888FCA8EE37AAF08",
+      "asnIdentifier": "S2785152",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MMC.D.1",
+      "description": "Students will explore the continuity of functions of two independent variables in terms of the limits of such functions as (x, y) approaches a given point in the plane.",
+      "ancestorIds": [
+        "A25B242A26644F9E855E6A19F790F17B",
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "A25B242A26644F9E855E6A19F790F17B"
+    },
+    "A25B242A26644F9E855E6A19F790F17B": {
+      "id": "A25B242A26644F9E855E6A19F790F17B",
+      "asnIdentifier": "S2785151",
+      "position": 16000,
+      "depth": 1,
+      "description": "Students will investigate limits, continuity, and differentiation of functions of two independent variables; define and apply the gradient, the divergence, and the curl.",
+      "ancestorIds": [
+        "F3AE478E5B774851A495AD97860C283F"
+      ],
+      "parentId": "F3AE478E5B774851A495AD97860C283F"
+    },
+    "F3AE478E5B774851A495AD97860C283F": {
+      "id": "F3AE478E5B774851A495AD97860C283F",
+      "asnIdentifier": "S2785150",
+      "position": 15000,
+      "depth": 0,
+      "description": "Derivatives",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3D8F0824A56547C180F2AF13951A733F": {
+      "id": "3D8F0824A56547C180F2AF13951A733F",
+      "asnIdentifier": "S2785149",
+      "position": 14000,
+      "depth": 3,
+      "statementNotation": "MMC.A.3.c",
+      "description": "Determine points or regions of discontinuity of such functions.",
+      "ancestorIds": [
+        "A0715018857549B7B57EF99C8BF96C17",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "A0715018857549B7B57EF99C8BF96C17"
+    },
+    "F3C47F5CCD06420088735DC9FC05D8C4": {
+      "id": "F3C47F5CCD06420088735DC9FC05D8C4",
+      "asnIdentifier": "S2785148",
+      "position": 13000,
+      "depth": 3,
+      "statementNotation": "MMC.A.3.b",
+      "description": "Graph the level curves of such functions.",
+      "ancestorIds": [
+        "A0715018857549B7B57EF99C8BF96C17",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "A0715018857549B7B57EF99C8BF96C17"
+    },
+    "0DCD83F8EFFA4B1E806F7066477BCF95": {
+      "id": "0DCD83F8EFFA4B1E806F7066477BCF95",
+      "asnIdentifier": "S2785147",
+      "position": 12000,
+      "depth": 3,
+      "statementNotation": "MMC.A.3.a",
+      "description": "Evaluate such functions at a point in the plane.",
+      "ancestorIds": [
+        "A0715018857549B7B57EF99C8BF96C17",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "A0715018857549B7B57EF99C8BF96C17"
+    },
+    "A0715018857549B7B57EF99C8BF96C17": {
+      "id": "A0715018857549B7B57EF99C8BF96C17",
+      "asnIdentifier": "S2785146",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "MMC.A.3",
+      "description": "Students will explore functions of two independent variables of the form z = f(x, y) and implicit functions of the form f(x, y, z) = 0.",
+      "ancestorIds": [
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "84650DE690DF4DB3A6A1626F4DC166C0"
+    },
+    "18E769EF97054DC7B0D02D3804FF1154": {
+      "id": "18E769EF97054DC7B0D02D3804FF1154",
+      "asnIdentifier": "S2785145",
+      "position": 10000,
+      "depth": 3,
+      "statementNotation": "MMC.A.2.d",
+      "description": "Find and apply the eigenvectors and eigenvalues of a 3-by-3 matrix.",
+      "ancestorIds": [
+        "599DCD92E1FF4C448104AC3B7D56A0B6",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "599DCD92E1FF4C448104AC3B7D56A0B6"
+    },
+    "3D705010D46F4FD08F58F94026E65706": {
+      "id": "3D705010D46F4FD08F58F94026E65706",
+      "asnIdentifier": "S2785144",
+      "position": 9000,
+      "depth": 3,
+      "statementNotation": "MMC.A.2.c",
+      "description": "Apply properties of similar and orthogonal matrices to prove statements about matrices.",
+      "ancestorIds": [
+        "599DCD92E1FF4C448104AC3B7D56A0B6",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "599DCD92E1FF4C448104AC3B7D56A0B6"
+    },
+    "9457E784C6FB4B0A9ED50530971A49AE": {
+      "id": "9457E784C6FB4B0A9ED50530971A49AE",
+      "asnIdentifier": "S2785143",
+      "position": 8000,
+      "depth": 3,
+      "statementNotation": "MMC.A.2.b",
+      "description": "Represent a 3-by-3 system of linear equations as a matrix and solve the system in multiple ways: the inverse matrix, row operations, and Cramer's Rule.",
+      "ancestorIds": [
+        "599DCD92E1FF4C448104AC3B7D56A0B6",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "599DCD92E1FF4C448104AC3B7D56A0B6"
+    },
+    "D21301FAF51A4CD3BC140425C7A0B917": {
+      "id": "D21301FAF51A4CD3BC140425C7A0B917",
+      "asnIdentifier": "S2785142",
+      "position": 7000,
+      "depth": 3,
+      "statementNotation": "MMC.A.2.a",
+      "description": "Find the determinant of 2-by-2 and 3-by-3 matrices.",
+      "ancestorIds": [
+        "599DCD92E1FF4C448104AC3B7D56A0B6",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "599DCD92E1FF4C448104AC3B7D56A0B6"
+    },
+    "599DCD92E1FF4C448104AC3B7D56A0B6": {
+      "id": "599DCD92E1FF4C448104AC3B7D56A0B6",
+      "asnIdentifier": "S2785141",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "MMC.A.2",
+      "description": "Students will recognize and apply properties of matrices.",
+      "ancestorIds": [
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "84650DE690DF4DB3A6A1626F4DC166C0"
+    },
+    "42CCFF7B449F44D992B08F381F17D913": {
+      "id": "42CCFF7B449F44D992B08F381F17D913",
+      "asnIdentifier": "S2785140",
+      "position": 5000,
+      "depth": 3,
+      "statementNotation": "MMC.A.1.b",
+      "description": "Express analytic geometry of three dimensions (equations of planes, parallelism, perpendicularity, angles) in terms of the dot product and cross product of vectors.",
+      "ancestorIds": [
+        "F36EFDB94F104D1697068E43302B427B",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "F36EFDB94F104D1697068E43302B427B"
+    },
+    "17FC4504353949139432AEC2BF773B1F": {
+      "id": "17FC4504353949139432AEC2BF773B1F",
+      "asnIdentifier": "S2785139",
+      "position": 4000,
+      "depth": 3,
+      "statementNotation": "MMC.A.1.a",
+      "description": "Represent equations of lines in space using vectors.",
+      "ancestorIds": [
+        "F36EFDB94F104D1697068E43302B427B",
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "F36EFDB94F104D1697068E43302B427B"
+    },
+    "F36EFDB94F104D1697068E43302B427B": {
+      "id": "F36EFDB94F104D1697068E43302B427B",
+      "asnIdentifier": "S2785138",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "MMC.A.1",
+      "description": "Students will investigate the relationship between points, lines, and planes in three dimensions.",
+      "ancestorIds": [
+        "84650DE690DF4DB3A6A1626F4DC166C0",
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "84650DE690DF4DB3A6A1626F4DC166C0"
+    },
+    "84650DE690DF4DB3A6A1626F4DC166C0": {
+      "id": "84650DE690DF4DB3A6A1626F4DC166C0",
+      "asnIdentifier": "S2785137",
+      "position": 2000,
+      "depth": 1,
+      "description": "Students will investigate the dot product and cross product of two vectors; define relationship among points, lines, and planes in three dimensions; understand and apply properties of matrices and determinants including eigenvalues and eigenvectors.",
+      "ancestorIds": [
+        "028FA84E8D0C469DBA86EF3DA7CF0374"
+      ],
+      "parentId": "028FA84E8D0C469DBA86EF3DA7CF0374"
+    },
+    "028FA84E8D0C469DBA86EF3DA7CF0374": {
+      "id": "028FA84E8D0C469DBA86EF3DA7CF0374",
+      "asnIdentifier": "S2785136",
+      "position": 1000,
+      "depth": 0,
+      "description": "Algebra",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

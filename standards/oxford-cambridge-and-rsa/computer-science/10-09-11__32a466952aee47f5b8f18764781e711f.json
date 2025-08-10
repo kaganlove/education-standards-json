@@ -1,0 +1,673 @@
+{
+  "id": "32A466952AEE47F5B8F18764781E711F",
+  "title": "J277 GCSE Computer Science",
+  "subject": "Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "10",
+    "09",
+    "11"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "OCR J277 Specification",
+    "sourceURL": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/"
+  },
+  "jurisdiction": {
+    "id": "BC0345CEA9D9475C9FE9E7B33629D8C2",
+    "title": "Oxford, Cambridge and RSA"
+  },
+  "standards": {
+    "BA0D71557B0B4A68AE547CE808C56EFF": {
+      "id": "BA0D71557B0B4A68AE547CE808C56EFF",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "2.5.2",
+      "statementNotation": "J277 2.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Integrated Development Environment (IDE)",
+      "comments": [],
+      "ancestorIds": [
+        "484FAA10EA414BF5BC101964099C3DF2",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "484FAA10EA414BF5BC101964099C3DF2"
+    },
+    "009D287CD69B4BB6B220A276578A5E0D": {
+      "id": "009D287CD69B4BB6B220A276578A5E0D",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "2.5.1",
+      "statementNotation": "J277 2.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Languages",
+      "comments": [],
+      "ancestorIds": [
+        "484FAA10EA414BF5BC101964099C3DF2",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "484FAA10EA414BF5BC101964099C3DF2"
+    },
+    "484FAA10EA414BF5BC101964099C3DF2": {
+      "id": "484FAA10EA414BF5BC101964099C3DF2",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "2.5",
+      "statementNotation": "J277 2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming languages and Integrated Development Environments ",
+      "comments": [],
+      "ancestorIds": [
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "563D45073EC0484298ECD5B10EA0570E"
+    },
+    "84C0BB703A074044BB5E893E9A79B595": {
+      "id": "84C0BB703A074044BB5E893E9A79B595",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "2.4.1",
+      "statementNotation": "J277 2.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Boolean logic",
+      "comments": [],
+      "ancestorIds": [
+        "4C207E21476141958EB75FEC5EFB9373",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "4C207E21476141958EB75FEC5EFB9373"
+    },
+    "4C207E21476141958EB75FEC5EFB9373": {
+      "id": "4C207E21476141958EB75FEC5EFB9373",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "2.4",
+      "statementNotation": "J277 2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Boolean logic",
+      "comments": [],
+      "ancestorIds": [
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "563D45073EC0484298ECD5B10EA0570E"
+    },
+    "FB5A7FDF472E41CAB3307CA282B39809": {
+      "id": "FB5A7FDF472E41CAB3307CA282B39809",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "2.3.2",
+      "statementNotation": "J277 2.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Testing",
+      "comments": [],
+      "ancestorIds": [
+        "6F63E5B3C38A47D4A2B62B09A25942D4",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "6F63E5B3C38A47D4A2B62B09A25942D4"
+    },
+    "85D490997F5C41F2AF31528C93544322": {
+      "id": "85D490997F5C41F2AF31528C93544322",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "2.3.1",
+      "statementNotation": "J277 2.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Defensive design",
+      "comments": [],
+      "ancestorIds": [
+        "6F63E5B3C38A47D4A2B62B09A25942D4",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "6F63E5B3C38A47D4A2B62B09A25942D4"
+    },
+    "6F63E5B3C38A47D4A2B62B09A25942D4": {
+      "id": "6F63E5B3C38A47D4A2B62B09A25942D4",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "J277 2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Producing robust programs",
+      "comments": [],
+      "ancestorIds": [
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "563D45073EC0484298ECD5B10EA0570E"
+    },
+    "883C63FA35AB46AC93E7FCD13EC9E531": {
+      "id": "883C63FA35AB46AC93E7FCD13EC9E531",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "2.2.3",
+      "statementNotation": "J277 2.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Additional programming techniques",
+      "comments": [],
+      "ancestorIds": [
+        "6883C0FA2EB0434997E4530DFBCC1A26",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "6883C0FA2EB0434997E4530DFBCC1A26"
+    },
+    "70F1496431474D0E9EB50DD756656F55": {
+      "id": "70F1496431474D0E9EB50DD756656F55",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "2.2.2",
+      "statementNotation": "J277 2.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data types",
+      "comments": [],
+      "ancestorIds": [
+        "6883C0FA2EB0434997E4530DFBCC1A26",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "6883C0FA2EB0434997E4530DFBCC1A26"
+    },
+    "CD4E6810B6D64920A9DFF4E814323AF4": {
+      "id": "CD4E6810B6D64920A9DFF4E814323AF4",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "2.2.1",
+      "statementNotation": "J277 2.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming fundamentals",
+      "comments": [],
+      "ancestorIds": [
+        "6883C0FA2EB0434997E4530DFBCC1A26",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "6883C0FA2EB0434997E4530DFBCC1A26"
+    },
+    "6883C0FA2EB0434997E4530DFBCC1A26": {
+      "id": "6883C0FA2EB0434997E4530DFBCC1A26",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "J277 2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming fundamentals",
+      "comments": [],
+      "ancestorIds": [
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "563D45073EC0484298ECD5B10EA0570E"
+    },
+    "5EF80C73EB4443D3A5B9371EBC4EB9DE": {
+      "id": "5EF80C73EB4443D3A5B9371EBC4EB9DE",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "2.1.3",
+      "statementNotation": "J277 2.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Searching and sorting algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "9D9CBBD6C2DD4C04A2AE0A05AAFB200A",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "9D9CBBD6C2DD4C04A2AE0A05AAFB200A"
+    },
+    "EDD2F50D758B4DB5A43BBD0F6EF00FF1": {
+      "id": "EDD2F50D758B4DB5A43BBD0F6EF00FF1",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "2.1.2",
+      "statementNotation": "J277 2.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Designing, creating and refining algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "9D9CBBD6C2DD4C04A2AE0A05AAFB200A",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "9D9CBBD6C2DD4C04A2AE0A05AAFB200A"
+    },
+    "77D9383393C847F8A5E7B821971FB87E": {
+      "id": "77D9383393C847F8A5E7B821971FB87E",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "2.1.1",
+      "statementNotation": "J277 2.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational thinking",
+      "comments": [],
+      "ancestorIds": [
+        "9D9CBBD6C2DD4C04A2AE0A05AAFB200A",
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "9D9CBBD6C2DD4C04A2AE0A05AAFB200A"
+    },
+    "9D9CBBD6C2DD4C04A2AE0A05AAFB200A": {
+      "id": "9D9CBBD6C2DD4C04A2AE0A05AAFB200A",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "J277 2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "563D45073EC0484298ECD5B10EA0570E"
+      ],
+      "parentId": "563D45073EC0484298ECD5B10EA0570E"
+    },
+    "563D45073EC0484298ECD5B10EA0570E": {
+      "id": "563D45073EC0484298ECD5B10EA0570E",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "J277 2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational thinking, algorithms and programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0318D834DEC24DBDA4DA8B14C8E67820": {
+      "id": "0318D834DEC24DBDA4DA8B14C8E67820",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "1.6.1",
+      "statementNotation": "J277 1.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Ethical, legal, cultural and environmental impact",
+      "comments": [],
+      "ancestorIds": [
+        "FC8D49AB3DAF44B792059BB3675FF980",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "FC8D49AB3DAF44B792059BB3675FF980"
+    },
+    "FC8D49AB3DAF44B792059BB3675FF980": {
+      "id": "FC8D49AB3DAF44B792059BB3675FF980",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "1.6",
+      "statementNotation": "J277 1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Ethical, legal, cultural and environmental impacts of digital technology",
+      "comments": [],
+      "ancestorIds": [
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6FEBF87E091F470589D833B211AAC012"
+    },
+    "5E86FA0AD67A464E9FB24D7A335B3726": {
+      "id": "5E86FA0AD67A464E9FB24D7A335B3726",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "1.5.2",
+      "statementNotation": "J277 1.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utility software",
+      "comments": [],
+      "ancestorIds": [
+        "CB8B25D596FF4E5FB0BE9D0EE4C63425",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "CB8B25D596FF4E5FB0BE9D0EE4C63425"
+    },
+    "E75C1CF56DC04CAB9F04C81C0822AEDB": {
+      "id": "E75C1CF56DC04CAB9F04C81C0822AEDB",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "1.5.1",
+      "statementNotation": "J277 1.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Operating systems",
+      "comments": [],
+      "ancestorIds": [
+        "CB8B25D596FF4E5FB0BE9D0EE4C63425",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "CB8B25D596FF4E5FB0BE9D0EE4C63425"
+    },
+    "CB8B25D596FF4E5FB0BE9D0EE4C63425": {
+      "id": "CB8B25D596FF4E5FB0BE9D0EE4C63425",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "1.5",
+      "statementNotation": "J277 1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systems software",
+      "comments": [],
+      "ancestorIds": [
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6FEBF87E091F470589D833B211AAC012"
+    },
+    "F5C249BC5A3B455BB0EA6C258BB22D86": {
+      "id": "F5C249BC5A3B455BB0EA6C258BB22D86",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "1.4.2",
+      "statementNotation": "J277 1.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identifying and preventing vulnerabilities",
+      "comments": [],
+      "ancestorIds": [
+        "14DF41EA1A2C4947B7C3007155E1530A",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "14DF41EA1A2C4947B7C3007155E1530A"
+    },
+    "A45D4E7DE54F4258900F6EFE9F900A1D": {
+      "id": "A45D4E7DE54F4258900F6EFE9F900A1D",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "1.4.1",
+      "statementNotation": "J277 1.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Threats to computer systems and networks",
+      "comments": [],
+      "ancestorIds": [
+        "14DF41EA1A2C4947B7C3007155E1530A",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "14DF41EA1A2C4947B7C3007155E1530A"
+    },
+    "14DF41EA1A2C4947B7C3007155E1530A": {
+      "id": "14DF41EA1A2C4947B7C3007155E1530A",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "1.4",
+      "statementNotation": "J277 1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Network security",
+      "comments": [],
+      "ancestorIds": [
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6FEBF87E091F470589D833B211AAC012"
+    },
+    "A14B314A1E8D4BF4996B79FD5402C0FD": {
+      "id": "A14B314A1E8D4BF4996B79FD5402C0FD",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1.3.2",
+      "statementNotation": "J277 1.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Wired and wireless networks, protocols and layers",
+      "comments": [],
+      "ancestorIds": [
+        "9495E50664484EED856E8C90B915D6AC",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "9495E50664484EED856E8C90B915D6AC"
+    },
+    "B10860F002D7448FA67CDB70FA60E747": {
+      "id": "B10860F002D7448FA67CDB70FA60E747",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "1.3.1",
+      "statementNotation": "J277 1.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks and topologies",
+      "comments": [],
+      "ancestorIds": [
+        "9495E50664484EED856E8C90B915D6AC",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "9495E50664484EED856E8C90B915D6AC"
+    },
+    "9495E50664484EED856E8C90B915D6AC": {
+      "id": "9495E50664484EED856E8C90B915D6AC",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "1.3",
+      "statementNotation": "J277 1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computer networks, connections and protocols",
+      "comments": [],
+      "ancestorIds": [
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6FEBF87E091F470589D833B211AAC012"
+    },
+    "BC094D8DF4774BE7BC68274559DB3A38": {
+      "id": "BC094D8DF4774BE7BC68274559DB3A38",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1.2.5",
+      "statementNotation": "J277 1.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compression",
+      "comments": [],
+      "ancestorIds": [
+        "6D38857306F94F2AA94874D301CB4313",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6D38857306F94F2AA94874D301CB4313"
+    },
+    "DF99051F51014AC3B40A60ACC8622248": {
+      "id": "DF99051F51014AC3B40A60ACC8622248",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1.2.4",
+      "statementNotation": "J277 1.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data storage",
+      "comments": [],
+      "ancestorIds": [
+        "6D38857306F94F2AA94874D301CB4313",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6D38857306F94F2AA94874D301CB4313"
+    },
+    "F368F3873FFE4734BD3A8EFA797AAC0C": {
+      "id": "F368F3873FFE4734BD3A8EFA797AAC0C",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "1.2.3",
+      "statementNotation": "J277 1.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Units",
+      "comments": [],
+      "ancestorIds": [
+        "6D38857306F94F2AA94874D301CB4313",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6D38857306F94F2AA94874D301CB4313"
+    },
+    "F0FC4FE7E42A443983754A0DDA4E0970": {
+      "id": "F0FC4FE7E42A443983754A0DDA4E0970",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1.2.2",
+      "statementNotation": "J277 1.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Secondary storage",
+      "comments": [],
+      "ancestorIds": [
+        "6D38857306F94F2AA94874D301CB4313",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6D38857306F94F2AA94874D301CB4313"
+    },
+    "6B6AD59D701845A6BCD7D70695D3D907": {
+      "id": "6B6AD59D701845A6BCD7D70695D3D907",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "1.2.1",
+      "statementNotation": "J277 1.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Primary storage",
+      "comments": [],
+      "ancestorIds": [
+        "6D38857306F94F2AA94874D301CB4313",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6D38857306F94F2AA94874D301CB4313"
+    },
+    "6D38857306F94F2AA94874D301CB4313": {
+      "id": "6D38857306F94F2AA94874D301CB4313",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "J277 1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Memory and storage",
+      "comments": [],
+      "ancestorIds": [
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6FEBF87E091F470589D833B211AAC012"
+    },
+    "EF929ACFC25A4EAAB5E6406E153DE2AC": {
+      "id": "EF929ACFC25A4EAAB5E6406E153DE2AC",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "1.1.3",
+      "statementNotation": "J277 1.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Embedded systems",
+      "comments": [],
+      "ancestorIds": [
+        "1229CAFE5F84450EB2225E30353C94EF",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "1229CAFE5F84450EB2225E30353C94EF"
+    },
+    "226019DC08F346409D60F3013968787F": {
+      "id": "226019DC08F346409D60F3013968787F",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1.1.2",
+      "statementNotation": "J277 1.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "CPU performance",
+      "comments": [],
+      "ancestorIds": [
+        "1229CAFE5F84450EB2225E30353C94EF",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "1229CAFE5F84450EB2225E30353C94EF"
+    },
+    "0B9B116C383D4B6CBAA439AEB7B4AA0C": {
+      "id": "0B9B116C383D4B6CBAA439AEB7B4AA0C",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1.1.1",
+      "statementNotation": "J277 1.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Architecture of the CPU",
+      "comments": [],
+      "ancestorIds": [
+        "1229CAFE5F84450EB2225E30353C94EF",
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "1229CAFE5F84450EB2225E30353C94EF"
+    },
+    "1229CAFE5F84450EB2225E30353C94EF": {
+      "id": "1229CAFE5F84450EB2225E30353C94EF",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "J277 1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systems architecture",
+      "comments": [],
+      "ancestorIds": [
+        "6FEBF87E091F470589D833B211AAC012"
+      ],
+      "parentId": "6FEBF87E091F470589D833B211AAC012"
+    },
+    "6FEBF87E091F470589D833B211AAC012": {
+      "id": "6FEBF87E091F470589D833B211AAC012",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "J277 1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computer Systems",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

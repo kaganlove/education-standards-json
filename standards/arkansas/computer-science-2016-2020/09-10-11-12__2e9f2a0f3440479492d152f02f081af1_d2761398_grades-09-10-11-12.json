@@ -1,0 +1,721 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2761398_grades-09-10-11-12",
+  "title": "Advanced Networking: Grades 9, 10, 11, 12",
+  "subject": "Computer Science (2016-2020)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2761398",
+    "valid": "2016",
+    "title": "Computer Science Standards: Advanced Networking",
+    "sourceURL": "http://www.arkansased.gov/public/userfiles/Learning_Services/Curriculum%20and%20Instruction/Frameworks/Computer%20Science/Advanced_Networking_082016.docx",
+    "asnIdentifier": "D2761398",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "A62497B4C59A4867A5D20ED3453BC5A1": {
+      "id": "A62497B4C59A4867A5D20ED3453BC5A1",
+      "asnIdentifier": "S2761503",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "ANL2.9.3",
+      "statementLabel": "Standard",
+      "description": "Explore legitimate and illegitimate uses of file sharing networks (e.g., BitTorrent, CDNs)",
+      "ancestorIds": [
+        "56BDB95B1194440490D659563A139DE1",
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "56BDB95B1194440490D659563A139DE1"
+    },
+    "670DBD75AA8D491D8DCAA4BC170412B9": {
+      "id": "670DBD75AA8D491D8DCAA4BC170412B9",
+      "asnIdentifier": "S2761502",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "ANL2.9.2",
+      "statementLabel": "Standard",
+      "description": "Compare values of open-source and closed-source software development models",
+      "ancestorIds": [
+        "56BDB95B1194440490D659563A139DE1",
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "56BDB95B1194440490D659563A139DE1"
+    },
+    "FA862335D20B4D25BD314192F9F1239F": {
+      "id": "FA862335D20B4D25BD314192F9F1239F",
+      "asnIdentifier": "S2761501",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "ANL2.9.1",
+      "statementLabel": "Standard",
+      "description": "Recognize social impact of software piracy, plagiarism, and intellectual property theft",
+      "ancestorIds": [
+        "56BDB95B1194440490D659563A139DE1",
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "56BDB95B1194440490D659563A139DE1"
+    },
+    "C3914E0C7FFB45728C6F8AB9657EF5C5": {
+      "id": "C3914E0C7FFB45728C6F8AB9657EF5C5",
+      "asnIdentifier": "S2761500",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "ANL1.9.3",
+      "statementLabel": "Standard",
+      "description": "Explore legitimate and illegitimate uses of file sharing networks (e.g., BitTorrent, CDNs)",
+      "ancestorIds": [
+        "56BDB95B1194440490D659563A139DE1",
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "56BDB95B1194440490D659563A139DE1"
+    },
+    "62AF2579F00A474A8BFFDAC169BCABFC": {
+      "id": "62AF2579F00A474A8BFFDAC169BCABFC",
+      "asnIdentifier": "S2761499",
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "ANL1.9.2",
+      "statementLabel": "Standard",
+      "description": "Compare values of open-source and closed-source software development models",
+      "ancestorIds": [
+        "56BDB95B1194440490D659563A139DE1",
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "56BDB95B1194440490D659563A139DE1"
+    },
+    "97C2DE52DFFB41349119E2B599AE87DB": {
+      "id": "97C2DE52DFFB41349119E2B599AE87DB",
+      "asnIdentifier": "S2761498",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "ANL1.9.1",
+      "statementLabel": "Standard",
+      "description": "Recognize social impact of software piracy, plagiarism, and intellectual property theft",
+      "ancestorIds": [
+        "56BDB95B1194440490D659563A139DE1",
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "56BDB95B1194440490D659563A139DE1"
+    },
+    "56BDB95B1194440490D659563A139DE1": {
+      "id": "56BDB95B1194440490D659563A139DE1",
+      "asnIdentifier": "S2761497",
+      "position": 45000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "9.",
+      "description": "Students will analyze appropriate uses of technology.",
+      "ancestorIds": [
+        "EDACF031D0604515B15541E9B9510541"
+      ],
+      "parentId": "EDACF031D0604515B15541E9B9510541"
+    },
+    "EDACF031D0604515B15541E9B9510541": {
+      "id": "EDACF031D0604515B15541E9B9510541",
+      "asnIdentifier": "S2761496",
+      "position": 44000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Community, Global, and Ethical Impacts",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CD2E51A5432C4A2FA5A61248914926BF": {
+      "id": "CD2E51A5432C4A2FA5A61248914926BF",
+      "asnIdentifier": "S2761495",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "ANL2.8.2",
+      "statementLabel": "Standard",
+      "description": "Install, configure, and administer a network addressing the following:<ul><li>Explain concepts of Voice over Internet Protocol (VoIP) networks implementation (e.g., Power-over-Ethernet [PoE], Private Branch Exchange [PBX] configuration, Quality of Service [QoS], Virtual LAN [VLAN], video)</li><li>Analyze VLAN configuration (e.g., network segmentation, reasons)</li><li>Discuss considerations for QoS configuration</li><li>Identify uses for PoE to power network devices, including but not limited to the necessity of power injector and operation</li><li>Analyze common cable standard for cat5/cat6 cables (e.g., crossover, patch, straight through)</li><li>Demonstrate process of cable punch down for patch panels, wall jacks</li><li>Describe proper cable placement and cable management best practices</li><li>Explain operation of Network Address Translation (NAT)</li><li>Describe internal/external access as it related to Firewall operation</li><li>Discuss various Routing Types (e.g., distance, reliability, bandwidth)</li><li>Explain fundamentals of switch management</li></ul>",
+      "ancestorIds": [
+        "76C48B91BC9943DB920C31C18D98625E",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "76C48B91BC9943DB920C31C18D98625E"
+    },
+    "DD3A9E4AA9C044FABA38544F297F6AE1": {
+      "id": "DD3A9E4AA9C044FABA38544F297F6AE1",
+      "asnIdentifier": "S2761494",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "ANL2.8.1",
+      "statementLabel": "Standard",
+      "description": "Install, configure, and administer a server including the following tasks:<ul><li>Research server software requirements (e.g., email, filer, game, virtual services, web)</li><li>Install and configure server operating system (virtual or physical)</li><li>Apply appropriate server security</li><li>Install and configure server software (e.g., Apache, Exchange, Internet Information Services, Openfiler, Samba, Sendmail, Virtualbox, VMware)</li><li>Install and configure supporting services (e.g., Dynamic Host Configuration Protocol [DHCP], Domain Name System [DNS])</li><li>Explain domain name registration process</li><li>Describe propagation of DNS authoritative records</li><li>Ensure and maintain availability of services</li></ul>",
+      "ancestorIds": [
+        "76C48B91BC9943DB920C31C18D98625E",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "76C48B91BC9943DB920C31C18D98625E"
+    },
+    "E1F473AB696142B18E1194709053684D": {
+      "id": "E1F473AB696142B18E1194709053684D",
+      "asnIdentifier": "S2761493",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "ANL1.8.2",
+      "statementLabel": "Standard",
+      "description": "Install, configure, and administer a network addressing the following:<ul><li>Explain concepts of Voice over Internet Protocol (VoIP) networks implementation (e.g., Power-over-Ethernet [PoE], Private Branch Exchange [PBX] configuration, Quality of Service [QoS], Virtual LAN [VLAN], video)</li><li>Analyze VLAN configuration (e.g., network segmentation, reasons)</li><li>Discuss considerations for QoS configuration</li><li>Identify uses for PoE to power network devices, including but not limited to the necessity of power injector and operation</li><li>Analyze common cable standard for cat5/cat6 cables (e.g., crossover, patch, straight through)</li><li>Demonstrate process of cable punch down for patch panels, wall jacks</li><li>Describe proper cable placement and cable management best practices</li><li>Explain operation of Network Address Translation (NAT)</li><li>Describe internal/external access as it related to Firewall operation</li><li>Discuss various Routing Types (e.g., distance, reliability, bandwidth)</li><li>Explain fundamentals of switch management</li></ul>",
+      "ancestorIds": [
+        "76C48B91BC9943DB920C31C18D98625E",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "76C48B91BC9943DB920C31C18D98625E"
+    },
+    "A7E58EC008124847BA63143DDA5DFDA4": {
+      "id": "A7E58EC008124847BA63143DDA5DFDA4",
+      "asnIdentifier": "S2761492",
+      "position": 40000,
+      "depth": 2,
+      "statementNotation": "ANL1.8.1",
+      "statementLabel": "Standard",
+      "description": "Install, configure, and administer a server including the following tasks:<ul><li>Research server software requirements (e.g., email, filer, game, virtual services, web)</li><li>Install and configure server operating system (virtual or physical)</li><li>Apply appropriate server security</li><li>Install and configure server software (e.g., Apache, Exchange, Internet Information Services, Openfiler, Samba, Sendmail, Virtualbox, VMware)</li><li>Install and configure supporting services (e.g., Dynamic Host Configuration Protocol [DHCP], Domain Name System [DNS])</li><li>Explain domain name registration process</li><li>Describe propagation of DNS authoritative records</li><li>Ensure and maintain availability of services</li></ul>",
+      "ancestorIds": [
+        "76C48B91BC9943DB920C31C18D98625E",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "76C48B91BC9943DB920C31C18D98625E"
+    },
+    "76C48B91BC9943DB920C31C18D98625E": {
+      "id": "76C48B91BC9943DB920C31C18D98625E",
+      "asnIdentifier": "S2761491",
+      "position": 39000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "8.",
+      "description": "Students will design and implement a local area network to host a network service.",
+      "ancestorIds": [
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "AAA88EF9053E4E49A9C1D2E997556371"
+    },
+    "7E2F5C085A864014BBF54BAFE6F1D9E1": {
+      "id": "7E2F5C085A864014BBF54BAFE6F1D9E1",
+      "asnIdentifier": "S2761490",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "ANL2.7.2",
+      "statementLabel": "Standard",
+      "description": "Analyze tradeoffs of various network topologies",
+      "ancestorIds": [
+        "38445A9AF91E461D91C23A993A8FACE6",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "38445A9AF91E461D91C23A993A8FACE6"
+    },
+    "2A34DAC885BD437681B1A2FE4E85634F": {
+      "id": "2A34DAC885BD437681B1A2FE4E85634F",
+      "asnIdentifier": "S2761489",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "ANL2.7.1",
+      "statementLabel": "Standard",
+      "description": "Analyze tradeoffs associated with various media (e.g., bandwidth, cost, distance, noise)",
+      "ancestorIds": [
+        "38445A9AF91E461D91C23A993A8FACE6",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "38445A9AF91E461D91C23A993A8FACE6"
+    },
+    "7CF7A1AADB684FA686B317CFD80309C9": {
+      "id": "7CF7A1AADB684FA686B317CFD80309C9",
+      "asnIdentifier": "S2761488",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "ANL1.7.2",
+      "statementLabel": "Standard",
+      "description": "Identify common network topologies (e.g., contention, time slot, token)",
+      "ancestorIds": [
+        "38445A9AF91E461D91C23A993A8FACE6",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "38445A9AF91E461D91C23A993A8FACE6"
+    },
+    "54BBF5B8C0BF47F1A3782EC5F15FACBE": {
+      "id": "54BBF5B8C0BF47F1A3782EC5F15FACBE",
+      "asnIdentifier": "S2761487",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "ANL1.7.1",
+      "statementLabel": "Standard",
+      "description": "Analyze various networking media (e.g., amateur radio, copper, fiber, infrared, Wi-Fi)",
+      "ancestorIds": [
+        "38445A9AF91E461D91C23A993A8FACE6",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "38445A9AF91E461D91C23A993A8FACE6"
+    },
+    "38445A9AF91E461D91C23A993A8FACE6": {
+      "id": "38445A9AF91E461D91C23A993A8FACE6",
+      "asnIdentifier": "S2761486",
+      "position": 34000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "7.",
+      "description": "Students will analyze various networking media types and topologies.",
+      "ancestorIds": [
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "AAA88EF9053E4E49A9C1D2E997556371"
+    },
+    "496DF1283BAF451DB6599769D6D34C21": {
+      "id": "496DF1283BAF451DB6599769D6D34C21",
+      "asnIdentifier": "S2761485",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "ANL2.6.2",
+      "statementLabel": "Standard",
+      "description": "Select the most appropriate network device for a given role",
+      "ancestorIds": [
+        "FF0091462764412389C4EB6DC55DC4BF",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "FF0091462764412389C4EB6DC55DC4BF"
+    },
+    "9DDD9384BDE9434DA6D86221FBDFBE13": {
+      "id": "9DDD9384BDE9434DA6D86221FBDFBE13",
+      "asnIdentifier": "S2761484",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "ANL2.6.1",
+      "statementLabel": "Standard",
+      "description": "Analyze the basics of load-balancing technologies",
+      "ancestorIds": [
+        "FF0091462764412389C4EB6DC55DC4BF",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "FF0091462764412389C4EB6DC55DC4BF"
+    },
+    "EC54EE6D197B4A09805F77C75932B170": {
+      "id": "EC54EE6D197B4A09805F77C75932B170",
+      "asnIdentifier": "S2761483",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "ANL1.6.2",
+      "statementLabel": "Standard",
+      "description": "Describe differences among various network devices (e.g., hub, router, switch)",
+      "ancestorIds": [
+        "FF0091462764412389C4EB6DC55DC4BF",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "FF0091462764412389C4EB6DC55DC4BF"
+    },
+    "31D77D53AA8146F99A62FBB00035EC45": {
+      "id": "31D77D53AA8146F99A62FBB00035EC45",
+      "asnIdentifier": "S2761482",
+      "position": 30000,
+      "depth": 2,
+      "statementNotation": "ANL1.6.1",
+      "statementLabel": "Standard",
+      "description": "Analyze the client-server relationship including, but not limited to:<ul><li>how the relationship of clients and server hierarchy extends both above and below the user level</li><li>how networks act as clients to an \"upstream\" network and as a server to \"downstream\" users,</li><li>how each layer of the OSI model supports the services below it and the layers above</li></ul>",
+      "ancestorIds": [
+        "FF0091462764412389C4EB6DC55DC4BF",
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "FF0091462764412389C4EB6DC55DC4BF"
+    },
+    "FF0091462764412389C4EB6DC55DC4BF": {
+      "id": "FF0091462764412389C4EB6DC55DC4BF",
+      "asnIdentifier": "S2761481",
+      "position": 29000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "6.",
+      "description": "Students will analyze the utilization of network devices.",
+      "ancestorIds": [
+        "AAA88EF9053E4E49A9C1D2E997556371"
+      ],
+      "parentId": "AAA88EF9053E4E49A9C1D2E997556371"
+    },
+    "AAA88EF9053E4E49A9C1D2E997556371": {
+      "id": "AAA88EF9053E4E49A9C1D2E997556371",
+      "asnIdentifier": "S2761480",
+      "position": 28000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Computers and Communications",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "69DF30BF31424807BF04DFA46939C9BB": {
+      "id": "69DF30BF31424807BF04DFA46939C9BB",
+      "asnIdentifier": "S2761479",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "ANL2.5.2",
+      "statementLabel": "Standard",
+      "description": "Describe network operations when provided with network traffic from live or simulated sources",
+      "ancestorIds": [
+        "BF4930F50CDE4318A8831747C8629ADF",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "BF4930F50CDE4318A8831747C8629ADF"
+    },
+    "8B6A3A39DC6E425A94723DC181D87D9C": {
+      "id": "8B6A3A39DC6E425A94723DC181D87D9C",
+      "asnIdentifier": "S2761478",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "ANL2.5.1",
+      "statementLabel": "Standard",
+      "description": "Collect and interpret data from a network using various tools",
+      "ancestorIds": [
+        "BF4930F50CDE4318A8831747C8629ADF",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "BF4930F50CDE4318A8831747C8629ADF"
+    },
+    "A5338C0A7D4849B282E67C3B33E5CCEE": {
+      "id": "A5338C0A7D4849B282E67C3B33E5CCEE",
+      "asnIdentifier": "S2761477",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "ANL1.5.2",
+      "statementLabel": "Standard",
+      "description": "Identify various data being represented in network analysis",
+      "ancestorIds": [
+        "BF4930F50CDE4318A8831747C8629ADF",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "BF4930F50CDE4318A8831747C8629ADF"
+    },
+    "D94DFF80023D47B593AF7961E13BEA58": {
+      "id": "D94DFF80023D47B593AF7961E13BEA58",
+      "asnIdentifier": "S2761476",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "ANL1.5.1",
+      "statementLabel": "Standard",
+      "description": "Analyze various tools used for network analysis (e.g., Ethereal, ping, traceroute)",
+      "ancestorIds": [
+        "BF4930F50CDE4318A8831747C8629ADF",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "BF4930F50CDE4318A8831747C8629ADF"
+    },
+    "BF4930F50CDE4318A8831747C8629ADF": {
+      "id": "BF4930F50CDE4318A8831747C8629ADF",
+      "asnIdentifier": "S2761475",
+      "position": 23000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "5.",
+      "description": "Students will collect, interpret, and analyze data and information.",
+      "ancestorIds": [
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+    },
+    "E6D66787514747378D70824A02A8E83F": {
+      "id": "E6D66787514747378D70824A02A8E83F",
+      "asnIdentifier": "S2761474",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "ANL2.4.2",
+      "statementLabel": "Standard",
+      "description": "Select ideal access scheme for various situations (e.g., case studies)",
+      "ancestorIds": [
+        "A317EECEAE774599BFE6174E0D714BC1",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "A317EECEAE774599BFE6174E0D714BC1"
+    },
+    "FBC5211887EE41AD821F0BE749FACE13": {
+      "id": "FBC5211887EE41AD821F0BE749FACE13",
+      "asnIdentifier": "S2761473",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "ANL2.4.1",
+      "statementLabel": "Standard",
+      "description": "Design a multi-user storage solution",
+      "ancestorIds": [
+        "A317EECEAE774599BFE6174E0D714BC1",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "A317EECEAE774599BFE6174E0D714BC1"
+    },
+    "931ADE1D5C474063BA921D1C3B6EA31B": {
+      "id": "931ADE1D5C474063BA921D1C3B6EA31B",
+      "asnIdentifier": "S2761472",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "ANL1.4.2",
+      "statementLabel": "Standard",
+      "description": "Differentiate between types of access (e.g., internal/external accessibility)",
+      "ancestorIds": [
+        "A317EECEAE774599BFE6174E0D714BC1",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "A317EECEAE774599BFE6174E0D714BC1"
+    },
+    "6BA1F4ABC27F4A2198DC981893DCAEED": {
+      "id": "6BA1F4ABC27F4A2198DC981893DCAEED",
+      "asnIdentifier": "S2761471",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "ANL1.4.1",
+      "statementLabel": "Standard",
+      "description": "Analyze various data storage methods (e.g., cloud, local, network)",
+      "ancestorIds": [
+        "A317EECEAE774599BFE6174E0D714BC1",
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "A317EECEAE774599BFE6174E0D714BC1"
+    },
+    "A317EECEAE774599BFE6174E0D714BC1": {
+      "id": "A317EECEAE774599BFE6174E0D714BC1",
+      "asnIdentifier": "S2761470",
+      "position": 18000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "4.",
+      "description": "Students will analyze various ways in which data is accessed.",
+      "ancestorIds": [
+        "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+      ],
+      "parentId": "A2D4245CEA7E4CB48C3FD05CEAA589D6"
+    },
+    "A2D4245CEA7E4CB48C3FD05CEAA589D6": {
+      "id": "A2D4245CEA7E4CB48C3FD05CEAA589D6",
+      "asnIdentifier": "S2761469",
+      "position": 17000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Data and Information",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "316A55B7D9F8452E8DCC32C853FB0F73": {
+      "id": "316A55B7D9F8452E8DCC32C853FB0F73",
+      "asnIdentifier": "S2761468",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "ANL2.3.1",
+      "statementLabel": "Standard",
+      "description": "Design and complete a group-based networking project",
+      "ancestorIds": [
+        "72122D04E3D34C1A9DE11F8D7B9537B1",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "72122D04E3D34C1A9DE11F8D7B9537B1"
+    },
+    "C8A9977A5F1D4FFC83F4271919DC00FE": {
+      "id": "C8A9977A5F1D4FFC83F4271919DC00FE",
+      "asnIdentifier": "S2761467",
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "ANL1.3.1",
+      "statementLabel": "Standard",
+      "description": "Analyze tradeoffs of collaborative and cooperative problem solving when performing various networking activities",
+      "ancestorIds": [
+        "72122D04E3D34C1A9DE11F8D7B9537B1",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "72122D04E3D34C1A9DE11F8D7B9537B1"
+    },
+    "72122D04E3D34C1A9DE11F8D7B9537B1": {
+      "id": "72122D04E3D34C1A9DE11F8D7B9537B1",
+      "asnIdentifier": "S2761466",
+      "position": 14000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "3.",
+      "description": "Students will solve problems cooperatively and collaboratively.",
+      "ancestorIds": [
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "4DBAC8A7F6714850B4EFD0B3670D1920"
+    },
+    "57C44B28618E4739B48C391ED2644BEB": {
+      "id": "57C44B28618E4739B48C391ED2644BEB",
+      "asnIdentifier": "S2761465",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "ANL2.2.2",
+      "statementLabel": "Standard",
+      "description": "Continuation of this standard is not specifically included or excluded",
+      "ancestorIds": [
+        "B3FCF10DC64A41168B2BA09C00D9ECB0",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "B3FCF10DC64A41168B2BA09C00D9ECB0"
+    },
+    "EC84D39988AB473DB49EC3C933487BE8": {
+      "id": "EC84D39988AB473DB49EC3C933487BE8",
+      "asnIdentifier": "S2761464",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "ANL2.2.1",
+      "statementLabel": "Standard",
+      "description": "Perform operations with base10, base2, base8, and base16 numbers as they relate to networking concepts",
+      "ancestorIds": [
+        "B3FCF10DC64A41168B2BA09C00D9ECB0",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "B3FCF10DC64A41168B2BA09C00D9ECB0"
+    },
+    "6542450B1DD14E1DA12B35F4FAF743F8": {
+      "id": "6542450B1DD14E1DA12B35F4FAF743F8",
+      "asnIdentifier": "S2761463",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "ANL1.2.2",
+      "statementLabel": "Standard",
+      "description": "Describe limitations of addressing systems (e.g., IPv4 address scarcity vs. IPv6 limitations, 32 vs. 64 bit systems)",
+      "ancestorIds": [
+        "B3FCF10DC64A41168B2BA09C00D9ECB0",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "B3FCF10DC64A41168B2BA09C00D9ECB0"
+    },
+    "4AC68146BE5749ADAEEF1644ACCD1343": {
+      "id": "4AC68146BE5749ADAEEF1644ACCD1343",
+      "asnIdentifier": "S2761462",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "ANL1.2.1",
+      "statementLabel": "Standard",
+      "description": "Perform operations with base10, base2, base8, and base16 numbers as they relate to networking concepts (e.g., packet transmission, subnet masking)",
+      "ancestorIds": [
+        "B3FCF10DC64A41168B2BA09C00D9ECB0",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "B3FCF10DC64A41168B2BA09C00D9ECB0"
+    },
+    "B3FCF10DC64A41168B2BA09C00D9ECB0": {
+      "id": "B3FCF10DC64A41168B2BA09C00D9ECB0",
+      "asnIdentifier": "S2761461",
+      "position": 9000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "2.",
+      "description": "Students will analyze connections between elements of mathematics and computer science.",
+      "ancestorIds": [
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "4DBAC8A7F6714850B4EFD0B3670D1920"
+    },
+    "BE1CD6876F86459DA692EDDF544FB3A9": {
+      "id": "BE1CD6876F86459DA692EDDF544FB3A9",
+      "asnIdentifier": "S2761460",
+      "position": 8000,
+      "depth": 2,
+      "statementNotation": "ANL2.1.3",
+      "statementLabel": "Standard",
+      "description": "Continuation of this standard is not specifically included or excluded",
+      "ancestorIds": [
+        "9E29DB2A89C448A484A28DCF82389623",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "9E29DB2A89C448A484A28DCF82389623"
+    },
+    "82175279C19C44DBB9D207193EAB663C": {
+      "id": "82175279C19C44DBB9D207193EAB663C",
+      "asnIdentifier": "S2761459",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "ANL2.1.2",
+      "statementLabel": "Standard",
+      "description": "Identify and resolve networking problems (e.g., test network cables/configuration)",
+      "ancestorIds": [
+        "9E29DB2A89C448A484A28DCF82389623",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "9E29DB2A89C448A484A28DCF82389623"
+    },
+    "BC49EE3D476C4A8E8B66C350F678BD86": {
+      "id": "BC49EE3D476C4A8E8B66C350F678BD86",
+      "asnIdentifier": "S2761458",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "ANL2.1.1",
+      "statementLabel": "Standard",
+      "description": "Illustrate processes graphically (e.g., flow charting, network map)",
+      "ancestorIds": [
+        "9E29DB2A89C448A484A28DCF82389623",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "9E29DB2A89C448A484A28DCF82389623"
+    },
+    "8B53003FB7C145FCB833A260086C869D": {
+      "id": "8B53003FB7C145FCB833A260086C869D",
+      "asnIdentifier": "S2761457",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "ANL1.1.3",
+      "statementLabel": "Standard",
+      "description": "Identify best method for problem solving various scenarios",
+      "ancestorIds": [
+        "9E29DB2A89C448A484A28DCF82389623",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "9E29DB2A89C448A484A28DCF82389623"
+    },
+    "CD36B91566624755A869E74D9A2DF851": {
+      "id": "CD36B91566624755A869E74D9A2DF851",
+      "asnIdentifier": "S2761456",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "ANL1.1.2",
+      "statementLabel": "Standard",
+      "description": "Define and identify network problems (e.g., test network cables/configuration)",
+      "ancestorIds": [
+        "9E29DB2A89C448A484A28DCF82389623",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "9E29DB2A89C448A484A28DCF82389623"
+    },
+    "7AFF16EAE4CA4609BB4BDF569BE39B5E": {
+      "id": "7AFF16EAE4CA4609BB4BDF569BE39B5E",
+      "asnIdentifier": "S2761455",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "ANL1.1.1",
+      "statementLabel": "Standard",
+      "description": "Interpret and follow graphically illustrated processes (e.g., flow charting, network map)",
+      "ancestorIds": [
+        "9E29DB2A89C448A484A28DCF82389623",
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "9E29DB2A89C448A484A28DCF82389623"
+    },
+    "9E29DB2A89C448A484A28DCF82389623": {
+      "id": "9E29DB2A89C448A484A28DCF82389623",
+      "asnIdentifier": "S2761454",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Content Cluster",
+      "listId": "1.",
+      "description": "Students will analyze problem-solving strategies.",
+      "ancestorIds": [
+        "4DBAC8A7F6714850B4EFD0B3670D1920"
+      ],
+      "parentId": "4DBAC8A7F6714850B4EFD0B3670D1920"
+    },
+    "4DBAC8A7F6714850B4EFD0B3670D1920": {
+      "id": "4DBAC8A7F6714850B4EFD0B3670D1920",
+      "asnIdentifier": "S2761453",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Strand",
+      "description": "Computational Thinking and Problem Solving",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

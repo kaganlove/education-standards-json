@@ -1,0 +1,777 @@
+{
+  "id": "06B047C5A1C749C189BC1D4F7A01C1F9",
+  "title": "Multivariable Calculus",
+  "subject": "Mathematics (2021-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Georgia’s K-12 Mathematics Standards-Implementation SY2023-2024",
+    "sourceURL": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/67bf62df-0bac-4916-8a2e-57ecbdb46aa4/426",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "50E3F61BC74B4711BCEA6DC612784EDF": {
+      "id": "50E3F61BC74B4711BCEA6DC612784EDF",
+      "asnIdentifier": null,
+      "position": 8018,
+      "depth": 2,
+      "listId": "4.9",
+      "statementNotation": "MVC.AQR.4.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and apply the gradient, the divergence, and the curl in terms of integrals of vector functions.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "D7C7FF356AFD43D480BA53ACD8788DC0": {
+      "id": "D7C7FF356AFD43D480BA53ACD8788DC0",
+      "asnIdentifier": null,
+      "position": 8017,
+      "depth": 2,
+      "listId": "4.8",
+      "statementNotation": "MVC.AQR.4.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Gauss’ Divergence Theorem to evaluate surface integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "2DF88407B7F9408AA5E0C37B753C04BF": {
+      "id": "2DF88407B7F9408AA5E0C37B753C04BF",
+      "asnIdentifier": null,
+      "position": 8016,
+      "depth": 2,
+      "listId": "4.7",
+      "statementNotation": "MVC.AQR.4.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a line integral is independent of path and use line integrals in context.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "8F0CC4DFB79840EDA44CC3779EE6ABA4": {
+      "id": "8F0CC4DFB79840EDA44CC3779EE6ABA4",
+      "asnIdentifier": null,
+      "position": 8015,
+      "depth": 2,
+      "listId": "4.6",
+      "statementNotation": "MVC.AQR.4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Green’s Theorem to evaluate line integrals in the plane; use Stokes’ Theorem to evaluate line integrals in space.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "9A614F33E0904302B7C6A11A0710D4F5": {
+      "id": "9A614F33E0904302B7C6A11A0710D4F5",
+      "asnIdentifier": null,
+      "position": 8014,
+      "depth": 2,
+      "listId": "4.5",
+      "statementNotation": "MVC.AQR.4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve first-order exact differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "B352C139B78D46779D00DCDDE70C0EEC": {
+      "id": "B352C139B78D46779D00DCDDE70C0EEC",
+      "asnIdentifier": null,
+      "position": 8013,
+      "depth": 2,
+      "listId": "4.4",
+      "statementNotation": "MVC.AQR.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply line and surface integral to functions representing real-world phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "B07B59B8A0234B098743C867537FA07C": {
+      "id": "B07B59B8A0234B098743C867537FA07C",
+      "asnIdentifier": null,
+      "position": 8012,
+      "depth": 2,
+      "listId": "4.3",
+      "statementNotation": "MVC.AQR.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent and evaluate integrals of vector functions as double and triple integrals.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "3BA76C5F33D047AC9785C352EA5BBEE1": {
+      "id": "3BA76C5F33D047AC9785C352EA5BBEE1",
+      "asnIdentifier": null,
+      "position": 8011,
+      "depth": 2,
+      "listId": "4.2",
+      "statementNotation": "MVC.AQR.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use, evaluate, and interpret double and triple integrals in terms of volume and mass.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "DE4D65D0EB7A496AACCE49E98FFD6211": {
+      "id": "DE4D65D0EB7A496AACCE49E98FFD6211",
+      "asnIdentifier": null,
+      "position": 8010,
+      "depth": 2,
+      "listId": "4.1",
+      "statementNotation": "MVC.AQR.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integrate functions of the form z = f(x, y) or w = f(x, y, z) through various techniques.",
+      "comments": [],
+      "ancestorIds": [
+        "A197BD49D9444021BA55E2D51D8BDD52",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "A197BD49D9444021BA55E2D51D8BDD52"
+    },
+    "A197BD49D9444021BA55E2D51D8BDD52": {
+      "id": "A197BD49D9444021BA55E2D51D8BDD52",
+      "asnIdentifier": null,
+      "position": 8009,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "MVC.AQR.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret integrals of functions of two independent variables and of vector functions to solve contextual, mathematical problems and to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "F3BB0CED33F84A2A8C3E3A99F73E128C"
+    },
+    "DDBCDEDE1F1C449A8073893DD64CA38A": {
+      "id": "DDBCDEDE1F1C449A8073893DD64CA38A",
+      "asnIdentifier": null,
+      "position": 8008,
+      "depth": 2,
+      "listId": "3.8",
+      "statementNotation": "MVC.AQR.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and apply the gradient, the divergence, and the curl in terms of differential vector operations.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "9E9D389458D448C3B5DA27464358EB0F": {
+      "id": "9E9D389458D448C3B5DA27464358EB0F",
+      "asnIdentifier": null,
+      "position": 8007,
+      "depth": 2,
+      "listId": "3.7",
+      "statementNotation": "MVC.AQR.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the family of solutions and the envelope of the family of solutions to differential equations, including Clairaut equations.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "9C769A224BAE4B60819DAF9F7D63A857": {
+      "id": "9C769A224BAE4B60819DAF9F7D63A857",
+      "asnIdentifier": null,
+      "position": 8006,
+      "depth": 2,
+      "listId": "3.6",
+      "statementNotation": "MVC.AQR.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply partial differentiation to problems of optimization, including problems requiring the use of the Lagrange multiplier.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "450BF1FA3ABD419B81397871EEB03ED6": {
+      "id": "450BF1FA3ABD419B81397871EEB03ED6",
+      "asnIdentifier": null,
+      "position": 8005,
+      "depth": 2,
+      "listId": "3.5",
+      "statementNotation": "MVC.AQR.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the partial derivatives of the composition of functions using the general chain rule.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "48A46D1EE01D400DA6597E9DDE7CF947": {
+      "id": "48A46D1EE01D400DA6597E9DDE7CF947",
+      "asnIdentifier": null,
+      "position": 8004,
+      "depth": 2,
+      "listId": "3.4",
+      "statementNotation": "MVC.AQR.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent the partial derivatives of a system of two functions in two variables using the Jacobian.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "7FCFE4BB2B544A1EA8A2DDED24F04805": {
+      "id": "7FCFE4BB2B544A1EA8A2DDED24F04805",
+      "asnIdentifier": null,
+      "position": 8003,
+      "depth": 2,
+      "listId": "3.3",
+      "statementNotation": "MVC.AQR.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the total differential to approximate mathematical models.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "D584230BE5D64FB5BB2D00D3E4EE9CB5": {
+      "id": "D584230BE5D64FB5BB2D00D3E4EE9CB5",
+      "asnIdentifier": null,
+      "position": 8002,
+      "depth": 2,
+      "listId": "3.2",
+      "statementNotation": "MVC.AQR.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find expressions for the first and second partial derivatives of a function.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "AB7D817649214E68830AC3A78E126DD3": {
+      "id": "AB7D817649214E68830AC3A78E126DD3",
+      "asnIdentifier": null,
+      "position": 8001,
+      "depth": 2,
+      "listId": "3.1",
+      "statementNotation": "MVC.AQR.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approximate the partial derivatives at a point of a function defined by a table of data.",
+      "comments": [],
+      "ancestorIds": [
+        "6A27EED1CE334395AFBD046F49552CF8",
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "6A27EED1CE334395AFBD046F49552CF8"
+    },
+    "6A27EED1CE334395AFBD046F49552CF8": {
+      "id": "6A27EED1CE334395AFBD046F49552CF8",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "MVC.AQR.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define, describe, and represent the differentiation of functions of two independent variables and differential vectors to solve contextual, mathematical problems and to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "F3BB0CED33F84A2A8C3E3A99F73E128C"
+      ],
+      "parentId": "F3BB0CED33F84A2A8C3E3A99F73E128C"
+    },
+    "F3BB0CED33F84A2A8C3E3A99F73E128C": {
+      "id": "F3BB0CED33F84A2A8C3E3A99F73E128C",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Abstract & Quantitative Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A6DE658AC6914BB7A58C0F9A580CF95D": {
+      "id": "A6DE658AC6914BB7A58C0F9A580CF95D",
+      "asnIdentifier": null,
+      "position": 6007,
+      "depth": 2,
+      "listId": "2.7",
+      "statementNotation": "MVC.PAR.2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine points or regions of discontinuity of functions of two independent variables.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "E52828D5CFA74D76A2954DAF47FF777E": {
+      "id": "E52828D5CFA74D76A2954DAF47FF777E",
+      "asnIdentifier": null,
+      "position": 6006,
+      "depth": 2,
+      "listId": "2.6",
+      "statementNotation": "MVC.PAR.2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Investigate the continuity of functions of two independent variables in terms of the limits of such functions as (x, y) approaches a given point in the plane.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "86BEBB64DDC74241BAC6E84645097156": {
+      "id": "86BEBB64DDC74241BAC6E84645097156",
+      "asnIdentifier": null,
+      "position": 6005,
+      "depth": 2,
+      "listId": "2.5",
+      "statementNotation": "MVC.PAR.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph the level curves of functions of two independent variables.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "D53C4F718A6C40B689F7A64EEE445B76": {
+      "id": "D53C4F718A6C40B689F7A64EEE445B76",
+      "asnIdentifier": null,
+      "position": 6004,
+      "depth": 2,
+      "listId": "2.4",
+      "statementNotation": "MVC.PAR.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate functions of two independent variables at a point in the plane.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "BA86FBAD053C40EFAE3425C9510B7D42": {
+      "id": "BA86FBAD053C40EFAE3425C9510B7D42",
+      "asnIdentifier": null,
+      "position": 6003,
+      "depth": 2,
+      "listId": "2.3",
+      "statementNotation": "MVC.PAR.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a linear system of equations to determine whether two planes intersect in a single point or a line, or whether they do not intersect at all.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "EC9816801BDE49CBA60D409E57B2B6C1": {
+      "id": "EC9816801BDE49CBA60D409E57B2B6C1",
+      "asnIdentifier": null,
+      "position": 6002,
+      "depth": 2,
+      "listId": "2.2",
+      "statementNotation": "MVC.PAR.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Express the analytic geometry of three dimensions in terms of the dot product and cross product of vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "F68F235F51434292B33CC3C4B3D9E297": {
+      "id": "F68F235F51434292B33CC3C4B3D9E297",
+      "asnIdentifier": null,
+      "position": 6001,
+      "depth": 2,
+      "listId": "2.1",
+      "statementNotation": "MVC.PAR.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent equations of lines in space using vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "584A820305994888B6BA2E3A25E3259C",
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "584A820305994888B6BA2E3A25E3259C"
+    },
+    "584A820305994888B6BA2E3A25E3259C": {
+      "id": "584A820305994888B6BA2E3A25E3259C",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "MVC.PAR.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Express spatial and functional relationships with vectors, functions, and analytic geometry in three dimensions, and use these relationships to solve contextual, mathematical problems.",
+      "comments": [],
+      "ancestorIds": [
+        "A78B6E88675E48D49FB484E5F1111552"
+      ],
+      "parentId": "A78B6E88675E48D49FB484E5F1111552"
+    },
+    "A78B6E88675E48D49FB484E5F1111552": {
+      "id": "A78B6E88675E48D49FB484E5F1111552",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Patterning & Algebraic Reasoning ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3D2456FA2BBC43868E23B064689235C2": {
+      "id": "3D2456FA2BBC43868E23B064689235C2",
+      "asnIdentifier": null,
+      "position": 4004,
+      "depth": 2,
+      "listId": "1.4",
+      "statementNotation": "MVC.MM.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use various mathematical representations and structures with this information to represent and solve real-life problems.",
+      "comments": [],
+      "ancestorIds": [
+        "593DE0A1B5F14D8190FE11D3CE48A64B",
+        "E39CE5173ECF449D833C6A66283BB4CA"
+      ],
+      "parentId": "593DE0A1B5F14D8190FE11D3CE48A64B"
+    },
+    "1E58E4826FB24A84884095C56C31DB17": {
+      "id": "1E58E4826FB24A84884095C56C31DB17",
+      "asnIdentifier": null,
+      "position": 4003,
+      "depth": 2,
+      "listId": "1.3",
+      "statementNotation": "MVC.MM.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using abstract and quantitative reasoning, make decisions about information and data from a contextual situation.",
+      "comments": [],
+      "ancestorIds": [
+        "593DE0A1B5F14D8190FE11D3CE48A64B",
+        "E39CE5173ECF449D833C6A66283BB4CA"
+      ],
+      "parentId": "593DE0A1B5F14D8190FE11D3CE48A64B"
+    },
+    "7D040043A0B643CB8D55376D6F7BFBA6": {
+      "id": "7D040043A0B643CB8D55376D6F7BFBA6",
+      "asnIdentifier": null,
+      "position": 4002,
+      "depth": 2,
+      "listId": "1.2",
+      "statementNotation": "MVC.MM.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create mathematical models to explain phenomena that exist in the natural sciences, social sciences, liberal arts, fine and performing arts, and/or humanities contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "593DE0A1B5F14D8190FE11D3CE48A64B",
+        "E39CE5173ECF449D833C6A66283BB4CA"
+      ],
+      "parentId": "593DE0A1B5F14D8190FE11D3CE48A64B"
+    },
+    "3CEE2788CAE04921B15F57FBEE5E44B3": {
+      "id": "3CEE2788CAE04921B15F57FBEE5E44B3",
+      "asnIdentifier": null,
+      "position": 4001,
+      "depth": 2,
+      "listId": "1.1",
+      "statementNotation": "MVC.MM.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain contextual, mathematical problems using a mathematical model.",
+      "comments": [],
+      "ancestorIds": [
+        "593DE0A1B5F14D8190FE11D3CE48A64B",
+        "E39CE5173ECF449D833C6A66283BB4CA"
+      ],
+      "parentId": "593DE0A1B5F14D8190FE11D3CE48A64B"
+    },
+    "593DE0A1B5F14D8190FE11D3CE48A64B": {
+      "id": "593DE0A1B5F14D8190FE11D3CE48A64B",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "MVC.MM.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply mathematics to real-life situations; model real-life phenomena using mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "E39CE5173ECF449D833C6A66283BB4CA"
+      ],
+      "parentId": "E39CE5173ECF449D833C6A66283BB4CA"
+    },
+    "E39CE5173ECF449D833C6A66283BB4CA": {
+      "id": "E39CE5173ECF449D833C6A66283BB4CA",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mathematical Modeling",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F74FA587BC3A4FA39CF8377527CDB9CB": {
+      "id": "F74FA587BC3A4FA39CF8377527CDB9CB",
+      "asnIdentifier": null,
+      "position": 2007,
+      "depth": 2,
+      "listId": "0.8",
+      "statementNotation": "MVC.MP.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look for and express regularity in repeated reasoning.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "8D10D9068988407A91572F1163040537": {
+      "id": "8D10D9068988407A91572F1163040537",
+      "asnIdentifier": null,
+      "position": 2006,
+      "depth": 2,
+      "listId": "0.7",
+      "statementNotation": "MVC.MP.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look for and make use of structure.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "68DAD0BF2E8A4396BE9490C837D09A2C": {
+      "id": "68DAD0BF2E8A4396BE9490C837D09A2C",
+      "asnIdentifier": null,
+      "position": 2005,
+      "depth": 2,
+      "listId": "0.6",
+      "statementNotation": "MVC.MP.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attend to precision.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "9DFA7382BFE24EA18CE691676B9A8B4C": {
+      "id": "9DFA7382BFE24EA18CE691676B9A8B4C",
+      "asnIdentifier": null,
+      "position": 2004,
+      "depth": 2,
+      "listId": "0.5",
+      "statementNotation": "MVC.MP.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use appropriate tools strategically.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "D69DD66A77A042E4B29AD068A4AF2280": {
+      "id": "D69DD66A77A042E4B29AD068A4AF2280",
+      "asnIdentifier": null,
+      "position": 2003,
+      "depth": 2,
+      "listId": "0.4",
+      "statementNotation": "MVC.MP.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model with mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "60CD4F3882484E96A5D7E394DF6D9FF4": {
+      "id": "60CD4F3882484E96A5D7E394DF6D9FF4",
+      "asnIdentifier": null,
+      "position": 2002,
+      "depth": 2,
+      "listId": "0.3",
+      "statementNotation": "MVC.MP.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "3B3B33139CCE4CF79E93D969222280E5": {
+      "id": "3B3B33139CCE4CF79E93D969222280E5",
+      "asnIdentifier": null,
+      "position": 2001,
+      "depth": 2,
+      "listId": "0.2",
+      "statementNotation": "MVC.MP.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reason abstractly and quantitatively.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "A69846B5F3BE4D018988025E0BCCE964": {
+      "id": "A69846B5F3BE4D018988025E0BCCE964",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "0.1",
+      "statementNotation": "MVC.MP.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make sense of problems and persevere in solving them.",
+      "comments": [],
+      "ancestorIds": [
+        "6B3B59B357E14ED392CBB6F80BE3F305",
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "6B3B59B357E14ED392CBB6F80BE3F305"
+    },
+    "6B3B59B357E14ED392CBB6F80BE3F305": {
+      "id": "6B3B59B357E14ED392CBB6F80BE3F305",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "0",
+      "statementNotation": "MVC.MP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Display perseverance and patience in problem-solving. Demonstrate skills and strategies needed to succeed in mathematics, including critical thinking, reasoning, and effective collaboration and expression. Seek help and apply feedback. Set and monitor goals.",
+      "comments": [],
+      "ancestorIds": [
+        "87A967196B784D9F9B194DBA01629246"
+      ],
+      "parentId": "87A967196B784D9F9B194DBA01629246"
+    },
+    "87A967196B784D9F9B194DBA01629246": {
+      "id": "87A967196B784D9F9B194DBA01629246",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mathematical Practices",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

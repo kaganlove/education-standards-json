@@ -1,0 +1,603 @@
+{
+  "id": "B70CD51FA1A547B4A0661D1C82F23E8A",
+  "title": "Grade 5",
+  "subject": "Computer Science (2024-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "05"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Computer Science Standards Review and Revision Committee",
+    "sourceURL": "https://go.boarddocs.com/co/cde/Board.nsf/files/D3U2NE02F6DA/$file/Clean%20Copy%20K-12%20CS%20Standards%20Final%20Recommendations%20April%202024_Final.pdf",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "83F29380C23C4AEB843733B243CB2243",
+    "title": "Colorado"
+  },
+  "standards": {
+    "766E32AC02F841B29B47BA7804CCFD42": {
+      "id": "766E32AC02F841B29B47BA7804CCFD42",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.5.6.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how certain policies and laws are created to guide online interactions.",
+      "comments": [],
+      "ancestorIds": [
+        "1B8A752CCA6049E2A25651516784BADA",
+        "F1102DEA627144499F9505F7D4130A44",
+        "734E178876E64BC5AA29C07EB31A1184"
+      ],
+      "parentId": "1B8A752CCA6049E2A25651516784BADA"
+    },
+    "23D853F3CB6A4DDB9B9C449221DC9E4D": {
+      "id": "23D853F3CB6A4DDB9B9C449221DC9E4D",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.5.6.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify strategies for dealing with cyberbullying and ways they can be an upstander for those being bullied.",
+      "comments": [],
+      "ancestorIds": [
+        "1B8A752CCA6049E2A25651516784BADA",
+        "F1102DEA627144499F9505F7D4130A44",
+        "734E178876E64BC5AA29C07EB31A1184"
+      ],
+      "parentId": "1B8A752CCA6049E2A25651516784BADA"
+    },
+    "5E6E21F3EECD41499A42D55A164FAC2D": {
+      "id": "5E6E21F3EECD41499A42D55A164FAC2D",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.5.6.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize similarities and differences between in-person bullying, cyberbullying, and being mean.",
+      "comments": [],
+      "ancestorIds": [
+        "1B8A752CCA6049E2A25651516784BADA",
+        "F1102DEA627144499F9505F7D4130A44",
+        "734E178876E64BC5AA29C07EB31A1184"
+      ],
+      "parentId": "1B8A752CCA6049E2A25651516784BADA"
+    },
+    "1B8A752CCA6049E2A25651516784BADA": {
+      "id": "1B8A752CCA6049E2A25651516784BADA",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.5.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cyberbullying is the use of digital devices, sites, and apps to intimidate, harm, and/or upset someone.",
+      "comments": [],
+      "ancestorIds": [
+        "F1102DEA627144499F9505F7D4130A44",
+        "734E178876E64BC5AA29C07EB31A1184"
+      ],
+      "parentId": "F1102DEA627144499F9505F7D4130A44"
+    },
+    "F1102DEA627144499F9505F7D4130A44": {
+      "id": "F1102DEA627144499F9505F7D4130A44",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 1,
+      "listId": "13",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Practice responsible, ethical, and safe use of computing technology and the internet.",
+      "comments": [],
+      "ancestorIds": [
+        "734E178876E64BC5AA29C07EB31A1184"
+      ],
+      "parentId": "734E178876E64BC5AA29C07EB31A1184"
+    },
+    "734E178876E64BC5AA29C07EB31A1184": {
+      "id": "734E178876E64BC5AA29C07EB31A1184",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital Citizenship",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "950B0539DE9E46AF87357B515DA02347": {
+      "id": "950B0539DE9E46AF87357B515DA02347",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.5.5.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify patterns in labeled data and determine the features that predict labels. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6242E6E0CFD48C0BF3770852DD779BD",
+        "811B6DEE58984D798BE76BD93938B5D9",
+        "7BE7B8FFAB064283B770CCB495E24A31"
+      ],
+      "parentId": "A6242E6E0CFD48C0BF3770852DD779BD"
+    },
+    "6760AF223AED402A895ABFCC8EE5665E": {
+      "id": "6760AF223AED402A895ABFCC8EE5665E",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.5.5.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify problems as either classification problems or search problems. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6242E6E0CFD48C0BF3770852DD779BD",
+        "811B6DEE58984D798BE76BD93938B5D9",
+        "7BE7B8FFAB064283B770CCB495E24A31"
+      ],
+      "parentId": "A6242E6E0CFD48C0BF3770852DD779BD"
+    },
+    "BE498C1790C14712BAA970CBF9717EA6": {
+      "id": "BE498C1790C14712BAA970CBF9717EA6",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.5.5.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Give examples of intelligent vs. non intelligent machines and discuss what makes a machine intelligent. ",
+      "comments": [],
+      "ancestorIds": [
+        "A6242E6E0CFD48C0BF3770852DD779BD",
+        "811B6DEE58984D798BE76BD93938B5D9",
+        "7BE7B8FFAB064283B770CCB495E24A31"
+      ],
+      "parentId": "A6242E6E0CFD48C0BF3770852DD779BD"
+    },
+    "A6242E6E0CFD48C0BF3770852DD779BD": {
+      "id": "A6242E6E0CFD48C0BF3770852DD779BD",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.5.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "AI systems can express information through a variety of ways and can perform tasks they were not explicitly programmed to perform through machine learning",
+      "comments": [],
+      "ancestorIds": [
+        "811B6DEE58984D798BE76BD93938B5D9",
+        "7BE7B8FFAB064283B770CCB495E24A31"
+      ],
+      "parentId": "811B6DEE58984D798BE76BD93938B5D9"
+    },
+    "811B6DEE58984D798BE76BD93938B5D9": {
+      "id": "811B6DEE58984D798BE76BD93938B5D9",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "12",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how AI tools work and how they are built. ",
+      "comments": [],
+      "ancestorIds": [
+        "7BE7B8FFAB064283B770CCB495E24A31"
+      ],
+      "parentId": "7BE7B8FFAB064283B770CCB495E24A31"
+    },
+    "7BE7B8FFAB064283B770CCB495E24A31": {
+      "id": "7BE7B8FFAB064283B770CCB495E24A31",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Artificial Intelligence (AI) ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C7064623CBE149CEA323902C4453AFB3": {
+      "id": "C7064623CBE149CEA323902C4453AFB3",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "CS.5.3.1.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe choices made during program development using code comments, presentations, and demonstrations. ",
+      "comments": [],
+      "ancestorIds": [
+        "79192B3A4BC34413BC7EBD73357A5DFC",
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "79192B3A4BC34413BC7EBD73357A5DFC"
+    },
+    "4EEC9172A00D492FB408F3A946EB76E2": {
+      "id": "4EEC9172A00D492FB408F3A946EB76E2",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "CS.5.3.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Take on varying roles, with teacher guidance, when collaborating with peers during the design, implementation, and review stages of program development. ",
+      "comments": [],
+      "ancestorIds": [
+        "79192B3A4BC34413BC7EBD73357A5DFC",
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "79192B3A4BC34413BC7EBD73357A5DFC"
+    },
+    "8DA56156635B480A99B0605108BFD681": {
+      "id": "8DA56156635B480A99B0605108BFD681",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "CS.5.3.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use an iterative process to plan the development of a program by including others' perspectives and considering diverse viewpoints. ",
+      "comments": [],
+      "ancestorIds": [
+        "79192B3A4BC34413BC7EBD73357A5DFC",
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "79192B3A4BC34413BC7EBD73357A5DFC"
+    },
+    "3C5AD8AB8D404FC8AFE526393F442AB8": {
+      "id": "3C5AD8AB8D404FC8AFE526393F442AB8",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.5.3.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.  ",
+      "comments": [],
+      "ancestorIds": [
+        "79192B3A4BC34413BC7EBD73357A5DFC",
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "79192B3A4BC34413BC7EBD73357A5DFC"
+    },
+    "905C517AAD6A43CFBD98ABA29858A29D": {
+      "id": "905C517AAD6A43CFBD98ABA29858A29D",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.5.3.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs that include sequences, events, loops, and conditionals.  ",
+      "comments": [],
+      "ancestorIds": [
+        "79192B3A4BC34413BC7EBD73357A5DFC",
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "79192B3A4BC34413BC7EBD73357A5DFC"
+    },
+    "A41B8C4764AA453980CE4818FEBAF225": {
+      "id": "A41B8C4764AA453980CE4818FEBAF225",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.5.3.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs that use variables to store and modify data. ",
+      "comments": [],
+      "ancestorIds": [
+        "79192B3A4BC34413BC7EBD73357A5DFC",
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "79192B3A4BC34413BC7EBD73357A5DFC"
+    },
+    "79192B3A4BC34413BC7EBD73357A5DFC": {
+      "id": "79192B3A4BC34413BC7EBD73357A5DFC",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.5.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computer programs can include a variety of components that can be created and revised collaboratively over time to improve and expand the function of the program.",
+      "comments": [],
+      "ancestorIds": [
+        "7F8049B71B5A4163A6ED36F41391DE6D",
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "7F8049B71B5A4163A6ED36F41391DE6D"
+    },
+    "7F8049B71B5A4163A6ED36F41391DE6D": {
+      "id": "7F8049B71B5A4163A6ED36F41391DE6D",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and create programs, individually and collaboratively, for a variety of disciplines. ",
+      "comments": [],
+      "ancestorIds": [
+        "3D740FB9BB084A68B2B1011578A1C1D2"
+      ],
+      "parentId": "3D740FB9BB084A68B2B1011578A1C1D2"
+    },
+    "3D740FB9BB084A68B2B1011578A1C1D2": {
+      "id": "3D740FB9BB084A68B2B1011578A1C1D2",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computer Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D05F517CE38848CD97DD44F78B896864": {
+      "id": "D05F517CE38848CD97DD44F78B896864",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.5.2.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Seek diverse perspectives for the purpose of improving computational artifacts. ",
+      "comments": [],
+      "ancestorIds": [
+        "EF9D03231AAB4BEF84FAB0760B61F861",
+        "719E8C320853496EACA7909BE0110FBD",
+        "11537E52321D47F183DC11FFCEB9F5B4"
+      ],
+      "parentId": "EF9D03231AAB4BEF84FAB0760B61F861"
+    },
+    "EF9D03231AAB4BEF84FAB0760B61F861": {
+      "id": "EF9D03231AAB4BEF84FAB0760B61F861",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.5.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "When designing or improving computational artifacts, the designer should consider various perspectives.",
+      "comments": [],
+      "ancestorIds": [
+        "719E8C320853496EACA7909BE0110FBD",
+        "11537E52321D47F183DC11FFCEB9F5B4"
+      ],
+      "parentId": "719E8C320853496EACA7909BE0110FBD"
+    },
+    "719E8C320853496EACA7909BE0110FBD": {
+      "id": "719E8C320853496EACA7909BE0110FBD",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop systems solutions from a set of specifications to complete a design process.",
+      "comments": [],
+      "ancestorIds": [
+        "11537E52321D47F183DC11FFCEB9F5B4"
+      ],
+      "parentId": "11537E52321D47F183DC11FFCEB9F5B4"
+    },
+    "11537E52321D47F183DC11FFCEB9F5B4": {
+      "id": "11537E52321D47F183DC11FFCEB9F5B4",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing Systems and Networks ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B3EC5955CBAF438AAE2EC311CF80E71B": {
+      "id": "B3EC5955CBAF438AAE2EC311CF80E71B",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.5.1.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decompose (breakdown) problems into smaller, manageable subproblems to facilitate the program development process. ",
+      "comments": [],
+      "ancestorIds": [
+        "C297F066DE494910B292083C2296FC98",
+        "74C9182879954CEA9675F5D425007837",
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "C297F066DE494910B292083C2296FC98"
+    },
+    "C297F066DE494910B292083C2296FC98": {
+      "id": "C297F066DE494910B292083C2296FC98",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS.5.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complex problems can be broken into smaller parts to facilitate the program development process.",
+      "comments": [],
+      "ancestorIds": [
+        "74C9182879954CEA9675F5D425007837",
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "74C9182879954CEA9675F5D425007837"
+    },
+    "74C9182879954CEA9675F5D425007837": {
+      "id": "74C9182879954CEA9675F5D425007837",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systematically analyze a problem using decomposition and abstraction to formulate a solution.",
+      "comments": [],
+      "ancestorIds": [
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "D93FF5F6703E4A85BEB9927C366D1A00"
+    },
+    "CADAE683A7794FEE980D0B6F37CF3DF6": {
+      "id": "CADAE683A7794FEE980D0B6F37CF3DF6",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "CS.5.1.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. ",
+      "comments": [],
+      "ancestorIds": [
+        "F450492CB3494091A84F5E49D2F406AD",
+        "7D98D4B3394A4DC48E5495BE7F1BF840",
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "F450492CB3494091A84F5E49D2F406AD"
+    },
+    "5D7032D093EC4DEDABCC13B3984284F4": {
+      "id": "5D7032D093EC4DEDABCC13B3984284F4",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "CS.5.1.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare multiple algorithms for the same task and determine which is the most appropriate. ",
+      "comments": [],
+      "ancestorIds": [
+        "F450492CB3494091A84F5E49D2F406AD",
+        "7D98D4B3394A4DC48E5495BE7F1BF840",
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "F450492CB3494091A84F5E49D2F406AD"
+    },
+    "1354A013281B4BD19E10C1A42CFAC214": {
+      "id": "1354A013281B4BD19E10C1A42CFAC214",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "CS.5.1.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine potential solutions to solve simple hardware and software problems using common troubleshooting strategies. ",
+      "comments": [],
+      "ancestorIds": [
+        "F450492CB3494091A84F5E49D2F406AD",
+        "7D98D4B3394A4DC48E5495BE7F1BF840",
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "F450492CB3494091A84F5E49D2F406AD"
+    },
+    "F450492CB3494091A84F5E49D2F406AD": {
+      "id": "F450492CB3494091A84F5E49D2F406AD",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS.5.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms can be created, tested, and improved.",
+      "comments": [],
+      "ancestorIds": [
+        "7D98D4B3394A4DC48E5495BE7F1BF840",
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "7D98D4B3394A4DC48E5495BE7F1BF840"
+    },
+    "7D98D4B3394A4DC48E5495BE7F1BF840": {
+      "id": "7D98D4B3394A4DC48E5495BE7F1BF840",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop, utilize, and evaluate algorithms, to model and solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "D93FF5F6703E4A85BEB9927C366D1A00"
+      ],
+      "parentId": "D93FF5F6703E4A85BEB9927C366D1A00"
+    },
+    "D93FF5F6703E4A85BEB9927C366D1A00": {
+      "id": "D93FF5F6703E4A85BEB9927C366D1A00",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Thinking",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

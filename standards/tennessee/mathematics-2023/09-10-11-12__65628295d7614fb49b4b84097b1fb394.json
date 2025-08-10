@@ -1,0 +1,972 @@
+{
+  "id": "65628295D7614FB49B4B84097B1FB394",
+  "title": "Geometry",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "URL": "",
+    "rightsHolder": "D2L Corporation",
+    "title": ""
+  },
+  "document": {
+    "asnIdentifier": "D21321918",
+    "id": "D21321918",
+    "publicationStatus": "Published",
+    "sourceURL": "https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math/TN_Revised_Standards_K-4th_year_math_6-9-2022.pdf",
+    "title": "Tennessee Academic Standards: Mathematics K-4th Year",
+    "valid": "2023"
+  },
+  "jurisdiction": {
+    "id": "180878796A3C448D808F38BCCCFD26CF",
+    "title": "Tennessee"
+  },
+  "standards": {
+    "2203917A6EA24E42B05628B41CA16D0D": {
+      "asnIdentifier": "S21322556",
+      "depth": 3,
+      "description": "Calculate probabilities using geometric figures.",
+      "id": "2203917A6EA24E42B05628B41CA16D0D",
+      "position": 153000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.S.CP.C.4",
+      "ancestorIds": [
+        "D51C014419CD44BDAB400F2111BE5EF3",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "D51C014419CD44BDAB400F2111BE5EF3"
+    },
+    "D51C014419CD44BDAB400F2111BE5EF3": {
+      "asnIdentifier": "S21322555",
+      "depth": 2,
+      "description": "Apply geometric concepts to situations involving probability.",
+      "id": "D51C014419CD44BDAB400F2111BE5EF3",
+      "position": 152000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.S.CP.C",
+      "ancestorIds": [
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "5061D6AE698C42CAA0EA58EB3EB1DAE4"
+    },
+    "62F6A5AF3FC84B65978A094D599DD5C1": {
+      "asnIdentifier": "S21322554",
+      "depth": 4,
+      "description": "Apply the Addition Rule to solve problems and interpret the answer in terms of the given context.",
+      "id": "62F6A5AF3FC84B65978A094D599DD5C1",
+      "position": 151000,
+      "statementNotation": "G.S.CP.B.3.b",
+      "ancestorIds": [
+        "029566B8C4044E60BBAF2F5CD4CE699A",
+        "3722FEBC658647C0A77CC8EB2A537E2F",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "029566B8C4044E60BBAF2F5CD4CE699A"
+    },
+    "0C025ED7ED054B5A917C0D8AE8EE80AA": {
+      "asnIdentifier": "S21322553",
+      "depth": 4,
+      "description": "Explain the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B) in terms of visual models (Venn diagrams, frequency tables, etc.).",
+      "id": "0C025ED7ED054B5A917C0D8AE8EE80AA",
+      "position": 150000,
+      "statementNotation": "G.S.CP.B.3.a",
+      "ancestorIds": [
+        "029566B8C4044E60BBAF2F5CD4CE699A",
+        "3722FEBC658647C0A77CC8EB2A537E2F",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "029566B8C4044E60BBAF2F5CD4CE699A"
+    },
+    "029566B8C4044E60BBAF2F5CD4CE699A": {
+      "asnIdentifier": "S21322552",
+      "depth": 3,
+      "description": "Understand and apply the Addition Rule.",
+      "id": "029566B8C4044E60BBAF2F5CD4CE699A",
+      "position": 149000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.S.CP.B.3",
+      "ancestorIds": [
+        "3722FEBC658647C0A77CC8EB2A537E2F",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "3722FEBC658647C0A77CC8EB2A537E2F"
+    },
+    "5D55AF52396A42F086B4401F80B8694B": {
+      "asnIdentifier": "S21322551",
+      "depth": 3,
+      "description": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A and interpret the answer in terms of the given context.",
+      "id": "5D55AF52396A42F086B4401F80B8694B",
+      "position": 148000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.S.CP.B.2",
+      "ancestorIds": [
+        "3722FEBC658647C0A77CC8EB2A537E2F",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "3722FEBC658647C0A77CC8EB2A537E2F"
+    },
+    "3722FEBC658647C0A77CC8EB2A537E2F": {
+      "asnIdentifier": "S21322550",
+      "depth": 2,
+      "description": "Use the rules of probability to compute probabilities of compound events in a uniform probability model.",
+      "id": "3722FEBC658647C0A77CC8EB2A537E2F",
+      "position": 147000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.S.CP.B",
+      "ancestorIds": [
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "5061D6AE698C42CAA0EA58EB3EB1DAE4"
+    },
+    "408D9F09C3204C43B19F190319CFAEE9": {
+      "asnIdentifier": "S21322549",
+      "depth": 4,
+      "description": "Flexibly move between visual models (Venn diagrams, frequency tables, etc.) and set notation.",
+      "id": "408D9F09C3204C43B19F190319CFAEE9",
+      "position": 146000,
+      "statementNotation": "G.S.CP.A.1.b",
+      "ancestorIds": [
+        "CC0F0F9D5AD647AD8044CF6ECE16C724",
+        "B52FB99E46DB47F1902DC8E15B25356D",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "CC0F0F9D5AD647AD8044CF6ECE16C724"
+    },
+    "B49573E4C7CA4B0EA333536B6B0FF98D": {
+      "asnIdentifier": "S21322548",
+      "depth": 4,
+      "description": "Describe events as subsets of a sample space (the set of outcomes) using characteristics (or categories) of the outcomes, or as unions, intersections, or complements of other events (\"or\", \"and\", \"not\").",
+      "id": "B49573E4C7CA4B0EA333536B6B0FF98D",
+      "position": 145000,
+      "statementNotation": "G.S.CP.A.1.a",
+      "ancestorIds": [
+        "CC0F0F9D5AD647AD8044CF6ECE16C724",
+        "B52FB99E46DB47F1902DC8E15B25356D",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "CC0F0F9D5AD647AD8044CF6ECE16C724"
+    },
+    "CC0F0F9D5AD647AD8044CF6ECE16C724": {
+      "asnIdentifier": "S21322547",
+      "depth": 3,
+      "description": "Use set notation to represent contextual situations.",
+      "id": "CC0F0F9D5AD647AD8044CF6ECE16C724",
+      "position": 144000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.S.CP.A.1",
+      "ancestorIds": [
+        "B52FB99E46DB47F1902DC8E15B25356D",
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "B52FB99E46DB47F1902DC8E15B25356D"
+    },
+    "B52FB99E46DB47F1902DC8E15B25356D": {
+      "asnIdentifier": "S21322546",
+      "depth": 2,
+      "description": "Understand independence and conditional probability and use them to create visual representations of data.",
+      "id": "B52FB99E46DB47F1902DC8E15B25356D",
+      "position": 143000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.S.CP.A",
+      "ancestorIds": [
+        "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "5061D6AE698C42CAA0EA58EB3EB1DAE4"
+    },
+    "5061D6AE698C42CAA0EA58EB3EB1DAE4": {
+      "asnIdentifier": "S21322545",
+      "depth": 1,
+      "description": "Conditional Probability and the Rules of Probability",
+      "id": "5061D6AE698C42CAA0EA58EB3EB1DAE4",
+      "position": 142000,
+      "ancestorIds": [
+        "472F8F1DB13F400D8A149469C09F0358"
+      ],
+      "parentId": "472F8F1DB13F400D8A149469C09F0358"
+    },
+    "472F8F1DB13F400D8A149469C09F0358": {
+      "asnIdentifier": "S21322544",
+      "depth": 0,
+      "description": "Statistics and Probability",
+      "id": "472F8F1DB13F400D8A149469C09F0358",
+      "position": 141000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "39B960C6E26F4C4D8D5FFB7D4C78BAC7": {
+      "asnIdentifier": "S21322543",
+      "depth": 3,
+      "description": "Use geometric shapes, their measures, and their properties to model objects found in a real-world context for the purpose of approximating solutions to problems.",
+      "id": "39B960C6E26F4C4D8D5FFB7D4C78BAC7",
+      "position": 140000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.MG.A.1",
+      "ancestorIds": [
+        "71BF7C220F5247A8A4D131A5CA762E30",
+        "F9556C55EB2C49C1833242121FB51AF6",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "71BF7C220F5247A8A4D131A5CA762E30"
+    },
+    "71BF7C220F5247A8A4D131A5CA762E30": {
+      "asnIdentifier": "S21322542",
+      "depth": 2,
+      "description": "Apply geometric concepts in modeling situations.",
+      "id": "71BF7C220F5247A8A4D131A5CA762E30",
+      "position": 139000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.MG.A",
+      "ancestorIds": [
+        "F9556C55EB2C49C1833242121FB51AF6",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "F9556C55EB2C49C1833242121FB51AF6"
+    },
+    "F9556C55EB2C49C1833242121FB51AF6": {
+      "asnIdentifier": "S21322541",
+      "depth": 1,
+      "description": "Modeling with Geometry",
+      "id": "F9556C55EB2C49C1833242121FB51AF6",
+      "position": 138000,
+      "ancestorIds": [
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "D22E802EA8FF4831B353216EC5DF39DE"
+    },
+    "11B30D21672A4DDD88098363D43AC738": {
+      "asnIdentifier": "S21322540",
+      "depth": 3,
+      "description": "Use volume and surface area formulas for cylinders, cones, prisms, pyramids, and spheres to solve problems in a real-world context.",
+      "id": "11B30D21672A4DDD88098363D43AC738",
+      "position": 137000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.GMD.A.2",
+      "ancestorIds": [
+        "CB357AA0D1324EE093EC9115EF311563",
+        "2C9F5D871E924D6A8FC3DCA577F085B2",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "CB357AA0D1324EE093EC9115EF311563"
+    },
+    "4B78EA9034B24FB5B87D42C483CF01CC": {
+      "asnIdentifier": "S21322539",
+      "depth": 3,
+      "description": "Understand and explain the formulas for the volume and surface area of a cylinder, cone, prism, and pyramid.",
+      "id": "4B78EA9034B24FB5B87D42C483CF01CC",
+      "position": 136000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.GMD.A.1",
+      "ancestorIds": [
+        "CB357AA0D1324EE093EC9115EF311563",
+        "2C9F5D871E924D6A8FC3DCA577F085B2",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "CB357AA0D1324EE093EC9115EF311563"
+    },
+    "CB357AA0D1324EE093EC9115EF311563": {
+      "asnIdentifier": "S21322538",
+      "depth": 2,
+      "description": "Explain volume and surface area formulas and use them to solve problems.",
+      "id": "CB357AA0D1324EE093EC9115EF311563",
+      "position": 135000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.GMD.A",
+      "ancestorIds": [
+        "2C9F5D871E924D6A8FC3DCA577F085B2",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "2C9F5D871E924D6A8FC3DCA577F085B2"
+    },
+    "2C9F5D871E924D6A8FC3DCA577F085B2": {
+      "asnIdentifier": "S21322537",
+      "depth": 1,
+      "description": "Geometric Measurement and Dimension",
+      "id": "2C9F5D871E924D6A8FC3DCA577F085B2",
+      "position": 134000,
+      "ancestorIds": [
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "D22E802EA8FF4831B353216EC5DF39DE"
+    },
+    "F039BF25F7F74459B334CEB1A777D089": {
+      "asnIdentifier": "S21322536",
+      "depth": 3,
+      "description": "Understand the relationship between the Pythagorean Theorem and the distance formula and use an efficient method to solve problems on the coordinate plane.",
+      "id": "F039BF25F7F74459B334CEB1A777D089",
+      "position": 133000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.GPE.A.3",
+      "ancestorIds": [
+        "6592C8183DEF49F3806E4111662FFE18",
+        "F0C69C33CAB944EFB36BFC436A06EB6C",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "6592C8183DEF49F3806E4111662FFE18"
+    },
+    "F9C93596137A44AEAC18AF413FEDC251": {
+      "asnIdentifier": "S21322535",
+      "depth": 3,
+      "description": "Use the slope criteria for parallel and perpendicular lines to solve problems and to justify relationships in geometric figures.",
+      "id": "F9C93596137A44AEAC18AF413FEDC251",
+      "position": 132000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.GPE.A.2",
+      "ancestorIds": [
+        "6592C8183DEF49F3806E4111662FFE18",
+        "F0C69C33CAB944EFB36BFC436A06EB6C",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "6592C8183DEF49F3806E4111662FFE18"
+    },
+    "FA8EE8D826524CB0B4743D7E67BCAF57": {
+      "asnIdentifier": "S21322534",
+      "depth": 3,
+      "description": "Use coordinates to justify geometric relationships algebraically and to solve problems.",
+      "id": "FA8EE8D826524CB0B4743D7E67BCAF57",
+      "position": 131000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.GPE.A.1",
+      "ancestorIds": [
+        "6592C8183DEF49F3806E4111662FFE18",
+        "F0C69C33CAB944EFB36BFC436A06EB6C",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "6592C8183DEF49F3806E4111662FFE18"
+    },
+    "6592C8183DEF49F3806E4111662FFE18": {
+      "asnIdentifier": "S21322533",
+      "depth": 2,
+      "description": "Use coordinates to solve problems and justify simple geometric theorems algebraically.",
+      "id": "6592C8183DEF49F3806E4111662FFE18",
+      "position": 130000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.GPE.A",
+      "ancestorIds": [
+        "F0C69C33CAB944EFB36BFC436A06EB6C",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "F0C69C33CAB944EFB36BFC436A06EB6C"
+    },
+    "F0C69C33CAB944EFB36BFC436A06EB6C": {
+      "asnIdentifier": "S21322532",
+      "depth": 1,
+      "description": "Expressing Geometric Properties with Equations",
+      "id": "F0C69C33CAB944EFB36BFC436A06EB6C",
+      "position": 129000,
+      "ancestorIds": [
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "D22E802EA8FF4831B353216EC5DF39DE"
+    },
+    "1455F7FAE99F44598710FEE44CA00BF4": {
+      "asnIdentifier": "S21322531",
+      "depth": 3,
+      "description": "Use proportional relationships between the area of a circle and the area of a sector within the circle to solve problems in a real-world context.",
+      "id": "1455F7FAE99F44598710FEE44CA00BF4",
+      "position": 128000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.C.A.1",
+      "ancestorIds": [
+        "AF3391254BB94D528658F6B29D006B99",
+        "6BE03CF924194FCF851135779D369249",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "AF3391254BB94D528658F6B29D006B99"
+    },
+    "AF3391254BB94D528658F6B29D006B99": {
+      "asnIdentifier": "S21322530",
+      "depth": 2,
+      "description": "Find areas of sectors of circles.",
+      "id": "AF3391254BB94D528658F6B29D006B99",
+      "position": 127000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.C.A",
+      "ancestorIds": [
+        "6BE03CF924194FCF851135779D369249",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "6BE03CF924194FCF851135779D369249"
+    },
+    "6BE03CF924194FCF851135779D369249": {
+      "asnIdentifier": "S21322529",
+      "depth": 1,
+      "description": "Circles",
+      "id": "6BE03CF924194FCF851135779D369249",
+      "position": 126000,
+      "ancestorIds": [
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "D22E802EA8FF4831B353216EC5DF39DE"
+    },
+    "0882EDA3D61B44E2873AEE1308A19716": {
+      "asnIdentifier": "S21322528",
+      "depth": 4,
+      "description": "Use the Law of Sines and Law of Cosines to solve non-right triangles in a real-world context.",
+      "id": "0882EDA3D61B44E2873AEE1308A19716",
+      "position": 125000,
+      "statementNotation": "G.SRT.C.5.c",
+      "ancestorIds": [
+        "8DC968FD18F346EC816190EC58A205ED",
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "8DC968FD18F346EC816190EC58A205ED"
+    },
+    "DCAC72C35C3D4152A1295AB6109522E5": {
+      "asnIdentifier": "S21322527",
+      "depth": 4,
+      "description": "Know and use relationships within special right triangles to solve problems in a real-world context.",
+      "id": "DCAC72C35C3D4152A1295AB6109522E5",
+      "position": 124000,
+      "statementNotation": "G.SRT.C.5.b",
+      "ancestorIds": [
+        "8DC968FD18F346EC816190EC58A205ED",
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "8DC968FD18F346EC816190EC58A205ED"
+    },
+    "1B8C5E35266F4924816680D63D9B1DE9": {
+      "asnIdentifier": "S21322526",
+      "depth": 4,
+      "description": "Know and use the Pythagorean Theorem and trigonometric ratios (sine, cosine, tangent, and their inverses) to solve right triangles in a real-world context.",
+      "id": "1B8C5E35266F4924816680D63D9B1DE9",
+      "position": 123000,
+      "statementNotation": "G.SRT.C.5.a",
+      "ancestorIds": [
+        "8DC968FD18F346EC816190EC58A205ED",
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "8DC968FD18F346EC816190EC58A205ED"
+    },
+    "8DC968FD18F346EC816190EC58A205ED": {
+      "asnIdentifier": "S21322525",
+      "depth": 3,
+      "description": "Solve triangles.",
+      "id": "8DC968FD18F346EC816190EC58A205ED",
+      "position": 122000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.SRT.C.5",
+      "ancestorIds": [
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "27C4FBED0FA0416ABADD5868E3FE00BC"
+    },
+    "42D5F199C0CB4983B3999FE7BF018C20": {
+      "asnIdentifier": "S21322524",
+      "depth": 4,
+      "description": "Explain and use the relationship between the sine and cosine of complementary angles.",
+      "id": "42D5F199C0CB4983B3999FE7BF018C20",
+      "position": 121000,
+      "statementNotation": "G.SRT.C.4.b",
+      "ancestorIds": [
+        "0D654D420EC343309A16B8AE73734AE0",
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "0D654D420EC343309A16B8AE73734AE0"
+    },
+    "60034F7FC403483B86999D8A0C4C5F2F": {
+      "asnIdentifier": "S21322523",
+      "depth": 4,
+      "description": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+      "id": "60034F7FC403483B86999D8A0C4C5F2F",
+      "position": 120000,
+      "statementNotation": "G.SRT.C.4.a",
+      "ancestorIds": [
+        "0D654D420EC343309A16B8AE73734AE0",
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "0D654D420EC343309A16B8AE73734AE0"
+    },
+    "0D654D420EC343309A16B8AE73734AE0": {
+      "asnIdentifier": "S21322522",
+      "depth": 3,
+      "description": "Use side ratios in right triangles to define trigonometric ratios.",
+      "id": "0D654D420EC343309A16B8AE73734AE0",
+      "position": 119000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.SRT.C.4",
+      "ancestorIds": [
+        "27C4FBED0FA0416ABADD5868E3FE00BC",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "27C4FBED0FA0416ABADD5868E3FE00BC"
+    },
+    "27C4FBED0FA0416ABADD5868E3FE00BC": {
+      "asnIdentifier": "S21322521",
+      "depth": 2,
+      "description": "Define trigonometric ratios and solve problems involving triangles.",
+      "id": "27C4FBED0FA0416ABADD5868E3FE00BC",
+      "position": 118000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.SRT.C",
+      "ancestorIds": [
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "BF4FE5597FA946E6A8EAFA5256E83362"
+    },
+    "D29175D4FE484645B8AE947CDC872B11": {
+      "asnIdentifier": "S21322520",
+      "depth": 3,
+      "description": "Use congruence and similarity criteria for triangles to solve problems and to justify relationships in geometric figures.",
+      "id": "D29175D4FE484645B8AE947CDC872B11",
+      "position": 117000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.SRT.B.3",
+      "ancestorIds": [
+        "B0A07B7AC4D94041A1E134C4EFFFA86B",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "B0A07B7AC4D94041A1E134C4EFFFA86B"
+    },
+    "B0A07B7AC4D94041A1E134C4EFFFA86B": {
+      "asnIdentifier": "S21322519",
+      "depth": 2,
+      "description": "Use similarity to solve problems and justify relationships.",
+      "id": "B0A07B7AC4D94041A1E134C4EFFFA86B",
+      "position": 116000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.SRT.B",
+      "ancestorIds": [
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "BF4FE5597FA946E6A8EAFA5256E83362"
+    },
+    "3031EDC868024D7DBBB859967C172A21": {
+      "asnIdentifier": "S21322518",
+      "depth": 3,
+      "description": "Define similarity in terms of transformations. Use transformations to determine whether two figures are similar.",
+      "id": "3031EDC868024D7DBBB859967C172A21",
+      "position": 115000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.SRT.A.2",
+      "ancestorIds": [
+        "0C004752545343ADA1BF96E5912CCEAD",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "0C004752545343ADA1BF96E5912CCEAD"
+    },
+    "640E126D6B364FFCA74F73D1D7FF4B6B": {
+      "asnIdentifier": "S21322517",
+      "depth": 3,
+      "description": "Use properties of dilations given by a center and a scale factor to solve problems and to justify relationships in geometric figures.",
+      "id": "640E126D6B364FFCA74F73D1D7FF4B6B",
+      "position": 114000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.SRT.A.1",
+      "ancestorIds": [
+        "0C004752545343ADA1BF96E5912CCEAD",
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "0C004752545343ADA1BF96E5912CCEAD"
+    },
+    "0C004752545343ADA1BF96E5912CCEAD": {
+      "asnIdentifier": "S21322516",
+      "depth": 2,
+      "description": "Understand similarity in terms of similarity transformations.",
+      "id": "0C004752545343ADA1BF96E5912CCEAD",
+      "position": 113000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.SRT.A",
+      "ancestorIds": [
+        "BF4FE5597FA946E6A8EAFA5256E83362",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "BF4FE5597FA946E6A8EAFA5256E83362"
+    },
+    "BF4FE5597FA946E6A8EAFA5256E83362": {
+      "asnIdentifier": "S21322515",
+      "depth": 1,
+      "description": "Similarity, Right Triangles, and Trigonometry",
+      "id": "BF4FE5597FA946E6A8EAFA5256E83362",
+      "position": 112000,
+      "ancestorIds": [
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "D22E802EA8FF4831B353216EC5DF39DE"
+    },
+    "116067E8A7C94B71953F7A58767F2C69": {
+      "asnIdentifier": "S21322514",
+      "depth": 3,
+      "description": "Use geometric constructions to solve geometric problems in context, by hand and using technology.",
+      "id": "116067E8A7C94B71953F7A58767F2C69",
+      "position": 111000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.D.12",
+      "ancestorIds": [
+        "855A20849C5746389BB68A59113B7564",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "855A20849C5746389BB68A59113B7564"
+    },
+    "81FF962772414B37A02FEBD21B1AF55C": {
+      "asnIdentifier": "S21322513",
+      "depth": 3,
+      "description": "Perform formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.).",
+      "id": "81FF962772414B37A02FEBD21B1AF55C",
+      "position": 110000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.D.11",
+      "ancestorIds": [
+        "855A20849C5746389BB68A59113B7564",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "855A20849C5746389BB68A59113B7564"
+    },
+    "855A20849C5746389BB68A59113B7564": {
+      "asnIdentifier": "S21322512",
+      "depth": 2,
+      "description": "Perform geometric constructions.",
+      "id": "855A20849C5746389BB68A59113B7564",
+      "position": 109000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.CO.D",
+      "ancestorIds": [
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "AF8C46FC5097462BAE11A617F712D9CE"
+    },
+    "8E491F3E85A24F8BB09E8ACBC3DC7F8C": {
+      "asnIdentifier": "S21322511",
+      "depth": 3,
+      "description": "Use definitions and theorems about parallelograms to solve problems and to justify relationships in geometric figures.",
+      "id": "8E491F3E85A24F8BB09E8ACBC3DC7F8C",
+      "position": 108000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.C.10",
+      "ancestorIds": [
+        "EAF51186C3DA453E9D9A0EC6EDABA42F",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "EAF51186C3DA453E9D9A0EC6EDABA42F"
+    },
+    "63848F25CD3C4713866DAABA678A206A": {
+      "asnIdentifier": "S21322510",
+      "depth": 3,
+      "description": "Use definitions and theorems about triangles to solve problems and to justify relationships in geometric figures.",
+      "id": "63848F25CD3C4713866DAABA678A206A",
+      "position": 107000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.C.9",
+      "ancestorIds": [
+        "EAF51186C3DA453E9D9A0EC6EDABA42F",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "EAF51186C3DA453E9D9A0EC6EDABA42F"
+    },
+    "EE2322D381024B6E9D1DE49EC4C50914": {
+      "asnIdentifier": "S21322509",
+      "depth": 3,
+      "description": "Use definitions and theorems about lines and angles to solve problems and to justify relationships in geometric figures.",
+      "id": "EE2322D381024B6E9D1DE49EC4C50914",
+      "position": 106000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.C.8",
+      "ancestorIds": [
+        "EAF51186C3DA453E9D9A0EC6EDABA42F",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "EAF51186C3DA453E9D9A0EC6EDABA42F"
+    },
+    "EAF51186C3DA453E9D9A0EC6EDABA42F": {
+      "asnIdentifier": "S21322508",
+      "depth": 2,
+      "description": "Use geometric theorems to justify relationships.",
+      "id": "EAF51186C3DA453E9D9A0EC6EDABA42F",
+      "position": 105000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.CO.C",
+      "ancestorIds": [
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "AF8C46FC5097462BAE11A617F712D9CE"
+    },
+    "305D43CAF4034A13AB5A2366C9800EAC": {
+      "asnIdentifier": "S21322507",
+      "depth": 3,
+      "description": "Explain how the criteria for triangle congruence (ASA, SAS, AAS, SSS, and HL) follow from the definition of congruence in terms of rigid motions.",
+      "id": "305D43CAF4034A13AB5A2366C9800EAC",
+      "position": 104000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.B.7",
+      "ancestorIds": [
+        "E09C745AD6844B04A49E8F22AD1793E2",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "E09C745AD6844B04A49E8F22AD1793E2"
+    },
+    "2A699413A0D7405EA17D48196B077959": {
+      "asnIdentifier": "S21322506",
+      "depth": 3,
+      "description": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent if and only if corresponding pairs of sides and corresponding pairs of angles are congruent.",
+      "id": "2A699413A0D7405EA17D48196B077959",
+      "position": 103000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.B.6",
+      "ancestorIds": [
+        "E09C745AD6844B04A49E8F22AD1793E2",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "E09C745AD6844B04A49E8F22AD1793E2"
+    },
+    "8B208CAF30B0462CAEB103C00B155717": {
+      "asnIdentifier": "S21322505",
+      "depth": 3,
+      "description": "Given two figures, use the definition of congruence in terms of rigid motions to determine informally if they are congruent.",
+      "id": "8B208CAF30B0462CAEB103C00B155717",
+      "position": 102000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.B.5",
+      "ancestorIds": [
+        "E09C745AD6844B04A49E8F22AD1793E2",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "E09C745AD6844B04A49E8F22AD1793E2"
+    },
+    "E09C745AD6844B04A49E8F22AD1793E2": {
+      "asnIdentifier": "S21322504",
+      "depth": 2,
+      "description": "Understand congruence in terms of rigid motions.",
+      "id": "E09C745AD6844B04A49E8F22AD1793E2",
+      "position": 101000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.CO.B",
+      "ancestorIds": [
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "AF8C46FC5097462BAE11A617F712D9CE"
+    },
+    "CB94BF2D4627458F8A440005738D2FAF": {
+      "asnIdentifier": "S21322503",
+      "depth": 3,
+      "description": "Given a geometric figure, draw the image of the figure after a sequence of one or more rigid motions, by hand and using technology. Identify a sequence of rigid motions that will carry a given figure onto another.",
+      "id": "CB94BF2D4627458F8A440005738D2FAF",
+      "position": 100000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.A.4",
+      "ancestorIds": [
+        "65BC0D10A09A42F79D995367623DF0AA",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "65BC0D10A09A42F79D995367623DF0AA"
+    },
+    "5C8824D869874E5192C39132DEB91C0B": {
+      "asnIdentifier": "S21322502",
+      "depth": 3,
+      "description": "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular lines, parallel lines, and line segments.",
+      "id": "5C8824D869874E5192C39132DEB91C0B",
+      "position": 99000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.A.3",
+      "ancestorIds": [
+        "65BC0D10A09A42F79D995367623DF0AA",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "65BC0D10A09A42F79D995367623DF0AA"
+    },
+    "449CD4FC2B404F149E65AB17594EFD44": {
+      "asnIdentifier": "S21322501",
+      "depth": 3,
+      "description": "Given a rectangle, parallelogram, trapezoid, or regular polygon, determine the transformations that carry the shape onto itself and describe them in terms of the symmetry of the figure.",
+      "id": "449CD4FC2B404F149E65AB17594EFD44",
+      "position": 98000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.A.2",
+      "ancestorIds": [
+        "65BC0D10A09A42F79D995367623DF0AA",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "65BC0D10A09A42F79D995367623DF0AA"
+    },
+    "B513EFB3ED7646BEAC28B84F1150EDBA": {
+      "asnIdentifier": "S21322500",
+      "depth": 3,
+      "description": "Describe transformations as functions that take points in the plane (pre-image) as inputs and give other points (image) as outputs. Compare transformations that preserve distance and angle measure to those that do not, by hand for basic transformations and using technology for more complex cases.",
+      "id": "B513EFB3ED7646BEAC28B84F1150EDBA",
+      "position": 97000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.CO.A.1",
+      "ancestorIds": [
+        "65BC0D10A09A42F79D995367623DF0AA",
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "65BC0D10A09A42F79D995367623DF0AA"
+    },
+    "65BC0D10A09A42F79D995367623DF0AA": {
+      "asnIdentifier": "S21322499",
+      "depth": 2,
+      "description": "Experiment with transformations in the plane.",
+      "id": "65BC0D10A09A42F79D995367623DF0AA",
+      "position": 96000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.CO.A",
+      "ancestorIds": [
+        "AF8C46FC5097462BAE11A617F712D9CE",
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "AF8C46FC5097462BAE11A617F712D9CE"
+    },
+    "AF8C46FC5097462BAE11A617F712D9CE": {
+      "asnIdentifier": "S21322498",
+      "depth": 1,
+      "description": "Congruence",
+      "id": "AF8C46FC5097462BAE11A617F712D9CE",
+      "position": 95000,
+      "ancestorIds": [
+        "D22E802EA8FF4831B353216EC5DF39DE"
+      ],
+      "parentId": "D22E802EA8FF4831B353216EC5DF39DE"
+    },
+    "D22E802EA8FF4831B353216EC5DF39DE": {
+      "asnIdentifier": "S21322497",
+      "depth": 0,
+      "description": "Geometry",
+      "id": "D22E802EA8FF4831B353216EC5DF39DE",
+      "position": 94000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "756B3F9B85A34ADEAB744AE299AEC2AA": {
+      "asnIdentifier": "S21322496",
+      "depth": 4,
+      "description": "Choose an appropriate level of accuracy when reporting quantities.",
+      "id": "756B3F9B85A34ADEAB744AE299AEC2AA",
+      "position": 93000,
+      "statementNotation": "G.N.Q.A.1.c",
+      "ancestorIds": [
+        "31B6FFD9005B48DFA707A4384D0F77BF",
+        "233BFDAFB22A47B2BD4E7FC35F359DA0",
+        "6EC0436077374941B65E8064AB8BDD1C",
+        "38C5C060D77B4C7C91C6F4D0BEF30443"
+      ],
+      "parentId": "31B6FFD9005B48DFA707A4384D0F77BF"
+    },
+    "34EB4F4F6CFD4C67ADB61C77B5CFF2DF": {
+      "asnIdentifier": "S21322495",
+      "depth": 4,
+      "description": "Define and justify appropriate quantities within a context for the purpose of modeling.",
+      "id": "34EB4F4F6CFD4C67ADB61C77B5CFF2DF",
+      "position": 92000,
+      "statementNotation": "G.N.Q.A.1.b",
+      "ancestorIds": [
+        "31B6FFD9005B48DFA707A4384D0F77BF",
+        "233BFDAFB22A47B2BD4E7FC35F359DA0",
+        "6EC0436077374941B65E8064AB8BDD1C",
+        "38C5C060D77B4C7C91C6F4D0BEF30443"
+      ],
+      "parentId": "31B6FFD9005B48DFA707A4384D0F77BF"
+    },
+    "D4CE48E7E6A641EAB34F4B571BA72AD5": {
+      "asnIdentifier": "S21322494",
+      "depth": 4,
+      "description": "Use appropriate quantities in formulas, converting units as necessary.",
+      "id": "D4CE48E7E6A641EAB34F4B571BA72AD5",
+      "position": 91000,
+      "statementNotation": "G.N.Q.A.1.a",
+      "ancestorIds": [
+        "31B6FFD9005B48DFA707A4384D0F77BF",
+        "233BFDAFB22A47B2BD4E7FC35F359DA0",
+        "6EC0436077374941B65E8064AB8BDD1C",
+        "38C5C060D77B4C7C91C6F4D0BEF30443"
+      ],
+      "parentId": "31B6FFD9005B48DFA707A4384D0F77BF"
+    },
+    "31B6FFD9005B48DFA707A4384D0F77BF": {
+      "asnIdentifier": "S21322493",
+      "depth": 3,
+      "description": "Use units as a way to understand real world problems.",
+      "id": "31B6FFD9005B48DFA707A4384D0F77BF",
+      "position": 90000,
+      "statementLabel": "Content Standard",
+      "statementNotation": "G.N.Q.A.1",
+      "ancestorIds": [
+        "233BFDAFB22A47B2BD4E7FC35F359DA0",
+        "6EC0436077374941B65E8064AB8BDD1C",
+        "38C5C060D77B4C7C91C6F4D0BEF30443"
+      ],
+      "parentId": "233BFDAFB22A47B2BD4E7FC35F359DA0"
+    },
+    "233BFDAFB22A47B2BD4E7FC35F359DA0": {
+      "asnIdentifier": "S21322492",
+      "depth": 2,
+      "description": "Reason quantitatively and use units to solve problems.",
+      "id": "233BFDAFB22A47B2BD4E7FC35F359DA0",
+      "position": 89000,
+      "statementLabel": "Cluster",
+      "statementNotation": "G.N.Q.A",
+      "ancestorIds": [
+        "6EC0436077374941B65E8064AB8BDD1C",
+        "38C5C060D77B4C7C91C6F4D0BEF30443"
+      ],
+      "parentId": "6EC0436077374941B65E8064AB8BDD1C"
+    },
+    "6EC0436077374941B65E8064AB8BDD1C": {
+      "asnIdentifier": "S21322491",
+      "depth": 1,
+      "description": "Quantities",
+      "id": "6EC0436077374941B65E8064AB8BDD1C",
+      "position": 88000,
+      "ancestorIds": [
+        "38C5C060D77B4C7C91C6F4D0BEF30443"
+      ],
+      "parentId": "38C5C060D77B4C7C91C6F4D0BEF30443"
+    },
+    "38C5C060D77B4C7C91C6F4D0BEF30443": {
+      "asnIdentifier": "S21322490",
+      "depth": 0,
+      "description": "Number and Quantity",
+      "id": "38C5C060D77B4C7C91C6F4D0BEF30443",
+      "position": 87000,
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

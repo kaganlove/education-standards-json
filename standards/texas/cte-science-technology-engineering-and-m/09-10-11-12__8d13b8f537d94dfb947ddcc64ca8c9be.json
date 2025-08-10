@@ -1,0 +1,1365 @@
+{
+  "id": "8D13B8F537D94DFB947DDCC64CA8C9BE",
+  "title": "Computer Science I (2022)",
+  "subject": "CTE: Science, Technology, Engineering, and Mathematics (2022-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Computer Science I (One Credit), Adopted 2022",
+    "sourceURL": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=19&pt=2&ch=127&rl=789"
+  },
+  "jurisdiction": {
+    "id": "28903EF2A9F9469C9BF592D4D0BE10F8",
+    "title": "Texas"
+  },
+  "standards": {
+    "AEB91B95240B44119101584A2474E07A": {
+      "id": "AEB91B95240B44119101584A2474E07A",
+      "asnIdentifier": null,
+      "position": 1079,
+      "depth": 2,
+      "listId": "S",
+      "statementNotation": "d.6.S",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "compare strongly typed and un-typed programming languages.",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "75AAC86381E54D12BB5577AAC92134DA": {
+      "id": "75AAC86381E54D12BB5577AAC92134DA",
+      "asnIdentifier": null,
+      "position": 1078,
+      "depth": 2,
+      "listId": "R",
+      "statementNotation": "d.6.R",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "choose, identify, and use the appropriate data type or structure to properly represent the data in a program problem solution; and",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "AB8E80A59C814F44B61B6C506C507E47": {
+      "id": "AB8E80A59C814F44B61B6C506C507E47",
+      "asnIdentifier": null,
+      "position": 1077,
+      "depth": 2,
+      "listId": "Q",
+      "statementNotation": "d.6.Q",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify and use the structured data type of one-dimensional arrays to traverse, search, and modify data;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "2820A30342A14BA6BEB94D2A44A23C19": {
+      "id": "2820A30342A14BA6BEB94D2A44A23C19",
+      "asnIdentifier": null,
+      "position": 1076,
+      "depth": 2,
+      "listId": "P",
+      "statementNotation": "d.6.P",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "represent and manipulate text data, including concatenation and other string functions;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "C6DE3D648B2C41A995FE5BB06A873B4C": {
+      "id": "C6DE3D648B2C41A995FE5BB06A873B4C",
+      "asnIdentifier": null,
+      "position": 1075,
+      "depth": 2,
+      "listId": "O",
+      "statementNotation": "d.6.O",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "analyze the concept of a variable, including primitives and objects;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "7C7EAF74792E47D291F93E3934874164": {
+      "id": "7C7EAF74792E47D291F93E3934874164",
+      "asnIdentifier": null,
+      "position": 1074,
+      "depth": 2,
+      "listId": "N",
+      "statementNotation": "d.6.N",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "choose, identify, and use the appropriate data types for integer, real, and Boolean data when writing program solutions;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "F8E2817A98CB4D959C5E086BF6BCF6FD": {
+      "id": "F8E2817A98CB4D959C5E086BF6BCF6FD",
+      "asnIdentifier": null,
+      "position": 1073,
+      "depth": 2,
+      "listId": "M",
+      "statementNotation": "d.6.M",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "perform numerical conversions between the decimal and binary number systems and count in the binary number system;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "BA66940CAF0342F68BAA31A9068E67E1": {
+      "id": "BA66940CAF0342F68BAA31A9068E67E1",
+      "asnIdentifier": null,
+      "position": 1072,
+      "depth": 2,
+      "listId": "L",
+      "statementNotation": "d.6.L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify finite limits of numeric data such as integer wrap around and floating point precision;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "D6C2462769EB4F81837D155522287432": {
+      "id": "D6C2462769EB4F81837D155522287432",
+      "asnIdentifier": null,
+      "position": 1071,
+      "depth": 2,
+      "listId": "K",
+      "statementNotation": "d.6.K",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify and convert binary representation of numeric and nonnumeric data in computer systems using American Standard Code for Information Interchange (ASCII) or Unicode;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "B3DB9FE0EC804856A6A09E85FCE2FEB3": {
+      "id": "B3DB9FE0EC804856A6A09E85FCE2FEB3",
+      "asnIdentifier": null,
+      "position": 1070,
+      "depth": 2,
+      "listId": "J",
+      "statementNotation": "d.6.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "compare data elements using logical and relational operators;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "11FA76D4F14645E7A7FFEF863777C996": {
+      "id": "11FA76D4F14645E7A7FFEF863777C996",
+      "asnIdentifier": null,
+      "position": 1069,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "d.6.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create calls to processes passing arguments that match parameters by number, type, and position;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "D96960ADDC6345BDB849AE0EE4A56AFF": {
+      "id": "D96960ADDC6345BDB849AE0EE4A56AFF",
+      "asnIdentifier": null,
+      "position": 1068,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "d.6.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create subroutines that return typed values with and without the use of arguments and parameters;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "F04E2A56A4884C6286E2F484A10DE115": {
+      "id": "F04E2A56A4884C6286E2F484A10DE115",
+      "asnIdentifier": null,
+      "position": 1067,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "d.6.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create subroutines that do not return values with and without the use of arguments and parameters;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "E700A7C0EECA4E0E8B50960A339B3BB1": {
+      "id": "E700A7C0EECA4E0E8B50960A339B3BB1",
+      "asnIdentifier": null,
+      "position": 1066,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "d.6.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "encapsulate data and associated subroutines into an abstract data type;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "C216E21076BD412E8571CE4B0A065E38": {
+      "id": "C216E21076BD412E8571CE4B0A065E38",
+      "asnIdentifier": null,
+      "position": 1065,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.6.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "differentiate between local and global scope access variable declarations;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "E7CE5C1CA6CD4F08A456583631C3ACC8": {
+      "id": "E7CE5C1CA6CD4F08A456583631C3ACC8",
+      "asnIdentifier": null,
+      "position": 1064,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.6.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify and use concepts of object-oriented design;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "6A8093F3CDE9400B939A538F00075A20": {
+      "id": "6A8093F3CDE9400B939A538F00075A20",
+      "asnIdentifier": null,
+      "position": 1063,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.6.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "differentiate between a high-level compiled language and an interpreted language;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "267814646EC745A0829F5AFEA87B18D7": {
+      "id": "267814646EC745A0829F5AFEA87B18D7",
+      "asnIdentifier": null,
+      "position": 1062,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "differentiate between current programming languages, discuss the general purpose for each language, and demonstrate knowledge of specific programming terminology and concepts and types of software development applications;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "E1E5632C826F435B814CEA9C9D104AE9": {
+      "id": "E1E5632C826F435B814CEA9C9D104AE9",
+      "asnIdentifier": null,
+      "position": 1061,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify and describe the function of major hardware components, including primary and secondary memory, a central processing unit (CPU), and peripherals;",
+      "comments": [],
+      "ancestorIds": [
+        "8A43014A82FF4F49A3D961151249B246",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "8A43014A82FF4F49A3D961151249B246"
+    },
+    "8A43014A82FF4F49A3D961151249B246": {
+      "id": "8A43014A82FF4F49A3D961151249B246",
+      "asnIdentifier": null,
+      "position": 1060,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "d.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Technology operations, systems, and concepts. The student understands technology concepts, systems, and operations as they apply to computer science. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA387BBCDCC94E1DBB3A06F3A5963631"
+    },
+    "425E70EACD5C4591AB9610453E145624": {
+      "id": "425E70EACD5C4591AB9610453E145624",
+      "asnIdentifier": null,
+      "position": 1059,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.5.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "investigate computing and computing-related advancements and the social and ethical ramifications of computer usage.",
+      "comments": [],
+      "ancestorIds": [
+        "83DDAFC5F871401EA72B32D21A808DF8",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "83DDAFC5F871401EA72B32D21A808DF8"
+    },
+    "5B73F5B20F50492F851AFD882F62FE29": {
+      "id": "5B73F5B20F50492F851AFD882F62FE29",
+      "asnIdentifier": null,
+      "position": 1058,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.5.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "investigate privacy and security measures, including strong passwords, pass phrases, and other methods of authentication and virus detection and prevention; and",
+      "comments": [],
+      "ancestorIds": [
+        "83DDAFC5F871401EA72B32D21A808DF8",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "83DDAFC5F871401EA72B32D21A808DF8"
+    },
+    "B668E1A96128443F9753280D8D3A0EF1": {
+      "id": "B668E1A96128443F9753280D8D3A0EF1",
+      "asnIdentifier": null,
+      "position": 1057,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.5.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate proper digital etiquette, responsible use of software, and knowledge of acceptable use policies;",
+      "comments": [],
+      "ancestorIds": [
+        "83DDAFC5F871401EA72B32D21A808DF8",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "83DDAFC5F871401EA72B32D21A808DF8"
+    },
+    "196AC9357B85412C88DE2F4B0112B5D0": {
+      "id": "196AC9357B85412C88DE2F4B0112B5D0",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "practice ethical acquisition and use of digital information;",
+      "comments": [],
+      "ancestorIds": [
+        "83DDAFC5F871401EA72B32D21A808DF8",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "83DDAFC5F871401EA72B32D21A808DF8"
+    },
+    "2E73F1957D8748A8AF60BEE82752910F": {
+      "id": "2E73F1957D8748A8AF60BEE82752910F",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "discuss and explain intellectual property, privacy, sharing of information, copyright laws, and software licensing agreements;",
+      "comments": [],
+      "ancestorIds": [
+        "83DDAFC5F871401EA72B32D21A808DF8",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "83DDAFC5F871401EA72B32D21A808DF8"
+    },
+    "83DDAFC5F871401EA72B32D21A808DF8": {
+      "id": "83DDAFC5F871401EA72B32D21A808DF8",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "d.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital citizenship. The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA387BBCDCC94E1DBB3A06F3A5963631"
+    },
+    "62F7B151DEB44DF1BFDA169E2939C033": {
+      "id": "62F7B151DEB44DF1BFDA169E2939C033",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 2,
+      "listId": "V",
+      "statementNotation": "d.4.V",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "generate and use random numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "35064E2261D54457961E1D243A1119DB": {
+      "id": "35064E2261D54457961E1D243A1119DB",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 2,
+      "listId": "U",
+      "statementNotation": "d.4.U",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate the appropriate use of the logical operators; and",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "AC1FB6C3A8A2409C9690599BECA25C0E": {
+      "id": "AC1FB6C3A8A2409C9690599BECA25C0E",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 2,
+      "listId": "T",
+      "statementNotation": "d.4.T",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate the appropriate use of the relational operators;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "DDC62EB47671438E882144D1283E608A": {
+      "id": "DDC62EB47671438E882144D1283E608A",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "S",
+      "statementNotation": "d.4.S",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "develop iterative algorithms and code programs to solve practical problems;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "C2DC188B2CE94A23AA64CC9055DCF43C": {
+      "id": "C2DC188B2CE94A23AA64CC9055DCF43C",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "R",
+      "statementNotation": "d.4.R",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "develop algorithms to decision-making problems using branching control statements;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "54F4251AED6240B1AF4651B85A58F8FD": {
+      "id": "54F4251AED6240B1AF4651B85A58F8FD",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "Q",
+      "statementNotation": "d.4.Q",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "develop sequential algorithms to solve non-branching and non-iterative problems;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "782D9EF7DB5843CCA79F3AFD2F1A37DB": {
+      "id": "782D9EF7DB5843CCA79F3AFD2F1A37DB",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "P",
+      "statementNotation": "d.4.P",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "develop program solutions that use assignment;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "1CE42EDCC7C24ABB8837BBEB6D8A9EB8": {
+      "id": "1CE42EDCC7C24ABB8837BBEB6D8A9EB8",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "O",
+      "statementNotation": "d.4.O",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create program solutions to problems using available mathematics library functions or operators, including absolute value, round, power, square, and square root;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "D04DD6EB6C894462840E4D1636EDDB97": {
+      "id": "D04DD6EB6C894462840E4D1636EDDB97",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "N",
+      "statementNotation": "d.4.N",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create program solutions by using the arithmetic operators to create mathematical expressions, including addition, subtraction, multiplication, real division, integer division, and modulus division;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "43B96415844742F489934376A9B9F0DE": {
+      "id": "43B96415844742F489934376A9B9F0DE",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "M",
+      "statementNotation": "d.4.M",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "select the most appropriate construct for a defined problem;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "199A26D9C6254773952BF99510B2DB0D": {
+      "id": "199A26D9C6254773952BF99510B2DB0D",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "L",
+      "statementNotation": "d.4.L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create program solutions that address basic error handling such as preventing division by zero and type mismatch;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "82149651603A48BFBFC31CF50609F6F3": {
+      "id": "82149651603A48BFBFC31CF50609F6F3",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "K",
+      "statementNotation": "d.4.K",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create and implement common algorithms such as finding greatest common divisor, finding the biggest number out of three, finding primes, making change, and finding the average;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "000B44E8572542369B0060D0BF4A8905": {
+      "id": "000B44E8572542369B0060D0BF4A8905",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "J",
+      "statementNotation": "d.4.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "debug and solve problems using error messages, reference materials, language documentation, and effective strategies;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "A7B18999EA64496F8278472A535B8854": {
+      "id": "A7B18999EA64496F8278472A535B8854",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "d.4.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "test program solutions with valid and invalid test data and analyze resulting behavior;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "AD7195DE564D4CD0B3B0877EA0C6C404": {
+      "id": "AD7195DE564D4CD0B3B0877EA0C6C404",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "d.4.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify error types, including syntax, lexical, run time, and logic;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "0B06E53D9D5B4351BE6176A441C0D60B": {
+      "id": "0B06E53D9D5B4351BE6176A441C0D60B",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "d.4.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "code a solution from a program design;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "4013A445EA9943E088C8D9C45CEF112D": {
+      "id": "4013A445EA9943E088C8D9C45CEF112D",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "d.4.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "design a solution to a problem;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "6800E1C52AB94DECA0346E0E42F1AB73": {
+      "id": "6800E1C52AB94DECA0346E0E42F1AB73",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.4.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify reusable components from existing code;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "A6689D496D70419EA5D07E4A3189F719": {
+      "id": "A6689D496D70419EA5D07E4A3189F719",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.4.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify the data types and objects needed to solve a problem;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "63B9C6DE59004D569BE64546577A92C0": {
+      "id": "63B9C6DE59004D569BE64546577A92C0",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.4.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify the tasks and subtasks needed to solve a problem;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "258A7A115EF7447C8144BE463F589A27": {
+      "id": "258A7A115EF7447C8144BE463F589A27",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.4.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create a high-level program plan using a visual tool such as a flowchart or graphic organizer;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "26ABD47E423A4071AAEFAB87C80BE8F9": {
+      "id": "26ABD47E423A4071AAEFAB87C80BE8F9",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use program design problem-solving strategies such as flowchart or pseudocode to create program solutions;",
+      "comments": [],
+      "ancestorIds": [
+        "44E832A412F2442887B26B17EB3AADE3",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "44E832A412F2442887B26B17EB3AADE3"
+    },
+    "44E832A412F2442887B26B17EB3AADE3": {
+      "id": "44E832A412F2442887B26B17EB3AADE3",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "d.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critical thinking, problem solving, and decision making. The student uses appropriate strategies to analyze problems and design algorithms. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA387BBCDCC94E1DBB3A06F3A5963631"
+    },
+    "6E6FE8FA8CD74C6793F0826206742E5D": {
+      "id": "6E6FE8FA8CD74C6793F0826206742E5D",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.3.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "display simple vector graphics using lines, circles, and rectangles.",
+      "comments": [],
+      "ancestorIds": [
+        "006B6B0930A743F6AE80D8F3239F6272",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "006B6B0930A743F6AE80D8F3239F6272"
+    },
+    "0B9E21CF1F4243979ACBB7E16EE09C31": {
+      "id": "0B9E21CF1F4243979ACBB7E16EE09C31",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.3.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "format data displays using standard formatting styles; and",
+      "comments": [],
+      "ancestorIds": [
+        "006B6B0930A743F6AE80D8F3239F6272",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "006B6B0930A743F6AE80D8F3239F6272"
+    },
+    "3E6019694C754E109A50EC390ADA05F9": {
+      "id": "3E6019694C754E109A50EC390ADA05F9",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.3.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "write programs with proper programming style to enhance the readability and functionality of a code by using descriptive identifiers, internal comments, white space, spacing, indentation, and a standardized program style;",
+      "comments": [],
+      "ancestorIds": [
+        "006B6B0930A743F6AE80D8F3239F6272",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "006B6B0930A743F6AE80D8F3239F6272"
+    },
+    "767DB3CC7A604D1391F2BCA68DCC5702": {
+      "id": "767DB3CC7A604D1391F2BCA68DCC5702",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create interactive input interfaces, with relevant user prompts, to acquire data from a user such as console displays or Graphical User Interfaces (GUIs);",
+      "comments": [],
+      "ancestorIds": [
+        "006B6B0930A743F6AE80D8F3239F6272",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "006B6B0930A743F6AE80D8F3239F6272"
+    },
+    "BA2CBBC4F0E849D8BF2C9E1E6E6B15FA": {
+      "id": "BA2CBBC4F0E849D8BF2C9E1E6E6B15FA",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "create and properly label and display output;",
+      "comments": [],
+      "ancestorIds": [
+        "006B6B0930A743F6AE80D8F3239F6272",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "006B6B0930A743F6AE80D8F3239F6272"
+    },
+    "006B6B0930A743F6AE80D8F3239F6272": {
+      "id": "006B6B0930A743F6AE80D8F3239F6272",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "d.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming style and presentation. The student utilizes proper programming style and develops appropriate visual presentation of data, input, and output. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA387BBCDCC94E1DBB3A06F3A5963631"
+    },
+    "00BBE6BF09FB4F52B1E9B417D562669A": {
+      "id": "00BBE6BF09FB4F52B1E9B417D562669A",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.2.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "seek and respond to advice from peers, educators, or professionals when evaluating quality and accuracy of the student's product.",
+      "comments": [],
+      "ancestorIds": [
+        "B5123ACDCF24413B900B5F104FD1E210",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "B5123ACDCF24413B900B5F104FD1E210"
+    },
+    "E04F58F460614054A795EB7C7A41326A": {
+      "id": "E04F58F460614054A795EB7C7A41326A",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "participate in learning communities as a learner, initiator, contributor, and teacher/mentor; and",
+      "comments": [],
+      "ancestorIds": [
+        "B5123ACDCF24413B900B5F104FD1E210",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "B5123ACDCF24413B900B5F104FD1E210"
+    },
+    "B5123ACDCF24413B900B5F104FD1E210": {
+      "id": "B5123ACDCF24413B900B5F104FD1E210",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "d.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication and collaboration. The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA387BBCDCC94E1DBB3A06F3A5963631"
+    },
+    "22679CD21E6C4EE9B2CDDD552D9B72C8": {
+      "id": "22679CD21E6C4EE9B2CDDD552D9B72C8",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "d.1.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "compare university computer science programs.",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "31E872FFFADD48C9ABFAA99DB2BB9173": {
+      "id": "31E872FFFADD48C9ABFAA99DB2BB9173",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "d.1.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate planning and time-management skills; and",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "89E48DC4F7E8428CBCBCE663BA3533AB": {
+      "id": "89E48DC4F7E8428CBCBCE663BA3533AB",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "d.1.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "communicate an understanding of legal and ethical responsibilities in relation to the field of computer science;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "AAB93C42FCF14D1D9F208E07E9C38A2C": {
+      "id": "AAB93C42FCF14D1D9F208E07E9C38A2C",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "d.1.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "demonstrate leadership skills and function effectively as a team member;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "60E92F7618224BFA87A767C60BE07728": {
+      "id": "60E92F7618224BFA87A767C60BE07728",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "d.1.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "solve problems and think critically;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "8DB8501EE91340B5B999926169270B0C": {
+      "id": "8DB8501EE91340B5B999926169270B0C",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "d.1.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "employ effective verbal and non-verbal communication skills;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "324B1E9792A941F99CEFA90848806CDD": {
+      "id": "324B1E9792A941F99CEFA90848806CDD",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "d.1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "employ effective technical reading and writing skills;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "A1BC10CE347740148A7047562F08061E": {
+      "id": "A1BC10CE347740148A7047562F08061E",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "d.1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "examine the role of certifications, resumes, and portfolios in the computer science profession;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "4BA5473DEAD045848F23A992678822F2": {
+      "id": "4BA5473DEAD045848F23A992678822F2",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "d.1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "identify job and internship opportunities and accompanying job duties and tasks and contact one or more companies or organizations to explore career opportunities;",
+      "comments": [],
+      "ancestorIds": [
+        "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA200DBA37DE42A8BDAC8909F3AB3AC4"
+    },
+    "AA200DBA37DE42A8BDAC8909F3AB3AC4": {
+      "id": "AA200DBA37DE42A8BDAC8909F3AB3AC4",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "d.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Employability. The student identifies various employment opportunities in the computer science field. The student is expected to:",
+      "comments": [],
+      "ancestorIds": [
+        "AA387BBCDCC94E1DBB3A06F3A5963631"
+      ],
+      "parentId": "AA387BBCDCC94E1DBB3A06F3A5963631"
+    },
+    "AA387BBCDCC94E1DBB3A06F3A5963631": {
+      "id": "AA387BBCDCC94E1DBB3A06F3A5963631",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 0,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Knowledge and skills.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7C3BF51D34EC41998161F30D8EA94C83": {
+      "id": "7C3BF51D34EC41998161F30D8EA94C83",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "c.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples.",
+      "comments": [],
+      "ancestorIds": [
+        "8F7AB99B3E4D4CE6A52902C90903F667"
+      ],
+      "parentId": "8F7AB99B3E4D4CE6A52902C90903F667"
+    },
+    "4DB8F508C2B34E21BE5D00C7746EBCAA": {
+      "id": "4DB8F508C2B34E21BE5D00C7746EBCAA",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "c.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations.",
+      "comments": [],
+      "ancestorIds": [
+        "8F7AB99B3E4D4CE6A52902C90903F667"
+      ],
+      "parentId": "8F7AB99B3E4D4CE6A52902C90903F667"
+    },
+    "25E5EF6076614D6F9372B844BACDCCE6": {
+      "id": "25E5EF6076614D6F9372B844BACDCCE6",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "c.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computer Science I will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve the problems presented throughout the course. Through computational thinking and data analysis, students will identify task requirements, plan search strategies, and use computer science concepts to access, analyze, and evaluate information needed to solve problems. By using computer science knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws, regulations, and best practices and by practicing integrity and respect. Students will gain an understanding of the principles of computer science through the study of technology operations, systems, and concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "8F7AB99B3E4D4CE6A52902C90903F667"
+      ],
+      "parentId": "8F7AB99B3E4D4CE6A52902C90903F667"
+    },
+    "011B054E01A34F9D924952483AB0EC08": {
+      "id": "011B054E01A34F9D924952483AB0EC08",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "c.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Science, Technology, Engineering, and Mathematics (STEM) Career Cluster focuses on planning, managing, and providing scientific research and professional and technical services such as laboratory and testing services and research and development services.",
+      "comments": [],
+      "ancestorIds": [
+        "8F7AB99B3E4D4CE6A52902C90903F667"
+      ],
+      "parentId": "8F7AB99B3E4D4CE6A52902C90903F667"
+    },
+    "9D2A69E9995D411596C8A0C552F066B5": {
+      "id": "9D2A69E9995D411596C8A0C552F066B5",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "c.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Career and technical education instruction provides content aligned with challenging academic standards, industry-relevant technical knowledge, and college and career readiness skills for students to further their education and succeed in current and emerging professions.",
+      "comments": [],
+      "ancestorIds": [
+        "8F7AB99B3E4D4CE6A52902C90903F667"
+      ],
+      "parentId": "8F7AB99B3E4D4CE6A52902C90903F667"
+    },
+    "8F7AB99B3E4D4CE6A52902C90903F667": {
+      "id": "8F7AB99B3E4D4CE6A52902C90903F667",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 0,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C588C4B3AB5141B39D0C22799638D7DC": {
+      "id": "C588C4B3AB5141B39D0C22799638D7DC",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 0,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "General requirements. This course is recommended for students in Grades 9-12. Prerequisite or corequisite: Algebra I. Students shall be awarded one credit for successful completion of this course.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AFB93106349D4B9B961A69AB9DA5BC7F": {
+      "id": "AFB93106349D4B9B961A69AB9DA5BC7F",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "a.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If the commissioner does not make the determination that instructional materials funding has been made available under subsection (a) of this section, the commissioner shall determine no later than August 1 of each subsequent school year whether instructional materials funding has been made available. If the commissioner determines that instructional materials funding has been made available, the commissioner shall notify the State Board of Education and school districts that this section shall be implemented for the following school year.",
+      "comments": [],
+      "ancestorIds": [
+        "FB89CEC95F8745DE8A7D5878C35F902B"
+      ],
+      "parentId": "FB89CEC95F8745DE8A7D5878C35F902B"
+    },
+    "B20927110DA54D63A8EBA9F59C85A475": {
+      "id": "B20927110DA54D63A8EBA9F59C85A475",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "a.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "If the commissioner makes the determination that instructional materials funding has been made available this section shall be implemented beginning with the 2024-2025 school year and apply to the 2024-2025 and subsequent school years.",
+      "comments": [],
+      "ancestorIds": [
+        "FB89CEC95F8745DE8A7D5878C35F902B"
+      ],
+      "parentId": "FB89CEC95F8745DE8A7D5878C35F902B"
+    },
+    "0E31F3586CAF45AFA3268FADBDAF3186": {
+      "id": "0E31F3586CAF45AFA3268FADBDAF3186",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "a.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "No later than August 1, 2024, the commissioner of education shall determine whether instructional materials funding has been made available to Texas public schools for materials that cover the essential knowledge and skills identified in this section.",
+      "comments": [],
+      "ancestorIds": [
+        "FB89CEC95F8745DE8A7D5878C35F902B"
+      ],
+      "parentId": "FB89CEC95F8745DE8A7D5878C35F902B"
+    },
+    "FB89CEC95F8745DE8A7D5878C35F902B": {
+      "id": "FB89CEC95F8745DE8A7D5878C35F902B",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implementation. The provisions of this section shall be implemented by school districts beginning with the 2024-2025 school year.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

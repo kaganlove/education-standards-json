@@ -1,0 +1,1390 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2637249_grades-09-10-11-12",
+  "title": "Programming II: Grades 9, 10, 11, 12",
+  "subject": "CTE (2002-2018)",
+  "normalizedSubject": "Career Education",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "id": "D2637249",
+    "valid": "2003",
+    "title": "Programming II",
+    "sourceURL": "http://ace.arkansas.gov/cte/informationForms/curriculumFrameworks/Documents/Frameworks/Business/programmingtwo1-2006.pdf",
+    "asnIdentifier": "D2637249",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "B6A1302E2ACD4234B406E29DB2F7C90D": {
+      "description": "Close files in all programs using files",
+      "id": "B6A1302E2ACD4234B406E29DB2F7C90D",
+      "asnIdentifier": "S2638539",
+      "position": 102000,
+      "depth": 2,
+      "statementNotation": "9.7.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "62CF13A1EC1E4088B98A834624001313",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "62CF13A1EC1E4088B98A834624001313"
+    },
+    "62CF13A1EC1E4088B98A834624001313": {
+      "id": "62CF13A1EC1E4088B98A834624001313",
+      "asnIdentifier": "S2638538",
+      "position": 101000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.7",
+      "description": "Explain the function of closing the file",
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "4FC7D4757D6444068A3AB5CF3D67E4D0": {
+      "asnIdentifier": "S2638537",
+      "position": 100000,
+      "depth": 2,
+      "statementNotation": "9.6.1",
+      "statementLabel": "Application",
+      "description": "Write programs that write data sequentially to a text file",
+      "id": "4FC7D4757D6444068A3AB5CF3D67E4D0",
+      "ancestorIds": [
+        "FD56EFC5DC4543D59FF7F656DB0A43C6",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "FD56EFC5DC4543D59FF7F656DB0A43C6"
+    },
+    "FD56EFC5DC4543D59FF7F656DB0A43C6": {
+      "asnIdentifier": "S2638536",
+      "position": 99000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.6",
+      "description": "Explain the logic of writing data sequentially to a text file",
+      "id": "FD56EFC5DC4543D59FF7F656DB0A43C6",
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "12C32B07F7B449DBB04BFD47DB3B31FF": {
+      "position": 98000,
+      "depth": 2,
+      "statementNotation": "9.5.1",
+      "statementLabel": "Application",
+      "description": "Write programs that read the data until the end of file (EOF)",
+      "id": "12C32B07F7B449DBB04BFD47DB3B31FF",
+      "asnIdentifier": "S2638535",
+      "ancestorIds": [
+        "EE44E4804F164326AE6089D53F311260",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "EE44E4804F164326AE6089D53F311260"
+    },
+    "EE44E4804F164326AE6089D53F311260": {
+      "asnIdentifier": "S2638534",
+      "position": 97000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.5",
+      "description": "Explain the terminator characters at the end of lines and end of the file",
+      "id": "EE44E4804F164326AE6089D53F311260",
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "66427B33185B4A2387AD765BC09C6E3C": {
+      "position": 96000,
+      "depth": 2,
+      "statementNotation": "9.4.1",
+      "statementLabel": "Application",
+      "description": "Write programs that read files",
+      "id": "66427B33185B4A2387AD765BC09C6E3C",
+      "asnIdentifier": "S2638533",
+      "ancestorIds": [
+        "333BA6441CF04419B6345711CEBBD598",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "333BA6441CF04419B6345711CEBBD598"
+    },
+    "333BA6441CF04419B6345711CEBBD598": {
+      "asnIdentifier": "S2638532",
+      "position": 95000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.4",
+      "description": "Explain the logic of reading data sequentially from a text file",
+      "id": "333BA6441CF04419B6345711CEBBD598",
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "63E338AA1BFC40FBBBF5BB912418998F": {
+      "statementLabel": "Application",
+      "description": "Write programs that open files appropriately for output, append, and input",
+      "id": "63E338AA1BFC40FBBBF5BB912418998F",
+      "asnIdentifier": "S2638531",
+      "position": 94000,
+      "depth": 2,
+      "statementNotation": "9.3.1",
+      "ancestorIds": [
+        "040DF6ED412648D4A43470C5337F52A9",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "040DF6ED412648D4A43470C5337F52A9"
+    },
+    "040DF6ED412648D4A43470C5337F52A9": {
+      "listId": "9.3",
+      "description": "Explain the difference between opening text files for output, append, and input",
+      "id": "040DF6ED412648D4A43470C5337F52A9",
+      "asnIdentifier": "S2638530",
+      "position": 93000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "6B75C58E194341BE9A9A3A031396196C": {
+      "id": "6B75C58E194341BE9A9A3A031396196C",
+      "asnIdentifier": "S2638529",
+      "position": 92000,
+      "depth": 2,
+      "statementNotation": "9.2.1",
+      "statementLabel": "Application",
+      "description": "List the advantages of using sequential files vs. random-access files",
+      "ancestorIds": [
+        "BDA62931B6F744E38E39BBC9DB9F2C99",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "BDA62931B6F744E38E39BBC9DB9F2C99"
+    },
+    "BDA62931B6F744E38E39BBC9DB9F2C99": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.2",
+      "description": "Explain the difference between sequential and random access of files",
+      "id": "BDA62931B6F744E38E39BBC9DB9F2C99",
+      "asnIdentifier": "S2638528",
+      "position": 91000,
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "B08D7BDC57B54F08878616FC348A26C9": {
+      "asnIdentifier": "S2638527",
+      "position": 90000,
+      "depth": 2,
+      "statementNotation": "9.1.1",
+      "statementLabel": "Application",
+      "description": "Give examples of when using files would be useful",
+      "id": "B08D7BDC57B54F08878616FC348A26C9",
+      "ancestorIds": [
+        "C1DB4AAC5F45434F9461B82052B19840",
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "C1DB4AAC5F45434F9461B82052B19840"
+    },
+    "C1DB4AAC5F45434F9461B82052B19840": {
+      "position": 89000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "9.1",
+      "description": "Discuss files",
+      "id": "C1DB4AAC5F45434F9461B82052B19840",
+      "asnIdentifier": "S2638526",
+      "ancestorIds": [
+        "A7F04B6B25234BB888FE9D9D63F5A951"
+      ],
+      "parentId": "A7F04B6B25234BB888FE9D9D63F5A951"
+    },
+    "A7F04B6B25234BB888FE9D9D63F5A951": {
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "9:",
+      "description": "Sequential Text Files",
+      "id": "A7F04B6B25234BB888FE9D9D63F5A951",
+      "asnIdentifier": "S2638525",
+      "position": 88000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F251865BD09E4673AC4CF43EE13F439A": {
+      "asnIdentifier": "S2638524",
+      "position": 87000,
+      "depth": 2,
+      "statementNotation": "8.5.1",
+      "statementLabel": "Application",
+      "description": "Write a program that uses a member of the class",
+      "id": "F251865BD09E4673AC4CF43EE13F439A",
+      "ancestorIds": [
+        "44013555FA144F95A84450D279657D1E",
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "44013555FA144F95A84450D279657D1E"
+    },
+    "44013555FA144F95A84450D279657D1E": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.5",
+      "description": "Explain member methods",
+      "id": "44013555FA144F95A84450D279657D1E",
+      "asnIdentifier": "S2638523",
+      "position": 86000,
+      "ancestorIds": [
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "8EC5A924C2644A87BC90D7DEFE0F0027"
+    },
+    "1E60198A1D0E475A994017BF8952B080": {
+      "id": "1E60198A1D0E475A994017BF8952B080",
+      "asnIdentifier": "S2638522",
+      "position": 85000,
+      "depth": 2,
+      "statementNotation": "8.4.1",
+      "statementLabel": "Application",
+      "description": "Write a program that instantiates an object of the class",
+      "ancestorIds": [
+        "97ADA957EE2040CD99C17281A8E9B7FD",
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "97ADA957EE2040CD99C17281A8E9B7FD"
+    },
+    "97ADA957EE2040CD99C17281A8E9B7FD": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.4",
+      "description": "Discuss instantiation",
+      "id": "97ADA957EE2040CD99C17281A8E9B7FD",
+      "asnIdentifier": "S2638521",
+      "position": 84000,
+      "ancestorIds": [
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "8EC5A924C2644A87BC90D7DEFE0F0027"
+    },
+    "27B9232B6E0A4A219313A465DFC8B1DE": {
+      "id": "27B9232B6E0A4A219313A465DFC8B1DE",
+      "asnIdentifier": "S2638520",
+      "position": 83000,
+      "depth": 2,
+      "statementNotation": "8.3.1",
+      "statementLabel": "Application",
+      "description": "Give examples of data that would be contained in example classes and the methods that would be needed to manipulate that object",
+      "ancestorIds": [
+        "A26AA81A7D0F4E789655D98769C3DF59",
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "A26AA81A7D0F4E789655D98769C3DF59"
+    },
+    "A26AA81A7D0F4E789655D98769C3DF59": {
+      "id": "A26AA81A7D0F4E789655D98769C3DF59",
+      "asnIdentifier": "S2638519",
+      "position": 82000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.3",
+      "description": "Discuss object",
+      "ancestorIds": [
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "8EC5A924C2644A87BC90D7DEFE0F0027"
+    },
+    "29DAEDB4DDE041C4B829FC2B8B306C38": {
+      "statementNotation": "8.2.1",
+      "statementLabel": "Application",
+      "description": "Give an example of a useful class",
+      "id": "29DAEDB4DDE041C4B829FC2B8B306C38",
+      "asnIdentifier": "S2638518",
+      "position": 81000,
+      "depth": 2,
+      "ancestorIds": [
+        "549234B9902544EDA29FE0F5786DEBC5",
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "549234B9902544EDA29FE0F5786DEBC5"
+    },
+    "549234B9902544EDA29FE0F5786DEBC5": {
+      "asnIdentifier": "S2638517",
+      "position": 80000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.2",
+      "description": "Explain the advantages of using classes",
+      "id": "549234B9902544EDA29FE0F5786DEBC5",
+      "ancestorIds": [
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "8EC5A924C2644A87BC90D7DEFE0F0027"
+    },
+    "48E741BA1975445E8E80C4FC6990E1C8": {
+      "id": "48E741BA1975445E8E80C4FC6990E1C8",
+      "asnIdentifier": "S2638516",
+      "position": 79000,
+      "depth": 2,
+      "statementNotation": "8.1.1",
+      "statementLabel": "Application",
+      "description": "Give an example of a class used in this unit",
+      "ancestorIds": [
+        "C40CE482F84943BB92ACB7A24704A0BD",
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "C40CE482F84943BB92ACB7A24704A0BD"
+    },
+    "C40CE482F84943BB92ACB7A24704A0BD": {
+      "id": "C40CE482F84943BB92ACB7A24704A0BD",
+      "asnIdentifier": "S2638515",
+      "position": 78000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "8.1",
+      "description": "Discuss class",
+      "ancestorIds": [
+        "8EC5A924C2644A87BC90D7DEFE0F0027"
+      ],
+      "parentId": "8EC5A924C2644A87BC90D7DEFE0F0027"
+    },
+    "8EC5A924C2644A87BC90D7DEFE0F0027": {
+      "position": 77000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "8:",
+      "description": "Classes",
+      "id": "8EC5A924C2644A87BC90D7DEFE0F0027",
+      "asnIdentifier": "S2638514",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E10C0574A86F464E83F620E46336B778": {
+      "description": "Write code that deletes elements from an existing array or vector of structures",
+      "id": "E10C0574A86F464E83F620E46336B778",
+      "asnIdentifier": "S2638513",
+      "position": 76000,
+      "depth": 2,
+      "statementNotation": "7.5.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "F59A515028A440DB9FF42D3E40FF69A4",
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "F59A515028A440DB9FF42D3E40FF69A4"
+    },
+    "F59A515028A440DB9FF42D3E40FF69A4": {
+      "asnIdentifier": "S2638512",
+      "position": 75000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.5",
+      "description": "Explain the logical steps in deleting elements in a one-dimensional array or vector of structures",
+      "id": "F59A515028A440DB9FF42D3E40FF69A4",
+      "ancestorIds": [
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "3FE4D605309D49FAA06CC53D63308DD1"
+    },
+    "E2F18A2F71514B09810A0298F1209992": {
+      "description": "Write code that inserts values in an existing array or vector of structures",
+      "id": "E2F18A2F71514B09810A0298F1209992",
+      "asnIdentifier": "S2638511",
+      "position": 74000,
+      "depth": 2,
+      "statementNotation": "7.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "6A0643142F6949CB9EBE44C36835B5E3",
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "6A0643142F6949CB9EBE44C36835B5E3"
+    },
+    "6A0643142F6949CB9EBE44C36835B5E3": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.4",
+      "description": "Explain the logical steps to insert a value in a one-dimensional array or vector of structures",
+      "id": "6A0643142F6949CB9EBE44C36835B5E3",
+      "asnIdentifier": "S2638510",
+      "position": 73000,
+      "depth": 1,
+      "ancestorIds": [
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "3FE4D605309D49FAA06CC53D63308DD1"
+    },
+    "BFA0B16755404632A104A62BF1BAE2AF": {
+      "id": "BFA0B16755404632A104A62BF1BAE2AF",
+      "asnIdentifier": "S2638509",
+      "position": 72000,
+      "depth": 2,
+      "statementNotation": "7.3.1",
+      "statementLabel": "Application",
+      "description": "Write functions/procedures that traverse an array of structures to process data",
+      "ancestorIds": [
+        "C79DEE726CD44E0BB9CE181807B658D6",
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "C79DEE726CD44E0BB9CE181807B658D6"
+    },
+    "C79DEE726CD44E0BB9CE181807B658D6": {
+      "position": 71000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.3",
+      "description": "Explain the process of traversing an array/vector of structures to process data",
+      "id": "C79DEE726CD44E0BB9CE181807B658D6",
+      "asnIdentifier": "S2638508",
+      "ancestorIds": [
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "3FE4D605309D49FAA06CC53D63308DD1"
+    },
+    "75416337875949C7802E5F671F412946": {
+      "depth": 2,
+      "statementNotation": "7.2.1",
+      "statementLabel": "Application",
+      "description": "Write a program that uses a structure",
+      "id": "75416337875949C7802E5F671F412946",
+      "asnIdentifier": "S2638507",
+      "position": 70000,
+      "ancestorIds": [
+        "E01B1B9F5ED34105974319D30FB3F1CC",
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "E01B1B9F5ED34105974319D30FB3F1CC"
+    },
+    "E01B1B9F5ED34105974319D30FB3F1CC": {
+      "position": 69000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "7.2",
+      "description": "Explain the advantages of structure in handling large amounts of related data",
+      "id": "E01B1B9F5ED34105974319D30FB3F1CC",
+      "asnIdentifier": "S2638506",
+      "ancestorIds": [
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "3FE4D605309D49FAA06CC53D63308DD1"
+    },
+    "4B725EB8B9A24D4CBC77F9FCB9C6915A": {
+      "depth": 2,
+      "statementNotation": "7.1.1",
+      "statementLabel": "Application",
+      "description": "Give an example of a useful structure",
+      "id": "4B725EB8B9A24D4CBC77F9FCB9C6915A",
+      "asnIdentifier": "S2638505",
+      "position": 68000,
+      "ancestorIds": [
+        "3C06B28D16D949EEBF49DD93187D4397",
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "3C06B28D16D949EEBF49DD93187D4397"
+    },
+    "3C06B28D16D949EEBF49DD93187D4397": {
+      "listId": "7.1",
+      "description": "Discuss structure",
+      "id": "3C06B28D16D949EEBF49DD93187D4397",
+      "asnIdentifier": "S2638504",
+      "position": 67000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "3FE4D605309D49FAA06CC53D63308DD1"
+      ],
+      "parentId": "3FE4D605309D49FAA06CC53D63308DD1"
+    },
+    "3FE4D605309D49FAA06CC53D63308DD1": {
+      "id": "3FE4D605309D49FAA06CC53D63308DD1",
+      "asnIdentifier": "S2638503",
+      "position": 66000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "7:",
+      "description": "Structures",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6E9DFABC9FF34E4C8D3EB754A84CF3DF": {
+      "depth": 2,
+      "statementNotation": "6.8.1",
+      "statementLabel": "Application",
+      "description": "Write programs that contain parallel one-dimensional arrays or vectors",
+      "id": "6E9DFABC9FF34E4C8D3EB754A84CF3DF",
+      "asnIdentifier": "S2638502",
+      "position": 65000,
+      "ancestorIds": [
+        "DE4A12E76DD04778ABB38446BEE41D99",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "DE4A12E76DD04778ABB38446BEE41D99"
+    },
+    "DE4A12E76DD04778ABB38446BEE41D99": {
+      "listId": "6.8",
+      "description": "Explain the use of parallel one-dimensional arrays or vectors",
+      "id": "DE4A12E76DD04778ABB38446BEE41D99",
+      "asnIdentifier": "S2638501",
+      "position": 64000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "34F79AB617C943809F368B959645C7E8": {
+      "depth": 2,
+      "statementNotation": "6.7.1",
+      "statementLabel": "Application",
+      "description": "Write code that deletes elements from an existing array or vector",
+      "id": "34F79AB617C943809F368B959645C7E8",
+      "asnIdentifier": "S2638500",
+      "position": 63000,
+      "ancestorIds": [
+        "0894B27822784F4EB92418085F47E2D5",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "0894B27822784F4EB92418085F47E2D5"
+    },
+    "0894B27822784F4EB92418085F47E2D5": {
+      "description": "Explain the logical steps in deleting elements in a one-dimensional array or vector",
+      "id": "0894B27822784F4EB92418085F47E2D5",
+      "asnIdentifier": "S2638499",
+      "position": 62000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.7",
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "991EB9EEE71F4B34916218CDBDA93461": {
+      "description": "Write code that inserts values into an existing array or vector",
+      "id": "991EB9EEE71F4B34916218CDBDA93461",
+      "asnIdentifier": "S2638498",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "6.6.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "9BDCF5E51E6A41168EBAFD06091616EB",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "9BDCF5E51E6A41168EBAFD06091616EB"
+    },
+    "9BDCF5E51E6A41168EBAFD06091616EB": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.6",
+      "description": "Explain the logical steps to insert a value in a one-dimensional array or vector",
+      "id": "9BDCF5E51E6A41168EBAFD06091616EB",
+      "asnIdentifier": "S2638497",
+      "position": 60000,
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "9F5C231796EF4EBFBBA372DB20A52090": {
+      "depth": 2,
+      "statementNotation": "6.5.1",
+      "statementLabel": "Application",
+      "description": "Write loops that print the contents of a one-dimensional array or vector",
+      "id": "9F5C231796EF4EBFBBA372DB20A52090",
+      "asnIdentifier": "S2638496",
+      "position": 59000,
+      "ancestorIds": [
+        "8E75D102CFC84FA38C1F849BD8442464",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "8E75D102CFC84FA38C1F849BD8442464"
+    },
+    "8E75D102CFC84FA38C1F849BD8442464": {
+      "listId": "6.5",
+      "description": "Explain the logical steps in printing an entire array of data",
+      "id": "8E75D102CFC84FA38C1F849BD8442464",
+      "asnIdentifier": "S2638495",
+      "position": 58000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "45424565E4CB4E41A1D2F896DFA56D86": {
+      "description": "Write loops that traverse a one-dimensional array or vector, performing calculations and comparisons",
+      "id": "45424565E4CB4E41A1D2F896DFA56D86",
+      "asnIdentifier": "S2638494",
+      "position": 57000,
+      "depth": 2,
+      "statementNotation": "6.4.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "ED7BA4F0643C4B2FA6D2A6F0F4AF9715",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "ED7BA4F0643C4B2FA6D2A6F0F4AF9715"
+    },
+    "ED7BA4F0643C4B2FA6D2A6F0F4AF9715": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.4",
+      "description": "Explain the logical steps in traversing a one-dimensional array to perform calculations and comparisons",
+      "id": "ED7BA4F0643C4B2FA6D2A6F0F4AF9715",
+      "asnIdentifier": "S2638493",
+      "position": 56000,
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "1BBF12D5831048CB963BA30EE2F31D45": {
+      "statementNotation": "6.3.2",
+      "statementLabel": "Application",
+      "description": "Write program lines that read data from a file into a one-dimensional array or vector",
+      "id": "1BBF12D5831048CB963BA30EE2F31D45",
+      "asnIdentifier": "S2638492",
+      "position": 55000,
+      "depth": 2,
+      "ancestorIds": [
+        "01BC7B9889C547EE820AF63AE3421E59",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "01BC7B9889C547EE820AF63AE3421E59"
+    },
+    "32AF9B1FF2AD4686ACADF282C4164930": {
+      "description": "Write program lines that initialize a one-dimensional array or vector",
+      "id": "32AF9B1FF2AD4686ACADF282C4164930",
+      "asnIdentifier": "S2638491",
+      "position": 54000,
+      "depth": 2,
+      "statementNotation": "6.3.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "01BC7B9889C547EE820AF63AE3421E59",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "01BC7B9889C547EE820AF63AE3421E59"
+    },
+    "01BC7B9889C547EE820AF63AE3421E59": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.3",
+      "description": "Explain the logical steps in initializing and loading a one-dimensional array",
+      "id": "01BC7B9889C547EE820AF63AE3421E59",
+      "asnIdentifier": "S2638490",
+      "position": 53000,
+      "depth": 1,
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "266E4010F4444ABC98632A328DCD7697": {
+      "description": "Use subscript to access particular elements in a one-dimensional array or vector",
+      "id": "266E4010F4444ABC98632A328DCD7697",
+      "asnIdentifier": "S2638489",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "6.2.2",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "A087CFFFB2A84822B6CE0F4818FCE7F9",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "A087CFFFB2A84822B6CE0F4818FCE7F9"
+    },
+    "9F6A687A92B94AE7A4EDE4DE3FD3EDD0": {
+      "description": "Write an appropriate program to dimension one-dimensional arrays or vectors",
+      "id": "9F6A687A92B94AE7A4EDE4DE3FD3EDD0",
+      "asnIdentifier": "S2638488",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "6.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "A087CFFFB2A84822B6CE0F4818FCE7F9",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "A087CFFFB2A84822B6CE0F4818FCE7F9"
+    },
+    "A087CFFFB2A84822B6CE0F4818FCE7F9": {
+      "asnIdentifier": "S2638487",
+      "position": 50000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.2",
+      "description": "Explain the use of dimensions and subscripts and the syntax of commands to use them",
+      "id": "A087CFFFB2A84822B6CE0F4818FCE7F9",
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "A1F9E2F667744F99A63B4291ADD00D9C": {
+      "id": "A1F9E2F667744F99A63B4291ADD00D9C",
+      "asnIdentifier": "S2638486",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "6.1.1",
+      "statementLabel": "Application",
+      "description": "Give examples of when the use of arrays or vectors is appropriate",
+      "ancestorIds": [
+        "8AF4AA8F496B4EDE8438120C5052D374",
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "8AF4AA8F496B4EDE8438120C5052D374"
+    },
+    "8AF4AA8F496B4EDE8438120C5052D374": {
+      "id": "8AF4AA8F496B4EDE8438120C5052D374",
+      "asnIdentifier": "S2638485",
+      "position": 48000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "6.1",
+      "description": "Explain arrays and vectors",
+      "ancestorIds": [
+        "53B1EE1DED91467ABA2124620FF7868D"
+      ],
+      "parentId": "53B1EE1DED91467ABA2124620FF7868D"
+    },
+    "53B1EE1DED91467ABA2124620FF7868D": {
+      "position": 47000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "6:",
+      "description": "One-dimensional Arrays or Vectors",
+      "id": "53B1EE1DED91467ABA2124620FF7868D",
+      "asnIdentifier": "S2638484",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A7BA298A644045DF9D4C00B8F64CC484": {
+      "asnIdentifier": "S2638483",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "5.3.1",
+      "statementLabel": "Application",
+      "description": "Give examples of when enumerated types are needed",
+      "id": "A7BA298A644045DF9D4C00B8F64CC484",
+      "ancestorIds": [
+        "12BFB0F2EC3C4E5090AE22891F915335",
+        "DE596EDEABC441A0AE51B7427C8F8331"
+      ],
+      "parentId": "12BFB0F2EC3C4E5090AE22891F915335"
+    },
+    "12BFB0F2EC3C4E5090AE22891F915335": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.3",
+      "description": "Explain the purpose of using enumerated types",
+      "id": "12BFB0F2EC3C4E5090AE22891F915335",
+      "asnIdentifier": "S2638482",
+      "position": 45000,
+      "depth": 1,
+      "ancestorIds": [
+        "DE596EDEABC441A0AE51B7427C8F8331"
+      ],
+      "parentId": "DE596EDEABC441A0AE51B7427C8F8331"
+    },
+    "B77E320245DF47B69B2C9F5C3C3E0D8C": {
+      "id": "B77E320245DF47B69B2C9F5C3C3E0D8C",
+      "asnIdentifier": "S2638481",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "5.2.1",
+      "statementLabel": "Application",
+      "description": "Write programs that declare and use enumerated types",
+      "ancestorIds": [
+        "13B3E7762E2B4B449DD87B4B4F6F3C43",
+        "DE596EDEABC441A0AE51B7427C8F8331"
+      ],
+      "parentId": "13B3E7762E2B4B449DD87B4B4F6F3C43"
+    },
+    "13B3E7762E2B4B449DD87B4B4F6F3C43": {
+      "description": "Discuss enumerated type (i.e., color, cards, etc.)",
+      "id": "13B3E7762E2B4B449DD87B4B4F6F3C43",
+      "asnIdentifier": "S2638480",
+      "position": 43000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.2",
+      "ancestorIds": [
+        "DE596EDEABC441A0AE51B7427C8F8331"
+      ],
+      "parentId": "DE596EDEABC441A0AE51B7427C8F8331"
+    },
+    "E78DED680D9C45DBA6347450957B55E1": {
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "5.1.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use Boolean expressions and variables",
+      "id": "E78DED680D9C45DBA6347450957B55E1",
+      "asnIdentifier": "S2638479",
+      "ancestorIds": [
+        "A575AC8A86414FDD92B7C35B127585CD",
+        "DE596EDEABC441A0AE51B7427C8F8331"
+      ],
+      "parentId": "A575AC8A86414FDD92B7C35B127585CD"
+    },
+    "A575AC8A86414FDD92B7C35B127585CD": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "5.1",
+      "description": "Explain when and where to use Boolean expressions and variables",
+      "id": "A575AC8A86414FDD92B7C35B127585CD",
+      "asnIdentifier": "S2638478",
+      "position": 41000,
+      "ancestorIds": [
+        "DE596EDEABC441A0AE51B7427C8F8331"
+      ],
+      "parentId": "DE596EDEABC441A0AE51B7427C8F8331"
+    },
+    "DE596EDEABC441A0AE51B7427C8F8331": {
+      "id": "DE596EDEABC441A0AE51B7427C8F8331",
+      "asnIdentifier": "S2638477",
+      "position": 40000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "5:",
+      "description": "Data Types - Boolean and Enumerated Types",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3304CC71FA324997A8EF3350C9B3633F": {
+      "id": "3304CC71FA324997A8EF3350C9B3633F",
+      "asnIdentifier": "S2638476",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "4.7.1",
+      "statementLabel": "Application",
+      "description": "Write functions that have constant reference parameters (in languages where available)",
+      "ancestorIds": [
+        "396F0D43063D433C8D5DAD52A3808A8D",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "396F0D43063D433C8D5DAD52A3808A8D"
+    },
+    "396F0D43063D433C8D5DAD52A3808A8D": {
+      "id": "396F0D43063D433C8D5DAD52A3808A8D",
+      "asnIdentifier": "S2638475",
+      "position": 38000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.7",
+      "description": "Explain when to use a constant reference parameter (in languages where available)",
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "1F60934DF5D04AA2A0F03AA55FDE0059": {
+      "statementNotation": "4.6.1",
+      "statementLabel": "Application",
+      "description": "Write functions that have array or other data structure parameters",
+      "id": "1F60934DF5D04AA2A0F03AA55FDE0059",
+      "asnIdentifier": "S2638474",
+      "position": 37000,
+      "depth": 2,
+      "ancestorIds": [
+        "14CE64D3F18C4855878D54A906F012B4",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "14CE64D3F18C4855878D54A906F012B4"
+    },
+    "14CE64D3F18C4855878D54A906F012B4": {
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.6",
+      "description": "Explain why array parameters and other data structure parameters should be passed by reference",
+      "id": "14CE64D3F18C4855878D54A906F012B4",
+      "asnIdentifier": "S2638473",
+      "position": 36000,
+      "depth": 1,
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "272BFFB0408C4D9C819389841A57BA4E": {
+      "depth": 2,
+      "statementNotation": "4.5.1",
+      "statementLabel": "Application",
+      "description": "Write functions that return values",
+      "id": "272BFFB0408C4D9C819389841A57BA4E",
+      "asnIdentifier": "S2638472",
+      "position": 35000,
+      "ancestorIds": [
+        "2FC8ED11AB1F4D0DBEB4D279964DA12B",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "2FC8ED11AB1F4D0DBEB4D279964DA12B"
+    },
+    "2FC8ED11AB1F4D0DBEB4D279964DA12B": {
+      "description": "Explain when to use functions that return a value",
+      "id": "2FC8ED11AB1F4D0DBEB4D279964DA12B",
+      "asnIdentifier": "S2638471",
+      "position": 34000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.5",
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "0C68D0C6E5E64CAFB5462B93112BA27B": {
+      "id": "0C68D0C6E5E64CAFB5462B93112BA27B",
+      "asnIdentifier": "S2638470",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "4.4.1",
+      "statementLabel": "Application",
+      "description": "Write functions/procedures with reference parameters",
+      "ancestorIds": [
+        "C63FB4D6C4424E1D9702F472B3BE2D4F",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "C63FB4D6C4424E1D9702F472B3BE2D4F"
+    },
+    "C63FB4D6C4424E1D9702F472B3BE2D4F": {
+      "asnIdentifier": "S2638469",
+      "position": 32000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.4",
+      "description": "Explain when to use reference parameters",
+      "id": "C63FB4D6C4424E1D9702F472B3BE2D4F",
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "BB44D22941074CA991C7E2161BB4E00C": {
+      "id": "BB44D22941074CA991C7E2161BB4E00C",
+      "asnIdentifier": "S2638468",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "4.3.1",
+      "statementLabel": "Application",
+      "description": "Write functions/procedures with value parameters",
+      "ancestorIds": [
+        "8D3C89E447364527A0DF24E763AFE961",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "8D3C89E447364527A0DF24E763AFE961"
+    },
+    "8D3C89E447364527A0DF24E763AFE961": {
+      "description": "Explain when to use value parameters",
+      "id": "8D3C89E447364527A0DF24E763AFE961",
+      "asnIdentifier": "S2638467",
+      "position": 30000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.3",
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "C6ADE783E3944BEBAE210A26F2FD6BA9": {
+      "id": "C6ADE783E3944BEBAE210A26F2FD6BA9",
+      "asnIdentifier": "S2638466",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "4.2.1",
+      "statementLabel": "Application",
+      "description": "Write programs that use arguments in function/procedure calls",
+      "ancestorIds": [
+        "8F8D550E56C64FADA48B9830FB00356C",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "8F8D550E56C64FADA48B9830FB00356C"
+    },
+    "8F8D550E56C64FADA48B9830FB00356C": {
+      "listId": "4.2",
+      "description": "Explain the matching of arguments in the function call to the function parameters",
+      "id": "8F8D550E56C64FADA48B9830FB00356C",
+      "asnIdentifier": "S2638465",
+      "position": 28000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "D29E29285FB747BDBE2DAF77CF064D36": {
+      "statementNotation": "4.1.1",
+      "statementLabel": "Application",
+      "description": "Give examples of arguments and parameters",
+      "id": "D29E29285FB747BDBE2DAF77CF064D36",
+      "asnIdentifier": "S2638464",
+      "position": 27000,
+      "depth": 2,
+      "ancestorIds": [
+        "D4FC7938018E46CCACCC9F0CFAB6AE84",
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "D4FC7938018E46CCACCC9F0CFAB6AE84"
+    },
+    "D4FC7938018E46CCACCC9F0CFAB6AE84": {
+      "id": "D4FC7938018E46CCACCC9F0CFAB6AE84",
+      "asnIdentifier": "S2638463",
+      "position": 26000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "4.1",
+      "description": "Explain the difference between argument and parameter",
+      "ancestorIds": [
+        "B0E0A66AB0A640D48C5D97D954931F6F"
+      ],
+      "parentId": "B0E0A66AB0A640D48C5D97D954931F6F"
+    },
+    "B0E0A66AB0A640D48C5D97D954931F6F": {
+      "position": 25000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "4:",
+      "description": "Procedures/Subprograms/Functions with Parameters",
+      "id": "B0E0A66AB0A640D48C5D97D954931F6F",
+      "asnIdentifier": "S2638462",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9CD50CD948FA4068A8536553B9E4D6AC": {
+      "statementNotation": "3.3.3",
+      "statementLabel": "Application",
+      "description": "Write code that will take characters from the right side of a string (i.e., ZIP code from the address)",
+      "id": "9CD50CD948FA4068A8536553B9E4D6AC",
+      "asnIdentifier": "S2638461",
+      "position": 24000,
+      "depth": 2,
+      "ancestorIds": [
+        "D5B3E3AEADF340B5B2E37D51B95F9230",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "D5B3E3AEADF340B5B2E37D51B95F9230"
+    },
+    "8F8ECBE4522C417697448EF066AD3B30": {
+      "statementNotation": "3.3.2",
+      "statementLabel": "Application",
+      "description": "Write code that will take characters from the middle of a string (i.e., removing the middle name from the full name)",
+      "id": "8F8ECBE4522C417697448EF066AD3B30",
+      "asnIdentifier": "S2638460",
+      "position": 23000,
+      "depth": 2,
+      "ancestorIds": [
+        "D5B3E3AEADF340B5B2E37D51B95F9230",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "D5B3E3AEADF340B5B2E37D51B95F9230"
+    },
+    "C952C20468CE4B04B8E7D417B0B855CD": {
+      "statementLabel": "Application",
+      "description": "Write code that will take the first part of a string from a longer string (i.e., taking the area code from a telephone number)",
+      "id": "C952C20468CE4B04B8E7D417B0B855CD",
+      "asnIdentifier": "S2638459",
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "3.3.1",
+      "ancestorIds": [
+        "D5B3E3AEADF340B5B2E37D51B95F9230",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "D5B3E3AEADF340B5B2E37D51B95F9230"
+    },
+    "D5B3E3AEADF340B5B2E37D51B95F9230": {
+      "listId": "3.3",
+      "description": "Explain the reasons why breaking a string into its component parts is important",
+      "id": "D5B3E3AEADF340B5B2E37D51B95F9230",
+      "asnIdentifier": "S2638458",
+      "position": 21000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "AA71BC52B2BA40009E728C33495C61CA"
+    },
+    "B83791D3DF9446279D259A7B9E722783": {
+      "statementNotation": "3.2.3",
+      "statementLabel": "Application",
+      "description": "Write programs that concatenate multiple strings into one",
+      "id": "B83791D3DF9446279D259A7B9E722783",
+      "asnIdentifier": "S2638457",
+      "position": 20000,
+      "depth": 2,
+      "ancestorIds": [
+        "B2850FBC6A9F4834A52427159F5D8C28",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "B2850FBC6A9F4834A52427159F5D8C28"
+    },
+    "EED2AFDFC5CE4BCDBAA866A5C2336BF5": {
+      "id": "EED2AFDFC5CE4BCDBAA866A5C2336BF5",
+      "asnIdentifier": "S2638456",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "3.2.2",
+      "statementLabel": "Application",
+      "description": "Write programs to print a particular group of characters that are contained in a string",
+      "ancestorIds": [
+        "B2850FBC6A9F4834A52427159F5D8C28",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "B2850FBC6A9F4834A52427159F5D8C28"
+    },
+    "B94C6DF4394645C9AFF46E9B1AD1D022": {
+      "id": "B94C6DF4394645C9AFF46E9B1AD1D022",
+      "asnIdentifier": "S2638455",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "3.2.1",
+      "statementLabel": "Application",
+      "description": "Write programs to determine the number of characters in a string",
+      "ancestorIds": [
+        "B2850FBC6A9F4834A52427159F5D8C28",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "B2850FBC6A9F4834A52427159F5D8C28"
+    },
+    "B2850FBC6A9F4834A52427159F5D8C28": {
+      "description": "Explain the syntax and purpose of commands that handle all or part of a string and that concatenate strings",
+      "id": "B2850FBC6A9F4834A52427159F5D8C28",
+      "asnIdentifier": "S2638454",
+      "position": 17000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.2",
+      "ancestorIds": [
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "AA71BC52B2BA40009E728C33495C61CA"
+    },
+    "E3C431FD0B20478EA660D720B94FFF45": {
+      "id": "E3C431FD0B20478EA660D720B94FFF45",
+      "asnIdentifier": "S2638453",
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "3.1.2",
+      "statementLabel": "Application",
+      "description": "Write programs to use the ASCII number to print the corresponding character",
+      "ancestorIds": [
+        "49DFB5C3E5CD4403BDDCA4882EC81954",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "49DFB5C3E5CD4403BDDCA4882EC81954"
+    },
+    "CEB63B83B6DC49529F3D368B63F06176": {
+      "statementNotation": "3.1.1",
+      "statementLabel": "Application",
+      "description": "Write program lines to determine the ASCII number of a character",
+      "id": "CEB63B83B6DC49529F3D368B63F06176",
+      "asnIdentifier": "S2638452",
+      "position": 15000,
+      "depth": 2,
+      "ancestorIds": [
+        "49DFB5C3E5CD4403BDDCA4882EC81954",
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "49DFB5C3E5CD4403BDDCA4882EC81954"
+    },
+    "49DFB5C3E5CD4403BDDCA4882EC81954": {
+      "position": 14000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "3.1",
+      "description": "Explain the syntax and features of various commands dealing with ASCII or Unicode numbers and their corresponding characters",
+      "id": "49DFB5C3E5CD4403BDDCA4882EC81954",
+      "asnIdentifier": "S2638451",
+      "ancestorIds": [
+        "AA71BC52B2BA40009E728C33495C61CA"
+      ],
+      "parentId": "AA71BC52B2BA40009E728C33495C61CA"
+    },
+    "AA71BC52B2BA40009E728C33495C61CA": {
+      "id": "AA71BC52B2BA40009E728C33495C61CA",
+      "asnIdentifier": "S2638450",
+      "position": 13000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "3:",
+      "description": "String Manipulation",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1F38C05D172D400E95088FA7B84D47FA": {
+      "statementNotation": "2.3.1",
+      "statementLabel": "Application",
+      "description": "Write programs that require data to fit a specified pattern (i.e., Social Security Number 123-45-6789, phone number 123-456-7890, etc.)",
+      "id": "1F38C05D172D400E95088FA7B84D47FA",
+      "asnIdentifier": "S2638449",
+      "position": 12000,
+      "depth": 2,
+      "ancestorIds": [
+        "E7C52C99C0744CF3A795EA0E79EE41C9",
+        "93690F0241854A4CBFF7B8557C31C393"
+      ],
+      "parentId": "E7C52C99C0744CF3A795EA0E79EE41C9"
+    },
+    "E7C52C99C0744CF3A795EA0E79EE41C9": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.3",
+      "description": "Explain the logic of data validation to match a particular pattern",
+      "id": "E7C52C99C0744CF3A795EA0E79EE41C9",
+      "asnIdentifier": "S2638448",
+      "position": 11000,
+      "ancestorIds": [
+        "93690F0241854A4CBFF7B8557C31C393"
+      ],
+      "parentId": "93690F0241854A4CBFF7B8557C31C393"
+    },
+    "E8716C1BA99F41AB9410BCB668285422": {
+      "description": "Write programs that use range checks",
+      "id": "E8716C1BA99F41AB9410BCB668285422",
+      "asnIdentifier": "S2638447",
+      "position": 10000,
+      "depth": 2,
+      "statementNotation": "2.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "7C55ED462B524DB7BA950E7A348BB841",
+        "93690F0241854A4CBFF7B8557C31C393"
+      ],
+      "parentId": "7C55ED462B524DB7BA950E7A348BB841"
+    },
+    "7C55ED462B524DB7BA950E7A348BB841": {
+      "listId": "2.2",
+      "description": "Explain the logic of numeric range checks",
+      "id": "7C55ED462B524DB7BA950E7A348BB841",
+      "asnIdentifier": "S2638446",
+      "position": 9000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "ancestorIds": [
+        "93690F0241854A4CBFF7B8557C31C393"
+      ],
+      "parentId": "93690F0241854A4CBFF7B8557C31C393"
+    },
+    "4F46C4973C1047D5A90BE9521C8826F7": {
+      "position": 8000,
+      "depth": 2,
+      "statementNotation": "2.1.1",
+      "statementLabel": "Application",
+      "description": "Give examples of good data validation rules for a variety of situations",
+      "id": "4F46C4973C1047D5A90BE9521C8826F7",
+      "asnIdentifier": "S2638445",
+      "ancestorIds": [
+        "3A757BD04D0A4FCCB490CB09E907CEB5",
+        "93690F0241854A4CBFF7B8557C31C393"
+      ],
+      "parentId": "3A757BD04D0A4FCCB490CB09E907CEB5"
+    },
+    "3A757BD04D0A4FCCB490CB09E907CEB5": {
+      "position": 7000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "2.1",
+      "description": "Explain the importance of data validation",
+      "id": "3A757BD04D0A4FCCB490CB09E907CEB5",
+      "asnIdentifier": "S2638444",
+      "ancestorIds": [
+        "93690F0241854A4CBFF7B8557C31C393"
+      ],
+      "parentId": "93690F0241854A4CBFF7B8557C31C393"
+    },
+    "93690F0241854A4CBFF7B8557C31C393": {
+      "asnIdentifier": "S2638443",
+      "position": 6000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "listId": "2:",
+      "description": "Data Validation",
+      "id": "93690F0241854A4CBFF7B8557C31C393",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "945A3FB3728C48E0A4221F859022E870": {
+      "description": "When given an example, be able to identify the correct step",
+      "id": "945A3FB3728C48E0A4221F859022E870",
+      "asnIdentifier": "S2638442",
+      "position": 5000,
+      "depth": 2,
+      "statementNotation": "1.2.1",
+      "statementLabel": "Application",
+      "ancestorIds": [
+        "1FE0E9A1EBAC47DD9F8CB4F29ADEEEFB",
+        "CF6E06740B1045AFB03443F8E2F7B23F"
+      ],
+      "parentId": "1FE0E9A1EBAC47DD9F8CB4F29ADEEEFB"
+    },
+    "1FE0E9A1EBAC47DD9F8CB4F29ADEEEFB": {
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.2",
+      "description": "List the steps of the programming process",
+      "id": "1FE0E9A1EBAC47DD9F8CB4F29ADEEEFB",
+      "asnIdentifier": "S2638441",
+      "position": 4000,
+      "ancestorIds": [
+        "CF6E06740B1045AFB03443F8E2F7B23F"
+      ],
+      "parentId": "CF6E06740B1045AFB03443F8E2F7B23F"
+    },
+    "02051642704B4E658C0D030408204A00": {
+      "statementLabel": "Application",
+      "description": "Identify ethical and privacy practices in computer programming",
+      "id": "02051642704B4E658C0D030408204A00",
+      "asnIdentifier": "S2638440",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "1.1.1",
+      "ancestorIds": [
+        "74F39736F2E34C3F9BC9DE5B2F4DCE06",
+        "CF6E06740B1045AFB03443F8E2F7B23F"
+      ],
+      "parentId": "74F39736F2E34C3F9BC9DE5B2F4DCE06"
+    },
+    "74F39736F2E34C3F9BC9DE5B2F4DCE06": {
+      "asnIdentifier": "S2638439",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Knowledge Statement",
+      "listId": "1.1",
+      "description": "Discuss the ethical and privacy issues of programming",
+      "id": "74F39736F2E34C3F9BC9DE5B2F4DCE06",
+      "ancestorIds": [
+        "CF6E06740B1045AFB03443F8E2F7B23F"
+      ],
+      "parentId": "CF6E06740B1045AFB03443F8E2F7B23F"
+    },
+    "CF6E06740B1045AFB03443F8E2F7B23F": {
+      "listId": "1:",
+      "description": "Review Programming Techniques, Ethics, and Privacy",
+      "id": "CF6E06740B1045AFB03443F8E2F7B23F",
+      "asnIdentifier": "S2638438",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Unit",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

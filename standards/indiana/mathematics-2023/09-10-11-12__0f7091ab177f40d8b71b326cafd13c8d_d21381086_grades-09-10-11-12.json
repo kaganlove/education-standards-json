@@ -1,0 +1,703 @@
+{
+  "id": "0F7091AB177F40D8B71B326CAFD13C8D_D21381086_grades-09-10-11-12",
+  "title": "Algebra II: Grades 9, 10, 11, 12",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "",
+    "URL": "",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D21381086",
+    "valid": "2023",
+    "title": "Indiana Academic Standards Mathematics: Algebra II",
+    "sourceURL": "https://media.doe.in.gov/standards/indiana-academic-standards-algebra-ii.pdf",
+    "asnIdentifier": "D21381086",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "0F7091AB177F40D8B71B326CAFD13C8D",
+    "title": "Indiana"
+  },
+  "standards": {
+    "43730C0E21A7401892D0893861B3294C": {
+      "id": "43730C0E21A7401892D0893861B3294C",
+      "asnIdentifier": "S21381137",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "AII.MQ.1",
+      "statementLabel": "Standard",
+      "description": "Model real-world probability situations using permutations, combinations, and the Fundamental Counting Principle.",
+      "ancestorIds": [
+        "DEFBE8450B7A47B682BA99B1980664FD",
+        "5169C18EA50D4F1BB8051E22BA996758"
+      ],
+      "parentId": "DEFBE8450B7A47B682BA99B1980664FD"
+    },
+    "DEFBE8450B7A47B682BA99B1980664FD": {
+      "id": "DEFBE8450B7A47B682BA99B1980664FD",
+      "asnIdentifier": "S21381136",
+      "position": 50000,
+      "depth": 1,
+      "statementNotation": "AII.MQ",
+      "statementLabel": "Learning Outcome",
+      "description": "Students use combinatorics to quantify and model real-world situations.",
+      "ancestorIds": [
+        "5169C18EA50D4F1BB8051E22BA996758"
+      ],
+      "parentId": "5169C18EA50D4F1BB8051E22BA996758"
+    },
+    "5169C18EA50D4F1BB8051E22BA996758": {
+      "id": "5169C18EA50D4F1BB8051E22BA996758",
+      "asnIdentifier": "S21381135",
+      "position": 49000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Modeling with Quantities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "10BCA2029CE04FA9892BC44AABEE3F04": {
+      "id": "10BCA2029CE04FA9892BC44AABEE3F04",
+      "asnIdentifier": "S21381134",
+      "position": 48000,
+      "depth": 2,
+      "statementNotation": "AII.MDS.3",
+      "statementLabel": "Standard",
+      "description": "Use data science techniques such as predictive modeling, linear algebra, and conditional probability to analyze data sets and make and evaluate claims.",
+      "ancestorIds": [
+        "8D245FF3868F4BA68EA4354965E0B8F1",
+        "F5AD5D6DCE724352A28579ADA3EE9829"
+      ],
+      "parentId": "8D245FF3868F4BA68EA4354965E0B8F1"
+    },
+    "3E24DEC452D44BCA9CF9E80B10DE9514": {
+      "id": "3E24DEC452D44BCA9CF9E80B10DE9514",
+      "asnIdentifier": "S21381133",
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "AII.MDS.2",
+      "statementLabel": "Standard",
+      "description": "Using the results of a simulation, decide if a specified model is consistent with the results. Construct a theoretical model, and apply the law of large numbers to show the relationship between the two models.",
+      "ancestorIds": [
+        "8D245FF3868F4BA68EA4354965E0B8F1",
+        "F5AD5D6DCE724352A28579ADA3EE9829"
+      ],
+      "parentId": "8D245FF3868F4BA68EA4354965E0B8F1"
+    },
+    "C4740F3CC3AF488BAD55E3CA7915AE57": {
+      "id": "C4740F3CC3AF488BAD55E3CA7915AE57",
+      "asnIdentifier": "S21381132",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "AII.MDS.1",
+      "statementLabel": "Standard",
+      "description": "Distinguish between random and non-random sampling methods, identify possible sources of bias in sampling, describe how such bias can be controlled and reduced, evaluate the characteristics of a good survey and well-designed experiment, design simple experiments or investigations to collect data to answer questions of interest, and make inferences from sample results.",
+      "ancestorIds": [
+        "8D245FF3868F4BA68EA4354965E0B8F1",
+        "F5AD5D6DCE724352A28579ADA3EE9829"
+      ],
+      "parentId": "8D245FF3868F4BA68EA4354965E0B8F1"
+    },
+    "8D245FF3868F4BA68EA4354965E0B8F1": {
+      "id": "8D245FF3868F4BA68EA4354965E0B8F1",
+      "asnIdentifier": "S21381131",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "AII.MDS",
+      "statementLabel": "Learning Outcome",
+      "description": "Students use statistics and probability techniques to collect and interpret complex data that can be modeled using functions.",
+      "ancestorIds": [
+        "F5AD5D6DCE724352A28579ADA3EE9829"
+      ],
+      "parentId": "F5AD5D6DCE724352A28579ADA3EE9829"
+    },
+    "F5AD5D6DCE724352A28579ADA3EE9829": {
+      "id": "F5AD5D6DCE724352A28579ADA3EE9829",
+      "asnIdentifier": "S21381130",
+      "position": 44000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Modeling with Data and Statistics",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A581FD4A060A42308E675B525F0B8237": {
+      "id": "A581FD4A060A42308E675B525F0B8237",
+      "asnIdentifier": "S21381129",
+      "position": 43000,
+      "depth": 2,
+      "statementNotation": "AII.MAA.3",
+      "statementLabel": "Standard",
+      "description": "Model real-world phenomena using linear programming and matrices.",
+      "ancestorIds": [
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "36D721B571DB4B8199E4947A26AF3B97"
+    },
+    "94EFC79CF00E4968807D1DAEE7270A64": {
+      "id": "94EFC79CF00E4968807D1DAEE7270A64",
+      "asnIdentifier": "S21381128",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "AII.MAA.2",
+      "statementLabel": "Standard",
+      "description": "Represent and solve real-world systems of linear equations and inequalities in two or three variables algebraically and using technology. Interpret the solution, and determine whether it is reasonable.",
+      "ancestorIds": [
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "36D721B571DB4B8199E4947A26AF3B97"
+    },
+    "CF7F9ED9B1774FC392AF606C1EBCA909": {
+      "id": "CF7F9ED9B1774FC392AF606C1EBCA909",
+      "asnIdentifier": "S21381127",
+      "position": 41000,
+      "depth": 3,
+      "statementNotation": "AII.MAA.1.d",
+      "description": "Identifying and explaining extraneous roots.",
+      "ancestorIds": [
+        "A1F39543A7784BD7B3C4AE711093455F",
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "A1F39543A7784BD7B3C4AE711093455F"
+    },
+    "B068CBA3BCBE445A8FF6DE0AC855006D": {
+      "id": "B068CBA3BCBE445A8FF6DE0AC855006D",
+      "asnIdentifier": "S21381126",
+      "position": 40000,
+      "depth": 3,
+      "statementNotation": "AII.MAA.1.c",
+      "description": "Factoring, chunking, and rewriting functions using properties of exponents; and",
+      "ancestorIds": [
+        "A1F39543A7784BD7B3C4AE711093455F",
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "A1F39543A7784BD7B3C4AE711093455F"
+    },
+    "FDC9ECEF04E7416182BE806F86222991": {
+      "id": "FDC9ECEF04E7416182BE806F86222991",
+      "asnIdentifier": "S21381125",
+      "position": 39000,
+      "depth": 3,
+      "statementNotation": "AII.MAA.1.b",
+      "description": "Determining the number of solutions to a function using graphical and algebraic forms (including the discriminant and complex numbers as appropriate);",
+      "ancestorIds": [
+        "A1F39543A7784BD7B3C4AE711093455F",
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "A1F39543A7784BD7B3C4AE711093455F"
+    },
+    "A11C86A81C7B43CB85BECB3542F70AB8": {
+      "id": "A11C86A81C7B43CB85BECB3542F70AB8",
+      "asnIdentifier": "S21381124",
+      "position": 38000,
+      "depth": 3,
+      "statementNotation": "AII.MAA.1.a",
+      "description": "Completing the square to rewrite contextual quadratic functions in vertex form and interpret the outcome;",
+      "ancestorIds": [
+        "A1F39543A7784BD7B3C4AE711093455F",
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "A1F39543A7784BD7B3C4AE711093455F"
+    },
+    "A1F39543A7784BD7B3C4AE711093455F": {
+      "id": "A1F39543A7784BD7B3C4AE711093455F",
+      "asnIdentifier": "S21381123",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "AII.MAA.1",
+      "statementLabel": "Standard",
+      "description": "Use algebraic and graphical strategies to make use of structure with quadratic, polynomial, and rational functions to solve real-world problems, including but not limited to:",
+      "ancestorIds": [
+        "36D721B571DB4B8199E4947A26AF3B97",
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "36D721B571DB4B8199E4947A26AF3B97"
+    },
+    "36D721B571DB4B8199E4947A26AF3B97": {
+      "id": "36D721B571DB4B8199E4947A26AF3B97",
+      "asnIdentifier": "S21381122",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "AII.MAA",
+      "statementLabel": "Learning Outcome",
+      "description": "Students use advanced algebra concepts to model real-world function situations and use specific algebraic techniques to reveal and make use of structure with families of functions.",
+      "ancestorIds": [
+        "0D1C168EFA49410EB2F756C41F63A31C"
+      ],
+      "parentId": "0D1C168EFA49410EB2F756C41F63A31C"
+    },
+    "0D1C168EFA49410EB2F756C41F63A31C": {
+      "id": "0D1C168EFA49410EB2F756C41F63A31C",
+      "asnIdentifier": "S21381121",
+      "position": 35000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Modeling with Advanced Algebra",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C643655B41F44670B0797FEBA67FCE09": {
+      "id": "C643655B41F44670B0797FEBA67FCE09",
+      "asnIdentifier": "S21381120",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "AII.MFD.4",
+      "statementLabel": "Standard",
+      "description": "Explore the effects of function transformations using graphing technology. Explain the effects of transformations of functions such as <em>f(x) + k, kf(x), f(kx),</em> or <em>f(x + k)</em> for different functions and values of <em>k</em>.",
+      "ancestorIds": [
+        "74E26B75230844A1A17E2D1A766708DB",
+        "FF782745414343F2A197E91F77EB0C8F"
+      ],
+      "parentId": "74E26B75230844A1A17E2D1A766708DB"
+    },
+    "6CBE7BC14E9A4582BAE2C064A47B1033": {
+      "id": "6CBE7BC14E9A4582BAE2C064A47B1033",
+      "asnIdentifier": "S21381119",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "AII.MFD.3",
+      "statementLabel": "Standard",
+      "description": "Use technology to find a linear, quadratic, or exponential function that models a relationship for a bivariate data set to make predictions; interpret the correlation coefficient for linear models. Compare and evaluate model fit using different function families.",
+      "ancestorIds": [
+        "74E26B75230844A1A17E2D1A766708DB",
+        "FF782745414343F2A197E91F77EB0C8F"
+      ],
+      "parentId": "74E26B75230844A1A17E2D1A766708DB"
+    },
+    "D9A656275B5D452FB3897F4071B3C103": {
+      "id": "D9A656275B5D452FB3897F4071B3C103",
+      "asnIdentifier": "S21381118",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "AII.MFD.2",
+      "statementLabel": "Standard",
+      "description": "Represent real-world problems that can be modeled by linear, quadratic, exponential, and rational functions using tables, graphs, and equations. Use technology to represent the functional relationships and translate and interpret different forms (e.g., vertex form of a quadratic, intercepts, end behavior) with respect to the context.",
+      "ancestorIds": [
+        "74E26B75230844A1A17E2D1A766708DB",
+        "FF782745414343F2A197E91F77EB0C8F"
+      ],
+      "parentId": "74E26B75230844A1A17E2D1A766708DB"
+    },
+    "3DA527CC5E684162936A52BC537D09F6": {
+      "id": "3DA527CC5E684162936A52BC537D09F6",
+      "asnIdentifier": "S21381117",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "AII.MFD.1",
+      "statementLabel": "Standard",
+      "description": "Define functions and their inverses and illustrate examples algebraically and graphically. Identify real-world situations that can be modeled using functions.",
+      "ancestorIds": [
+        "74E26B75230844A1A17E2D1A766708DB",
+        "FF782745414343F2A197E91F77EB0C8F"
+      ],
+      "parentId": "74E26B75230844A1A17E2D1A766708DB"
+    },
+    "74E26B75230844A1A17E2D1A766708DB": {
+      "id": "74E26B75230844A1A17E2D1A766708DB",
+      "asnIdentifier": "S21381116",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "AII.MFD",
+      "statementLabel": "Learning Outcome",
+      "description": "Students use families of functions to model real-world situations using multiple mathematical representations.",
+      "ancestorIds": [
+        "FF782745414343F2A197E91F77EB0C8F"
+      ],
+      "parentId": "FF782745414343F2A197E91F77EB0C8F"
+    },
+    "FF782745414343F2A197E91F77EB0C8F": {
+      "id": "FF782745414343F2A197E91F77EB0C8F",
+      "asnIdentifier": "S21381115",
+      "position": 29000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Modeling with Functions and Data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "27E35421AC4C4CEAA9570C2261D95156": {
+      "id": "27E35421AC4C4CEAA9570C2261D95156",
+      "asnIdentifier": "S21381114",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "AII.FF.4",
+      "statementLabel": "Standard",
+      "description": "Solve real-world problems with each function family, including situations in the context of science and economic phenomena.",
+      "ancestorIds": [
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "22407820AD97448DA1A8D2FCC1F0C3CC"
+    },
+    "2AC332B52842444F8D462E6A5397D85B": {
+      "id": "2AC332B52842444F8D462E6A5397D85B",
+      "asnIdentifier": "S21381113",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "AII.FF.3",
+      "statementLabel": "Standard",
+      "description": "Use graphical and algebraic structures and techniques to transform functions into equivalent forms to expose different information and identify key features. Connect the meaning of the key features to contextual situations.",
+      "ancestorIds": [
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "22407820AD97448DA1A8D2FCC1F0C3CC"
+    },
+    "552E0A773E114AD6BED8C6E924DBE05A": {
+      "id": "552E0A773E114AD6BED8C6E924DBE05A",
+      "asnIdentifier": "S21381112",
+      "position": 26000,
+      "depth": 2,
+      "statementNotation": "AII.FF.2",
+      "statementLabel": "Standard",
+      "description": "Graph each of the families of function with and without technology. Identify and describe key features, such as intercepts, domain and range, asymptotes, symmetry, and end behavior. Create inverse functions algebraically and/or graphically based on a given function. Model real-world situations with each function family.",
+      "ancestorIds": [
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "22407820AD97448DA1A8D2FCC1F0C3CC"
+    },
+    "E713AFA3A138434B9F2500CCFFF985AB": {
+      "id": "E713AFA3A138434B9F2500CCFFF985AB",
+      "asnIdentifier": "S21381111",
+      "position": 25000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.g",
+      "description": "Piecewise-defined and absolute value functions",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "E655F5F340BA442A9FEB93F1BDC1B6B6": {
+      "id": "E655F5F340BA442A9FEB93F1BDC1B6B6",
+      "asnIdentifier": "S21381110",
+      "position": 24000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.f",
+      "description": "Logarithmic",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "FF35818ADB8A4A7E81515315EE6156D9": {
+      "id": "FF35818ADB8A4A7E81515315EE6156D9",
+      "asnIdentifier": "S21381109",
+      "position": 23000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.e",
+      "description": "Exponential",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "6BA5CC7E6DC846439F21EB858172B132": {
+      "id": "6BA5CC7E6DC846439F21EB858172B132",
+      "asnIdentifier": "S21381108",
+      "position": 22000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.d",
+      "description": "Rational",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "DECEC2577F6F4A7FA845D91FE4ADB33D": {
+      "id": "DECEC2577F6F4A7FA845D91FE4ADB33D",
+      "asnIdentifier": "S21381107",
+      "position": 21000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.c",
+      "description": "Square root",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "9CCD45CAD86947DFA0011AC8F720201E": {
+      "id": "9CCD45CAD86947DFA0011AC8F720201E",
+      "asnIdentifier": "S21381106",
+      "position": 20000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.b",
+      "description": "Polynomial",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "50046C2000294AEBA99D31A2EE3FA175": {
+      "id": "50046C2000294AEBA99D31A2EE3FA175",
+      "asnIdentifier": "S21381105",
+      "position": 19000,
+      "depth": 3,
+      "statementNotation": "AII.FF.1.a",
+      "description": "Quadratic",
+      "ancestorIds": [
+        "D3B3A1042FE74351A1CD3697526D378F",
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "D3B3A1042FE74351A1CD3697526D378F"
+    },
+    "D3B3A1042FE74351A1CD3697526D378F": {
+      "id": "D3B3A1042FE74351A1CD3697526D378F",
+      "asnIdentifier": "S21381104",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "AII.FF.1",
+      "statementLabel": "Standard",
+      "description": "Using technology, identify, create, and connect algebraic and graphical representations of each of the function families listed:",
+      "ancestorIds": [
+        "22407820AD97448DA1A8D2FCC1F0C3CC",
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "22407820AD97448DA1A8D2FCC1F0C3CC"
+    },
+    "22407820AD97448DA1A8D2FCC1F0C3CC": {
+      "id": "22407820AD97448DA1A8D2FCC1F0C3CC",
+      "asnIdentifier": "S21381103",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "AII.FF",
+      "statementLabel": "Learning Outcome",
+      "description": "Students represent nonlinear functions in a variety of forms, recognizing and applying key features based on the type of function.",
+      "ancestorIds": [
+        "6B69231BB79F4CC19C0E5CC89E5A644B"
+      ],
+      "parentId": "6B69231BB79F4CC19C0E5CC89E5A644B"
+    },
+    "6B69231BB79F4CC19C0E5CC89E5A644B": {
+      "id": "6B69231BB79F4CC19C0E5CC89E5A644B",
+      "asnIdentifier": "S21381102",
+      "position": 16000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Function Families",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B8AC3367F6A14707962B3512D20A3175": {
+      "id": "B8AC3367F6A14707962B3512D20A3175",
+      "asnIdentifier": "S21381101",
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "AII.ASE.4",
+      "statementLabel": "Standard",
+      "description": "Solve exponential and logarithmic equations in one variable.",
+      "ancestorIds": [
+        "9DD48C962A46495FA3214D8E8C922A60",
+        "9655E902549A4A2286A4582C34B09FDC"
+      ],
+      "parentId": "9DD48C962A46495FA3214D8E8C922A60"
+    },
+    "8D69127BF45349AEA4421CD847F67DB5": {
+      "id": "8D69127BF45349AEA4421CD847F67DB5",
+      "asnIdentifier": "S21381100",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "AII.ASE.3",
+      "statementLabel": "Standard",
+      "description": "Solve systems of equations consisting of linear and nonlinear equations or functions in two variables algebraically and graphically.",
+      "ancestorIds": [
+        "9DD48C962A46495FA3214D8E8C922A60",
+        "9655E902549A4A2286A4582C34B09FDC"
+      ],
+      "parentId": "9DD48C962A46495FA3214D8E8C922A60"
+    },
+    "DE06495A8AA247FFAA6A30F19FEABDD2": {
+      "id": "DE06495A8AA247FFAA6A30F19FEABDD2",
+      "asnIdentifier": "S21381099",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "AII.ASE.2",
+      "statementLabel": "Standard",
+      "description": "Rewrite algebraic rational expressions in equivalent forms (e.g., using properties of exponents and factoring techniques) and describe how rewriting those expressions reveals mathematical structure. Add, subtract, multiply, and divide algebraic rational expressions.",
+      "ancestorIds": [
+        "9DD48C962A46495FA3214D8E8C922A60",
+        "9655E902549A4A2286A4582C34B09FDC"
+      ],
+      "parentId": "9DD48C962A46495FA3214D8E8C922A60"
+    },
+    "25247A0B46224E579409A2D831D151D8": {
+      "id": "25247A0B46224E579409A2D831D151D8",
+      "asnIdentifier": "S21381098",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "AII.ASE.1",
+      "statementLabel": "Standard",
+      "description": "Explain how extending the properties of integer exponents to rational numbers allows for a notation for radicals in terms of rational exponents (e.g., 5<sup>1/3</sup>) and explain how this is defined.",
+      "ancestorIds": [
+        "9DD48C962A46495FA3214D8E8C922A60",
+        "9655E902549A4A2286A4582C34B09FDC"
+      ],
+      "parentId": "9DD48C962A46495FA3214D8E8C922A60"
+    },
+    "9DD48C962A46495FA3214D8E8C922A60": {
+      "id": "9DD48C962A46495FA3214D8E8C922A60",
+      "asnIdentifier": "S21381097",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "AII.ASE",
+      "statementLabel": "Learning Outcome",
+      "description": "Students simplify, manipulate, and solve nonlinear expressions, equations, and functions in a variety of forms.",
+      "ancestorIds": [
+        "9655E902549A4A2286A4582C34B09FDC"
+      ],
+      "parentId": "9655E902549A4A2286A4582C34B09FDC"
+    },
+    "9655E902549A4A2286A4582C34B09FDC": {
+      "id": "9655E902549A4A2286A4582C34B09FDC",
+      "asnIdentifier": "S21381096",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Arithmetic and Structure of Expressions, Equations, and Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E5C121D2237A4D3083D3284245A0D7B8": {
+      "id": "E5C121D2237A4D3083D3284245A0D7B8",
+      "asnIdentifier": "S21381095",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "HS.PS.8",
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "4AEF0B1BC5B34C6D988C276A99FE1ECE": {
+      "id": "4AEF0B1BC5B34C6D988C276A99FE1ECE",
+      "asnIdentifier": "S21381094",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "HS.PS.7",
+      "statementLabel": "Standard",
+      "description": "Look for and make use of structure.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "DE865B68C9FD4767B45C0E7A8BD94E55": {
+      "id": "DE865B68C9FD4767B45C0E7A8BD94E55",
+      "asnIdentifier": "S21381093",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "HS.PS.6",
+      "statementLabel": "Standard",
+      "description": "Attend to precision.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "21AAAE8938DB4B70B22EA872F39148CD": {
+      "id": "21AAAE8938DB4B70B22EA872F39148CD",
+      "asnIdentifier": "S21381092",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "HS.PS.5",
+      "statementLabel": "Standard",
+      "description": "Use appropriate tools strategically.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "8CFFAF6A282E43989A2C1AA5585C5FB2": {
+      "id": "8CFFAF6A282E43989A2C1AA5585C5FB2",
+      "asnIdentifier": "S21381091",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "HS.PS.4",
+      "statementLabel": "Standard",
+      "description": "Model with mathematics.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "4E2153BB9B5547DBA0517645A97CED20": {
+      "id": "4E2153BB9B5547DBA0517645A97CED20",
+      "asnIdentifier": "S21381090",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "HS.PS.3",
+      "statementLabel": "Standard",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "EA67892EEB704356B5ACDDA7DD4792FD": {
+      "id": "EA67892EEB704356B5ACDDA7DD4792FD",
+      "asnIdentifier": "S21381089",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "HS.PS.2",
+      "statementLabel": "Standard",
+      "description": "Reason abstractly and quantitatively.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "685EC183607A4EFAA3760CBCFBD2B69E": {
+      "id": "685EC183607A4EFAA3760CBCFBD2B69E",
+      "asnIdentifier": "S21381088",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "HS.PS.1",
+      "statementLabel": "Standard",
+      "description": "Make sense of problems and persevere in solving them.",
+      "ancestorIds": [
+        "E7A51B871D374C809BC2E6F11DF76DCA"
+      ],
+      "parentId": "E7A51B871D374C809BC2E6F11DF76DCA"
+    },
+    "E7A51B871D374C809BC2E6F11DF76DCA": {
+      "id": "E7A51B871D374C809BC2E6F11DF76DCA",
+      "asnIdentifier": "S21381087",
+      "position": 1000,
+      "depth": 0,
+      "description": "Mathematics Process Standards",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

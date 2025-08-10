@@ -1,0 +1,408 @@
+{
+  "id": "F7633E50558C47DB9B3181595E7ADC80",
+  "title": "AP Statistics - Course Skills",
+  "subject": "AP Statistics",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12",
+    "11"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "College Board Course and Exam Description",
+    "sourceURL": "https://apcentral.collegeboard.org/pdf/ap-statistics-course-and-exam-description.pdf?course=ap-statistics"
+  },
+  "jurisdiction": {
+    "id": "0A5FD99233A74D8FA3A74F52E5F6CDEC",
+    "title": "AP/College Board"
+  },
+  "standards": {
+    "C2B0CE0012BA48BFBB07928E320D3D94": {
+      "id": "C2B0CE0012BA48BFBB07928E320D3D94",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "4.E",
+      "statementLabel": null,
+      "description": "Justify a claim using a decision based on significance tests. (inference)",
+      "ancestorIds": [
+        "31EC86013CD24728B94FF34DAF48C9FA"
+      ],
+      "parentId": "31EC86013CD24728B94FF34DAF48C9FA"
+    },
+    "24BE9E5BF2BF48BE8ED584B366EC4FF6": {
+      "id": "24BE9E5BF2BF48BE8ED584B366EC4FF6",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "4.D",
+      "statementLabel": null,
+      "description": "Justify a claim based on a confidence interval. (inference)",
+      "ancestorIds": [
+        "31EC86013CD24728B94FF34DAF48C9FA"
+      ],
+      "parentId": "31EC86013CD24728B94FF34DAF48C9FA"
+    },
+    "C66A196C68024BEC9FC86BF2C8D0F4E8": {
+      "id": "C66A196C68024BEC9FC86BF2C8D0F4E8",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "4.C",
+      "statementLabel": null,
+      "description": "Verify that inference procedures apply in a given situation. (inference)",
+      "ancestorIds": [
+        "31EC86013CD24728B94FF34DAF48C9FA"
+      ],
+      "parentId": "31EC86013CD24728B94FF34DAF48C9FA"
+    },
+    "BD04A071F25D4676A5BF9DB330894293": {
+      "id": "BD04A071F25D4676A5BF9DB330894293",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "4.B",
+      "statementLabel": null,
+      "description": "Interpret statistical calculations and findings to assign meaning or assess a claim. (skill)",
+      "ancestorIds": [
+        "31EC86013CD24728B94FF34DAF48C9FA"
+      ],
+      "parentId": "31EC86013CD24728B94FF34DAF48C9FA"
+    },
+    "598D3A20E2F6404D89217EC89CBF39CE": {
+      "id": "598D3A20E2F6404D89217EC89CBF39CE",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "4.A",
+      "statementLabel": null,
+      "description": "Make an appropriate claim or draw an appropriate conclusion. (skill)",
+      "ancestorIds": [
+        "31EC86013CD24728B94FF34DAF48C9FA"
+      ],
+      "parentId": "31EC86013CD24728B94FF34DAF48C9FA"
+    },
+    "31EC86013CD24728B94FF34DAF48C9FA": {
+      "id": "31EC86013CD24728B94FF34DAF48C9FA",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "4",
+      "statementLabel": null,
+      "description": "Statistical Argumentation: Develop an explanation or justify a conclusion using evidence from data, definitions, or statistical inference",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "02EEAC3FF01148688D00543888470090": {
+      "id": "02EEAC3FF01148688D00543888470090",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "3.E",
+      "statementLabel": null,
+      "description": "Calculate a test statistic and find a p-value, provided conditions for inference are met. (inference)",
+      "ancestorIds": [
+        "78F39E59068F4A569A805A5C64A37869"
+      ],
+      "parentId": "78F39E59068F4A569A805A5C64A37869"
+    },
+    "7F49958E8D04440C83E644970A64E5D7": {
+      "id": "7F49958E8D04440C83E644970A64E5D7",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "3.D",
+      "statementLabel": null,
+      "description": "Construction a confidence interval, provided conditions for inference are met. (inference)",
+      "ancestorIds": [
+        "78F39E59068F4A569A805A5C64A37869"
+      ],
+      "parentId": "78F39E59068F4A569A805A5C64A37869"
+    },
+    "2ED908C289E84C1499D5198D15164A6D": {
+      "id": "2ED908C289E84C1499D5198D15164A6D",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "3.C",
+      "statementLabel": null,
+      "description": "Describe probability distributions. (skill)",
+      "ancestorIds": [
+        "78F39E59068F4A569A805A5C64A37869"
+      ],
+      "parentId": "78F39E59068F4A569A805A5C64A37869"
+    },
+    "549C53BD1CB74BE8B259ED90FD78535A": {
+      "id": "549C53BD1CB74BE8B259ED90FD78535A",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "3.B",
+      "statementLabel": null,
+      "description": "Determine parameters for probability distributions. (skill)",
+      "ancestorIds": [
+        "78F39E59068F4A569A805A5C64A37869"
+      ],
+      "parentId": "78F39E59068F4A569A805A5C64A37869"
+    },
+    "69F4AF50E12846AFB87BF80713AB4EEE": {
+      "id": "69F4AF50E12846AFB87BF80713AB4EEE",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "3.A",
+      "statementLabel": null,
+      "description": "Determine relative frequencies, proportions, or probabilities using simulation or calculations. (skill)",
+      "ancestorIds": [
+        "78F39E59068F4A569A805A5C64A37869"
+      ],
+      "parentId": "78F39E59068F4A569A805A5C64A37869"
+    },
+    "78F39E59068F4A569A805A5C64A37869": {
+      "id": "78F39E59068F4A569A805A5C64A37869",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "3",
+      "statementLabel": null,
+      "description": "Using Probability and Simulation: Explore random phenomena.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0B3367D3A8364BADB2CCA6EAC4EC77B0": {
+      "id": "0B3367D3A8364BADB2CCA6EAC4EC77B0",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "2.D",
+      "statementLabel": null,
+      "description": "Compare distributions or relative positions of points within a distribution. (skill)",
+      "ancestorIds": [
+        "613AABADB5374536B6DA92EBB357BCB6"
+      ],
+      "parentId": "613AABADB5374536B6DA92EBB357BCB6"
+    },
+    "208C740768834D6FA9B7CA9651D4CB53": {
+      "id": "208C740768834D6FA9B7CA9651D4CB53",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "2.C",
+      "statementLabel": null,
+      "description": "Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response. (skill)",
+      "ancestorIds": [
+        "613AABADB5374536B6DA92EBB357BCB6"
+      ],
+      "parentId": "613AABADB5374536B6DA92EBB357BCB6"
+    },
+    "55A9F33C11F240828609D6BCF7D7604C": {
+      "id": "55A9F33C11F240828609D6BCF7D7604C",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "2.B",
+      "statementLabel": null,
+      "description": "Construct numerical or graphical representations of distributions. (skill)",
+      "ancestorIds": [
+        "613AABADB5374536B6DA92EBB357BCB6"
+      ],
+      "parentId": "613AABADB5374536B6DA92EBB357BCB6"
+    },
+    "388AB04D39D44137B3FBB542A7E7EC69": {
+      "id": "388AB04D39D44137B3FBB542A7E7EC69",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "2.A",
+      "statementLabel": null,
+      "description": "Describe data presented numerically and graphically. (skill)",
+      "ancestorIds": [
+        "613AABADB5374536B6DA92EBB357BCB6"
+      ],
+      "parentId": "613AABADB5374536B6DA92EBB357BCB6"
+    },
+    "613AABADB5374536B6DA92EBB357BCB6": {
+      "id": "613AABADB5374536B6DA92EBB357BCB6",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "2",
+      "statementLabel": null,
+      "description": "Data Analysis: Describe patterns, trends, associations, and relationship in data.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D3E67C899FF74A378C3FA5052B9DA8D4": {
+      "id": "D3E67C899FF74A378C3FA5052B9DA8D4",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "F",
+      "statementNotation": "1.F",
+      "statementLabel": null,
+      "description": "Identify the null and alternative hypotheses. (inference)",
+      "ancestorIds": [
+        "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+      ],
+      "parentId": "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+    },
+    "1985CEDE27C8434B9810883FBEDC557C": {
+      "id": "1985CEDE27C8434B9810883FBEDC557C",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "1.E",
+      "statementLabel": null,
+      "description": "Identify an appropriate inference method for significance tests. (inference)",
+      "ancestorIds": [
+        "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+      ],
+      "parentId": "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+    },
+    "6FA6ED9C0E634492B69D69E7CE20EF89": {
+      "id": "6FA6ED9C0E634492B69D69E7CE20EF89",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "1.D",
+      "statementLabel": null,
+      "description": "Identify an appropriate inference method for confidence intervals. (inference)",
+      "ancestorIds": [
+        "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+      ],
+      "parentId": "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+    },
+    "DFF3E38EA76C484A92D979DAB4C4352D": {
+      "id": "DFF3E38EA76C484A92D979DAB4C4352D",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "1.C",
+      "statementLabel": null,
+      "description": "Describe an appropriate method for gathering and representing data. (skill)",
+      "ancestorIds": [
+        "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+      ],
+      "parentId": "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+    },
+    "0931A9436AC44462969070EEA149B7C5": {
+      "id": "0931A9436AC44462969070EEA149B7C5",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "1.B",
+      "statementLabel": null,
+      "description": "Identify key and relevant information to answer a question or solve a problem. (skill)",
+      "ancestorIds": [
+        "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+      ],
+      "parentId": "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+    },
+    "29F3CEDAB52F4A97B87F1763E69253E1": {
+      "id": "29F3CEDAB52F4A97B87F1763E69253E1",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "1.A",
+      "statementLabel": null,
+      "description": "Identify the question to be answered or problem to be solved. (skill)",
+      "ancestorIds": [
+        "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+      ],
+      "parentId": "DC8EF88D6A9D4F77B0FDB38652B0EB9B"
+    },
+    "DC8EF88D6A9D4F77B0FDB38652B0EB9B": {
+      "id": "DC8EF88D6A9D4F77B0FDB38652B0EB9B",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "1",
+      "statementLabel": null,
+      "description": "Selecting Statistical Methods: Select methods for collecting and/or analyzing data for statistical reference",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "829A27BE84DA426288B4FCD8000E0A14": {
+      "id": "829A27BE84DA426288B4FCD8000E0A14",
+      "asnIdentifier": null,
+      "position": 2001,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "(DAT)",
+      "statementLabel": null,
+      "description": "Data-based predictions, decisions, and conclusions:Data-based regression models describe relationships between variables and are a tool for making predictions for values of a response variable. Collecting data using random sampling or randomized experimental design means that findings may be generalized to the part of the population from which the selection was made. Statistical inference allows us to make data-based decisions.",
+      "ancestorIds": [
+        "2DECEA1D9902472C86D697A726D55AD3"
+      ],
+      "parentId": "2DECEA1D9902472C86D697A726D55AD3"
+    },
+    "602E237B1652435BAF4255985672165C": {
+      "id": "602E237B1652435BAF4255985672165C",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "(UNC)",
+      "statementLabel": null,
+      "description": "Patterns and uncertainty:Statistical tools allow us to represent and describe patterns in data and to classify departures from patterns. Simulations and probabilistic reasoning allow us to anticipate patterns in data and determine the likelihood of errors in inference.",
+      "ancestorIds": [
+        "2DECEA1D9902472C86D697A726D55AD3"
+      ],
+      "parentId": "2DECEA1D9902472C86D697A726D55AD3"
+    },
+    "E74B188D606840509C0ADB13EA05B7D1": {
+      "id": "E74B188D606840509C0ADB13EA05B7D1",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "(VAR)",
+      "statementLabel": null,
+      "description": "Variation and distribution: The distribution of measures for individuals within a sample or population describes variation. The value of a statistic varies from sample to sample. Statistical methods based on probabilistic reasoning provide the basis for shared understandings about variation and about the likelihood that variation between and among measures, samples, and populations is random or meaningful.",
+      "ancestorIds": [
+        "2DECEA1D9902472C86D697A726D55AD3"
+      ],
+      "parentId": "2DECEA1D9902472C86D697A726D55AD3"
+    },
+    "2DECEA1D9902472C86D697A726D55AD3": {
+      "id": "2DECEA1D9902472C86D697A726D55AD3",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "BI",
+      "statementNotation": "BI",
+      "statementLabel": null,
+      "description": "Big Ideas: Foundation of course",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,1389 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2616720_grades-09-10-11-12",
+  "title": "Analytic Geometry",
+  "subject": "Mathematics (2015-2021)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "publicationStatus": "Deprecated",
+    "id": "D2616720",
+    "valid": "2015",
+    "title": "Mathematics Georgia Standards of Excellence - Analytic Geometry",
+    "sourceURL": "https://www.georgiastandards.org/Common-Core/Documents/Analytic-Geometry-Standards.pdf",
+    "asnIdentifier": "D2616720"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "4CF0E596DB7A4DCCAA9C1ED17A278F7B": {
+      "statementNotation": "MGSE9-12.S.CP.7",
+      "description": "Apply the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B), and interpret the answers in context.",
+      "id": "4CF0E596DB7A4DCCAA9C1ED17A278F7B",
+      "asnIdentifier": "S2617156",
+      "position": 110000,
+      "depth": 2,
+      "ancestorIds": [
+        "B3D02B04C2C842358249A110664ABA1B",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "B3D02B04C2C842358249A110664ABA1B"
+    },
+    "9C820F0B7B434769AFC1E30A7BC225A5": {
+      "id": "9C820F0B7B434769AFC1E30A7BC225A5",
+      "asnIdentifier": "S2617155",
+      "position": 109000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.6",
+      "description": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in context.",
+      "ancestorIds": [
+        "B3D02B04C2C842358249A110664ABA1B",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "B3D02B04C2C842358249A110664ABA1B"
+    },
+    "B3D02B04C2C842358249A110664ABA1B": {
+      "id": "B3D02B04C2C842358249A110664ABA1B",
+      "asnIdentifier": "S2617154",
+      "position": 108000,
+      "depth": 1,
+      "description": "Use the rules of probability to compute probabilities of compound events in a uniform probability model",
+      "ancestorIds": [
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "AC9EFCEBC6C046D7900632B012AF715F"
+    },
+    "04368B69C2614A2B89FBE23EFB515718": {
+      "position": 107000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.5",
+      "description": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.",
+      "comments": [
+        "For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer."
+      ],
+      "id": "04368B69C2614A2B89FBE23EFB515718",
+      "asnIdentifier": "S2617153",
+      "ancestorIds": [
+        "04C034433E9A40199B02417F96311933",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "04C034433E9A40199B02417F96311933"
+    },
+    "D2B70B6C7EB34289A7E8CB63669FEAFC": {
+      "description": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities.",
+      "comments": [
+        "For example, use collected data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results."
+      ],
+      "id": "D2B70B6C7EB34289A7E8CB63669FEAFC",
+      "asnIdentifier": "S2617152",
+      "position": 106000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.4",
+      "ancestorIds": [
+        "04C034433E9A40199B02417F96311933",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "04C034433E9A40199B02417F96311933"
+    },
+    "C3A014F3108D4100B141C123F87A426E": {
+      "description": "Understand the conditional probability of A given B as P (A and B)/P(B). Interpret independence of A and B in terms of conditional probability; that is the conditional probability of A given B is the same as the probability of A and the conditional probability of B given A is the same as the probability of B.",
+      "id": "C3A014F3108D4100B141C123F87A426E",
+      "asnIdentifier": "S2617151",
+      "position": 105000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.3",
+      "ancestorIds": [
+        "04C034433E9A40199B02417F96311933",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "04C034433E9A40199B02417F96311933"
+    },
+    "3BF425EABFA7485AB98AE3C983A09C6C": {
+      "description": "Understand that if two events A and B are independent, the probability of A and B occurring together is the product of their probabilities, and that if the probability of two events A and B occurring together is the product of their probabilities, the two events are independent.",
+      "id": "3BF425EABFA7485AB98AE3C983A09C6C",
+      "asnIdentifier": "S2617150",
+      "position": 104000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.2",
+      "ancestorIds": [
+        "04C034433E9A40199B02417F96311933",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "04C034433E9A40199B02417F96311933"
+    },
+    "0E9982A1E2E44B51A180F9598E216C19": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.CP.1",
+      "description": "Describe categories of events as subsets of a sample space using unions, intersections, or complements of other events (or, and, not).",
+      "id": "0E9982A1E2E44B51A180F9598E216C19",
+      "asnIdentifier": "S2617149",
+      "position": 103000,
+      "ancestorIds": [
+        "04C034433E9A40199B02417F96311933",
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "04C034433E9A40199B02417F96311933"
+    },
+    "04C034433E9A40199B02417F96311933": {
+      "id": "04C034433E9A40199B02417F96311933",
+      "asnIdentifier": "S2617148",
+      "position": 102000,
+      "depth": 1,
+      "description": "Understand independence and conditional probability and use them to interpret data",
+      "ancestorIds": [
+        "AC9EFCEBC6C046D7900632B012AF715F"
+      ],
+      "parentId": "AC9EFCEBC6C046D7900632B012AF715F"
+    },
+    "AC9EFCEBC6C046D7900632B012AF715F": {
+      "asnIdentifier": "S2617147",
+      "position": 101000,
+      "depth": 0,
+      "description": "Conditional Probability and the Rules of Probability",
+      "id": "AC9EFCEBC6C046D7900632B012AF715F",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8D6791FB3FA846F7BFB539675F065A51": {
+      "id": "8D6791FB3FA846F7BFB539675F065A51",
+      "asnIdentifier": "S2617146",
+      "position": 100000,
+      "depth": 3,
+      "statementNotation": "MGSE9-12.S.ID.6.a",
+      "description": "Decide which type of function is most appropriate by observing graphed data, charted data, or by analysis of context to generate a viable (rough) function of best fit. Use this function to solve problems in context. Emphasize quadratic models.",
+      "ancestorIds": [
+        "D8B5124CADB7446EADFCDD85264BBFC3",
+        "D336976FA4FA41F4BDC61F186BA9389A",
+        "9DA72012AAC44B2BA53EEC4E44B2D8CA"
+      ],
+      "parentId": "D8B5124CADB7446EADFCDD85264BBFC3"
+    },
+    "D8B5124CADB7446EADFCDD85264BBFC3": {
+      "id": "D8B5124CADB7446EADFCDD85264BBFC3",
+      "asnIdentifier": "S2617145",
+      "position": 99000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.S.ID.6",
+      "description": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+      "ancestorIds": [
+        "D336976FA4FA41F4BDC61F186BA9389A",
+        "9DA72012AAC44B2BA53EEC4E44B2D8CA"
+      ],
+      "parentId": "D336976FA4FA41F4BDC61F186BA9389A"
+    },
+    "D336976FA4FA41F4BDC61F186BA9389A": {
+      "depth": 1,
+      "description": "Summarize, represent, and interpret data on two categorical and quantitative variables",
+      "id": "D336976FA4FA41F4BDC61F186BA9389A",
+      "asnIdentifier": "S2617144",
+      "position": 98000,
+      "ancestorIds": [
+        "9DA72012AAC44B2BA53EEC4E44B2D8CA"
+      ],
+      "parentId": "9DA72012AAC44B2BA53EEC4E44B2D8CA"
+    },
+    "9DA72012AAC44B2BA53EEC4E44B2D8CA": {
+      "id": "9DA72012AAC44B2BA53EEC4E44B2D8CA",
+      "asnIdentifier": "S2617143",
+      "position": 97000,
+      "depth": 0,
+      "description": "Interpreting Categorical and Quantitative Data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8C22B4EE36264E4FB38567C6358B98C3": {
+      "comments": [
+        "e.g., designing an object or structure to satisfy physical constraints or minimize cost; working with typographic grid systems based on ratios"
+      ],
+      "id": "8C22B4EE36264E4FB38567C6358B98C3",
+      "asnIdentifier": "S2617142",
+      "position": 96000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.MG.3",
+      "description": "Apply geometric methods to solve design problems",
+      "ancestorIds": [
+        "0F5A41946C194423841BA5C19203844F",
+        "41C96028006E4CA9AEB11A018A0A43BA"
+      ],
+      "parentId": "0F5A41946C194423841BA5C19203844F"
+    },
+    "302DD66BB105475DA922B1A067BF3A36": {
+      "id": "302DD66BB105475DA922B1A067BF3A36",
+      "asnIdentifier": "S2617141",
+      "position": 95000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.MG.2",
+      "description": "Apply concepts of density based on area and volume in modeling situations",
+      "comments": [
+        "e.g., persons per square mile, BTUs per cubic foot"
+      ],
+      "ancestorIds": [
+        "0F5A41946C194423841BA5C19203844F",
+        "41C96028006E4CA9AEB11A018A0A43BA"
+      ],
+      "parentId": "0F5A41946C194423841BA5C19203844F"
+    },
+    "5EDE751DAB7F422DAE7E282F6B80FF60": {
+      "description": "Use geometric shapes, their measures, and their properties to describe objects",
+      "comments": [
+        "e.g., modeling a tree trunk or a human torso as a cylinder"
+      ],
+      "id": "5EDE751DAB7F422DAE7E282F6B80FF60",
+      "asnIdentifier": "S2617140",
+      "position": 94000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.MG.1",
+      "ancestorIds": [
+        "0F5A41946C194423841BA5C19203844F",
+        "41C96028006E4CA9AEB11A018A0A43BA"
+      ],
+      "parentId": "0F5A41946C194423841BA5C19203844F"
+    },
+    "0F5A41946C194423841BA5C19203844F": {
+      "id": "0F5A41946C194423841BA5C19203844F",
+      "asnIdentifier": "S2617139",
+      "position": 93000,
+      "depth": 1,
+      "description": "Apply geometric concepts in modeling situations",
+      "ancestorIds": [
+        "41C96028006E4CA9AEB11A018A0A43BA"
+      ],
+      "parentId": "41C96028006E4CA9AEB11A018A0A43BA"
+    },
+    "41C96028006E4CA9AEB11A018A0A43BA": {
+      "position": 92000,
+      "depth": 0,
+      "description": "Modeling with Geometry",
+      "id": "41C96028006E4CA9AEB11A018A0A43BA",
+      "asnIdentifier": "S2617138",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B235C0BDD0914191BAA1205A5095A3AB": {
+      "position": 91000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.4",
+      "description": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+      "id": "B235C0BDD0914191BAA1205A5095A3AB",
+      "asnIdentifier": "S2617137",
+      "ancestorIds": [
+        "21C43888736E435E9669F55DFD07B1BA",
+        "694EFEC0086D4E458033D350C51AA757"
+      ],
+      "parentId": "21C43888736E435E9669F55DFD07B1BA"
+    },
+    "21C43888736E435E9669F55DFD07B1BA": {
+      "description": "Visualize relationships between two-dimensional and three-dimensional objects",
+      "id": "21C43888736E435E9669F55DFD07B1BA",
+      "asnIdentifier": "S2617136",
+      "position": 90000,
+      "depth": 1,
+      "ancestorIds": [
+        "694EFEC0086D4E458033D350C51AA757"
+      ],
+      "parentId": "694EFEC0086D4E458033D350C51AA757"
+    },
+    "81CFD22504654EF89A9AEF2BA2E1A342": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.3",
+      "description": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+      "id": "81CFD22504654EF89A9AEF2BA2E1A342",
+      "asnIdentifier": "S2617135",
+      "position": 89000,
+      "ancestorIds": [
+        "A760EA93AC664A4DA83B61EB797126F3",
+        "694EFEC0086D4E458033D350C51AA757"
+      ],
+      "parentId": "A760EA93AC664A4DA83B61EB797126F3"
+    },
+    "FD6368DB8EA44C86B75333BDA65DF606": {
+      "id": "FD6368DB8EA44C86B75333BDA65DF606",
+      "asnIdentifier": "S2617134",
+      "position": 88000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GMD.2",
+      "description": "Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures.",
+      "ancestorIds": [
+        "A760EA93AC664A4DA83B61EB797126F3",
+        "694EFEC0086D4E458033D350C51AA757"
+      ],
+      "parentId": "A760EA93AC664A4DA83B61EB797126F3"
+    },
+    "B4F316C80EBB4E0D99E397A920B6F613": {
+      "statementNotation": "MGSE9-12.G.GMD.1",
+      "description": "Give informal arguments for geometric formulas.<ol type=\"a\"><li>Give informal arguments for the formulas of the circumference of a circle and area of a circle using dissection arguments and informal limit arguments.</li><li>Give informal arguments for the formula of the volume of a cylinder, pyramid, and cone using Cavalieri's principle.</li></ol>",
+      "id": "B4F316C80EBB4E0D99E397A920B6F613",
+      "asnIdentifier": "S2617133",
+      "position": 87000,
+      "depth": 2,
+      "ancestorIds": [
+        "A760EA93AC664A4DA83B61EB797126F3",
+        "694EFEC0086D4E458033D350C51AA757"
+      ],
+      "parentId": "A760EA93AC664A4DA83B61EB797126F3"
+    },
+    "A760EA93AC664A4DA83B61EB797126F3": {
+      "id": "A760EA93AC664A4DA83B61EB797126F3",
+      "asnIdentifier": "S2617132",
+      "position": 86000,
+      "depth": 1,
+      "description": "Explain volume formulas and use them to solve problems",
+      "ancestorIds": [
+        "694EFEC0086D4E458033D350C51AA757"
+      ],
+      "parentId": "694EFEC0086D4E458033D350C51AA757"
+    },
+    "694EFEC0086D4E458033D350C51AA757": {
+      "description": "Geometric Measurement and Dimension",
+      "id": "694EFEC0086D4E458033D350C51AA757",
+      "asnIdentifier": "S2617131",
+      "position": 85000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E42AAABA45DF497A9FF1AF0A9A2A5957": {
+      "id": "E42AAABA45DF497A9FF1AF0A9A2A5957",
+      "asnIdentifier": "S2617130",
+      "position": 84000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.4",
+      "description": "Use coordinates to prove simple geometric theorems algebraically.",
+      "comments": [
+        "For example, prove or disprove that a figure defined by four given points in the coordinate plane is a rectangle; prove or disprove that the point (1, √3) lies on the circle centered at the origin and containing the point (0,2)."
+      ],
+      "ancestorIds": [
+        "2EF8FA90EBB5407C93756AD525ADD91D",
+        "17448B2651824834B15B20295796CC68"
+      ],
+      "parentId": "2EF8FA90EBB5407C93756AD525ADD91D"
+    },
+    "2EF8FA90EBB5407C93756AD525ADD91D": {
+      "position": 83000,
+      "depth": 1,
+      "description": "Use coordinates to prove simple geometric theorems algebraically",
+      "id": "2EF8FA90EBB5407C93756AD525ADD91D",
+      "asnIdentifier": "S2617129",
+      "ancestorIds": [
+        "17448B2651824834B15B20295796CC68"
+      ],
+      "parentId": "17448B2651824834B15B20295796CC68"
+    },
+    "609B1B3D3C4C4C8899AB64F2F922F9F8": {
+      "id": "609B1B3D3C4C4C8899AB64F2F922F9F8",
+      "asnIdentifier": "S2617128",
+      "position": 82000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.GPE.1",
+      "description": "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find the center and radius of a circle given by an equation.",
+      "ancestorIds": [
+        "40B26A10E94C4EC893F3D7306BCA4B7C",
+        "17448B2651824834B15B20295796CC68"
+      ],
+      "parentId": "40B26A10E94C4EC893F3D7306BCA4B7C"
+    },
+    "40B26A10E94C4EC893F3D7306BCA4B7C": {
+      "asnIdentifier": "S2617127",
+      "position": 81000,
+      "depth": 1,
+      "description": "Translate between the geometric description and the equation for a conic section",
+      "id": "40B26A10E94C4EC893F3D7306BCA4B7C",
+      "ancestorIds": [
+        "17448B2651824834B15B20295796CC68"
+      ],
+      "parentId": "17448B2651824834B15B20295796CC68"
+    },
+    "17448B2651824834B15B20295796CC68": {
+      "position": 80000,
+      "depth": 0,
+      "description": "Expressing Geometric Properties with Equations",
+      "id": "17448B2651824834B15B20295796CC68",
+      "asnIdentifier": "S2617126",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AAF52099928F49CB97DF654EB3B7A5DB": {
+      "asnIdentifier": "S2617125",
+      "position": 79000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.5",
+      "description": "Derive using similarity the fact that the length of the arc intercepted by an angle is proportional to the radius, and define the radian measure of the angle as the constant of proportionality; derive the formula for the area of a sector.",
+      "id": "AAF52099928F49CB97DF654EB3B7A5DB",
+      "ancestorIds": [
+        "75A5DC8B4067441A9F05C850497E3B7C",
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "75A5DC8B4067441A9F05C850497E3B7C"
+    },
+    "75A5DC8B4067441A9F05C850497E3B7C": {
+      "id": "75A5DC8B4067441A9F05C850497E3B7C",
+      "asnIdentifier": "S2617124",
+      "position": 78000,
+      "depth": 1,
+      "description": "Find arc lengths and areas of sectors of circles",
+      "ancestorIds": [
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "750BD4ACEE0C415D82F5EDEC3F24656B"
+    },
+    "D6E14965E3E94D2BBA795CD365A4FA5E": {
+      "asnIdentifier": "S2617123",
+      "position": 77000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.4",
+      "description": "Construct a tangent line from a point outside a given circle to the circle.",
+      "id": "D6E14965E3E94D2BBA795CD365A4FA5E",
+      "ancestorIds": [
+        "BC6E155472E644BD8C27DC156101A67F",
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "BC6E155472E644BD8C27DC156101A67F"
+    },
+    "A09DD08180AA4B60836223C8EA590AFC": {
+      "asnIdentifier": "S2617122",
+      "position": 76000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.3",
+      "description": "Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle.",
+      "id": "A09DD08180AA4B60836223C8EA590AFC",
+      "ancestorIds": [
+        "BC6E155472E644BD8C27DC156101A67F",
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "BC6E155472E644BD8C27DC156101A67F"
+    },
+    "FDADB02B65694A6EA25CD64C8DE6D91B": {
+      "id": "FDADB02B65694A6EA25CD64C8DE6D91B",
+      "asnIdentifier": "S2617121",
+      "position": 75000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.C.2",
+      "description": "Identify and describe relationships among inscribed angles, radii, chords, tangents, and secants. Include the relationship between central, inscribed, and circumscribed angles; inscribed angles on a diameter are right angles; the radius of a circle is perpendicular to the tangent where the radius intersects the circle.",
+      "ancestorIds": [
+        "BC6E155472E644BD8C27DC156101A67F",
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "BC6E155472E644BD8C27DC156101A67F"
+    },
+    "0665645C9884461BB43721962739D352": {
+      "statementNotation": "MGSE9-12.G.C.1",
+      "description": "Understand that all circles are similar.",
+      "id": "0665645C9884461BB43721962739D352",
+      "asnIdentifier": "S2617120",
+      "position": 74000,
+      "depth": 2,
+      "ancestorIds": [
+        "BC6E155472E644BD8C27DC156101A67F",
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "BC6E155472E644BD8C27DC156101A67F"
+    },
+    "BC6E155472E644BD8C27DC156101A67F": {
+      "depth": 1,
+      "description": "Understand and apply theorems about circles",
+      "id": "BC6E155472E644BD8C27DC156101A67F",
+      "asnIdentifier": "S2617119",
+      "position": 73000,
+      "ancestorIds": [
+        "750BD4ACEE0C415D82F5EDEC3F24656B"
+      ],
+      "parentId": "750BD4ACEE0C415D82F5EDEC3F24656B"
+    },
+    "750BD4ACEE0C415D82F5EDEC3F24656B": {
+      "position": 72000,
+      "depth": 0,
+      "description": "Circles",
+      "id": "750BD4ACEE0C415D82F5EDEC3F24656B",
+      "asnIdentifier": "S2617118",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "29DC671068AB467F98049F70B5C93372": {
+      "position": 71000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.8",
+      "description": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.",
+      "id": "29DC671068AB467F98049F70B5C93372",
+      "asnIdentifier": "S2617117",
+      "ancestorIds": [
+        "AB9492C3B93C4D6286D5AE41D4FA7565",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "AB9492C3B93C4D6286D5AE41D4FA7565"
+    },
+    "92594FEC2AEA457CB02E60A3718FB057": {
+      "description": "Explain and use the relationship between the sine and cosine of complementary angles.",
+      "id": "92594FEC2AEA457CB02E60A3718FB057",
+      "asnIdentifier": "S2617116",
+      "position": 70000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.7",
+      "ancestorIds": [
+        "AB9492C3B93C4D6286D5AE41D4FA7565",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "AB9492C3B93C4D6286D5AE41D4FA7565"
+    },
+    "21FC475F6DFC4195A1B99B421D9675C5": {
+      "id": "21FC475F6DFC4195A1B99B421D9675C5",
+      "asnIdentifier": "S2617115",
+      "position": 69000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.6",
+      "description": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+      "ancestorIds": [
+        "AB9492C3B93C4D6286D5AE41D4FA7565",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "AB9492C3B93C4D6286D5AE41D4FA7565"
+    },
+    "AB9492C3B93C4D6286D5AE41D4FA7565": {
+      "id": "AB9492C3B93C4D6286D5AE41D4FA7565",
+      "asnIdentifier": "S2617114",
+      "position": 68000,
+      "depth": 1,
+      "description": "Define trigonometric ratios and solve problems involving right triangles",
+      "ancestorIds": [
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "27EA54D7180B40928E522CDBF79539FC"
+    },
+    "69C8F8883C30474C9C1BDAC93D425224": {
+      "position": 67000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.5",
+      "description": "Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures.",
+      "id": "69C8F8883C30474C9C1BDAC93D425224",
+      "asnIdentifier": "S2617113",
+      "ancestorIds": [
+        "CADB58CAE99449D0A222490C8EA09649",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "CADB58CAE99449D0A222490C8EA09649"
+    },
+    "5DF12AAB0F664495838C19F863347BBC": {
+      "position": 66000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.4",
+      "description": "Prove theorems about triangles. Theorems include: a line parallel to one side of a triangle divides the other two proportionally, (and its converse); the Pythagorean Theorem using triangle similarity.",
+      "id": "5DF12AAB0F664495838C19F863347BBC",
+      "asnIdentifier": "S2617112",
+      "ancestorIds": [
+        "CADB58CAE99449D0A222490C8EA09649",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "CADB58CAE99449D0A222490C8EA09649"
+    },
+    "CADB58CAE99449D0A222490C8EA09649": {
+      "position": 65000,
+      "depth": 1,
+      "description": "Prove theorems involving similarity",
+      "id": "CADB58CAE99449D0A222490C8EA09649",
+      "asnIdentifier": "S2617111",
+      "ancestorIds": [
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "27EA54D7180B40928E522CDBF79539FC"
+    },
+    "DCCDD8C01A5A4B3596CB95D6713E8FC8": {
+      "statementNotation": "MGSE9-12.G.SRT.3",
+      "description": "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.",
+      "id": "DCCDD8C01A5A4B3596CB95D6713E8FC8",
+      "asnIdentifier": "S2617110",
+      "position": 64000,
+      "depth": 2,
+      "ancestorIds": [
+        "FE13EF7B24C149E1BBDE952F1A537720",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "FE13EF7B24C149E1BBDE952F1A537720"
+    },
+    "613E42068A2542848E1A292259F3B309": {
+      "asnIdentifier": "S2617109",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.2",
+      "description": "Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar; explain, using similarity transformations, the meaning of similarity for triangles as the equality of all corresponding pairs of angles and the proportionality of all corresponding pairs of sides.",
+      "id": "613E42068A2542848E1A292259F3B309",
+      "ancestorIds": [
+        "FE13EF7B24C149E1BBDE952F1A537720",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "FE13EF7B24C149E1BBDE952F1A537720"
+    },
+    "79079E2D2631455E895D9BF9172F02B5": {
+      "asnIdentifier": "S2617108",
+      "position": 62000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.SRT.1",
+      "description": "Verify experimentally the properties of dilations given by a center and a scale factor.<ol type=\"a\"><li>The dilation of a line not passing through the center of the dilation results in a parallel line and leaves a line passing through the center unchanged.</li><li>The dilation of a line segment is longer or shorter according to the ratio given by the scale factor.</li></ol>",
+      "id": "79079E2D2631455E895D9BF9172F02B5",
+      "ancestorIds": [
+        "FE13EF7B24C149E1BBDE952F1A537720",
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "FE13EF7B24C149E1BBDE952F1A537720"
+    },
+    "FE13EF7B24C149E1BBDE952F1A537720": {
+      "depth": 1,
+      "description": "Understand similarity in terms of similarity transformations",
+      "id": "FE13EF7B24C149E1BBDE952F1A537720",
+      "asnIdentifier": "S2617107",
+      "position": 61000,
+      "ancestorIds": [
+        "27EA54D7180B40928E522CDBF79539FC"
+      ],
+      "parentId": "27EA54D7180B40928E522CDBF79539FC"
+    },
+    "27EA54D7180B40928E522CDBF79539FC": {
+      "position": 60000,
+      "depth": 0,
+      "description": "Similarity, Right Triangles, and Trigonometry",
+      "id": "27EA54D7180B40928E522CDBF79539FC",
+      "asnIdentifier": "S2617106",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "20F9689BB0B54FDE84EEEFA74D21B429": {
+      "statementNotation": "MGSE9-12.G.CO.13",
+      "description": "Construct an equilateral triangle, a square, and a regular hexagon, each inscribed in a circle.",
+      "id": "20F9689BB0B54FDE84EEEFA74D21B429",
+      "asnIdentifier": "S2617105",
+      "position": 59000,
+      "depth": 2,
+      "ancestorIds": [
+        "40199FB015DB453E93425623719B643F",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "40199FB015DB453E93425623719B643F"
+    },
+    "04F7E7AD4F2941E099641A4B385E4AC7": {
+      "asnIdentifier": "S2617104",
+      "position": 58000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.12",
+      "description": "Make formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.). Copying a segment; copying an angle; bisecting a segment; bisecting an angle; constructing perpendicular lines, including the perpendicular bisector of a line segment; and constructing a line parallel to a given line through a point not on the line.",
+      "id": "04F7E7AD4F2941E099641A4B385E4AC7",
+      "ancestorIds": [
+        "40199FB015DB453E93425623719B643F",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "40199FB015DB453E93425623719B643F"
+    },
+    "40199FB015DB453E93425623719B643F": {
+      "depth": 1,
+      "description": "Make geometric constructions",
+      "id": "40199FB015DB453E93425623719B643F",
+      "asnIdentifier": "S2617103",
+      "position": 57000,
+      "ancestorIds": [
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "2D636C5397084BC7A4285A8D28DF909A"
+    },
+    "5A045B86D66E4954832031BC1C85796F": {
+      "id": "5A045B86D66E4954832031BC1C85796F",
+      "asnIdentifier": "S2617102",
+      "position": 56000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.11",
+      "description": "Prove theorems about parallelograms. Theorems include: opposite sides are congruent, opposite angles are congruent, the diagonals of a parallelogram bisect each other, and conversely, rectangles are parallelograms with congruent diagonals.",
+      "ancestorIds": [
+        "11D9C063286344CEA00C805450DCDBC2",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "11D9C063286344CEA00C805450DCDBC2"
+    },
+    "D3FB2B22BF424CECB53C6E2F49F32E59": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.10",
+      "description": "Prove theorems about triangles. Theorems include: measures of interior angles of a triangle sum to 180 degrees; base angles of isosceles triangles are congruent; the segment joining midpoints of two sides of a triangle is parallel to the third side and half the length; the medians of a triangle meet at a point.",
+      "id": "D3FB2B22BF424CECB53C6E2F49F32E59",
+      "asnIdentifier": "S2617101",
+      "position": 55000,
+      "ancestorIds": [
+        "11D9C063286344CEA00C805450DCDBC2",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "11D9C063286344CEA00C805450DCDBC2"
+    },
+    "EF1D7AC80CBD4BFBA07DA5683F769D04": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.9",
+      "description": "Prove theorems about lines and angles. Theorems include: vertical angles are congruent; when a transversal crosses parallel lines, alternate interior angles are congruent and corresponding angles are congruent; points on a perpendicular bisector of a line segment are exactly those equidistant from the segment's endpoints.",
+      "id": "EF1D7AC80CBD4BFBA07DA5683F769D04",
+      "asnIdentifier": "S2617100",
+      "position": 54000,
+      "ancestorIds": [
+        "11D9C063286344CEA00C805450DCDBC2",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "11D9C063286344CEA00C805450DCDBC2"
+    },
+    "11D9C063286344CEA00C805450DCDBC2": {
+      "description": "Prove geometric theorems",
+      "id": "11D9C063286344CEA00C805450DCDBC2",
+      "asnIdentifier": "S2617099",
+      "position": 53000,
+      "depth": 1,
+      "ancestorIds": [
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "2D636C5397084BC7A4285A8D28DF909A"
+    },
+    "9416A54ABC154A5990EBC489DA6F2FFC": {
+      "asnIdentifier": "S2617098",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.8",
+      "description": "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.",
+      "id": "9416A54ABC154A5990EBC489DA6F2FFC",
+      "ancestorIds": [
+        "4DD1022B252E4616A5AB0565A02EAE32",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "4DD1022B252E4616A5AB0565A02EAE32"
+    },
+    "16C8CF0B78204ABB8F25CB04D7157A95": {
+      "id": "16C8CF0B78204ABB8F25CB04D7157A95",
+      "asnIdentifier": "S2617097",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.7",
+      "description": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent if and only if corresponding pairs of sides and corresponding pairs of angles are congruent.",
+      "ancestorIds": [
+        "4DD1022B252E4616A5AB0565A02EAE32",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "4DD1022B252E4616A5AB0565A02EAE32"
+    },
+    "27C4761D00AC443E95C4C06E6871A1C9": {
+      "id": "27C4761D00AC443E95C4C06E6871A1C9",
+      "asnIdentifier": "S2617096",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.G.CO.6",
+      "description": "Use geometric descriptions of rigid motions to transform figures and to predict the effect of a given rigid motion on a given figure; given two figures, use the definition of congruence in terms of rigid motions to decide if they are congruent.",
+      "ancestorIds": [
+        "4DD1022B252E4616A5AB0565A02EAE32",
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "4DD1022B252E4616A5AB0565A02EAE32"
+    },
+    "4DD1022B252E4616A5AB0565A02EAE32": {
+      "asnIdentifier": "S2617095",
+      "position": 49000,
+      "depth": 1,
+      "description": "Understand congruence in terms of rigid motions",
+      "id": "4DD1022B252E4616A5AB0565A02EAE32",
+      "ancestorIds": [
+        "2D636C5397084BC7A4285A8D28DF909A"
+      ],
+      "parentId": "2D636C5397084BC7A4285A8D28DF909A"
+    },
+    "2D636C5397084BC7A4285A8D28DF909A": {
+      "id": "2D636C5397084BC7A4285A8D28DF909A",
+      "asnIdentifier": "S2617094",
+      "position": 48000,
+      "depth": 0,
+      "description": "Congruence",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5FB43CF9B0364956BB4836BD7F06B045": {
+      "id": "5FB43CF9B0364956BB4836BD7F06B045",
+      "asnIdentifier": "S2617093",
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.F.LE.3",
+      "description": "Observe using graphs and tables that a quantity increasing exponentially eventually exceeds a quantity increasing linearly, quadratically, or (more generally) as a polynomial function.",
+      "ancestorIds": [
+        "5B8F2F006D3B4B8EB8AF3AE1D05E9EA8",
+        "762F9738E74C44149C0C4525CC5EE4BA"
+      ],
+      "parentId": "5B8F2F006D3B4B8EB8AF3AE1D05E9EA8"
+    },
+    "5B8F2F006D3B4B8EB8AF3AE1D05E9EA8": {
+      "position": 46000,
+      "depth": 1,
+      "description": "Construct and compare linear, quadratic, and exponential models and solve problems",
+      "id": "5B8F2F006D3B4B8EB8AF3AE1D05E9EA8",
+      "asnIdentifier": "S2617092",
+      "ancestorIds": [
+        "762F9738E74C44149C0C4525CC5EE4BA"
+      ],
+      "parentId": "762F9738E74C44149C0C4525CC5EE4BA"
+    },
+    "762F9738E74C44149C0C4525CC5EE4BA": {
+      "id": "762F9738E74C44149C0C4525CC5EE4BA",
+      "asnIdentifier": "S2617091",
+      "position": 45000,
+      "depth": 0,
+      "description": "Linear, Quadratic, and Exponential Models",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "ECEDE796DF754089BEBA69BADAADA705": {
+      "statementNotation": "MGSE9-12.F.BF.3",
+      "description": "Identify the effect on the graph of replacing f(x) by f(x) + k, k f(x), f(kx), and f(x + k) for specific values of k (both positive and negative); find the value of k given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them.",
+      "id": "ECEDE796DF754089BEBA69BADAADA705",
+      "asnIdentifier": "S2617090",
+      "position": 44000,
+      "depth": 3,
+      "ancestorIds": [
+        "C374DEE82E414BB7A832B90E65D10423",
+        "D80BD49CE090440BA5067D3745B3280C",
+        "A024026EB7984B0F9414DFB51688CD5F"
+      ],
+      "parentId": "C374DEE82E414BB7A832B90E65D10423"
+    },
+    "C374DEE82E414BB7A832B90E65D10423": {
+      "id": "C374DEE82E414BB7A832B90E65D10423",
+      "asnIdentifier": "S2617089",
+      "position": 43000,
+      "depth": 2,
+      "description": "Build new functions from existing functions",
+      "ancestorIds": [
+        "D80BD49CE090440BA5067D3745B3280C",
+        "A024026EB7984B0F9414DFB51688CD5F"
+      ],
+      "parentId": "D80BD49CE090440BA5067D3745B3280C"
+    },
+    "8775B58F94F34D4AAEA3E934A13575BE": {
+      "comments": [
+        "For example, if Jimmy starts out with $15 and earns $2 a day, the explicit expression \"2x+15\" can be described recursively (either in writing or verbally) as \"to find out how much money Jimmy will have tomorrow, you add $2 to his total today.\" J<sub>n</sub> = J<sub>n-1</sub> + 2,J<sub>0</sub> = 15"
+      ],
+      "id": "8775B58F94F34D4AAEA3E934A13575BE",
+      "asnIdentifier": "S2617088",
+      "position": 42000,
+      "depth": 3,
+      "statementNotation": "MGSE9-12.F.BF.1.a",
+      "description": "Determine an explicit expression and the recursive process (steps for calculation) from context.",
+      "ancestorIds": [
+        "C7BE1BFB8BFD4B7090D16EDA0976905A",
+        "D80BD49CE090440BA5067D3745B3280C",
+        "A024026EB7984B0F9414DFB51688CD5F"
+      ],
+      "parentId": "C7BE1BFB8BFD4B7090D16EDA0976905A"
+    },
+    "C7BE1BFB8BFD4B7090D16EDA0976905A": {
+      "asnIdentifier": "S2617087",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.F.BF.1",
+      "description": "Write a function that describes a relationship between two quantities.",
+      "id": "C7BE1BFB8BFD4B7090D16EDA0976905A",
+      "ancestorIds": [
+        "D80BD49CE090440BA5067D3745B3280C",
+        "A024026EB7984B0F9414DFB51688CD5F"
+      ],
+      "parentId": "D80BD49CE090440BA5067D3745B3280C"
+    },
+    "D80BD49CE090440BA5067D3745B3280C": {
+      "id": "D80BD49CE090440BA5067D3745B3280C",
+      "asnIdentifier": "S2617086",
+      "position": 40000,
+      "depth": 1,
+      "description": "Build a function that models a relationship between two quantities",
+      "ancestorIds": [
+        "A024026EB7984B0F9414DFB51688CD5F"
+      ],
+      "parentId": "A024026EB7984B0F9414DFB51688CD5F"
+    },
+    "A024026EB7984B0F9414DFB51688CD5F": {
+      "id": "A024026EB7984B0F9414DFB51688CD5F",
+      "asnIdentifier": "S2617308",
+      "position": 39000,
+      "depth": 0,
+      "description": "Building Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B5A070AE0A824B39A324DA22B4D0376D": {
+      "comments": [
+        "For example, given a graph of one function and an algebraic expression for another, say which has the larger maximum."
+      ],
+      "id": "B5A070AE0A824B39A324DA22B4D0376D",
+      "asnIdentifier": "S2617085",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.F.IF.9",
+      "description": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
+      "ancestorIds": [
+        "73284ECD669D41AEB6B789591AD3C77F",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "73284ECD669D41AEB6B789591AD3C77F"
+    },
+    "78EBCB4FD30840FE839CB0E2E4A30E25": {
+      "id": "78EBCB4FD30840FE839CB0E2E4A30E25",
+      "asnIdentifier": "S2617084",
+      "position": 37000,
+      "depth": 3,
+      "statementNotation": "MGSE9-12.F.IF.8.a",
+      "description": "Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context.",
+      "comments": [
+        "For example, compare and contrast quadratic functions in standard, vertex, and intercept forms."
+      ],
+      "ancestorIds": [
+        "E149A66B3F704651B7B65B3F5FD07F3F",
+        "73284ECD669D41AEB6B789591AD3C77F",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "E149A66B3F704651B7B65B3F5FD07F3F"
+    },
+    "E149A66B3F704651B7B65B3F5FD07F3F": {
+      "statementNotation": "MGSE9-12.F.IF.8",
+      "description": "Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.",
+      "id": "E149A66B3F704651B7B65B3F5FD07F3F",
+      "asnIdentifier": "S2617083",
+      "position": 36000,
+      "depth": 2,
+      "ancestorIds": [
+        "73284ECD669D41AEB6B789591AD3C77F",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "73284ECD669D41AEB6B789591AD3C77F"
+    },
+    "9F5126FF77E741CC95D066520BB5034D": {
+      "asnIdentifier": "S2617082",
+      "position": 35000,
+      "depth": 3,
+      "statementNotation": "MGSE9-12.F.IF.7.a",
+      "description": "Graph quadratic functions and show intercepts, maxima, and minima (as determined by the function or by context).",
+      "id": "9F5126FF77E741CC95D066520BB5034D",
+      "ancestorIds": [
+        "0DA265E1D5AA4D06AC9813A4D9364372",
+        "73284ECD669D41AEB6B789591AD3C77F",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "0DA265E1D5AA4D06AC9813A4D9364372"
+    },
+    "0DA265E1D5AA4D06AC9813A4D9364372": {
+      "id": "0DA265E1D5AA4D06AC9813A4D9364372",
+      "asnIdentifier": "S2617081",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.F.IF.7",
+      "description": "Graph functions expressed algebraically and show key features of the graph both by hand and by using technology.",
+      "ancestorIds": [
+        "73284ECD669D41AEB6B789591AD3C77F",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "73284ECD669D41AEB6B789591AD3C77F"
+    },
+    "73284ECD669D41AEB6B789591AD3C77F": {
+      "id": "73284ECD669D41AEB6B789591AD3C77F",
+      "asnIdentifier": "S2617080",
+      "position": 33000,
+      "depth": 1,
+      "description": "Analyze functions using different representations",
+      "ancestorIds": [
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "E9ED1953A58C434FA4F8954A5E37A699"
+    },
+    "6C7365F610CD4774BC8BF5EDCAD47CDE": {
+      "statementNotation": "MGSE9-12.F.IF.6",
+      "description": "Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.",
+      "id": "6C7365F610CD4774BC8BF5EDCAD47CDE",
+      "asnIdentifier": "S2617079",
+      "position": 32000,
+      "depth": 2,
+      "ancestorIds": [
+        "F9B328943737437187441D069BF90534",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "F9B328943737437187441D069BF90534"
+    },
+    "EC33E2C6332442F2818F8CF73F92C74C": {
+      "id": "EC33E2C6332442F2818F8CF73F92C74C",
+      "asnIdentifier": "S2617078",
+      "position": 31000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.F.IF.5",
+      "description": "Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes. For example, if the function h(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function.",
+      "ancestorIds": [
+        "F9B328943737437187441D069BF90534",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "F9B328943737437187441D069BF90534"
+    },
+    "7A4C37C4DF1447658D89CA21CDB0CFB9": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.F.IF.4",
+      "description": "Using tables, graphs, and verbal descriptions, interpret the key characteristics of a function which models the relationship between two quantities. Sketch a graph showing key features including: intercepts; interval where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; and end behavior.",
+      "id": "7A4C37C4DF1447658D89CA21CDB0CFB9",
+      "asnIdentifier": "S2617077",
+      "position": 30000,
+      "ancestorIds": [
+        "F9B328943737437187441D069BF90534",
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "F9B328943737437187441D069BF90534"
+    },
+    "F9B328943737437187441D069BF90534": {
+      "id": "F9B328943737437187441D069BF90534",
+      "asnIdentifier": "S2617076",
+      "position": 29000,
+      "depth": 1,
+      "description": "Interpret functions that arise in applications in terms of the context",
+      "ancestorIds": [
+        "E9ED1953A58C434FA4F8954A5E37A699"
+      ],
+      "parentId": "E9ED1953A58C434FA4F8954A5E37A699"
+    },
+    "E9ED1953A58C434FA4F8954A5E37A699": {
+      "description": "Interpreting Functions",
+      "id": "E9ED1953A58C434FA4F8954A5E37A699",
+      "asnIdentifier": "S2617075",
+      "position": 28000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "65B3C23C137D4B47938D696C0D95D3E2": {
+      "statementNotation": "MGSE9-12.A.REI.4.b",
+      "description": "Solve quadratic equations by inspection (e.g., for x² = 49), taking square roots, factoring, completing the square, and the quadratic formula, as appropriate to the initial form of the equation (limit to real number solutions).",
+      "id": "65B3C23C137D4B47938D696C0D95D3E2",
+      "asnIdentifier": "S2617074",
+      "position": 27000,
+      "depth": 3,
+      "ancestorIds": [
+        "BDDA8F8F974F42929D47C1F68F88827F",
+        "C6214AA3469F49888E0556380994D1F8",
+        "8EEB13D7E9E042BD822417A25958E066"
+      ],
+      "parentId": "BDDA8F8F974F42929D47C1F68F88827F"
+    },
+    "97A812987DDC4EF49EB76451797DBD62": {
+      "statementNotation": "MGSE9-12.A.REI.4.a",
+      "description": "Use the method of completing the square to transform any quadratic equation in x into an equation of the form (x – p)² = q that has the same solutions. Derive the quadratic formula from ax² + bx + c = 0.",
+      "id": "97A812987DDC4EF49EB76451797DBD62",
+      "asnIdentifier": "S2617073",
+      "position": 26000,
+      "depth": 3,
+      "ancestorIds": [
+        "BDDA8F8F974F42929D47C1F68F88827F",
+        "C6214AA3469F49888E0556380994D1F8",
+        "8EEB13D7E9E042BD822417A25958E066"
+      ],
+      "parentId": "BDDA8F8F974F42929D47C1F68F88827F"
+    },
+    "BDDA8F8F974F42929D47C1F68F88827F": {
+      "asnIdentifier": "S2617072",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.REI.4",
+      "description": "Solve quadratic equations in one variable.",
+      "id": "BDDA8F8F974F42929D47C1F68F88827F",
+      "ancestorIds": [
+        "C6214AA3469F49888E0556380994D1F8",
+        "8EEB13D7E9E042BD822417A25958E066"
+      ],
+      "parentId": "C6214AA3469F49888E0556380994D1F8"
+    },
+    "C6214AA3469F49888E0556380994D1F8": {
+      "id": "C6214AA3469F49888E0556380994D1F8",
+      "asnIdentifier": "S2617071",
+      "position": 24000,
+      "depth": 1,
+      "description": "Solve equations and inequalities in one variable",
+      "ancestorIds": [
+        "8EEB13D7E9E042BD822417A25958E066"
+      ],
+      "parentId": "8EEB13D7E9E042BD822417A25958E066"
+    },
+    "8EEB13D7E9E042BD822417A25958E066": {
+      "id": "8EEB13D7E9E042BD822417A25958E066",
+      "asnIdentifier": "S2617307",
+      "position": 23000,
+      "depth": 0,
+      "description": "Reasoning with Equations and Inequalities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CF4260F61FF448FCB76536E6C18C7138": {
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.CED.4",
+      "description": "Rearrange formulas to highlight a quantity of interest using the same reasoning as in solving equations.",
+      "comments": [
+        "Examples: Rearrange Ohm's law V = IR to highlight resistance R; Rearrange area of a circle formula A = π r² to highlight the radius r."
+      ],
+      "id": "CF4260F61FF448FCB76536E6C18C7138",
+      "asnIdentifier": "S2617070",
+      "ancestorIds": [
+        "ABD93823E8554D6E8BAAAF5B321EB267",
+        "2FA58A7CD82C4A39BEB186F73656B747"
+      ],
+      "parentId": "ABD93823E8554D6E8BAAAF5B321EB267"
+    },
+    "6C73521D3BA043FD94870AB64FF90287": {
+      "asnIdentifier": "S2617069",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.CED.2",
+      "description": "Create quadratic equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales. (The phrase \"in two or more variables\" refers to formulas like the compound interest formula, in which A = P(1 + r/n)<sup>nt</sup> has multiple variables.)",
+      "id": "6C73521D3BA043FD94870AB64FF90287",
+      "ancestorIds": [
+        "ABD93823E8554D6E8BAAAF5B321EB267",
+        "2FA58A7CD82C4A39BEB186F73656B747"
+      ],
+      "parentId": "ABD93823E8554D6E8BAAAF5B321EB267"
+    },
+    "D8349E9DB70948B7B332E096FD9B96BF": {
+      "asnIdentifier": "S2617068",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.CED.1",
+      "description": "Create equations and inequalities in one variable and use them to solve problems. Include equations arising from quadratic and functions.",
+      "id": "D8349E9DB70948B7B332E096FD9B96BF",
+      "ancestorIds": [
+        "ABD93823E8554D6E8BAAAF5B321EB267",
+        "2FA58A7CD82C4A39BEB186F73656B747"
+      ],
+      "parentId": "ABD93823E8554D6E8BAAAF5B321EB267"
+    },
+    "ABD93823E8554D6E8BAAAF5B321EB267": {
+      "position": 19000,
+      "depth": 1,
+      "description": "Create equations that describe numbers or relationships",
+      "id": "ABD93823E8554D6E8BAAAF5B321EB267",
+      "asnIdentifier": "S2617067",
+      "ancestorIds": [
+        "2FA58A7CD82C4A39BEB186F73656B747"
+      ],
+      "parentId": "2FA58A7CD82C4A39BEB186F73656B747"
+    },
+    "2FA58A7CD82C4A39BEB186F73656B747": {
+      "id": "2FA58A7CD82C4A39BEB186F73656B747",
+      "asnIdentifier": "S2617066",
+      "position": 18000,
+      "depth": 0,
+      "description": "Creating Equations",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C0A813CCD7E14BEF8CCD5FEF892F3337": {
+      "id": "C0A813CCD7E14BEF8CCD5FEF892F3337",
+      "asnIdentifier": "S2617065",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.APR.1",
+      "description": "Add, subtract, and multiply polynomials; understand that polynomials form a system analogous to the integers in that they are closed under these operations.",
+      "ancestorIds": [
+        "5EC269983AAD4F61BE51B3475EEF3D41",
+        "0D6A878D5C9145FC91E9067976B7750E"
+      ],
+      "parentId": "5EC269983AAD4F61BE51B3475EEF3D41"
+    },
+    "5EC269983AAD4F61BE51B3475EEF3D41": {
+      "id": "5EC269983AAD4F61BE51B3475EEF3D41",
+      "asnIdentifier": "S2617064",
+      "position": 16000,
+      "depth": 1,
+      "description": "Perform arithmetic operations on polynomials",
+      "ancestorIds": [
+        "0D6A878D5C9145FC91E9067976B7750E"
+      ],
+      "parentId": "0D6A878D5C9145FC91E9067976B7750E"
+    },
+    "0D6A878D5C9145FC91E9067976B7750E": {
+      "id": "0D6A878D5C9145FC91E9067976B7750E",
+      "asnIdentifier": "S2617063",
+      "position": 15000,
+      "depth": 0,
+      "description": "Arithmetic with Polynomials and Rational Expressions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4AF9C9FF621448C19E5B010BF1115013": {
+      "id": "4AF9C9FF621448C19E5B010BF1115013",
+      "asnIdentifier": "S2617062",
+      "position": 14000,
+      "depth": 3,
+      "statementNotation": "MGSE9-12.A.SSE.3.b",
+      "description": "Complete the square in a quadratic expression to reveal the maximum and minimum value of the function defined by the expression.",
+      "ancestorIds": [
+        "1C704DBD59B848DDB2FE492BFC1413E9",
+        "E0F4E36CFD5F49B2BD8ABD19ABD443D8",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "1C704DBD59B848DDB2FE492BFC1413E9"
+    },
+    "0D14436C0C3F49C698688B655F25F852": {
+      "statementNotation": "MGSE9-12.A.SSE.3.a",
+      "description": "Factor any quadratic expression to reveal the zeros of the function defined by the expression.",
+      "id": "0D14436C0C3F49C698688B655F25F852",
+      "asnIdentifier": "S2617061",
+      "position": 13000,
+      "depth": 3,
+      "ancestorIds": [
+        "1C704DBD59B848DDB2FE492BFC1413E9",
+        "E0F4E36CFD5F49B2BD8ABD19ABD443D8",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "1C704DBD59B848DDB2FE492BFC1413E9"
+    },
+    "1C704DBD59B848DDB2FE492BFC1413E9": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.SSE.3",
+      "description": "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.",
+      "id": "1C704DBD59B848DDB2FE492BFC1413E9",
+      "asnIdentifier": "S2617060",
+      "position": 12000,
+      "ancestorIds": [
+        "E0F4E36CFD5F49B2BD8ABD19ABD443D8",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "E0F4E36CFD5F49B2BD8ABD19ABD443D8"
+    },
+    "E0F4E36CFD5F49B2BD8ABD19ABD443D8": {
+      "asnIdentifier": "S2617059",
+      "position": 11000,
+      "depth": 1,
+      "description": "Write expressions in equivalent forms to solve problems",
+      "id": "E0F4E36CFD5F49B2BD8ABD19ABD443D8",
+      "ancestorIds": [
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "E8062C8AC30645E3A4D305C4A46E50AF"
+    },
+    "3DD0C654704844C6A4B935F0C92153FA": {
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.SSE.2",
+      "description": "Use the structure of an expression to rewrite it in different equivalent forms.",
+      "comments": [
+        "For example, see x<sup>4</sup> – y<sup>4</sup> as (x²)² - (y²)², thus recognizing it as a difference of squares that can be factored as (x² – y²) (x² + y²)."
+      ],
+      "id": "3DD0C654704844C6A4B935F0C92153FA",
+      "asnIdentifier": "S2617058",
+      "position": 10000,
+      "ancestorIds": [
+        "CE44C6F390C04C74A353200A1D05CF00",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "CE44C6F390C04C74A353200A1D05CF00"
+    },
+    "4B4B68A5D67A4FA1AFF1D01A7E3B10FD": {
+      "id": "4B4B68A5D67A4FA1AFF1D01A7E3B10FD",
+      "asnIdentifier": "S2617057",
+      "position": 9000,
+      "depth": 3,
+      "statementNotation": "MGSE9-12.A.SSE.1.b",
+      "description": "Given situations which utilize formulas or expressions with multiple terms and/or factors, interpret the meaning (in context) of individual terms or factors.",
+      "ancestorIds": [
+        "19574EF290444DCC99ADC2DABC6F6561",
+        "CE44C6F390C04C74A353200A1D05CF00",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "19574EF290444DCC99ADC2DABC6F6561"
+    },
+    "06CB4E64D3284E498C5DB7A8DE813EE8": {
+      "depth": 3,
+      "statementNotation": "MGSE9-12.A.SSE.1.a",
+      "description": "Interpret parts of an expression, such as terms, factors, and coefficients, in context.",
+      "id": "06CB4E64D3284E498C5DB7A8DE813EE8",
+      "asnIdentifier": "S2617056",
+      "position": 8000,
+      "ancestorIds": [
+        "19574EF290444DCC99ADC2DABC6F6561",
+        "CE44C6F390C04C74A353200A1D05CF00",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "19574EF290444DCC99ADC2DABC6F6561"
+    },
+    "19574EF290444DCC99ADC2DABC6F6561": {
+      "id": "19574EF290444DCC99ADC2DABC6F6561",
+      "asnIdentifier": "S2617055",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.A.SSE.1",
+      "description": "Interpret expressions that represent a quantity in terms of its context.",
+      "ancestorIds": [
+        "CE44C6F390C04C74A353200A1D05CF00",
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "CE44C6F390C04C74A353200A1D05CF00"
+    },
+    "CE44C6F390C04C74A353200A1D05CF00": {
+      "position": 6000,
+      "depth": 1,
+      "description": "Interpret the structure of expressions",
+      "id": "CE44C6F390C04C74A353200A1D05CF00",
+      "asnIdentifier": "S2617054",
+      "ancestorIds": [
+        "E8062C8AC30645E3A4D305C4A46E50AF"
+      ],
+      "parentId": "E8062C8AC30645E3A4D305C4A46E50AF"
+    },
+    "E8062C8AC30645E3A4D305C4A46E50AF": {
+      "description": "Seeing Structure in Expressions",
+      "id": "E8062C8AC30645E3A4D305C4A46E50AF",
+      "asnIdentifier": "S2617053",
+      "position": 5000,
+      "depth": 0,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "509415EE45A14969A1FE0CD72AF12B6B": {
+      "id": "509415EE45A14969A1FE0CD72AF12B6B",
+      "asnIdentifier": "S2617052",
+      "position": 4000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.N.RN.3",
+      "description": "Explain why the sum or product of rational numbers is rational; why the sum of a rational number and an irrational number is irrational; and why the product of a nonzero rational number and an irrational number is irrational.",
+      "ancestorIds": [
+        "4D55419FBC8E48309F75B3579F0580A1",
+        "D3D845D05A4446C097C9F2BA75BF2397"
+      ],
+      "parentId": "4D55419FBC8E48309F75B3579F0580A1"
+    },
+    "3F4D700617574DAF8AFE7B825D512222": {
+      "description": "Rewrite expressions involving radicals.",
+      "id": "3F4D700617574DAF8AFE7B825D512222",
+      "asnIdentifier": "S2617051",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "MGSE9-12.N.RN.2",
+      "ancestorIds": [
+        "4D55419FBC8E48309F75B3579F0580A1",
+        "D3D845D05A4446C097C9F2BA75BF2397"
+      ],
+      "parentId": "4D55419FBC8E48309F75B3579F0580A1"
+    },
+    "4D55419FBC8E48309F75B3579F0580A1": {
+      "id": "4D55419FBC8E48309F75B3579F0580A1",
+      "asnIdentifier": "S2617050",
+      "position": 2000,
+      "depth": 1,
+      "description": "Use properties of rational and irrational numbers.",
+      "ancestorIds": [
+        "D3D845D05A4446C097C9F2BA75BF2397"
+      ],
+      "parentId": "D3D845D05A4446C097C9F2BA75BF2397"
+    },
+    "D3D845D05A4446C097C9F2BA75BF2397": {
+      "id": "D3D845D05A4446C097C9F2BA75BF2397",
+      "asnIdentifier": "S2617049",
+      "position": 1000,
+      "depth": 0,
+      "description": "The Real Number System",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

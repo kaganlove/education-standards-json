@@ -1,0 +1,626 @@
+{
+  "id": "8B84F716EB974A33AA1E63206F9B3BAD",
+  "title": "Big Idea #2 - Representation & Reasoning: Grades 9-12",
+  "subject": "K-12 AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Big Idea #2: Representation & Reasoning",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recUEesZDav1WXn5C/fldIxltCXshIi374r/attXwjag0iceIuUIF?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "5FD7799D35BD4DA8817D1A98403B2EB2": {
+      "id": "5FD7799D35BD4DA8817D1A98403B2EB2",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Reasoning problems are discussed in\n2-C-i. Selection of an algorithm depends on\ncharacteristics of the input data and the\ncomplexity of the decisions to be made. Heuristic\nsearch algorithms include best-first search and A*\nsearch. Adversarial search can be done with\nvariants of combinatorial search, or heuristically\nwith alpha-beta pruning. Logical deduction can be\ndone using resolution theorem proving or by\napplying ad hoc IF-THEN rules. Statistical\ninference involves reasoning with probabilities or\ndistributions, such as Bayesian networks.",
+      "comments": [],
+      "ancestorIds": [
+        "DBE5828BE0C540DEAEB6AF9279F6AF1F",
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "DBE5828BE0C540DEAEB6AF9279F6AF1F"
+    },
+    "3B2DE3F6EA384BB6956C65E245AC1DB0": {
+      "id": "3B2DE3F6EA384BB6956C65E245AC1DB0",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: AI includes a wide variety of reasoning\nalgorithms for solving different types of reasoning\nproblems. Some use symbolic representations (e.\ng., search trees) while others are numerical in\nnature (e.g., neural nets operating on feature\nvectors). ",
+      "comments": [],
+      "ancestorIds": [
+        "DBE5828BE0C540DEAEB6AF9279F6AF1F",
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "DBE5828BE0C540DEAEB6AF9279F6AF1F"
+    },
+    "65FCD8F286C04C568094CE2E06599B3E": {
+      "id": "65FCD8F286C04C568094CE2E06599B3E",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: For each of these types of reasoning\nproblems (classification, prediction, sequential\ndecision making, combinatorial search, heuristic\nsearch, adversarial search, logical deduction, and\nstatistical inference), list an algorithm that could\nbe used to solve that problem.",
+      "comments": [],
+      "ancestorIds": [
+        "DBE5828BE0C540DEAEB6AF9279F6AF1F",
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "DBE5828BE0C540DEAEB6AF9279F6AF1F"
+    },
+    "DBE5828BE0C540DEAEB6AF9279F6AF1F": {
+      "id": "DBE5828BE0C540DEAEB6AF9279F6AF1F",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Reasoning algorithms)",
+      "comments": [],
+      "ancestorIds": [
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "1C9BC866A59849BDAB1A5FEB710C306E"
+    },
+    "E273B5C7FA1B4532AB4067684A552921": {
+      "id": "E273B5C7FA1B4532AB4067684A552921",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Heuristic search is needed when the\nstate space is too large to examine all possible\nstates. uses a rule of thumb (heuristic) to limit the\nsearch by focusing on the most promising states.\nIn adversarial search, used in game playing, the\nalgorithm alternates between finding the best\nmove for the player and finding the best response\nfor the opponent, which would be the worst move\nfrom the player's perspective. Adversarial search\nmay require heuristics if the game is complex,\nsuch as chess or go. In logical deduction, the\nreasoner starts with a set of facts and derives new\nfacts by applying inference rules. Logical\ndeduction can be done using formal logic such as\npropositional or predicate logic, or ad hoc\ninference rules used with semantic networks or\nthe IF-THEN rules found in expert systems.\nStatistical inference involves reasoning with\nprobabilities. ",
+      "comments": [],
+      "ancestorIds": [
+        "E3211A8742424E7B9FECD0B1710EB571",
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "E3211A8742424E7B9FECD0B1710EB571"
+    },
+    "B8270AF8AD7549EFA0F43B3CD9EAB1B7": {
+      "id": "B8270AF8AD7549EFA0F43B3CD9EAB1B7",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Reasoning problems can be categorized\nbased on the types of inputs supplied, the types of\noutputs to be produced, and the characteristics of\nthe search space, if applicable.",
+      "comments": [],
+      "ancestorIds": [
+        "E3211A8742424E7B9FECD0B1710EB571",
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "E3211A8742424E7B9FECD0B1710EB571"
+    },
+    "DB244DB50AD04B50B9FE0B77C4F52C2D": {
+      "id": "DB244DB50AD04B50B9FE0B77C4F52C2D",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Categorize real-world problems as\nclassification, prediction, sequential decision\nproblems, combinatorial search, heuristic search,\nadversarial search, logical deduction, or statistical\ninference.",
+      "comments": [],
+      "ancestorIds": [
+        "E3211A8742424E7B9FECD0B1710EB571",
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "E3211A8742424E7B9FECD0B1710EB571"
+    },
+    "E3211A8742424E7B9FECD0B1710EB571": {
+      "id": "E3211A8742424E7B9FECD0B1710EB571",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Types of reasoning\nproblems)",
+      "comments": [],
+      "ancestorIds": [
+        "1C9BC866A59849BDAB1A5FEB710C306E"
+      ],
+      "parentId": "1C9BC866A59849BDAB1A5FEB710C306E"
+    },
+    "1C9BC866A59849BDAB1A5FEB710C306E": {
+      "id": "1C9BC866A59849BDAB1A5FEB710C306E",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "12BE82D8D0EE47ADAF1FB51023FF1D1A": {
+      "id": "12BE82D8D0EE47ADAF1FB51023FF1D1A",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Illustration is done by drawing the\ntree; writing code is appropriate for advanced\nstudents (AP CSA). Breadth-first search finds\nshallow solutions quickly if they exist, but requires\nlots of memory. Depth-first search is better than\nbreadth-first for cases where the number of nodes\nat each level grows exponentially, because it uses\nless memory. Best-first search can find optimal\n(least cost) solutions given an accurate measure\nof solution \"cost\", such as total distance on a road\nmap, while the solutions found by breadth-first\nand depth-first search are not guaranteed to be\noptimal because they don't pay attention to cost.",
+      "comments": [],
+      "ancestorIds": [
+        "F38D9487089744ACA782591A42DD255D",
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "F38D9487089744ACA782591A42DD255D"
+    },
+    "D448423E2DB74CB2AE9C63FB05708BD7": {
+      "id": "D448423E2DB74CB2AE9C63FB05708BD7",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: There are multiple algorithms for generating a\nsearch tree, each with its own advantages.",
+      "comments": [],
+      "ancestorIds": [
+        "F38D9487089744ACA782591A42DD255D",
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "F38D9487089744ACA782591A42DD255D"
+    },
+    "EE1F7391AF76463AB76D7074967FA3F4": {
+      "id": "EE1F7391AF76463AB76D7074967FA3F4",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate breadth-first, depth-first, and bestfirst search algorithms to grow a search tree for a\ngraph search problem.",
+      "comments": [],
+      "ancestorIds": [
+        "F38D9487089744ACA782591A42DD255D",
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "F38D9487089744ACA782591A42DD255D"
+    },
+    "F38D9487089744ACA782591A42DD255D": {
+      "id": "F38D9487089744ACA782591A42DD255D",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Combinatorial search)",
+      "comments": [],
+      "ancestorIds": [
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "E392609E9CB149AFAF5C6C9F13211898"
+    },
+    "977D168BCCCE41099AC029358271DF28": {
+      "id": "977D168BCCCE41099AC029358271DF28",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Examples include task planning\nproblems, scheduling problems, and resource\nallocation problems. A search algorithm\ndetermines which operators to apply, in which\norder. Finding a sequence of legal moves\n(operators) to reach a goal state can be used\neven with problems whose solution is not a\nsequence. For example, if the problem is to pack\na collection of objects of various sizes into a set of\ncontainers with various capacities, a solution is an\nassignment of objects to containers such that no\ncontainer is overfilled and no object is left out.\nThis can be formulated as a search problem\nwhere an operator places one object in a\ncontainer that can hold it, and a goal state has all\nobjects placed. For this type of problem, the\nsequence in which the operators are applied does\nnot matter.",
+      "comments": [],
+      "ancestorIds": [
+        "0E6FC176EAD849F7AF974ED6D088984F",
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "0E6FC176EAD849F7AF974ED6D088984F"
+    },
+    "D39C6088F04C494A8EA44A8FF7F02958": {
+      "id": "D39C6088F04C494A8EA44A8FF7F02958",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Computers can solve many types of problems\nusing search techniques if the problem can be\ndescribed in terms of finding a path from a start\nstate to a goal state.",
+      "comments": [],
+      "ancestorIds": [
+        "0E6FC176EAD849F7AF974ED6D088984F",
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "0E6FC176EAD849F7AF974ED6D088984F"
+    },
+    "53132193C3D64624B74B44E1BCC5087E": {
+      "id": "53132193C3D64624B74B44E1BCC5087E",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Identify types of real-world problems that are\nsearch problems and describe their states and\noperators. ",
+      "comments": [],
+      "ancestorIds": [
+        "0E6FC176EAD849F7AF974ED6D088984F",
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "0E6FC176EAD849F7AF974ED6D088984F"
+    },
+    "0E6FC176EAD849F7AF974ED6D088984F": {
+      "id": "0E6FC176EAD849F7AF974ED6D088984F",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(State spaces and\noperators) ",
+      "comments": [],
+      "ancestorIds": [
+        "E392609E9CB149AFAF5C6C9F13211898"
+      ],
+      "parentId": "E392609E9CB149AFAF5C6C9F13211898"
+    },
+    "E392609E9CB149AFAF5C6C9F13211898": {
+      "id": "E392609E9CB149AFAF5C6C9F13211898",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Search",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1B862A6FB97E467BB8C01FE272BF35A1": {
+      "id": "1B862A6FB97E467BB8C01FE272BF35A1",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Activity: https://app.inferkit.com/demo",
+      "comments": [],
+      "ancestorIds": [
+        "041942D2B15C483F8B24724283D4B3DE",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "041942D2B15C483F8B24724283D4B3DE"
+    },
+    "F1D68C2314CD4E328E7872A00435E93B": {
+      "id": "F1D68C2314CD4E328E7872A00435E93B",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Neural network natural language\nprocessing applications such as machine\ntranslation or question answering are driven by\nword embedding representations, which are\nfeature vectors. Words are fed in one vector at a\ntime, and the network delivers its output one\nvector at a time. ",
+      "comments": [],
+      "ancestorIds": [
+        "041942D2B15C483F8B24724283D4B3DE",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "041942D2B15C483F8B24724283D4B3DE"
+    },
+    "DDBF774DD10142169C9A19CCAE5E3F81": {
+      "id": "DDBF774DD10142169C9A19CCAE5E3F81",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Transformer networks map sequences of\ninput words to sequences of output words, where\nwords are represented as feature vectors. ",
+      "comments": [],
+      "ancestorIds": [
+        "041942D2B15C483F8B24724283D4B3DE",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "041942D2B15C483F8B24724283D4B3DE"
+    },
+    "FC05A718611145939B8EE819872127B2": {
+      "id": "FC05A718611145939B8EE819872127B2",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "2-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe how a transformer network\noperates. ",
+      "comments": [],
+      "ancestorIds": [
+        "041942D2B15C483F8B24724283D4B3DE",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "041942D2B15C483F8B24724283D4B3DE"
+    },
+    "041942D2B15C483F8B24724283D4B3DE": {
+      "id": "041942D2B15C483F8B24724283D4B3DE",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature vectors)",
+      "comments": [],
+      "ancestorIds": [
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "931DEFF78B534E31AF559848F3E538E2"
+    },
+    "A8BCF0AF96234E48BEA15A456D3BA0E3": {
+      "id": "A8BCF0AF96234E48BEA15A456D3BA0E3",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: A knowledge graph encodes\ninformation about things and the relationships\nbetween them. Search engines like Google rely\non knowledge graphs to generate knowledge\npanels in search results. The Restaurant and\nFoodEstablishment schemas are defined at\nschema.org. ",
+      "comments": [],
+      "ancestorIds": [
+        "DD71848E7880462BA65ED41CB9567418",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "DD71848E7880462BA65ED41CB9567418"
+    },
+    "04E0F60AA0494CCC91A58203162BC111": {
+      "id": "04E0F60AA0494CCC91A58203162BC111",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: A schema specifies the attributes of the\nconcept being described, and its relationships to\nother concepts, e.g., the Restaurant schema\ninherits properties from the FoodEstablishment\nschema. ",
+      "comments": [],
+      "ancestorIds": [
+        "DD71848E7880462BA65ED41CB9567418",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "DD71848E7880462BA65ED41CB9567418"
+    },
+    "012D6480D72941ADBC3EE61E1E4D61EF": {
+      "id": "012D6480D72941ADBC3EE61E1E4D61EF",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "2-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe how schemas are used to structure\ninformation about people, places, or things in\nknowledge graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "DD71848E7880462BA65ED41CB9567418",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "DD71848E7880462BA65ED41CB9567418"
+    },
+    "DD71848E7880462BA65ED41CB9567418": {
+      "id": "DD71848E7880462BA65ED41CB9567418",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Data structures)",
+      "comments": [],
+      "ancestorIds": [
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "931DEFF78B534E31AF559848F3E538E2"
+    },
+    "B7D7FF75B51C47358CD732780881EDAA": {
+      "id": "B7D7FF75B51C47358CD732780881EDAA",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Human reasoning is rich and\ncomplex, and we don't have a complete\ndescription of how it works. Syllogistic reasoning\nis a special case that is simple enough that we\ncan write precise rules for how to do it. Syllogistic\nreasoning is a type of logical deduction that is\ncommon in AI reasoners that use taxonomy\ninformation. Example: all humans are mammals,\nall mammals are living things, therefore all\nhumans are living things. A variety of notations\ncan be used for syllogisms. Here is one based on\npredicate logic: ",
+      "comments": [],
+      "ancestorIds": [
+        "0F3B425EBCEE4F8699C5CBAE2638D808",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "0F3B425EBCEE4F8699C5CBAE2638D808"
+    },
+    "FBB66D1FC184472BBA4645876C13DC57": {
+      "id": "FBB66D1FC184472BBA4645876C13DC57",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Syllogisms represent statements about\ncategories and instances in a way that allows\ncomputers to derive new knowledge from existing\nknowledge by following simple inference rules.\nThe components of a syllogism are the major\npremise, the minor premise, and the conclusion. ",
+      "comments": [],
+      "ancestorIds": [
+        "0F3B425EBCEE4F8699C5CBAE2638D808",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "0F3B425EBCEE4F8699C5CBAE2638D808"
+    },
+    "3E38C179716647D6989CE7BC786152DB": {
+      "id": "3E38C179716647D6989CE7BC786152DB",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "2-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Translate the premises of a syllogism\nexpressed in English into logical notation and\ncomplete the syllogism correctly. ",
+      "comments": [],
+      "ancestorIds": [
+        "0F3B425EBCEE4F8699C5CBAE2638D808",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "0F3B425EBCEE4F8699C5CBAE2638D808"
+    },
+    "0F3B425EBCEE4F8699C5CBAE2638D808": {
+      "id": "0F3B425EBCEE4F8699C5CBAE2638D808",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Symbolic\nrepresentations)",
+      "comments": [],
+      "ancestorIds": [
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "931DEFF78B534E31AF559848F3E538E2"
+    },
+    "CCC5D27557D8453BA52ED990C9046716": {
+      "id": "CCC5D27557D8453BA52ED990C9046716",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: millions of web sites use schema\nrepresentations to make information intelligible to\nAI programs that utilize knowledge graphs. such\nas search engines and recommender systems.\nExamples include schemas for businesses such\nas restaurants, and schemas that describe\ncreative works such as books, movies, and\ntelevision series. ",
+      "comments": [],
+      "ancestorIds": [
+        "1F19D7E06499442694FD9600E90943DA",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "1F19D7E06499442694FD9600E90943DA"
+    },
+    "07AB4D12EDA946C7BD54E24A4A309ECA": {
+      "id": "07AB4D12EDA946C7BD54E24A4A309ECA",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: a schema describes a concept by listing its\nsuperconcepts and defining its properties, some\nof which may be inherited from superconcepts.\nExamples can be found at schema.org. ",
+      "comments": [],
+      "ancestorIds": [
+        "1F19D7E06499442694FD9600E90943DA",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "1F19D7E06499442694FD9600E90943DA"
+    },
+    "7B2111B634A44449863F29DB48123E26": {
+      "id": "7B2111B634A44449863F29DB48123E26",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "2-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe how to represent a concept as a\nschema. ",
+      "comments": [],
+      "ancestorIds": [
+        "1F19D7E06499442694FD9600E90943DA",
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "1F19D7E06499442694FD9600E90943DA"
+    },
+    "1F19D7E06499442694FD9600E90943DA": {
+      "id": "1F19D7E06499442694FD9600E90943DA",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Abstraction) ",
+      "comments": [],
+      "ancestorIds": [
+        "931DEFF78B534E31AF559848F3E538E2"
+      ],
+      "parentId": "931DEFF78B534E31AF559848F3E538E2"
+    },
+    "931DEFF78B534E31AF559848F3E538E2": {
+      "id": "931DEFF78B534E31AF559848F3E538E2",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Representation",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

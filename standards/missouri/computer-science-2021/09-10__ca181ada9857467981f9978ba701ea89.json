@@ -1,0 +1,967 @@
+{
+  "id": "CA181ADA9857467981F9978BA701EA89",
+  "title": "By the End of the 10th Grade",
+  "subject": "Computer Science (2021-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "GRADES K‐12 COMPUTER SCIENCE PERFORMANCE STANDARDS",
+    "sourceURL": "https://dese.mo.gov/media/pdf/curr-mls-standards-computer-science-k-12-sboe-2019"
+  },
+  "jurisdiction": {
+    "id": "175A144B44F94BFAB539F3B571A3A62C",
+    "title": "Missouri"
+  },
+  "standards": {
+    "66BBD24CCBDF4FE8A964FAFB0C9EB08F": {
+      "id": "66BBD24CCBDF4FE8A964FAFB0C9EB08F",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "9-10.IC.SLE.05",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and explain the potential impacts and\r\nimplications of emerging technologies on larger social economic\r\nand political structures with evidence from credible sources.",
+      "comments": [],
+      "ancestorIds": [
+        "6A3EDA39F4A74AEBA8B9CE6048209D5B",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6A3EDA39F4A74AEBA8B9CE6048209D5B"
+    },
+    "225D0D349B474EA7B14B243A5A6AA3FA": {
+      "id": "225D0D349B474EA7B14B243A5A6AA3FA",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "9-10.IC.SLE.04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and classify a variety of software\r\nlicensing schemes (e.g., open source, freeware, commercial)\r\nand discuss the advantages and disadvantages of each\r\nscheme in software development.",
+      "comments": [],
+      "ancestorIds": [
+        "6A3EDA39F4A74AEBA8B9CE6048209D5B",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6A3EDA39F4A74AEBA8B9CE6048209D5B"
+    },
+    "B8F7B5109CED454D8ACAB19DC165A7E4": {
+      "id": "B8F7B5109CED454D8ACAB19DC165A7E4",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "9-10.IC.SLE.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the social and economic consequences of\r\nhow law and ethics interact with digital aspects of privacy, data,\r\nproperty, information and identity.",
+      "comments": [],
+      "ancestorIds": [
+        "6A3EDA39F4A74AEBA8B9CE6048209D5B",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6A3EDA39F4A74AEBA8B9CE6048209D5B"
+    },
+    "ECDAFCE5CEE34D73A92571B6B76117D0": {
+      "id": "ECDAFCE5CEE34D73A92571B6B76117D0",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.IC.SLE.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the privacy concerns related to the\r\ncollection and analysis of information about individuals that\r\nmay not be evident to users.",
+      "comments": [],
+      "ancestorIds": [
+        "6A3EDA39F4A74AEBA8B9CE6048209D5B",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6A3EDA39F4A74AEBA8B9CE6048209D5B"
+    },
+    "5355557D55B04BFF9513E7AE521D723B": {
+      "id": "5355557D55B04BFF9513E7AE521D723B",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.IC.SLE.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the beneficial and harmful effects that\r\nintellectual property laws can have on innovation.",
+      "comments": [],
+      "ancestorIds": [
+        "6A3EDA39F4A74AEBA8B9CE6048209D5B",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6A3EDA39F4A74AEBA8B9CE6048209D5B"
+    },
+    "6A3EDA39F4A74AEBA8B9CE6048209D5B": {
+      "id": "6A3EDA39F4A74AEBA8B9CE6048209D5B",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Safety, Law &\nEthics",
+      "comments": [],
+      "ancestorIds": [
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6FF1BA43C42E4817B52FBE9EAA5123FC"
+    },
+    "13AE7B1EC6274D1F9F77B4F5D84738DC": {
+      "id": "13AE7B1EC6274D1F9F77B4F5D84738DC",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.IC.SI.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the degrees of communication\r\nafforded by computing have impacted the nature and\r\ncontent of career fields.",
+      "comments": [],
+      "ancestorIds": [
+        "176AE7DBA3A44B1695B4D3C6C5A59F5C",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "176AE7DBA3A44B1695B4D3C6C5A59F5C"
+    },
+    "185D21FF9B8D4A34B59FF5D8BDF4992D": {
+      "id": "185D21FF9B8D4A34B59FF5D8BDF4992D",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.IC.SI.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate through collaboration on a project how\r\ncomputing increases connectivity among people of various cultures.\r",
+      "comments": [],
+      "ancestorIds": [
+        "176AE7DBA3A44B1695B4D3C6C5A59F5C",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "176AE7DBA3A44B1695B4D3C6C5A59F5C"
+    },
+    "176AE7DBA3A44B1695B4D3C6C5A59F5C": {
+      "id": "176AE7DBA3A44B1695B4D3C6C5A59F5C",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Social\nInteractions ",
+      "comments": [],
+      "ancestorIds": [
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6FF1BA43C42E4817B52FBE9EAA5123FC"
+    },
+    "1146E0865F364DF292EF7CEA45ECC139": {
+      "id": "1146E0865F364DF292EF7CEA45ECC139",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "9-10.IC.C.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate how a given algorithm applies to\r\nproblems across disciplines.",
+      "comments": [],
+      "ancestorIds": [
+        "32161AB82E9946B5B8DC6DA27FB7C433",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "32161AB82E9946B5B8DC6DA27FB7C433"
+    },
+    "18D252F88D99494DA4A975BE5415257A": {
+      "id": "18D252F88D99494DA4A975BE5415257A",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.IC.C.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Test and refine computational artifacts to\r\nreduce bias and equity deficits.",
+      "comments": [],
+      "ancestorIds": [
+        "32161AB82E9946B5B8DC6DA27FB7C433",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "32161AB82E9946B5B8DC6DA27FB7C433"
+    },
+    "28C677AB2417423CA49128D913893261": {
+      "id": "28C677AB2417423CA49128D913893261",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.IC.C.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the ways computing impacts personal, ethical,\r\nsocial, economic and cultural practices.",
+      "comments": [],
+      "ancestorIds": [
+        "32161AB82E9946B5B8DC6DA27FB7C433",
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "32161AB82E9946B5B8DC6DA27FB7C433"
+    },
+    "32161AB82E9946B5B8DC6DA27FB7C433": {
+      "id": "32161AB82E9946B5B8DC6DA27FB7C433",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Culture",
+      "comments": [],
+      "ancestorIds": [
+        "6FF1BA43C42E4817B52FBE9EAA5123FC"
+      ],
+      "parentId": "6FF1BA43C42E4817B52FBE9EAA5123FC"
+    },
+    "6FF1BA43C42E4817B52FBE9EAA5123FC": {
+      "id": "6FF1BA43C42E4817B52FBE9EAA5123FC",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Impacts of Computing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7D2BA83CD8A846979D2E7B919B1E36C2": {
+      "id": "7D2BA83CD8A846979D2E7B919B1E36C2",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "9-10.AP.PD.04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate and refine computational artifacts to\r\nmake them more user‐friendly, efficient and/or accessible.",
+      "comments": [],
+      "ancestorIds": [
+        "29E4EB55D04F4F6DA17F0B4AD223AA31",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "29E4EB55D04F4F6DA17F0B4AD223AA31"
+    },
+    "F7826E888D654CDCA9D34640CDBF8445": {
+      "id": "F7826E888D654CDCA9D34640CDBF8445",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "9-10.AP.PD.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "While collaborating in a team, develop, test and\r\nrefine programs that solve practical problems or allow self‐\r\nexpression.",
+      "comments": [],
+      "ancestorIds": [
+        "29E4EB55D04F4F6DA17F0B4AD223AA31",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "29E4EB55D04F4F6DA17F0B4AD223AA31"
+    },
+    "7839A521F4CD408A896E0E164E6D10E4": {
+      "id": "7839A521F4CD408A896E0E164E6D10E4",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.AP.PD.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a program by analyzing a problem\r\nand/or process, developing and documenting a solution,\r\ntesting outcomes, debugging errors and adapting the\r\nprogram for a variety of users.",
+      "comments": [],
+      "ancestorIds": [
+        "29E4EB55D04F4F6DA17F0B4AD223AA31",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "29E4EB55D04F4F6DA17F0B4AD223AA31"
+    },
+    "858BC25EED964A5C85C7F8B293093B0F": {
+      "id": "858BC25EED964A5C85C7F8B293093B0F",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.AP.PD.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using visual aids and documentation, illustrate the\r\ndesign elements and data flow (e.g., flowcharts, pseudocode) of the\r\ndevelopment of a program.\r",
+      "comments": [],
+      "ancestorIds": [
+        "29E4EB55D04F4F6DA17F0B4AD223AA31",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "29E4EB55D04F4F6DA17F0B4AD223AA31"
+    },
+    "29E4EB55D04F4F6DA17F0B4AD223AA31": {
+      "id": "29E4EB55D04F4F6DA17F0B4AD223AA31",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program\nDevelopment ",
+      "comments": [],
+      "ancestorIds": [
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "CA6E82E0968740FD97AACE84F6B465D2"
+    },
+    "F3498E22753441E6AB34682D29C827D9": {
+      "id": "F3498E22753441E6AB34682D29C827D9",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.AP.M.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create computational artifacts (file, graphic,\r\nvideo, audio) by systematically organizing, manipulating\r\nand/or processing data.",
+      "comments": [],
+      "ancestorIds": [
+        "B2DBFC4E7B6446F49443C9B8D21B9431",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "B2DBFC4E7B6446F49443C9B8D21B9431"
+    },
+    "90E5EF3E0E924C0995B7020BD4203F0A": {
+      "id": "90E5EF3E0E924C0995B7020BD4203F0A",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.AP.M.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Break down a solution into procedures using\r\nsystematic analysis and design utilizing functional abstraction.",
+      "comments": [],
+      "ancestorIds": [
+        "B2DBFC4E7B6446F49443C9B8D21B9431",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "B2DBFC4E7B6446F49443C9B8D21B9431"
+    },
+    "B2DBFC4E7B6446F49443C9B8D21B9431": {
+      "id": "B2DBFC4E7B6446F49443C9B8D21B9431",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modularity",
+      "comments": [],
+      "ancestorIds": [
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "CA6E82E0968740FD97AACE84F6B465D2"
+    },
+    "AB70F8C32FA44D0CAA47E0FDCBD7B5DE": {
+      "id": "AB70F8C32FA44D0CAA47E0FDCBD7B5DE",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.AP.C.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the concepts of specific control structures (e.g.,\r\nsequence, conditionals, repetition, procedures) considering\r\nprogram efficiencies such as readability, performance and memory\r\nusage.",
+      "comments": [],
+      "ancestorIds": [
+        "7B12D23A3A9A4E4485083995806C1FD9",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "7B12D23A3A9A4E4485083995806C1FD9"
+    },
+    "7B12D23A3A9A4E4485083995806C1FD9": {
+      "id": "7B12D23A3A9A4E4485083995806C1FD9",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Control",
+      "comments": [],
+      "ancestorIds": [
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "CA6E82E0968740FD97AACE84F6B465D2"
+    },
+    "B956C1F67D38479CB188621D04A83380": {
+      "id": "B956C1F67D38479CB188621D04A83380",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.AP.V.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate the use of advanced variables (e.g.,\r\nlists, arrays, objects) to simplify solutions, generalizing\r\ncomputational problems instead of repeatedly using primitive\r\nvariables.",
+      "comments": [],
+      "ancestorIds": [
+        "6F3728AD5859495E94D9D7DC9B9F3DDF",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "6F3728AD5859495E94D9D7DC9B9F3DDF"
+    },
+    "EB367FBEC3E647AAA44FC79E3119F287": {
+      "id": "EB367FBEC3E647AAA44FC79E3119F287",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.AP.V.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create problem solutions that utilize primitive\r\nvariables (e.g., strings, ints, Booleans, doubles).",
+      "comments": [],
+      "ancestorIds": [
+        "6F3728AD5859495E94D9D7DC9B9F3DDF",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "6F3728AD5859495E94D9D7DC9B9F3DDF"
+    },
+    "6F3728AD5859495E94D9D7DC9B9F3DDF": {
+      "id": "6F3728AD5859495E94D9D7DC9B9F3DDF",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Variables",
+      "comments": [],
+      "ancestorIds": [
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "CA6E82E0968740FD97AACE84F6B465D2"
+    },
+    "46EEE39B0A6B48379B7F647448DD9EC7": {
+      "id": "46EEE39B0A6B48379B7F647448DD9EC7",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.AP.A.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a prototype that uses algorithms (e.g.,\r\nsearching, sorting, finding shortest distance) to provide a\r\npossible solution for a real‐world problem.",
+      "comments": [],
+      "ancestorIds": [
+        "D2BED394CF284CEF88D8E0C4EE2BD039",
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "D2BED394CF284CEF88D8E0C4EE2BD039"
+    },
+    "D2BED394CF284CEF88D8E0C4EE2BD039": {
+      "id": "D2BED394CF284CEF88D8E0C4EE2BD039",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "CA6E82E0968740FD97AACE84F6B465D2"
+      ],
+      "parentId": "CA6E82E0968740FD97AACE84F6B465D2"
+    },
+    "CA6E82E0968740FD97AACE84F6B465D2": {
+      "id": "CA6E82E0968740FD97AACE84F6B465D2",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms\n& Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7D4ADF072122454981E84ACA5B65A383": {
+      "id": "7D4ADF072122454981E84ACA5B65A383",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.DA.IM.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Refine computational models to better represent\r\nthe relationships among different elements of data collected\r\nfrom a phenomenon or process.\r",
+      "comments": [],
+      "ancestorIds": [
+        "9904D773A61C41D3B234CEB3255C5F19",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "9904D773A61C41D3B234CEB3255C5F19"
+    },
+    "013D47578942467BB36FC9855F1EC2BD": {
+      "id": "013D47578942467BB36FC9855F1EC2BD",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.DA.IM.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show the relationships between collected data\r\nelements using computational models.",
+      "comments": [],
+      "ancestorIds": [
+        "9904D773A61C41D3B234CEB3255C5F19",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "9904D773A61C41D3B234CEB3255C5F19"
+    },
+    "9904D773A61C41D3B234CEB3255C5F19": {
+      "id": "9904D773A61C41D3B234CEB3255C5F19",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inference &\nModels ",
+      "comments": [],
+      "ancestorIds": [
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "BDDB10C09ED249CF83B1B05F2CE8994B"
+    },
+    "F475B6AA78EC48ED8786C648E7A48E3C": {
+      "id": "F475B6AA78EC48ED8786C648E7A48E3C",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "9-10.DA.CVT.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate and refine computational artifacts to\r\nmake them more usable and accessible.",
+      "comments": [],
+      "ancestorIds": [
+        "69A4D04B11A248A3AF56E04428C64F80",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "69A4D04B11A248A3AF56E04428C64F80"
+    },
+    "0D9C12D76EAE4F6C9E13F2C7B25C3028": {
+      "id": "0D9C12D76EAE4F6C9E13F2C7B25C3028",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.DA.CVT.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the insights and knowledge gained from\r\ndigitally processed data by using appropriate visualizations,\r\nnotions and precise language.",
+      "comments": [],
+      "ancestorIds": [
+        "69A4D04B11A248A3AF56E04428C64F80",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "69A4D04B11A248A3AF56E04428C64F80"
+    },
+    "67EAB534D90241E786E920092AE2A975": {
+      "id": "67EAB534D90241E786E920092AE2A975",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.DA.CVT.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create data visualizations to help others better\r\nunderstand real‐world phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "69A4D04B11A248A3AF56E04428C64F80",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "69A4D04B11A248A3AF56E04428C64F80"
+    },
+    "69A4D04B11A248A3AF56E04428C64F80": {
+      "id": "69A4D04B11A248A3AF56E04428C64F80",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collection,\nVisualization &\nTransformation",
+      "comments": [],
+      "ancestorIds": [
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "BDDB10C09ED249CF83B1B05F2CE8994B"
+    },
+    "2956275E89CC4DFA8BCD484EF78D8127": {
+      "id": "2956275E89CC4DFA8BCD484EF78D8127",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.DA.S.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the trade‐offs in how data is organized\r\nand stored digitally.",
+      "comments": [],
+      "ancestorIds": [
+        "BFFB4BD3A9124D548D7271A661AA9C39",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "BFFB4BD3A9124D548D7271A661AA9C39"
+    },
+    "030936099AE440EFBC18E6E55D2B829D": {
+      "id": "030936099AE440EFBC18E6E55D2B829D",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.DA.S.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate and compare different bit\r\nrepresentations of data types, such as characters, numbers and\r\nimages.",
+      "comments": [],
+      "ancestorIds": [
+        "BFFB4BD3A9124D548D7271A661AA9C39",
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "BFFB4BD3A9124D548D7271A661AA9C39"
+    },
+    "BFFB4BD3A9124D548D7271A661AA9C39": {
+      "id": "BFFB4BD3A9124D548D7271A661AA9C39",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage",
+      "comments": [],
+      "ancestorIds": [
+        "BDDB10C09ED249CF83B1B05F2CE8994B"
+      ],
+      "parentId": "BDDB10C09ED249CF83B1B05F2CE8994B"
+    },
+    "BDDB10C09ED249CF83B1B05F2CE8994B": {
+      "id": "BDDB10C09ED249CF83B1B05F2CE8994B",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data & Analysis ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "464882A209AC4F808131AA7E7C270E11": {
+      "id": "464882A209AC4F808131AA7E7C270E11",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "9-10.NI.C.04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain trade‐offs when selecting and\r\nimplementing cybersecurity recommendations from multiple\r\nperspectives such as the user, enterprise and government.",
+      "comments": [],
+      "ancestorIds": [
+        "C08BC7E5E5474926B4FDE304A0BD0514",
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "C08BC7E5E5474926B4FDE304A0BD0514"
+    },
+    "6FF75AD7D9F84E72819BA5220FF0F18D": {
+      "id": "6FF75AD7D9F84E72819BA5220FF0F18D",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "9-10.NI.C.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recommend security measures to address various\r\nscenarios based on information security principles.",
+      "comments": [],
+      "ancestorIds": [
+        "C08BC7E5E5474926B4FDE304A0BD0514",
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "C08BC7E5E5474926B4FDE304A0BD0514"
+    },
+    "9E43F161A962485197836CE77F2C564B": {
+      "id": "9E43F161A962485197836CE77F2C564B",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.NI.C.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate how sensitive data can be affected by\r\nattacks.",
+      "comments": [],
+      "ancestorIds": [
+        "C08BC7E5E5474926B4FDE304A0BD0514",
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "C08BC7E5E5474926B4FDE304A0BD0514"
+    },
+    "1E87930B66CC43B481895EEBA202ACC5": {
+      "id": "1E87930B66CC43B481895EEBA202ACC5",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.NI.C.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare physical and cybersecurity measures by\r\nevaluating trade‐offs between the usability and security of a\r\ncomputing system.",
+      "comments": [],
+      "ancestorIds": [
+        "C08BC7E5E5474926B4FDE304A0BD0514",
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "C08BC7E5E5474926B4FDE304A0BD0514"
+    },
+    "C08BC7E5E5474926B4FDE304A0BD0514": {
+      "id": "C08BC7E5E5474926B4FDE304A0BD0514",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cybersecurity",
+      "comments": [],
+      "ancestorIds": [
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "25E3CC81469B4DABA7D3F9BC6D992C89"
+    },
+    "24A9D5E8484D4249A673C7278F7C9CFD": {
+      "id": "24A9D5E8484D4249A673C7278F7C9CFD",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "9-10.NI.NCO.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the issues that impact network\r\nfunctionality (e.g., bandwidth, load, delay, topology).",
+      "comments": [],
+      "ancestorIds": [
+        "7AF2DF07B23E49829740C65F65AEDF90",
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "7AF2DF07B23E49829740C65F65AEDF90"
+    },
+    "D03CDA8BE86B47CF9BCCB0E2F0D82580": {
+      "id": "D03CDA8BE86B47CF9BCCB0E2F0D82580",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.NI.NCO.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the scalability and reliability of\r\nnetworks by identifying and illustrating the basic components of\r\ncomputer networks (e.g., routers, switches, servers) and\r\nnetwork protocols (e.g., IP, DNS).",
+      "comments": [],
+      "ancestorIds": [
+        "7AF2DF07B23E49829740C65F65AEDF90",
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "7AF2DF07B23E49829740C65F65AEDF90"
+    },
+    "7AF2DF07B23E49829740C65F65AEDF90": {
+      "id": "7AF2DF07B23E49829740C65F65AEDF90",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Network Communication\n& Organization",
+      "comments": [],
+      "ancestorIds": [
+        "25E3CC81469B4DABA7D3F9BC6D992C89"
+      ],
+      "parentId": "25E3CC81469B4DABA7D3F9BC6D992C89"
+    },
+    "25E3CC81469B4DABA7D3F9BC6D992C89": {
+      "id": "25E3CC81469B4DABA7D3F9BC6D992C89",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks & the Internet ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "10BE85F86E4B453CB8CBE03F31D07760": {
+      "id": "10BE85F86E4B453CB8CBE03F31D07760",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.CS.T.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop, communicate and apply systematic\r\ntroubleshooting strategies for correction of errors in computing\r\nsystems.",
+      "comments": [],
+      "ancestorIds": [
+        "3D9FA89CE53F446BA9914BFECFA34379",
+        "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+      ],
+      "parentId": "3D9FA89CE53F446BA9914BFECFA34379"
+    },
+    "3D9FA89CE53F446BA9914BFECFA34379": {
+      "id": "3D9FA89CE53F446BA9914BFECFA34379",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Troubleshooting",
+      "comments": [],
+      "ancestorIds": [
+        "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+      ],
+      "parentId": "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+    },
+    "C2F4403CC94E4684A5888160E45F4635": {
+      "id": "C2F4403CC94E4684A5888160E45F4635",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.CS.HS.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the abstraction and interactions between\r\napplication software, system software and hardware.\r",
+      "comments": [],
+      "ancestorIds": [
+        "3EDBD28324AE4D91AB0A2274627F7FF8",
+        "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+      ],
+      "parentId": "3EDBD28324AE4D91AB0A2274627F7FF8"
+    },
+    "3EDBD28324AE4D91AB0A2274627F7FF8": {
+      "id": "3EDBD28324AE4D91AB0A2274627F7FF8",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware\n&\nSoftware",
+      "comments": [],
+      "ancestorIds": [
+        "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+      ],
+      "parentId": "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+    },
+    "66F07152A0AD41C796598AF36737AB76": {
+      "id": "66F07152A0AD41C796598AF36737AB76",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "9-10.CS.D.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how abstractions hide the underlying\r\nimplementation details of computing systems embedded in\r\neveryday objects.",
+      "comments": [],
+      "ancestorIds": [
+        "F5F7FB6A03174DE581B04505BA6BA95F",
+        "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+      ],
+      "parentId": "F5F7FB6A03174DE581B04505BA6BA95F"
+    },
+    "F5F7FB6A03174DE581B04505BA6BA95F": {
+      "id": "F5F7FB6A03174DE581B04505BA6BA95F",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Devices",
+      "comments": [],
+      "ancestorIds": [
+        "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+      ],
+      "parentId": "1BBDF7771B8846FC9CEC3C7FB2948C3A"
+    },
+    "1BBDF7771B8846FC9CEC3C7FB2948C3A": {
+      "id": "1BBDF7771B8846FC9CEC3C7FB2948C3A",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing Systems",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "id": "071477629D00405286BC6D79576AAB79_D2788230_high-school-functions",
+  "title": "High School — Functions",
+  "subject": "Mathematics (2017-2023)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2788230",
+    "valid": "2017",
+    "title": "North Dakota Mathematics Content Standards",
+    "sourceURL": "https://www.nd.gov/dpi/uploads/87/MathematicsCS2017.pdf",
+    "asnIdentifier": "D2788230",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "071477629D00405286BC6D79576AAB79",
+    "title": "North Dakota"
+  },
+  "standards": {
+    "E4F4A6F72303457590BBE684D1D7DB7C": {
+      "id": "E4F4A6F72303457590BBE684D1D7DB7C",
+      "asnIdentifier": "S2818224",
+      "position": 68000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.9",
+      "statementLabel": "Standard",
+      "description": "Know and apply the addition and subtraction formulas for sine, cosine, and tangent.",
+      "ancestorIds": [
+        "F991C2220ECB4D6BA95DBDE3A990F5D7",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "F991C2220ECB4D6BA95DBDE3A990F5D7"
+    },
+    "925FF9534A514F73912FDB746CE3BED4": {
+      "id": "925FF9534A514F73912FDB746CE3BED4",
+      "asnIdentifier": "S2818223",
+      "position": 67000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.8",
+      "statementLabel": "Standard",
+      "description": "Prove the Pythagorean identity sin²(θ) + cos²(θ) = 1 and use it to find n(θ), cos(θ), or tan(θ) given sin(θ), cos(θ), or tan(θ) and the quadrant of the angle.",
+      "ancestorIds": [
+        "F991C2220ECB4D6BA95DBDE3A990F5D7",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "F991C2220ECB4D6BA95DBDE3A990F5D7"
+    },
+    "F991C2220ECB4D6BA95DBDE3A990F5D7": {
+      "id": "F991C2220ECB4D6BA95DBDE3A990F5D7",
+      "asnIdentifier": "S2818222",
+      "position": 66000,
+      "depth": 1,
+      "statementNotation": "HSF-TF.C",
+      "statementLabel": "Cluster",
+      "description": "Prove and apply trigonometric identities",
+      "ancestorIds": [
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "6DFFC25C781344F68DCE0B8A5B4846FF"
+    },
+    "04F8D9614C8D43D19F232D14D642C106": {
+      "id": "04F8D9614C8D43D19F232D14D642C106",
+      "asnIdentifier": "S2818221",
+      "position": 65000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.7",
+      "statementLabel": "Standard",
+      "description": "Use inverse functions to solve trigonometric equations that arise in modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context.",
+      "ancestorIds": [
+        "1B44E6090BCF48FC8FEDB8F3B93C3C5D",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "1B44E6090BCF48FC8FEDB8F3B93C3C5D"
+    },
+    "A298830D655F43BA842906E2B8C2560D": {
+      "id": "A298830D655F43BA842906E2B8C2560D",
+      "asnIdentifier": "S2818220",
+      "position": 64000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.6",
+      "statementLabel": "Standard",
+      "description": "Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.",
+      "ancestorIds": [
+        "1B44E6090BCF48FC8FEDB8F3B93C3C5D",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "1B44E6090BCF48FC8FEDB8F3B93C3C5D"
+    },
+    "98157CA2E3A542D6B1D94EA307ACB822": {
+      "id": "98157CA2E3A542D6B1D94EA307ACB822",
+      "asnIdentifier": "S2818219",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.5",
+      "statementLabel": "Standard",
+      "description": "Choose trigonometric functions to model periodic phenomena with specified amplitude, frequency, and midline.",
+      "ancestorIds": [
+        "1B44E6090BCF48FC8FEDB8F3B93C3C5D",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "1B44E6090BCF48FC8FEDB8F3B93C3C5D"
+    },
+    "1B44E6090BCF48FC8FEDB8F3B93C3C5D": {
+      "id": "1B44E6090BCF48FC8FEDB8F3B93C3C5D",
+      "asnIdentifier": "S2818218",
+      "position": 62000,
+      "depth": 1,
+      "statementNotation": "HSF-TF.B",
+      "statementLabel": "Cluster",
+      "description": "Model periodic phenomena with trigonometric functions",
+      "ancestorIds": [
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "6DFFC25C781344F68DCE0B8A5B4846FF"
+    },
+    "59F22E9283CB4F4780FA0D8E731F9243": {
+      "id": "59F22E9283CB4F4780FA0D8E731F9243",
+      "asnIdentifier": "S2818217",
+      "position": 61000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.4",
+      "statementLabel": "Standard",
+      "description": "Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.",
+      "ancestorIds": [
+        "F01731C30BF946B1B90CD6D68F4EFE79",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "F01731C30BF946B1B90CD6D68F4EFE79"
+    },
+    "1A123BA1697B4E9EBA2A337CCA3AF99C": {
+      "id": "1A123BA1697B4E9EBA2A337CCA3AF99C",
+      "asnIdentifier": "S2818216",
+      "position": 60000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.3",
+      "statementLabel": "Standard",
+      "description": "Use special triangles to determine geometrically the values of sine, cosine, tangent for π/3, π/4 and π/6. (+) Use the unit circle to express the values of sine, cosine, and tangent for π - x, π + x, and 2π - x, in terms of their values for x, where x is any real number.",
+      "ancestorIds": [
+        "F01731C30BF946B1B90CD6D68F4EFE79",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "F01731C30BF946B1B90CD6D68F4EFE79"
+    },
+    "F98C2F984E5F4BEF8C669527E504882F": {
+      "id": "F98C2F984E5F4BEF8C669527E504882F",
+      "asnIdentifier": "S2818215",
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.2",
+      "statementLabel": "Standard",
+      "description": "Extend right triangle trigonometry to the four quadrants. (+) Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.",
+      "ancestorIds": [
+        "F01731C30BF946B1B90CD6D68F4EFE79",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "F01731C30BF946B1B90CD6D68F4EFE79"
+    },
+    "7078EE7D1F1C4F60B86BFCE61D210B6B": {
+      "id": "7078EE7D1F1C4F60B86BFCE61D210B6B",
+      "asnIdentifier": "S2818214",
+      "position": 58000,
+      "depth": 2,
+      "statementNotation": "HS.F-TF.1",
+      "statementLabel": "Standard",
+      "description": "Understand that the radian measure of an angle is the ratio of the length of the arc to the length of the radius of a circle.",
+      "ancestorIds": [
+        "F01731C30BF946B1B90CD6D68F4EFE79",
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "F01731C30BF946B1B90CD6D68F4EFE79"
+    },
+    "F01731C30BF946B1B90CD6D68F4EFE79": {
+      "id": "F01731C30BF946B1B90CD6D68F4EFE79",
+      "asnIdentifier": "S2818213",
+      "position": 57000,
+      "depth": 1,
+      "statementNotation": "HSF-TF.A",
+      "statementLabel": "Cluster",
+      "description": "Extend the domain of trigonometric functions using the unit circles",
+      "ancestorIds": [
+        "6DFFC25C781344F68DCE0B8A5B4846FF"
+      ],
+      "parentId": "6DFFC25C781344F68DCE0B8A5B4846FF"
+    },
+    "6DFFC25C781344F68DCE0B8A5B4846FF": {
+      "id": "6DFFC25C781344F68DCE0B8A5B4846FF",
+      "asnIdentifier": "S2818212",
+      "position": 56000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Trigonometric Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2EC70A32D5124C258BCEA1975E7E1A64": {
+      "id": "2EC70A32D5124C258BCEA1975E7E1A64",
+      "asnIdentifier": "S2818211",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "HS.F-LE.5",
+      "statementLabel": "Standard",
+      "description": "Interpret the parameters in a linear, quadratic, or exponential function in context.",
+      "ancestorIds": [
+        "D86622480ED64749B5882344B7C76150",
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "D86622480ED64749B5882344B7C76150"
+    },
+    "D86622480ED64749B5882344B7C76150": {
+      "id": "D86622480ED64749B5882344B7C76150",
+      "asnIdentifier": "S2818210",
+      "position": 54000,
+      "depth": 1,
+      "statementNotation": "HSF-LE.B",
+      "statementLabel": "Cluster",
+      "description": "Interpret expressions for functions in terms of the situation they model",
+      "ancestorIds": [
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "8A46FCECCBAB4802BE00167D411D24E5"
+    },
+    "FECB925D8CAE4D6C8C0505A29B033634": {
+      "id": "FECB925D8CAE4D6C8C0505A29B033634",
+      "asnIdentifier": "S2818209",
+      "position": 53000,
+      "depth": 2,
+      "statementNotation": "HS.F-LE.4",
+      "statementLabel": "Standard",
+      "description": "Use logarithms to express the solution to ab<sup>ct</sup> = d where a, c, and d are real numbers and b is a positive real number. Evaluate the logarithm using technology when appropriate.",
+      "ancestorIds": [
+        "D0C00249B71A429181579640F626695F",
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "D0C00249B71A429181579640F626695F"
+    },
+    "5E3332C9F834483280BC6A8707A9AD05": {
+      "id": "5E3332C9F834483280BC6A8707A9AD05",
+      "asnIdentifier": "S2818208",
+      "position": 52000,
+      "depth": 2,
+      "statementNotation": "HS.F-LE.3",
+      "statementLabel": "Standard",
+      "description": "Compare the end behavior of linear, quadratic, and exponential functions using graphs and/or tables to show that a quantity increasing exponentially eventually exceeds a quantity increasing as a linear or quadratic function.",
+      "ancestorIds": [
+        "D0C00249B71A429181579640F626695F",
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "D0C00249B71A429181579640F626695F"
+    },
+    "ECAA9167BBD94BD395F0B9E8CB6C142D": {
+      "id": "ECAA9167BBD94BD395F0B9E8CB6C142D",
+      "asnIdentifier": "S2818207",
+      "position": 51000,
+      "depth": 2,
+      "statementNotation": "HS.F-LE.2",
+      "statementLabel": "Standard",
+      "description": "Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a table, a description, or two input-output pairs given their relationship.",
+      "ancestorIds": [
+        "D0C00249B71A429181579640F626695F",
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "D0C00249B71A429181579640F626695F"
+    },
+    "B5D7EFB229364ED29BAE04DE7788CFAC": {
+      "id": "B5D7EFB229364ED29BAE04DE7788CFAC",
+      "asnIdentifier": "S2818206",
+      "position": 50000,
+      "depth": 2,
+      "statementNotation": "HS.F-LE.1",
+      "statementLabel": "Standard",
+      "description": "Identify situations that can be modeled with linear, quadratic, and exponential functions. Justify the most appropriate model for a situation based on the rate of change over equal intervals. Include situations in which a quantity grows or decays.",
+      "ancestorIds": [
+        "D0C00249B71A429181579640F626695F",
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "D0C00249B71A429181579640F626695F"
+    },
+    "D0C00249B71A429181579640F626695F": {
+      "id": "D0C00249B71A429181579640F626695F",
+      "asnIdentifier": "S2818205",
+      "position": 49000,
+      "depth": 1,
+      "statementNotation": "HSF-LE.A",
+      "statementLabel": "Cluster",
+      "description": "Construct and compare linear, quadratic, and exponential models and solve problems",
+      "ancestorIds": [
+        "8A46FCECCBAB4802BE00167D411D24E5"
+      ],
+      "parentId": "8A46FCECCBAB4802BE00167D411D24E5"
+    },
+    "8A46FCECCBAB4802BE00167D411D24E5": {
+      "id": "8A46FCECCBAB4802BE00167D411D24E5",
+      "asnIdentifier": "S2818204",
+      "position": 48000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Linear, Quadratic, and Exponential Models",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A19A646DEE8C4480B9CE271E42798D4F": {
+      "id": "A19A646DEE8C4480B9CE271E42798D4F",
+      "asnIdentifier": "S2818203",
+      "position": 47000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.5",
+      "statementLabel": "Standard",
+      "description": "Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems involving logarithms and exponents.",
+      "ancestorIds": [
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "60BD600CDFF54ADEAD1053460A40022E"
+    },
+    "19ABE968FA354828803F75CC3359DF13": {
+      "id": "19ABE968FA354828803F75CC3359DF13",
+      "asnIdentifier": "S2818202",
+      "position": 46000,
+      "depth": 3,
+      "statementNotation": "HS.F-BF.4.d",
+      "statementLabel": "Component",
+      "description": "Produce an invertible function from a non-invertible function by restricting the domain.",
+      "ancestorIds": [
+        "21F460D467374ABAA040965607567D48",
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "21F460D467374ABAA040965607567D48"
+    },
+    "D865DB54545345DBA18E1B6C372C3CC6": {
+      "id": "D865DB54545345DBA18E1B6C372C3CC6",
+      "asnIdentifier": "S2818201",
+      "position": 45000,
+      "depth": 3,
+      "statementNotation": "HS.F-BF.4.c",
+      "statementLabel": "Component",
+      "description": "Read values of an inverse function from a graph or a table, given that the function has an inverse.",
+      "ancestorIds": [
+        "21F460D467374ABAA040965607567D48",
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "21F460D467374ABAA040965607567D48"
+    },
+    "63BCCCB23C414949AA6A8913771DA86C": {
+      "id": "63BCCCB23C414949AA6A8913771DA86C",
+      "asnIdentifier": "S2818200",
+      "position": 44000,
+      "depth": 3,
+      "statementNotation": "HS.F-BF.4.b",
+      "statementLabel": "Component",
+      "description": "Verify by composition that one function is the inverse of another.",
+      "ancestorIds": [
+        "21F460D467374ABAA040965607567D48",
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "21F460D467374ABAA040965607567D48"
+    },
+    "D4A28CA30CEF4440A1360DB4B80F3FD9": {
+      "id": "D4A28CA30CEF4440A1360DB4B80F3FD9",
+      "asnIdentifier": "S2818199",
+      "position": 43000,
+      "depth": 3,
+      "statementNotation": "HS.F-BF.4.a",
+      "statementLabel": "Component",
+      "description": "Write an equation for the inverse given a function has an inverse.",
+      "ancestorIds": [
+        "21F460D467374ABAA040965607567D48",
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "21F460D467374ABAA040965607567D48"
+    },
+    "21F460D467374ABAA040965607567D48": {
+      "id": "21F460D467374ABAA040965607567D48",
+      "asnIdentifier": "S2818198",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.4",
+      "statementLabel": "Standard",
+      "description": "Find inverse functions.",
+      "ancestorIds": [
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "60BD600CDFF54ADEAD1053460A40022E"
+    },
+    "F6019852C48C44908D4617C95314F29D": {
+      "id": "F6019852C48C44908D4617C95314F29D",
+      "asnIdentifier": "S2818197",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.3",
+      "statementLabel": "Standard",
+      "description": "Identify the effect on the graph of replacing f(x) by f(x) + k, f(x + k), kf(x), and f(kx), for specific values of k (both positive and negative); find the value of k given the graphs. Recognize even and odd functions from their graphs.",
+      "ancestorIds": [
+        "60BD600CDFF54ADEAD1053460A40022E",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "60BD600CDFF54ADEAD1053460A40022E"
+    },
+    "60BD600CDFF54ADEAD1053460A40022E": {
+      "id": "60BD600CDFF54ADEAD1053460A40022E",
+      "asnIdentifier": "S2818196",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "HSF-BF.B",
+      "statementLabel": "Cluster",
+      "description": "Build new functions from existing functions",
+      "ancestorIds": [
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "EAA2654F7F714B7D9444EFE5F5D36BA0"
+    },
+    "44832ECA521E47DE9596081EA4D26A69": {
+      "id": "44832ECA521E47DE9596081EA4D26A69",
+      "asnIdentifier": "S2818195",
+      "position": 39000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.2",
+      "statementLabel": "Standard",
+      "description": "Write arithmetic and geometric sequences both recursively and with an explicit formula and convert between the two forms. Use sequences to model situations.",
+      "ancestorIds": [
+        "AF376CCDADD446869C2DC91192959F08",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "AF376CCDADD446869C2DC91192959F08"
+    },
+    "2DD027BAF73B4592B94015057F4071DD": {
+      "id": "2DD027BAF73B4592B94015057F4071DD",
+      "asnIdentifier": "S2818194",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.1.c",
+      "statementLabel": "Standard",
+      "description": "Compose functions.",
+      "ancestorIds": [
+        "AF376CCDADD446869C2DC91192959F08",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "AF376CCDADD446869C2DC91192959F08"
+    },
+    "18BFDC751CF1426088185386F936122E": {
+      "id": "18BFDC751CF1426088185386F936122E",
+      "asnIdentifier": "S2818193",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.1.b",
+      "statementLabel": "Standard",
+      "description": "Combine standard function types using arithmetic operations.",
+      "ancestorIds": [
+        "AF376CCDADD446869C2DC91192959F08",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "AF376CCDADD446869C2DC91192959F08"
+    },
+    "2534A3977B7B4CF5830E44BF7E045A43": {
+      "id": "2534A3977B7B4CF5830E44BF7E045A43",
+      "asnIdentifier": "S2818192",
+      "position": 36000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.1.a",
+      "statementLabel": "Standard",
+      "description": "Determine an explicit expression, a recursive process, or steps for calculation from a context.",
+      "ancestorIds": [
+        "AF376CCDADD446869C2DC91192959F08",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "AF376CCDADD446869C2DC91192959F08"
+    },
+    "4C331D7510D049CEA9D8F3ACD55413F3": {
+      "id": "4C331D7510D049CEA9D8F3ACD55413F3",
+      "asnIdentifier": "S2818191",
+      "position": 35000,
+      "depth": 2,
+      "statementNotation": "HS.F-BF.1",
+      "statementLabel": "Standard",
+      "description": "Write a function that describes a relationship between two quantities.",
+      "ancestorIds": [
+        "AF376CCDADD446869C2DC91192959F08",
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "AF376CCDADD446869C2DC91192959F08"
+    },
+    "AF376CCDADD446869C2DC91192959F08": {
+      "id": "AF376CCDADD446869C2DC91192959F08",
+      "asnIdentifier": "S2818190",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "HSF-BF.A",
+      "statementLabel": "Cluster",
+      "description": "Build a function that models a relationship between two quantities",
+      "ancestorIds": [
+        "EAA2654F7F714B7D9444EFE5F5D36BA0"
+      ],
+      "parentId": "EAA2654F7F714B7D9444EFE5F5D36BA0"
+    },
+    "EAA2654F7F714B7D9444EFE5F5D36BA0": {
+      "id": "EAA2654F7F714B7D9444EFE5F5D36BA0",
+      "asnIdentifier": "S2818189",
+      "position": 33000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Building Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "17D1D1DF11FD4F9480307908C82731D4": {
+      "id": "17D1D1DF11FD4F9480307908C82731D4",
+      "asnIdentifier": "S2818188",
+      "position": 32000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.9",
+      "statementLabel": "Standard",
+      "description": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
+      "ancestorIds": [
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "64EB5A92167142A58D4CE4AEC5FD2475"
+    },
+    "C2818A6CE6DB4A2AA92D2DD84C47B9AD": {
+      "id": "C2818A6CE6DB4A2AA92D2DD84C47B9AD",
+      "asnIdentifier": "S2818187",
+      "position": 31000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.8.b",
+      "statementLabel": "Component",
+      "description": "Use the properties of exponents to interpret expressions for exponential functions.",
+      "ancestorIds": [
+        "4BE106E77B7D4E68892B7D1943F7C412",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "4BE106E77B7D4E68892B7D1943F7C412"
+    },
+    "01215664B98343F79E15422418F6D018": {
+      "id": "01215664B98343F79E15422418F6D018",
+      "asnIdentifier": "S2818186",
+      "position": 30000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.8.a",
+      "statementLabel": "Component",
+      "description": "Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context.",
+      "ancestorIds": [
+        "4BE106E77B7D4E68892B7D1943F7C412",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "4BE106E77B7D4E68892B7D1943F7C412"
+    },
+    "4BE106E77B7D4E68892B7D1943F7C412": {
+      "id": "4BE106E77B7D4E68892B7D1943F7C412",
+      "asnIdentifier": "S2818185",
+      "position": 29000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.8",
+      "statementLabel": "Standard",
+      "description": "Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.",
+      "ancestorIds": [
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "64EB5A92167142A58D4CE4AEC5FD2475"
+    },
+    "32DC4D22140647009BC5805E1F6C0C3E": {
+      "id": "32DC4D22140647009BC5805E1F6C0C3E",
+      "asnIdentifier": "S2818184",
+      "position": 28000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.g",
+      "statementLabel": "Component",
+      "description": "Graph trigonometric functions, showing period, midline, phase shift and amplitude.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "0CB8AD0DF9054F37A3302184D333431E": {
+      "id": "0CB8AD0DF9054F37A3302184D333431E",
+      "asnIdentifier": "S2818183",
+      "position": 27000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.f",
+      "statementLabel": "Component",
+      "description": "Graph f(x) = sin x and f(x) = cos x as representations of periodic phenomena.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "D04DBAADC3704F1B91252FA0BB503B29": {
+      "id": "D04DBAADC3704F1B91252FA0BB503B29",
+      "asnIdentifier": "S2818182",
+      "position": 26000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.e",
+      "statementLabel": "Component",
+      "description": "Graph exponential and logarithmic functions, showing intercepts and end behavior.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "66085BC3E8A446E1961C2F203F38ED54": {
+      "id": "66085BC3E8A446E1961C2F203F38ED54",
+      "asnIdentifier": "S2818181",
+      "position": 25000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.d",
+      "statementLabel": "Component",
+      "description": "Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "D8D7A19AB3284126AF59C9DB25150F46": {
+      "id": "D8D7A19AB3284126AF59C9DB25150F46",
+      "asnIdentifier": "S2818180",
+      "position": 24000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.c",
+      "statementLabel": "Component",
+      "description": "Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "A04C6E957966439BACE966FB9CCC8E0E": {
+      "id": "A04C6E957966439BACE966FB9CCC8E0E",
+      "asnIdentifier": "S2818179",
+      "position": 23000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.b",
+      "statementLabel": "Component",
+      "description": "Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "9A80719F6D79476097532E3960685F4F": {
+      "id": "9A80719F6D79476097532E3960685F4F",
+      "asnIdentifier": "S2818178",
+      "position": 22000,
+      "depth": 3,
+      "statementNotation": "HS.F-IF.7.a",
+      "statementLabel": "Component",
+      "description": "Graph linear and quadratic functions and show intercepts, maxima, and minima where appropriate.",
+      "ancestorIds": [
+        "7C7582B9AC7D49719F39D9EB194DEA45",
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "7C7582B9AC7D49719F39D9EB194DEA45"
+    },
+    "7C7582B9AC7D49719F39D9EB194DEA45": {
+      "id": "7C7582B9AC7D49719F39D9EB194DEA45",
+      "asnIdentifier": "S2818177",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.7",
+      "statementLabel": "Standard",
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.",
+      "ancestorIds": [
+        "64EB5A92167142A58D4CE4AEC5FD2475",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "64EB5A92167142A58D4CE4AEC5FD2475"
+    },
+    "64EB5A92167142A58D4CE4AEC5FD2475": {
+      "id": "64EB5A92167142A58D4CE4AEC5FD2475",
+      "asnIdentifier": "S2818176",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "HSF-SSE.B",
+      "statementLabel": "Cluster",
+      "description": "Analyze functions using different representations",
+      "ancestorIds": [
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "5AF086CFDCF4454897C24788F509529E"
+    },
+    "5298028876FA4589A9C98E365AA8C226": {
+      "id": "5298028876FA4589A9C98E365AA8C226",
+      "asnIdentifier": "S2818175",
+      "position": 19000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.6",
+      "statementLabel": "Standard",
+      "description": "Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.",
+      "ancestorIds": [
+        "1931B10DD9E74AFE9462A08ED7A3596E",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "1931B10DD9E74AFE9462A08ED7A3596E"
+    },
+    "F6E1815A7A084F4EBB1B5C4FF46589CD": {
+      "id": "F6E1815A7A084F4EBB1B5C4FF46589CD",
+      "asnIdentifier": "S2818174",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.5",
+      "statementLabel": "Standard",
+      "description": "Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes.",
+      "ancestorIds": [
+        "1931B10DD9E74AFE9462A08ED7A3596E",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "1931B10DD9E74AFE9462A08ED7A3596E"
+    },
+    "937FFEAEF4324E91BD83C8A4E26EBB49": {
+      "id": "937FFEAEF4324E91BD83C8A4E26EBB49",
+      "asnIdentifier": "S2818173",
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.4",
+      "statementLabel": "Standard",
+      "description": "Use tables, graphs, verbal descriptions, and equations to interpret and sketch the key features of a function modeling the relationship between two quantities.",
+      "ancestorIds": [
+        "1931B10DD9E74AFE9462A08ED7A3596E",
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "1931B10DD9E74AFE9462A08ED7A3596E"
+    },
+    "1931B10DD9E74AFE9462A08ED7A3596E": {
+      "id": "1931B10DD9E74AFE9462A08ED7A3596E",
+      "asnIdentifier": "S2818172",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "HSF-SSE.A",
+      "statementLabel": "Cluster",
+      "description": "Interpret functions that arise in applications in terms of the context",
+      "ancestorIds": [
+        "5AF086CFDCF4454897C24788F509529E"
+      ],
+      "parentId": "5AF086CFDCF4454897C24788F509529E"
+    },
+    "5AF086CFDCF4454897C24788F509529E": {
+      "id": "5AF086CFDCF4454897C24788F509529E",
+      "asnIdentifier": "S2818171",
+      "position": 15000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Seeing Structure in Expressions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "51DBBEE7EF5D4B0CA7BE64F9AC8B2252": {
+      "id": "51DBBEE7EF5D4B0CA7BE64F9AC8B2252",
+      "asnIdentifier": "S2818170",
+      "position": 14000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.3",
+      "statementLabel": "Standard",
+      "description": "Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers.",
+      "ancestorIds": [
+        "2FBFBF4DCF5F4414AECDA28823B1703C",
+        "41DFAFB8066D4E0D923D46A72A72D57F"
+      ],
+      "parentId": "2FBFBF4DCF5F4414AECDA28823B1703C"
+    },
+    "991E1D6BD72D4559AE35622505654726": {
+      "id": "991E1D6BD72D4559AE35622505654726",
+      "asnIdentifier": "S2818169",
+      "position": 13000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.2",
+      "statementLabel": "Standard",
+      "description": "Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context.",
+      "ancestorIds": [
+        "2FBFBF4DCF5F4414AECDA28823B1703C",
+        "41DFAFB8066D4E0D923D46A72A72D57F"
+      ],
+      "parentId": "2FBFBF4DCF5F4414AECDA28823B1703C"
+    },
+    "DB574937158D4B9B8263D1CE30860597": {
+      "id": "DB574937158D4B9B8263D1CE30860597",
+      "asnIdentifier": "S2818168",
+      "position": 12000,
+      "depth": 2,
+      "statementNotation": "HS.F-IF.1",
+      "statementLabel": "Standard",
+      "description": "Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. If f is a function and x is an element of its domain, then f(x) denotes the output of f corresponding to the input x. The graph of f is the graph of the equation y = f(x).",
+      "ancestorIds": [
+        "2FBFBF4DCF5F4414AECDA28823B1703C",
+        "41DFAFB8066D4E0D923D46A72A72D57F"
+      ],
+      "parentId": "2FBFBF4DCF5F4414AECDA28823B1703C"
+    },
+    "2FBFBF4DCF5F4414AECDA28823B1703C": {
+      "id": "2FBFBF4DCF5F4414AECDA28823B1703C",
+      "asnIdentifier": "S2818167",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "HSF-IF.A",
+      "statementLabel": "Cluster",
+      "description": "Understand the concept of a function and use function notation",
+      "ancestorIds": [
+        "41DFAFB8066D4E0D923D46A72A72D57F"
+      ],
+      "parentId": "41DFAFB8066D4E0D923D46A72A72D57F"
+    },
+    "41DFAFB8066D4E0D923D46A72A72D57F": {
+      "id": "41DFAFB8066D4E0D923D46A72A72D57F",
+      "asnIdentifier": "S2818166",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Interpreting Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C6CEB0E4CDAD47A3B66FCCFEE07CEAB1": {
+      "id": "C6CEB0E4CDAD47A3B66FCCFEE07CEAB1",
+      "asnIdentifier": "S2817630",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "MP.8",
+      "statementLabel": "Standard",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "A558865285954D448583DF8D6062851C": {
+      "id": "A558865285954D448583DF8D6062851C",
+      "asnIdentifier": "S2817629",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "MP.7",
+      "statementLabel": "Standard",
+      "description": "Look for and make use of structure.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "D13CA6ED1A6A4009A33F6181B16A98FC": {
+      "id": "D13CA6ED1A6A4009A33F6181B16A98FC",
+      "asnIdentifier": "S2817628",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "MP.6",
+      "statementLabel": "Standard",
+      "description": "Attend to precision.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "88C14DED2C7D440483C486E91C5CD060": {
+      "id": "88C14DED2C7D440483C486E91C5CD060",
+      "asnIdentifier": "S2817627",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "MP.5",
+      "statementLabel": "Standard",
+      "description": "Use appropriate tools strategically.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "6FB53565A12747318DAA0D3F059E40B9": {
+      "id": "6FB53565A12747318DAA0D3F059E40B9",
+      "asnIdentifier": "S2817626",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "MP.4",
+      "statementLabel": "Standard",
+      "description": "Model with mathematics.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "A7DD6E189F604083AE6BC5295ACD44FE": {
+      "id": "A7DD6E189F604083AE6BC5295ACD44FE",
+      "asnIdentifier": "S2817625",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "MP.3",
+      "statementLabel": "Standard",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "52B99AB79D90499E8D0D49BEB8E0CAFD": {
+      "id": "52B99AB79D90499E8D0D49BEB8E0CAFD",
+      "asnIdentifier": "S2817624",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "MP.2",
+      "statementLabel": "Standard",
+      "description": "Reason abstractly and quantitatively.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "2C2F976B9768478A971C53870609E78D": {
+      "id": "2C2F976B9768478A971C53870609E78D",
+      "asnIdentifier": "S2817623",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "MP.1",
+      "statementLabel": "Standard",
+      "description": "Make sense of problems and persevere in solving them.",
+      "ancestorIds": [
+        "E138C515674644DD85909FFFA90AFEDC"
+      ],
+      "parentId": "E138C515674644DD85909FFFA90AFEDC"
+    },
+    "E138C515674644DD85909FFFA90AFEDC": {
+      "id": "E138C515674644DD85909FFFA90AFEDC",
+      "asnIdentifier": "S2817622",
+      "position": 1000,
+      "depth": 0,
+      "description": "Standards for Mathematical Practice",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

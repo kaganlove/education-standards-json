@@ -1,0 +1,1552 @@
+{
+  "id": "2422187768DA4967AD44FD7D0A6863B2",
+  "title": "Computer Science 2020 (1CP2)",
+  "subject": "Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Computer Science (1CP2)",
+    "sourceURL": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Computer%20Science/2020/specification-and-sample-assessments/GCSE_L1_L2_Computer_Science_2020_Specification.pdf"
+  },
+  "jurisdiction": {
+    "id": "142A584FB344427287E9B51DB9DAC46F",
+    "title": "Edexcel"
+  },
+  "standards": {
+    "93E38301E7F545A3BA5C8B4569E17598": {
+      "id": "93E38301E7F545A3BA5C8B4569E17598",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 2,
+      "listId": "6.6.3",
+      "statementNotation": "6.6.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the difference between and be able to write\nprograms that make appropriate use of global and local\nvariables",
+      "comments": [],
+      "ancestorIds": [
+        "197532996641448E977335EF96D6E430",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "197532996641448E977335EF96D6E430"
+    },
+    "D4F9E1C19E8A453CBAFE5C840876899F": {
+      "id": "D4F9E1C19E8A453CBAFE5C840876899F",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 2,
+      "listId": "6.6.2",
+      "statementNotation": "6.6.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write functions that may or may not take\nparameters but must return values, and procedures that\nmay or may not take parameters but do not return values",
+      "comments": [],
+      "ancestorIds": [
+        "197532996641448E977335EF96D6E430",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "197532996641448E977335EF96D6E430"
+    },
+    "9A4D573FE88740D0B3E5A372643FB16A": {
+      "id": "9A4D573FE88740D0B3E5A372643FB16A",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 2,
+      "listId": "6.6.1",
+      "statementNotation": "6.6.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that use pre-existing (built-in,\nlibrary) and user-devised subprograms (procedures,\nfunctions)",
+      "comments": [],
+      "ancestorIds": [
+        "197532996641448E977335EF96D6E430",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "197532996641448E977335EF96D6E430"
+    },
+    "197532996641448E977335EF96D6E430": {
+      "id": "197532996641448E977335EF96D6E430",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 1,
+      "listId": "6.6",
+      "statementNotation": "6.6 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subprograms",
+      "comments": [],
+      "ancestorIds": [
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "C33B29AC85834CC1909A54477AAF5336"
+    },
+    "0355E1E1397042158FC61918B7D86103": {
+      "id": "0355E1E1397042158FC61918B7D86103",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 2,
+      "listId": "6.5.3",
+      "statementNotation": "6.5.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that use logical operators (AND,\nOR, NOT)",
+      "comments": [],
+      "ancestorIds": [
+        "1743D75DB5684370AD190AC1E5416969",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "1743D75DB5684370AD190AC1E5416969"
+    },
+    "BDB9F9F251944513A4DA48F5D5F43CEF": {
+      "id": "BDB9F9F251944513A4DA48F5D5F43CEF",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 2,
+      "listId": "6.5.2",
+      "statementNotation": "6.5.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that use relational operators\n(equal to, less than, greater than, not equal to, less than\nor equal to, greater than or equal to)",
+      "comments": [],
+      "ancestorIds": [
+        "1743D75DB5684370AD190AC1E5416969",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "1743D75DB5684370AD190AC1E5416969"
+    },
+    "012864AFAE8B44FAA3DF3D41DCB6B6D1": {
+      "id": "012864AFAE8B44FAA3DF3D41DCB6B6D1",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 2,
+      "listId": "6.5.1",
+      "statementNotation": "6.5.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that use arithmetic operators\n(addition, subtraction, division, multiplication, modulus,\ninteger division, exponentiation)",
+      "comments": [],
+      "ancestorIds": [
+        "1743D75DB5684370AD190AC1E5416969",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "1743D75DB5684370AD190AC1E5416969"
+    },
+    "1743D75DB5684370AD190AC1E5416969": {
+      "id": "1743D75DB5684370AD190AC1E5416969",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 1,
+      "listId": "6.5",
+      "statementNotation": "6.5 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Operators",
+      "comments": [],
+      "ancestorIds": [
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "C33B29AC85834CC1909A54477AAF5336"
+    },
+    "0402410FB3B34295B2B9C44BC691D7CE": {
+      "id": "0402410FB3B34295B2B9C44BC691D7CE",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 2,
+      "listId": "6.4.4",
+      "statementNotation": "6.4.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the need for and be able to write programs\nthat implement authentication (ID and password, lookup)",
+      "comments": [],
+      "ancestorIds": [
+        "6D37E7CC3BC543F896FB9AB468317DAA",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "6D37E7CC3BC543F896FB9AB468317DAA"
+    },
+    "3D66CCDC35AB490284588A9D023F81B2": {
+      "id": "3D66CCDC35AB490284588A9D023F81B2",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 2,
+      "listId": "6.4.3",
+      "statementNotation": "6.4.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the need for and be able to write programs\nthat implement validation (length check, presence check,\nrange check, pattern check)",
+      "comments": [],
+      "ancestorIds": [
+        "6D37E7CC3BC543F896FB9AB468317DAA",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "6D37E7CC3BC543F896FB9AB468317DAA"
+    },
+    "EED0E01C742B4A1CA76E7ACC6877F7B7": {
+      "id": "EED0E01C742B4A1CA76E7ACC6877F7B7",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 2,
+      "listId": "6.4.2",
+      "statementNotation": "6.4.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that read from and write to\ncomma separated value text files",
+      "comments": [],
+      "ancestorIds": [
+        "6D37E7CC3BC543F896FB9AB468317DAA",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "6D37E7CC3BC543F896FB9AB468317DAA"
+    },
+    "9F0C3669428D4A59950875C0014081D6": {
+      "id": "9F0C3669428D4A59950875C0014081D6",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 2,
+      "listId": "6.4.1",
+      "statementNotation": "6.4.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that accept and respond\nappropriately to user input",
+      "comments": [],
+      "ancestorIds": [
+        "6D37E7CC3BC543F896FB9AB468317DAA",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "6D37E7CC3BC543F896FB9AB468317DAA"
+    },
+    "6D37E7CC3BC543F896FB9AB468317DAA": {
+      "id": "6D37E7CC3BC543F896FB9AB468317DAA",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 1,
+      "listId": "6.4",
+      "statementNotation": "6.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Input / Output",
+      "comments": [],
+      "ancestorIds": [
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "C33B29AC85834CC1909A54477AAF5336"
+    },
+    "63D8FEF45A7244D7A4CDFCE17D230F3C": {
+      "id": "63D8FEF45A7244D7A4CDFCE17D230F3C",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 2,
+      "listId": "6.3.3",
+      "statementNotation": "6.3.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that manipulate strings (length,\nposition, substrings, case conversion)",
+      "comments": [],
+      "ancestorIds": [
+        "B576CCB9BEC140859C7472E57487742D",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "B576CCB9BEC140859C7472E57487742D"
+    },
+    "062104A8BCD242E280DD7E9E319D1E07": {
+      "id": "062104A8BCD242E280DD7E9E319D1E07",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 2,
+      "listId": "6.3.2",
+      "statementNotation": "6.3.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that make appropriate use of\nvariables and constants",
+      "comments": [],
+      "ancestorIds": [
+        "B576CCB9BEC140859C7472E57487742D",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "B576CCB9BEC140859C7472E57487742D"
+    },
+    "55A6C777830E4DB5B14232AB0B82C709": {
+      "id": "55A6C777830E4DB5B14232AB0B82C709",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 2,
+      "listId": "6.3.1",
+      "statementNotation": "6.3.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to write programs that make appropriate use of\nprimitive data types (integer, real, Boolean, char) and oneand two-dimensional structured data types (string, array,\nrecord)",
+      "comments": [],
+      "ancestorIds": [
+        "B576CCB9BEC140859C7472E57487742D",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "B576CCB9BEC140859C7472E57487742D"
+    },
+    "B576CCB9BEC140859C7472E57487742D": {
+      "id": "B576CCB9BEC140859C7472E57487742D",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 1,
+      "listId": "6.3",
+      "statementNotation": "6.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Types and Structures",
+      "comments": [],
+      "ancestorIds": [
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "C33B29AC85834CC1909A54477AAF5336"
+    },
+    "88652ECE4BD44F2CB0BB726EDA04F390": {
+      "id": "88652ECE4BD44F2CB0BB726EDA04F390",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 2,
+      "listId": "6.2.2",
+      "statementNotation": "6.2.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " be able to write programs that make appropriate use of\nsequencing, selection, repetition (count-controlled,\ncondition-controlled), iteration (over every item in a data\nstructure) and single entry/exit points from code blocks\nand subprograms",
+      "comments": [],
+      "ancestorIds": [
+        "482DA941BBCA4D4EA887B4FB0CF7FB43",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "482DA941BBCA4D4EA887B4FB0CF7FB43"
+    },
+    "1BA7A157A06E4FDB87CB048F2585E3D7": {
+      "id": "1BA7A157A06E4FDB87CB048F2585E3D7",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "6.2.1",
+      "statementNotation": "6.2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the function of and be able to identify the\nstructural components of programs (constants, variables,\ninitialisation and assignment statements, command\nsequences, selection, repetition, iteration, data structures,\nsubprograms, parameters, input/output)",
+      "comments": [],
+      "ancestorIds": [
+        "482DA941BBCA4D4EA887B4FB0CF7FB43",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "482DA941BBCA4D4EA887B4FB0CF7FB43"
+    },
+    "482DA941BBCA4D4EA887B4FB0CF7FB43": {
+      "id": "482DA941BBCA4D4EA887B4FB0CF7FB43",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 1,
+      "listId": "6.2",
+      "statementNotation": "6.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Constructs",
+      "comments": [],
+      "ancestorIds": [
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "C33B29AC85834CC1909A54477AAF5336"
+    },
+    "74AAB387B9A041C5AC66ADA850708B15": {
+      "id": "74AAB387B9A041C5AC66ADA850708B15",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 2,
+      "listId": "6.1.6",
+      "statementNotation": "6.1.6 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to use logical reasoning and test data to evaluate a\nprogram’s fitness for purpose and efficiency (number of\ncompares, number of passes through a loop, use of\nmemory) ",
+      "comments": [],
+      "ancestorIds": [
+        "A85CC289A071497EBD33B2C166D0BEAD",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "A85CC289A071497EBD33B2C166D0BEAD"
+    },
+    "A68CB6065ED14DA783BAA3244B86AB97": {
+      "id": "A68CB6065ED14DA783BAA3244B86AB97",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "6.1.5",
+      "statementNotation": "6.1.5 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to identify, locate and correct program errors\n(logic, syntax, runtime)",
+      "comments": [],
+      "ancestorIds": [
+        "A85CC289A071497EBD33B2C166D0BEAD",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "A85CC289A071497EBD33B2C166D0BEAD"
+    },
+    "47E1FF99ACCB4E8E957060ACE782FF23": {
+      "id": "47E1FF99ACCB4E8E957060ACE782FF23",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 2,
+      "listId": "6.1.4",
+      "statementNotation": "6.1.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " be able to use techniques (layout, indentation, comments,\nmeaningful identifiers, white space) to make programs\neasier to read, understand and maintain",
+      "comments": [],
+      "ancestorIds": [
+        "A85CC289A071497EBD33B2C166D0BEAD",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "A85CC289A071497EBD33B2C166D0BEAD"
+    },
+    "7D36366D4AB24A84ABECA101D87F90C5": {
+      "id": "7D36366D4AB24A84ABECA101D87F90C5",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 2,
+      "listId": "6.1.3",
+      "statementNotation": "6.1.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to convert algorithms (flowcharts, pseudocode*)\ninto programs",
+      "comments": [],
+      "ancestorIds": [
+        "A85CC289A071497EBD33B2C166D0BEAD",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "A85CC289A071497EBD33B2C166D0BEAD"
+    },
+    "D7B8D113A6254318B36287D6B9DB5F7F": {
+      "id": "D7B8D113A6254318B36287D6B9DB5F7F",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 2,
+      "listId": "6.1.2",
+      "statementNotation": "6.1.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to read, write, analyse and refine programs written\nin a high-level programming language",
+      "comments": [],
+      "ancestorIds": [
+        "A85CC289A071497EBD33B2C166D0BEAD",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "A85CC289A071497EBD33B2C166D0BEAD"
+    },
+    "C42711123FEA4F92B0E41EF767F8F565": {
+      "id": "C42711123FEA4F92B0E41EF767F8F565",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "6.1.1",
+      "statementNotation": "6.1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to use decomposition and abstraction to analyse,\nunderstand and solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "A85CC289A071497EBD33B2C166D0BEAD",
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "A85CC289A071497EBD33B2C166D0BEAD"
+    },
+    "A85CC289A071497EBD33B2C166D0BEAD": {
+      "id": "A85CC289A071497EBD33B2C166D0BEAD",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 1,
+      "listId": "6.1",
+      "statementNotation": "6.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop Code",
+      "comments": [],
+      "ancestorIds": [
+        "C33B29AC85834CC1909A54477AAF5336"
+      ],
+      "parentId": "C33B29AC85834CC1909A54477AAF5336"
+    },
+    "C33B29AC85834CC1909A54477AAF5336": {
+      "id": "C33B29AC85834CC1909A54477AAF5336",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "6 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Problem Solving with Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8D7082E288834EFCADECFC96DA9F8488": {
+      "id": "8D7082E288834EFCADECFC96DA9F8488",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "5.3.2",
+      "statementNotation": "5.3.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand methods of protecting digital systems and data\n(anti-malware, encryption, acceptable use policies, backup\nand recovery procedures)",
+      "comments": [],
+      "ancestorIds": [
+        "FE0EB5E5B7EB48C68CEF39DA03C2CCC3",
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "FE0EB5E5B7EB48C68CEF39DA03C2CCC3"
+    },
+    "7F63A5D9C99C49B5B2C5DD08FDA30C10": {
+      "id": "7F63A5D9C99C49B5B2C5DD08FDA30C10",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "5.3.1",
+      "statementNotation": "5.3.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the threat to digital systems posed by malware\n(viruses, worms, Trojans, ransomware, key loggers) and\nhow hackers exploit technical vulnerabilities (unpatched\nsoftware, out-of-date anti-malware) and use social\nengineering to carry out cyberattacks",
+      "comments": [],
+      "ancestorIds": [
+        "FE0EB5E5B7EB48C68CEF39DA03C2CCC3",
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "FE0EB5E5B7EB48C68CEF39DA03C2CCC3"
+    },
+    "FE0EB5E5B7EB48C68CEF39DA03C2CCC3": {
+      "id": "FE0EB5E5B7EB48C68CEF39DA03C2CCC3",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 1,
+      "listId": "5.3",
+      "statementNotation": "5.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cybersecurity",
+      "comments": [],
+      "ancestorIds": [
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "445908711F8745139F1ED6CB8A64E9E4"
+    },
+    "D6003689BD3E4A23AA3AE632BBBB0403": {
+      "id": "D6003689BD3E4A23AA3AE632BBBB0403",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "5.2.3",
+      "statementNotation": "5.2.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand methods of intellectual property protection for\ncomputer systems and software (copyright, patents,\ntrademarks, licencing) ",
+      "comments": [],
+      "ancestorIds": [
+        "1235BBC4B5454EC797253AD0E3E0D32D",
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "1235BBC4B5454EC797253AD0E3E0D32D"
+    },
+    "6F9273AE96DE4FCBA1BEA8858A22545A": {
+      "id": "6F9273AE96DE4FCBA1BEA8858A22545A",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "5.2.2",
+      "statementNotation": "5.2.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand ethical and legal issues associated with the use\nof artificial intelligence, machine learning and robotics\n(accountability, safety, algorithmic bias, legal liability)",
+      "comments": [],
+      "ancestorIds": [
+        "1235BBC4B5454EC797253AD0E3E0D32D",
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "1235BBC4B5454EC797253AD0E3E0D32D"
+    },
+    "2186A3FA3E4943FBA20F9DB8D396BC8D": {
+      "id": "2186A3FA3E4943FBA20F9DB8D396BC8D",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "5.2.1",
+      "statementNotation": "5.2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand ethical and legal issues associated with the\ncollection and use of personal data (privacy, ownership,\nconsent, misuse, data protection)",
+      "comments": [],
+      "ancestorIds": [
+        "1235BBC4B5454EC797253AD0E3E0D32D",
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "1235BBC4B5454EC797253AD0E3E0D32D"
+    },
+    "1235BBC4B5454EC797253AD0E3E0D32D": {
+      "id": "1235BBC4B5454EC797253AD0E3E0D32D",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 1,
+      "listId": "5.2",
+      "statementNotation": "5.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Ethical and Legal",
+      "comments": [],
+      "ancestorIds": [
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "445908711F8745139F1ED6CB8A64E9E4"
+    },
+    "97A3DB01895449A49DEAD15A0A2E0D45": {
+      "id": "97A3DB01895449A49DEAD15A0A2E0D45",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "5.1.1",
+      "statementNotation": "5.1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand environmental issues associated with the use\nof digital devices (energy consumption, manufacture,\nreplacement cycle, disposal)",
+      "comments": [],
+      "ancestorIds": [
+        "1C497A058D1F4DCF96DB37228805DD38",
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "1C497A058D1F4DCF96DB37228805DD38"
+    },
+    "1C497A058D1F4DCF96DB37228805DD38": {
+      "id": "1C497A058D1F4DCF96DB37228805DD38",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "5.1",
+      "statementNotation": "5.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Environmental",
+      "comments": [],
+      "ancestorIds": [
+        "445908711F8745139F1ED6CB8A64E9E4"
+      ],
+      "parentId": "445908711F8745139F1ED6CB8A64E9E4"
+    },
+    "445908711F8745139F1ED6CB8A64E9E4": {
+      "id": "445908711F8745139F1ED6CB8A64E9E4",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "5 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Issues and Impact",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "97D863A4D4AA4A328F4A2CF766A06DDB": {
+      "id": "97D863A4D4AA4A328F4A2CF766A06DDB",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "4.2.1",
+      "statementNotation": "4.2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the importance of network security, ways of\nidentifying network vulnerabilities (penetration testing,\nethical hacking) and methods of protecting networks\n(access control, physical security, firewalls)",
+      "comments": [],
+      "ancestorIds": [
+        "BF2D2086C85A49EB97DED057DE774E28",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "BF2D2086C85A49EB97DED057DE774E28"
+    },
+    "BF2D2086C85A49EB97DED057DE774E28": {
+      "id": "BF2D2086C85A49EB97DED057DE774E28",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 1,
+      "listId": "4.2",
+      "statementNotation": "4.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Network Security",
+      "comments": [],
+      "ancestorIds": [
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "6E5AB53E6ABE479981CFEDF526608970"
+    },
+    "A7148FF4FAD84F76BC425835F7A509A3": {
+      "id": "A7148FF4FAD84F76BC425835F7A509A3",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "4.1.8",
+      "statementNotation": "4.1.8 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand characteristics of network topologies (bus, star,\nmesh)",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "E9562E750F1B46CC96AFF339BBB5E80F": {
+      "id": "E9562E750F1B46CC96AFF339BBB5E80F",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "4.1.7",
+      "statementNotation": "4.1.7 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how the 4-layer (application, transport,\ninternet, link) TCP/IP model handles data transmission\nover a network",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "C6CBE64C260043B1850DC0A933BF2A67": {
+      "id": "C6CBE64C260043B1850DC0A933BF2A67",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "4.1.6",
+      "statementNotation": "4.1.6 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the role of and need for network protocols\n(Ethernet, Wi-Fi, TCP/IP, HTTP, HTTPS, FTP) and email\nprotocols (POP3, SMTP, IMAP)",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "19393E416899403590A73EA33D5917DB": {
+      "id": "19393E416899403590A73EA33D5917DB",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "4.1.5",
+      "statementNotation": "4.1.5 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand that network speeds are measured in bits per\nsecond (kilobit, megabit, gigabit) and be able to construct\nexpressions involving file size, transmission rate and time",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "01C08CC8BC3D4344A6A663A32CBE7419": {
+      "id": "01C08CC8BC3D4344A6A663A32CBE7419",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "4.1.4",
+      "statementNotation": "4.1.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how the characteristics of wired and wireless\nconnectivity impact on performance (speed, range, latency,\nbandwidth)",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "F0798F2C10CC4C588F6054A79CB82D42": {
+      "id": "F0798F2C10CC4C588F6054A79CB82D42",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "4.1.3",
+      "statementNotation": "4.1.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how the internet is structured\n(IP addressing, routers)",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "41E6C197EA7941B3862F7082A2C31C0F": {
+      "id": "41E6C197EA7941B3862F7082A2C31C0F",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "4.1.2",
+      "statementNotation": "4.1.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand different types of networks (LAN, WAN)",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "EEBE07C219D94FFCB11CDF779BC70EE7": {
+      "id": "EEBE07C219D94FFCB11CDF779BC70EE7",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "4.1.1",
+      "statementNotation": "4.1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand why computers are connected in a network",
+      "comments": [],
+      "ancestorIds": [
+        "503AA56E3ED149FA84E4A2A4AD7CE97C",
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "503AA56E3ED149FA84E4A2A4AD7CE97C"
+    },
+    "503AA56E3ED149FA84E4A2A4AD7CE97C": {
+      "id": "503AA56E3ED149FA84E4A2A4AD7CE97C",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "4.1",
+      "statementNotation": "4.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks",
+      "comments": [],
+      "ancestorIds": [
+        "6E5AB53E6ABE479981CFEDF526608970"
+      ],
+      "parentId": "6E5AB53E6ABE479981CFEDF526608970"
+    },
+    "6E5AB53E6ABE479981CFEDF526608970": {
+      "id": "6E5AB53E6ABE479981CFEDF526608970",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "66F2644D713A420CA65CC43DD3E76596": {
+      "id": "66F2644D713A420CA65CC43DD3E76596",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "3.3.2",
+      "statementNotation": "3.3.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how an interpreter differs from a compiler in\nthe way it translates high-level code into machine code",
+      "comments": [],
+      "ancestorIds": [
+        "39A5D04BD9F448009AFDC075809EC175",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "39A5D04BD9F448009AFDC075809EC175"
+    },
+    "F6BFDF93ADBB4568A430934AA40E094A": {
+      "id": "F6BFDF93ADBB4568A430934AA40E094A",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "3.3.1",
+      "statementNotation": "3.3.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the characteristics and purposes of low-level\nand high-level programming languages",
+      "comments": [],
+      "ancestorIds": [
+        "39A5D04BD9F448009AFDC075809EC175",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "39A5D04BD9F448009AFDC075809EC175"
+    },
+    "39A5D04BD9F448009AFDC075809EC175": {
+      "id": "39A5D04BD9F448009AFDC075809EC175",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "3.3",
+      "statementNotation": "3.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming Languages",
+      "comments": [],
+      "ancestorIds": [
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "5238733C19A74E3C9464DF3E0440FECA"
+    },
+    "BF274A01F0D94905839CCDE46EBCC180": {
+      "id": "BF274A01F0D94905839CCDE46EBCC180",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "3.2.3",
+      "statementNotation": "3.2.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the importance of developing robust software\nand methods of identifying vulnerabilities (audit trails, code\nreviews)",
+      "comments": [],
+      "ancestorIds": [
+        "E9CF7AFA3F4D4559A76A3D20278DB57A",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "E9CF7AFA3F4D4559A76A3D20278DB57A"
+    },
+    "B0385A26FA464650A15EA1C609A08129": {
+      "id": "B0385A26FA464650A15EA1C609A08129",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "3.2.2",
+      "statementNotation": "3.2.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the purpose and functionality of utility software\n(file repair, backup, data compression, disk\ndefragmentation, anti-malware)",
+      "comments": [],
+      "ancestorIds": [
+        "E9CF7AFA3F4D4559A76A3D20278DB57A",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "E9CF7AFA3F4D4559A76A3D20278DB57A"
+    },
+    "F08762FF01B34F5ABE9B7D2EBCD64082": {
+      "id": "F08762FF01B34F5ABE9B7D2EBCD64082",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "3.2.1",
+      "statementNotation": "3.2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the purpose and functionality of an operating\nsystem (file management, process management,\nperipheral management, user management)",
+      "comments": [],
+      "ancestorIds": [
+        "E9CF7AFA3F4D4559A76A3D20278DB57A",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "E9CF7AFA3F4D4559A76A3D20278DB57A"
+    },
+    "E9CF7AFA3F4D4559A76A3D20278DB57A": {
+      "id": "E9CF7AFA3F4D4559A76A3D20278DB57A",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "3.2",
+      "statementNotation": "3.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software",
+      "comments": [],
+      "ancestorIds": [
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "5238733C19A74E3C9464DF3E0440FECA"
+    },
+    "7B03958D723643B3BEA89724760E08F3": {
+      "id": "7B03958D723643B3BEA89724760E08F3",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "3.1.3",
+      "statementNotation": "3.1.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the concept of an embedded system and what\nembedded systems are used for ",
+      "comments": [],
+      "ancestorIds": [
+        "0F42FF78E411429C8A9117E2572F2404",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "0F42FF78E411429C8A9117E2572F2404"
+    },
+    "F21A6A237C2F4CE1A6C06A2894689B65": {
+      "id": "F21A6A237C2F4CE1A6C06A2894689B65",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "3.1.2",
+      "statementNotation": "3.1.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the role of secondary storage and the ways in\nwhich data is stored on devices (magnetic, optical, solid\nstate)",
+      "comments": [],
+      "ancestorIds": [
+        "0F42FF78E411429C8A9117E2572F2404",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "0F42FF78E411429C8A9117E2572F2404"
+    },
+    "3CB3E77B23174CF499A299B84D830027": {
+      "id": "3CB3E77B23174CF499A299B84D830027",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "3.1.1",
+      "statementNotation": "3.1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the von Neumann stored program concept and\nthe role of main memory (RAM), CPU (control unit,\narithmetic logic unit, registers), clock, address bus, data\nbus, control bus in the fetch-decode-execute cycle",
+      "comments": [],
+      "ancestorIds": [
+        "0F42FF78E411429C8A9117E2572F2404",
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "0F42FF78E411429C8A9117E2572F2404"
+    },
+    "0F42FF78E411429C8A9117E2572F2404": {
+      "id": "0F42FF78E411429C8A9117E2572F2404",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "3.1",
+      "statementNotation": "3.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware",
+      "comments": [],
+      "ancestorIds": [
+        "5238733C19A74E3C9464DF3E0440FECA"
+      ],
+      "parentId": "5238733C19A74E3C9464DF3E0440FECA"
+    },
+    "5238733C19A74E3C9464DF3E0440FECA": {
+      "id": "5238733C19A74E3C9464DF3E0440FECA",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computers",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CF65DE2C76A945FEBDBD36F9294B4646": {
+      "id": "CF65DE2C76A945FEBDBD36F9294B4646",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "2.3.2",
+      "statementNotation": "2.3.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the need for data compression and methods of\ncompressing data (lossless, lossy) ",
+      "comments": [],
+      "ancestorIds": [
+        "C4CD007699A748EDB46D49E6B976A1C1",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "C4CD007699A748EDB46D49E6B976A1C1"
+    },
+    "0A8F49D9BFCB464687C75760BD0456C2": {
+      "id": "0A8F49D9BFCB464687C75760BD0456C2",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "2.3.1",
+      "statementNotation": "2.3.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand that data storage is measured in binary\nmultiples (bit, nibble, byte, kibibyte, mebibyte, gibibyte,\ntebibyte) and be able to construct expressions to calculate\nfile sizes and data capacity requirements",
+      "comments": [],
+      "ancestorIds": [
+        "C4CD007699A748EDB46D49E6B976A1C1",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "C4CD007699A748EDB46D49E6B976A1C1"
+    },
+    "C4CD007699A748EDB46D49E6B976A1C1": {
+      "id": "C4CD007699A748EDB46D49E6B976A1C1",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "2.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Storage and Compression",
+      "comments": [],
+      "ancestorIds": [
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D92A00DD91CB4198BDCCE44077D9D921"
+    },
+    "2A978F313434448CAF51E74B5E1FD994": {
+      "id": "2A978F313434448CAF51E74B5E1FD994",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "2.2.4",
+      "statementNotation": "2.2.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the limitations of binary representation of data\nwhen constrained by the number of available bits",
+      "comments": [],
+      "ancestorIds": [
+        "D1E1EA9569AF4EC88B874F6BFCCAC7E9",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D1E1EA9569AF4EC88B874F6BFCCAC7E9"
+    },
+    "6875DA78958B43CC9552B8573F7E654B": {
+      "id": "6875DA78958B43CC9552B8573F7E654B",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "2.2.3",
+      "statementNotation": "2.2.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how analogue sound is represented in binary\n(amplitude, sample rate, bit depth, sample interval)",
+      "comments": [],
+      "ancestorIds": [
+        "D1E1EA9569AF4EC88B874F6BFCCAC7E9",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D1E1EA9569AF4EC88B874F6BFCCAC7E9"
+    },
+    "90E11F9AD174492C8C2488692002D5A9": {
+      "id": "90E11F9AD174492C8C2488692002D5A9",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "2.2.2",
+      "statementNotation": "2.2.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how bitmap images are represented in binary\n(pixels, resolution, colour depth)",
+      "comments": [],
+      "ancestorIds": [
+        "D1E1EA9569AF4EC88B874F6BFCCAC7E9",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D1E1EA9569AF4EC88B874F6BFCCAC7E9"
+    },
+    "C0FFEE69EE9D471BB4C74F69B5E69C76": {
+      "id": "C0FFEE69EE9D471BB4C74F69B5E69C76",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "2.2.1",
+      "statementNotation": "2.2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how computers encode characters using 7-bit\nASCII ",
+      "comments": [],
+      "ancestorIds": [
+        "D1E1EA9569AF4EC88B874F6BFCCAC7E9",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D1E1EA9569AF4EC88B874F6BFCCAC7E9"
+    },
+    "D1E1EA9569AF4EC88B874F6BFCCAC7E9": {
+      "id": "D1E1EA9569AF4EC88B874F6BFCCAC7E9",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "2.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Representation",
+      "comments": [],
+      "ancestorIds": [
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D92A00DD91CB4198BDCCE44077D9D921"
+    },
+    "DB1F302DFA9D40E2B83EDD17C93EC6EF": {
+      "id": "DB1F302DFA9D40E2B83EDD17C93EC6EF",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "2.1.6",
+      "statementNotation": "2.1.6 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand why hexadecimal notation is used and be able to\nconvert between hexadecimal and binary",
+      "comments": [],
+      "ancestorIds": [
+        "56154740B2514394A6A2DFFAF3527BCE",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "56154740B2514394A6A2DFFAF3527BCE"
+    },
+    "8907DE8838CD49278C9DA7CA78633304": {
+      "id": "8907DE8838CD49278C9DA7CA78633304",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "2.1.5",
+      "statementNotation": "2.1.5 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the concept of overflow in relation to the\nnumber of bits available to store a value",
+      "comments": [],
+      "ancestorIds": [
+        "56154740B2514394A6A2DFFAF3527BCE",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "56154740B2514394A6A2DFFAF3527BCE"
+    },
+    "F0E3B2B7C1DF4F93A1C1F83C5EFF33B7": {
+      "id": "F0E3B2B7C1DF4F93A1C1F83C5EFF33B7",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "2.1.4",
+      "statementNotation": "2.1.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to add together two positive binary patterns and\napply logical and arithmetic binary shifts",
+      "comments": [],
+      "ancestorIds": [
+        "56154740B2514394A6A2DFFAF3527BCE",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "56154740B2514394A6A2DFFAF3527BCE"
+    },
+    "4ADDE63801644DC1962324E92619CF4F": {
+      "id": "4ADDE63801644DC1962324E92619CF4F",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "2.1.3",
+      "statementNotation": "2.1.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to convert between denary and 8-bit binary\nnumbers (0 to 255, -128 to +127)",
+      "comments": [],
+      "ancestorIds": [
+        "56154740B2514394A6A2DFFAF3527BCE",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "56154740B2514394A6A2DFFAF3527BCE"
+    },
+    "FDA5B3DA062A4CAAB255CBAE30DF283C": {
+      "id": "FDA5B3DA062A4CAAB255CBAE30DF283C",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "2.1.2",
+      "statementNotation": "2.1.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how computers represent and manipulate\nunsigned integers and two’s complement signed integers",
+      "comments": [],
+      "ancestorIds": [
+        "56154740B2514394A6A2DFFAF3527BCE",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "56154740B2514394A6A2DFFAF3527BCE"
+    },
+    "97169E52D74E47E092C4B52016C04937": {
+      "id": "97169E52D74E47E092C4B52016C04937",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "2.1.1",
+      "statementNotation": "2.1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand that computers use binary to represent data\n(numbers, text, sound, graphics) and program instructions\nand be able to determine the maximum number of states\nthat can be represented by a binary pattern of a given\nlength",
+      "comments": [],
+      "ancestorIds": [
+        "56154740B2514394A6A2DFFAF3527BCE",
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "56154740B2514394A6A2DFFAF3527BCE"
+    },
+    "56154740B2514394A6A2DFFAF3527BCE": {
+      "id": "56154740B2514394A6A2DFFAF3527BCE",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Binary",
+      "comments": [],
+      "ancestorIds": [
+        "D92A00DD91CB4198BDCCE44077D9D921"
+      ],
+      "parentId": "D92A00DD91CB4198BDCCE44077D9D921"
+    },
+    "D92A00DD91CB4198BDCCE44077D9D921": {
+      "id": "D92A00DD91CB4198BDCCE44077D9D921",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DDB94170D0E049FB9275D1D580E48E03": {
+      "id": "DDB94170D0E049FB9275D1D580E48E03",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1.3.1",
+      "statementNotation": "1.3.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to apply logical operators (AND, OR, NOT) in truth\ntables with up to three inputs to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "CF579EE9D49F41FCBF6E6BE3F3BE579E",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "CF579EE9D49F41FCBF6E6BE3F3BE579E"
+    },
+    "CF579EE9D49F41FCBF6E6BE3F3BE579E": {
+      "id": "CF579EE9D49F41FCBF6E6BE3F3BE579E",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "1.3",
+      "statementNotation": "1.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Truth Tables",
+      "comments": [],
+      "ancestorIds": [
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "3A08371619774BCE8BD2A28978AC0380"
+    },
+    "CD3A35B3F6BF4885A91C81AC52097CCC": {
+      "id": "CD3A35B3F6BF4885A91C81AC52097CCC",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "1.2.7",
+      "statementNotation": "1.2.7 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to use logical reasoning and test data to evaluate\nan algorithm’s fitness for purpose and efficiency (number of\ncompares, number of passes through a loop, use of\nmemory)",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "FB2A26D7B34A42FFA4A099E040FA7A9D": {
+      "id": "FB2A26D7B34A42FFA4A099E040FA7A9D",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1.2.6",
+      "statementNotation": "1.2.6 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand how standard algorithms (bubble sort, merge\nsort, linear search, binary search) work",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "8A5D10E9BEF94DCE8733FA6A47DA9368": {
+      "id": "8A5D10E9BEF94DCE8733FA6A47DA9368",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1.2.5",
+      "statementNotation": "1.2.5 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand types of errors that can occur in programs\n(syntax, logic, runtime) and be able to identify and correct\nlogic errors in algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "6BE044AC24F541C39EB24CDE931E1848": {
+      "id": "6BE044AC24F541C39EB24CDE931E1848",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "1.2.4",
+      "statementNotation": "1.2.4 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to determine the correct output of an algorithm for\na given set of data and use a trace table to determine what\nvalue a variable will hold at a given point in an algorithm",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "22D60F231067414990C684B93013D5D2": {
+      "id": "22D60F231067414990C684B93013D5D2",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1.2.3",
+      "statementNotation": "1.2.3 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the need for and be able to follow and write\nalgorithms that use arithmetic operators (addition, subtraction,\ndivision, multiplication, modulus, integer division,\nexponentiation), relational operators (equal to, less than,\ngreater than, not equal to, less than or equal to, greater than\nor equal to) and logical operators (AND, OR, NOT) ",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "072DF48D3CF64EF5BA0684D5A87DB134": {
+      "id": "072DF48D3CF64EF5BA0684D5A87DB134",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "1.2.2 ",
+      "statementNotation": "1.2.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the need for and be able to follow and write\nalgorithms that use variables and constants and one- and\ntwo-dimensional data structures (strings, records, arrays)",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "5629F6F9FAFA456289A2DD2923F1776A": {
+      "id": "5629F6F9FAFA456289A2DD2923F1776A",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "1.2.1 ",
+      "statementNotation": "1.2.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "be able to follow and write algorithms (flowcharts,\npseudocode, program code) that use sequence, selection,\nrepetition (count-controlled, condition-controlled) and\niteration (over every item in a data structure), and input,\nprocessing and output to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "35639AC842474C1191A170156714B1A5",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "35639AC842474C1191A170156714B1A5"
+    },
+    "35639AC842474C1191A170156714B1A5": {
+      "id": "35639AC842474C1191A170156714B1A5",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "1.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "3A08371619774BCE8BD2A28978AC0380"
+    },
+    "A87EC1B037AD4D54B35A86FA832C321F": {
+      "id": "A87EC1B037AD4D54B35A86FA832C321F",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1.1.2 ",
+      "statementNotation": "1.1.2 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the benefits of using subprograms",
+      "comments": [],
+      "ancestorIds": [
+        "29BCD2FFE2FC4F769981BB5E40ECD03E",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "29BCD2FFE2FC4F769981BB5E40ECD03E"
+    },
+    "1365F7F004EF47619F8B6E0E92952642": {
+      "id": "1365F7F004EF47619F8B6E0E92952642",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1.1.1 ",
+      "statementNotation": "1.1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "understand the benefit of using decomposition and\nabstraction to model aspects of the re",
+      "comments": [],
+      "ancestorIds": [
+        "29BCD2FFE2FC4F769981BB5E40ECD03E",
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "29BCD2FFE2FC4F769981BB5E40ECD03E"
+    },
+    "29BCD2FFE2FC4F769981BB5E40ECD03E": {
+      "id": "29BCD2FFE2FC4F769981BB5E40ECD03E",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "1.1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decomposition and Abstraction",
+      "comments": [],
+      "ancestorIds": [
+        "3A08371619774BCE8BD2A28978AC0380"
+      ],
+      "parentId": "3A08371619774BCE8BD2A28978AC0380"
+    },
+    "3A08371619774BCE8BD2A28978AC0380": {
+      "id": "3A08371619774BCE8BD2A28978AC0380",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "1 (Edexcel 2020)",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Thinking",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

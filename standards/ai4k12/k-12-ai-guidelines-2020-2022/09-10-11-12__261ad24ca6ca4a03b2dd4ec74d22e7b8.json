@@ -1,0 +1,861 @@
+{
+  "id": "261AD24CA6CA4A03B2DD4EC74D22E7B8",
+  "title": "Big Idea #3 - Learning: Grades 9-12",
+  "subject": "K-12 AI Guidelines (2020-2022)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Big Idea #3: Learning",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recUEesZDav1WXn5C/fldIxltCXshIi374r/attdYS2XKAYRrLghl?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "75A424F5E3EC45F78DDE9D9F7E32A703",
+    "title": "AI4K12"
+  },
+  "standards": {
+    "202B5B49C1DE4D3BAA715D63C96F34E2": {
+      "id": "202B5B49C1DE4D3BAA715D63C96F34E2",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Data exploration to help students uncover\nimbalances or correlations can be done using histograms\nin Excel, or using any number of data visualization tools\nsuch as Pandas (for Python). ",
+      "comments": [],
+      "ancestorIds": [
+        "ED68ED017AAF4FE081C93CC7DFAC7E0B",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "ED68ED017AAF4FE081C93CC7DFAC7E0B"
+    },
+    "E0E494F834454BF7AC133870815B44ED": {
+      "id": "E0E494F834454BF7AC133870815B44ED",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Machine learning algorithms will take advantage of\nany imbalances or correlations in the training set that\nhelp lower the error rate. If the dataset is not\nrepresentative, those correlations can be misleading ",
+      "comments": [],
+      "ancestorIds": [
+        "ED68ED017AAF4FE081C93CC7DFAC7E0B",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "ED68ED017AAF4FE081C93CC7DFAC7E0B"
+    },
+    "B8BF9B5AD2F145069CEB14C10C492AED": {
+      "id": "B8BF9B5AD2F145069CEB14C10C492AED",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-C-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Investigate imbalances in training data in terms of\ngender, age, ethnicity, or other demographic variables\nthat could result in a biased model, by using a data\nvisiualization tool. ",
+      "comments": [],
+      "ancestorIds": [
+        "ED68ED017AAF4FE081C93CC7DFAC7E0B",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "ED68ED017AAF4FE081C93CC7DFAC7E0B"
+    },
+    "ED68ED017AAF4FE081C93CC7DFAC7E0B": {
+      "id": "ED68ED017AAF4FE081C93CC7DFAC7E0B",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Bias)",
+      "comments": [],
+      "ancestorIds": [
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9E3BB81E70214F75811E5950D93C9254"
+    },
+    "1635D23A0AE1453A914CAF0C73F8EF89": {
+      "id": "1635D23A0AE1453A914CAF0C73F8EF89",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Activity: An activity can be done with common machine\nlearning datasets found in repositories such as Kaggle,\nor publicly available demographic, economic, or\nenvironmental datasets.",
+      "comments": [],
+      "ancestorIds": [
+        "9F8CCC81DD4D4D178DC5820B44CBF1CC",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9F8CCC81DD4D4D178DC5820B44CBF1CC"
+    },
+    "3A8C46B750B24A2E96790E9B27A42F57": {
+      "id": "3A8C46B750B24A2E96790E9B27A42F57",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Datasets for real-world problems may\ninvolve many features, and the defining characteristics of\na class may involve compex relationships among these\nfeatures. In order to narrow down the class to be learned\nand distinguish it from millions of other possible classes,\nthe learning algorithm must see many examples. ",
+      "comments": [],
+      "ancestorIds": [
+        "9F8CCC81DD4D4D178DC5820B44CBF1CC",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9F8CCC81DD4D4D178DC5820B44CBF1CC"
+    },
+    "537963503C844303931D274E6DEE0A37": {
+      "id": "537963503C844303931D274E6DEE0A37",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: A large dataset is typically required to capture the\ndiversity of a complex domain and narrow down the\nrange of possible reasoner behaviors. There are multiple\nways to construct, clean, and verify a dataset. There can\nbe large costs associated with creating the dataset and\nprocessing the data. Labeling training data is laborintensive and may require specialized expertise (e.g.,\nspotting disease in x-rays.) Bias can be introduced\nduring each step of dataset creation. ",
+      "comments": [],
+      "ancestorIds": [
+        "9F8CCC81DD4D4D178DC5820B44CBF1CC",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9F8CCC81DD4D4D178DC5820B44CBF1CC"
+    },
+    "7335342B999A44548CCDE9276C2ABA62": {
+      "id": "7335342B999A44548CCDE9276C2ABA62",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-C-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Evaluate a dataset used to train a real AI system by\nconsidering the size of the dataset, the way that the data\nwere acquired and labeled, the storage required, and the\nestimated time to produce the dataset.",
+      "comments": [],
+      "ancestorIds": [
+        "9F8CCC81DD4D4D178DC5820B44CBF1CC",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9F8CCC81DD4D4D178DC5820B44CBF1CC"
+    },
+    "9F8CCC81DD4D4D178DC5820B44CBF1CC": {
+      "id": "9F8CCC81DD4D4D178DC5820B44CBF1CC",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Large datasets)",
+      "comments": [],
+      "ancestorIds": [
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9E3BB81E70214F75811E5950D93C9254"
+    },
+    "C84DB649BAAD4AAA954752D384FA4C07": {
+      "id": "C84DB649BAAD4AAA954752D384FA4C07",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: age can be encoded in months (for pediatric\ndatasets), years (for adults), or age ranges (infant, child,\nteenager, adult, senior, extreme elderly). Encoding a\ncontinuous variable using discrete values can guide the\nlearning algorithm to make distinctions that conform to\nhumans' understanding of the domain.",
+      "comments": [],
+      "ancestorIds": [
+        "A9F947B4AC86454AA8DDD3EE895C5756",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "A9F947B4AC86454AA8DDD3EE895C5756"
+    },
+    "C82F65AC26C9409581F0A6898FC0EA4B": {
+      "id": "C82F65AC26C9409581F0A6898FC0EA4B",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Humans decide which features to include in a\ndataset and how to encode them. This can have\nconsequences for machine learning algorithms trained\non these datasets. ",
+      "comments": [],
+      "ancestorIds": [
+        "A9F947B4AC86454AA8DDD3EE895C5756",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "A9F947B4AC86454AA8DDD3EE895C5756"
+    },
+    "8967B0B6D0D34D79B487D98A4324972C": {
+      "id": "8967B0B6D0D34D79B487D98A4324972C",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-C-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Compare two real world datasets in terms of the\nfeatures they comprise and how those features are\nencoded.",
+      "comments": [],
+      "ancestorIds": [
+        "A9F947B4AC86454AA8DDD3EE895C5756",
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "A9F947B4AC86454AA8DDD3EE895C5756"
+    },
+    "A9F947B4AC86454AA8DDD3EE895C5756": {
+      "id": "A9F947B4AC86454AA8DDD3EE895C5756",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Feature sets)",
+      "comments": [],
+      "ancestorIds": [
+        "9E3BB81E70214F75811E5950D93C9254"
+      ],
+      "parentId": "9E3BB81E70214F75811E5950D93C9254"
+    },
+    "9E3BB81E70214F75811E5950D93C9254": {
+      "id": "9E3BB81E70214F75811E5950D93C9254",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Datasets",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "581C83AE9C5644A2B47C8549057A057D": {
+      "id": "581C83AE9C5644A2B47C8549057A057D",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Activity: An online demo such as TensorFlow\nPlayground can be used to visualize the changes in\nweights during learning.",
+      "comments": [],
+      "ancestorIds": [
+        "1A5B87576E8B4C2AA2859294070DDCD5",
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "1A5B87576E8B4C2AA2859294070DDCD5"
+    },
+    "D248688AA04748AAB33D5FA1A844E6DC": {
+      "id": "D248688AA04748AAB33D5FA1A844E6DC",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Students are not expected to know the\ndetails of the backpropagation learning algorithm, only\nthat error is propagated backward from later layers to\nearlier ones. ",
+      "comments": [],
+      "ancestorIds": [
+        "1A5B87576E8B4C2AA2859294070DDCD5",
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "1A5B87576E8B4C2AA2859294070DDCD5"
+    },
+    "642E9357E50745B18A869264B3AD8A71": {
+      "id": "642E9357E50745B18A869264B3AD8A71",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: A neuron's weights start out as small random values\nand evolve to a more precise pattern through learning.\nThe changes in the neuron's weights are computed by a\nlearning rule driven by a back-propagated error signal.\nThe neuron's weight pattern determines the features that\nthe neuron detects. ",
+      "comments": [],
+      "ancestorIds": [
+        "1A5B87576E8B4C2AA2859294070DDCD5",
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "1A5B87576E8B4C2AA2859294070DDCD5"
+    },
+    "231165520CF548E7A3772A0E31F0A38E": {
+      "id": "231165520CF548E7A3772A0E31F0A38E",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-B-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Train a multilayer neural network using the\nbackpropagation learning algorithm and describe how\nthe weights of the neurons and the outputs of the hidden\nunits change as a result of learning.",
+      "comments": [],
+      "ancestorIds": [
+        "1A5B87576E8B4C2AA2859294070DDCD5",
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "1A5B87576E8B4C2AA2859294070DDCD5"
+    },
+    "1A5B87576E8B4C2AA2859294070DDCD5": {
+      "id": "1A5B87576E8B4C2AA2859294070DDCD5",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Weight adjustment)",
+      "comments": [],
+      "ancestorIds": [
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "16B1705CAA3D480C9C53CFC607D82F7D"
+    },
+    "5DD9782A5F7C484C995781D92229C3F1": {
+      "id": "5DD9782A5F7C484C995781D92229C3F1",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Feed-forward networks can learn arbitrary functions\nand are used for both classification an regression. 2D\nconvolutional networks learn small \"kernels\" that are\nconvolved with the input, and max-pooling layers to\nreduce image resolution; they are used for image\nanalysis. Recurrent networks have feedback connections\nand are used for language processing. Generative\nadversarial networks have generator and discriminator\nmodules and are used to create deepfakes. ",
+      "comments": [],
+      "ancestorIds": [
+        "30BE2933401844C7A5AB9671596B5732",
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "30BE2933401844C7A5AB9671596B5732"
+    },
+    "50C30BBB82A14CCD9B641E0284A2230F": {
+      "id": "50C30BBB82A14CCD9B641E0284A2230F",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-B-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe the following neural network architectures\nand their uses: feed-forward network, 2D convolutional\nnetwork, recurrent network, generative adversarial\nnetwork. ",
+      "comments": [],
+      "ancestorIds": [
+        "30BE2933401844C7A5AB9671596B5732",
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "30BE2933401844C7A5AB9671596B5732"
+    },
+    "30BE2933401844C7A5AB9671596B5732": {
+      "id": "30BE2933401844C7A5AB9671596B5732",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Structure of a neural\nnetwork) ",
+      "comments": [],
+      "ancestorIds": [
+        "16B1705CAA3D480C9C53CFC607D82F7D"
+      ],
+      "parentId": "16B1705CAA3D480C9C53CFC607D82F7D"
+    },
+    "16B1705CAA3D480C9C53CFC607D82F7D": {
+      "id": "16B1705CAA3D480C9C53CFC607D82F7D",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Neural Networks",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F0FDF90F29D445D4A3341FF352ABFA74": {
+      "id": "F0FDF90F29D445D4A3341FF352ABFA74",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reinforcement learning can be slow because learning\nmust proceed by trial and error; there is no teacher\ntelling the algorithm the best action at each step. But\nhaving a computer learn from its own experience has the\nadvantage that it can discover solutions to problems\nwhere it's not known in advance which is the best action.",
+      "comments": [],
+      "ancestorIds": [
+        "911663EC35684A1C8D0516EB079E46B1",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "911663EC35684A1C8D0516EB079E46B1"
+    },
+    "BB09E5FC8C634696B0ECA39BC65FD017": {
+      "id": "BB09E5FC8C634696B0ECA39BC65FD017",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unsupervised learning algorithms. which use unlabeled\ndata, try to group similar data points together. They are\nused to discover classes in the data. Reinforcement\nlearning algorithms are used for sequential decision\nproblems. They learn policies for choosing actions that\nmaximize the reinforcement the model will receive.  ",
+      "comments": [],
+      "ancestorIds": [
+        "911663EC35684A1C8D0516EB079E46B1",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "911663EC35684A1C8D0516EB079E46B1"
+    },
+    "9CD0C1AD15104A71825F36565250BB91": {
+      "id": "9CD0C1AD15104A71825F36565250BB91",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Both supervised and unsupervised learning\nalgorithms find patterns in data. Supervised algorithms\nuse labeled training data and adjust the reasoning\nmodel's parameters to try to produce the correct labels.\nThey are used for classification or prediction problems. ",
+      "comments": [],
+      "ancestorIds": [
+        "911663EC35684A1C8D0516EB079E46B1",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "911663EC35684A1C8D0516EB079E46B1"
+    },
+    "DCEEEFB4DC5245359D7D6ADE9F8821EB": {
+      "id": "DCEEEFB4DC5245359D7D6ADE9F8821EB",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Major types of learning algorithms and the kinds of\nreasoning problems they are used to solve are:\nsupervised learning, used for classification and\nprediction; unsupervised learning, used for clustering;\nand reinforcement learning, used for sequential decision\nmaking. ",
+      "comments": [],
+      "ancestorIds": [
+        "911663EC35684A1C8D0516EB079E46B1",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "911663EC35684A1C8D0516EB079E46B1"
+    },
+    "3BF69502102B437684D1996A23286C75": {
+      "id": "3BF69502102B437684D1996A23286C75",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 2,
+      "listId": "vi",
+      "statementNotation": "3-A-vi",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Select the appropriate type of machine learning\nalgorithm (supervised, unsupervised, or reinforcement\nlearning) to solve a reasoning problem.",
+      "comments": [],
+      "ancestorIds": [
+        "911663EC35684A1C8D0516EB079E46B1",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "911663EC35684A1C8D0516EB079E46B1"
+    },
+    "911663EC35684A1C8D0516EB079E46B1": {
+      "id": "911663EC35684A1C8D0516EB079E46B1",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Learning from\nexperience)",
+      "comments": [],
+      "ancestorIds": [
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "64BE24DD60864E05A33F99EC97E149BF"
+    },
+    "4A74373BA3C54301B18AD0A559D2656C": {
+      "id": "4A74373BA3C54301B18AD0A559D2656C",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "3-A-v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Decision tree learners build decision trees by adding\nnodes one at a time. Neural net learning algorithms\nadjust weights. Regression algorithms adjust equation\nparameters. Reinforcement learners update value\npredictions or policies. ",
+      "comments": [],
+      "ancestorIds": [
+        "46A3E4E97E5448EB982080457AA319DD",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "46A3E4E97E5448EB982080457AA319DD"
+    },
+    "7CEBF6B4FE5146E78BF24A0239F13F7E": {
+      "id": "7CEBF6B4FE5146E78BF24A0239F13F7E",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "v",
+      "statementNotation": "3-A-v",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Describe how various types of machine learning\nalgorithms learn by adjusting their internal\nrepresentations. ",
+      "comments": [],
+      "ancestorIds": [
+        "46A3E4E97E5448EB982080457AA319DD",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "46A3E4E97E5448EB982080457AA319DD"
+    },
+    "46A3E4E97E5448EB982080457AA319DD": {
+      "id": "46A3E4E97E5448EB982080457AA319DD",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Adjusting internal\nrepresentations)",
+      "comments": [],
+      "ancestorIds": [
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "64BE24DD60864E05A33F99EC97E149BF"
+    },
+    "CFF841DBC63F42299A32EC9AB0E73EE3": {
+      "id": "CFF841DBC63F42299A32EC9AB0E73EE3",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "3-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: The cross-validation set is used to avoid\noverfitting. The test set consists of examples that were\nnot used during training or for cross-validation, so it\nprovides an unbiased prediction of the reasoner's\nperformance on new inputs.",
+      "comments": [],
+      "ancestorIds": [
+        "BDD3B809669847908963E44D23E407D0",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "BDD3B809669847908963E44D23E407D0"
+    },
+    "3B6D61991D634B4EAE27C32C748466F1": {
+      "id": "3B6D61991D634B4EAE27C32C748466F1",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "3-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: The steps are: deciding what problem you want to\nsolve, figuring out where you will obtain the training data,\nchoosing a feature set, figuring out how to label the data,\nrunning the learning algorithm, use of a cross-validation\nset to decide when training should stop, and using a test\nset to measure performance. ",
+      "comments": [],
+      "ancestorIds": [
+        "BDD3B809669847908963E44D23E407D0",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "BDD3B809669847908963E44D23E407D0"
+    },
+    "90838D225B9A4C53817B0603D7E3F260": {
+      "id": "90838D225B9A4C53817B0603D7E3F260",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "iv",
+      "statementNotation": "3-A-iv",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Illustrate what happens during each of the steps\nrequired when using machine learning to construct a\nclassifier or predictor.",
+      "comments": [],
+      "ancestorIds": [
+        "BDD3B809669847908963E44D23E407D0",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "BDD3B809669847908963E44D23E407D0"
+    },
+    "BDD3B809669847908963E44D23E407D0": {
+      "id": "BDD3B809669847908963E44D23E407D0",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Constructing vs. using a\nreasoner) ",
+      "comments": [],
+      "ancestorIds": [
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "64BE24DD60864E05A33F99EC97E149BF"
+    },
+    "AD042C81BB9042A88F2C6BBDA6BC3CDA": {
+      "id": "AD042C81BB9042A88F2C6BBDA6BC3CDA",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Both supervised and unsupervised learning\nalgorithms find patterns in data. In supervised learning,\nthe \"pattern\" is the relationship between feature values\nand class labels. In unsupervised learning the pattern is\nthe way that data is grouped into clusters. Real world\ndata sets are now widely available on the web. In earlier\ngrade bands students might test their trained models on\na few new data points, but in this grade band students\nare asked to quantiatively measure the performance of a\ntrained model on a nontrivial test set.",
+      "comments": [],
+      "ancestorIds": [
+        "06664DF32E2B4F8DB0FBE8E862DDF597",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "06664DF32E2B4F8DB0FBE8E862DDF597"
+    },
+    "B676842C399E4A5AA9D8272981B81D25": {
+      "id": "B676842C399E4A5AA9D8272981B81D25",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: In supervised learning the model is trained on a\ntraining set to produce the correct labels for labeled data.\nWe evaluate the results by measuring the percent of\nitems in a test set that are labeled correctly. In\nunsupervised learning, the model is trained to assign\neach input to a cluster of similar inputs. The clusters are\ndetermined by the learning algorithm since there are no\nlabels attached to the training data. We evaluate the\nresults by examining the clusters to see if they capture\nuseful distinctions in the dataset. ",
+      "comments": [],
+      "ancestorIds": [
+        "06664DF32E2B4F8DB0FBE8E862DDF597",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "06664DF32E2B4F8DB0FBE8E862DDF597"
+    },
+    "7A537C8B1BC043C6A09CB57BDDC7A119": {
+      "id": "7A537C8B1BC043C6A09CB57BDDC7A119",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "iii",
+      "statementNotation": "3-A-iii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Use either a supervised or unsupervised learning\nalgorithm to train a model on real world data, then\nevaluate the results. ",
+      "comments": [],
+      "ancestorIds": [
+        "06664DF32E2B4F8DB0FBE8E862DDF597",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "06664DF32E2B4F8DB0FBE8E862DDF597"
+    },
+    "06664DF32E2B4F8DB0FBE8E862DDF597": {
+      "id": "06664DF32E2B4F8DB0FBE8E862DDF597",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Training a model)",
+      "comments": [],
+      "ancestorIds": [
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "64BE24DD60864E05A33F99EC97E149BF"
+    },
+    "B7876624573643B2B09B0E4D27E40B08": {
+      "id": "B7876624573643B2B09B0E4D27E40B08",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Linear regression can be done with a ruler by eyeballing\nthe distance between the line and the points. Students\ncan model polynomial or logistic regression by giving\nthem a graphical display with sliders to control the\nparameter values. They can manually adjust the sliders\nto reach what they perceive as a best fit to the data.\nMore advanced students can be shown how quality of fit\ncan be measured mathematically using mean squared\nerror. For classification problems the Y value is either 1\nfor \"in class\" or 0 for \"not in class\" and the decision\nboundary is the line or surface y=0.5.",
+      "comments": [],
+      "ancestorIds": [
+        "B38D8B386BDF4D3399DE90328B6A784C",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "B38D8B386BDF4D3399DE90328B6A784C"
+    },
+    "AE52534E5FA14C9A96AC8B6407326DC4": {
+      "id": "AE52534E5FA14C9A96AC8B6407326DC4",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: In regression, we pick a mathematical model\nsuch as a linear equation y=mx+b and then adjust its\nparameters to fit a set of data points as best we can. The\nmodel can then be used to predict a y value for any x\nvalue. ",
+      "comments": [],
+      "ancestorIds": [
+        "B38D8B386BDF4D3399DE90328B6A784C",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "B38D8B386BDF4D3399DE90328B6A784C"
+    },
+    "4649F5226BC24A5D80C40A86D39CC9DC": {
+      "id": "4649F5226BC24A5D80C40A86D39CC9DC",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Supervised learning adjusts the parameters of a\nmathematical model (selected in advance by a human)\nto generate correct classifications or predictions. This\nmodel could be a simple linear equation, a high-degree\npolynomial, or an even more complex nonlinear equation\nsuch as a deep neural network. The internal\nrepresentations that encode the relationship between\ninputs and outputs express the \"patterns\" found in the\ndata. ",
+      "comments": [],
+      "ancestorIds": [
+        "B38D8B386BDF4D3399DE90328B6A784C",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "B38D8B386BDF4D3399DE90328B6A784C"
+    },
+    "C038AD8F9F474C9F9CE94DFB86614DDE": {
+      "id": "C038AD8F9F474C9F9CE94DFB86614DDE",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "ii",
+      "statementNotation": "3-A-ii",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Model how machine learning constructs a reasoner\nfor classifcation or prediction by adjusting the reasoner's\nparameters (its internal representations).",
+      "comments": [],
+      "ancestorIds": [
+        "B38D8B386BDF4D3399DE90328B6A784C",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "B38D8B386BDF4D3399DE90328B6A784C"
+    },
+    "B38D8B386BDF4D3399DE90328B6A784C": {
+      "id": "B38D8B386BDF4D3399DE90328B6A784C",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Finding patterns in\ndata)",
+      "comments": [],
+      "ancestorIds": [
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "64BE24DD60864E05A33F99EC97E149BF"
+    },
+    "7A268582A01640319489850CEDE2227C": {
+      "id": "7A268582A01640319489850CEDE2227C",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unpacked: Supervised learning is like being corrected\nby a coach. Unsupervised learning is like noticing that\nyour store has three kinds of customers based on their\ndistinctive purchasing patterns. Reinforcement learning\nis like trying different moves in a video game and seeing\nwhich yields the most points (greatest reward).",
+      "comments": [],
+      "ancestorIds": [
+        "181C9D9C1F0F47D9B3FBDE21A9E5D372",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "181C9D9C1F0F47D9B3FBDE21A9E5D372"
+    },
+    "2DF11FC92E9C4460BBB71FB57475FB77": {
+      "id": "2DF11FC92E9C4460BBB71FB57475FB77",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "EU: Both supervised and unsupervised learning\nalgorithms find patterns in data. Supervised learning\nuses features to predict the class label supplied by a\nteacher; unsupervised learning groups similar instances\ntogether, creating its own classes. Reinforcement\nlearning uses trial and error to find a policy for choosing\nactions that maximizes the reinforcement signal. ",
+      "comments": [],
+      "ancestorIds": [
+        "181C9D9C1F0F47D9B3FBDE21A9E5D372",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "181C9D9C1F0F47D9B3FBDE21A9E5D372"
+    },
+    "781F7ECDD8164FCC9663B1863E9ECC1F": {
+      "id": "781F7ECDD8164FCC9663B1863E9ECC1F",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "3-A-i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "LO: Define supervised, unsupervised, and reinforcement\nlearning algorithms, and give examples of human\nlearning that are similar to each algorithm. ",
+      "comments": [],
+      "ancestorIds": [
+        "181C9D9C1F0F47D9B3FBDE21A9E5D372",
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "181C9D9C1F0F47D9B3FBDE21A9E5D372"
+    },
+    "181C9D9C1F0F47D9B3FBDE21A9E5D372": {
+      "id": "181C9D9C1F0F47D9B3FBDE21A9E5D372",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "(Humans vs. machines) ",
+      "comments": [],
+      "ancestorIds": [
+        "64BE24DD60864E05A33F99EC97E149BF"
+      ],
+      "parentId": "64BE24DD60864E05A33F99EC97E149BF"
+    },
+    "64BE24DD60864E05A33F99EC97E149BF": {
+      "id": "64BE24DD60864E05A33F99EC97E149BF",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Nature of Learning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,3572 @@
+{
+  "id": "E2FBFC80D9EE430DBC564463A2058EB8_D2695955_adulteducation-professionaleducation-development-vocationaltraining",
+  "title": "Vocational Training, AdultEducation, Professional Education & Further Development",
+  "subject": "Competency Index for Linked Data",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "AdultEducation",
+    "ProfessionalEducation-Development",
+    "VocationalTraining"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D2695955",
+    "valid": "2016",
+    "title": "Competency Index for Linked Data",
+    "sourceURL": "http://asn.desire2learn.com/resources/D2695955",
+    "asnIdentifier": "D2695955",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "E2FBFC80D9EE430DBC564463A2058EB8",
+    "title": "Dublin Core Metadata Initiative"
+  },
+  "standards": {
+    "E3E78018F0E9433D8C7E447024F1A89F": {
+      "id": "E3E78018F0E9433D8C7E447024F1A89F",
+      "asnIdentifier": "S2696092",
+      "position": 206000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Storing RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "1E417A39F0B241EC939AFF3F6C65E23B"
+      ],
+      "parentId": "1E417A39F0B241EC939AFF3F6C65E23B"
+    },
+    "1E417A39F0B241EC939AFF3F6C65E23B": {
+      "id": "1E417A39F0B241EC939AFF3F6C65E23B",
+      "asnIdentifier": "S2696024",
+      "position": 205000,
+      "depth": 0,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic Cluster",
+      "description": "Creating Linked Data applications",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "943BF5B0EC5747F9829D9928DBC7F955": {
+      "id": "943BF5B0EC5747F9829D9928DBC7F955",
+      "asnIdentifier": "S2709930",
+      "position": 204000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the difference between SQL query language (which operates on database tables) and SPARQL (which operates on RDF graphs).",
+      "comments": [],
+      "ancestorIds": [
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "76BDEE7823224E26BE184F63B80614B2"
+    },
+    "C3798F6D819D48428C60C87CFF3DFE95": {
+      "id": "C3798F6D819D48428C60C87CFF3DFE95",
+      "asnIdentifier": "S2709294",
+      "position": 203000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses proper syntax to request specific media types, such as Turtle.",
+      "comments": [],
+      "ancestorIds": [
+        "468393DB99D44FEAABE13ADF87D1E7F9",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "468393DB99D44FEAABE13ADF87D1E7F9"
+    },
+    "BDFE5F17AF0248D0AF72F38131C30ACC": {
+      "id": "BDFE5F17AF0248D0AF72F38131C30ACC",
+      "asnIdentifier": "S2731589",
+      "position": 202000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses POST to add triples to an existing graph.",
+      "comments": [],
+      "ancestorIds": [
+        "468393DB99D44FEAABE13ADF87D1E7F9",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "468393DB99D44FEAABE13ADF87D1E7F9"
+    },
+    "53E8236F5A51483E9BAC3BBE971E8B4D": {
+      "id": "53E8236F5A51483E9BAC3BBE971E8B4D",
+      "asnIdentifier": "S2709293",
+      "position": 201000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses DELETE to remove a graph.",
+      "comments": [],
+      "ancestorIds": [
+        "468393DB99D44FEAABE13ADF87D1E7F9",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "468393DB99D44FEAABE13ADF87D1E7F9"
+    },
+    "B909558DEF4F4ABD91638C1C4184F72B": {
+      "id": "B909558DEF4F4ABD91638C1C4184F72B",
+      "asnIdentifier": "S2709292",
+      "position": 200000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses PUT to insert set of triples into a new graph (or replace an existing graph).",
+      "comments": [],
+      "ancestorIds": [
+        "468393DB99D44FEAABE13ADF87D1E7F9",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "468393DB99D44FEAABE13ADF87D1E7F9"
+    },
+    "0C92384C7B3146BC835A47142D491F9A": {
+      "id": "0C92384C7B3146BC835A47142D491F9A",
+      "asnIdentifier": "S2709291",
+      "position": 199000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses GET to retrieve triples from a default graph or a named graph.",
+      "comments": [],
+      "ancestorIds": [
+        "468393DB99D44FEAABE13ADF87D1E7F9",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "468393DB99D44FEAABE13ADF87D1E7F9"
+    },
+    "468393DB99D44FEAABE13ADF87D1E7F9": {
+      "id": "468393DB99D44FEAABE13ADF87D1E7F9",
+      "asnIdentifier": "S2709289",
+      "position": 198000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the SPARQL 1.1 Graph Store HTTP protocol for updating graphs on a web server (in \"restful\" style).",
+      "comments": [],
+      "ancestorIds": [
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "76BDEE7823224E26BE184F63B80614B2"
+    },
+    "7295F47C522F4ED1AC471DFF781BE96B": {
+      "id": "7295F47C522F4ED1AC471DFF781BE96B",
+      "asnIdentifier": "S2731588",
+      "position": 197000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses a CONSTRUCT query to preview changes before executing an INSERT/DELETE operation.",
+      "comments": [],
+      "ancestorIds": [
+        "8426CCB0629241718FDFE8FC58C00EDD",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "8426CCB0629241718FDFE8FC58C00EDD"
+    },
+    "208726234AEF4F659164A7B593FF1F88": {
+      "id": "208726234AEF4F659164A7B593FF1F88",
+      "asnIdentifier": "S2709290",
+      "position": 196000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses INSERT/DELETE to update triples.",
+      "comments": [],
+      "ancestorIds": [
+        "8426CCB0629241718FDFE8FC58C00EDD",
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "8426CCB0629241718FDFE8FC58C00EDD"
+    },
+    "8426CCB0629241718FDFE8FC58C00EDD": {
+      "id": "8426CCB0629241718FDFE8FC58C00EDD",
+      "asnIdentifier": "S2709288",
+      "position": 195000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the SPARQL 1.1 Update language for updating, creating, and removing RDF graphs in a Graph Store",
+      "comments": [],
+      "ancestorIds": [
+        "76BDEE7823224E26BE184F63B80614B2",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "76BDEE7823224E26BE184F63B80614B2"
+    },
+    "76BDEE7823224E26BE184F63B80614B2": {
+      "id": "76BDEE7823224E26BE184F63B80614B2",
+      "asnIdentifier": "S2709897",
+      "position": 194000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Manipulating RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "BF72ED32BC9A43CAA3434FF82FFA3CC3": {
+      "id": "BF72ED32BC9A43CAA3434FF82FFA3CC3",
+      "asnIdentifier": "S2709287",
+      "position": 193000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses available ontology browsing tools to explore the ontologies used in a particular dataset.",
+      "comments": [],
+      "ancestorIds": [
+        "C47A18B657864FF4A9FDCD3677534E9D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "C47A18B657864FF4A9FDCD3677534E9D"
+    },
+    "C47A18B657864FF4A9FDCD3677534E9D": {
+      "id": "C47A18B657864FF4A9FDCD3677534E9D",
+      "asnIdentifier": "S2696091",
+      "position": 192000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "RDF data analytics",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "DD2D3B499970419385E5718BA4D1AF41": {
+      "id": "DD2D3B499970419385E5718BA4D1AF41",
+      "asnIdentifier": "S2696090",
+      "position": 191000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Assessing RDF data quality",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "34359E2458FC4B5ABFBEA6C26CE2AD71": {
+      "id": "34359E2458FC4B5ABFBEA6C26CE2AD71",
+      "asnIdentifier": "S2742480",
+      "position": 190000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that OWL Full supports all available constructs and is most appropriately used when reasoning performance is not a concern.",
+      "comments": [],
+      "ancestorIds": [
+        "260DD8829E3F4B889CB3F93C8D029F8D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "260DD8829E3F4B889CB3F93C8D029F8D"
+    },
+    "D6DA780751B84653A7D04FD1DA336162": {
+      "id": "D6DA780751B84653A7D04FD1DA336162",
+      "asnIdentifier": "S2742479",
+      "position": 189000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows that Web Ontology Language (OWL) is available in multiple \"flavors\" that are variously optimized for expressivity, performant reasoning, or for applications involving databases or business rules.",
+      "comments": [],
+      "ancestorIds": [
+        "260DD8829E3F4B889CB3F93C8D029F8D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "260DD8829E3F4B889CB3F93C8D029F8D"
+    },
+    "C89D62E117B34BF3AE7A86B3D249CC27": {
+      "id": "C89D62E117B34BF3AE7A86B3D249CC27",
+      "asnIdentifier": "S2731587",
+      "position": 188000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands how reasoning can be used for integrating diverse datasets.",
+      "comments": [],
+      "ancestorIds": [
+        "260DD8829E3F4B889CB3F93C8D029F8D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "260DD8829E3F4B889CB3F93C8D029F8D"
+    },
+    "AC73728A4970450CA8AF3D01D157CBCA": {
+      "id": "AC73728A4970450CA8AF3D01D157CBCA",
+      "asnIdentifier": "S2731586",
+      "position": 187000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the role of formally declared domains and ranges for inferencing.",
+      "comments": [],
+      "ancestorIds": [
+        "260DD8829E3F4B889CB3F93C8D029F8D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "260DD8829E3F4B889CB3F93C8D029F8D"
+    },
+    "A4F56ED5B02C42299748115BAFDE0B4E": {
+      "id": "A4F56ED5B02C42299748115BAFDE0B4E",
+      "asnIdentifier": "S2709285",
+      "position": 186000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses common entailment regimes and understands their uses.",
+      "comments": [],
+      "ancestorIds": [
+        "E6AB4791844A41249C221816F67F4205",
+        "260DD8829E3F4B889CB3F93C8D029F8D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "E6AB4791844A41249C221816F67F4205"
+    },
+    "E6AB4791844A41249C221816F67F4205": {
+      "id": "E6AB4791844A41249C221816F67F4205",
+      "asnIdentifier": "S2708690",
+      "position": 185000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the principles and practice of inferencing.",
+      "comments": [],
+      "ancestorIds": [
+        "260DD8829E3F4B889CB3F93C8D029F8D",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "260DD8829E3F4B889CB3F93C8D029F8D"
+    },
+    "260DD8829E3F4B889CB3F93C8D029F8D": {
+      "id": "260DD8829E3F4B889CB3F93C8D029F8D",
+      "asnIdentifier": "S2696089",
+      "position": 184000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Reasoning over RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "B50D4CC707C5401AB04E75B6762DB61E": {
+      "id": "B50D4CC707C5401AB04E75B6762DB61E",
+      "asnIdentifier": "S2742490",
+      "position": 183000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Converts/manipulates SPARQL query outputs (RDF-XML, JSON) to the exact format required by third party tools and APIs.",
+      "comments": [],
+      "ancestorIds": [
+        "192075B124F34DADB0C5C3A779820F6E",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "192075B124F34DADB0C5C3A779820F6E"
+    },
+    "E7F15A4CAFEE4E8897D8F270466A64A5": {
+      "id": "E7F15A4CAFEE4E8897D8F270466A64A5",
+      "asnIdentifier": "S2709284",
+      "position": 182000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Distills results taken from large datasets so that visualizations are human-friendly.",
+      "comments": [],
+      "ancestorIds": [
+        "192075B124F34DADB0C5C3A779820F6E",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "192075B124F34DADB0C5C3A779820F6E"
+    },
+    "B66396F3440C4504BFE32A17A912F294": {
+      "id": "B66396F3440C4504BFE32A17A912F294",
+      "asnIdentifier": "S2709283",
+      "position": 181000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses Google FusionTables to create maps and charts.",
+      "comments": [],
+      "ancestorIds": [
+        "7E7F15B66A3C49BAAD712E2ADEA21DD1",
+        "192075B124F34DADB0C5C3A779820F6E",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7E7F15B66A3C49BAAD712E2ADEA21DD1"
+    },
+    "7E7F15B66A3C49BAAD712E2ADEA21DD1": {
+      "id": "7E7F15B66A3C49BAAD712E2ADEA21DD1",
+      "asnIdentifier": "S2709282",
+      "position": 180000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses publicly available tools to visualize data.",
+      "comments": [],
+      "ancestorIds": [
+        "192075B124F34DADB0C5C3A779820F6E",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "192075B124F34DADB0C5C3A779820F6E"
+    },
+    "192075B124F34DADB0C5C3A779820F6E": {
+      "id": "192075B124F34DADB0C5C3A779820F6E",
+      "asnIdentifier": "S2696088",
+      "position": 179000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Visualizing RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "64FFE56CFBDC4101B95FC0636EDC5854": {
+      "id": "64FFE56CFBDC4101B95FC0636EDC5854",
+      "asnIdentifier": "S2709281",
+      "position": 178000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Accesses DBPedia's SNORQL/SPARQL endpoint and issues simple queries.",
+      "comments": [],
+      "ancestorIds": [
+        "3758387A02274E00AE5F3D0EDD3C7794",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3758387A02274E00AE5F3D0EDD3C7794"
+    },
+    "2DF265A4AF1F48B39CA04E01346DCF28": {
+      "id": "2DF265A4AF1F48B39CA04E01346DCF28",
+      "asnIdentifier": "S2709280",
+      "position": 177000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Queries multiple data files using Fuseki.",
+      "comments": [],
+      "ancestorIds": [
+        "3758387A02274E00AE5F3D0EDD3C7794",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3758387A02274E00AE5F3D0EDD3C7794"
+    },
+    "690D8297CBD643B9A3D222F3C972C2F4": {
+      "id": "690D8297CBD643B9A3D222F3C972C2F4",
+      "asnIdentifier": "S2709279",
+      "position": 176000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses Fuseki server to evaluate queries on a dataset.",
+      "comments": [],
+      "ancestorIds": [
+        "3758387A02274E00AE5F3D0EDD3C7794",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3758387A02274E00AE5F3D0EDD3C7794"
+    },
+    "661B76D0F95B4A168BDAE2F9958DB1F1": {
+      "id": "661B76D0F95B4A168BDAE2F9958DB1F1",
+      "asnIdentifier": "S2709278",
+      "position": 175000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses ARQ to evaluate queries on local data.",
+      "comments": [],
+      "ancestorIds": [
+        "3758387A02274E00AE5F3D0EDD3C7794",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3758387A02274E00AE5F3D0EDD3C7794"
+    },
+    "BA1C285C8303473A8D87766C0169C2CC": {
+      "id": "BA1C285C8303473A8D87766C0169C2CC",
+      "asnIdentifier": "S2709277",
+      "position": 174000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Queries multiple local data files using ARQ.",
+      "comments": [],
+      "ancestorIds": [
+        "3758387A02274E00AE5F3D0EDD3C7794",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3758387A02274E00AE5F3D0EDD3C7794"
+    },
+    "FAF4DBA8CF804553874FD4218606B33C": {
+      "id": "FAF4DBA8CF804553874FD4218606B33C",
+      "asnIdentifier": "S2709276",
+      "position": 173000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Execute SPARQL queries using the Jena ARQ command-line utility.",
+      "comments": [],
+      "ancestorIds": [
+        "3758387A02274E00AE5F3D0EDD3C7794",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3758387A02274E00AE5F3D0EDD3C7794"
+    },
+    "3758387A02274E00AE5F3D0EDD3C7794": {
+      "id": "3758387A02274E00AE5F3D0EDD3C7794",
+      "asnIdentifier": "S2709275",
+      "position": 172000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses available tools, servers, and endpoints to issue queries against a dataset.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "B295B1A49A4344FDB267C578F9D667F6": {
+      "id": "B295B1A49A4344FDB267C578F9D667F6",
+      "asnIdentifier": "S2709274",
+      "position": 171000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Reads and understands high-level descriptions of the classes and properties of a dataset in order to write queries.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "D988B2C3A9A646D18D138C6F56624E2F": {
+      "id": "D988B2C3A9A646D18D138C6F56624E2F",
+      "asnIdentifier": "S2709272",
+      "position": 170000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Converts/manipulates SPARQL query outputs (RDF-XML, JSON) to the exact format required by a third party tools and APIs.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "184701056C96490FAB22EA5F35424F3F": {
+      "id": "184701056C96490FAB22EA5F35424F3F",
+      "asnIdentifier": "S2709271",
+      "position": 169000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Pulls data from a different SPARQL endpoints in one single query using the SERVICE directive.",
+      "comments": [],
+      "ancestorIds": [
+        "1F5510A4513E40CA8DD3A0E093E35B02",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F5510A4513E40CA8DD3A0E093E35B02"
+    },
+    "95A7394FB06647C2B9E626ED819253C1": {
+      "id": "95A7394FB06647C2B9E626ED819253C1",
+      "asnIdentifier": "S2709270",
+      "position": 168000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses federated query to query over a local graph store and one or more other SPARQL endpoints.",
+      "comments": [],
+      "ancestorIds": [
+        "1F5510A4513E40CA8DD3A0E093E35B02",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F5510A4513E40CA8DD3A0E093E35B02"
+    },
+    "863292E955D44F95A8F3FD6914D72C34": {
+      "id": "863292E955D44F95A8F3FD6914D72C34",
+      "asnIdentifier": "S2709269",
+      "position": 167000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Formulates advanced queries on a remote SPARQL endpoint using the SERVICE directive.",
+      "comments": [],
+      "ancestorIds": [
+        "1F5510A4513E40CA8DD3A0E093E35B02",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F5510A4513E40CA8DD3A0E093E35B02"
+    },
+    "1F5510A4513E40CA8DD3A0E093E35B02": {
+      "id": "1F5510A4513E40CA8DD3A0E093E35B02",
+      "asnIdentifier": "S2709268",
+      "position": 166000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the concept of Federated Searches.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "02BADDEC7C714417984FEC98840961B5": {
+      "id": "02BADDEC7C714417984FEC98840961B5",
+      "asnIdentifier": "S2709267",
+      "position": 165000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the role of Property Paths and how they are formed by combining predicates with regular expression-like operators.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "88839BA902D44E50B4C06F36808C8631": {
+      "id": "88839BA902D44E50B4C06F36808C8631",
+      "asnIdentifier": "S2709266",
+      "position": 164000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses a temporary variable to extend a query.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "ED8D36C034F84CAC98BBAC3F19B184DE": {
+      "id": "ED8D36C034F84CAC98BBAC3F19B184DE",
+      "asnIdentifier": "S2709265",
+      "position": 163000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Formulates advanced queries using subqueries.",
+      "comments": [],
+      "ancestorIds": [
+        "EEF06EA2B5A24074B25318A539E9BD92",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "EEF06EA2B5A24074B25318A539E9BD92"
+    },
+    "0DDCFF07586C410EB29A4303A690C07F": {
+      "id": "0DDCFF07586C410EB29A4303A690C07F",
+      "asnIdentifier": "S2708693",
+      "position": 162000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Formulates advanced queries on data containing blank nodes.",
+      "comments": [],
+      "ancestorIds": [
+        "EEF06EA2B5A24074B25318A539E9BD92",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "EEF06EA2B5A24074B25318A539E9BD92"
+    },
+    "2CAADF9B2D6D4C10A54DE22668DCA6A6": {
+      "id": "2CAADF9B2D6D4C10A54DE22668DCA6A6",
+      "asnIdentifier": "S2709264",
+      "position": 161000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Formulates advanced queries using FROM NAMED on remote data.",
+      "comments": [],
+      "ancestorIds": [
+        "EEF06EA2B5A24074B25318A539E9BD92",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "EEF06EA2B5A24074B25318A539E9BD92"
+    },
+    "CE4182A548514A04BD35CF17DB67B49F": {
+      "id": "CE4182A548514A04BD35CF17DB67B49F",
+      "asnIdentifier": "S2709260",
+      "position": 160000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Formulates advanced queries using FROM NAMED and GRAPH on local data.",
+      "comments": [],
+      "ancestorIds": [
+        "EEF06EA2B5A24074B25318A539E9BD92",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "EEF06EA2B5A24074B25318A539E9BD92"
+    },
+    "EEF06EA2B5A24074B25318A539E9BD92": {
+      "id": "EEF06EA2B5A24074B25318A539E9BD92",
+      "asnIdentifier": "S2709246",
+      "position": 159000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Differentiates between a Default Graph and a Named Graph, and formulates queries using the GRAPH clause.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "85B33005101B413784D9BF85D2AF0904": {
+      "id": "85B33005101B413784D9BF85D2AF0904",
+      "asnIdentifier": "S2709181",
+      "position": 158000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the HAVING clause to apply a filter to the result set after grouping.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "FCFCBB94DD844113AE9A4637D10FBBB6": {
+      "id": "FCFCBB94DD844113AE9A4637D10FBBB6",
+      "asnIdentifier": "S2709174",
+      "position": 157000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the GROUP BY clause to transforms a result set so that only one row will appear for each unique set of grouping variables.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "1CA8BEA9FE3D481BB42032FF96206ED5": {
+      "id": "1CA8BEA9FE3D481BB42032FF96206ED5",
+      "asnIdentifier": "S2709168",
+      "position": 156000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the xsd:decimal(expn) function to convert an expression to an integer.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "DC13B7187755453E918EA49747627974": {
+      "id": "DC13B7187755453E918EA49747627974",
+      "asnIdentifier": "S2709164",
+      "position": 155000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the langMatches() function to match a language tag against a language range.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "7315621392CA45218DAF9318EB6E519F": {
+      "id": "7315621392CA45218DAF9318EB6E519F",
+      "asnIdentifier": "S2709160",
+      "position": 154000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the lang() function to return the language tag of an RDF literal.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "FE26F743A84A4E6BB3648E10583E3046": {
+      "id": "FE26F743A84A4E6BB3648E10583E3046",
+      "asnIdentifier": "S2709157",
+      "position": 153000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses aggregates to apply expressions over groups of solutions (GROUP BY, COUNT, SUM, AVG, MIN) for partitioning results, evaluating projections, and filtering.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "551BB94D410A48CA8561D7F6C81104A2": {
+      "id": "551BB94D410A48CA8561D7F6C81104A2",
+      "asnIdentifier": "S2709148",
+      "position": 152000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the regular expression (regex()) function for string matching.",
+      "comments": [],
+      "ancestorIds": [
+        "91A779EEBE224A098B2B10FC7950A654",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "91A779EEBE224A098B2B10FC7950A654"
+    },
+    "91A779EEBE224A098B2B10FC7950A654": {
+      "id": "91A779EEBE224A098B2B10FC7950A654",
+      "asnIdentifier": "S2709147",
+      "position": 151000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the use of SPARQL functions and operators.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "C257A58A44274D38B0635D9A80BECCB2": {
+      "id": "C257A58A44274D38B0635D9A80BECCB2",
+      "asnIdentifier": "S2708717",
+      "position": 150000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses projection to transform a solution sequence into one involving only a subset of the variables.",
+      "comments": [],
+      "ancestorIds": [
+        "3D154D8248C1494DA9EEDADCF0D40442",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3D154D8248C1494DA9EEDADCF0D40442"
+    },
+    "39DE4DA5B8704668B47F2721E5065681": {
+      "id": "39DE4DA5B8704668B47F2721E5065681",
+      "asnIdentifier": "S2708716",
+      "position": 149000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses LIMIT to restrict the number of solutions processed for query results.",
+      "comments": [],
+      "ancestorIds": [
+        "3D154D8248C1494DA9EEDADCF0D40442",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3D154D8248C1494DA9EEDADCF0D40442"
+    },
+    "4C291B3CB1544570872B893E0C03C0E0": {
+      "id": "4C291B3CB1544570872B893E0C03C0E0",
+      "asnIdentifier": "S2708713",
+      "position": 148000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses OFFSET to control where the solutions processed start in the overall sequence of solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "3D154D8248C1494DA9EEDADCF0D40442",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3D154D8248C1494DA9EEDADCF0D40442"
+    },
+    "D90BB0F878044EFC8913E2303A34FA1D": {
+      "id": "D90BB0F878044EFC8913E2303A34FA1D",
+      "asnIdentifier": "S2708712",
+      "position": 147000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses DISTINCT to ensure solutions in the sequence are unique.",
+      "comments": [
+        "I.e., to eliminates redundant output (items) from the result set."
+      ],
+      "ancestorIds": [
+        "3D154D8248C1494DA9EEDADCF0D40442",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3D154D8248C1494DA9EEDADCF0D40442"
+    },
+    "5096F185A58C4901AD5CA183C50F86E3": {
+      "id": "5096F185A58C4901AD5CA183C50F86E3",
+      "asnIdentifier": "S2708711",
+      "position": 146000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses ORDER BY to define ordering conditions by variable, function call, or expression.",
+      "comments": [],
+      "ancestorIds": [
+        "3D154D8248C1494DA9EEDADCF0D40442",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "3D154D8248C1494DA9EEDADCF0D40442"
+    },
+    "3D154D8248C1494DA9EEDADCF0D40442": {
+      "id": "3D154D8248C1494DA9EEDADCF0D40442",
+      "asnIdentifier": "S2708709",
+      "position": 145000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the major SPARQL result set modifiers, e.g., to limit or sort results, or to return distinct results only once.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "D8E21E0064C841EE8DA6B49A2A7ADC2B": {
+      "id": "D8E21E0064C841EE8DA6B49A2A7ADC2B",
+      "asnIdentifier": "S2708708",
+      "position": 144000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses NOT IN to restrict a variable to not being in a given set of values.",
+      "comments": [],
+      "ancestorIds": [
+        "7539289B749A40F3B3AB7B6BDAEBA2DF",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7539289B749A40F3B3AB7B6BDAEBA2DF"
+    },
+    "EC183316DAFD43E685B329938656DBE7": {
+      "id": "EC183316DAFD43E685B329938656DBE7",
+      "asnIdentifier": "S2708707",
+      "position": 143000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses MINUS to remove matches from a result based on the evaluation of two patterns.",
+      "comments": [],
+      "ancestorIds": [
+        "7539289B749A40F3B3AB7B6BDAEBA2DF",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7539289B749A40F3B3AB7B6BDAEBA2DF"
+    },
+    "E620FD9D2CE94BDEBB362F898C5F93B4": {
+      "id": "E620FD9D2CE94BDEBB362F898C5F93B4",
+      "asnIdentifier": "S2708706",
+      "position": 142000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses NOT EXISTS to limit whether a given graph pattern exists in the data.",
+      "comments": [],
+      "ancestorIds": [
+        "7539289B749A40F3B3AB7B6BDAEBA2DF",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7539289B749A40F3B3AB7B6BDAEBA2DF"
+    },
+    "CB4BA3041EE84E28B56188560DFD271E": {
+      "id": "CB4BA3041EE84E28B56188560DFD271E",
+      "asnIdentifier": "S2708705",
+      "position": 141000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses FILTER to formulates queries that eliminate solutions from a result set.",
+      "comments": [],
+      "ancestorIds": [
+        "7539289B749A40F3B3AB7B6BDAEBA2DF",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7539289B749A40F3B3AB7B6BDAEBA2DF"
+    },
+    "7229A72F124D4F8A8E7B4C341CCF8CE7": {
+      "id": "7229A72F124D4F8A8E7B4C341CCF8CE7",
+      "asnIdentifier": "S2708704",
+      "position": 140000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses OPTIONAL to formulate queries to return the values of optional variables when available.",
+      "comments": [],
+      "ancestorIds": [
+        "7539289B749A40F3B3AB7B6BDAEBA2DF",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7539289B749A40F3B3AB7B6BDAEBA2DF"
+    },
+    "F7AF530791EF405180CD74291E9E87F9": {
+      "id": "F7AF530791EF405180CD74291E9E87F9",
+      "asnIdentifier": "S2708703",
+      "position": 139000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses UNION to formulate queries with multiple possible graph patterns.",
+      "comments": [],
+      "ancestorIds": [
+        "7539289B749A40F3B3AB7B6BDAEBA2DF",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "7539289B749A40F3B3AB7B6BDAEBA2DF"
+    },
+    "7539289B749A40F3B3AB7B6BDAEBA2DF": {
+      "id": "7539289B749A40F3B3AB7B6BDAEBA2DF",
+      "asnIdentifier": "S2708702",
+      "position": 138000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands how to combine and filter graph patterns using operators such as UNION, OPTIONAL, FILTER, and MINUS.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "E07620B78CF1472FB54D124C2855E1E5": {
+      "id": "E07620B78CF1472FB54D124C2855E1E5",
+      "asnIdentifier": "S2709273",
+      "position": 137000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses FROM to formulate queries with URLs and local files.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "5B0B13E295374192B56B87504E94B2CE": {
+      "id": "5B0B13E295374192B56B87504E94B2CE",
+      "asnIdentifier": "S2708701",
+      "position": 136000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses CONSTRUCT to extract and transform results into a single RDF graph specified by a graph template.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "11578D4091B04745A63355D12C369B28": {
+      "id": "11578D4091B04745A63355D12C369B28",
+      "asnIdentifier": "S2708700",
+      "position": 135000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses DESCRIBE to extract a single graph containing RDF data about resources.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "AD05F749D7ED433D90F6BC457BE2DDC4": {
+      "id": "AD05F749D7ED433D90F6BC457BE2DDC4",
+      "asnIdentifier": "S2708699",
+      "position": 134000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses ASK for a True/False result test for a match to a query pattern.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "0EAC329349D54948953B7DB8940E0170": {
+      "id": "0EAC329349D54948953B7DB8940E0170",
+      "asnIdentifier": "S2708698",
+      "position": 133000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses variables in SELECT and WHERE clauses to yield a table of results.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "9BA950D3753B49F18530A9B9CF9D1720": {
+      "id": "9BA950D3753B49F18530A9B9CF9D1720",
+      "asnIdentifier": "S2708697",
+      "position": 132000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the WHERE clause to provide the graph pattern to match against the graph data.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "8085359DC99549FA97E3F212C19C1153": {
+      "id": "8085359DC99549FA97E3F212C19C1153",
+      "asnIdentifier": "S2708696",
+      "position": 131000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses the SELECT clause to identify the variables to appear in a table of query results.",
+      "comments": [],
+      "ancestorIds": [
+        "480CFECBD33C4E1F8A4479A396ECF7CC",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "480CFECBD33C4E1F8A4479A396ECF7CC"
+    },
+    "480CFECBD33C4E1F8A4479A396ECF7CC": {
+      "id": "480CFECBD33C4E1F8A4479A396ECF7CC",
+      "asnIdentifier": "S2708695",
+      "position": 130000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Demonstrates a working knowledge of the forms and uses of SPARQL result sets (SELECT, CONSTRUCT, DESCRIBE, and ASK).",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "A0CDF71671A34E36B00DF6248A804BD2": {
+      "id": "A0CDF71671A34E36B00DF6248A804BD2",
+      "asnIdentifier": "S2708694",
+      "position": 129000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses PREFIX for base URIs.",
+      "comments": [],
+      "ancestorIds": [
+        "83C4EC2FCA50482B865F4489BFC65748",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "83C4EC2FCA50482B865F4489BFC65748"
+    },
+    "EC97578DB3B342389B552DFFA771BF77": {
+      "id": "EC97578DB3B342389B552DFFA771BF77",
+      "asnIdentifier": "S2708692",
+      "position": 128000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses question marks for indicating variables.",
+      "comments": [],
+      "ancestorIds": [
+        "83C4EC2FCA50482B865F4489BFC65748",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "83C4EC2FCA50482B865F4489BFC65748"
+    },
+    "0482D2CDC0D745A58121DFBB17CF6B6E": {
+      "id": "0482D2CDC0D745A58121DFBB17CF6B6E",
+      "asnIdentifier": "S2708691",
+      "position": 127000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses angle brackets for delimiting URIs.",
+      "comments": [],
+      "ancestorIds": [
+        "83C4EC2FCA50482B865F4489BFC65748",
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "83C4EC2FCA50482B865F4489BFC65748"
+    },
+    "83C4EC2FCA50482B865F4489BFC65748": {
+      "id": "83C4EC2FCA50482B865F4489BFC65748",
+      "asnIdentifier": "S2708688",
+      "position": 126000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the basic syntax of a SPARQL query.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "0D804449B5554CA3B3ED179A8182BD34": {
+      "id": "0D804449B5554CA3B3ED179A8182BD34",
+      "asnIdentifier": "S2708689",
+      "position": 125000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that a SPARQL query matches an RDF graph against a pattern of triples with fixed and variable values.",
+      "comments": [],
+      "ancestorIds": [
+        "1F3EEA37CC284B9381A68D69E0D40523",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "1F3EEA37CC284B9381A68D69E0D40523"
+    },
+    "1F3EEA37CC284B9381A68D69E0D40523": {
+      "id": "1F3EEA37CC284B9381A68D69E0D40523",
+      "asnIdentifier": "S2696087",
+      "position": 124000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Querying RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "8B2E15472FC642D496CBDCFF5157508E": {
+      "id": "8B2E15472FC642D496CBDCFF5157508E",
+      "asnIdentifier": "S2742478",
+      "position": 123000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses RDF libraries to process various types of SPARQL query result.",
+      "comments": [],
+      "ancestorIds": [
+        "A0A5A700BCC640B9A3D6C97E48BEEC2D",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "A0A5A700BCC640B9A3D6C97E48BEEC2D"
+    },
+    "3B0270FD1E6741BB9B7623E50B8F0C64": {
+      "id": "3B0270FD1E6741BB9B7623E50B8F0C64",
+      "asnIdentifier": "S2742477",
+      "position": 122000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses utilities and convenience functions the provide shortcuts for frequently used patterns, such as matching the multiple label properties used in real data.",
+      "comments": [],
+      "ancestorIds": [
+        "A0A5A700BCC640B9A3D6C97E48BEEC2D",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "A0A5A700BCC640B9A3D6C97E48BEEC2D"
+    },
+    "E134AEDB29CF40EF87A2783187101911": {
+      "id": "E134AEDB29CF40EF87A2783187101911",
+      "asnIdentifier": "S2742476",
+      "position": 121000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses RDF-specific programming methods to query RDF data and save the results for further processing.",
+      "comments": [],
+      "ancestorIds": [
+        "A0A5A700BCC640B9A3D6C97E48BEEC2D",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "A0A5A700BCC640B9A3D6C97E48BEEC2D"
+    },
+    "A0A5A700BCC640B9A3D6C97E48BEEC2D": {
+      "id": "A0A5A700BCC640B9A3D6C97E48BEEC2D",
+      "asnIdentifier": "S2742475",
+      "position": 120000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands how the pattern matching of SPARQL queries can be expressed using functionally equivalent constructs in RDF programming libraries.",
+      "comments": [],
+      "ancestorIds": [
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "A6EB8F16F92846FFB63FAFD3F04FC9CE"
+    },
+    "0A701DE84D1D4D6492D1995039CEEEA3": {
+      "id": "0A701DE84D1D4D6492D1995039CEEEA3",
+      "asnIdentifier": "S2742474",
+      "position": 119000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Programatically infers triples using custom functions or methods.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "79510C13464740AF8599C830C0ACB4FE": {
+      "id": "79510C13464740AF8599C830C0ACB4FE",
+      "asnIdentifier": "S2742473",
+      "position": 118000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses RDF programming libraries to persistently stores triples in memory, on disk, or to interact with triple stores.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "18C26B00F68D4D3DBA31A38B67EE8C8E": {
+      "id": "18C26B00F68D4D3DBA31A38B67EE8C8E",
+      "asnIdentifier": "S2742472",
+      "position": 117000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses RDF programming libraries to extract RDF data from CSV files, databases, or web pages.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "56EFA2AE175B45B6A59B2DA31DBADEC5": {
+      "id": "56EFA2AE175B45B6A59B2DA31DBADEC5",
+      "asnIdentifier": "S2742471",
+      "position": 116000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Programatically associates namespaces to prefixes for use in serializing RDF or when parsing SPARQL queries.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "F0D98567AF0C47B9B2AD036CA0A1054B": {
+      "id": "F0D98567AF0C47B9B2AD036CA0A1054B",
+      "asnIdentifier": "S2742470",
+      "position": 115000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses RDF-library-specific convenience representations for common RDF vocabularies such as RDF, Dublin Core, and SKOS.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "75768D896E25494BB64E3E9EBB2839D7": {
+      "id": "75768D896E25494BB64E3E9EBB2839D7",
+      "asnIdentifier": "S2742469",
+      "position": 114000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses RDF-specific programming methods to iterate over components of RDF data.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "80A61502992846A9B25545F1A6FDF5C4": {
+      "id": "80A61502992846A9B25545F1A6FDF5C4",
+      "asnIdentifier": "S2742468",
+      "position": 113000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses an RDF programming library to serialize RDF data in available syntaxes.",
+      "comments": [],
+      "ancestorIds": [
+        "48065B49FB6A4DA7B24E466635F42170",
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "48065B49FB6A4DA7B24E466635F42170"
+    },
+    "48065B49FB6A4DA7B24E466635F42170": {
+      "id": "48065B49FB6A4DA7B24E466635F42170",
+      "asnIdentifier": "S2742467",
+      "position": 112000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands how components of the RDF data model (datasets, graphs, statements, and various types of node) are expressed in the RDF library of a given programming language by constructs such as object-oriented classes.",
+      "comments": [],
+      "ancestorIds": [
+        "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "A6EB8F16F92846FFB63FAFD3F04FC9CE"
+    },
+    "A6EB8F16F92846FFB63FAFD3F04FC9CE": {
+      "id": "A6EB8F16F92846FFB63FAFD3F04FC9CE",
+      "asnIdentifier": "S2696086",
+      "position": 111000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Processing RDF data using programming languages.",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "3DAE6391EBF64442B8AE8E57534794F6": {
+      "id": "3DAE6391EBF64442B8AE8E57534794F6",
+      "asnIdentifier": "S2710057",
+      "position": 110000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Registers datasets with relevant services for discovery.",
+      "comments": [],
+      "ancestorIds": [
+        "5C2412FAF4E44075BE4918ED8227D557",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "5C2412FAF4E44075BE4918ED8227D557"
+    },
+    "79FFB1962D044E18854E14A762F176A5": {
+      "id": "79FFB1962D044E18854E14A762F176A5",
+      "asnIdentifier": "S2710054",
+      "position": 109000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses available vocabularies for dataset description to support their discovery.",
+      "comments": [
+        "E.g., VoID (http://www.w3.org/TR/void/)"
+      ],
+      "ancestorIds": [
+        "5C2412FAF4E44075BE4918ED8227D557",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "5C2412FAF4E44075BE4918ED8227D557"
+    },
+    "F1E7B60A282C4C50AF49353B0D6B000F": {
+      "id": "F1E7B60A282C4C50AF49353B0D6B000F",
+      "asnIdentifier": "S2710046",
+      "position": 108000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Monitors and updates lists which report the status of SPARQL endpoints.",
+      "comments": [],
+      "ancestorIds": [
+        "5C2412FAF4E44075BE4918ED8227D557",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "5C2412FAF4E44075BE4918ED8227D557"
+    },
+    "3B5D23FF72F14CFD8A8230427866F43F": {
+      "id": "3B5D23FF72F14CFD8A8230427866F43F",
+      "asnIdentifier": "S2710039",
+      "position": 107000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Retrieves and accesses RDF data from the \"open Web\".",
+      "comments": [],
+      "ancestorIds": [
+        "6ACA89FC65AD4BC58DB0A47C4FA039D7",
+        "5C2412FAF4E44075BE4918ED8227D557",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "6ACA89FC65AD4BC58DB0A47C4FA039D7"
+    },
+    "6ACA89FC65AD4BC58DB0A47C4FA039D7": {
+      "id": "6ACA89FC65AD4BC58DB0A47C4FA039D7",
+      "asnIdentifier": "S2710042",
+      "position": 106000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows relevant resources for discovering existing Linked Data datasets.",
+      "comments": [],
+      "ancestorIds": [
+        "5C2412FAF4E44075BE4918ED8227D557",
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "5C2412FAF4E44075BE4918ED8227D557"
+    },
+    "5C2412FAF4E44075BE4918ED8227D557": {
+      "id": "5C2412FAF4E44075BE4918ED8227D557",
+      "asnIdentifier": "S2709893",
+      "position": 105000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Finding RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "BD9CE4F94009459981E642ED083812B2"
+      ],
+      "parentId": "BD9CE4F94009459981E642ED083812B2"
+    },
+    "BD9CE4F94009459981E642ED083812B2": {
+      "id": "BD9CE4F94009459981E642ED083812B2",
+      "asnIdentifier": "S2696023",
+      "position": 104000,
+      "depth": 0,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic Cluster",
+      "description": "Interacting with RDF data",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6D550B028EC0404B96BCB6217634A95B": {
+      "id": "6D550B028EC0404B96BCB6217634A95B",
+      "asnIdentifier": "S2731584",
+      "position": 103000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses available resources for named entity recognition, extraction, and reconciliation.",
+      "comments": [],
+      "ancestorIds": [
+        "234DCEDAA7774F73A5685AD14393DA9F",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "234DCEDAA7774F73A5685AD14393DA9F"
+    },
+    "234DCEDAA7774F73A5685AD14393DA9F": {
+      "id": "234DCEDAA7774F73A5685AD14393DA9F",
+      "asnIdentifier": "S2696085",
+      "position": 102000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Mapping and enriching RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "09ACDBF52C3447B4ADC43D55E920C8E6"
+    },
+    "F36F86D95B6E40D2B3B5A35FA296C2B8": {
+      "id": "F36F86D95B6E40D2B3B5A35FA296C2B8",
+      "asnIdentifier": "S2731583",
+      "position": 101000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Cleans a dataset by finding and correcting errors, removing duplicates and unwanted data.",
+      "comments": [],
+      "ancestorIds": [
+        "166EB2CEC6414285828FCA21F3D8C7CA",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "166EB2CEC6414285828FCA21F3D8C7CA"
+    },
+    "166EB2CEC6414285828FCA21F3D8C7CA": {
+      "id": "166EB2CEC6414285828FCA21F3D8C7CA",
+      "asnIdentifier": "S2696084",
+      "position": 100000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Cleaning and reconciling RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "09ACDBF52C3447B4ADC43D55E920C8E6"
+    },
+    "2AE9522A780D463FABB193DC2686DE40": {
+      "id": "2AE9522A780D463FABB193DC2686DE40",
+      "asnIdentifier": "S2696083",
+      "position": 99000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "RDF data provenance",
+      "comments": [],
+      "ancestorIds": [
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "09ACDBF52C3447B4ADC43D55E920C8E6"
+    },
+    "1CE5CBB7502D4E1C98315F7EE209BC68": {
+      "id": "1CE5CBB7502D4E1C98315F7EE209BC68",
+      "asnIdentifier": "S2696082",
+      "position": 98000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Versioning RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "09ACDBF52C3447B4ADC43D55E920C8E6"
+    },
+    "DF8CDFA326E34C3294A3AED2443D7A44": {
+      "id": "DF8CDFA326E34C3294A3AED2443D7A44",
+      "asnIdentifier": "S2742466",
+      "position": 97000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows methods such as Direct Mapping of Relational Data to RDF (2012) for transforming data from the relational model (keys, values, rows, columns, tables) into RDF graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "538B1A2D18AF40E29DC536075CE118B9",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "538B1A2D18AF40E29DC536075CE118B9"
+    },
+    "01B66640E31842B1BFC86634B5A0F2D8": {
+      "id": "01B66640E31842B1BFC86634B5A0F2D8",
+      "asnIdentifier": "S2742465",
+      "position": 96000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows methods for generating RDF data from tabular data in formats such as Comma-Separated Values (CSV).",
+      "comments": [],
+      "ancestorIds": [
+        "538B1A2D18AF40E29DC536075CE118B9",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "538B1A2D18AF40E29DC536075CE118B9"
+    },
+    "CD54B8D5F49D4CB588068FA8903081E4": {
+      "id": "CD54B8D5F49D4CB588068FA8903081E4",
+      "asnIdentifier": "S2731582",
+      "position": 95000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Generates RDF data from non-RDF sources.",
+      "comments": [],
+      "ancestorIds": [
+        "538B1A2D18AF40E29DC536075CE118B9",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "538B1A2D18AF40E29DC536075CE118B9"
+    },
+    "538B1A2D18AF40E29DC536075CE118B9": {
+      "id": "538B1A2D18AF40E29DC536075CE118B9",
+      "asnIdentifier": "S2696080",
+      "position": 94000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Creating RDF data",
+      "comments": [],
+      "ancestorIds": [
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "09ACDBF52C3447B4ADC43D55E920C8E6"
+    },
+    "DE10CC30F0BE4F24949964A70F1AFD41": {
+      "id": "DE10CC30F0BE4F24949964A70F1AFD41",
+      "asnIdentifier": "S2742464",
+      "position": 93000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Recognizes the desirability of a published namespace policy describing an institution's commitment to the persistence and semantic stability of important URIs.",
+      "comments": [],
+      "ancestorIds": [
+        "9E53ACCFD50A4FF19B97B8777CF6AF56",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "9E53ACCFD50A4FF19B97B8777CF6AF56"
+    },
+    "D50594153F4546ECA727D257749B86E0": {
+      "id": "D50594153F4546ECA727D257749B86E0",
+      "asnIdentifier": "S2742463",
+      "position": 92000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands trade-offs between \"opaque\" URIs and URIs using version numbers, server names, dates, application-specific file extensions, query strings or other obsoletable context.",
+      "comments": [],
+      "ancestorIds": [
+        "9E53ACCFD50A4FF19B97B8777CF6AF56",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "9E53ACCFD50A4FF19B97B8777CF6AF56"
+    },
+    "CED4772A6A504AA29F32591AD2EBBC8A": {
+      "id": "CED4772A6A504AA29F32591AD2EBBC8A",
+      "asnIdentifier": "S2742462",
+      "position": 91000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that to be \"persistent\", a URI must have a stable, well-documented meaning and be plausibly intended to identify a given resource in perpetuity.",
+      "comments": [],
+      "ancestorIds": [
+        "9E53ACCFD50A4FF19B97B8777CF6AF56",
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "9E53ACCFD50A4FF19B97B8777CF6AF56"
+    },
+    "9E53ACCFD50A4FF19B97B8777CF6AF56": {
+      "id": "9E53ACCFD50A4FF19B97B8777CF6AF56",
+      "asnIdentifier": "S2696076",
+      "position": 90000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Managing identifiers (URI)",
+      "comments": [],
+      "ancestorIds": [
+        "09ACDBF52C3447B4ADC43D55E920C8E6"
+      ],
+      "parentId": "09ACDBF52C3447B4ADC43D55E920C8E6"
+    },
+    "09ACDBF52C3447B4ADC43D55E920C8E6": {
+      "id": "09ACDBF52C3447B4ADC43D55E920C8E6",
+      "asnIdentifier": "S2696022",
+      "position": 89000,
+      "depth": 0,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic Cluster",
+      "description": "Creating and transforming Linked Data",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "715902B161F84B3A870F3662D77BA98E": {
+      "id": "715902B161F84B3A870F3662D77BA98E",
+      "asnIdentifier": "S2731581",
+      "position": 88000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Participates in the social process of developing application profiles.",
+      "comments": [],
+      "ancestorIds": [
+        "F0E71CDF429F4D918F0C9241F8DEF59B",
+        "26397748B2964D78B68B4BC20C355D19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "F0E71CDF429F4D918F0C9241F8DEF59B"
+    },
+    "0A502A2F102D425C9A3807BA879A6316": {
+      "id": "0A502A2F102D425C9A3807BA879A6316",
+      "asnIdentifier": "S2731580",
+      "position": 87000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Communicates a domain model with words and diagrams.",
+      "comments": [],
+      "ancestorIds": [
+        "F0E71CDF429F4D918F0C9241F8DEF59B",
+        "26397748B2964D78B68B4BC20C355D19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "F0E71CDF429F4D918F0C9241F8DEF59B"
+    },
+    "F0E71CDF429F4D918F0C9241F8DEF59B": {
+      "id": "F0E71CDF429F4D918F0C9241F8DEF59B",
+      "asnIdentifier": "S2731579",
+      "position": 86000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Investigates how others have modeled the same or similar application domains.",
+      "comments": [],
+      "ancestorIds": [
+        "26397748B2964D78B68B4BC20C355D19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "26397748B2964D78B68B4BC20C355D19"
+    },
+    "6667E0D2F17B44AAB241A40403784EC2": {
+      "id": "6667E0D2F17B44AAB241A40403784EC2",
+      "asnIdentifier": "S2731578",
+      "position": 85000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Identifies resource attributes and relationships between domain entities as candidates for RDF properties.",
+      "comments": [],
+      "ancestorIds": [
+        "26397748B2964D78B68B4BC20C355D19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "26397748B2964D78B68B4BC20C355D19"
+    },
+    "6D0279560B274C73932964C8189C9758": {
+      "id": "6D0279560B274C73932964C8189C9758",
+      "asnIdentifier": "S2731577",
+      "position": 84000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Identifies real-world entities in an application domain as candidates for RDF classes.",
+      "comments": [],
+      "ancestorIds": [
+        "26397748B2964D78B68B4BC20C355D19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "26397748B2964D78B68B4BC20C355D19"
+    },
+    "26397748B2964D78B68B4BC20C355D19": {
+      "id": "26397748B2964D78B68B4BC20C355D19",
+      "asnIdentifier": "S2696069",
+      "position": 83000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "RDF application profiles",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "58E0CF9AA8744D5D9299020B17D39CA8": {
+      "id": "58E0CF9AA8744D5D9299020B17D39CA8",
+      "asnIdentifier": "S2742448",
+      "position": 82000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Recognizes that owl:sameAs, while popular as a mapping property, has strong formal semantics that can entail unintended inferences.",
+      "comments": [],
+      "ancestorIds": [
+        "D11F00226D964518A37E2C5753F9B07D",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "D11F00226D964518A37E2C5753F9B07D"
+    },
+    "B4A34BA06B7D47318DC7B1F66C6DF60D": {
+      "id": "B4A34BA06B7D47318DC7B1F66C6DF60D",
+      "asnIdentifier": "S2742461",
+      "position": 81000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that owl:equivalentProperty and owl:equivalentClass may be used when equivalencies between properties or between classes are exact.",
+      "comments": [],
+      "ancestorIds": [
+        "D11F00226D964518A37E2C5753F9B07D",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "D11F00226D964518A37E2C5753F9B07D"
+    },
+    "797DA3CE1F614012B1BC5AA7D633C1D8": {
+      "id": "797DA3CE1F614012B1BC5AA7D633C1D8",
+      "asnIdentifier": "S2742460",
+      "position": 80000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that the properties of hierarchical subsumption within an RDF vocabulary -- rdfs:subPropertyOf and rdfs:subClassOf -- can also be used to express mappings between vocabularies.",
+      "comments": [],
+      "ancestorIds": [
+        "D11F00226D964518A37E2C5753F9B07D",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "D11F00226D964518A37E2C5753F9B07D"
+    },
+    "D11F00226D964518A37E2C5753F9B07D": {
+      "id": "D11F00226D964518A37E2C5753F9B07D",
+      "asnIdentifier": "S2696065",
+      "position": 79000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Mapping RDF vocabularies",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "91705480866744D983CDE7BCC6824FF6": {
+      "id": "91705480866744D983CDE7BCC6824FF6",
+      "asnIdentifier": "S2742459",
+      "position": 78000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Ensures that when dereferenced by an RDF application, a URI returns representation of the resource in the requested RDF serialization syntax.",
+      "comments": [],
+      "ancestorIds": [
+        "23A06FD939CC4C6BB57ABB422FAEBC39",
+        "CA63D32EC6584571A8D8CD7663142A03",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "23A06FD939CC4C6BB57ABB422FAEBC39"
+    },
+    "DECEF0AC475F40719BECFCC23D72F747": {
+      "id": "DECEF0AC475F40719BECFCC23D72F747",
+      "asnIdentifier": "S2742458",
+      "position": 77000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Ensures that when dereferenced by a Web browser, a URI returns a representation of the resource in human-readable HTML.",
+      "comments": [],
+      "ancestorIds": [
+        "23A06FD939CC4C6BB57ABB422FAEBC39",
+        "CA63D32EC6584571A8D8CD7663142A03",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "23A06FD939CC4C6BB57ABB422FAEBC39"
+    },
+    "23A06FD939CC4C6BB57ABB422FAEBC39": {
+      "id": "23A06FD939CC4C6BB57ABB422FAEBC39",
+      "asnIdentifier": "S2742457",
+      "position": 76000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that to be \"dereferencable\", a URI should be usable to retrieve a representation of the resource it identifies.",
+      "comments": [],
+      "ancestorIds": [
+        "CA63D32EC6584571A8D8CD7663142A03",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "CA63D32EC6584571A8D8CD7663142A03"
+    },
+    "6F3B89BDF99F44F08215789F47BB0C6F": {
+      "id": "6F3B89BDF99F44F08215789F47BB0C6F",
+      "asnIdentifier": "S2731576",
+      "position": 75000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the purpose of publishing RDF vocabularies in multiple formats using content negotiation.",
+      "comments": [],
+      "ancestorIds": [
+        "CA63D32EC6584571A8D8CD7663142A03",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "CA63D32EC6584571A8D8CD7663142A03"
+    },
+    "F1F2F04D44544F7DB14B7B8AB2BEF36D": {
+      "id": "F1F2F04D44544F7DB14B7B8AB2BEF36D",
+      "asnIdentifier": "S2731575",
+      "position": 74000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the typical publication formats for RDF vocabularies and their relative advantages",
+      "comments": [],
+      "ancestorIds": [
+        "CA63D32EC6584571A8D8CD7663142A03",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "CA63D32EC6584571A8D8CD7663142A03"
+    },
+    "CA63D32EC6584571A8D8CD7663142A03": {
+      "id": "CA63D32EC6584571A8D8CD7663142A03",
+      "asnIdentifier": "S2696061",
+      "position": 73000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Publishing RDF vocabularies",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "5921521E648342F493BAAA2C7C485B95": {
+      "id": "5921521E648342F493BAAA2C7C485B95",
+      "asnIdentifier": "S2731574",
+      "position": 72000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Can express and justify a versioning policy.",
+      "comments": [],
+      "ancestorIds": [
+        "62419C19CAE14407872893A56A1D9D40",
+        "BB243C2F059042D58E1B8BC2D5CC4117",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "62419C19CAE14407872893A56A1D9D40"
+    },
+    "62419C19CAE14407872893A56A1D9D40": {
+      "id": "62419C19CAE14407872893A56A1D9D40",
+      "asnIdentifier": "S2742456",
+      "position": 71000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the trade-offs between publishing RDF vocabularies in periodic, numbered releases versus more continual or incremental approaches.",
+      "comments": [],
+      "ancestorIds": [
+        "BB243C2F059042D58E1B8BC2D5CC4117",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "BB243C2F059042D58E1B8BC2D5CC4117"
+    },
+    "905D892FF2CA4F998E620147752CAD45": {
+      "id": "905D892FF2CA4F998E620147752CAD45",
+      "asnIdentifier": "S2731573",
+      "position": 70000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows technical options for the form, content, and granularity of versions.",
+      "comments": [],
+      "ancestorIds": [
+        "BB243C2F059042D58E1B8BC2D5CC4117",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "BB243C2F059042D58E1B8BC2D5CC4117"
+    },
+    "BB243C2F059042D58E1B8BC2D5CC4117": {
+      "id": "BB243C2F059042D58E1B8BC2D5CC4117",
+      "asnIdentifier": "S2696058",
+      "position": 69000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Versioning RDF vocabularies",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "13042592119A48D2B20194321F5A105A": {
+      "id": "13042592119A48D2B20194321F5A105A",
+      "asnIdentifier": "S2731572",
+      "position": 68000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Can draft a persistence policy.",
+      "comments": [],
+      "ancestorIds": [
+        "C237A1D8208D4869A3820C1805BD7EED",
+        "13DC4EB0A82A4A3FAC578AB65D188B19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "C237A1D8208D4869A3820C1805BD7EED"
+    },
+    "C237A1D8208D4869A3820C1805BD7EED": {
+      "id": "C237A1D8208D4869A3820C1805BD7EED",
+      "asnIdentifier": "S2731571",
+      "position": 67000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands policy options for persistence guarantees.",
+      "comments": [],
+      "ancestorIds": [
+        "13DC4EB0A82A4A3FAC578AB65D188B19",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "13DC4EB0A82A4A3FAC578AB65D188B19"
+    },
+    "13DC4EB0A82A4A3FAC578AB65D188B19": {
+      "id": "13DC4EB0A82A4A3FAC578AB65D188B19",
+      "asnIdentifier": "S2696051",
+      "position": 66000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Maintaining RDF vocabularies",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "8AC33A0E5D50484FAA1FC06833450821": {
+      "id": "8AC33A0E5D50484FAA1FC06833450821",
+      "asnIdentifier": "S2731565",
+      "position": 65000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the naming conventions for RDF properties and classes.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "511C0948D30F456CA56D24E33E5C3531": {
+      "id": "511C0948D30F456CA56D24E33E5C3531",
+      "asnIdentifier": "S2742455",
+      "position": 64000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that in contrast to OWL sub-class chains, hierarchies of SKOS concepts are designed not to form transitive chains automatically because this is not how humans think or organize information.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "7EC61EC526FE4916B99F1B1A37E64D1A": {
+      "id": "7EC61EC526FE4916B99F1B1A37E64D1A",
+      "asnIdentifier": "S2742454",
+      "position": 63000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that SKOS can express a flexibly associative structure of concepts without enabling the more rigid and automatic inferences typically specified in a class-based OWL ontology.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "0544C37216C044C5BEB1C1294E412573": {
+      "id": "0544C37216C044C5BEB1C1294E412573",
+      "asnIdentifier": "S2742453",
+      "position": 62000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that in a formal sense, a SKOS concept is not an RDF class but an instance and, as such, is not formally associated with a set of instances (\"class extension\").",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "AFD9B49B537B4BA1BE13098BC606F7DD": {
+      "id": "AFD9B49B537B4BA1BE13098BC606F7DD",
+      "asnIdentifier": "S2742452",
+      "position": 61000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows SKOS eXtension for Labels, or SKOS-XL (2009), a small set of additional properties for describing and linking lexical labels as instances of the class Label.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "1315F10D47A74E03B16BEE4933E792B0": {
+      "id": "1315F10D47A74E03B16BEE4933E792B0",
+      "asnIdentifier": "S2742451",
+      "position": 60000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows Simple Knowledge Organization System, or SKOS (2009), an RDF vocabulary for expressing concepts that are labeled in natural languages, organized into informal hierarchies, and aggregated into concept schemes.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "958A1AA2601148679BE1F95B30FEAACE": {
+      "id": "958A1AA2601148679BE1F95B30FEAACE",
+      "asnIdentifier": "S2742450",
+      "position": 59000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows that the word \"ontology\" is ambiguous, referring to any RDF vocabulary, but more typically a set of OWL classes and properties designed to support inferencing in a specific domain.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "2675AE06BA034A399062ED6CEE7B3F03": {
+      "id": "2675AE06BA034A399062ED6CEE7B3F03",
+      "asnIdentifier": "S2742449",
+      "position": 58000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows Web Ontology Language, or OWL (2004), as a RDF vocabulary of properties and classes that extend support for expressive data modeling and automated inferencing (reasoning).",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "D56DB19EC1984FCEA4D2C07D44458C22": {
+      "id": "D56DB19EC1984FCEA4D2C07D44458C22",
+      "asnIdentifier": "S2731570",
+      "position": 57000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Chooses \"hash\"- or \"slash\"-based URI patterns based on requirements.",
+      "comments": [],
+      "ancestorIds": [
+        "B6798390A7AA48BA8BD3DB727C7B3C75",
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "B6798390A7AA48BA8BD3DB727C7B3C75"
+    },
+    "00947180918B403EA0EA70AECBC53C21": {
+      "id": "00947180918B403EA0EA70AECBC53C21",
+      "asnIdentifier": "S2731569",
+      "position": 56000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Drafts a policy for coining URIs for properties and classes.",
+      "comments": [],
+      "ancestorIds": [
+        "B6798390A7AA48BA8BD3DB727C7B3C75",
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "B6798390A7AA48BA8BD3DB727C7B3C75"
+    },
+    "B6798390A7AA48BA8BD3DB727C7B3C75": {
+      "id": "B6798390A7AA48BA8BD3DB727C7B3C75",
+      "asnIdentifier": "S2731568",
+      "position": 55000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Coins namespace URIs, as needed, for any new properties and classes required.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "C1C07F7B3C964E5D86CBEB275141094C": {
+      "id": "C1C07F7B3C964E5D86CBEB275141094C",
+      "asnIdentifier": "S2731566",
+      "position": 54000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Reuses published properties and classes where available.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "588288B8BD5E4809B3B909566B5E1518": {
+      "id": "588288B8BD5E4809B3B909566B5E1518",
+      "asnIdentifier": "S2731564",
+      "position": 53000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Correctly uses sub-property relationships in support of inference.",
+      "comments": [],
+      "ancestorIds": [
+        "5C71BF2822224D16A1865F4B8DCFD4D2",
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "5C71BF2822224D16A1865F4B8DCFD4D2"
+    },
+    "F8C9FBA5E86D483FAE7CC888F54DDE6E": {
+      "id": "F8C9FBA5E86D483FAE7CC888F54DDE6E",
+      "asnIdentifier": "S2731563",
+      "position": 52000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Correctly uses sub-class relationships in support of inference.",
+      "comments": [],
+      "ancestorIds": [
+        "5C71BF2822224D16A1865F4B8DCFD4D2",
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "5C71BF2822224D16A1865F4B8DCFD4D2"
+    },
+    "5C71BF2822224D16A1865F4B8DCFD4D2": {
+      "id": "5C71BF2822224D16A1865F4B8DCFD4D2",
+      "asnIdentifier": "S2731562",
+      "position": 51000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Uses RDF Schema to express semantic relationships within a vocabulary.",
+      "comments": [],
+      "ancestorIds": [
+        "9A9C3C137AEA46A1A29C46A636D29913",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "9A9C3C137AEA46A1A29C46A636D29913"
+    },
+    "9A9C3C137AEA46A1A29C46A636D29913": {
+      "id": "9A9C3C137AEA46A1A29C46A636D29913",
+      "asnIdentifier": "S2731561",
+      "position": 50000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Designing RDF-based vocabularies",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "3A6B5846D642417CA2BFED8D556394A4": {
+      "id": "3A6B5846D642417CA2BFED8D556394A4",
+      "asnIdentifier": "S2696094",
+      "position": 49000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Finds properties and classes in the Linked Open Vocabularies (LOV) observatory and explores their versions and dependencies.",
+      "comments": [],
+      "ancestorIds": [
+        "86E66F87B64244818214424D3FB51BAC",
+        "F55FA057375141E9B724F70162E3ADD0",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "86E66F87B64244818214424D3FB51BAC"
+    },
+    "86E66F87B64244818214424D3FB51BAC": {
+      "id": "86E66F87B64244818214424D3FB51BAC",
+      "asnIdentifier": "S2731567",
+      "position": 48000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "[MOVE] Knows portals and registries for finding RDF-based vocabularies.",
+      "comments": [],
+      "ancestorIds": [
+        "F55FA057375141E9B724F70162E3ADD0",
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "F55FA057375141E9B724F70162E3ADD0"
+    },
+    "F55FA057375141E9B724F70162E3ADD0": {
+      "id": "F55FA057375141E9B724F70162E3ADD0",
+      "asnIdentifier": "S2696044",
+      "position": 47000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Finding RDF-based vocabularies",
+      "comments": [],
+      "ancestorIds": [
+        "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+      ],
+      "parentId": "59723DD6AB2B4EC6A3FFC670D3AFAB21"
+    },
+    "59723DD6AB2B4EC6A3FFC670D3AFAB21": {
+      "id": "59723DD6AB2B4EC6A3FFC670D3AFAB21",
+      "asnIdentifier": "S2696018",
+      "position": 46000,
+      "depth": 0,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic Cluster",
+      "description": "RDF vocabularies and application profiles",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9FA315C7468C4E188D6AE3519DD18125": {
+      "id": "9FA315C7468C4E188D6AE3519DD18125",
+      "asnIdentifier": "S2696039",
+      "position": 45000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Non-RDF linked data",
+      "comments": [],
+      "ancestorIds": [
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "D40414205D5843A9843F9FE4242942E6"
+    },
+    "52F7805B4D13434D9DC89A3C87F5AE39": {
+      "id": "52F7805B4D13434D9DC89A3C87F5AE39",
+      "asnIdentifier": "S2731560",
+      "position": 44000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Participates in developing standards and best practice with relevant organizations such as W3C.",
+      "comments": [],
+      "ancestorIds": [
+        "D7AB313C3B254DEA9AD519C4D1D84373",
+        "369C5CFCA7984F0DA1B0222BABECE3DF",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "D7AB313C3B254DEA9AD519C4D1D84373"
+    },
+    "D7AB313C3B254DEA9AD519C4D1D84373": {
+      "id": "D7AB313C3B254DEA9AD519C4D1D84373",
+      "asnIdentifier": "S2731559",
+      "position": 43000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the primary organizations related to Linked Data standardization.",
+      "comments": [],
+      "ancestorIds": [
+        "369C5CFCA7984F0DA1B0222BABECE3DF",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "369C5CFCA7984F0DA1B0222BABECE3DF"
+    },
+    "369C5CFCA7984F0DA1B0222BABECE3DF": {
+      "id": "369C5CFCA7984F0DA1B0222BABECE3DF",
+      "asnIdentifier": "S2696036",
+      "position": 42000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Linked Data policies and best practices",
+      "comments": [],
+      "ancestorIds": [
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "D40414205D5843A9843F9FE4242942E6"
+    },
+    "745F570DBD4545B2AC3128623E516C1B": {
+      "id": "745F570DBD4545B2AC3128623E516C1B",
+      "asnIdentifier": "S2742441",
+      "position": 41000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the \"five stars\" of Open Data: put data on the Web, preferably in a structured and preferably non-proprietary format, using URIs to name things, and link to other data.",
+      "comments": [],
+      "ancestorIds": [
+        "FCE2867BB33C406A9D6E32A59DD20575",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "FCE2867BB33C406A9D6E32A59DD20575"
+    },
+    "6E427C2B0C0F44E38A8E748ED6BEA8A9": {
+      "id": "6E427C2B0C0F44E38A8E748ED6BEA8A9",
+      "asnIdentifier": "S2696031",
+      "position": 40000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows Tim Berners-Lee's principles of Linked Data: use URIs to name things, use HTTP URIs that can be resolved to useful information, and create links to URIs of other things.",
+      "comments": [],
+      "ancestorIds": [
+        "FCE2867BB33C406A9D6E32A59DD20575",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "FCE2867BB33C406A9D6E32A59DD20575"
+    },
+    "FCE2867BB33C406A9D6E32A59DD20575": {
+      "id": "FCE2867BB33C406A9D6E32A59DD20575",
+      "asnIdentifier": "S2696027",
+      "position": 39000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Linked Data principles",
+      "comments": [],
+      "ancestorIds": [
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "D40414205D5843A9843F9FE4242942E6"
+    },
+    "ED555683C91349608623EE97A8EE041A": {
+      "id": "ED555683C91349608623EE97A8EE041A",
+      "asnIdentifier": "S2742447",
+      "position": 38000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows Representational State Transfer, or REST (2000) as a software architectural style whereby browsers can exchange data with web servers, typically on the basis of well-known HTTP actions.",
+      "comments": [],
+      "ancestorIds": [
+        "146D9B8DD56F40178348C11E1B89E658",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "146D9B8DD56F40178348C11E1B89E658"
+    },
+    "B67717965A2D4250A8DBB20F917C173A": {
+      "id": "B67717965A2D4250A8DBB20F917C173A",
+      "asnIdentifier": "S2742446",
+      "position": 37000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows Hypertext Transfer Protocol, or HTTP (1991+), as the basic technology for resolving hyperlinks and transferring data on the World Wide Web.",
+      "comments": [],
+      "ancestorIds": [
+        "146D9B8DD56F40178348C11E1B89E658",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "146D9B8DD56F40178348C11E1B89E658"
+    },
+    "9FD77633D3734123B8F41D471E8428BF": {
+      "id": "9FD77633D3734123B8F41D471E8428BF",
+      "asnIdentifier": "S2742445",
+      "position": 36000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows HTML5 (2014) as a version of HTML extended with support for complex web and mobile applications.",
+      "comments": [],
+      "ancestorIds": [
+        "146D9B8DD56F40178348C11E1B89E658",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "146D9B8DD56F40178348C11E1B89E658"
+    },
+    "4200A0E819A042FC8DA1AA0D0ED14980": {
+      "id": "4200A0E819A042FC8DA1AA0D0ED14980",
+      "asnIdentifier": "S2742444",
+      "position": 35000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows HyperText Markup Language, or HTML (1991+), as a language for \"marking up\" the content and multimedia components of Web pages.",
+      "comments": [],
+      "ancestorIds": [
+        "146D9B8DD56F40178348C11E1B89E658",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "146D9B8DD56F40178348C11E1B89E658"
+    },
+    "9C290A0C7A6342C7ABEA3A907223DAA1": {
+      "id": "9C290A0C7A6342C7ABEA3A907223DAA1",
+      "asnIdentifier": "S2742443",
+      "position": 34000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that Linked Data (2006) extended the notion of a web of documents (the Web) to a notion of a web of finer-grained data (the Linked Data cloud).",
+      "comments": [],
+      "ancestorIds": [
+        "146D9B8DD56F40178348C11E1B89E658",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "146D9B8DD56F40178348C11E1B89E658"
+    },
+    "702AC763B839456B88EF7A892D6FE713": {
+      "id": "702AC763B839456B88EF7A892D6FE713",
+      "asnIdentifier": "S2742442",
+      "position": 33000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the origins of the World Wide Web (1989) as a non-linear interactive system, or hypermedia, built on the Internet.",
+      "comments": [],
+      "ancestorIds": [
+        "146D9B8DD56F40178348C11E1B89E658",
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "146D9B8DD56F40178348C11E1B89E658"
+    },
+    "146D9B8DD56F40178348C11E1B89E658": {
+      "id": "146D9B8DD56F40178348C11E1B89E658",
+      "asnIdentifier": "S2696025",
+      "position": 32000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Web technology",
+      "comments": [],
+      "ancestorIds": [
+        "D40414205D5843A9843F9FE4242942E6"
+      ],
+      "parentId": "D40414205D5843A9843F9FE4242942E6"
+    },
+    "D40414205D5843A9843F9FE4242942E6": {
+      "id": "D40414205D5843A9843F9FE4242942E6",
+      "asnIdentifier": "S2695997",
+      "position": 31000,
+      "depth": 0,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic Cluster",
+      "description": "Fundamentals of Linked Data",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "57BEC43FD4F1456AB38E163CBBDA3D53": {
+      "id": "57BEC43FD4F1456AB38E163CBBDA3D53",
+      "asnIdentifier": "S2731557",
+      "position": 30000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Expresses data in serializations such as RDF/XML, N-Triples, Turtle, N3, Trig, JSON-LD, and RDFa.",
+      "comments": [],
+      "ancestorIds": [
+        "00E6272F2BAE4CD18E20F5496650AD33",
+        "CA4D04563F914C48ACDFDFC3850B0750",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "00E6272F2BAE4CD18E20F5496650AD33"
+    },
+    "00E6272F2BAE4CD18E20F5496650AD33": {
+      "id": "00E6272F2BAE4CD18E20F5496650AD33",
+      "asnIdentifier": "S2731556",
+      "position": 29000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Distinguishes the RDF abstract data model and concrete serializations of RDF data.",
+      "comments": [],
+      "ancestorIds": [
+        "CA4D04563F914C48ACDFDFC3850B0750",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "CA4D04563F914C48ACDFDFC3850B0750"
+    },
+    "6BBF080B3D8146A7B907DF95917CE41D": {
+      "id": "6BBF080B3D8146A7B907DF95917CE41D",
+      "asnIdentifier": "S2731558",
+      "position": 28000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses tools to convert RDF data between different serializations.",
+      "comments": [],
+      "ancestorIds": [
+        "0023D4BE03F04437BF8E5AA4CAAA7907",
+        "CA4D04563F914C48ACDFDFC3850B0750",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "0023D4BE03F04437BF8E5AA4CAAA7907"
+    },
+    "0023D4BE03F04437BF8E5AA4CAAA7907": {
+      "id": "0023D4BE03F04437BF8E5AA4CAAA7907",
+      "asnIdentifier": "S2709805",
+      "position": 27000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands RDF serializations as interchangeable encodings of a given set of triples (RDF graph).",
+      "comments": [],
+      "ancestorIds": [
+        "CA4D04563F914C48ACDFDFC3850B0750",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "CA4D04563F914C48ACDFDFC3850B0750"
+    },
+    "CA4D04563F914C48ACDFDFC3850B0750": {
+      "id": "CA4D04563F914C48ACDFDFC3850B0750",
+      "asnIdentifier": "S2696017",
+      "position": 26000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "RDF serialization",
+      "comments": [],
+      "ancestorIds": [
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "2D3EA3AE69D24B489B71BB374D513976"
+    },
+    "770A754F5E8E4E19A0A47FA86CC332FF": {
+      "id": "770A754F5E8E4E19A0A47FA86CC332FF",
+      "asnIdentifier": "S2742440",
+      "position": 25000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands how an RDF class (named set of things) fundamentally differs from an object-oriented programming class, which defines a type of object bundling \"state\" (attributes with data values) and \"behavior\" (functions that operate on state).",
+      "comments": [],
+      "ancestorIds": [
+        "63B1435DAB8E4BA58E666BF6A2AF4069",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "63B1435DAB8E4BA58E666BF6A2AF4069"
+    },
+    "CA9953D0A30A485A8E7D269BC089C738": {
+      "id": "CA9953D0A30A485A8E7D269BC089C738",
+      "asnIdentifier": "S2731555",
+      "position": 24000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Differentiates hierarchical document models (eg, XML) and graph models (RDF).",
+      "comments": [],
+      "ancestorIds": [
+        "63B1435DAB8E4BA58E666BF6A2AF4069",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "63B1435DAB8E4BA58E666BF6A2AF4069"
+    },
+    "BD2DE2D282A4407D97FEC2D3C21B7FFB": {
+      "id": "BD2DE2D282A4407D97FEC2D3C21B7FFB",
+      "asnIdentifier": "S2731554",
+      "position": 23000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Grasps essential differences between schemas for syntactic validation (e.g., XML) and for inferencing (RDF Schema).",
+      "comments": [],
+      "ancestorIds": [
+        "63B1435DAB8E4BA58E666BF6A2AF4069",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "63B1435DAB8E4BA58E666BF6A2AF4069"
+    },
+    "63B1435DAB8E4BA58E666BF6A2AF4069": {
+      "id": "63B1435DAB8E4BA58E666BF6A2AF4069",
+      "asnIdentifier": "S2696012",
+      "position": 22000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Related data models",
+      "comments": [],
+      "ancestorIds": [
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "2D3EA3AE69D24B489B71BB374D513976"
+    },
+    "4608ABDFD6BD40F29F59102E6547EE82": {
+      "id": "4608ABDFD6BD40F29F59102E6547EE82",
+      "asnIdentifier": "S2731590",
+      "position": 21000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands how a namespace, informally used in the RDF context for a namespace URI or RDF vocabulary, fundamentally differs from the namespace of data attributes and functions (methods) defined for an object-oriented class.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "209ADD7BBB1E41EF9BA55F007CE233DF": {
+      "id": "209ADD7BBB1E41EF9BA55F007CE233DF",
+      "asnIdentifier": "S2709875",
+      "position": 20000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": "Competency",
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands a named graph as one of the collection of graphs comprising an RDF dataset, with a graph name unique in the context of that dataset.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "5FBF539354164B228774154A3A85FE7B": {
+      "id": "5FBF539354164B228774154A3A85FE7B",
+      "asnIdentifier": "S2731553",
+      "position": 19000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Can use graphing or modeling software to share those models with others.",
+      "comments": [],
+      "ancestorIds": [
+        "B568610EC346488185E736448D08992E",
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "B568610EC346488185E736448D08992E"
+    },
+    "B568610EC346488185E736448D08992E": {
+      "id": "B568610EC346488185E736448D08992E",
+      "asnIdentifier": "S2731552",
+      "position": 18000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows graphic conventions for depicting RDF-based models.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "CC934B8986CF46F8851389D7AF46F4EA": {
+      "id": "CC934B8986CF46F8851389D7AF46F4EA",
+      "asnIdentifier": "S2731551",
+      "position": 17000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the RDF abstract data model as a directed labeled graph.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "B83D18F7296343F3BCA2FD30DCC7C3D9": {
+      "id": "B83D18F7296343F3BCA2FD30DCC7C3D9",
+      "asnIdentifier": "S2731549",
+      "position": 16000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Articulates differences between the RDF abstract data model and the XML and relational models.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "C4C843E48E2748508F4298987089A6D4": {
+      "id": "C4C843E48E2748508F4298987089A6D4",
+      "asnIdentifier": "S2710007",
+      "position": 15000,
+      "depth": 3,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Benchmark",
+      "description": "Uses prefixes for URIs in RDF specifications and data.",
+      "comments": [],
+      "ancestorIds": [
+        "4B78EAD16A914B539C529770F4D28A78",
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "4B78EAD16A914B539C529770F4D28A78"
+    },
+    "4B78EAD16A914B539C529770F4D28A78": {
+      "id": "4B78EAD16A914B539C529770F4D28A78",
+      "asnIdentifier": "S2710003",
+      "position": 14000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that QNames define shorthand prefixes for long URIs.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "F09D876762E74658BE0F5B1714579600": {
+      "id": "F09D876762E74658BE0F5B1714579600",
+      "asnIdentifier": "S2709997",
+      "position": 13000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands blank nodes and their uses.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "8ACE966DD1BD4D149630A5BD8E6835AE": {
+      "id": "8ACE966DD1BD4D149630A5BD8E6835AE",
+      "asnIdentifier": "S2709299",
+      "position": 12000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the use of datatypes and language tags with literals.",
+      "comments": [
+        "Datatypes define the range of possible values of a literal (e.g., dates) and language tags denote the natural language of plain-text strings."
+      ],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "FA495F5B59224C299F4E694AAD40FBC7": {
+      "id": "FA495F5B59224C299F4E694AAD40FBC7",
+      "asnIdentifier": "S2709298",
+      "position": 11000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that resources are declared to be members (instances) of classes using the property rdf:type.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "A157DC0DA779488DBBD30352B1B84A12": {
+      "id": "A157DC0DA779488DBBD30352B1B84A12",
+      "asnIdentifier": "S2709297",
+      "position": 10000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that URIs and literals denote things in the world (\"resources\") real, imagined, or conceptual.",
+      "comments": [],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "D1E13C3A1B5D46C58BE7ABB22F2F220A": {
+      "id": "D1E13C3A1B5D46C58BE7ABB22F2F220A",
+      "asnIdentifier": "S2709295",
+      "position": 9000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands the difference between literals and non-literal resources.",
+      "comments": [
+        "I.e., understands the difference between strings and things."
+      ],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "73D49DFA88A24E4DB15142B73CB50302": {
+      "id": "73D49DFA88A24E4DB15142B73CB50302",
+      "asnIdentifier": "S2709296",
+      "position": 8000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows the subject-predicate-object component structure of a triple.",
+      "comments": [
+        "I.e., understands: (1) that the core structure of the RDF abstract syntax is a set of triples, each consisting of a subject, a predicate and an object; and, (2) that the triple is the simplest form of RDF graph and can be visualized as a node and directed-arc diagram. http://www.w3.org/TR/rdf11-concepts/#data-model"
+      ],
+      "ancestorIds": [
+        "12FA1C93F55247718FC5CCFD5DE67318",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "12FA1C93F55247718FC5CCFD5DE67318"
+    },
+    "12FA1C93F55247718FC5CCFD5DE67318": {
+      "id": "12FA1C93F55247718FC5CCFD5DE67318",
+      "asnIdentifier": "S2696007",
+      "position": 7000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "RDF data model",
+      "comments": [],
+      "ancestorIds": [
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "2D3EA3AE69D24B489B71BB374D513976"
+    },
+    "D2EB5D797DB34809971D3C8689C97B61": {
+      "id": "D2EB5D797DB34809971D3C8689C97B61",
+      "asnIdentifier": "S2709286",
+      "position": 6000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows that Uniform Resource Identifiers, or URIs (1994), include Uniform Resource Locators (URLs, which locate web pages) as well as location-independent identifiers for physical, conceptual, or web resources.",
+      "comments": [],
+      "ancestorIds": [
+        "61D1BFC2578F4A4D94340D54BB7760B1",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "61D1BFC2578F4A4D94340D54BB7760B1"
+    },
+    "7423A64A441E40DE9CB5EBE48BB211D8": {
+      "id": "7423A64A441E40DE9CB5EBE48BB211D8",
+      "asnIdentifier": "S2742439",
+      "position": 5000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Recognizes that URIs are \"owned\" by the owners of their respective Internet domains.",
+      "comments": [],
+      "ancestorIds": [
+        "61D1BFC2578F4A4D94340D54BB7760B1",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "61D1BFC2578F4A4D94340D54BB7760B1"
+    },
+    "FA45B80F9BF74FC1B0455EBD1A05C43B": {
+      "id": "FA45B80F9BF74FC1B0455EBD1A05C43B",
+      "asnIdentifier": "S2742438",
+      "position": 4000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Understands that a \"real-world\" thing may need to be named with a URI distinct from the URI for information about that thing.",
+      "comments": [],
+      "ancestorIds": [
+        "61D1BFC2578F4A4D94340D54BB7760B1",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "61D1BFC2578F4A4D94340D54BB7760B1"
+    },
+    "6B7AD455A94A42DC968FCBA09F7457F0": {
+      "id": "6B7AD455A94A42DC968FCBA09F7457F0",
+      "asnIdentifier": "S2731548",
+      "position": 3000,
+      "depth": 2,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Competency",
+      "description": "Knows that anything can be named with Uniform Resource Identifiers (URIs), such as agents, places, events, artifacts, and concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "61D1BFC2578F4A4D94340D54BB7760B1",
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "61D1BFC2578F4A4D94340D54BB7760B1"
+    },
+    "61D1BFC2578F4A4D94340D54BB7760B1": {
+      "id": "61D1BFC2578F4A4D94340D54BB7760B1",
+      "asnIdentifier": "S2696001",
+      "position": 2000,
+      "depth": 1,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic",
+      "description": "Identity in RDF",
+      "comments": [],
+      "ancestorIds": [
+        "2D3EA3AE69D24B489B71BB374D513976"
+      ],
+      "parentId": "2D3EA3AE69D24B489B71BB374D513976"
+    },
+    "2D3EA3AE69D24B489B71BB374D513976": {
+      "id": "2D3EA3AE69D24B489B71BB374D513976",
+      "asnIdentifier": "S2695991",
+      "position": 1000,
+      "depth": 0,
+      "listId": null,
+      "statementNotation": null,
+      "altStatementNotation": null,
+      "statementLabel": "Topic Cluster",
+      "description": "Fundamentals of Resource Description Framework",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

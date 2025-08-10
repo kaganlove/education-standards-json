@@ -1,0 +1,1018 @@
+{
+  "id": "99301CAF70794BBCA568186C479A5DFC_D2479054_high-school-number-and-quantity",
+  "title": "High School — Number and Quantity",
+  "subject": "Common Core Mathematics (2010-2020)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "id": "D2479054",
+    "valid": "2010",
+    "title": "ME Common Core State Standards for Mathematics",
+    "sourceURL": "http://www.corestandards.org/assets/CCSSI_Math%20Standards.pdf",
+    "asnIdentifier": "D2479054",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "99301CAF70794BBCA568186C479A5DFC",
+    "title": "Maine"
+  },
+  "standards": {
+    "054B7A40DFE60131355268A86D17958E": {
+      "statementLabel": "Standard",
+      "id": "054B7A40DFE60131355268A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.12",
+      "altStatementNotation": "N.VM.12",
+      "listId": "12.",
+      "description": "(+) Work with 2 × 2 matrices as transformations of the plane, and interpret the absolute value of the determinant in terms of area.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/12"
+      ],
+      "asnIdentifier": "S2479530",
+      "position": 54000,
+      "depth": 2,
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "05454F80DFE60131355168A86D17958E": {
+      "asnIdentifier": "S2479529",
+      "position": 53000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "listId": "11.",
+      "description": "(+) Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/11"
+      ],
+      "id": "05454F80DFE60131355168A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.11",
+      "altStatementNotation": "N.VM.11",
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "0544E660DFE60131355068A86D17958E": {
+      "asnIdentifier": "S2479528",
+      "depth": 2,
+      "statementLabel": "Standard",
+      "altStatementNotation": "N.VM.10",
+      "listId": "10.",
+      "description": "(+) Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/10"
+      ],
+      "id": "0544E660DFE60131355068A86D17958E",
+      "position": 52000,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.10",
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "054D03E0DFE60131355668A86D17958E": {
+      "id": "054D03E0DFE60131355668A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.9",
+      "altStatementNotation": "N.VM.9",
+      "statementLabel": "Standard",
+      "description": "(+) Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/9"
+      ],
+      "asnIdentifier": "S2479527",
+      "position": 51000,
+      "depth": 2,
+      "listId": "9.",
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "054CA1B0DFE60131355568A86D17958E": {
+      "id": "054CA1B0DFE60131355568A86D17958E",
+      "asnIdentifier": "S2479526",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.8",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/8"
+      ],
+      "position": 50000,
+      "altStatementNotation": "N.VM.8",
+      "listId": "8.",
+      "description": "(+) Add, subtract, and multiply matrices of appropriate dimensions.",
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "054C3D30DFE60131355468A86D17958E": {
+      "description": "(+) Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs in a game are doubled.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/7"
+      ],
+      "id": "054C3D30DFE60131355468A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.7",
+      "altStatementNotation": "N.VM.7",
+      "listId": "7.",
+      "asnIdentifier": "S2479525",
+      "position": 49000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "054BDE90DFE60131355368A86D17958E": {
+      "id": "054BDE90DFE60131355368A86D17958E",
+      "depth": 2,
+      "altStatementNotation": "N.VM.6",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C/6"
+      ],
+      "asnIdentifier": "S2479524",
+      "position": 48000,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C.6",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "description": "(+) Use matrices to represent and manipulate data, e.g., to represent payoffs or incidence relationships in a network.",
+      "ancestorIds": [
+        "05448500DFE60131354F68A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05448500DFE60131354F68A86D17958E"
+    },
+    "05448500DFE60131354F68A86D17958E": {
+      "description": "Perform operations on matrices and use matrices in applications.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/C"
+      ],
+      "id": "05448500DFE60131354F68A86D17958E",
+      "asnIdentifier": "S2479523",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.C",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "053FC650DFE60131354268A86D17958E"
+    },
+    "05442F30DFE60131354E68A86D17958E": {
+      "position": 46000,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.5b",
+      "statementLabel": "Component",
+      "description": "Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ? 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).",
+      "id": "05442F30DFE60131354E68A86D17958E",
+      "asnIdentifier": "S2479522",
+      "listId": "b.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/5/b"
+      ],
+      "depth": 3,
+      "altStatementNotation": "N.VM.5.b",
+      "ancestorIds": [
+        "05438870DFE60131354C68A86D17958E",
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05438870DFE60131354C68A86D17958E"
+    },
+    "0543DBF0DFE60131354D68A86D17958E": {
+      "id": "0543DBF0DFE60131354D68A86D17958E",
+      "asnIdentifier": "S2479521",
+      "position": 45000,
+      "statementLabel": "Component",
+      "listId": "a.",
+      "description": "Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(v<sub>x</sub>, v<sub>y</sub>) = (cv<sub>x</sub>, cv<sub>y</sub>).",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/5/a"
+      ],
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.5a",
+      "altStatementNotation": "N.VM.5.a",
+      "ancestorIds": [
+        "05438870DFE60131354C68A86D17958E",
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05438870DFE60131354C68A86D17958E"
+    },
+    "05438870DFE60131354C68A86D17958E": {
+      "asnIdentifier": "S2479520",
+      "position": 44000,
+      "depth": 2,
+      "altStatementNotation": "N.VM.5",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/5"
+      ],
+      "id": "05438870DFE60131354C68A86D17958E",
+      "statementLabel": "Standard",
+      "listId": "5.",
+      "description": "(+) Multiply a vector by a scalar.",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.5",
+      "ancestorIds": [
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05417AD0DFE60131354768A86D17958E"
+    },
+    "05433220DFE60131354B68A86D17958E": {
+      "id": "05433220DFE60131354B68A86D17958E",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.4c",
+      "altStatementNotation": "N.VM.4.c",
+      "statementLabel": "Component",
+      "listId": "c.",
+      "description": "Understand vector subtraction v - w as v + (-w), where -w is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/4/c"
+      ],
+      "asnIdentifier": "S2479519",
+      "position": 43000,
+      "depth": 3,
+      "ancestorIds": [
+        "0541CD40DFE60131354868A86D17958E",
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "0541CD40DFE60131354868A86D17958E"
+    },
+    "0542D510DFE60131354A68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.4b",
+      "description": "Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/4/b"
+      ],
+      "position": 42000,
+      "asnIdentifier": "S2479518",
+      "depth": 3,
+      "altStatementNotation": "N.VM.4.b",
+      "statementLabel": "Component",
+      "listId": "b.",
+      "id": "0542D510DFE60131354A68A86D17958E",
+      "ancestorIds": [
+        "0541CD40DFE60131354868A86D17958E",
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "0541CD40DFE60131354868A86D17958E"
+    },
+    "05424080DFE60131354968A86D17958E": {
+      "altStatementNotation": "N.VM.4.a",
+      "statementLabel": "Component",
+      "listId": "a.",
+      "description": "Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/4/a"
+      ],
+      "position": 41000,
+      "asnIdentifier": "S2479517",
+      "depth": 3,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.4a",
+      "id": "05424080DFE60131354968A86D17958E",
+      "ancestorIds": [
+        "0541CD40DFE60131354868A86D17958E",
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "0541CD40DFE60131354868A86D17958E"
+    },
+    "0541CD40DFE60131354868A86D17958E": {
+      "asnIdentifier": "S2479516",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B.4",
+      "listId": "4.",
+      "description": "(+) Add and subtract vectors.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B/4"
+      ],
+      "id": "0541CD40DFE60131354868A86D17958E",
+      "depth": 2,
+      "altStatementNotation": "N.VM.4",
+      "statementLabel": "Standard",
+      "position": 40000,
+      "ancestorIds": [
+        "05417AD0DFE60131354768A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "05417AD0DFE60131354768A86D17958E"
+    },
+    "05417AD0DFE60131354768A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSN-VM.B",
+      "statementLabel": "Cluster",
+      "description": "Perform operations on vectors.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/B"
+      ],
+      "id": "05417AD0DFE60131354768A86D17958E",
+      "asnIdentifier": "S2479515",
+      "position": 39000,
+      "depth": 1,
+      "ancestorIds": [
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "053FC650DFE60131354268A86D17958E"
+    },
+    "05412250DFE60131354668A86D17958E": {
+      "position": 38000,
+      "depth": 2,
+      "listId": "3.",
+      "id": "05412250DFE60131354668A86D17958E",
+      "asnIdentifier": "S2479514",
+      "statementNotation": "CCSS.Math.Content.HSN-VM.A.3",
+      "altStatementNotation": "N.VM.3",
+      "statementLabel": "Standard",
+      "description": "(+) Solve problems involving velocity and other quantities that can be represented by vectors.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/A/3"
+      ],
+      "ancestorIds": [
+        "054020E0DFE60131354368A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "054020E0DFE60131354368A86D17958E"
+    },
+    "0540CC50DFE60131354568A86D17958E": {
+      "description": "(+) Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/A/2"
+      ],
+      "id": "0540CC50DFE60131354568A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.A.2",
+      "listId": "2.",
+      "asnIdentifier": "S2479513",
+      "position": 37000,
+      "altStatementNotation": "N.VM.2",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "054020E0DFE60131354368A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "054020E0DFE60131354368A86D17958E"
+    },
+    "05407850DFE60131354468A86D17958E": {
+      "listId": "1.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/A/1"
+      ],
+      "id": "05407850DFE60131354468A86D17958E",
+      "position": 36000,
+      "statementLabel": "Standard",
+      "altStatementNotation": "N.VM.1",
+      "description": "(+) Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v).",
+      "asnIdentifier": "S2479512",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.A.1",
+      "ancestorIds": [
+        "054020E0DFE60131354368A86D17958E",
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "054020E0DFE60131354368A86D17958E"
+    },
+    "054020E0DFE60131354368A86D17958E": {
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSN-VM.A",
+      "statementLabel": "Cluster",
+      "description": "Represent and model with vector quantities.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/VM/A"
+      ],
+      "id": "054020E0DFE60131354368A86D17958E",
+      "asnIdentifier": "S2479511",
+      "ancestorIds": [
+        "053FC650DFE60131354268A86D17958E"
+      ],
+      "parentId": "053FC650DFE60131354268A86D17958E"
+    },
+    "053FC650DFE60131354268A86D17958E": {
+      "id": "053FC650DFE60131354268A86D17958E",
+      "asnIdentifier": "S2479510",
+      "position": 34000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Vector and Matrix Quantities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "053F6A90DFE60131354168A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSN-CN.C.9",
+      "altStatementNotation": "N.CN.9",
+      "description": "(+) Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/C/9"
+      ],
+      "id": "053F6A90DFE60131354168A86D17958E",
+      "asnIdentifier": "S2479509",
+      "statementLabel": "Standard",
+      "listId": "9.",
+      "position": 33000,
+      "depth": 2,
+      "ancestorIds": [
+        "053E6560DFE60131353E68A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053E6560DFE60131353E68A86D17958E"
+    },
+    "053F0F40DFE60131354068A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSN-CN.C.8",
+      "altStatementNotation": "N.CN.8",
+      "description": "(+) Extend polynomial identities to the complex numbers.",
+      "comments": [
+        "For example, rewrite x² + 4 as (x + 2i)(x - 2i)."
+      ],
+      "id": "053F0F40DFE60131354068A86D17958E",
+      "position": 32000,
+      "statementLabel": "Standard",
+      "listId": "8.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/C/8"
+      ],
+      "asnIdentifier": "S2479508",
+      "depth": 2,
+      "ancestorIds": [
+        "053E6560DFE60131353E68A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053E6560DFE60131353E68A86D17958E"
+    },
+    "053EBC40DFE60131353F68A86D17958E": {
+      "asnIdentifier": "S2479507",
+      "statementNotation": "CCSS.Math.Content.HSN-CN.C.7",
+      "altStatementNotation": "N.CN.7",
+      "id": "053EBC40DFE60131353F68A86D17958E",
+      "position": 31000,
+      "depth": 2,
+      "statementLabel": "Standard",
+      "listId": "7.",
+      "description": "Solve quadratic equations with real coefficients that have complex solutions.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/C/7"
+      ],
+      "ancestorIds": [
+        "053E6560DFE60131353E68A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053E6560DFE60131353E68A86D17958E"
+    },
+    "053E6560DFE60131353E68A86D17958E": {
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.C",
+      "statementLabel": "Cluster",
+      "description": "Use complex numbers in polynomial identities and equations.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/C"
+      ],
+      "id": "053E6560DFE60131353E68A86D17958E",
+      "asnIdentifier": "S2479506",
+      "ancestorIds": [
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053B0A10DFE60131353568A86D17958E"
+    },
+    "053E0CA0DFE60131353D68A86D17958E": {
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.B.6",
+      "altStatementNotation": "N.CN.6",
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "description": "(+) Calculate the distance between numbers in the complex plane as the modulus of the difference, and the midpoint of a segment as the average of the numbers at its endpoints.",
+      "id": "053E0CA0DFE60131353D68A86D17958E",
+      "position": 29000,
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/B/6"
+      ],
+      "asnIdentifier": "S2479505",
+      "ancestorIds": [
+        "053CD5D0DFE60131353A68A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053CD5D0DFE60131353A68A86D17958E"
+    },
+    "053DA890DFE60131353C68A86D17958E": {
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.B.5",
+      "listId": "5.",
+      "comments": [
+        "For example, (-1 + √3 i)³ = 8 because (-1 + √3 i) has modulus 2 and argument 120°."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/B/5"
+      ],
+      "id": "053DA890DFE60131353C68A86D17958E",
+      "asnIdentifier": "S2479504",
+      "position": 28000,
+      "altStatementNotation": "N.CN.5",
+      "statementLabel": "Standard",
+      "description": "(+) Represent addition, subtraction, multiplication, and conjugation of complex numbers geometrically on the complex plane; use properties of this representation for computation.",
+      "ancestorIds": [
+        "053CD5D0DFE60131353A68A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053CD5D0DFE60131353A68A86D17958E"
+    },
+    "053D3780DFE60131353B68A86D17958E": {
+      "asnIdentifier": "S2479503",
+      "position": 27000,
+      "altStatementNotation": "N.CN.4",
+      "statementLabel": "Standard",
+      "id": "053D3780DFE60131353B68A86D17958E",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.B.4",
+      "listId": "4.",
+      "description": "(+) Represent complex numbers on the complex plane in rectangular and polar form (including real and imaginary numbers), and explain why the rectangular and polar forms of a given complex number represent the same number.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/B/4"
+      ],
+      "ancestorIds": [
+        "053CD5D0DFE60131353A68A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053CD5D0DFE60131353A68A86D17958E"
+    },
+    "053CD5D0DFE60131353A68A86D17958E": {
+      "asnIdentifier": "S2479502",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.B",
+      "statementLabel": "Cluster",
+      "description": "Represent complex numbers and their operations on the complex plane.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/B"
+      ],
+      "id": "053CD5D0DFE60131353A68A86D17958E",
+      "ancestorIds": [
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053B0A10DFE60131353568A86D17958E"
+    },
+    "053C8000DFE60131353968A86D17958E": {
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.A.3",
+      "altStatementNotation": "N.CN.3",
+      "statementLabel": "Standard",
+      "id": "053C8000DFE60131353968A86D17958E",
+      "asnIdentifier": "S2479501",
+      "description": "(+) Find the conjugate of a complex number; use conjugates to find moduli and quotients of complex numbers.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/A/3"
+      ],
+      "position": 25000,
+      "listId": "3.",
+      "ancestorIds": [
+        "053B6400DFE60131353668A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053B6400DFE60131353668A86D17958E"
+    },
+    "053C2530DFE60131353868A86D17958E": {
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.A.2",
+      "altStatementNotation": "N.CN.2",
+      "statementLabel": "Standard",
+      "id": "053C2530DFE60131353868A86D17958E",
+      "asnIdentifier": "S2479500",
+      "listId": "2.",
+      "description": "Use the relation i² = -1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/A/2"
+      ],
+      "ancestorIds": [
+        "053B6400DFE60131353668A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053B6400DFE60131353668A86D17958E"
+    },
+    "053BC760DFE60131353768A86D17958E": {
+      "altStatementNotation": "N.CN.1",
+      "statementLabel": "Standard",
+      "description": "Know there is a complex number i such that i² = -1, and every complex number has the form a + bi with a and b real.",
+      "asnIdentifier": "S2479499",
+      "position": 23000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.A.1",
+      "id": "053BC760DFE60131353768A86D17958E",
+      "listId": "1.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/A/1"
+      ],
+      "ancestorIds": [
+        "053B6400DFE60131353668A86D17958E",
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053B6400DFE60131353668A86D17958E"
+    },
+    "053B6400DFE60131353668A86D17958E": {
+      "description": "Perform arithmetic operations with complex numbers.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/CN/A"
+      ],
+      "id": "053B6400DFE60131353668A86D17958E",
+      "asnIdentifier": "S2479498",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSN-CN.A",
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "053B0A10DFE60131353568A86D17958E"
+      ],
+      "parentId": "053B0A10DFE60131353568A86D17958E"
+    },
+    "053B0A10DFE60131353568A86D17958E": {
+      "id": "053B0A10DFE60131353568A86D17958E",
+      "asnIdentifier": "S2479497",
+      "position": 21000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "The Complex Number System",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "053AAFD0DFE60131353468A86D17958E": {
+      "position": 20000,
+      "altStatementNotation": "N.Q.3",
+      "listId": "3.",
+      "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.",
+      "asnIdentifier": "S2479496",
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-Q.A.3",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/Q/A/3"
+      ],
+      "id": "053AAFD0DFE60131353468A86D17958E",
+      "ancestorIds": [
+        "053975E0DFE60131353168A86D17958E",
+        "05391830DFE60131353068A86D17958E"
+      ],
+      "parentId": "053975E0DFE60131353168A86D17958E"
+    },
+    "053A4C30DFE60131353368A86D17958E": {
+      "id": "053A4C30DFE60131353368A86D17958E",
+      "asnIdentifier": "S2479495",
+      "statementNotation": "CCSS.Math.Content.HSN-Q.A.2",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/Q/A/2"
+      ],
+      "position": 19000,
+      "depth": 2,
+      "altStatementNotation": "N.Q.2",
+      "listId": "2.",
+      "description": "Define appropriate quantities for the purpose of descriptive modeling.",
+      "ancestorIds": [
+        "053975E0DFE60131353168A86D17958E",
+        "05391830DFE60131353068A86D17958E"
+      ],
+      "parentId": "053975E0DFE60131353168A86D17958E"
+    },
+    "0539D720DFE60131353268A86D17958E": {
+      "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/Q/A/1"
+      ],
+      "asnIdentifier": "S2479494",
+      "position": 18000,
+      "depth": 2,
+      "statementNotation": "CCSS.Math.Content.HSN-Q.A.1",
+      "listId": "1.",
+      "id": "0539D720DFE60131353268A86D17958E",
+      "altStatementNotation": "N.Q.1",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "053975E0DFE60131353168A86D17958E",
+        "05391830DFE60131353068A86D17958E"
+      ],
+      "parentId": "053975E0DFE60131353168A86D17958E"
+    },
+    "053975E0DFE60131353168A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSN-Q.A",
+      "statementLabel": "Cluster",
+      "description": "Reason quantitatively and use units to solve problems.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/Q/A"
+      ],
+      "id": "053975E0DFE60131353168A86D17958E",
+      "asnIdentifier": "S2479493",
+      "position": 17000,
+      "depth": 1,
+      "ancestorIds": [
+        "05391830DFE60131353068A86D17958E"
+      ],
+      "parentId": "05391830DFE60131353068A86D17958E"
+    },
+    "05391830DFE60131353068A86D17958E": {
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Quantities",
+      "comments": [
+        "Modeling is best interpreted not as a collection of isolated topics but in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol (★). The star symbol sometimes appears on the heading for a group of standards; in that case, it should be understood to apply to all standards in that group."
+      ],
+      "id": "05391830DFE60131353068A86D17958E",
+      "asnIdentifier": "S2479492",
+      "position": 16000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0538BFE0DFE60131352F68A86D17958E": {
+      "asnIdentifier": "S2479491",
+      "statementNotation": "CCSS.Math.Content.HSN-RN.B.3",
+      "statementLabel": "Standard",
+      "id": "0538BFE0DFE60131352F68A86D17958E",
+      "depth": 2,
+      "altStatementNotation": "N.RN.3",
+      "listId": "3.",
+      "description": "Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/RN/B/3"
+      ],
+      "position": 15000,
+      "ancestorIds": [
+        "05386730DFE60131352E68A86D17958E",
+        "0536F880DFE60131352A68A86D17958E"
+      ],
+      "parentId": "05386730DFE60131352E68A86D17958E"
+    },
+    "05386730DFE60131352E68A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/RN/B"
+      ],
+      "id": "05386730DFE60131352E68A86D17958E",
+      "asnIdentifier": "S2479490",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Content.HSN-RN.B",
+      "statementLabel": "Cluster",
+      "description": "Use properties of rational and irrational numbers.",
+      "ancestorIds": [
+        "0536F880DFE60131352A68A86D17958E"
+      ],
+      "parentId": "0536F880DFE60131352A68A86D17958E"
+    },
+    "053808C0DFE60131352D68A86D17958E": {
+      "depth": 2,
+      "altStatementNotation": "N.RN.2",
+      "listId": "2.",
+      "description": "Rewrite expressions involving radicals and rational exponents using the properties of exponents.",
+      "statementLabel": "Standard",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/RN/A/2"
+      ],
+      "id": "053808C0DFE60131352D68A86D17958E",
+      "asnIdentifier": "S2479489",
+      "position": 13000,
+      "statementNotation": "CCSS.Math.Content.HSN-RN.A.2",
+      "ancestorIds": [
+        "05374CB0DFE60131352B68A86D17958E",
+        "0536F880DFE60131352A68A86D17958E"
+      ],
+      "parentId": "05374CB0DFE60131352B68A86D17958E"
+    },
+    "05379F50DFE60131352C68A86D17958E": {
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/RN/A/1"
+      ],
+      "asnIdentifier": "S2479488",
+      "statementNotation": "CCSS.Math.Content.HSN-RN.A.1",
+      "altStatementNotation": "N.RN.1",
+      "statementLabel": "Standard",
+      "description": "Explain how the definition of the meaning of rational exponents follows from extending the properties of integer exponents to those values, allowing for a notation for radicals in terms of rational exponents.",
+      "id": "05379F50DFE60131352C68A86D17958E",
+      "position": 12000,
+      "depth": 2,
+      "listId": "1.",
+      "comments": [
+        "For example, we define 5<sup>1/3</sup> to be the cube root of 5 because we want (5<sup>1/3</sup>)³ = 5(<sup>1/3</sup>)³ to hold, so (5<sup>1/3</sup>)³ must equal 5."
+      ],
+      "ancestorIds": [
+        "05374CB0DFE60131352B68A86D17958E",
+        "0536F880DFE60131352A68A86D17958E"
+      ],
+      "parentId": "05374CB0DFE60131352B68A86D17958E"
+    },
+    "05374CB0DFE60131352B68A86D17958E": {
+      "statementNotation": "CCSS.Math.Content.HSN-RN.A",
+      "statementLabel": "Cluster",
+      "description": "Extend the properties of exponents to rational exponents.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Content/HSN/RN/A"
+      ],
+      "id": "05374CB0DFE60131352B68A86D17958E",
+      "asnIdentifier": "S2479487",
+      "position": 11000,
+      "depth": 1,
+      "ancestorIds": [
+        "0536F880DFE60131352A68A86D17958E"
+      ],
+      "parentId": "0536F880DFE60131352A68A86D17958E"
+    },
+    "0536F880DFE60131352A68A86D17958E": {
+      "description": "The Real Number System",
+      "id": "0536F880DFE60131352A68A86D17958E",
+      "asnIdentifier": "S2479486",
+      "position": 10000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F7D463EBCEF94DC89A0E186E382389D7": {
+      "depth": 1,
+      "altStatementNotation": "MP.8",
+      "description": "Look for and express regularity in repeated reasoning.",
+      "listId": "8.",
+      "comments": [
+        "Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP8"
+      ],
+      "id": "F7D463EBCEF94DC89A0E186E382389D7",
+      "asnIdentifier": "S2479063",
+      "position": 9000,
+      "statementNotation": "CCSS.Math.Practice.MP8",
+      "statementLabel": "Standard",
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "313EE77B069742959320394B1EA6C432": {
+      "asnIdentifier": "S2479062",
+      "altStatementNotation": "MP.7",
+      "statementLabel": "Standard",
+      "comments": [
+        "Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP7"
+      ],
+      "id": "313EE77B069742959320394B1EA6C432",
+      "position": 8000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP7",
+      "listId": "7.",
+      "description": "Look for and make use of structure.",
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "6807C453B32A47EE908F24284708506A": {
+      "comments": [
+        "Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
+      ],
+      "id": "6807C453B32A47EE908F24284708506A",
+      "asnIdentifier": "S2479061",
+      "position": 7000,
+      "depth": 1,
+      "statementLabel": "Standard",
+      "listId": "6.",
+      "description": "Attend to precision.",
+      "statementNotation": "CCSS.Math.Practice.MP6",
+      "altStatementNotation": "MP.6",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP6"
+      ],
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "BDB1FABCA26847BB9C2A93C539FCB3D2": {
+      "description": "Use appropriate tools strategically.",
+      "comments": [
+        "Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP5"
+      ],
+      "depth": 1,
+      "listId": "5.",
+      "position": 6000,
+      "statementNotation": "CCSS.Math.Practice.MP5",
+      "altStatementNotation": "MP.5",
+      "statementLabel": "Standard",
+      "id": "BDB1FABCA26847BB9C2A93C539FCB3D2",
+      "asnIdentifier": "S2479060",
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "A232D7566B6942B3B2E879D488C35B4A": {
+      "position": 5000,
+      "statementNotation": "CCSS.Math.Practice.MP4",
+      "altStatementNotation": "MP.4",
+      "description": "Model with mathematics.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP4"
+      ],
+      "id": "A232D7566B6942B3B2E879D488C35B4A",
+      "asnIdentifier": "S2479059",
+      "depth": 1,
+      "statementLabel": "Standard",
+      "listId": "4.",
+      "comments": [
+        "Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+      ],
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "29E2D640CAD347AFBAB18478A6894918": {
+      "listId": "3.",
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP3"
+      ],
+      "asnIdentifier": "S2479058",
+      "statementNotation": "CCSS.Math.Practice.MP3",
+      "altStatementNotation": "MP.3",
+      "statementLabel": "Standard",
+      "comments": [
+        "Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
+      ],
+      "id": "29E2D640CAD347AFBAB18478A6894918",
+      "position": 4000,
+      "depth": 1,
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "569C02C63FA64D0B95D13FE0ED3A35E3": {
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP2",
+      "listId": "2.",
+      "altStatementNotation": "MP.2",
+      "statementLabel": "Standard",
+      "description": "Reason abstractly and quantitatively.",
+      "comments": [
+        "Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP2"
+      ],
+      "id": "569C02C63FA64D0B95D13FE0ED3A35E3",
+      "asnIdentifier": "S2479057",
+      "position": 3000,
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "2CC33A152B144D45AFAD96324CDB7C8C": {
+      "id": "2CC33A152B144D45AFAD96324CDB7C8C",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "CCSS.Math.Practice.MP1",
+      "statementLabel": "Standard",
+      "listId": "1.",
+      "description": "Make sense of problems and persevere in solving them.",
+      "asnIdentifier": "S2479056",
+      "altStatementNotation": "MP.1",
+      "comments": [
+        "Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
+      ],
+      "exactMatch": [
+        "http://corestandards.org/Math/Practice/MP1"
+      ],
+      "ancestorIds": [
+        "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+      ],
+      "parentId": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2"
+    },
+    "786A8C8FCFA34D2DA96A0BFFDD0A5AE2": {
+      "id": "786A8C8FCFA34D2DA96A0BFFDD0A5AE2",
+      "asnIdentifier": "S2479055",
+      "position": 1000,
+      "depth": 0,
+      "description": "Standards for Mathematical Practice",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

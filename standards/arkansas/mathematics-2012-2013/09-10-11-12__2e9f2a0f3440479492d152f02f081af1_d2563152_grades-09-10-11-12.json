@@ -1,0 +1,930 @@
+{
+  "id": "2E9F2A0F3440479492D152F02F081AF1_D2563152_grades-09-10-11-12",
+  "title": "Algebra A: Grades 9, 10, 11, 12",
+  "subject": "Mathematics (2012-2013)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 3.0 US",
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated"
+  },
+  "document": {
+    "id": "D2563152",
+    "valid": "2013",
+    "title": "Algebra A Curriculum Framework",
+    "sourceURL": "http://www.arkansased.org/public/userfiles/Learning_Services/Curriculum%20and%20Instruction/Frameworks/Math/Algebra_A_CCSS_2013_2014.pdf",
+    "asnIdentifier": "D2563152",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "2E9F2A0F3440479492D152F02F081AF1",
+    "title": "Arkansas"
+  },
+  "standards": {
+    "2ED6BFF7755942F4882059A6DBB62090": {
+      "id": "2ED6BFF7755942F4882059A6DBB62090",
+      "asnIdentifier": "S2563516",
+      "position": 64000,
+      "depth": 2,
+      "statementNotation": "S.ID.9",
+      "statementLabel": "Standard",
+      "description": "Distinguish between correlation and causation.",
+      "ancestorIds": [
+        "23D4E47E3AAC443A865201B03E103ED4",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "23D4E47E3AAC443A865201B03E103ED4"
+    },
+    "1B1FF41CA1834C128AE407F28B91A1B6": {
+      "id": "1B1FF41CA1834C128AE407F28B91A1B6",
+      "asnIdentifier": "S2563515",
+      "position": 63000,
+      "depth": 2,
+      "statementNotation": "S.ID.8",
+      "statementLabel": "Standard",
+      "description": "Compute (using technology) and interpret the correlation coefficient of a linear fit.",
+      "ancestorIds": [
+        "23D4E47E3AAC443A865201B03E103ED4",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "23D4E47E3AAC443A865201B03E103ED4"
+    },
+    "F55F1E18309D47C6A5EC2170B3DCC84F": {
+      "id": "F55F1E18309D47C6A5EC2170B3DCC84F",
+      "asnIdentifier": "S2563514",
+      "position": 62000,
+      "depth": 2,
+      "statementNotation": "S.ID.7",
+      "statementLabel": "Standard",
+      "description": "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.",
+      "ancestorIds": [
+        "23D4E47E3AAC443A865201B03E103ED4",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "23D4E47E3AAC443A865201B03E103ED4"
+    },
+    "23D4E47E3AAC443A865201B03E103ED4": {
+      "position": 61000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "18.",
+      "description": "Interpret linear models",
+      "id": "23D4E47E3AAC443A865201B03E103ED4",
+      "asnIdentifier": "S2563179",
+      "ancestorIds": [
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "13E54937E0764C158E0DDF42BDCFADEA"
+    },
+    "BFEA5C4EAE9D4355AE1E4C5076E69080": {
+      "statementLabel": "Standard",
+      "description": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.<ol type=\"a\"><li> Fit a function to the data; use functions fitted to data to solve problems in the context of the data. Use given functions or choose a function suggested by the context. Emphasize linear, quadratic, and exponential models.</li><li>Informally assess the fit of a function by plotting and analyzing residuals.</li><li>Fit a linear function for a scatter plot that suggests a linear association.</li></ol>",
+      "comments": [
+        "ALC for S.ID.6a:<ol type=\"i\"><li>Tasks have a real-world context.</li><li>Exponential functions are limited to those with domains in the integers</li></ol>"
+      ],
+      "id": "BFEA5C4EAE9D4355AE1E4C5076E69080",
+      "asnIdentifier": "S2563513",
+      "position": 60000,
+      "depth": 2,
+      "statementNotation": "S.ID.6",
+      "ancestorIds": [
+        "2B07C6D36B644C8E98A0395F565F04AA",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "2B07C6D36B644C8E98A0395F565F04AA"
+    },
+    "0C899D18AE1242318A1202FE5B1767BC": {
+      "id": "0C899D18AE1242318A1202FE5B1767BC",
+      "asnIdentifier": "S2563512",
+      "position": 59000,
+      "depth": 2,
+      "statementNotation": "S.ID.5",
+      "statementLabel": "Standard",
+      "description": "Summarize categorical data for two categories in two-way frequency tables. Interpret relative frequencies in the context of the data (including joint, marginal, and conditional relative frequencies). Recognize possible associations and trends in the data.",
+      "ancestorIds": [
+        "2B07C6D36B644C8E98A0395F565F04AA",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "2B07C6D36B644C8E98A0395F565F04AA"
+    },
+    "2B07C6D36B644C8E98A0395F565F04AA": {
+      "asnIdentifier": "S2563178",
+      "position": 58000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "17.",
+      "description": "Summarize, represent, and interpret data on two categorical and quantitative variables",
+      "id": "2B07C6D36B644C8E98A0395F565F04AA",
+      "ancestorIds": [
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "13E54937E0764C158E0DDF42BDCFADEA"
+    },
+    "A9F2E143400D47308133974D96012A53": {
+      "position": 57000,
+      "depth": 2,
+      "statementNotation": "S.ID.3",
+      "statementLabel": "Standard",
+      "description": "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).",
+      "id": "A9F2E143400D47308133974D96012A53",
+      "asnIdentifier": "S2563511",
+      "ancestorIds": [
+        "9E87D7CB8D0249BABA28C7505F702892",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "9E87D7CB8D0249BABA28C7505F702892"
+    },
+    "1B06AFAF28F644B7BF8783D4F0815EDA": {
+      "id": "1B06AFAF28F644B7BF8783D4F0815EDA",
+      "asnIdentifier": "S2563510",
+      "position": 56000,
+      "depth": 2,
+      "statementNotation": "S.ID.2",
+      "statementLabel": "Standard",
+      "description": "Use statistics appropriate to the shape of the data distribution to compare center (median, mean) and spread (interquartile range, standard deviation) of two or more different data sets.",
+      "ancestorIds": [
+        "9E87D7CB8D0249BABA28C7505F702892",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "9E87D7CB8D0249BABA28C7505F702892"
+    },
+    "3D302C1380FA4FD1AFC5338F110C15F5": {
+      "id": "3D302C1380FA4FD1AFC5338F110C15F5",
+      "asnIdentifier": "S2563509",
+      "position": 55000,
+      "depth": 2,
+      "statementNotation": "S.ID.1",
+      "statementLabel": "Standard",
+      "description": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
+      "ancestorIds": [
+        "9E87D7CB8D0249BABA28C7505F702892",
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "9E87D7CB8D0249BABA28C7505F702892"
+    },
+    "9E87D7CB8D0249BABA28C7505F702892": {
+      "asnIdentifier": "S2563177",
+      "position": 54000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "16.",
+      "description": "Summarize, represent, and interpret data on a single count or measurement variable",
+      "id": "9E87D7CB8D0249BABA28C7505F702892",
+      "ancestorIds": [
+        "13E54937E0764C158E0DDF42BDCFADEA"
+      ],
+      "parentId": "13E54937E0764C158E0DDF42BDCFADEA"
+    },
+    "13E54937E0764C158E0DDF42BDCFADEA": {
+      "id": "13E54937E0764C158E0DDF42BDCFADEA",
+      "asnIdentifier": "S2563161",
+      "position": 53000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Interpreting categorical and quantitative data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EC0F8453EBC54C55B7F6B3CB02282E08": {
+      "statementNotation": "F.LE.5",
+      "statementLabel": "Standard",
+      "description": "Interpret the parameters in a linear function in terms of a context.",
+      "comments": [
+        "ALC for F.LE.5:<ol type=\"i\"><li>Tasks have a real-world context.</li><li>Exponential functions are limited to those with domains in the integers.</li></ol>"
+      ],
+      "id": "EC0F8453EBC54C55B7F6B3CB02282E08",
+      "asnIdentifier": "S2563508",
+      "position": 52000,
+      "depth": 2,
+      "ancestorIds": [
+        "E411341AE8B94A73BE665CD89162A87A",
+        "A117C0D0A84445D999CCDD4BC8735A04"
+      ],
+      "parentId": "E411341AE8B94A73BE665CD89162A87A"
+    },
+    "E411341AE8B94A73BE665CD89162A87A": {
+      "statementLabel": "Cluster",
+      "listId": "15.",
+      "description": "Interpret expressions for functions in terms of the situation they model",
+      "id": "E411341AE8B94A73BE665CD89162A87A",
+      "asnIdentifier": "S2563176",
+      "position": 51000,
+      "depth": 1,
+      "ancestorIds": [
+        "A117C0D0A84445D999CCDD4BC8735A04"
+      ],
+      "parentId": "A117C0D0A84445D999CCDD4BC8735A04"
+    },
+    "CC1D12BAF570457FB4AA5A3A103E17B8": {
+      "depth": 2,
+      "statementNotation": "F.LE.2",
+      "statementLabel": "Standard",
+      "description": "Construct linear functions, including arithmetic sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).",
+      "comments": [
+        "ALC for F.LE.2:<ol type=\"i\"><li>Tasks are limited to constructing linear and exponential functions in simple context (not multi-step).</li></ol>"
+      ],
+      "id": "CC1D12BAF570457FB4AA5A3A103E17B8",
+      "asnIdentifier": "S2563507",
+      "position": 50000,
+      "ancestorIds": [
+        "9BB5861AB88E412281E6EA813BAF039A",
+        "A117C0D0A84445D999CCDD4BC8735A04"
+      ],
+      "parentId": "9BB5861AB88E412281E6EA813BAF039A"
+    },
+    "CBC2E13527CA4757AAC3CAF59D7A13BC": {
+      "id": "CBC2E13527CA4757AAC3CAF59D7A13BC",
+      "asnIdentifier": "S2563506",
+      "position": 49000,
+      "depth": 2,
+      "statementNotation": "F.LE.1",
+      "statementLabel": "Standard",
+      "description": "Distinguish between situations that can be modeled with linear functions and with exponential functions.<ol type=\"a\"><li>Prove that linear functions grow by equal differences over equal intervals, and that exponential functions grow by equal factors over equal intervals.</li><li>Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.</li></ol>",
+      "ancestorIds": [
+        "9BB5861AB88E412281E6EA813BAF039A",
+        "A117C0D0A84445D999CCDD4BC8735A04"
+      ],
+      "parentId": "9BB5861AB88E412281E6EA813BAF039A"
+    },
+    "9BB5861AB88E412281E6EA813BAF039A": {
+      "position": 48000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "14.",
+      "description": "Construct and compare linear, quadratic, and exponential models and solve problems",
+      "id": "9BB5861AB88E412281E6EA813BAF039A",
+      "asnIdentifier": "S2563175",
+      "ancestorIds": [
+        "A117C0D0A84445D999CCDD4BC8735A04"
+      ],
+      "parentId": "A117C0D0A84445D999CCDD4BC8735A04"
+    },
+    "A117C0D0A84445D999CCDD4BC8735A04": {
+      "position": 47000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Linear, Quadratic, and Exponential Models",
+      "id": "A117C0D0A84445D999CCDD4BC8735A04",
+      "asnIdentifier": "S2563160",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "21A8B98BD9074D428E8683C456628276": {
+      "asnIdentifier": "S2563505",
+      "position": 46000,
+      "depth": 2,
+      "statementNotation": "F.BF.3",
+      "statementLabel": "Standard",
+      "description": "Identify the effect on the graph of replacing f(x) by f(x) + k, kf(x), f(kx), and f(x + k) for specific values of k (both positive and negative); find the value of k given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them.",
+      "comments": [
+        "ALC F.BF.3:<ol type=\"i\"><li>Identifying the effect on the graph of replacing f(x) by f(x) + k, k f(x), f(kx), and f(x + k) for specific values of k (both positive and negative) is limited to linear and quadratic functions.</li><li>Experimenting with cases and illustrating an explanation of the effects on the graph using technology is limited to linear functions, quadratic functions, square root functions, cube root functions, piecewise-defined functions (including step functions and absolute value functions), and exponential functions with domains in the integers.</li><li>Tasks do not involve recognizing even and odd functions.</li></ol>The function types listed in note (ii) are the same as those listed in the Algebra I column for standards F-IF.4, F-IF.6, and F-IF.9."
+      ],
+      "id": "21A8B98BD9074D428E8683C456628276",
+      "ancestorIds": [
+        "E606D4BFB07245BE9328C233E53A3C18",
+        "4D51F4A74BDC4F5FB83D9AAD25071017"
+      ],
+      "parentId": "E606D4BFB07245BE9328C233E53A3C18"
+    },
+    "E606D4BFB07245BE9328C233E53A3C18": {
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "13.",
+      "description": "Build new functions from existing functions",
+      "id": "E606D4BFB07245BE9328C233E53A3C18",
+      "asnIdentifier": "S2563174",
+      "position": 45000,
+      "ancestorIds": [
+        "4D51F4A74BDC4F5FB83D9AAD25071017"
+      ],
+      "parentId": "4D51F4A74BDC4F5FB83D9AAD25071017"
+    },
+    "827BB9F004D84D6BA3A4E232EAB61607": {
+      "id": "827BB9F004D84D6BA3A4E232EAB61607",
+      "asnIdentifier": "S2563504",
+      "position": 44000,
+      "depth": 2,
+      "statementNotation": "F.BF.1",
+      "statementLabel": "Standard",
+      "description": "Write a function that describes a relationship between two quantities.<ol type=\"a\"><li>Determine an explicit expression, a recursive process, or steps for calculation from a context.</li></ol>",
+      "comments": [
+        "ALC for F.BF.1a:<ol type=\"i\"><li>Tasks have a real-world context.</li><li>Tasks are limited to linear functions, quadratic functions, and exponential functions with domains in the integers.</li></ol>"
+      ],
+      "ancestorIds": [
+        "60C20B899A9344328D3AE71C41326253",
+        "4D51F4A74BDC4F5FB83D9AAD25071017"
+      ],
+      "parentId": "60C20B899A9344328D3AE71C41326253"
+    },
+    "60C20B899A9344328D3AE71C41326253": {
+      "listId": "12.",
+      "description": "Build a function that models a relationship between two quantities",
+      "id": "60C20B899A9344328D3AE71C41326253",
+      "asnIdentifier": "S2563173",
+      "position": 43000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "4D51F4A74BDC4F5FB83D9AAD25071017"
+      ],
+      "parentId": "4D51F4A74BDC4F5FB83D9AAD25071017"
+    },
+    "4D51F4A74BDC4F5FB83D9AAD25071017": {
+      "id": "4D51F4A74BDC4F5FB83D9AAD25071017",
+      "asnIdentifier": "S2563159",
+      "position": 42000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Building Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1E74A3AC3F2843D89AA9EC118CB5C935": {
+      "statementLabel": "Standard",
+      "description": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
+      "comments": [
+        "For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum.",
+        "ALC for F.IF.9:<ol type=\"i\"><li>Tasks are limited to linear functions, quadratic functions, square root functions, cube root functions, piecewise-defined functions (including step functions and absolute value functions), and exponential functions with domains in the integers.</li></ol>The function types listed here are the same as those listed in the Algebra I column for standards F-IF.4 and F-IF.6"
+      ],
+      "id": "1E74A3AC3F2843D89AA9EC118CB5C935",
+      "asnIdentifier": "S2563503",
+      "position": 41000,
+      "depth": 2,
+      "statementNotation": "F.IF.9",
+      "ancestorIds": [
+        "C552BC15F67F4D0695B583CDCE446F11",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "C552BC15F67F4D0695B583CDCE446F11"
+    },
+    "D948658E53514478919661B347174302": {
+      "position": 40000,
+      "depth": 2,
+      "statementNotation": "F.IF.7",
+      "statementLabel": "Standard",
+      "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.<ol type=\"a\"><li>Graph linear and quadratic functions and show intercepts, maxima, and minima.</li></ol>",
+      "id": "D948658E53514478919661B347174302",
+      "asnIdentifier": "S2563502",
+      "ancestorIds": [
+        "C552BC15F67F4D0695B583CDCE446F11",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "C552BC15F67F4D0695B583CDCE446F11"
+    },
+    "C552BC15F67F4D0695B583CDCE446F11": {
+      "position": 39000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "11.",
+      "description": "Analyze functions using different representations",
+      "id": "C552BC15F67F4D0695B583CDCE446F11",
+      "asnIdentifier": "S2563172",
+      "ancestorIds": [
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "43F5DC24F2134206B81FEDAFF88B736E"
+    },
+    "09E9F5FB32C54253A1DB54CFB9E0576F": {
+      "id": "09E9F5FB32C54253A1DB54CFB9E0576F",
+      "asnIdentifier": "S2563501",
+      "position": 38000,
+      "depth": 2,
+      "statementNotation": "F.IF.6",
+      "statementLabel": "Standard",
+      "description": "Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.",
+      "comments": [
+        "ALC for F.IF.6:<ol type=\"i\"><li>Tasks have a real-world context.</li><li>Tasks are limited to linear functions, quadratic functions, square root functions, cube root functions, piecewise-defined functions (including step functions and absolute value functions), and exponential functions with domains in the integers.</li></ol>The function types listed here are the same as those listed in the Algebra I column for standards F-IF.4 and F-IF.9."
+      ],
+      "ancestorIds": [
+        "D1CD87EAE4624949BD9F8040FA532E85",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "D1CD87EAE4624949BD9F8040FA532E85"
+    },
+    "29C91B6951B6423799C7094A71A673EA": {
+      "id": "29C91B6951B6423799C7094A71A673EA",
+      "asnIdentifier": "S2563500",
+      "position": 37000,
+      "depth": 2,
+      "statementNotation": "F.IF.5",
+      "statementLabel": "Standard",
+      "description": "Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes.",
+      "comments": [
+        "For example, if the function ℎ(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function."
+      ],
+      "ancestorIds": [
+        "D1CD87EAE4624949BD9F8040FA532E85",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "D1CD87EAE4624949BD9F8040FA532E85"
+    },
+    "74394563B10D4B718DC8555560AE0D72": {
+      "depth": 2,
+      "statementNotation": "F.IF.4",
+      "statementLabel": "Standard",
+      "description": "For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.",
+      "comments": [
+        "ALC for F.IF.4:<ol type=\"i\"><li>Tasks have a real-world context.</li><li>Tasks are limited to linear functions, quadratic functions, square root functions, cube root functions, piecewise-defined functions (including step functions and absolute value functions), and exponential functions with domains in the integers.</li></ol>Compare note (ii) with standard F-IF.7. The function types listed here are the same as those listed in the Algebra I column for standards F-IF.6 and F-IF.9."
+      ],
+      "id": "74394563B10D4B718DC8555560AE0D72",
+      "asnIdentifier": "S2563499",
+      "position": 36000,
+      "ancestorIds": [
+        "D1CD87EAE4624949BD9F8040FA532E85",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "D1CD87EAE4624949BD9F8040FA532E85"
+    },
+    "D1CD87EAE4624949BD9F8040FA532E85": {
+      "statementLabel": "Cluster",
+      "listId": "10.",
+      "description": "Interpret functions that arise in applications in terms of the context",
+      "id": "D1CD87EAE4624949BD9F8040FA532E85",
+      "asnIdentifier": "S2563171",
+      "position": 35000,
+      "depth": 1,
+      "ancestorIds": [
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "43F5DC24F2134206B81FEDAFF88B736E"
+    },
+    "4E60211A01994118B71C12AAB9E63AD4": {
+      "id": "4E60211A01994118B71C12AAB9E63AD4",
+      "asnIdentifier": "S2563498",
+      "position": 34000,
+      "depth": 2,
+      "statementNotation": "F.IF.3",
+      "statementLabel": "Standard",
+      "description": "Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers.",
+      "comments": [
+        "For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1,f(n + 1) = f(n) + f(n − 1) for n ≥ 1.",
+        "ALC for F.IF.3:<ol type=\"i\"><li>This standard is part of the Major work in Algebra I and will be assessed accordingly</li></ol>"
+      ],
+      "ancestorIds": [
+        "420FD477DDD8415BBE10FFC483A8D266",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "420FD477DDD8415BBE10FFC483A8D266"
+    },
+    "BBD190EC7F6E4F15ADA104ED6EA96CFA": {
+      "statementNotation": "F.IF.2",
+      "statementLabel": "Standard",
+      "description": "Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context.",
+      "id": "BBD190EC7F6E4F15ADA104ED6EA96CFA",
+      "asnIdentifier": "S2563497",
+      "position": 33000,
+      "depth": 2,
+      "ancestorIds": [
+        "420FD477DDD8415BBE10FFC483A8D266",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "420FD477DDD8415BBE10FFC483A8D266"
+    },
+    "FE259FD045EA4603AE1590160AF9E1DC": {
+      "statementNotation": "F.IF.1",
+      "statementLabel": "Standard",
+      "description": "Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. If f is a function and x is an element of its domain, then f(x) denotes the output of f corresponding to the input x. The graph of f is the graph of the equation y = f(x).",
+      "id": "FE259FD045EA4603AE1590160AF9E1DC",
+      "asnIdentifier": "S2563496",
+      "position": 32000,
+      "depth": 2,
+      "ancestorIds": [
+        "420FD477DDD8415BBE10FFC483A8D266",
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "420FD477DDD8415BBE10FFC483A8D266"
+    },
+    "420FD477DDD8415BBE10FFC483A8D266": {
+      "position": 31000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "9.",
+      "description": "Understand the concept of a function and use function notation",
+      "id": "420FD477DDD8415BBE10FFC483A8D266",
+      "asnIdentifier": "S2563170",
+      "ancestorIds": [
+        "43F5DC24F2134206B81FEDAFF88B736E"
+      ],
+      "parentId": "43F5DC24F2134206B81FEDAFF88B736E"
+    },
+    "43F5DC24F2134206B81FEDAFF88B736E": {
+      "id": "43F5DC24F2134206B81FEDAFF88B736E",
+      "asnIdentifier": "S2563158",
+      "position": 30000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Interpreting Functions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E0A1CE4B1C0A4F2381AA318725C4C03F": {
+      "statementNotation": "A.REI.12",
+      "statementLabel": "Standard",
+      "description": "Graph the solutions to a linear inequality in two variables as a half-plane (excluding the boundary in the case of a strict inequality), and graph the solution set to a system of linear inequalities in two variables as the intersection of the corresponding half-planes.",
+      "id": "E0A1CE4B1C0A4F2381AA318725C4C03F",
+      "asnIdentifier": "S2563195",
+      "position": 29000,
+      "depth": 2,
+      "ancestorIds": [
+        "3CB59383D8EC4846971CCF41FDF86518",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "3CB59383D8EC4846971CCF41FDF86518"
+    },
+    "D10027911E9D4BDA931FD743EF9744CD": {
+      "asnIdentifier": "S2563194",
+      "position": 28000,
+      "depth": 2,
+      "statementNotation": "A.REI.11",
+      "statementLabel": "Standard",
+      "description": "Explain why the x-coordinates of the points where the graphs of the equations y = f(x) and y = g(x) intersect are the solutions of the equation f(x) = g(x); find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where f(x) and/or g(x) are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.",
+      "comments": [
+        "ALC for REI.11:<ol type=\"i\"><li>Tasks that assess conceptual understanding of the indicated concept may involve any of the function types mentioned in the standard except exponential and logarithmic functions.</li><li>Finding the solutions approximately is limited to cases where f(x) and g(x) are polynomial functions.</li></ol>"
+      ],
+      "id": "D10027911E9D4BDA931FD743EF9744CD",
+      "ancestorIds": [
+        "3CB59383D8EC4846971CCF41FDF86518",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "3CB59383D8EC4846971CCF41FDF86518"
+    },
+    "2CF6F45BF31F41A7BC3CA9BC90FC5F35": {
+      "id": "2CF6F45BF31F41A7BC3CA9BC90FC5F35",
+      "asnIdentifier": "S2563193",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "A.REI.10",
+      "statementLabel": "Standard",
+      "description": "Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).",
+      "ancestorIds": [
+        "3CB59383D8EC4846971CCF41FDF86518",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "3CB59383D8EC4846971CCF41FDF86518"
+    },
+    "3CB59383D8EC4846971CCF41FDF86518": {
+      "asnIdentifier": "S2563169",
+      "position": 26000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "8.",
+      "description": "Represent and solve equations and inequalities graphically",
+      "id": "3CB59383D8EC4846971CCF41FDF86518",
+      "ancestorIds": [
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "C67167F844EE4FAF9EE4A170F5DEBA90"
+    },
+    "3BB4139216504788BD921F78D6301158": {
+      "id": "3BB4139216504788BD921F78D6301158",
+      "asnIdentifier": "S2563192",
+      "position": 25000,
+      "depth": 2,
+      "statementNotation": "A.REI.6",
+      "statementLabel": "Standard",
+      "description": "Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on pairs of linear equations in two variables.",
+      "comments": [
+        "ALC for A.REI.6:<ol type=\"i\"><li>Tasks have a real-world context.</li><li>Tasks have hallmarks of modeling as a mathematical practice (less defined tasks, more of the modeling cycle, etc.).</li></ol>"
+      ],
+      "ancestorIds": [
+        "C217322EE5BB401D99C03780FBDC4F3E",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "C217322EE5BB401D99C03780FBDC4F3E"
+    },
+    "D50CCC05991A4AEDB8E458A0F5BF2C38": {
+      "statementLabel": "Standard",
+      "description": "Prove that, given a system of two equations in two variables, replacing one equation by the sum of that equation and a multiple of the other produces a system with the same solutions.",
+      "id": "D50CCC05991A4AEDB8E458A0F5BF2C38",
+      "asnIdentifier": "S2563191",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "A.REI.5",
+      "ancestorIds": [
+        "C217322EE5BB401D99C03780FBDC4F3E",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "C217322EE5BB401D99C03780FBDC4F3E"
+    },
+    "C217322EE5BB401D99C03780FBDC4F3E": {
+      "id": "C217322EE5BB401D99C03780FBDC4F3E",
+      "asnIdentifier": "S2563168",
+      "position": 23000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "7.",
+      "description": "Solve systems of equations",
+      "ancestorIds": [
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "C67167F844EE4FAF9EE4A170F5DEBA90"
+    },
+    "D2AA31CD86204CD29EBCB94DAF862192": {
+      "position": 22000,
+      "depth": 2,
+      "statementNotation": "A.REI.3",
+      "statementLabel": "Standard",
+      "description": "Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.",
+      "id": "D2AA31CD86204CD29EBCB94DAF862192",
+      "asnIdentifier": "S2563190",
+      "ancestorIds": [
+        "05C0501BCF1947D5A4002610A2B6D769",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "05C0501BCF1947D5A4002610A2B6D769"
+    },
+    "05C0501BCF1947D5A4002610A2B6D769": {
+      "id": "05C0501BCF1947D5A4002610A2B6D769",
+      "asnIdentifier": "S2563167",
+      "position": 21000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "6.",
+      "description": "Solve equations and inequalities in one variable",
+      "ancestorIds": [
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "C67167F844EE4FAF9EE4A170F5DEBA90"
+    },
+    "57428BCCCA7F4B4AA94A03918120D260": {
+      "asnIdentifier": "S2563189",
+      "position": 20000,
+      "depth": 2,
+      "statementNotation": "A.REI.1",
+      "statementLabel": "Standard",
+      "description": "Explain each step in solving a simple equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method.",
+      "comments": [
+        "ALC for A.REI.1:<ol type=\"i\"><li>Tasks are limited to quadratic equations.</li></ol>"
+      ],
+      "id": "57428BCCCA7F4B4AA94A03918120D260",
+      "ancestorIds": [
+        "329E6E6E59CB47689DC26CAC17B31F7B",
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "329E6E6E59CB47689DC26CAC17B31F7B"
+    },
+    "329E6E6E59CB47689DC26CAC17B31F7B": {
+      "id": "329E6E6E59CB47689DC26CAC17B31F7B",
+      "asnIdentifier": "S2563166",
+      "position": 19000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "5.",
+      "description": "Understand solving equations as a process of reasoning and explain the reasoning",
+      "ancestorIds": [
+        "C67167F844EE4FAF9EE4A170F5DEBA90"
+      ],
+      "parentId": "C67167F844EE4FAF9EE4A170F5DEBA90"
+    },
+    "C67167F844EE4FAF9EE4A170F5DEBA90": {
+      "description": "Reasoning with Equations and Inequalities",
+      "id": "C67167F844EE4FAF9EE4A170F5DEBA90",
+      "asnIdentifier": "S2563157",
+      "position": 18000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3F9883B8779A47019429439C19F4C0E2": {
+      "position": 17000,
+      "depth": 2,
+      "statementNotation": "A.CED.4",
+      "statementLabel": "Standard",
+      "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations.",
+      "comments": [
+        "For example, rearrange Ohm's law V = IR to highlight resistance R."
+      ],
+      "id": "3F9883B8779A47019429439C19F4C0E2",
+      "asnIdentifier": "S2563188",
+      "ancestorIds": [
+        "AAA81467E00642309341A6C61D17FFC7",
+        "E6C51683AC0C4442A8391B2671C5A662"
+      ],
+      "parentId": "AAA81467E00642309341A6C61D17FFC7"
+    },
+    "F1085FDE8CB64A60902976284297F855": {
+      "position": 16000,
+      "depth": 2,
+      "statementNotation": "A.CED.3",
+      "statementLabel": "Standard",
+      "description": "Represent constraints by equations or inequalities, and by systems of equations and/or inequalities, and interpret solutions as viable or nonviable options in a modeling context.",
+      "comments": [
+        "For example, represent inequalities describing nutritional and cost constraints on combinations of different foods."
+      ],
+      "id": "F1085FDE8CB64A60902976284297F855",
+      "asnIdentifier": "S2563187",
+      "ancestorIds": [
+        "AAA81467E00642309341A6C61D17FFC7",
+        "E6C51683AC0C4442A8391B2671C5A662"
+      ],
+      "parentId": "AAA81467E00642309341A6C61D17FFC7"
+    },
+    "FBAB25BEE461456EB30FC16DB8282408": {
+      "statementLabel": "Standard",
+      "description": "Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.",
+      "comments": [
+        "ALC for A.CED.1:<ol type=\"i\"><li>Tasks are limited to linear, quadratic, or exponential equations with integer exponents.</li></ol>"
+      ],
+      "id": "FBAB25BEE461456EB30FC16DB8282408",
+      "asnIdentifier": "S2563186",
+      "position": 15000,
+      "depth": 2,
+      "statementNotation": "A.CED.2",
+      "ancestorIds": [
+        "AAA81467E00642309341A6C61D17FFC7",
+        "E6C51683AC0C4442A8391B2671C5A662"
+      ],
+      "parentId": "AAA81467E00642309341A6C61D17FFC7"
+    },
+    "FA31662C2E4E4C20BDA05D89798C04DE": {
+      "statementNotation": "A.CED.1",
+      "statementLabel": "Standard",
+      "description": "Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions.",
+      "comments": [
+        "ALC for A.CED.1:<ol type=\"i\"><li>Tasks are limited to linear, quadratic, or exponential equations with integer exponents.</li></ol>"
+      ],
+      "id": "FA31662C2E4E4C20BDA05D89798C04DE",
+      "asnIdentifier": "S2563185",
+      "position": 14000,
+      "depth": 2,
+      "ancestorIds": [
+        "AAA81467E00642309341A6C61D17FFC7",
+        "E6C51683AC0C4442A8391B2671C5A662"
+      ],
+      "parentId": "AAA81467E00642309341A6C61D17FFC7"
+    },
+    "AAA81467E00642309341A6C61D17FFC7": {
+      "asnIdentifier": "S2563165",
+      "position": 13000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "4.",
+      "description": "Create equations that describe numbers or relationships",
+      "id": "AAA81467E00642309341A6C61D17FFC7",
+      "ancestorIds": [
+        "E6C51683AC0C4442A8391B2671C5A662"
+      ],
+      "parentId": "E6C51683AC0C4442A8391B2671C5A662"
+    },
+    "E6C51683AC0C4442A8391B2671C5A662": {
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Creating Equations",
+      "id": "E6C51683AC0C4442A8391B2671C5A662",
+      "asnIdentifier": "S2563156",
+      "position": 12000,
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "561CCEDBF9CD45B6A3041D64B045F7C4": {
+      "asnIdentifier": "S2563184",
+      "position": 11000,
+      "depth": 2,
+      "statementNotation": "A.SSE.1",
+      "statementLabel": "Standard",
+      "description": "Interpret expressions that represent a quantity in terms of its context.<ol type=\"a\"><li>Interpret parts of an expression, such as terms, factors, and coefficients.</li><li>Interpret complicated expressions by viewing one or more of their parts as a single entity. For example, interpret P(1 + r)<sup>n</sup> as the product of P and a factor not depending on P.</li></ol>",
+      "id": "561CCEDBF9CD45B6A3041D64B045F7C4",
+      "ancestorIds": [
+        "547DEB3475BA499498DFA5AD0FC3C4E9",
+        "E57ABDB673094E65B2814B95DC0258A0"
+      ],
+      "parentId": "547DEB3475BA499498DFA5AD0FC3C4E9"
+    },
+    "547DEB3475BA499498DFA5AD0FC3C4E9": {
+      "id": "547DEB3475BA499498DFA5AD0FC3C4E9",
+      "asnIdentifier": "S2563164",
+      "position": 10000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "3.",
+      "description": "Interpret the structure of expressions",
+      "ancestorIds": [
+        "E57ABDB673094E65B2814B95DC0258A0"
+      ],
+      "parentId": "E57ABDB673094E65B2814B95DC0258A0"
+    },
+    "E57ABDB673094E65B2814B95DC0258A0": {
+      "id": "E57ABDB673094E65B2814B95DC0258A0",
+      "asnIdentifier": "S2563155",
+      "position": 9000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Seeing Structure in Expressions",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B1CDD3D1625040F39823DA7D309AB6E8": {
+      "depth": 2,
+      "statementNotation": "N.Q.3",
+      "statementLabel": "Standard",
+      "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.",
+      "id": "B1CDD3D1625040F39823DA7D309AB6E8",
+      "asnIdentifier": "S2563183",
+      "position": 8000,
+      "ancestorIds": [
+        "2F66ECB37A6C4002B5D1A123BD8699EE",
+        "EF2D471569124A428F90F9D8B2A18409"
+      ],
+      "parentId": "2F66ECB37A6C4002B5D1A123BD8699EE"
+    },
+    "786A4B4F81234620A1B8BE9CB2943F16": {
+      "statementLabel": "Standard",
+      "description": "Define appropriate quantities for the purpose of descriptive modeling.",
+      "comments": [
+        "ALC for N.Q.2: This standard will be assessed in Algebra I by ensuring that some modeling tasks (involving Algebra I content or securely held content from grades 6-8) require the student to create a quantity of interest in the situation being described (i.e., a quantity of interest is not selected for the student by the task). For example, in a situation involving data, the student might autonomously decide that a measure of center is a key variable in a situation, and then choose to work with the mean."
+      ],
+      "id": "786A4B4F81234620A1B8BE9CB2943F16",
+      "asnIdentifier": "S2563182",
+      "position": 7000,
+      "depth": 2,
+      "statementNotation": "N.Q.2",
+      "ancestorIds": [
+        "2F66ECB37A6C4002B5D1A123BD8699EE",
+        "EF2D471569124A428F90F9D8B2A18409"
+      ],
+      "parentId": "2F66ECB37A6C4002B5D1A123BD8699EE"
+    },
+    "AF6082ACB1F94223A5153277AE3B360F": {
+      "statementLabel": "Standard",
+      "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.",
+      "id": "AF6082ACB1F94223A5153277AE3B360F",
+      "asnIdentifier": "S2563181",
+      "position": 6000,
+      "depth": 2,
+      "statementNotation": "N.Q.1",
+      "ancestorIds": [
+        "2F66ECB37A6C4002B5D1A123BD8699EE",
+        "EF2D471569124A428F90F9D8B2A18409"
+      ],
+      "parentId": "2F66ECB37A6C4002B5D1A123BD8699EE"
+    },
+    "2F66ECB37A6C4002B5D1A123BD8699EE": {
+      "listId": "2.",
+      "description": "Reason quantitatively and use units to solve problems",
+      "id": "2F66ECB37A6C4002B5D1A123BD8699EE",
+      "asnIdentifier": "S2563163",
+      "position": 5000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "ancestorIds": [
+        "EF2D471569124A428F90F9D8B2A18409"
+      ],
+      "parentId": "EF2D471569124A428F90F9D8B2A18409"
+    },
+    "EF2D471569124A428F90F9D8B2A18409": {
+      "id": "EF2D471569124A428F90F9D8B2A18409",
+      "asnIdentifier": "S2563154",
+      "position": 4000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "Quantities",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5F6B33E8F1CC4C62B1D9339610E509A2": {
+      "id": "5F6B33E8F1CC4C62B1D9339610E509A2",
+      "asnIdentifier": "S2563180",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "N.RN.3",
+      "statementLabel": "Standard",
+      "description": "Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.",
+      "ancestorIds": [
+        "46E1FC5A8C06477FAF885573AEF5E0BE",
+        "85B00C705C7045BAA499603B9F6E9A51"
+      ],
+      "parentId": "46E1FC5A8C06477FAF885573AEF5E0BE"
+    },
+    "46E1FC5A8C06477FAF885573AEF5E0BE": {
+      "id": "46E1FC5A8C06477FAF885573AEF5E0BE",
+      "asnIdentifier": "S2563162",
+      "position": 2000,
+      "depth": 1,
+      "statementLabel": "Cluster",
+      "listId": "1.",
+      "description": "Use properties of rational and irrational numbers",
+      "ancestorIds": [
+        "85B00C705C7045BAA499603B9F6E9A51"
+      ],
+      "parentId": "85B00C705C7045BAA499603B9F6E9A51"
+    },
+    "85B00C705C7045BAA499603B9F6E9A51": {
+      "asnIdentifier": "S2563153",
+      "position": 1000,
+      "depth": 0,
+      "statementLabel": "Domain",
+      "description": "The Real Number System",
+      "id": "85B00C705C7045BAA499603B9F6E9A51",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

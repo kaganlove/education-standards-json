@@ -1,0 +1,614 @@
+{
+  "id": "AA25150C8A7D4422AF1E629A9BA27944",
+  "title": "High School",
+  "subject": "Computer Science (2022-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Computer Science Tennessee K-12 Computer Science State Standards",
+    "sourceURL": "https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/2022-sbe-meetings/october-28%2c-2022-sbe-meeting/10-28-22%20III%20A%20Computer%20Science%20Standards%20Framework%20for%20Grades%20K-12%20Clean.pdf"
+  },
+  "jurisdiction": {
+    "id": "180878796A3C448D808F38BCCCFD26CF",
+    "title": "Tennessee"
+  },
+  "standards": {
+    "A34F1B9EF9EA4DE4A044954A943977A8": {
+      "id": "A34F1B9EF9EA4DE4A044954A943977A8",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "CS.IC.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Predict how computational innovations that have revolutionized aspects of our culture might\nevolve.",
+      "comments": [],
+      "ancestorIds": [
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "7BAF50453ACE4C49AB8308D5C483C108"
+    },
+    "4B283BA67878486C8BDD7C60374E1CB6": {
+      "id": "4B283BA67878486C8BDD7C60374E1CB6",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "CS.IC.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research the impact of computing technology on possible education and career pathways.",
+      "comments": [],
+      "ancestorIds": [
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "7BAF50453ACE4C49AB8308D5C483C108"
+    },
+    "B63D2E04E9E4419B9F465F883243275D": {
+      "id": "B63D2E04E9E4419B9F465F883243275D",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "CS.IC.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use tools and methods for collaboration on a project to increase connectivity of people in different\ncultures and career fields.",
+      "comments": [],
+      "ancestorIds": [
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "7BAF50453ACE4C49AB8308D5C483C108"
+    },
+    "26F7DCA668344FAFA407375D4071DCB8": {
+      "id": "26F7DCA668344FAFA407375D4071DCB8",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "CS.IC.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the positive and negative consequences that intellectual property laws can have on\ninnovation.",
+      "comments": [],
+      "ancestorIds": [
+        "CD50B62E836B4309A624384B80943C69",
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "CD50B62E836B4309A624384B80943C69"
+    },
+    "2CAD7D2C151344CD8F6703BE2CDB9130": {
+      "id": "2CAD7D2C151344CD8F6703BE2CDB9130",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "CS.IC.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the privacy concerns related to the collection and generation of data through\nautomated processes that may not be evident to users (Bots, Chatbots, Spiders or Crawlers,\nWeb Scraping, keyloggers etc.).",
+      "comments": [],
+      "ancestorIds": [
+        "CD50B62E836B4309A624384B80943C69",
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "CD50B62E836B4309A624384B80943C69"
+    },
+    "B48A71244EFF433881FB8950A562658F": {
+      "id": "B48A71244EFF433881FB8950A562658F",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.IC.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss the ethical ramifications of hacking and its impact on society.",
+      "comments": [],
+      "ancestorIds": [
+        "CD50B62E836B4309A624384B80943C69",
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "CD50B62E836B4309A624384B80943C69"
+    },
+    "CD50B62E836B4309A624384B80943C69": {
+      "id": "CD50B62E836B4309A624384B80943C69",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CS.IC.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate and debate the social and economic implications of computing in the context of safety,\nlaw, and ethics. ",
+      "comments": [],
+      "ancestorIds": [
+        "7BAF50453ACE4C49AB8308D5C483C108"
+      ],
+      "parentId": "7BAF50453ACE4C49AB8308D5C483C108"
+    },
+    "7BAF50453ACE4C49AB8308D5C483C108": {
+      "id": "7BAF50453ACE4C49AB8308D5C483C108",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "CS.IC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Impacts of Computing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "50522C3A6D2841BE8A09EDF29D967FF7": {
+      "id": "50522C3A6D2841BE8A09EDF29D967FF7",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "CS.PC.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Debug (identify and fix) errors in an algorithm or program that includes sequences and simple and\ncomplex loops following a two-step debugging process.",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "0AA7D6D92BF54F6DBBEB9D7A875FC0CA": {
+      "id": "0AA7D6D92BF54F6DBBEB9D7A875FC0CA",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "CS.PC.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Incorporate existing code, media, and libraries into original programs, and give proper attribution.",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "4EFFB91DD380492A8DA4A27A588A8839": {
+      "id": "4EFFB91DD380492A8DA4A27A588A8839",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "CS.PC.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create parameters to organize a program to make it easier to follow, test, and debug.",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "68E8BA72508B463082D948E3F639AE0B": {
+      "id": "68E8BA72508B463082D948E3F639AE0B",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "CS.PC.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design and develop iterative programs that combine control structures, including nested loops\nand compound conditionals.",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "21A09B419F9043E8B65A8D0F8CCA3E5D": {
+      "id": "21A09B419F9043E8B65A8D0F8CCA3E5D",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "CS.PC.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and refine programs with Boolean conditionals to demonstrate the use of branches and\nlogical operators.",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "35E635659D064DC8A999533F2674C45D": {
+      "id": "35E635659D064DC8A999533F2674C45D",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "CS.PC.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop a plan to manage and assign data values of different types (strings, numeric, character,\ninteger, and date) to a variable",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "FEFC2B7FDF8448C38BAC919C205BDE83": {
+      "id": "FEFC2B7FDF8448C38BAC919C205BDE83",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CS.PC.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose and apply an appropriate iterative design process to systematically test and refine a\nprogram to increase performance.",
+      "comments": [],
+      "ancestorIds": [
+        "80E170D30AAD4F6E9C6DF81A5920FE26"
+      ],
+      "parentId": "80E170D30AAD4F6E9C6DF81A5920FE26"
+    },
+    "80E170D30AAD4F6E9C6DF81A5920FE26": {
+      "id": "80E170D30AAD4F6E9C6DF81A5920FE26",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "CS.PC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming Concepts",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F32C5998BC6242E0AC8FF63D4C4D958C": {
+      "id": "F32C5998BC6242E0AC8FF63D4C4D958C",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "CS.NI.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate a fundamental understanding of API (Application Programming Interface).",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "6D180C46D93D4F9FB8CC2C7E7B4E2063": {
+      "id": "6D180C46D93D4F9FB8CC2C7E7B4E2063",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "CS.NI.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recommend security measures to address various scenarios based on factors such as efficiency,\nfeasibility, and ethical impacts. ",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "C4C541603390446787F3FA6A1FFBB317": {
+      "id": "C4C541603390446787F3FA6A1FFBB317",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "CS.NI.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show an understanding of the ramifications of end-user license agreements and terms of service\nassociated with granting rights to personal data and media to other entities.",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "86CECCE5655841C086E0AE6098C529BC": {
+      "id": "86CECCE5655841C086E0AE6098C529BC",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "CS.NI.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate how to apply techniques to mitigate effects of user tracking methods.",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "BD48E6CEF84740C48B9802C569498E03": {
+      "id": "BD48E6CEF84740C48B9802C569498E03",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "CS.NI.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate strategies to manage digital identity and reputation with awareness of the permanent\nimpact of actions in a digital world.",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "256FED85E60F4F0F80852C6B9B5A107A": {
+      "id": "256FED85E60F4F0F80852C6B9B5A107A",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "CS.NI.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify laws regarding the use of technology and their consequences and implications.",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "A901C4ABC064418AB2CEBF925596EC14": {
+      "id": "A901C4ABC064418AB2CEBF925596EC14",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CS.NI.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the tradeoffs when selecting and implementing cybersecurity recommendations. ",
+      "comments": [],
+      "ancestorIds": [
+        "0FB2BB814FF94470915A8333F36E6774"
+      ],
+      "parentId": "0FB2BB814FF94470915A8333F36E6774"
+    },
+    "0FB2BB814FF94470915A8333F36E6774": {
+      "id": "0FB2BB814FF94470915A8333F36E6774",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "CS.NI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networking and the Internet",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "035755B0F7214C73B2A6CEF10013CAF7": {
+      "id": "035755B0F7214C73B2A6CEF10013CAF7",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "MS.DA.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collect, analyze, transform, and refine computational data to make it more useful and reliable.",
+      "comments": [],
+      "ancestorIds": [
+        "0035F5D72CA646EDB587121DEDC02CF6"
+      ],
+      "parentId": "0035F5D72CA646EDB587121DEDC02CF6"
+    },
+    "3327AF24D2A24E0BA9CE4F2581680848": {
+      "id": "3327AF24D2A24E0BA9CE4F2581680848",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "MS.DA.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Refine computational models based on the data they have generated.",
+      "comments": [],
+      "ancestorIds": [
+        "0035F5D72CA646EDB587121DEDC02CF6"
+      ],
+      "parentId": "0035F5D72CA646EDB587121DEDC02CF6"
+    },
+    "0B509E065FFF48DA8D43CA148BAB5710": {
+      "id": "0B509E065FFF48DA8D43CA148BAB5710",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "MS.DA.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent data using multiple encoding schemes, such as decimal, binary, Unicode, Morse code,\nShorthand, student-created codes.",
+      "comments": [],
+      "ancestorIds": [
+        "0035F5D72CA646EDB587121DEDC02CF6"
+      ],
+      "parentId": "0035F5D72CA646EDB587121DEDC02CF6"
+    },
+    "0035F5D72CA646EDB587121DEDC02CF6": {
+      "id": "0035F5D72CA646EDB587121DEDC02CF6",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "MS.DA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Analysis",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4EADD8812423446DB78FE04A3EBED0B6": {
+      "id": "4EADD8812423446DB78FE04A3EBED0B6",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "MS.AT.3MS.AT.2CS.DA.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use data analysis tools and techniques to identify patterns in data representing complex systems.",
+      "comments": [],
+      "ancestorIds": [
+        "07D7C27BC5A44DD0AA3BD2AC071B2076"
+      ],
+      "parentId": "07D7C27BC5A44DD0AA3BD2AC071B2076"
+    },
+    "355B9B5CFA9C41E497B6BC9A6C613FBD": {
+      "id": "355B9B5CFA9C41E497B6BC9A6C613FBD",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "MS.AT.2CS.DA.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize data to answer a question using a variety of computing and data visualization methods.",
+      "comments": [],
+      "ancestorIds": [
+        "07D7C27BC5A44DD0AA3BD2AC071B2076"
+      ],
+      "parentId": "07D7C27BC5A44DD0AA3BD2AC071B2076"
+    },
+    "719B78BBDC184E6BBFF7E08661C42025": {
+      "id": "719B78BBDC184E6BBFF7E08661C42025",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CS.DA.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create computational models that represent the relationships among different elements of data\ncollected from a phenomenon or process.",
+      "comments": [],
+      "ancestorIds": [
+        "07D7C27BC5A44DD0AA3BD2AC071B2076"
+      ],
+      "parentId": "07D7C27BC5A44DD0AA3BD2AC071B2076"
+    },
+    "07D7C27BC5A44DD0AA3BD2AC071B2076": {
+      "id": "07D7C27BC5A44DD0AA3BD2AC071B2076",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "CS.DA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Analysis",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "30639EDC6B5E479BA1C92669CF07E945": {
+      "id": "30639EDC6B5E479BA1C92669CF07E945",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "CS.AT.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use effective communication and accurate computer science terminology to explain problem\nsolving when completing a task.\n",
+      "comments": [],
+      "ancestorIds": [
+        "0358CE53CBA54A168A79018A98BAD5FF"
+      ],
+      "parentId": "0358CE53CBA54A168A79018A98BAD5FF"
+    },
+    "DF18B95BAEE6412490B03D858AF71D9D": {
+      "id": "DF18B95BAEE6412490B03D858AF71D9D",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "CS.AT.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create prototypes that use algorithms to solve computational problems by leveraging prior\nstudent knowledge and personal interests.",
+      "comments": [],
+      "ancestorIds": [
+        "0358CE53CBA54A168A79018A98BAD5FF"
+      ],
+      "parentId": "0358CE53CBA54A168A79018A98BAD5FF"
+    },
+    "B254449AF28741629B383B4A1AB9C48E": {
+      "id": "B254449AF28741629B383B4A1AB9C48E",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "CS.AT.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systematically design and develop programs for broad audiences by incorporating feedback from\nusers. ",
+      "comments": [],
+      "ancestorIds": [
+        "0358CE53CBA54A168A79018A98BAD5FF"
+      ],
+      "parentId": "0358CE53CBA54A168A79018A98BAD5FF"
+    },
+    "C85289C06A354BC3914A28AF97555A1C": {
+      "id": "C85289C06A354BC3914A28AF97555A1C",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CS.AT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use lists to simplify solutions, generalizing computational problems instead of repeatedly using\nsimple variables.",
+      "comments": [],
+      "ancestorIds": [
+        "0358CE53CBA54A168A79018A98BAD5FF"
+      ],
+      "parentId": "0358CE53CBA54A168A79018A98BAD5FF"
+    },
+    "0358CE53CBA54A168A79018A98BAD5FF": {
+      "id": "0358CE53CBA54A168A79018A98BAD5FF",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "CS.AT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithmic Thinking",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

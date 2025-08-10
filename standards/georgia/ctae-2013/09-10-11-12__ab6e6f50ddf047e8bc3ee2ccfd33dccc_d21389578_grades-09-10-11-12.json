@@ -1,0 +1,959 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D21389578_grades-09-10-11-12",
+  "title": "Game Design: Animation and Simulation (11.42900) (2015)",
+  "subject": "CTAE (2013-)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "",
+    "URL": "",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D21389578",
+    "valid": "2015",
+    "title": "Georgia Standards of Excellence Game Design: Animation and Simulation (11.42900)",
+    "sourceURL": "https://www.gadoe.org/Curriculum-Instruction-and-Assessment/CTAE/Documents/GameDesign-Animation-Simulation.pdf",
+    "asnIdentifier": "D21389578",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "770AB4DBAAAC4E96A803575257C19CF9": {
+      "id": "770AB4DBAAAC4E96A803575257C19CF9",
+      "asnIdentifier": "S21389750",
+      "position": 73000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-12.5",
+      "statementLabel": "Element",
+      "description": "Explore the competitive events related to the content of this course and the required competencies, skills, and knowledge for each related event for individual, team, and chapter competitions.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "E4FD9DBF28114C05BDADBC6908F37381": {
+      "id": "E4FD9DBF28114C05BDADBC6908F37381",
+      "asnIdentifier": "S21389749",
+      "position": 72000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-12.4",
+      "statementLabel": "Element",
+      "description": "Explain how participation in career and technology education student organizations can promote lifelong responsibility for community service and professional development.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "529DBF31ABE64025BCF3C9CBAE749EEA": {
+      "id": "529DBF31ABE64025BCF3C9CBAE749EEA",
+      "asnIdentifier": "S21389748",
+      "position": 71000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-12.3",
+      "statementLabel": "Element",
+      "description": "Explore the local, state, and national opportunities available to students through participation in related student organization including but not limited to conferences, competitions, community service, philanthropy, and other CTSO activities.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "E6B59031241342319577285722423A86": {
+      "id": "E6B59031241342319577285722423A86",
+      "asnIdentifier": "S21389747",
+      "position": 70000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-12.2",
+      "statementLabel": "Element",
+      "description": "Explore the impact and opportunities a student organization can develop to bring business and education together in a positive working relationship through innovative leadership and career development programs.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "D711F3968742421683BA69E0629AF417": {
+      "id": "D711F3968742421683BA69E0629AF417",
+      "asnIdentifier": "S21389746",
+      "position": 69000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-12.1",
+      "statementLabel": "Element",
+      "description": "Explain the goals, mission, and objectives of the career-technical student organization (CTSO).",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "B5FB3DAD307745BB88FE4A5A8C67CDFA": {
+      "id": "B5FB3DAD307745BB88FE4A5A8C67CDFA",
+      "asnIdentifier": "S21389745",
+      "position": 68000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-12",
+      "statementLabel": "Standard",
+      "description": "Examine how related student organizations are integral parts of career and technology education courses through leadership development, school and community service projects and competitive events.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "E1866464A19E4410AB0BEB600586099E": {
+      "id": "E1866464A19E4410AB0BEB600586099E",
+      "asnIdentifier": "S21389744",
+      "position": 67000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.7",
+      "statementLabel": "Element",
+      "description": "Deploy the game to a mobile device for testing and peer review.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "F8A81E3549DC4DB8861BF09387D51FBF": {
+      "id": "F8A81E3549DC4DB8861BF09387D51FBF",
+      "asnIdentifier": "S21389743",
+      "position": 66000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.6",
+      "statementLabel": "Element",
+      "description": "Use interactive and real-time editing within the game.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "DBCD0BA6AB4848348EB214794AED87D0": {
+      "id": "DBCD0BA6AB4848348EB214794AED87D0",
+      "asnIdentifier": "S21389742",
+      "position": 65000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.5",
+      "statementLabel": "Element",
+      "description": "Apply audio file formats and file interoperability.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "C122966A471C4987A210B035C5CB47D9": {
+      "id": "C122966A471C4987A210B035C5CB47D9",
+      "asnIdentifier": "S21389741",
+      "position": 64000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.4",
+      "statementLabel": "Element",
+      "description": "Apply video file formats and file interoperability.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "B5C00AD2BFAE4478A81E0F5DBCE94829": {
+      "id": "B5C00AD2BFAE4478A81E0F5DBCE94829",
+      "asnIdentifier": "S21389740",
+      "position": 63000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.3",
+      "statementLabel": "Element",
+      "description": "Apply the correct graphic file formats and file interoperability.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "6ED2A7BFFD75498AA37DDCEAF8E9FE37": {
+      "id": "6ED2A7BFFD75498AA37DDCEAF8E9FE37",
+      "asnIdentifier": "S21389739",
+      "position": 62000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.2",
+      "statementLabel": "Element",
+      "description": "Demonstrate a working knowledge of video capture, editing, and post-processing tools.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "29ADFE4D4C304DE9B95A658BF4979728": {
+      "id": "29ADFE4D4C304DE9B95A658BF4979728",
+      "asnIdentifier": "S21389738",
+      "position": 61000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-11.1",
+      "statementLabel": "Element",
+      "description": "Coordinate and produce a game that contains lighting and sound.",
+      "ancestorIds": [
+        "37692C283A3C440887A774AA2F8C6E70"
+      ],
+      "parentId": "37692C283A3C440887A774AA2F8C6E70"
+    },
+    "37692C283A3C440887A774AA2F8C6E70": {
+      "id": "37692C283A3C440887A774AA2F8C6E70",
+      "asnIdentifier": "S21389737",
+      "position": 60000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-11",
+      "statementLabel": "Standard",
+      "description": "Deploy a student-team created game for beta testing.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "97E002F92CD6430E855EAE5088F9C4E2": {
+      "id": "97E002F92CD6430E855EAE5088F9C4E2",
+      "asnIdentifier": "S21389736",
+      "position": 59000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-10.3",
+      "statementLabel": "Element",
+      "description": "Create a hypothetical technology pipeline for an interactive application or video game project.",
+      "ancestorIds": [
+        "46D7760E563240ABBDABC972A557943C"
+      ],
+      "parentId": "46D7760E563240ABBDABC972A557943C"
+    },
+    "D6B6348044DF4A2D89361F158DC370EC": {
+      "id": "D6B6348044DF4A2D89361F158DC370EC",
+      "asnIdentifier": "S21389735",
+      "position": 58000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-10.2",
+      "statementLabel": "Element",
+      "description": "Develop a solid game – building, versioning, debugging, and optimization.",
+      "ancestorIds": [
+        "46D7760E563240ABBDABC972A557943C"
+      ],
+      "parentId": "46D7760E563240ABBDABC972A557943C"
+    },
+    "D6062CD99C0D4F3C97BC7B6BC7ABD9EF": {
+      "id": "D6062CD99C0D4F3C97BC7B6BC7ABD9EF",
+      "asnIdentifier": "S21389734",
+      "position": 57000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-10.1",
+      "statementLabel": "Element",
+      "description": "Create a plan working with the skills of team members and the requirements of the game.",
+      "ancestorIds": [
+        "46D7760E563240ABBDABC972A557943C"
+      ],
+      "parentId": "46D7760E563240ABBDABC972A557943C"
+    },
+    "46D7760E563240ABBDABC972A557943C": {
+      "id": "46D7760E563240ABBDABC972A557943C",
+      "asnIdentifier": "S21389733",
+      "position": 56000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-10",
+      "statementLabel": "Standard",
+      "description": "Design and develop a game in teams.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "7DAF9B3F1F3C427284A154D35AAC6FD5": {
+      "id": "7DAF9B3F1F3C427284A154D35AAC6FD5",
+      "asnIdentifier": "S21389732",
+      "position": 55000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-9.1",
+      "statementLabel": "Element",
+      "description": "Use the assets created in Standard 8 and incorporate into a location based game.",
+      "ancestorIds": [
+        "33C334273F9947C9B82A0834F6449A27"
+      ],
+      "parentId": "33C334273F9947C9B82A0834F6449A27"
+    },
+    "33C334273F9947C9B82A0834F6449A27": {
+      "id": "33C334273F9947C9B82A0834F6449A27",
+      "asnIdentifier": "S21389731",
+      "position": 54000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-9",
+      "statementLabel": "Standard",
+      "description": "Design an augmented reality experience into a location-based game.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "354A666479C648CD8C50C61AA74A3C96": {
+      "id": "354A666479C648CD8C50C61AA74A3C96",
+      "asnIdentifier": "S21389730",
+      "position": 53000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-8.5",
+      "statementLabel": "Element",
+      "description": "Create an asset to use in your Augmented Reality experience (e.g., 3D Model, Animation).",
+      "ancestorIds": [
+        "BE6CBCA7492140E1804F8FBD5FC23734"
+      ],
+      "parentId": "BE6CBCA7492140E1804F8FBD5FC23734"
+    },
+    "489CA99B11334D5580431A32BCF4685B": {
+      "id": "489CA99B11334D5580431A32BCF4685B",
+      "asnIdentifier": "S21389729",
+      "position": 52000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-8.4",
+      "statementLabel": "Element",
+      "description": "Define how to create an Augmented Reality experience.",
+      "ancestorIds": [
+        "BE6CBCA7492140E1804F8FBD5FC23734"
+      ],
+      "parentId": "BE6CBCA7492140E1804F8FBD5FC23734"
+    },
+    "82F5A04D29E24F92A8F4D95759154E84": {
+      "id": "82F5A04D29E24F92A8F4D95759154E84",
+      "asnIdentifier": "S21389728",
+      "position": 51000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-8.3",
+      "statementLabel": "Element",
+      "description": "Create a map and navigation for UI (user interface) with transparent overlays superimposed on real world sensors.",
+      "ancestorIds": [
+        "BE6CBCA7492140E1804F8FBD5FC23734"
+      ],
+      "parentId": "BE6CBCA7492140E1804F8FBD5FC23734"
+    },
+    "231408B7D90E4ECF8DC5BD0CEB03967C": {
+      "id": "231408B7D90E4ECF8DC5BD0CEB03967C",
+      "asnIdentifier": "S21389727",
+      "position": 50000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-8.2",
+      "statementLabel": "Element",
+      "description": "Understand and implement environmental events such as camera inputs, accelerometers, and audio inputs.",
+      "ancestorIds": [
+        "BE6CBCA7492140E1804F8FBD5FC23734"
+      ],
+      "parentId": "BE6CBCA7492140E1804F8FBD5FC23734"
+    },
+    "FAC068D4D1E4412286BCA14E8E33687A": {
+      "id": "FAC068D4D1E4412286BCA14E8E33687A",
+      "asnIdentifier": "S21389726",
+      "position": 49000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-8.1",
+      "statementLabel": "Element",
+      "description": "Understand geo-location, geo-fencing principles, and location event models.",
+      "ancestorIds": [
+        "BE6CBCA7492140E1804F8FBD5FC23734"
+      ],
+      "parentId": "BE6CBCA7492140E1804F8FBD5FC23734"
+    },
+    "BE6CBCA7492140E1804F8FBD5FC23734": {
+      "id": "BE6CBCA7492140E1804F8FBD5FC23734",
+      "asnIdentifier": "S21389725",
+      "position": 48000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-8",
+      "statementLabel": "Standard",
+      "description": "Explain how to create an Augmented Reality experience.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8D5AE83D6EE84A8FBC5C35DCC06245B4": {
+      "id": "8D5AE83D6EE84A8FBC5C35DCC06245B4",
+      "asnIdentifier": "S21389724",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-7.5",
+      "statementLabel": "Element",
+      "description": "Construct a 2D and 3D maze and maneuver through it in first and third person as a character.",
+      "ancestorIds": [
+        "6430BBE1F308467E85F85B912847B43B"
+      ],
+      "parentId": "6430BBE1F308467E85F85B912847B43B"
+    },
+    "02A46B1D98E84209B8D8D9BFC4E33799": {
+      "id": "02A46B1D98E84209B8D8D9BFC4E33799",
+      "asnIdentifier": "S21389723",
+      "position": 46000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-7.4",
+      "statementLabel": "Element",
+      "description": "Create fire particle events, audio events, and object state events (e.g., inventory levels, timers).",
+      "ancestorIds": [
+        "6430BBE1F308467E85F85B912847B43B"
+      ],
+      "parentId": "6430BBE1F308467E85F85B912847B43B"
+    },
+    "3C6AAE436235445C9685123D9EB9BB2D": {
+      "id": "3C6AAE436235445C9685123D9EB9BB2D",
+      "asnIdentifier": "S21389722",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-7.3",
+      "statementLabel": "Element",
+      "description": "Define volumes and entrance/exit events.",
+      "ancestorIds": [
+        "6430BBE1F308467E85F85B912847B43B"
+      ],
+      "parentId": "6430BBE1F308467E85F85B912847B43B"
+    },
+    "0D8DA134FA764845B1F58E292C796846": {
+      "id": "0D8DA134FA764845B1F58E292C796846",
+      "asnIdentifier": "S21389721",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-7.2",
+      "statementLabel": "Element",
+      "description": "Manipulate state-based animations and transitions.",
+      "ancestorIds": [
+        "6430BBE1F308467E85F85B912847B43B"
+      ],
+      "parentId": "6430BBE1F308467E85F85B912847B43B"
+    },
+    "A800218E99884922A62CA76FEBF3278B": {
+      "id": "A800218E99884922A62CA76FEBF3278B",
+      "asnIdentifier": "S21389720",
+      "position": 43000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-7.1",
+      "statementLabel": "Element",
+      "description": "Create character states, and transition between states when a specified event occurs.",
+      "ancestorIds": [
+        "6430BBE1F308467E85F85B912847B43B"
+      ],
+      "parentId": "6430BBE1F308467E85F85B912847B43B"
+    },
+    "6430BBE1F308467E85F85B912847B43B": {
+      "id": "6430BBE1F308467E85F85B912847B43B",
+      "asnIdentifier": "S21389719",
+      "position": 42000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-7",
+      "statementLabel": "Standard",
+      "description": "Analyze 2D/3D character animation and character controls.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4B3489A8BE5B49DCA06434E0989F4AF4": {
+      "id": "4B3489A8BE5B49DCA06434E0989F4AF4",
+      "asnIdentifier": "S21389718",
+      "position": 41000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-6.3",
+      "statementLabel": "Element",
+      "description": "Demonstrate a working knowledge of 3D modeling & animation tools.",
+      "ancestorIds": [
+        "C583F8033B6E40489F27F70A5E3B7423"
+      ],
+      "parentId": "C583F8033B6E40489F27F70A5E3B7423"
+    },
+    "D91201748AD541DE87762B34B0590B8D": {
+      "id": "D91201748AD541DE87762B34B0590B8D",
+      "asnIdentifier": "S21389717",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-6.2",
+      "statementLabel": "Element",
+      "description": "Determine the effect of various camera angles and emphasize perspective.",
+      "ancestorIds": [
+        "C583F8033B6E40489F27F70A5E3B7423"
+      ],
+      "parentId": "C583F8033B6E40489F27F70A5E3B7423"
+    },
+    "A04F6C835D59429B8F6ECAECC2B787AA": {
+      "id": "A04F6C835D59429B8F6ECAECC2B787AA",
+      "asnIdentifier": "S21389716",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-6.1",
+      "statementLabel": "Element",
+      "description": "Create 3D Models with appropriate highlights and shading.",
+      "ancestorIds": [
+        "C583F8033B6E40489F27F70A5E3B7423"
+      ],
+      "parentId": "C583F8033B6E40489F27F70A5E3B7423"
+    },
+    "C583F8033B6E40489F27F70A5E3B7423": {
+      "id": "C583F8033B6E40489F27F70A5E3B7423",
+      "asnIdentifier": "S21389715",
+      "position": 38000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-6",
+      "statementLabel": "Standard",
+      "description": "Develop three-dimensional models, backgrounds, and scenes.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2288A5414BFD4CA8B4829D64FF04C9C7": {
+      "id": "2288A5414BFD4CA8B4829D64FF04C9C7",
+      "asnIdentifier": "S21389714",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-5.6",
+      "statementLabel": "Element",
+      "description": "Demonstrate a working knowledge of two dimensional digital vector art tools.",
+      "ancestorIds": [
+        "27FD78A30C2F44589D8E3E5BE9AC999F"
+      ],
+      "parentId": "27FD78A30C2F44589D8E3E5BE9AC999F"
+    },
+    "0E9D1E4C136E4329AD55F1FD6425E4CA": {
+      "id": "0E9D1E4C136E4329AD55F1FD6425E4CA",
+      "asnIdentifier": "S21389713",
+      "position": 36000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-5.5",
+      "statementLabel": "Element",
+      "description": "Demonstrate a working knowledge of two dimensional digital bitmap art tools.",
+      "ancestorIds": [
+        "27FD78A30C2F44589D8E3E5BE9AC999F"
+      ],
+      "parentId": "27FD78A30C2F44589D8E3E5BE9AC999F"
+    },
+    "B12E6C6953F44F86B6583407AE80189E": {
+      "id": "B12E6C6953F44F86B6583407AE80189E",
+      "asnIdentifier": "S21389712",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-5.4",
+      "statementLabel": "Element",
+      "description": "Apply the use of colliders and rigged bodies (kinesthetics).",
+      "ancestorIds": [
+        "27FD78A30C2F44589D8E3E5BE9AC999F"
+      ],
+      "parentId": "27FD78A30C2F44589D8E3E5BE9AC999F"
+    },
+    "C5A02AB2B81A451DBDD18ED89DB894DE": {
+      "id": "C5A02AB2B81A451DBDD18ED89DB894DE",
+      "asnIdentifier": "S21389711",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-5.3",
+      "statementLabel": "Element",
+      "description": "Use physics to create realistic motion of objects and characters (gravity, angular momentum, momentum, friction).",
+      "ancestorIds": [
+        "27FD78A30C2F44589D8E3E5BE9AC999F"
+      ],
+      "parentId": "27FD78A30C2F44589D8E3E5BE9AC999F"
+    },
+    "64BEFB89869D418D9455B269B205DB41": {
+      "id": "64BEFB89869D418D9455B269B205DB41",
+      "asnIdentifier": "S21389710",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-5.2",
+      "statementLabel": "Element",
+      "description": "Explore mass, velocity, acceleration, torque, force, and other related measurements.",
+      "ancestorIds": [
+        "27FD78A30C2F44589D8E3E5BE9AC999F"
+      ],
+      "parentId": "27FD78A30C2F44589D8E3E5BE9AC999F"
+    },
+    "BADCAA0682B64FC0944A13803131FD1F": {
+      "id": "BADCAA0682B64FC0944A13803131FD1F",
+      "asnIdentifier": "S21389709",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-5.1",
+      "statementLabel": "Element",
+      "description": "Explore the phenomena and apply Newtonian physics to static & dynamic systems for animation.",
+      "ancestorIds": [
+        "27FD78A30C2F44589D8E3E5BE9AC999F"
+      ],
+      "parentId": "27FD78A30C2F44589D8E3E5BE9AC999F"
+    },
+    "27FD78A30C2F44589D8E3E5BE9AC999F": {
+      "id": "27FD78A30C2F44589D8E3E5BE9AC999F",
+      "asnIdentifier": "S21389708",
+      "position": 31000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-5",
+      "statementLabel": "Standard",
+      "description": "Construct two-dimensional models using concepts of physics.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "58D00A97480A42F69B4BF1E719326A1E": {
+      "id": "58D00A97480A42F69B4BF1E719326A1E",
+      "asnIdentifier": "S21389707",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-4.5",
+      "statementLabel": "Element",
+      "description": "Explain the use of collision geometry and \"hit testing\" for physics-based interactions and programming triggers.",
+      "ancestorIds": [
+        "0CFDA527D6004D3A89106B7C39015326"
+      ],
+      "parentId": "0CFDA527D6004D3A89106B7C39015326"
+    },
+    "16B616641F5F42A59A38BBF75EE4DCCF": {
+      "id": "16B616641F5F42A59A38BBF75EE4DCCF",
+      "asnIdentifier": "S21389706",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-4.4",
+      "statementLabel": "Element",
+      "description": "Apply mathematical concepts to interactive application and video game design.",
+      "ancestorIds": [
+        "0CFDA527D6004D3A89106B7C39015326"
+      ],
+      "parentId": "0CFDA527D6004D3A89106B7C39015326"
+    },
+    "C75C16B94CEC4DEAADCC9E9A2E8E2DD9": {
+      "id": "C75C16B94CEC4DEAADCC9E9A2E8E2DD9",
+      "asnIdentifier": "S21389705",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-4.3",
+      "statementLabel": "Element",
+      "description": "Explain how quaternion calculations are used in video game development.",
+      "ancestorIds": [
+        "0CFDA527D6004D3A89106B7C39015326"
+      ],
+      "parentId": "0CFDA527D6004D3A89106B7C39015326"
+    },
+    "6654CE62FE584A11B319B80EDD1E1539": {
+      "id": "6654CE62FE584A11B319B80EDD1E1539",
+      "asnIdentifier": "S21389704",
+      "position": 27000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-4.2",
+      "statementLabel": "Element",
+      "description": "Demonstrate functions of linear algebra and vector mathematics (dot product, cross product, quaternions, etc.) to determine character perspective and field of view.",
+      "ancestorIds": [
+        "0CFDA527D6004D3A89106B7C39015326"
+      ],
+      "parentId": "0CFDA527D6004D3A89106B7C39015326"
+    },
+    "B82BB6D09DBD49298E73E73BA52442B8": {
+      "id": "B82BB6D09DBD49298E73E73BA52442B8",
+      "asnIdentifier": "S21389703",
+      "position": 26000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-4.1",
+      "statementLabel": "Element",
+      "description": "Use algebraic, geometric, and trigonometric relationships to define game object characteristics and properties as well as Heads-Up Display (HUD) interface placement and scaling.",
+      "ancestorIds": [
+        "0CFDA527D6004D3A89106B7C39015326"
+      ],
+      "parentId": "0CFDA527D6004D3A89106B7C39015326"
+    },
+    "0CFDA527D6004D3A89106B7C39015326": {
+      "id": "0CFDA527D6004D3A89106B7C39015326",
+      "asnIdentifier": "S21389702",
+      "position": 25000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-4",
+      "statementLabel": "Standard",
+      "description": "Analyze and synthesize the relationship of mathematics to game design.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B3B79D466D5D481783C1A9CD60703EDC": {
+      "id": "B3B79D466D5D481783C1A9CD60703EDC",
+      "asnIdentifier": "S21389701",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.10",
+      "statementLabel": "Element",
+      "description": "Compare and contrast game creation tools including scripting languages, extensibility, 2D/3D support and others.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "8D4A35A4237241328F82A22F36BD82C6": {
+      "id": "8D4A35A4237241328F82A22F36BD82C6",
+      "asnIdentifier": "S21389700",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.9",
+      "statementLabel": "Element",
+      "description": "Demonstrate an understanding of the mathematical concepts, logic, and syntax of programming languages.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "B91E0617A5F94487B692C02BDCBCFEE8": {
+      "id": "B91E0617A5F94487B692C02BDCBCFEE8",
+      "asnIdentifier": "S21389699",
+      "position": 22000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.8",
+      "statementLabel": "Element",
+      "description": "Demonstrate an understanding of Object Oriented Programming.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "EB84801CDF324E289F2E86A6A0C6E399": {
+      "id": "EB84801CDF324E289F2E86A6A0C6E399",
+      "asnIdentifier": "S21389698",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.7",
+      "statementLabel": "Element",
+      "description": "Import and use Motion Capture (Mocap) data to drive character animation.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "E2729F9B2B1847219A08C309261C5FCF": {
+      "id": "E2729F9B2B1847219A08C309261C5FCF",
+      "asnIdentifier": "S21389697",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.6",
+      "statementLabel": "Element",
+      "description": "Retarget motion data and animation setups between character rigs.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "8A49238526254062A029AC50BD59DFD5": {
+      "id": "8A49238526254062A029AC50BD59DFD5",
+      "asnIdentifier": "S21389696",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.5",
+      "statementLabel": "Element",
+      "description": "Demonstrate an understanding of loops to manage recurring events.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "ACB3C3EB663B4E7CA21D04456EA8AC93": {
+      "id": "ACB3C3EB663B4E7CA21D04456EA8AC93",
+      "asnIdentifier": "S21389695",
+      "position": 18000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.4",
+      "statementLabel": "Element",
+      "description": "Demonstrate an understanding of states for game, player, item, and other objects in the game universe.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "32AA4E0A57DB4F32A6653BDC6BC7B617": {
+      "id": "32AA4E0A57DB4F32A6653BDC6BC7B617",
+      "asnIdentifier": "S21389694",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.3",
+      "statementLabel": "Element",
+      "description": "Demonstrate an understanding of \"if\" and \"switch\" statements.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "973C4B2313534566B45B2B618AE905BC": {
+      "id": "973C4B2313534566B45B2B618AE905BC",
+      "asnIdentifier": "S21389693",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.2",
+      "statementLabel": "Element",
+      "description": "Determine appropriate programming and scripting languages to create desired game mechanics, control the environment, user interface (UI), and gameplay.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "9EF28B09C49D49D28D6A53111FFDB72E": {
+      "id": "9EF28B09C49D49D28D6A53111FFDB72E",
+      "asnIdentifier": "S21389692",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-3.1",
+      "statementLabel": "Element",
+      "description": "Introduce script binding, components, and prefabricated objects to projects.",
+      "ancestorIds": [
+        "4CF00E4647254D65AA80E9C56CE2FFA9"
+      ],
+      "parentId": "4CF00E4647254D65AA80E9C56CE2FFA9"
+    },
+    "4CF00E4647254D65AA80E9C56CE2FFA9": {
+      "id": "4CF00E4647254D65AA80E9C56CE2FFA9",
+      "asnIdentifier": "S21389691",
+      "position": 14000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-3",
+      "statementLabel": "Standard",
+      "description": "Apply complex and abstract thinking to programming and scripting.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "B23F9EB02AF24688A8629FB31F1ABB79": {
+      "id": "B23F9EB02AF24688A8629FB31F1ABB79",
+      "asnIdentifier": "S21389690",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-2.5",
+      "statementLabel": "Element",
+      "description": "Plan and layout the steps needed to execute a team project, from skills to dependencies and parallelization of tasks.",
+      "ancestorIds": [
+        "C4D27796494B4851896B34F4880078E3"
+      ],
+      "parentId": "C4D27796494B4851896B34F4880078E3"
+    },
+    "A5DE45BF1B384EB3B7C7F36E7B3473C6": {
+      "id": "A5DE45BF1B384EB3B7C7F36E7B3473C6",
+      "asnIdentifier": "S21389689",
+      "position": 12000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-2.4",
+      "statementLabel": "Element",
+      "description": "Evaluate and describe various 2D & 3D, single & multi-user genre in games.",
+      "ancestorIds": [
+        "C4D27796494B4851896B34F4880078E3"
+      ],
+      "parentId": "C4D27796494B4851896B34F4880078E3"
+    },
+    "A370EBEE414C4C98A1DD1BA7D886097C": {
+      "id": "A370EBEE414C4C98A1DD1BA7D886097C",
+      "asnIdentifier": "S21389688",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-2.3",
+      "statementLabel": "Element",
+      "description": "Compare and contrast the narratives in gameplay and explain how and when the storyline could pertain to game design.",
+      "ancestorIds": [
+        "C4D27796494B4851896B34F4880078E3"
+      ],
+      "parentId": "C4D27796494B4851896B34F4880078E3"
+    },
+    "72B67D2F5FF44B0484F357D466D0CC0E": {
+      "id": "72B67D2F5FF44B0484F357D466D0CC0E",
+      "asnIdentifier": "S21389687",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-2.2",
+      "statementLabel": "Element",
+      "description": "Evaluate basic gameplay from an existing game.",
+      "ancestorIds": [
+        "C4D27796494B4851896B34F4880078E3"
+      ],
+      "parentId": "C4D27796494B4851896B34F4880078E3"
+    },
+    "7FD983A67DA04C1CA27CA802DF4323DB": {
+      "id": "7FD983A67DA04C1CA27CA802DF4323DB",
+      "asnIdentifier": "S21389686",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-2.1",
+      "statementLabel": "Element",
+      "description": "Identify the primary steps in the design process (e.g., conceptualize, prototype, test, analyze).",
+      "ancestorIds": [
+        "C4D27796494B4851896B34F4880078E3"
+      ],
+      "parentId": "C4D27796494B4851896B34F4880078E3"
+    },
+    "C4D27796494B4851896B34F4880078E3": {
+      "id": "C4D27796494B4851896B34F4880078E3",
+      "asnIdentifier": "S21389685",
+      "position": 8000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-2",
+      "statementLabel": "Standard",
+      "description": "Demonstrate conceptual understanding of the game design process.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9530CE0FBB5F4A1BB14BA270B3D4E58E": {
+      "id": "9530CE0FBB5F4A1BB14BA270B3D4E58E",
+      "asnIdentifier": "S21389684",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-1.6",
+      "statementLabel": "Element",
+      "description": "Present a professional image through appearance, behavior, and language.",
+      "ancestorIds": [
+        "71DC67C44EC545D1AA2775F094BC2F05"
+      ],
+      "parentId": "71DC67C44EC545D1AA2775F094BC2F05"
+    },
+    "99EF5A76E6E64325B91499A09E68A4E8": {
+      "id": "99EF5A76E6E64325B91499A09E68A4E8",
+      "asnIdentifier": "S21389683",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-1.5",
+      "statementLabel": "Element",
+      "description": "Apply the appropriate skill sets to be productive in a changing, technological, diverse workplace to be able to work independently and apply team-work skills.",
+      "ancestorIds": [
+        "71DC67C44EC545D1AA2775F094BC2F05"
+      ],
+      "parentId": "71DC67C44EC545D1AA2775F094BC2F05"
+    },
+    "88DDE633E412457BAB3AB49C5E563024": {
+      "id": "88DDE633E412457BAB3AB49C5E563024",
+      "asnIdentifier": "S21389682",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-1.4",
+      "statementLabel": "Element",
+      "description": "Model work readiness traits required for success in the workplace including integrity, honesty, accountability, punctuality, time management, and respect for diversity.",
+      "ancestorIds": [
+        "71DC67C44EC545D1AA2775F094BC2F05"
+      ],
+      "parentId": "71DC67C44EC545D1AA2775F094BC2F05"
+    },
+    "D9ED6B6FF31D4D6489DBB0D39E36A135": {
+      "id": "D9ED6B6FF31D4D6489DBB0D39E36A135",
+      "asnIdentifier": "S21389681",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-1.3",
+      "statementLabel": "Element",
+      "description": "Exhibit critical thinking and problem-solving skills to locate, analyze and apply information in career planning and employment situations.",
+      "ancestorIds": [
+        "71DC67C44EC545D1AA2775F094BC2F05"
+      ],
+      "parentId": "71DC67C44EC545D1AA2775F094BC2F05"
+    },
+    "A8AC3FFDCEBA4A3A9231ED6D5E0FA51D": {
+      "id": "A8AC3FFDCEBA4A3A9231ED6D5E0FA51D",
+      "asnIdentifier": "S21389680",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-1.2",
+      "statementLabel": "Element",
+      "description": "Demonstrate creativity by asking challenging questions and applying innovative procedures and methods.",
+      "ancestorIds": [
+        "71DC67C44EC545D1AA2775F094BC2F05"
+      ],
+      "parentId": "71DC67C44EC545D1AA2775F094BC2F05"
+    },
+    "ABF5AD9005C542159BF319C96EC69F9C": {
+      "id": "ABF5AD9005C542159BF319C96EC69F9C",
+      "asnIdentifier": "S21389679",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "IT-GDAS-1.1",
+      "statementLabel": "Element",
+      "description": "Communicate effectively through writing, speaking, listening, reading, and interpersonal abilities.",
+      "ancestorIds": [
+        "71DC67C44EC545D1AA2775F094BC2F05"
+      ],
+      "parentId": "71DC67C44EC545D1AA2775F094BC2F05"
+    },
+    "71DC67C44EC545D1AA2775F094BC2F05": {
+      "id": "71DC67C44EC545D1AA2775F094BC2F05",
+      "asnIdentifier": "S21389678",
+      "position": 1000,
+      "depth": 0,
+      "statementNotation": "IT-GDAS-1",
+      "statementLabel": "Standard",
+      "description": "Demonstrate employability skills required by business and industry.",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

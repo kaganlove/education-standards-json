@@ -1,0 +1,1668 @@
+{
+  "id": "2489233F4A144087B95211CB53C0B801",
+  "title": "Linear Algebra with Computer Science Applications",
+  "subject": "Mathematics (2021-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/3100452b-484a-454b-9f2f-79b0304083e3/1388",
+    "title": "Georgia’s K-12 Mathematics Standards-Implementation SY2023-2024",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "16FC028188924B499F1E3E431ECB7EB9": {
+      "id": "16FC028188924B499F1E3E431ECB7EB9",
+      "asnIdentifier": null,
+      "position": 11008,
+      "depth": 2,
+      "listId": "6.7",
+      "statementNotation": "LACS.PR.6.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write a program to model the probabilities of real-life phenomena using a Markov chain.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "23B00126E6424AC9801C3AE0EC77F335": {
+      "id": "23B00126E6424AC9801C3AE0EC77F335",
+      "asnIdentifier": null,
+      "position": 11007,
+      "depth": 2,
+      "listId": "6.6",
+      "statementNotation": "LACS.PR.6.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply Markov chains in context.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "FDC8B2E9A5F54F07B888BEEFF50C6699": {
+      "id": "FDC8B2E9A5F54F07B888BEEFF50C6699",
+      "asnIdentifier": null,
+      "position": 11006,
+      "depth": 2,
+      "listId": "6.5",
+      "statementNotation": "LACS.PR.6.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use transition matrices to identify absorbing states of a Markov chain.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "34D7A2C8E9AD46D7A88A7BEEA8AAF11A": {
+      "id": "34D7A2C8E9AD46D7A88A7BEEA8AAF11A",
+      "asnIdentifier": null,
+      "position": 11005,
+      "depth": 2,
+      "listId": "6.4",
+      "statementNotation": "LACS.PR.6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the attractor for a regular Markov chain.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "741E97C68AFC428F9012BDAC4C229B3C": {
+      "id": "741E97C68AFC428F9012BDAC4C229B3C",
+      "asnIdentifier": null,
+      "position": 11004,
+      "depth": 2,
+      "listId": "6.3",
+      "statementNotation": "LACS.PR.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use matrix algebra to calculate the probability of future states of a Markov chain.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "AF26B257731C4B05B7807C4E9CA0D524": {
+      "id": "AF26B257731C4B05B7807C4E9CA0D524",
+      "asnIdentifier": null,
+      "position": 11003,
+      "depth": 2,
+      "listId": "6.2",
+      "statementNotation": "LACS.PR.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simulate the different stages of a Markov chain using random numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "0AEA317E3A194BD28D8E37E888765372": {
+      "id": "0AEA317E3A194BD28D8E37E888765372",
+      "asnIdentifier": null,
+      "position": 11002,
+      "depth": 2,
+      "listId": "6.1",
+      "statementNotation": "LACS.PR.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model a finite random process using transition matrices in a Markov chain.",
+      "comments": [],
+      "ancestorIds": [
+        "4E0E2638A7D24D659DC1E9BE87FC55DD",
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "4E0E2638A7D24D659DC1E9BE87FC55DD"
+    },
+    "4E0E2638A7D24D659DC1E9BE87FC55DD": {
+      "id": "4E0E2638A7D24D659DC1E9BE87FC55DD",
+      "asnIdentifier": null,
+      "position": 11001,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "LACS.PR.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using probabilistic and quantitative reasoning, solve contextual, mathematical problems using Markov chains to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "1978E41B504B4126B53539D8D55E70FA"
+      ],
+      "parentId": "1978E41B504B4126B53539D8D55E70FA"
+    },
+    "1978E41B504B4126B53539D8D55E70FA": {
+      "id": "1978E41B504B4126B53539D8D55E70FA",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Probabilistic Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E0D091FD05584BEA9DE07FA6232B4652": {
+      "id": "E0D091FD05584BEA9DE07FA6232B4652",
+      "asnIdentifier": null,
+      "position": 10044,
+      "depth": 2,
+      "listId": "8.12",
+      "statementNotation": "LACS.PAR.8.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply eigenvalues and eigenvectors to problems in context.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "414F2CAB59F84F13A87DAEEF20120E2E": {
+      "id": "414F2CAB59F84F13A87DAEEF20120E2E",
+      "asnIdentifier": null,
+      "position": 10043,
+      "depth": 2,
+      "listId": "8.11",
+      "statementNotation": "LACS.PAR.8.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine an orthogonal matrix that diagonalizes a given matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "14C6C529EE474987A650771AA1617A64": {
+      "id": "14C6C529EE474987A650771AA1617A64",
+      "asnIdentifier": null,
+      "position": 10042,
+      "depth": 2,
+      "listId": "8.10",
+      "statementNotation": "LACS.PAR.8.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the dimension of the eigenspace corresponding to the eigenvalues of a symmetric matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "B55864B904B64502B02AAAA807AC5D76": {
+      "id": "B55864B904B64502B02AAAA807AC5D76",
+      "asnIdentifier": null,
+      "position": 10041,
+      "depth": 2,
+      "listId": "8.9",
+      "statementNotation": "LACS.PAR.8.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a basis of eigenvectors to create a change of basis matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "CBB12EA2A80D421A879F292243218CC5": {
+      "id": "CBB12EA2A80D421A879F292243218CC5",
+      "asnIdentifier": null,
+      "position": 10040,
+      "depth": 2,
+      "listId": "8.8",
+      "statementNotation": "LACS.PAR.8.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the eigenvalues and eigenvectors of a matrix and interpret them geometrically.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "4EED10CAB12846859C1B10E4727DF8B1": {
+      "id": "4EED10CAB12846859C1B10E4727DF8B1",
+      "asnIdentifier": null,
+      "position": 10039,
+      "depth": 2,
+      "listId": "8.7",
+      "statementNotation": "LACS.PAR.8.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the characteristic polynomial of a matrix and interpret the characteristic polynomial geometrically.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "237DBDF18B9D4EC396233F165E143DC8": {
+      "id": "237DBDF18B9D4EC396233F165E143DC8",
+      "asnIdentifier": null,
+      "position": 10038,
+      "depth": 2,
+      "listId": "8.6",
+      "statementNotation": "LACS.PAR.8.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Cramer’s Rule to solve a system of linear equations.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "B599F98E28AD4CF3B7581537E955F245": {
+      "id": "B599F98E28AD4CF3B7581537E955F245",
+      "asnIdentifier": null,
+      "position": 10037,
+      "depth": 2,
+      "listId": "8.5",
+      "statementNotation": "LACS.PAR.8.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend the definition and geometric interpretation of the cross product to n – 1 vectors in n dimensions.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "DA6851D2713A4BB2BF73D6AC56158D37": {
+      "id": "DA6851D2713A4BB2BF73D6AC56158D37",
+      "asnIdentifier": null,
+      "position": 10036,
+      "depth": 2,
+      "listId": "8.4",
+      "statementNotation": "LACS.PAR.8.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine if a matrix has a nonzero determinant and extend the nonzero determinant property to problems involving linear dependency, rank, and matrix inverses.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "F05E9C8636CB4F8AB33A0E8116EC5F81": {
+      "id": "F05E9C8636CB4F8AB33A0E8116EC5F81",
+      "asnIdentifier": null,
+      "position": 10035,
+      "depth": 2,
+      "listId": "8.3",
+      "statementNotation": "LACS.PAR.8.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the determinant of the product of two matrices; calculate the determinant of the transpose of a matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "546F5AEBA11F4F318380F176DB4005EC": {
+      "id": "546F5AEBA11F4F318380F176DB4005EC",
+      "asnIdentifier": null,
+      "position": 10034,
+      "depth": 2,
+      "listId": "8.2",
+      "statementNotation": "LACS.PAR.8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify properties of the determinant.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "F8101966EA2C4A7491F25E797B0CD597": {
+      "id": "F8101966EA2C4A7491F25E797B0CD597",
+      "asnIdentifier": null,
+      "position": 10033,
+      "depth": 2,
+      "listId": "8.1",
+      "statementNotation": "LACS.PAR.8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the determinant of a matrix along any row or column and use a recursive procedure for evaluating a determinant for matrices larger than 3-by-3.",
+      "comments": [],
+      "ancestorIds": [
+        "292A5DA327394707BB6B53F699C32673",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "292A5DA327394707BB6B53F699C32673"
+    },
+    "292A5DA327394707BB6B53F699C32673": {
+      "id": "292A5DA327394707BB6B53F699C32673",
+      "asnIdentifier": null,
+      "position": 10032,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "LACS.PAR.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems using eigenvalues and eigenvectors to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "E658C064396B49AD979B905D382BDABA"
+    },
+    "8625F1D3C7024BAFAFF4CDA23FC5C71E": {
+      "id": "8625F1D3C7024BAFAFF4CDA23FC5C71E",
+      "asnIdentifier": null,
+      "position": 10031,
+      "depth": 2,
+      "listId": "7.17",
+      "statementNotation": "LACS.PAR.7.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the Rank Theorem to demonstrate the simple authentication scheme.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "07297B08BFB3429E9A45F5669DA5799C": {
+      "id": "07297B08BFB3429E9A45F5669DA5799C",
+      "asnIdentifier": null,
+      "position": 10030,
+      "depth": 2,
+      "listId": "7.16",
+      "statementNotation": "LACS.PAR.7.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program a Fast Fourier Transform to store a sequence of amplitude samples.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "0FC2780171754CEEA3BA41FE03B70184": {
+      "id": "0FC2780171754CEEA3BA41FE03B70184",
+      "asnIdentifier": null,
+      "position": 10029,
+      "depth": 2,
+      "listId": "7.15",
+      "statementNotation": "LACS.PAR.7.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use bases to represent images and sounds as wavelets; perform wavelet transformation, implementation, and decomposition through programming.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "68BBC92A4C8F4BB6B5CC012653921B21": {
+      "id": "68BBC92A4C8F4BB6B5CC012653921B21",
+      "asnIdentifier": null,
+      "position": 10028,
+      "depth": 2,
+      "listId": "7.14",
+      "statementNotation": "LACS.PAR.7.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the Exchange Lemma to image perspective rendering.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "BCDE6B5793BD4E4FA4080EA44024E7FE": {
+      "id": "BCDE6B5793BD4E4FA4080EA44024E7FE",
+      "asnIdentifier": null,
+      "position": 10027,
+      "depth": 2,
+      "listId": "7.13",
+      "statementNotation": "LACS.PAR.7.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the grow-and-shrink algorithm in the minimum spanning forest problem in GF(2).",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "78581E3315F342C18DA728B958BB944B": {
+      "id": "78581E3315F342C18DA728B958BB944B",
+      "asnIdentifier": null,
+      "position": 10026,
+      "depth": 2,
+      "listId": "7.12",
+      "statementNotation": "LACS.PAR.7.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply the method of least squares to find the line or parabola of best fit to approximate data in context.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "543934D076364DE3AC26E7F94507F730": {
+      "id": "543934D076364DE3AC26E7F94507F730",
+      "asnIdentifier": null,
+      "position": 10025,
+      "depth": 2,
+      "listId": "7.11",
+      "statementNotation": "LACS.PAR.7.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform QR factorization of a matrix to solve matrix equations.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "EC14F6B49015454CABEEBBC527EF39CF": {
+      "id": "EC14F6B49015454CABEEBBC527EF39CF",
+      "asnIdentifier": null,
+      "position": 10024,
+      "depth": 2,
+      "listId": "7.10",
+      "statementNotation": "LACS.PAR.7.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find an orthogonal basis for a given basis or subspace by applying the Gram-Schmidt orthonormalization process.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "AE8C391E02B54F0681CCBF308FAD6A32": {
+      "id": "AE8C391E02B54F0681CCBF308FAD6A32",
+      "asnIdentifier": null,
+      "position": 10023,
+      "depth": 2,
+      "listId": "7.9",
+      "statementNotation": "LACS.PAR.7.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine if two matrices are similar; determine if two matrices are orthogonal.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "D9D92A1CE5C945498F25B6372C4F76FB": {
+      "id": "D9D92A1CE5C945498F25B6372C4F76FB",
+      "asnIdentifier": null,
+      "position": 10022,
+      "depth": 2,
+      "listId": "7.8",
+      "statementNotation": "LACS.PAR.7.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the change of representation for a linear transformation given two different bases on a vector space.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "C1521EA884584B7C8301FA6A79AA510C": {
+      "id": "C1521EA884584B7C8301FA6A79AA510C",
+      "asnIdentifier": null,
+      "position": 10021,
+      "depth": 2,
+      "listId": "7.7",
+      "statementNotation": "LACS.PAR.7.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find a matrix representing a linear map.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "23DB835840654AB79E8A38D276273D9B": {
+      "id": "23DB835840654AB79E8A38D276273D9B",
+      "asnIdentifier": null,
+      "position": 10020,
+      "depth": 2,
+      "listId": "7.6",
+      "statementNotation": "LACS.PAR.7.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the dimension of a vector space; find the dimensions of the row space, column space, and kernel for a given matrix; find the rank of a matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "81EFDC4A5A6A44188771C3020C140209": {
+      "id": "81EFDC4A5A6A44188771C3020C140209",
+      "asnIdentifier": null,
+      "position": 10019,
+      "depth": 2,
+      "listId": "7.5",
+      "statementNotation": "LACS.PAR.7.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a set of vectors is a basis for a vector space.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "290CB5099E5A4DC797FDC682E26365DB": {
+      "id": "290CB5099E5A4DC797FDC682E26365DB",
+      "asnIdentifier": null,
+      "position": 10018,
+      "depth": 2,
+      "listId": "7.4",
+      "statementNotation": "LACS.PAR.7.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether two vector subspaces are orthogonal; find the orthogonal component of a given subspace.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "FD35C26B41144A3EBD75750264BDD42E": {
+      "id": "FD35C26B41144A3EBD75750264BDD42E",
+      "asnIdentifier": null,
+      "position": 10017,
+      "depth": 2,
+      "listId": "7.3",
+      "statementNotation": "LACS.PAR.7.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a given vector is in the linear span of a set of vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "BCD1D1D565E841D08B480FE60985711B": {
+      "id": "BCD1D1D565E841D08B480FE60985711B",
+      "asnIdentifier": null,
+      "position": 10016,
+      "depth": 2,
+      "listId": "7.2",
+      "statementNotation": "LACS.PAR.7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify whether a subset of a vector space is a subspace.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "08A7585E3AC9497690E029B26FE8FF8C": {
+      "id": "08A7585E3AC9497690E029B26FE8FF8C",
+      "asnIdentifier": null,
+      "position": 10015,
+      "depth": 2,
+      "listId": "7.1",
+      "statementNotation": "LACS.PAR.7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a given set of vectors generates a vector space.",
+      "comments": [],
+      "ancestorIds": [
+        "45C1A5FEB9D2402B951B43CCCEA6AA79",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "45C1A5FEB9D2402B951B43CCCEA6AA79"
+    },
+    "45C1A5FEB9D2402B951B43CCCEA6AA79": {
+      "id": "45C1A5FEB9D2402B951B43CCCEA6AA79",
+      "asnIdentifier": null,
+      "position": 10014,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "LACS.PAR.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems using vector spaces to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "E658C064396B49AD979B905D382BDABA"
+    },
+    "5889D115A3414E86905A488FF803C5A4": {
+      "id": "5889D115A3414E86905A488FF803C5A4",
+      "asnIdentifier": null,
+      "position": 10013,
+      "depth": 2,
+      "listId": "4.13",
+      "statementNotation": "LACS.PAR.4.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write code utilizing error-correcting concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "B83EED64C55C4F088F983C648FCACD1C": {
+      "id": "B83EED64C55C4F088F983C648FCACD1C",
+      "asnIdentifier": null,
+      "position": 10012,
+      "depth": 2,
+      "listId": "4.12",
+      "statementNotation": "LACS.PAR.4.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show and explain how threshold secret sharing works in conjunction with Gaussian elimination through programming.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "FBB48184D47A456183E22CBE341FFAF9": {
+      "id": "FBB48184D47A456183E22CBE341FFAF9",
+      "asnIdentifier": null,
+      "position": 10011,
+      "depth": 2,
+      "listId": "4.11",
+      "statementNotation": "LACS.PAR.4.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Improve the simple authentication scheme over GF(2).",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "5379D594968045CD9A0326571F4B784E": {
+      "id": "5379D594968045CD9A0326571F4B784E",
+      "asnIdentifier": null,
+      "position": 10010,
+      "depth": 2,
+      "listId": "4.10",
+      "statementNotation": "LACS.PAR.4.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve a matrix equation using inverses; find all solutions to a matrix equation given one solution and the kernel.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "2D3BB1CCFF2941F786494E9D23F076E7": {
+      "id": "2D3BB1CCFF2941F786494E9D23F076E7",
+      "asnIdentifier": null,
+      "position": 10009,
+      "depth": 2,
+      "listId": "4.9",
+      "statementNotation": "LACS.PAR.4.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decompose a matrix into its symmetric and skew-symmetric parts; decompose a matrix into its LU factorization.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "5CF69AAB95194EDB8E25DA47483D315A": {
+      "id": "5CF69AAB95194EDB8E25DA47483D315A",
+      "asnIdentifier": null,
+      "position": 10008,
+      "depth": 2,
+      "listId": "4.8",
+      "statementNotation": "LACS.PAR.4.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine when the inverse of a square matrix exists, and if it exists, find it by augmenting the identity matrix to the matrix and then use row operations.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "EA5E0D8763B747EC9DEC73EBC6D1A0BB": {
+      "id": "EA5E0D8763B747EC9DEC73EBC6D1A0BB",
+      "asnIdentifier": null,
+      "position": 10007,
+      "depth": 2,
+      "listId": "4.7",
+      "statementNotation": "LACS.PAR.4.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine when matrix multiplication is defined, and if defined, multiply two matrices by considering the matrix product as a dot product of a group of vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "60B1B8F3917943989A6E6588BE226167": {
+      "id": "60B1B8F3917943989A6E6588BE226167",
+      "asnIdentifier": null,
+      "position": 10006,
+      "depth": 2,
+      "listId": "4.6",
+      "statementNotation": "LACS.PAR.4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add two matrices, multiply a matrix by a scalar, find the transpose of a matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "4601148D31644AABACF4D0A997EB1C1B": {
+      "id": "4601148D31644AABACF4D0A997EB1C1B",
+      "asnIdentifier": null,
+      "position": 10005,
+      "depth": 2,
+      "listId": "4.5",
+      "statementNotation": "LACS.PAR.4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the kernel of a matrix and explore the relationship between the kernel, the orthogonality of the vectors in the kernel, and the linear dependence of the rows/columns.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "446C1126D2564370927169434A4BFFB2": {
+      "id": "446C1126D2564370927169434A4BFFB2",
+      "asnIdentifier": null,
+      "position": 10004,
+      "depth": 2,
+      "listId": "4.4",
+      "statementNotation": "LACS.PAR.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret linear dependence of vectors geometrically.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "9D3A702B620D48D7AC46B8E84C25AFBB": {
+      "id": "9D3A702B620D48D7AC46B8E84C25AFBB",
+      "asnIdentifier": null,
+      "position": 10003,
+      "depth": 2,
+      "listId": "4.3",
+      "statementNotation": "LACS.PAR.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a vector is a linear combination of other given vectors; find the linear combination of vectors that results in a given vector.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "8547D3532B70492A80ABE244F0AECB80": {
+      "id": "8547D3532B70492A80ABE244F0AECB80",
+      "asnIdentifier": null,
+      "position": 10002,
+      "depth": 2,
+      "listId": "4.2",
+      "statementNotation": "LACS.PAR.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the nature of the solution of a system from its row-echelon form, and if there are infinitely many solutions, express them as a vector equation.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "61220E060C0345A380ED9DF878BCACA3": {
+      "id": "61220E060C0345A380ED9DF878BCACA3",
+      "asnIdentifier": null,
+      "position": 10001,
+      "depth": 2,
+      "listId": "4.1",
+      "statementNotation": "LACS.PAR.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a linear system of three equations in three variables as an augmented matrix and reduce the matrix to row-echelon form.",
+      "comments": [],
+      "ancestorIds": [
+        "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "4D8FBB2EFFFB49E6A75D32FA4815CACA"
+    },
+    "4D8FBB2EFFFB49E6A75D32FA4815CACA": {
+      "id": "4D8FBB2EFFFB49E6A75D32FA4815CACA",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "LACS.PAR.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems involving matrices to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "E658C064396B49AD979B905D382BDABA"
+      ],
+      "parentId": "E658C064396B49AD979B905D382BDABA"
+    },
+    "E658C064396B49AD979B905D382BDABA": {
+      "id": "E658C064396B49AD979B905D382BDABA",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Patterning & Algebraic Reasoning ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F61751DBD0FE43DB8E14F53523602D68": {
+      "id": "F61751DBD0FE43DB8E14F53523602D68",
+      "asnIdentifier": null,
+      "position": 8020,
+      "depth": 2,
+      "listId": "5.9",
+      "statementNotation": "LACS.GSR.5.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find and interpret geometrically the set of preimages of a vector under a given matrix.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "240807CD635F4B6792E70B8A186F0498": {
+      "id": "240807CD635F4B6792E70B8A186F0498",
+      "asnIdentifier": null,
+      "position": 8019,
+      "depth": 2,
+      "listId": "5.8",
+      "statementNotation": "LACS.GSR.5.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the image and preimage of a linear map using matrices; determine whether the linear map is one-to-one.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "971470B59DD74F268BE74B475B7F4043": {
+      "id": "971470B59DD74F268BE74B475B7F4043",
+      "asnIdentifier": null,
+      "position": 8018,
+      "depth": 2,
+      "listId": "5.7",
+      "statementNotation": "LACS.GSR.5.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define functions from n dimensions to m dimensions as vectors and/or matrices.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "D3C1A865649041F398A5A090504BA162": {
+      "id": "D3C1A865649041F398A5A090504BA162",
+      "asnIdentifier": null,
+      "position": 8017,
+      "depth": 2,
+      "listId": "5.6",
+      "statementNotation": "LACS.GSR.5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write code to perform transformations in two-dimensional geometry using matrix operations.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "F434AF162CCC463EA1C441520118E0A1": {
+      "id": "F434AF162CCC463EA1C441520118E0A1",
+      "asnIdentifier": null,
+      "position": 8016,
+      "depth": 2,
+      "listId": "5.5",
+      "statementNotation": "LACS.GSR.5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the area of a polygon given its coordinates using matrices; find the area of the image of a polygon after a transformation.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "2712D4F8DC2D4E9892ED372D312A0CBB": {
+      "id": "2712D4F8DC2D4E9892ED372D312A0CBB",
+      "asnIdentifier": null,
+      "position": 8015,
+      "depth": 2,
+      "listId": "5.4",
+      "statementNotation": "LACS.GSR.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the image of a point under a transformation.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "65543E6C785C4C349EB2E59D980F0FEF": {
+      "id": "65543E6C785C4C349EB2E59D980F0FEF",
+      "asnIdentifier": null,
+      "position": 8014,
+      "depth": 2,
+      "listId": "5.3",
+      "statementNotation": "LACS.GSR.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find a matrix that represents a combination of transformations.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "A1479D33AC004C9EA37A8A5F9520268D": {
+      "id": "A1479D33AC004C9EA37A8A5F9520268D",
+      "asnIdentifier": null,
+      "position": 8013,
+      "depth": 2,
+      "listId": "5.2",
+      "statementNotation": "LACS.GSR.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find matrices that represent scalings, reflections, and rotations of geometric figures.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "2356B81716F340A59E4A55DA412F2036": {
+      "id": "2356B81716F340A59E4A55DA412F2036",
+      "asnIdentifier": null,
+      "position": 8012,
+      "depth": 2,
+      "listId": "5.1",
+      "statementNotation": "LACS.GSR.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a 2-by-2 or 3-by-3 linear transformation matrix, describe the transformation a geometric figure undergoes.",
+      "comments": [],
+      "ancestorIds": [
+        "CB0843553B75490398F67CA2A99D46EE",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "CB0843553B75490398F67CA2A99D46EE"
+    },
+    "CB0843553B75490398F67CA2A99D46EE": {
+      "id": "CB0843553B75490398F67CA2A99D46EE",
+      "asnIdentifier": null,
+      "position": 8011,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "LACS.GSR.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems involving matrices as geometric transformations and to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "355E4605CE734A57A37ADA682F66F6FB"
+    },
+    "EB4B912236B34FDBBDE246B2F6D55D01": {
+      "id": "EB4B912236B34FDBBDE246B2F6D55D01",
+      "asnIdentifier": null,
+      "position": 8010,
+      "depth": 2,
+      "listId": "3.10",
+      "statementNotation": "LACS.GSR.3.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use vector operations to program simple authentication schemes.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "9714A11A8CA44E58BCE193ACEC7B5C44": {
+      "id": "9714A11A8CA44E58BCE193ACEC7B5C44",
+      "asnIdentifier": null,
+      "position": 8009,
+      "depth": 2,
+      "listId": "3.9",
+      "statementNotation": "LACS.GSR.3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply perfect secrecy, all-or-nothing secret sharing, and solving lights out games to vectors over GF(2).",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "5D3D1E4FE5C2456BA73FACB7DBAE0143": {
+      "id": "5D3D1E4FE5C2456BA73FACB7DBAE0143",
+      "asnIdentifier": null,
+      "position": 8008,
+      "depth": 2,
+      "listId": "3.8",
+      "statementNotation": "LACS.GSR.3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent and perform vector operations using programming language classes that define the use of vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "4FE83E2A76E54A81A039809F9D6A1EDB": {
+      "id": "4FE83E2A76E54A81A039809F9D6A1EDB",
+      "asnIdentifier": null,
+      "position": 8007,
+      "depth": 2,
+      "listId": "3.7",
+      "statementNotation": "LACS.GSR.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find and use the cross product of two 3-dimensional vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "C7FF4BF84B5C40768F1D0AA7F19D1F06": {
+      "id": "C7FF4BF84B5C40768F1D0AA7F19D1F06",
+      "asnIdentifier": null,
+      "position": 8006,
+      "depth": 2,
+      "listId": "3.6",
+      "statementNotation": "LACS.GSR.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the triangle inequality in n-dimensions.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "8C7D465BB79B4FFF9695AA07BD0C4035": {
+      "id": "8C7D465BB79B4FFF9695AA07BD0C4035",
+      "asnIdentifier": null,
+      "position": 8005,
+      "depth": 2,
+      "listId": "3.5",
+      "statementNotation": "LACS.GSR.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use properties of the dot product to prove statements about vectors and to solve problems in context.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "D0CB8A9E90EE433B9986AE8BE367E252": {
+      "id": "D0CB8A9E90EE433B9986AE8BE367E252",
+      "asnIdentifier": null,
+      "position": 8004,
+      "depth": 2,
+      "listId": "3.4",
+      "statementNotation": "LACS.GSR.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find and use the dot product of two n-dimensional vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "AAB3295AEF094DA286578C4669F69411": {
+      "id": "AAB3295AEF094DA286578C4669F69411",
+      "asnIdentifier": null,
+      "position": 8003,
+      "depth": 2,
+      "listId": "3.3",
+      "statementNotation": "LACS.GSR.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret adding, scaling, and linear combinations of vectors geometrically and algebraically.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "F3D75C4C89B04320A5089D19BB1AEFC0": {
+      "id": "F3D75C4C89B04320A5089D19BB1AEFC0",
+      "asnIdentifier": null,
+      "position": 8002,
+      "depth": 2,
+      "listId": "3.2",
+      "statementNotation": "LACS.GSR.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use vectors to find and interpret geometrical relationships between points in two and three dimensions, such as distance, and generalize these relationships to higher dimensions using n-dimensional vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "03DEBB282AEF4F1786B6FD5F6E6F5350": {
+      "id": "03DEBB282AEF4F1786B6FD5F6E6F5350",
+      "asnIdentifier": null,
+      "position": 8001,
+      "depth": 2,
+      "listId": "3.1",
+      "statementNotation": "LACS.GSR.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use coordinates to represent points in n dimensions and define and use arithmetic operations on n-dimensional points.",
+      "comments": [],
+      "ancestorIds": [
+        "7CD360344E014C50AB55EECAFFDA141B",
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "7CD360344E014C50AB55EECAFFDA141B"
+    },
+    "7CD360344E014C50AB55EECAFFDA141B": {
+      "id": "7CD360344E014C50AB55EECAFFDA141B",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "LACS.GSR.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems involving vectors to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "355E4605CE734A57A37ADA682F66F6FB"
+      ],
+      "parentId": "355E4605CE734A57A37ADA682F66F6FB"
+    },
+    "355E4605CE734A57A37ADA682F66F6FB": {
+      "id": "355E4605CE734A57A37ADA682F66F6FB",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Geometric & Spatial Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D0A79D5A5C1F417F891F3EFCF42CB232": {
+      "id": "D0A79D5A5C1F417F891F3EFCF42CB232",
+      "asnIdentifier": null,
+      "position": 6003,
+      "depth": 2,
+      "listId": "2.3",
+      "statementNotation": "LACS.ADR.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program input and output features to read from and write to files in a programming assignment.",
+      "comments": [],
+      "ancestorIds": [
+        "534EFE917BD24FB7AF8642AFDF98FBCE",
+        "540F21A69A974D258E9D58AEB1CD1EEF"
+      ],
+      "parentId": "534EFE917BD24FB7AF8642AFDF98FBCE"
+    },
+    "AEE9110C97FA4204BC83AFB761394603": {
+      "id": "AEE9110C97FA4204BC83AFB761394603",
+      "asnIdentifier": null,
+      "position": 6002,
+      "depth": 2,
+      "listId": "2.2",
+      "statementNotation": "LACS.ADR.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Show and explain how to program and apply modules and control statements in programming languages.",
+      "comments": [],
+      "ancestorIds": [
+        "534EFE917BD24FB7AF8642AFDF98FBCE",
+        "540F21A69A974D258E9D58AEB1CD1EEF"
+      ],
+      "parentId": "534EFE917BD24FB7AF8642AFDF98FBCE"
+    },
+    "EF02DCC914BE4AE185E36448F3973AC2": {
+      "id": "EF02DCC914BE4AE185E36448F3973AC2",
+      "asnIdentifier": null,
+      "position": 6001,
+      "depth": 2,
+      "listId": "2.1",
+      "statementNotation": "LACS.ADR.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize sets, lists, dictionaries, indexing, and tuples in programming languages.",
+      "comments": [],
+      "ancestorIds": [
+        "534EFE917BD24FB7AF8642AFDF98FBCE",
+        "540F21A69A974D258E9D58AEB1CD1EEF"
+      ],
+      "parentId": "534EFE917BD24FB7AF8642AFDF98FBCE"
+    },
+    "534EFE917BD24FB7AF8642AFDF98FBCE": {
+      "id": "534EFE917BD24FB7AF8642AFDF98FBCE",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "LACS.ADR.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Investigate and describe real-life problems in linear algebra using an object-oriented programming language.",
+      "comments": [],
+      "ancestorIds": [
+        "540F21A69A974D258E9D58AEB1CD1EEF"
+      ],
+      "parentId": "540F21A69A974D258E9D58AEB1CD1EEF"
+    },
+    "540F21A69A974D258E9D58AEB1CD1EEF": {
+      "id": "540F21A69A974D258E9D58AEB1CD1EEF",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Abstract & Digital Reasoning ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F8884678BD7042F39F8BA2F25E7B855F": {
+      "id": "F8884678BD7042F39F8BA2F25E7B855F",
+      "asnIdentifier": null,
+      "position": 4004,
+      "depth": 2,
+      "listId": "1.4",
+      "statementNotation": "LACS.MM.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use various mathematical representations and structures with this information to represent and solve real-life problems.",
+      "comments": [],
+      "ancestorIds": [
+        "153442070A234494B8965E97AAF6B7B8",
+        "2F278D0230F24EA98E2CD668DC5F0175"
+      ],
+      "parentId": "153442070A234494B8965E97AAF6B7B8"
+    },
+    "B757F13D574343CDAED557E8080C674E": {
+      "id": "B757F13D574343CDAED557E8080C674E",
+      "asnIdentifier": null,
+      "position": 4003,
+      "depth": 2,
+      "listId": "1.3",
+      "statementNotation": "LACS.MM.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using abstract and quantitative reasoning, make decisions about information and data from a contextual situation.",
+      "comments": [],
+      "ancestorIds": [
+        "153442070A234494B8965E97AAF6B7B8",
+        "2F278D0230F24EA98E2CD668DC5F0175"
+      ],
+      "parentId": "153442070A234494B8965E97AAF6B7B8"
+    },
+    "A26C8ABB161D456CB65CF6853169D64D": {
+      "id": "A26C8ABB161D456CB65CF6853169D64D",
+      "asnIdentifier": null,
+      "position": 4002,
+      "depth": 2,
+      "listId": "1.2",
+      "statementNotation": "LACS.MM.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create mathematical models to explain phenomena that exist in the natural sciences, social sciences, liberal arts, fine and performing arts, and/or humanities contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "153442070A234494B8965E97AAF6B7B8",
+        "2F278D0230F24EA98E2CD668DC5F0175"
+      ],
+      "parentId": "153442070A234494B8965E97AAF6B7B8"
+    },
+    "2538D94C3CF845D99E461FBE62D1D5E5": {
+      "id": "2538D94C3CF845D99E461FBE62D1D5E5",
+      "asnIdentifier": null,
+      "position": 4001,
+      "depth": 2,
+      "listId": "1.1",
+      "statementNotation": "LACS.MM.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply mathematics to real-life situations; model real-life phenomena using mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "153442070A234494B8965E97AAF6B7B8",
+        "2F278D0230F24EA98E2CD668DC5F0175"
+      ],
+      "parentId": "153442070A234494B8965E97AAF6B7B8"
+    },
+    "153442070A234494B8965E97AAF6B7B8": {
+      "id": "153442070A234494B8965E97AAF6B7B8",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "LACS.MM.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply mathematics to real-life situations; model real-life phenomena using mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "2F278D0230F24EA98E2CD668DC5F0175"
+      ],
+      "parentId": "2F278D0230F24EA98E2CD668DC5F0175"
+    },
+    "2F278D0230F24EA98E2CD668DC5F0175": {
+      "id": "2F278D0230F24EA98E2CD668DC5F0175",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mathematical Modeling ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2F72EE2895AE43D39429B1236AABCB3B": {
+      "id": "2F72EE2895AE43D39429B1236AABCB3B",
+      "asnIdentifier": null,
+      "position": 2007,
+      "depth": 2,
+      "listId": "0.8",
+      "statementNotation": "LACS.MP.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look for and express regularity in repeated reasoning.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "9591C1FD0A7E4597A9743154421EAB79": {
+      "id": "9591C1FD0A7E4597A9743154421EAB79",
+      "asnIdentifier": null,
+      "position": 2006,
+      "depth": 2,
+      "listId": "0.7",
+      "statementNotation": "LACS.MP.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look for and make use of structure.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "9ECDE88618ED4FC5990B16794178C437": {
+      "id": "9ECDE88618ED4FC5990B16794178C437",
+      "asnIdentifier": null,
+      "position": 2005,
+      "depth": 2,
+      "listId": "0.6",
+      "statementNotation": "LACS.MP.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attend to precision.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "E837CE3A33024FAD8275AAA26A77873C": {
+      "id": "E837CE3A33024FAD8275AAA26A77873C",
+      "asnIdentifier": null,
+      "position": 2004,
+      "depth": 2,
+      "listId": "0.5",
+      "statementNotation": "LACS.MP.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use appropriate tools strategically.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "645143C88FCC48868043F57940420ADD": {
+      "id": "645143C88FCC48868043F57940420ADD",
+      "asnIdentifier": null,
+      "position": 2003,
+      "depth": 2,
+      "listId": "0.4",
+      "statementNotation": "LACS.MP.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model with mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "9490C8E904B8477FBC6C3734E3A5030C": {
+      "id": "9490C8E904B8477FBC6C3734E3A5030C",
+      "asnIdentifier": null,
+      "position": 2002,
+      "depth": 2,
+      "listId": "0.3",
+      "statementNotation": "LACS.MP.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "0C6CE02724D243A9A8BBDB6214F9EA03": {
+      "id": "0C6CE02724D243A9A8BBDB6214F9EA03",
+      "asnIdentifier": null,
+      "position": 2001,
+      "depth": 2,
+      "listId": "0.2",
+      "statementNotation": "LACS.MP.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reason abstractly and quantitatively.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "9A16975AB2C841E2BC6DCACC71AC7E88": {
+      "id": "9A16975AB2C841E2BC6DCACC71AC7E88",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "0.1",
+      "statementNotation": "LACS.MP.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make sense of problems and persevere in solving them.",
+      "comments": [],
+      "ancestorIds": [
+        "767E23E98A004E54ADECF08877074A4E",
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "767E23E98A004E54ADECF08877074A4E"
+    },
+    "767E23E98A004E54ADECF08877074A4E": {
+      "id": "767E23E98A004E54ADECF08877074A4E",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "0",
+      "statementNotation": "LACS.MP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Display perseverance and patience in problem-solving. Demonstrate skills and strategies needed to succeed in mathematics, including critical thinking, reasoning, and effective collaboration and expression. Seek help and apply feedback. Set and monitor goals.",
+      "comments": [],
+      "ancestorIds": [
+        "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+      ],
+      "parentId": "0B41DC0C92B24589AC8A6D53A0B4ECBA"
+    },
+    "0B41DC0C92B24589AC8A6D53A0B4ECBA": {
+      "id": "0B41DC0C92B24589AC8A6D53A0B4ECBA",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mathematical Practices ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

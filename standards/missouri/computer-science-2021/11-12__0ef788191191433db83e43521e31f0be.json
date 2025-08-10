@@ -1,0 +1,832 @@
+{
+  "id": "0EF788191191433DB83E43521E31F0BE",
+  "title": "By the End of the 12th Grade",
+  "subject": "Computer Science (2021-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "GRADES K‐12 COMPUTER SCIENCE PERFORMANCE STANDARDS",
+    "sourceURL": "https://dese.mo.gov/media/pdf/curr-mls-standards-computer-science-k-12-sboe-2019"
+  },
+  "jurisdiction": {
+    "id": "175A144B44F94BFAB539F3B571A3A62C",
+    "title": "Missouri"
+  },
+  "standards": {
+    "D916049B1466434AAB2F697CC713A053": {
+      "id": "D916049B1466434AAB2F697CC713A053",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.IC.SLE.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Debate laws and regulations that impact the development and use of software.",
+      "comments": [],
+      "ancestorIds": [
+        "7DEDCB7B84464AEABC58CA3FA123E6A6",
+        "65710699E0C543D0A603F41CB2BC16CC"
+      ],
+      "parentId": "7DEDCB7B84464AEABC58CA3FA123E6A6"
+    },
+    "7DEDCB7B84464AEABC58CA3FA123E6A6": {
+      "id": "7DEDCB7B84464AEABC58CA3FA123E6A6",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Safety, Law &\nEthics",
+      "comments": [],
+      "ancestorIds": [
+        "65710699E0C543D0A603F41CB2BC16CC"
+      ],
+      "parentId": "65710699E0C543D0A603F41CB2BC16CC"
+    },
+    "FE731565FC3F4AC3AB845AD788CE76B7": {
+      "id": "FE731565FC3F4AC3AB845AD788CE76B7",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.IC.C.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the impact of equity, access and influence on the distribution of computing resources in a global society.",
+      "comments": [],
+      "ancestorIds": [
+        "82111875822B4891B795B0D97B2F4450",
+        "65710699E0C543D0A603F41CB2BC16CC"
+      ],
+      "parentId": "82111875822B4891B795B0D97B2F4450"
+    },
+    "82111875822B4891B795B0D97B2F4450": {
+      "id": "82111875822B4891B795B0D97B2F4450",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Culture",
+      "comments": [],
+      "ancestorIds": [
+        "65710699E0C543D0A603F41CB2BC16CC"
+      ],
+      "parentId": "65710699E0C543D0A603F41CB2BC16CC"
+    },
+    "65710699E0C543D0A603F41CB2BC16CC": {
+      "id": "65710699E0C543D0A603F41CB2BC16CC",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Impacts of Computing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FC297B34CB7248CE8D5C47DF85F76AF7": {
+      "id": "FC297B34CB7248CE8D5C47DF85F76AF7",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "11-12.AP.PD.07",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate key qualities of a program through a\r\nprocess such as a code review.",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "BF37B830F6BD46D1AD961FAAA43DB11A": {
+      "id": "BF37B830F6BD46D1AD961FAAA43DB11A",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "11-12.AP.PD.06",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain security issues that might lead to\r\ncompromised computer programs.",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "248617CAD1D448D18762C4292D8DF32C": {
+      "id": "248617CAD1D448D18762C4292D8DF32C",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "11-12.AP.PD.05",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop and use a series of test cases to verify\r\nthat a program performs according to its design specifications.",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "5D7E0BA20F974B99ABBD0B6643033260": {
+      "id": "5D7E0BA20F974B99ABBD0B6643033260",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "11-12.AP.PD.04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design software using version control.",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "AC90F43C17914749B5B7493B02355EAC": {
+      "id": "AC90F43C17914749B5B7493B02355EAC",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "11-12.AP.PD.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and compare features of various\r\nprogramming languages that make them useful for solving\r\nproblems and developing systems.",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "5E139B9811AC4019B7D6FF42309D8830": {
+      "id": "5E139B9811AC4019B7D6FF42309D8830",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "11-12.AP.PD.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Plan and develop programs using a\r\ndevelopment process (e.g., waterfall, iterative, spiral, rapid\r\napplication development, agile).",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "01873E8CB0AB4927BB25CE5A924BC395": {
+      "id": "01873E8CB0AB4927BB25CE5A924BC395",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.AP.PD.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use integrated development environments (IDEs)\r\nand collaborative tools and practices (code documentation) in a\r\nsoftware project.",
+      "comments": [],
+      "ancestorIds": [
+        "DA55D705E16C4A9EBD24D296D62D9362",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "DA55D705E16C4A9EBD24D296D62D9362"
+    },
+    "DA55D705E16C4A9EBD24D296D62D9362": {
+      "id": "DA55D705E16C4A9EBD24D296D62D9362",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program\nDevelopment ",
+      "comments": [],
+      "ancestorIds": [
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "A93561F48AB3423F90E5A09416B11522"
+    },
+    "1363E0824F754760AE6E18548682305E": {
+      "id": "1363E0824F754760AE6E18548682305E",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "11-12.AP.M.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze a large‐scale computational problem and\r\nidentify generalizable patterns that can be applied to a solution.",
+      "comments": [],
+      "ancestorIds": [
+        "C768B2E90A0D40BA82277E26C232A069",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "C768B2E90A0D40BA82277E26C232A069"
+    },
+    "5FC6488F20BD434DBC0FFC0125F5D2F0": {
+      "id": "5FC6488F20BD434DBC0FFC0125F5D2F0",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "11-12.AP.M.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programming solutions by reusing\r\nexisting code (e.g., libraries, Application Programming\r\nInterface (APIs), code repositories).",
+      "comments": [],
+      "ancestorIds": [
+        "C768B2E90A0D40BA82277E26C232A069",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "C768B2E90A0D40BA82277E26C232A069"
+    },
+    "B999ED627DC24FC398CCBE0E7664DAEB": {
+      "id": "B999ED627DC24FC398CCBE0E7664DAEB",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.AP.M.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct solutions to problems using student‐\r\ncreated components (e.g., procedures, modules, objects).",
+      "comments": [],
+      "ancestorIds": [
+        "C768B2E90A0D40BA82277E26C232A069",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "C768B2E90A0D40BA82277E26C232A069"
+    },
+    "C768B2E90A0D40BA82277E26C232A069": {
+      "id": "C768B2E90A0D40BA82277E26C232A069",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modularity",
+      "comments": [],
+      "ancestorIds": [
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "A93561F48AB3423F90E5A09416B11522"
+    },
+    "D77A0340F83942B6B86D61AB05A7D0F1": {
+      "id": "D77A0340F83942B6B86D61AB05A7D0F1",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.AP.C.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Trace the execution of iteration (e.g., loops,\r\nrecursion), illustrating output and changes in values of named\r\nvariables.",
+      "comments": [],
+      "ancestorIds": [
+        "04F663024D0B4A53966579B85A4EF461",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "04F663024D0B4A53966579B85A4EF461"
+    },
+    "04F663024D0B4A53966579B85A4EF461": {
+      "id": "04F663024D0B4A53966579B85A4EF461",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Control",
+      "comments": [],
+      "ancestorIds": [
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "A93561F48AB3423F90E5A09416B11522"
+    },
+    "180BD89DADE04C53A41248BEA4EF4B4E": {
+      "id": "180BD89DADE04C53A41248BEA4EF4B4E",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.AP.V.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create problem solutions that utilize data structures (e.g., lists, arrays, ArrayLists).",
+      "comments": [],
+      "ancestorIds": [
+        "EB45D48C80DA41CEA2678C3D4AB9987A",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "EB45D48C80DA41CEA2678C3D4AB9987A"
+    },
+    "EB45D48C80DA41CEA2678C3D4AB9987A": {
+      "id": "EB45D48C80DA41CEA2678C3D4AB9987A",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Variables",
+      "comments": [],
+      "ancestorIds": [
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "A93561F48AB3423F90E5A09416B11522"
+    },
+    "8C61C89A98BF4B0A8D2576C1857C6F69": {
+      "id": "8C61C89A98BF4B0A8D2576C1857C6F69",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "11-12.AP.A.04",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate algorithms (e.g., sorting, searching)\r\nin terms of their efficiency and clarity.",
+      "comments": [],
+      "ancestorIds": [
+        "20AC9F502DE947D1B2B57ABF074DB78A",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "20AC9F502DE947D1B2B57ABF074DB78A"
+    },
+    "C29120796AE64C10BEF97A8466F08802": {
+      "id": "C29120796AE64C10BEF97A8466F08802",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "11-12.AP.A.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how artificial intelligence algorithms drive\r\nmany software and physical systems (e.g., autonomous robots,\r\ncomputer vision, pattern recognition, text analysis).",
+      "comments": [],
+      "ancestorIds": [
+        "20AC9F502DE947D1B2B57ABF074DB78A",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "20AC9F502DE947D1B2B57ABF074DB78A"
+    },
+    "8C0EAC923E5A4FF38AC5C79EE5A5A2F7": {
+      "id": "8C0EAC923E5A4FF38AC5C79EE5A5A2F7",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "11-12.AP.A.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implement an artificial intelligence algorithm\r\nto interact with a human or solve a problem.",
+      "comments": [],
+      "ancestorIds": [
+        "20AC9F502DE947D1B2B57ABF074DB78A",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "20AC9F502DE947D1B2B57ABF074DB78A"
+    },
+    "F00AD483C4984A27885D6B982520FA35": {
+      "id": "F00AD483C4984A27885D6B982520FA35",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.AP.A.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critically examine and trace classic algorithms (e.g.,\r\nselection sort, insertion sort, binary search, linear search).",
+      "comments": [],
+      "ancestorIds": [
+        "20AC9F502DE947D1B2B57ABF074DB78A",
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "20AC9F502DE947D1B2B57ABF074DB78A"
+    },
+    "20AC9F502DE947D1B2B57ABF074DB78A": {
+      "id": "20AC9F502DE947D1B2B57ABF074DB78A",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "A93561F48AB3423F90E5A09416B11522"
+      ],
+      "parentId": "A93561F48AB3423F90E5A09416B11522"
+    },
+    "A93561F48AB3423F90E5A09416B11522": {
+      "id": "A93561F48AB3423F90E5A09416B11522",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms\n& Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "734C2A90DB4B415BA6DBE80067D18A8D": {
+      "id": "734C2A90DB4B415BA6DBE80067D18A8D",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.DA.IM.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the ability of models and simulations to\r\ntest and support the refinement of hypotheses.",
+      "comments": [],
+      "ancestorIds": [
+        "AB4A6F4DA53E4F72A7D0BDADB6C37BB8",
+        "DF144163234A4F999724B4044388BCE9"
+      ],
+      "parentId": "AB4A6F4DA53E4F72A7D0BDADB6C37BB8"
+    },
+    "AB4A6F4DA53E4F72A7D0BDADB6C37BB8": {
+      "id": "AB4A6F4DA53E4F72A7D0BDADB6C37BB8",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inference &\nModels ",
+      "comments": [],
+      "ancestorIds": [
+        "DF144163234A4F999724B4044388BCE9"
+      ],
+      "parentId": "DF144163234A4F999724B4044388BCE9"
+    },
+    "1A65DBF3295F4D308FC9AE66667A67B4": {
+      "id": "1A65DBF3295F4D308FC9AE66667A67B4",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.DA.CVT.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate data sets that use a variety of data\r\ncollection tools and analysis techniques to support a claim and/or\r\ncommunicate information.",
+      "comments": [],
+      "ancestorIds": [
+        "3E6B25DAAC354040BBFD573B7774DFCB",
+        "DF144163234A4F999724B4044388BCE9"
+      ],
+      "parentId": "3E6B25DAAC354040BBFD573B7774DFCB"
+    },
+    "3E6B25DAAC354040BBFD573B7774DFCB": {
+      "id": "3E6B25DAAC354040BBFD573B7774DFCB",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collection,\nVisualization &\nTransformation",
+      "comments": [],
+      "ancestorIds": [
+        "DF144163234A4F999724B4044388BCE9"
+      ],
+      "parentId": "DF144163234A4F999724B4044388BCE9"
+    },
+    "5800218023C943DF8A3F07DFDA758E9A": {
+      "id": "5800218023C943DF8A3F07DFDA758E9A",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.DA.S.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare different bit representations of data types,\r\nsuch as characters, Booleans and numbers while recognizing when\r\nusing each data type is appropriate.\r",
+      "comments": [],
+      "ancestorIds": [
+        "C1DB6A70283842F5A8C01649F5B7CF9D",
+        "DF144163234A4F999724B4044388BCE9"
+      ],
+      "parentId": "C1DB6A70283842F5A8C01649F5B7CF9D"
+    },
+    "C1DB6A70283842F5A8C01649F5B7CF9D": {
+      "id": "C1DB6A70283842F5A8C01649F5B7CF9D",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage",
+      "comments": [],
+      "ancestorIds": [
+        "DF144163234A4F999724B4044388BCE9"
+      ],
+      "parentId": "DF144163234A4F999724B4044388BCE9"
+    },
+    "DF144163234A4F999724B4044388BCE9": {
+      "id": "DF144163234A4F999724B4044388BCE9",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data & Analysis ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3D58CC22332C45C6AF38C1CF861A9176": {
+      "id": "3D58CC22332C45C6AF38C1CF861A9176",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "11-12.NI.C.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze cryptographic techniques to model the\r\nsecure transmission of information.",
+      "comments": [],
+      "ancestorIds": [
+        "76B8C426A6BD4C37BCA1533EEBE2172F",
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "76B8C426A6BD4C37BCA1533EEBE2172F"
+    },
+    "68199DF7351F43458DF80106B34365A9": {
+      "id": "68199DF7351F43458DF80106B34365A9",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.NI.C.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and refine ways in which software\r\ndevelopers protect devices and information from unauthorized\r\naccess.",
+      "comments": [],
+      "ancestorIds": [
+        "76B8C426A6BD4C37BCA1533EEBE2172F",
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "76B8C426A6BD4C37BCA1533EEBE2172F"
+    },
+    "76B8C426A6BD4C37BCA1533EEBE2172F": {
+      "id": "76B8C426A6BD4C37BCA1533EEBE2172F",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cybersecurity",
+      "comments": [],
+      "ancestorIds": [
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "E875339F371D4044BCB3F1D4D63BB9F9"
+    },
+    "B84409F4E4FD4F159DBD80121D797BEF": {
+      "id": "B84409F4E4FD4F159DBD80121D797BEF",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "11-12.NI.NCO.03",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the characteristics of the internet\r\ninfluence the systems developed on it.",
+      "comments": [],
+      "ancestorIds": [
+        "7A88E09B948E41E992BEF67389869440",
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "7A88E09B948E41E992BEF67389869440"
+    },
+    "24B3EAE455CB45DAAE01EA1E25C099F6": {
+      "id": "24B3EAE455CB45DAAE01EA1E25C099F6",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "11-12.NI.NCO.02",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe key protocols and underlying\r\nprocesses of internet‐based services (e.g., http/https and\r\nSimple Mail Transfer Protocol (SMTP)/internet Message\r\nAccess Protocol (IMAP), routing protocols).",
+      "comments": [],
+      "ancestorIds": [
+        "7A88E09B948E41E992BEF67389869440",
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "7A88E09B948E41E992BEF67389869440"
+    },
+    "68BF9EA1EE6B435DB94CC542A70AA53F": {
+      "id": "68BF9EA1EE6B435DB94CC542A70AA53F",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.NI.NCO.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the relationship between routers,\r\nswitches, servers, topology and addressing.",
+      "comments": [],
+      "ancestorIds": [
+        "7A88E09B948E41E992BEF67389869440",
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "7A88E09B948E41E992BEF67389869440"
+    },
+    "7A88E09B948E41E992BEF67389869440": {
+      "id": "7A88E09B948E41E992BEF67389869440",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Network Communication\n& Organization",
+      "comments": [],
+      "ancestorIds": [
+        "E875339F371D4044BCB3F1D4D63BB9F9"
+      ],
+      "parentId": "E875339F371D4044BCB3F1D4D63BB9F9"
+    },
+    "E875339F371D4044BCB3F1D4D63BB9F9": {
+      "id": "E875339F371D4044BCB3F1D4D63BB9F9",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks & the Internet ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "424D7650BAF94B88960C287C53D36F7B": {
+      "id": "424D7650BAF94B88960C287C53D36F7B",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.CS.T.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how hardware components facilitate logic, input, output and storage in computing systems.",
+      "comments": [],
+      "ancestorIds": [
+        "493DD69B5D854071912934B841BB1F8E",
+        "6C7B9C03C4AF4308ACBC2EA72158C215"
+      ],
+      "parentId": "493DD69B5D854071912934B841BB1F8E"
+    },
+    "493DD69B5D854071912934B841BB1F8E": {
+      "id": "493DD69B5D854071912934B841BB1F8E",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Troubleshooting",
+      "comments": [],
+      "ancestorIds": [
+        "6C7B9C03C4AF4308ACBC2EA72158C215"
+      ],
+      "parentId": "6C7B9C03C4AF4308ACBC2EA72158C215"
+    },
+    "90F8B19511DF45D0872057013380F681": {
+      "id": "90F8B19511DF45D0872057013380F681",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.CS.HS.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and categorize roles of an operating\r\nsystem.",
+      "comments": [],
+      "ancestorIds": [
+        "BD0EAD7C83064BCC9E24F698BD7702DE",
+        "6C7B9C03C4AF4308ACBC2EA72158C215"
+      ],
+      "parentId": "BD0EAD7C83064BCC9E24F698BD7702DE"
+    },
+    "BD0EAD7C83064BCC9E24F698BD7702DE": {
+      "id": "BD0EAD7C83064BCC9E24F698BD7702DE",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware\n&\nSoftware",
+      "comments": [],
+      "ancestorIds": [
+        "6C7B9C03C4AF4308ACBC2EA72158C215"
+      ],
+      "parentId": "6C7B9C03C4AF4308ACBC2EA72158C215"
+    },
+    "4A46AD8BC51F47B18356CB228085200D": {
+      "id": "4A46AD8BC51F47B18356CB228085200D",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "11-12.CS.D.01",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate ways computing systems implement logic through hardware components.",
+      "comments": [],
+      "ancestorIds": [
+        "F76242EE7C4B42B193D5E6DB71F6E556",
+        "6C7B9C03C4AF4308ACBC2EA72158C215"
+      ],
+      "parentId": "F76242EE7C4B42B193D5E6DB71F6E556"
+    },
+    "F76242EE7C4B42B193D5E6DB71F6E556": {
+      "id": "F76242EE7C4B42B193D5E6DB71F6E556",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Devices",
+      "comments": [],
+      "ancestorIds": [
+        "6C7B9C03C4AF4308ACBC2EA72158C215"
+      ],
+      "parentId": "6C7B9C03C4AF4308ACBC2EA72158C215"
+    },
+    "6C7B9C03C4AF4308ACBC2EA72158C215": {
+      "id": "6C7B9C03C4AF4308ACBC2EA72158C215",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing Systems",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

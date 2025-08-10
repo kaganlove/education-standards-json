@@ -1,0 +1,977 @@
+{
+  "id": "B8FC804B78BC41CCB228C7AF6CF2A0CC",
+  "title": "Grade 11 - Robotics",
+  "subject": "Applied Design, Skills, and Technologies",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "11"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {},
+  "jurisdiction": {
+    "id": "E5C475D6241A494582FC636F11097670",
+    "title": "Surrey School District (No 36)"
+  },
+  "standards": {
+    "C04B354872D84AA69B4B905DFC3F00AD": {
+      "id": "C04B354872D84AA69B4B905DFC3F00AD",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "k",
+      "statementNotation": "k",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "design for the life cycle",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "DFAD84731217460AB5C0709855993011": {
+      "id": "DFAD84731217460AB5C0709855993011",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "j",
+      "statementNotation": "j",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "programming related to microcontrollers",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "3011D9E8E2814C58B46927775CBE775A": {
+      "id": "3011D9E8E2814C58B46927775CBE775A",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "similarities and differences between remotely controlled and autonomous robots",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "5E7B8C263A214708B3E3ADD015E4AD91": {
+      "id": "5E7B8C263A214708B3E3ADD015E4AD91",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "h",
+      "statementNotation": "h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "robotic technologies in the community and industry",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "A1428E9919354DB7AB8D397BD98DA139": {
+      "id": "A1428E9919354DB7AB8D397BD98DA139",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "g",
+      "statementNotation": "g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "developments in robotic technology",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "C1C8E749473047459B23B71BED51CBB0": {
+      "id": "C1C8E749473047459B23B71BED51CBB0",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "f",
+      "statementNotation": "f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "power and torque",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "A874C4AA75144D0E89AA90DBC221B9EF": {
+      "id": "A874C4AA75144D0E89AA90DBC221B9EF",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "e",
+      "statementNotation": "e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "friction and traction",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "09DA509BE88949F6BF7080E2BCCCD49C": {
+      "id": "09DA509BE88949F6BF7080E2BCCCD49C",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "relation of sensors and control to logic",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "8F2F6EA9E8EF4AF591E039432DB3A603": {
+      "id": "8F2F6EA9E8EF4AF591E039432DB3A603",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "relation of structure and power to motion",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "399B04B8F44141FFB3D472D20397ED1A": {
+      "id": "399B04B8F44141FFB3D472D20397ED1A",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "interaction of robotic subsystems",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "EEC5B385F6FB4355B722BADA8C5184E6": {
+      "id": "EEC5B385F6FB4355B722BADA8C5184E6",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "simple robotics design and production",
+      "comments": [],
+      "ancestorIds": [
+        "ED973C05F1A942918377EB4C910DA30D"
+      ],
+      "parentId": null
+    },
+    "ED973C05F1A942918377EB4C910DA30D": {
+      "id": "ED973C05F1A942918377EB4C910DA30D",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Content",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0D9FA21D7A7D4128AD4D6F39453F122E": {
+      "id": "0D9FA21D7A7D4128AD4D6F39453F122E",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Examine the role that advancing technologies play inrobotc-related contexts",
+      "comments": [],
+      "ancestorIds": [
+        "3E93EE2079A54DB9B387B39FA0D254BA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3E93EE2079A54DB9B387B39FA0D254BA"
+    },
+    "0131B51E571145319A3626F414F36D22": {
+      "id": "0131B51E571145319A3626F414F36D22",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate impacts, including unintended negative consequences, of choices made about technology use",
+      "comments": [],
+      "ancestorIds": [
+        "3E93EE2079A54DB9B387B39FA0D254BA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3E93EE2079A54DB9B387B39FA0D254BA"
+    },
+    "AA1D9A7B08D3490C8488767EC721D2FB": {
+      "id": "AA1D9A7B08D3490C8488767EC721D2FB",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore existing, new, and emerging tools, technologies, and systems to evaluate suitability for their design interests",
+      "comments": [],
+      "ancestorIds": [
+        "3E93EE2079A54DB9B387B39FA0D254BA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3E93EE2079A54DB9B387B39FA0D254BA"
+    },
+    "3E93EE2079A54DB9B387B39FA0D254BA": {
+      "id": "3E93EE2079A54DB9B387B39FA0D254BA",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "11",
+      "statementNotation": "11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applied Technologies",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "83E2EC9579744712A9D862596ED2010E": {
+      "id": "83E2EC9579744712A9D862596ED2010E",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop specific plans to learn or refine identified skills over time",
+      "comments": [],
+      "ancestorIds": [
+        "951ED3738ABB4C0DB207ED76FD73AAAA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "951ED3738ABB4C0DB207ED76FD73AAAA"
+    },
+    "2A08839EEEE84F629F2290F8727968C5": {
+      "id": "2A08839EEEE84F629F2290F8727968C5",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate competency and proficiency in skills at various levels involving manual dexterity and robotics",
+      "comments": [],
+      "ancestorIds": [
+        "951ED3738ABB4C0DB207ED76FD73AAAA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "951ED3738ABB4C0DB207ED76FD73AAAA"
+    },
+    "1123592B512C435E88835B1FE87FB2AB": {
+      "id": "1123592B512C435E88835B1FE87FB2AB",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Individually or collaboratively identify and assess skills needed for design interests",
+      "comments": [],
+      "ancestorIds": [
+        "951ED3738ABB4C0DB207ED76FD73AAAA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "951ED3738ABB4C0DB207ED76FD73AAAA"
+    },
+    "5279C848DDFF405AACAA0F4ED8EC8170": {
+      "id": "5279C848DDFF405AACAA0F4ED8EC8170",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply safety procedures for themselves, co-workers, and users in both physical and digital environments",
+      "comments": [],
+      "ancestorIds": [
+        "951ED3738ABB4C0DB207ED76FD73AAAA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "951ED3738ABB4C0DB207ED76FD73AAAA"
+    },
+    "951ED3738ABB4C0DB207ED76FD73AAAA": {
+      "id": "951ED3738ABB4C0DB207ED76FD73AAAA",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "10",
+      "statementNotation": "10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applied Skills",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "3B8ADD83A9944E29A333A7A982E37C8A": {
+      "id": "3B8ADD83A9944E29A333A7A982E37C8A",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and analyze new possibilities for plans, products and processes, , including how they or others might build on them",
+      "comments": [],
+      "ancestorIds": [
+        "40159406A3A84307AF6AA1B5AA175B64",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "40159406A3A84307AF6AA1B5AA175B64"
+    },
+    "6453982C4D8B49179EFA228123E84921": {
+      "id": "6453982C4D8B49179EFA228123E84921",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critically reflect on plans, products, and processes, and identify new design goals",
+      "comments": [],
+      "ancestorIds": [
+        "40159406A3A84307AF6AA1B5AA175B64",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "40159406A3A84307AF6AA1B5AA175B64"
+    },
+    "D65FDCAA26A34FBB868FC78CFDF4DF0F": {
+      "id": "D65FDCAA26A34FBB868FC78CFDF4DF0F",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Share the product with users to evaluate its success",
+      "comments": [],
+      "ancestorIds": [
+        "40159406A3A84307AF6AA1B5AA175B64",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "40159406A3A84307AF6AA1B5AA175B64"
+    },
+    "A7A5F68000524596B0792401B3C13EAF": {
+      "id": "A7A5F68000524596B0792401B3C13EAF",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine how and with whom to share creativity, or share and promote design and processes",
+      "comments": [],
+      "ancestorIds": [
+        "40159406A3A84307AF6AA1B5AA175B64",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "40159406A3A84307AF6AA1B5AA175B64"
+    },
+    "40159406A3A84307AF6AA1B5AA175B64": {
+      "id": "40159406A3A84307AF6AA1B5AA175B64",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sharing",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "3BA88B8CFF5D4F6B925F96851844DC36": {
+      "id": "3BA88B8CFF5D4F6B925F96851844DC36",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use materials in ways that minimize waste",
+      "comments": [],
+      "ancestorIds": [
+        "BD0F7591B7F9416DAA74BF034D1A10AA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "BD0F7591B7F9416DAA74BF034D1A10AA"
+    },
+    "77D78CEC25EA4FA38D3F69BCCCD08D1E": {
+      "id": "77D78CEC25EA4FA38D3F69BCCCD08D1E",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create design, incorporating feedback from self, others, and testing prototypes",
+      "comments": [],
+      "ancestorIds": [
+        "BD0F7591B7F9416DAA74BF034D1A10AA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "BD0F7591B7F9416DAA74BF034D1A10AA"
+    },
+    "4B05ECDA88114B9BA18A7A04E2BB6A2B": {
+      "id": "4B05ECDA88114B9BA18A7A04E2BB6A2B",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify appropriate tools, technologies, materials, processes, cost implications and time needed ",
+      "comments": [],
+      "ancestorIds": [
+        "BD0F7591B7F9416DAA74BF034D1A10AA",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "BD0F7591B7F9416DAA74BF034D1A10AA"
+    },
+    "BD0F7591B7F9416DAA74BF034D1A10AA": {
+      "id": "BD0F7591B7F9416DAA74BF034D1A10AA",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Making",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "5B1465245C3848DE8A1BD73991D0365C": {
+      "id": "5B1465245C3848DE8A1BD73991D0365C",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply information from critiques, testing results, and success criteria to make changes",
+      "comments": [],
+      "ancestorIds": [
+        "A74AD3748C244A6A86E1ABF17B0CCBAB",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "A74AD3748C244A6A86E1ABF17B0CCBAB"
+    },
+    "960C2E564C4847BCA8A2BC5C1B934694": {
+      "id": "960C2E564C4847BCA8A2BC5C1B934694",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop an appropriate test of the prototype, conduct the test, and collect and compile data",
+      "comments": [],
+      "ancestorIds": [
+        "A74AD3748C244A6A86E1ABF17B0CCBAB",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "A74AD3748C244A6A86E1ABF17B0CCBAB"
+    },
+    "B25653804A884217BBFA9C451C1818AC": {
+      "id": "B25653804A884217BBFA9C451C1818AC",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and communicate with sources of feedback",
+      "comments": [],
+      "ancestorIds": [
+        "A74AD3748C244A6A86E1ABF17B0CCBAB",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "A74AD3748C244A6A86E1ABF17B0CCBAB"
+    },
+    "A74AD3748C244A6A86E1ABF17B0CCBAB": {
+      "id": "A74AD3748C244A6A86E1ABF17B0CCBAB",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Testing",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "C554BFEF41BE4406BFBAC0211E050DC1": {
+      "id": "C554BFEF41BE4406BFBAC0211E050DC1",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Record iterations of prototyping",
+      "comments": [],
+      "ancestorIds": [
+        "3EFAF1997CE24460BD38F97469F46767",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3EFAF1997CE24460BD38F97469F46767"
+    },
+    "0795331FE4EF4101B0BBA18958243816": {
+      "id": "0795331FE4EF4101B0BBA18958243816",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Visualize and construct prototypes, making changes to tools, materials, and procedures as needed",
+      "comments": [],
+      "ancestorIds": [
+        "3EFAF1997CE24460BD38F97469F46767",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3EFAF1997CE24460BD38F97469F46767"
+    },
+    "AC64820C790B488EA8798C4344922D58": {
+      "id": "AC64820C790B488EA8798C4344922D58",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the design for life cycle and evaluate its impacts",
+      "comments": [],
+      "ancestorIds": [
+        "3EFAF1997CE24460BD38F97469F46767",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3EFAF1997CE24460BD38F97469F46767"
+    },
+    "380F5F81BD4E4AB2B40B66B0E83A20F9": {
+      "id": "380F5F81BD4E4AB2B40B66B0E83A20F9",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose a form for prototyping and develop a plan that includes key stages and resources",
+      "comments": [],
+      "ancestorIds": [
+        "3EFAF1997CE24460BD38F97469F46767",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "3EFAF1997CE24460BD38F97469F46767"
+    },
+    "3EFAF1997CE24460BD38F97469F46767": {
+      "id": "3EFAF1997CE24460BD38F97469F46767",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prototyping",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "95C4D45DC8E5446C8256F669C4983158": {
+      "id": "95C4D45DC8E5446C8256F669C4983158",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose an idea to pursue based on success criteria and maintain an open mind about potentially viable ideas",
+      "comments": [],
+      "ancestorIds": [
+        "6E9AC9C5281F46A585EA4939F6ACC5B2",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "6E9AC9C5281F46A585EA4939F6ACC5B2"
+    },
+    "611D4808B0C5419A9F4C67A57552DCC2": {
+      "id": "611D4808B0C5419A9F4C67A57552DCC2",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Critically analyze how competing social, ethical, and sustainability considerations impact creation and development of solutions",
+      "comments": [],
+      "ancestorIds": [
+        "6E9AC9C5281F46A585EA4939F6ACC5B2",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "6E9AC9C5281F46A585EA4939F6ACC5B2"
+    },
+    "93122C951BAD4F65BCEC658B123C8CD5": {
+      "id": "93122C951BAD4F65BCEC658B123C8CD5",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate ideas and enhance others’ ideas to create a range of possibilities, and prioritize the possibilities for prototyping",
+      "comments": [],
+      "ancestorIds": [
+        "6E9AC9C5281F46A585EA4939F6ACC5B2",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "6E9AC9C5281F46A585EA4939F6ACC5B2"
+    },
+    "63E09886DFB1427FBB9FCE97370F6C26": {
+      "id": "63E09886DFB1427FBB9FCE97370F6C26",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Take creative risks",
+      "comments": [],
+      "ancestorIds": [
+        "6E9AC9C5281F46A585EA4939F6ACC5B2",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "6E9AC9C5281F46A585EA4939F6ACC5B2"
+    },
+    "6E9AC9C5281F46A585EA4939F6ACC5B2": {
+      "id": "6E9AC9C5281F46A585EA4939F6ACC5B2",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Ideating",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "C405D70C58B54DDC933F9ABD73F267AA": {
+      "id": "C405D70C58B54DDC933F9ABD73F267AA",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether activity is collaborative or self-directed",
+      "comments": [],
+      "ancestorIds": [
+        "CCA4CB94D6574CA3AEDCE3292C1A63D0",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "CCA4CB94D6574CA3AEDCE3292C1A63D0"
+    },
+    "A365F952CAF94334BF3C5EBD3BF3F8A7": {
+      "id": "A365F952CAF94334BF3C5EBD3BF3F8A7",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make decisions about premises and constraints that define the design space, and identify criteria for success",
+      "comments": [],
+      "ancestorIds": [
+        "CCA4CB94D6574CA3AEDCE3292C1A63D0",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "CCA4CB94D6574CA3AEDCE3292C1A63D0"
+    },
+    "2D2CFB347A7F4AF3AE336FE485CB7096": {
+      "id": "2D2CFB347A7F4AF3AE336FE485CB7096",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify potential users, intended impact, and possible unintended negative consequences",
+      "comments": [],
+      "ancestorIds": [
+        "CCA4CB94D6574CA3AEDCE3292C1A63D0",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "CCA4CB94D6574CA3AEDCE3292C1A63D0"
+    },
+    "81583EBBB9CE4C5A8272DBBFD7DEB678": {
+      "id": "81583EBBB9CE4C5A8272DBBFD7DEB678",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Establish a point of view for a chosen design opportunity",
+      "comments": [],
+      "ancestorIds": [
+        "CCA4CB94D6574CA3AEDCE3292C1A63D0",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "CCA4CB94D6574CA3AEDCE3292C1A63D0"
+    },
+    "CCA4CB94D6574CA3AEDCE3292C1A63D0": {
+      "id": "CCA4CB94D6574CA3AEDCE3292C1A63D0",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Defining",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "537B471629D14ABDA8638C8C2E1810FA": {
+      "id": "537B471629D14ABDA8638C8C2E1810FA",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engage in a period of user-centred research and empathetic observation",
+      "comments": [],
+      "ancestorIds": [
+        "D4809FD716A84BE095E818F696381815",
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "D4809FD716A84BE095E818F696381815"
+    },
+    "D4809FD716A84BE095E818F696381815": {
+      "id": "D4809FD716A84BE095E818F696381815",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understanding Context",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "3608FB2051934AAD81E0B1CF2CD75726": {
+      "id": "3608FB2051934AAD81E0B1CF2CD75726",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applied Design",
+      "comments": [],
+      "ancestorIds": [
+        "392FD724E88349C0B9E89BC815649477"
+      ],
+      "parentId": "392FD724E88349C0B9E89BC815649477"
+    },
+    "392FD724E88349C0B9E89BC815649477": {
+      "id": "392FD724E88349C0B9E89BC815649477",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Curricular Competency",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1558684DE42F4CA1B305FF9CC5DF5FA4": {
+      "id": "1558684DE42F4CA1B305FF9CC5DF5FA4",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tools and technologies can be adapted for specific purposes.",
+      "comments": [],
+      "ancestorIds": [
+        "A8F730EAF3F243B6AEE2A2B4384617E2",
+        "A64BC520563E42CF983D7D47DE4B3315"
+      ],
+      "parentId": "A8F730EAF3F243B6AEE2A2B4384617E2"
+    },
+    "F18DEC3270F048D4B60CF00256517832": {
+      "id": "F18DEC3270F048D4B60CF00256517832",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Personal design interests require the evaluation and refinement of skills.",
+      "comments": [],
+      "ancestorIds": [
+        "A8F730EAF3F243B6AEE2A2B4384617E2",
+        "A64BC520563E42CF983D7D47DE4B3315"
+      ],
+      "parentId": "A8F730EAF3F243B6AEE2A2B4384617E2"
+    },
+    "C19092E2B6E248779168053F0AC794B2": {
+      "id": "C19092E2B6E248779168053F0AC794B2",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design for the life cycle includes consideration of social and environmental impacts.",
+      "comments": [],
+      "ancestorIds": [
+        "A8F730EAF3F243B6AEE2A2B4384617E2",
+        "A64BC520563E42CF983D7D47DE4B3315"
+      ],
+      "parentId": "A8F730EAF3F243B6AEE2A2B4384617E2"
+    },
+    "A8F730EAF3F243B6AEE2A2B4384617E2": {
+      "id": "A8F730EAF3F243B6AEE2A2B4384617E2",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Ideas",
+      "comments": [],
+      "ancestorIds": [
+        "A64BC520563E42CF983D7D47DE4B3315"
+      ],
+      "parentId": "A64BC520563E42CF983D7D47DE4B3315"
+    },
+    "A64BC520563E42CF983D7D47DE4B3315": {
+      "id": "A64BC520563E42CF983D7D47DE4B3315",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ROBOTICS   11",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

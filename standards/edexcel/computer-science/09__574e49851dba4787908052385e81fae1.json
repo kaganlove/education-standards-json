@@ -1,0 +1,2112 @@
+{
+  "id": "574E49851DBA4787908052385E81FAE1",
+  "title": "Computer Science 9-1",
+  "subject": "Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "iGCSE_CS(9-1)",
+    "sourceURL": "https://docs.google.com/spreadsheets/d/1NOhxkhjxMCB0octB6TGb9yU_4y4t4PciNnySWyOnjKA/edit?usp=sharing"
+  },
+  "jurisdiction": {
+    "id": "142A584FB344427287E9B51DB9DAC46F",
+    "title": "Edexcel"
+  },
+  "standards": {
+    "7780EE58678140768D92F99BF9D58E42": {
+      "id": "7780EE58678140768D92F99BF9D58E42",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.BP.1d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be aware of current and emerging trends in computing technology (quantum computing, DNA computing, artificial intelligence (AI), nanotechnology).",
+      "comments": [],
+      "ancestorIds": [
+        "2DE2E59DED0E4FA2B38D820E802BF17E",
+        "8661D5A208584E949C090E8B7FCAF5CA",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "2DE2E59DED0E4FA2B38D820E802BF17E"
+    },
+    "D486847639E94C5AA9A614CF90D24AD5": {
+      "id": "D486847639E94C5AA9A614CF90D24AD5",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.BP.1c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the legal impact of using technology (intellectual property, patents, licensing and cyber-security).",
+      "comments": [],
+      "ancestorIds": [
+        "2DE2E59DED0E4FA2B38D820E802BF17E",
+        "8661D5A208584E949C090E8B7FCAF5CA",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "2DE2E59DED0E4FA2B38D820E802BF17E"
+    },
+    "59508FA9167246F39F0AFDB11FCD9046": {
+      "id": "59508FA9167246F39F0AFDB11FCD9046",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.BP.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the ethical impact of using technology (privacy, inclusion, professionalism) on society.",
+      "comments": [],
+      "ancestorIds": [
+        "2DE2E59DED0E4FA2B38D820E802BF17E",
+        "8661D5A208584E949C090E8B7FCAF5CA",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "2DE2E59DED0E4FA2B38D820E802BF17E"
+    },
+    "7A117FA4106E4C178AF21579D5F5B234": {
+      "id": "7A117FA4106E4C178AF21579D5F5B234",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.BP.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the environmental impact of technology (health, energy use, resources) on society.",
+      "comments": [],
+      "ancestorIds": [
+        "2DE2E59DED0E4FA2B38D820E802BF17E",
+        "8661D5A208584E949C090E8B7FCAF5CA",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "2DE2E59DED0E4FA2B38D820E802BF17E"
+    },
+    "2DE2E59DED0E4FA2B38D820E802BF17E": {
+      "id": "2DE2E59DED0E4FA2B38D820E802BF17E",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.BP.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Emerging trends, issues and impact",
+      "comments": [],
+      "ancestorIds": [
+        "8661D5A208584E949C090E8B7FCAF5CA",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "8661D5A208584E949C090E8B7FCAF5CA"
+    },
+    "8661D5A208584E949C090E8B7FCAF5CA": {
+      "id": "8661D5A208584E949C090E8B7FCAF5CA",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "CS.BP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Bigger Picture",
+      "comments": [],
+      "ancestorIds": [
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "CEA592C8FB384F4C89CEA0425A43562F"
+    },
+    "D3020E33B8534A75AF61190012E1C852": {
+      "id": "D3020E33B8534A75AF61190012E1C852",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.CI.3d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the role of components used to access the internet (modem, router, switch, wireless access point (WAP)) and how these are combined.",
+      "comments": [],
+      "ancestorIds": [
+        "632F1C37DB5A4B4AB137202493BC4B72",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "632F1C37DB5A4B4AB137202493BC4B72"
+    },
+    "F909784175E54C1A9530AE6DD9463C6A": {
+      "id": "F909784175E54C1A9530AE6DD9463C6A",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.CI.3c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for IP addressing standards and the formats of IPv4 and IPv6.",
+      "comments": [],
+      "ancestorIds": [
+        "632F1C37DB5A4B4AB137202493BC4B72",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "632F1C37DB5A4B4AB137202493BC4B72"
+    },
+    "3461C7739BEF4D48869F0AA7A97D04F1": {
+      "id": "3461C7739BEF4D48869F0AA7A97D04F1",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.CI.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by the world wide web (WWW) and components of the WWW (web server URLs, ISP, HTTP, HTTPS, HTML).",
+      "comments": [],
+      "ancestorIds": [
+        "632F1C37DB5A4B4AB137202493BC4B72",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "632F1C37DB5A4B4AB137202493BC4B72"
+    },
+    "EA40A01D9D7D4E2C96B650FA90A1B301": {
+      "id": "EA40A01D9D7D4E2C96B650FA90A1B301",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.CI.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by the internet and how the internet is structured (IP addressing, domain name service (DNS)).",
+      "comments": [],
+      "ancestorIds": [
+        "632F1C37DB5A4B4AB137202493BC4B72",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "632F1C37DB5A4B4AB137202493BC4B72"
+    },
+    "632F1C37DB5A4B4AB137202493BC4B72": {
+      "id": "632F1C37DB5A4B4AB137202493BC4B72",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "CS.CI.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The internet and the world wide web",
+      "comments": [],
+      "ancestorIds": [
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "84455E7F9FEF4F35A4868BF661331EE7"
+    },
+    "D4EA7BCCFE5B4C38BF8822B43935DE58": {
+      "id": "D4EA7BCCFE5B4C38BF8822B43935DE58",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.CI.2e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to protect software systems from cyber attacks, including considerations at the software (application) design stage, audit trails, securing operating systems, secure coding, code reviews to remove code vulnerabilities in programming languages and bad programming practices, modular testing and effective network security provision.",
+      "comments": [],
+      "ancestorIds": [
+        "0067F7D17AFA4657B683CCC69F929F93",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0067F7D17AFA4657B683CCC69F929F93"
+    },
+    "3840209FC8BD496B90F3B4045DD838FB": {
+      "id": "3840209FC8BD496B90F3B4045DD838FB",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.CI.2d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand methods of identifying vulnerabilities, including penetration testing, ethical hacking, commercial analysis tools and review of network and user policies.",
+      "comments": [],
+      "ancestorIds": [
+        "0067F7D17AFA4657B683CCC69F929F93",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0067F7D17AFA4657B683CCC69F929F93"
+    },
+    "43824B7B8E294CEA9529D143F3727966": {
+      "id": "43824B7B8E294CEA9529D143F3727966",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.CI.2c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand different forms of cyber attack (based on technical weaknesses and behaviour), including social engineering (phishing, shoulder surfing, pharming), unpatched software, USB devices, digital devices and eavesdropping",
+      "comments": [],
+      "ancestorIds": [
+        "0067F7D17AFA4657B683CCC69F929F93",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0067F7D17AFA4657B683CCC69F929F93"
+    },
+    "88E0B3BA4B3B41E0A21050DD2D5CC2EF": {
+      "id": "88E0B3BA4B3B41E0A21050DD2D5CC2EF",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.CI.2b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand security issues associated with the ‘cloud’ and other contemporary storage",
+      "comments": [],
+      "ancestorIds": [
+        "0067F7D17AFA4657B683CCC69F929F93",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0067F7D17AFA4657B683CCC69F929F93"
+    },
+    "35804CAD23A3485CBCBA5A3BD6E25AFC": {
+      "id": "35804CAD23A3485CBCBA5A3BD6E25AFC",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.CI.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the importance of network security and be able to use appropriate validation and authentication techniques (access control, physical security and firewalls).",
+      "comments": [],
+      "ancestorIds": [
+        "0067F7D17AFA4657B683CCC69F929F93",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0067F7D17AFA4657B683CCC69F929F93"
+    },
+    "0067F7D17AFA4657B683CCC69F929F93": {
+      "id": "0067F7D17AFA4657B683CCC69F929F93",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "CS.CI.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Network security",
+      "comments": [],
+      "ancestorIds": [
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "84455E7F9FEF4F35A4868BF661331EE7"
+    },
+    "3E991213D571466AAE14E7BA2349CCDE": {
+      "id": "3E991213D571466AAE14E7BA2349CCDE",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 3,
+      "listId": "8",
+      "statementNotation": "CS.CI.1h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the different mobile communication standards (3G, 4G and subsequent generations).",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "63F474FD1ED1446081CBACCBA76E46AE": {
+      "id": "63F474FD1ED1446081CBACCBA76E46AE",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "CS.CI.1g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand characteristics of network topologies (bus, ring, star, mesh)",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "DC88E76E45ED4829B11E573A311752CF": {
+      "id": "DC88E76E45ED4829B11E573A311752CF",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "CS.CI.1f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that data can be transmitted in packets using layered protocol stacks and the 4-layer TCP/IP model (application, transport, network, data link)",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "CCAAD8B5D4974DF3A8F7D257A5452973": {
+      "id": "CCAAD8B5D4974DF3A8F7D257A5452973",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.CI.1e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the role of and need for network protocols (Ethernet®, Wi-Fi, TCP/IP, HTTP, HTTPS, FTP, email (POP3, SMTP, IMAP))",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "E4FD3098DC0E4616AB2B8298495E8781": {
+      "id": "E4FD3098DC0E4616AB2B8298495E8781",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.CI.1d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that network data speeds are measured in bits per second (Mbps, Gbps).",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "BE03F46F645D4952BBF4EAE2AD1ECB62": {
+      "id": "BE03F46F645D4952BBF4EAE2AD1ECB62",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.CI.1c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand wired and wireless connectivity.",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "EF20E560959440E786B8AF69C76109C4": {
+      "id": "EF20E560959440E786B8AF69C76109C4",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.CI.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the different types of networks (local area network (LAN), wide area network (WAN), personal area network (PAN)) and usage models (client-server, peer-to-peer).",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "05ABF0AA23BC466AB646D6D95D48DBA3": {
+      "id": "05ABF0AA23BC466AB646D6D95D48DBA3",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.CI.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand why computers are connected in a network",
+      "comments": [],
+      "ancestorIds": [
+        "E1835B4E028E4DE1A9D62C2129A6F70A",
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "E1835B4E028E4DE1A9D62C2129A6F70A"
+    },
+    "E1835B4E028E4DE1A9D62C2129A6F70A": {
+      "id": "E1835B4E028E4DE1A9D62C2129A6F70A",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.CI.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks",
+      "comments": [],
+      "ancestorIds": [
+        "84455E7F9FEF4F35A4868BF661331EE7",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "84455E7F9FEF4F35A4868BF661331EE7"
+    },
+    "84455E7F9FEF4F35A4868BF661331EE7": {
+      "id": "84455E7F9FEF4F35A4868BF661331EE7",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "CS.CI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication and the internet",
+      "comments": [],
+      "ancestorIds": [
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "CEA592C8FB384F4C89CEA0425A43562F"
+    },
+    "C6EF309A3531483BA6FEB7A4183DA824": {
+      "id": "C6EF309A3531483BA6FEB7A4183DA824",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Co.5b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by an assembler, a compiler and an interpreter when translating programming languages and know the advantages and disadvantages of each.",
+      "comments": [],
+      "ancestorIds": [
+        "18C07C97B74E439088F9A4247CD48339",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "18C07C97B74E439088F9A4247CD48339"
+    },
+    "C99A0F61453F48AF9038B75E3DFE7C0B": {
+      "id": "C99A0F61453F48AF9038B75E3DFE7C0B",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Co.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by high-level and low-level programming languages and understand their suitability for a particular task.",
+      "comments": [],
+      "ancestorIds": [
+        "18C07C97B74E439088F9A4247CD48339",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "18C07C97B74E439088F9A4247CD48339"
+    },
+    "18C07C97B74E439088F9A4247CD48339": {
+      "id": "18C07C97B74E439088F9A4247CD48339",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 2,
+      "listId": "e",
+      "statementNotation": "CS.Co.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming languages",
+      "comments": [],
+      "ancestorIds": [
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "8F8C76499C3F442F82AEC62969ADD2AD"
+    },
+    "40C3A3AB0ED540CB999ECFB123AD0B20": {
+      "id": "40C3A3AB0ED540CB999ECFB123AD0B20",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Co.4d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what is meant by system software and application software.",
+      "comments": [],
+      "ancestorIds": [
+        "AFA6F46E17B24E9E9513342D59D99DB8",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "AFA6F46E17B24E9E9513342D59D99DB8"
+    },
+    "BB383DDFB20845998AA8AF56BDCC5DA4": {
+      "id": "BB383DDFB20845998AA8AF56BDCC5DA4",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Co.4c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how software can be used to simulate and model aspects of the real world.",
+      "comments": [],
+      "ancestorIds": [
+        "AFA6F46E17B24E9E9513342D59D99DB8",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "AFA6F46E17B24E9E9513342D59D99DB8"
+    },
+    "1B0D903AD74E4C73AE2D981FBCD4F5AA": {
+      "id": "1B0D903AD74E4C73AE2D981FBCD4F5AA",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Co.4b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the purpose and functions of utility software (managing, repairing and converting files; compression; defragmentation; backing up; anti-malware (antivirus, anti-spyware)).",
+      "comments": [],
+      "ancestorIds": [
+        "AFA6F46E17B24E9E9513342D59D99DB8",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "AFA6F46E17B24E9E9513342D59D99DB8"
+    },
+    "D466C3EFE37D46F48AD935FF935B3FD1": {
+      "id": "D466C3EFE37D46F48AD935FF935B3FD1",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Co.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know what an operating system is and how it manages files, processes, hardware and the user interface.",
+      "comments": [],
+      "ancestorIds": [
+        "AFA6F46E17B24E9E9513342D59D99DB8",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "AFA6F46E17B24E9E9513342D59D99DB8"
+    },
+    "AFA6F46E17B24E9E9513342D59D99DB8": {
+      "id": "AFA6F46E17B24E9E9513342D59D99DB8",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "CS.Co.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software",
+      "comments": [],
+      "ancestorIds": [
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "8F8C76499C3F442F82AEC62969ADD2AD"
+    },
+    "CE30697313124D20AE668E9B74AA46B5": {
+      "id": "CE30697313124D20AE668E9B74AA46B5",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Co.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to produce logic statements for a given problem.",
+      "comments": [],
+      "ancestorIds": [
+        "55C4F2B8249746CBB3D8F466D510BE5C",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "55C4F2B8249746CBB3D8F466D510BE5C"
+    },
+    "BC5D60B5074D46E98FD9901F5825F4D9": {
+      "id": "BC5D60B5074D46E98FD9901F5825F4D9",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Co.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to construct and interpret truth tables for a given logic statement (AND, OR, NOT).",
+      "comments": [],
+      "ancestorIds": [
+        "55C4F2B8249746CBB3D8F466D510BE5C",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "55C4F2B8249746CBB3D8F466D510BE5C"
+    },
+    "55C4F2B8249746CBB3D8F466D510BE5C": {
+      "id": "55C4F2B8249746CBB3D8F466D510BE5C",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "CS.Co.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Logic",
+      "comments": [],
+      "ancestorIds": [
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "8F8C76499C3F442F82AEC62969ADD2AD"
+    },
+    "646AC28D442B438BB02A5BD927533568": {
+      "id": "646AC28D442B438BB02A5BD927533568",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "CS.Co.2g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for embedded systems and their functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "8BDEE5387BF843B2866C24B794CE0584": {
+      "id": "8BDEE5387BF843B2866C24B794CE0584",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "CS.Co.2f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the concept of storing data in the ‘cloud’ and other contemporary secondary storage.",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "1053FD9166204131B4481587D4B61167": {
+      "id": "1053FD9166204131B4481587D4B61167",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.Co.2e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how data is stored on physical devices (magnetic, optical, solid state).",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "380812E7E8634BD993410063B77427BE": {
+      "id": "380812E7E8634BD993410063B77427BE",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Co.2d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand factors that affect the performance of the CPU (clock speed, number of processor cores, size of cache, type of cache).",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "068C5CBCFE1A4E28A278A583FE67D783": {
+      "id": "068C5CBCFE1A4E28A278A583FE67D783",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Co.2c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the concept of a stored program and the role of components of the CPU (control unit (CU), arithmetic/logic unit (ALU), registers, clock, address bus, data bus, control bus) in the fetch-decode\u0002execute cycle (the Von Neumann model).",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "629E8DA4E7B646A9A0DFC6683748350B": {
+      "id": "629E8DA4E7B646A9A0DFC6683748350B",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Co.2b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the function of different types of memory (random-access memory (RAM), read-only memory (ROM), cache, virtual memory).",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "D9751417DF91471081D9E7192190A0B0": {
+      "id": "D9751417DF91471081D9E7192190A0B0",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Co.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the function of the hardware components of a computer system (central processing unit (CPU), main memory, secondary storage, input and output devices) and how they work together",
+      "comments": [],
+      "ancestorIds": [
+        "B416B849413D46058500AC59EB127446",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B416B849413D46058500AC59EB127446"
+    },
+    "B416B849413D46058500AC59EB127446": {
+      "id": "B416B849413D46058500AC59EB127446",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "CS.Co.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware",
+      "comments": [],
+      "ancestorIds": [
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "8F8C76499C3F442F82AEC62969ADD2AD"
+    },
+    "6E377E1219BE4E999AF17DFFC1F0FDC3": {
+      "id": "6E377E1219BE4E999AF17DFFC1F0FDC3",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Co.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that there is a range of computational models (sequential, parallel, multi-agent).",
+      "comments": [],
+      "ancestorIds": [
+        "BF2F849421484B3D959E0B6F5798EA1F",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "BF2F849421484B3D959E0B6F5798EA1F"
+    },
+    "B3B2BB9947674B5AAB03FC72934CA098": {
+      "id": "B3B2BB9947674B5AAB03FC72934CA098",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Co.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the input-process-output mode",
+      "comments": [],
+      "ancestorIds": [
+        "BF2F849421484B3D959E0B6F5798EA1F",
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "BF2F849421484B3D959E0B6F5798EA1F"
+    },
+    "BF2F849421484B3D959E0B6F5798EA1F": {
+      "id": "BF2F849421484B3D959E0B6F5798EA1F",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.Co.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Machines and computational modelling",
+      "comments": [],
+      "ancestorIds": [
+        "8F8C76499C3F442F82AEC62969ADD2AD",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "8F8C76499C3F442F82AEC62969ADD2AD"
+    },
+    "8F8C76499C3F442F82AEC62969ADD2AD": {
+      "id": "8F8C76499C3F442F82AEC62969ADD2AD",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "CS.Co",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computers",
+      "comments": [],
+      "ancestorIds": [
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "CEA592C8FB384F4C89CEA0425A43562F"
+    },
+    "F742D5A6FE4944DF8D54E5166FCC48E8": {
+      "id": "F742D5A6FE4944DF8D54E5166FCC48E8",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Da.4b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how encryption algorithms work (Pigpen cipher, Caesar cipher, Vigenére cipher, Rail Fence cipher).",
+      "comments": [],
+      "ancestorIds": [
+        "EF453878FE624ECAB5DCE928D8000662",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "EF453878FE624ECAB5DCE928D8000662"
+    },
+    "20A9005200274123943BD1C8C167152D": {
+      "id": "20A9005200274123943BD1C8C167152D",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Da.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for data encryption.",
+      "comments": [],
+      "ancestorIds": [
+        "EF453878FE624ECAB5DCE928D8000662",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "EF453878FE624ECAB5DCE928D8000662"
+    },
+    "EF453878FE624ECAB5DCE928D8000662": {
+      "id": "EF453878FE624ECAB5DCE928D8000662",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "CS.Da.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Encryption",
+      "comments": [],
+      "ancestorIds": [
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "71C2F6AA6D094F629D029F6DCE3E53E8"
+    },
+    "023F2F09F0484946812D7FF4A6310DB0": {
+      "id": "023F2F09F0484946812D7FF4A6310DB0",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.Da.3e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that file storage is measured in bytes and be able to calculate file sizes.",
+      "comments": [],
+      "ancestorIds": [
+        "074FF9D00E6640BCBD268C36F817DFCE",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "074FF9D00E6640BCBD268C36F817DFCE"
+    },
+    "BB74EE222DAB420F8040AD9B02AB48D0": {
+      "id": "BB74EE222DAB420F8040AD9B02AB48D0",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Da.3d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how a lossless, run-length encoding (RLE) algorithm works.",
+      "comments": [],
+      "ancestorIds": [
+        "074FF9D00E6640BCBD268C36F817DFCE",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "074FF9D00E6640BCBD268C36F817DFCE"
+    },
+    "AAE2FC3A575D4E0497D20E21E7C4B3DF": {
+      "id": "AAE2FC3A575D4E0497D20E21E7C4B3DF",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Da.3c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how a lossless, run-length encoding (RLE) algorithm works.",
+      "comments": [],
+      "ancestorIds": [
+        "074FF9D00E6640BCBD268C36F817DFCE",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "074FF9D00E6640BCBD268C36F817DFCE"
+    },
+    "ED86C9E4E1414669BFC2F4974416AD62": {
+      "id": "ED86C9E4E1414669BFC2F4974416AD62",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Da.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for data compression and methods of compressing data (lossless, lossy), and that JPEG and MP3 are examples of lossy algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "074FF9D00E6640BCBD268C36F817DFCE",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "074FF9D00E6640BCBD268C36F817DFCE"
+    },
+    "CAD1CAC44E904206ADB9AC6D554DB25E": {
+      "id": "CAD1CAC44E904206ADB9AC6D554DB25E",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Da.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to use and convert between binary and denary multiples (as defined by the International Electrotechnical Commission (IEC)): • bit • nibble • byte • kibibyte (KiB) 210 • mebibyte (MiB) 220 • gibibyte (GiB) 230 • tebibyte (TiB) 240 • kilobyte (kB), 103 • megabyte (MB) 106 • gigabyte (GB) 109 • terabyte (TB) 1012.",
+      "comments": [],
+      "ancestorIds": [
+        "074FF9D00E6640BCBD268C36F817DFCE",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "074FF9D00E6640BCBD268C36F817DFCE"
+    },
+    "074FF9D00E6640BCBD268C36F817DFCE": {
+      "id": "074FF9D00E6640BCBD268C36F817DFCE",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "CS.Da.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data storage and compression",
+      "comments": [],
+      "ancestorIds": [
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "71C2F6AA6D094F629D029F6DCE3E53E8"
+    },
+    "6DB990054542491C8D84A768EA025C6F": {
+      "id": "6DB990054542491C8D84A768EA025C6F",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Da.2d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the limitations of binary representation of data (sampling frequency, resolution) when constructed by the number of available bits.",
+      "comments": [],
+      "ancestorIds": [
+        "0DCCB9A8801848AE90440D7DC303CCA8",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0DCCB9A8801848AE90440D7DC303CCA8"
+    },
+    "2D643E4A3CA64D73BAF0365E6FF6E555": {
+      "id": "2D643E4A3CA64D73BAF0365E6FF6E555",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Da.2c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how sound, an analogue signal, is represented in binary.",
+      "comments": [],
+      "ancestorIds": [
+        "0DCCB9A8801848AE90440D7DC303CCA8",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0DCCB9A8801848AE90440D7DC303CCA8"
+    },
+    "E858194F0CFD4506BFFC95C5E46633D6": {
+      "id": "E858194F0CFD4506BFFC95C5E46633D6",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Da.2b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how bitmap images are represented in binary (pixels, resolution, colour depth)",
+      "comments": [],
+      "ancestorIds": [
+        "0DCCB9A8801848AE90440D7DC303CCA8",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0DCCB9A8801848AE90440D7DC303CCA8"
+    },
+    "8D44E02253904AF7BA5C319D75F038A1": {
+      "id": "8D44E02253904AF7BA5C319D75F038A1",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Da.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how computers encode characters using ASCII and Unicode.",
+      "comments": [],
+      "ancestorIds": [
+        "0DCCB9A8801848AE90440D7DC303CCA8",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "0DCCB9A8801848AE90440D7DC303CCA8"
+    },
+    "0DCCB9A8801848AE90440D7DC303CCA8": {
+      "id": "0DCCB9A8801848AE90440D7DC303CCA8",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "CS.Da.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how computers represent and manipulate numbers (unsigned integers, signed integers",
+      "comments": [],
+      "ancestorIds": [
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "71C2F6AA6D094F629D029F6DCE3E53E8"
+    },
+    "0B3030A3325D4F969FD4EC1DAC3FCFC6": {
+      "id": "0B3030A3325D4F969FD4EC1DAC3FCFC6",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.Da.1e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand why hexadecimal notation is used and be able to convert between hexadecimal and binary.",
+      "comments": [],
+      "ancestorIds": [
+        "56A29F4D6704442E97A10C80CCD5BF6E",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "56A29F4D6704442E97A10C80CCD5BF6E"
+    },
+    "A441C08F059C46399991CE7CA0DFA833": {
+      "id": "A441C08F059C46399991CE7CA0DFA833",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Da.1d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to perform binary arithmetic (add, shifts (logical and arithmetic)) and understand the concept of overflow.",
+      "comments": [],
+      "ancestorIds": [
+        "56A29F4D6704442E97A10C80CCD5BF6E",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "56A29F4D6704442E97A10C80CCD5BF6E"
+    },
+    "5253D071FA7F4121A430FBBAD2A90461": {
+      "id": "5253D071FA7F4121A430FBBAD2A90461",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Da.1c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to convert between binary and denary whole numbers (0–255).",
+      "comments": [],
+      "ancestorIds": [
+        "56A29F4D6704442E97A10C80CCD5BF6E",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "56A29F4D6704442E97A10C80CCD5BF6E"
+    },
+    "6707098923274EF0B3CFE849FAD52AC7": {
+      "id": "6707098923274EF0B3CFE849FAD52AC7",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Da.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how computers represent and manipulate numbers (unsigned integers, signed integers",
+      "comments": [],
+      "ancestorIds": [
+        "56A29F4D6704442E97A10C80CCD5BF6E",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "56A29F4D6704442E97A10C80CCD5BF6E"
+    },
+    "A051A471C52E40BEA024603AD5D30494": {
+      "id": "A051A471C52E40BEA024603AD5D30494",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Da.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that computers use binary to represent data (numbers, text, sound, graphics) and program instructions.",
+      "comments": [],
+      "ancestorIds": [
+        "56A29F4D6704442E97A10C80CCD5BF6E",
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "56A29F4D6704442E97A10C80CCD5BF6E"
+    },
+    "56A29F4D6704442E97A10C80CCD5BF6E": {
+      "id": "56A29F4D6704442E97A10C80CCD5BF6E",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.Da.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Binary",
+      "comments": [],
+      "ancestorIds": [
+        "71C2F6AA6D094F629D029F6DCE3E53E8",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "71C2F6AA6D094F629D029F6DCE3E53E8"
+    },
+    "71C2F6AA6D094F629D029F6DCE3E53E8": {
+      "id": "71C2F6AA6D094F629D029F6DCE3E53E8",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "CS.Da",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data",
+      "comments": [],
+      "ancestorIds": [
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "CEA592C8FB384F4C89CEA0425A43562F"
+    },
+    "55A50E9AE44747C5A0451258BA77495C": {
+      "id": "55A50E9AE44747C5A0451258BA77495C",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Pr.5c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to create subprograms that use parameters.",
+      "comments": [],
+      "ancestorIds": [
+        "37C73F82DE184CDEB23DEBBFED64A097",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "37C73F82DE184CDEB23DEBBFED64A097"
+    },
+    "565AD552823A4F488F06E3D0CEF68096": {
+      "id": "565AD552823A4F488F06E3D0CEF68096",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Pr.5b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the concept of passing data into and out of subprograms (procedures, functions).",
+      "comments": [],
+      "ancestorIds": [
+        "37C73F82DE184CDEB23DEBBFED64A097",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "37C73F82DE184CDEB23DEBBFED64A097"
+    },
+    "A2051D972DD84537B5B0A0F9B42FEF6C": {
+      "id": "A2051D972DD84537B5B0A0F9B42FEF6C",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Pr.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the benefits of using subprograms and be able to write code that uses user-written and pre-existing (built-in, library) subprograms.",
+      "comments": [],
+      "ancestorIds": [
+        "37C73F82DE184CDEB23DEBBFED64A097",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "37C73F82DE184CDEB23DEBBFED64A097"
+    },
+    "37C73F82DE184CDEB23DEBBFED64A097": {
+      "id": "37C73F82DE184CDEB23DEBBFED64A097",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "f",
+      "statementNotation": "CS.Pr.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subprograms",
+      "comments": [],
+      "ancestorIds": [
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1861ED1E166A48B1BBB1771A6A6348B1"
+    },
+    "D623571124EB4DD9BD66BBDE59A8AF4E": {
+      "id": "D623571124EB4DD9BD66BBDE59A8AF4E",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Pr.5c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the purpose of, and how to use, logic operators (AND, OR, NOT).",
+      "comments": [],
+      "ancestorIds": [
+        "4385584AE2A04F86881C5BA914052F7B",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "4385584AE2A04F86881C5BA914052F7B"
+    },
+    "4BB6BB1FCE2D4AF7A9F86EC360EEA59E": {
+      "id": "4BB6BB1FCE2D4AF7A9F86EC360EEA59E",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Pr.5b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the purpose of, and how to use, relational operators (equal to, less than, greater than, not equal to, less than or equal to, greater than or equal to)",
+      "comments": [],
+      "ancestorIds": [
+        "4385584AE2A04F86881C5BA914052F7B",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "4385584AE2A04F86881C5BA914052F7B"
+    },
+    "047F2D7F36DB499092FA45BDA79D461A": {
+      "id": "047F2D7F36DB499092FA45BDA79D461A",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Pr.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the purpose of, and how to use, arithmetic operators (add, subtract, divide, multiply, modulus, integer division).",
+      "comments": [],
+      "ancestorIds": [
+        "4385584AE2A04F86881C5BA914052F7B",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "4385584AE2A04F86881C5BA914052F7B"
+    },
+    "4385584AE2A04F86881C5BA914052F7B": {
+      "id": "4385584AE2A04F86881C5BA914052F7B",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "e",
+      "statementNotation": "CS.Pr.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Operators",
+      "comments": [],
+      "ancestorIds": [
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1861ED1E166A48B1BBB1771A6A6348B1"
+    },
+    "CEE0A6F9D4B047D3811AA45D10A8DC0C": {
+      "id": "CEE0A6F9D4B047D3811AA45D10A8DC0C",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Pr.4c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to write code that reads/writes from/to a text file.",
+      "comments": [],
+      "ancestorIds": [
+        "EC4E67857EBC4FEFB972D7F5342D2732",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "EC4E67857EBC4FEFB972D7F5342D2732"
+    },
+    "D95912FDC3BB40A4827DAF8EDD536939": {
+      "id": "D95912FDC3BB40A4827DAF8EDD536939",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Pr.4b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for, and how to implement, validation.",
+      "comments": [],
+      "ancestorIds": [
+        "EC4E67857EBC4FEFB972D7F5342D2732",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "EC4E67857EBC4FEFB972D7F5342D2732"
+    },
+    "BBA7C3B776AC40339748AB70E29047C5": {
+      "id": "BBA7C3B776AC40339748AB70E29047C5",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Pr.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to write code that accepts and responds appropriately to user input.",
+      "comments": [],
+      "ancestorIds": [
+        "EC4E67857EBC4FEFB972D7F5342D2732",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "EC4E67857EBC4FEFB972D7F5342D2732"
+    },
+    "EC4E67857EBC4FEFB972D7F5342D2732": {
+      "id": "EC4E67857EBC4FEFB972D7F5342D2732",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "CS.Pr.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Input/output",
+      "comments": [],
+      "ancestorIds": [
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1861ED1E166A48B1BBB1771A6A6348B1"
+    },
+    "02AF68443D7445CBA54BCEA1520BEFCC": {
+      "id": "02AF68443D7445CBA54BCEA1520BEFCC",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.Pr.3e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for, and how to use, global and local variables when implementing subprograms.",
+      "comments": [],
+      "ancestorIds": [
+        "28E6616F649B48719C3537E44672C580",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "28E6616F649B48719C3537E44672C580"
+    },
+    "411FF3DF9EAB47ADA066C31BEBB10D49": {
+      "id": "411FF3DF9EAB47ADA066C31BEBB10D49",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Pr.3d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for, and how to use, variables and constants.",
+      "comments": [],
+      "ancestorIds": [
+        "28E6616F649B48719C3537E44672C580",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "28E6616F649B48719C3537E44672C580"
+    },
+    "B7D779B2D27946F8AC11B4987ACE3BEB": {
+      "id": "B7D779B2D27946F8AC11B4987ACE3BEB",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Pr.3c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for, and how to manipulate, strings",
+      "comments": [],
+      "ancestorIds": [
+        "28E6616F649B48719C3537E44672C580",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "28E6616F649B48719C3537E44672C580"
+    },
+    "C20BFBA56058451B8341C4BD17E2D57F": {
+      "id": "C20BFBA56058451B8341C4BD17E2D57F",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Pr.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for, and understand how to use, data structures (records, one-dimensional arrays, two-dimensional arrays).",
+      "comments": [],
+      "ancestorIds": [
+        "28E6616F649B48719C3537E44672C580",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "28E6616F649B48719C3537E44672C580"
+    },
+    "69904F1314A64FD5B208E146AC54C148": {
+      "id": "69904F1314A64FD5B208E146AC54C148",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Pr.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the need for, and understand how to use, data types (integer, real, Boolean, char, string).",
+      "comments": [],
+      "ancestorIds": [
+        "28E6616F649B48719C3537E44672C580",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "28E6616F649B48719C3537E44672C580"
+    },
+    "28E6616F649B48719C3537E44672C580": {
+      "id": "28E6616F649B48719C3537E44672C580",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "CS.Pr.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data types and structures",
+      "comments": [],
+      "ancestorIds": [
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1861ED1E166A48B1BBB1771A6A6348B1"
+    },
+    "899155FC171A480B9C33BA128E43D580": {
+      "id": "899155FC171A480B9C33BA128E43D580",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Pr.2b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to use sequencing, selection and iteration constructs in their programs.",
+      "comments": [],
+      "ancestorIds": [
+        "1B6476A4905D414EB4189240B5D8CE42",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1B6476A4905D414EB4189240B5D8CE42"
+    },
+    "16B59549664D47CFA29F7BC00FFEE444": {
+      "id": "16B59549664D47CFA29F7BC00FFEE444",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Pr.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the structural components of a program (variable and type declarations, command sequences, selection, iteration, data structures, subprograms",
+      "comments": [],
+      "ancestorIds": [
+        "1B6476A4905D414EB4189240B5D8CE42",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1B6476A4905D414EB4189240B5D8CE42"
+    },
+    "1B6476A4905D414EB4189240B5D8CE42": {
+      "id": "1B6476A4905D414EB4189240B5D8CE42",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "CS.Pr.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Constructs",
+      "comments": [],
+      "ancestorIds": [
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1861ED1E166A48B1BBB1771A6A6348B1"
+    },
+    "9A59455CD1784C98A2DA75CF3ED4E0F3": {
+      "id": "9A59455CD1784C98A2DA75CF3ED4E0F3",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "CS.Pr.1g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to determine the strengths and weaknesses of a program and suggest improvements.",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "0FEE7E657BF54156BC0A97DCB752C2A8": {
+      "id": "0FEE7E657BF54156BC0A97DCB752C2A8",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "CS.Pr.1f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to determine what value a variable will hold at a given point in a program (trace table).",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "B7BCF727A40E435A8C5A18F9380D712D": {
+      "id": "B7BCF727A40E435A8C5A18F9380D712D",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.Pr.1e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to interpret error messages and identify, locate and fix errors in a program.",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "4143C8BB3BD24FC28BD7A1B860E9BC59": {
+      "id": "4143C8BB3BD24FC28BD7A1B860E9BC59",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.Pr.1d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to design and use test plans and test data (normal, boundary, erroneous).",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "22EE07F8729645C9BC6DC3DF04F1B190": {
+      "id": "22EE07F8729645C9BC6DC3DF04F1B190",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.Pr.1c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to differentiate between types of error in programs (logic, syntax, runtime).",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "DD35BF6F448F4359BE698FA02F72F9D7": {
+      "id": "DD35BF6F448F4359BE698FA02F72F9D7",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.Pr.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the benefit of producing programs that are easy to read and be able to use techniques (comments, descriptive names (variables, constants, subprograms), indentation) to improve readability and to explain how the code works.",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "09EB4D7754664C378EFBD7579064CB19": {
+      "id": "09EB4D7754664C378EFBD7579064CB19",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.Pr.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to write programs in a high-level programming language.",
+      "comments": [],
+      "ancestorIds": [
+        "D20B687BBA52406F82553E634B9CA986",
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "D20B687BBA52406F82553E634B9CA986"
+    },
+    "D20B687BBA52406F82553E634B9CA986": {
+      "id": "D20B687BBA52406F82553E634B9CA986",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.Pr.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop code",
+      "comments": [],
+      "ancestorIds": [
+        "1861ED1E166A48B1BBB1771A6A6348B1",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "1861ED1E166A48B1BBB1771A6A6348B1"
+    },
+    "1861ED1E166A48B1BBB1771A6A6348B1": {
+      "id": "1861ED1E166A48B1BBB1771A6A6348B1",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "CS.Pr",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming",
+      "comments": [],
+      "ancestorIds": [
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "CEA592C8FB384F4C89CEA0425A43562F"
+    },
+    "AB1D1C2C77E245DCB664C82C2443258F": {
+      "id": "AB1D1C2C77E245DCB664C82C2443258F",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.PS.2d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to program abstractions of real-world examples.",
+      "comments": [],
+      "ancestorIds": [
+        "C43CA837CEA14F6FBB711CFEF183A00E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "C43CA837CEA14F6FBB711CFEF183A00E"
+    },
+    "0D270B18BCD14C4B811F6BBE411846BB": {
+      "id": "0D270B18BCD14C4B811F6BBE411846BB",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.PS.2c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how abstraction can be used effectively to model aspects of the real world.",
+      "comments": [],
+      "ancestorIds": [
+        "C43CA837CEA14F6FBB711CFEF183A00E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "C43CA837CEA14F6FBB711CFEF183A00E"
+    },
+    "609ACE64270E45CDBD57D4C9539EB9CB": {
+      "id": "609ACE64270E45CDBD57D4C9539EB9CB",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.PS.2b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to decompose a problem into smaller sub-problems.",
+      "comments": [],
+      "ancestorIds": [
+        "C43CA837CEA14F6FBB711CFEF183A00E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "C43CA837CEA14F6FBB711CFEF183A00E"
+    },
+    "A24D7AA75DBF4F2E99F3B7266A1E2C07": {
+      "id": "A24D7AA75DBF4F2E99F3B7266A1E2C07",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.PS.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to analyse a problem, investigate requirements (inputs, outputs, processing, initialisation) and design solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "C43CA837CEA14F6FBB711CFEF183A00E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "C43CA837CEA14F6FBB711CFEF183A00E"
+    },
+    "C43CA837CEA14F6FBB711CFEF183A00E": {
+      "id": "C43CA837CEA14F6FBB711CFEF183A00E",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "CS.PS.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decomposition and abstraction",
+      "comments": [],
+      "ancestorIds": [
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B9C80EFF1306443289728C1AB5115961"
+    },
+    "3BD7C3A3D88F4690B373873D86A63A7A": {
+      "id": "3BD7C3A3D88F4690B373873D86A63A7A",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 3,
+      "listId": "9",
+      "statementNotation": "CS.PS.1h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Be able to evaluate the fitness for purpose of algorithms in meeting specified requirements efficiently, using logical reasoning and test data.",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "8BDA7404B72F49499186D447AF546A19": {
+      "id": "8BDA7404B72F49499186D447AF546A19",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 3,
+      "listId": "8",
+      "statementNotation": "CS.PS.1g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how standard algorithms work (bubble sort, merge sort, linear search, binary search).",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "AAA170F9CDC949ACB6F26DDD3E4063F3": {
+      "id": "AAA170F9CDC949ACB6F26DDD3E4063F3",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "7",
+      "statementNotation": "CS.PS.1f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how the choice of algorithm is influenced by the data structures and data values that need to be manipulated.",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "D8D63D69AE794744B9BF5B7E2B969AE9": {
+      "id": "D8D63D69AE794744B9BF5B7E2B969AE9",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "CS.PS.1e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to code an algorithm in a high-level language.",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "F76954AB0ED3475CBC6D9DBBF08ADD9E": {
+      "id": "F76954AB0ED3475CBC6D9DBBF08ADD9E",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "CS.PS.1d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to identify and correct errors in algorithms, including using trace tables.",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "CBE2945CDD6446F996EA71B3ED092F7D": {
+      "id": "CBE2945CDD6446F996EA71B3ED092F7D",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "CS.PS.1d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to determine the correct output of an algorithm for a given set of data.",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "CFFCE85D68634AA5AED86FF148F76123": {
+      "id": "CFFCE85D68634AA5AED86FF148F76123",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "CS.PS.1c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the purpose of a given algorithm and how an algorithm works.",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "823BC6BDCB884644822B7D6E5CB4A151": {
+      "id": "823BC6BDCB884644822B7D6E5CB4A151",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "CS.PS.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand how to create an algorithm to solve a particular problem, making use of programming constructs (sequence, selection, iteration) and using appropriate conventions (flowchart, pseudocode, written description, draft program code).",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "9A291905F237403EAF1C936AF1831714": {
+      "id": "9A291905F237403EAF1C936AF1831714",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "CS.PS.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what an algorithm is, what algorithms are used for and be able to interpret algorithms (flowcharts, pseudocode, written descriptions, program code).",
+      "comments": [],
+      "ancestorIds": [
+        "479E3F9F22A74B568FDBE4451259F81E",
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "479E3F9F22A74B568FDBE4451259F81E"
+    },
+    "479E3F9F22A74B568FDBE4451259F81E": {
+      "id": "479E3F9F22A74B568FDBE4451259F81E",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.PS.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "B9C80EFF1306443289728C1AB5115961",
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "B9C80EFF1306443289728C1AB5115961"
+    },
+    "B9C80EFF1306443289728C1AB5115961": {
+      "id": "B9C80EFF1306443289728C1AB5115961",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "CS.PS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Problem solving",
+      "comments": [],
+      "ancestorIds": [
+        "CEA592C8FB384F4C89CEA0425A43562F"
+      ],
+      "parentId": "CEA592C8FB384F4C89CEA0425A43562F"
+    },
+    "CEA592C8FB384F4C89CEA0425A43562F": {
+      "id": "CEA592C8FB384F4C89CEA0425A43562F",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "CS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "iGCSE_Computer Science (9-1)",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

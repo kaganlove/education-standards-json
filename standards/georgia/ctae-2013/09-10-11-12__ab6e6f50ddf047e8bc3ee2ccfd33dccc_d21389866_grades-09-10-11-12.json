@@ -1,0 +1,755 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D21389866_grades-09-10-11-12",
+  "title": "Introduction to Python (11.08300) (2021)",
+  "subject": "CTAE (2013-)",
+  "normalizedSubject": "Technology",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "",
+    "URL": "",
+    "rightsHolder": "D2L Corporation"
+  },
+  "document": {
+    "id": "D21389866",
+    "valid": "2021",
+    "title": "Georgia Standards of Excellence Introduction to Python (11.08300)",
+    "sourceURL": "https://lor2.gadoe.org/gadoe/file/9dfed8a1-135e-410a-aaed-ed44f35bb009/1/Introduction%20to%20Python.pdf",
+    "asnIdentifier": "D21389866",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "7BFD21014CC444E09CFD2D9A3AD7C84E": {
+      "id": "7BFD21014CC444E09CFD2D9A3AD7C84E",
+      "asnIdentifier": "S21390617",
+      "position": 57000,
+      "depth": 1,
+      "statementNotation": "Pyth-9.5",
+      "statementLabel": "Element",
+      "description": "Implement recursion in search and sort algorithms.",
+      "ancestorIds": [
+        "2943D1286663425D95833299D0D0CF0B"
+      ],
+      "parentId": "2943D1286663425D95833299D0D0CF0B"
+    },
+    "9325A2B478424805958511290C41E014": {
+      "id": "9325A2B478424805958511290C41E014",
+      "asnIdentifier": "S21390616",
+      "position": 56000,
+      "depth": 1,
+      "statementNotation": "Pyth-9.4",
+      "statementLabel": "Element",
+      "description": "Identify an algorithm as being recursive.",
+      "ancestorIds": [
+        "2943D1286663425D95833299D0D0CF0B"
+      ],
+      "parentId": "2943D1286663425D95833299D0D0CF0B"
+    },
+    "4915F3E1FE744C088697BE0169D6BB49": {
+      "id": "4915F3E1FE744C088697BE0169D6BB49",
+      "asnIdentifier": "S21390615",
+      "position": 55000,
+      "depth": 1,
+      "statementNotation": "Pyth-9.3",
+      "statementLabel": "Element",
+      "description": "Use procedures to reduce the complexity of a program.",
+      "ancestorIds": [
+        "2943D1286663425D95833299D0D0CF0B"
+      ],
+      "parentId": "2943D1286663425D95833299D0D0CF0B"
+    },
+    "9B576C647D034443AFF4ECC3B6324A5C": {
+      "id": "9B576C647D034443AFF4ECC3B6324A5C",
+      "asnIdentifier": "S21390614",
+      "position": 54000,
+      "depth": 1,
+      "statementNotation": "Pyth-9.1",
+      "statementLabel": "Element",
+      "description": "Identify an algorithm in Python as a sequence of instructions that transform data or generate conclusions based on the data. 9.2 Implement different algorithms in programs using Python including sorting, search and merge algorithms.",
+      "ancestorIds": [
+        "2943D1286663425D95833299D0D0CF0B"
+      ],
+      "parentId": "2943D1286663425D95833299D0D0CF0B"
+    },
+    "2943D1286663425D95833299D0D0CF0B": {
+      "id": "2943D1286663425D95833299D0D0CF0B",
+      "asnIdentifier": "S21390613",
+      "position": 53000,
+      "depth": 0,
+      "statementNotation": "Pyth-9",
+      "statementLabel": "Standard",
+      "description": "Analyze algorithms and the implementation of algorithms in Python.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3B4696A7C0B74942A257376F36AEA332": {
+      "id": "3B4696A7C0B74942A257376F36AEA332",
+      "asnIdentifier": "S21390612",
+      "position": 52000,
+      "depth": 1,
+      "statementNotation": "Pyth-8.3",
+      "statementLabel": "Element",
+      "description": "Define objects in Python and use principles of object-oriented programming for declaring methods and combining classes.",
+      "ancestorIds": [
+        "BFEA59096B754FA9AD2F811C97E9AE3F"
+      ],
+      "parentId": "BFEA59096B754FA9AD2F811C97E9AE3F"
+    },
+    "E494399556B34A3E9F7E07A22C036196": {
+      "id": "E494399556B34A3E9F7E07A22C036196",
+      "asnIdentifier": "S21390611",
+      "position": 51000,
+      "depth": 1,
+      "statementNotation": "Pyth-8.2",
+      "statementLabel": "Element",
+      "description": "Describe the use of objects and recognize the difference between an object and an instance.",
+      "ancestorIds": [
+        "BFEA59096B754FA9AD2F811C97E9AE3F"
+      ],
+      "parentId": "BFEA59096B754FA9AD2F811C97E9AE3F"
+    },
+    "6B9BFA3E8830418B9CEF96BE9AB2EC3A": {
+      "id": "6B9BFA3E8830418B9CEF96BE9AB2EC3A",
+      "asnIdentifier": "S21390610",
+      "position": 50000,
+      "depth": 1,
+      "statementNotation": "Pyth-8.1",
+      "statementLabel": "Element",
+      "description": "Explain the principles of object-oriented programming using the Python programming language as the use of data values in the form of fields and code in the form of procedures or methods.",
+      "ancestorIds": [
+        "BFEA59096B754FA9AD2F811C97E9AE3F"
+      ],
+      "parentId": "BFEA59096B754FA9AD2F811C97E9AE3F"
+    },
+    "BFEA59096B754FA9AD2F811C97E9AE3F": {
+      "id": "BFEA59096B754FA9AD2F811C97E9AE3F",
+      "asnIdentifier": "S21390609",
+      "position": 49000,
+      "depth": 0,
+      "statementNotation": "Pyth-8",
+      "statementLabel": "Standard",
+      "description": "Develop and implement objects in Python.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CF6F7F2041B0433A9D969F84AB23E6DC": {
+      "id": "CF6F7F2041B0433A9D969F84AB23E6DC",
+      "asnIdentifier": "S21390608",
+      "position": 48000,
+      "depth": 1,
+      "statementNotation": "Pyth-7.5",
+      "statementLabel": "Element",
+      "description": "Implement string search and methods to modify strings in programs.",
+      "ancestorIds": [
+        "17763BA3ABD44D72AD97D30530A7C313"
+      ],
+      "parentId": "17763BA3ABD44D72AD97D30530A7C313"
+    },
+    "A4B64796CCBE47C5B7F179AA090DF37A": {
+      "id": "A4B64796CCBE47C5B7F179AA090DF37A",
+      "asnIdentifier": "S21390607",
+      "position": 47000,
+      "depth": 1,
+      "statementNotation": "Pyth-7.4",
+      "statementLabel": "Element",
+      "description": "Manipulate variables using string concatenation and slicing.",
+      "ancestorIds": [
+        "17763BA3ABD44D72AD97D30530A7C313"
+      ],
+      "parentId": "17763BA3ABD44D72AD97D30530A7C313"
+    },
+    "012ACC377030460A8CB3494944DA3E03": {
+      "id": "012ACC377030460A8CB3494944DA3E03",
+      "asnIdentifier": "S21390606",
+      "position": 46000,
+      "depth": 1,
+      "statementNotation": "Pyth-7.3",
+      "statementLabel": "Element",
+      "description": "Declare strings in programs using multiple declaration styles.",
+      "ancestorIds": [
+        "17763BA3ABD44D72AD97D30530A7C313"
+      ],
+      "parentId": "17763BA3ABD44D72AD97D30530A7C313"
+    },
+    "334F5C2C32A14AF9916E4BEAF6F1B460": {
+      "id": "334F5C2C32A14AF9916E4BEAF6F1B460",
+      "asnIdentifier": "S21390605",
+      "position": 45000,
+      "depth": 1,
+      "statementNotation": "Pyth-7.2",
+      "statementLabel": "Element",
+      "description": "Define standard string methods and their use cases.",
+      "ancestorIds": [
+        "17763BA3ABD44D72AD97D30530A7C313"
+      ],
+      "parentId": "17763BA3ABD44D72AD97D30530A7C313"
+    },
+    "A29A324396534824927CB42E72B378A2": {
+      "id": "A29A324396534824927CB42E72B378A2",
+      "asnIdentifier": "S21390604",
+      "position": 44000,
+      "depth": 1,
+      "statementNotation": "Pyth-7.1",
+      "statementLabel": "Element",
+      "description": "Identify strings as arrays of bytes representing Unicode characters.",
+      "ancestorIds": [
+        "17763BA3ABD44D72AD97D30530A7C313"
+      ],
+      "parentId": "17763BA3ABD44D72AD97D30530A7C313"
+    },
+    "17763BA3ABD44D72AD97D30530A7C313": {
+      "id": "17763BA3ABD44D72AD97D30530A7C313",
+      "asnIdentifier": "S21390603",
+      "position": 43000,
+      "depth": 0,
+      "statementNotation": "Pyth-7",
+      "statementLabel": "Standard",
+      "description": "Construct and implement strings in programs using Python.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EE5DD58D34D74A53A369AA68D4078167": {
+      "id": "EE5DD58D34D74A53A369AA68D4078167",
+      "asnIdentifier": "S21390602",
+      "position": 42000,
+      "depth": 1,
+      "statementNotation": "Pyth-6.6",
+      "statementLabel": "Element",
+      "description": "Differentiate between methods and functions and analyze the effect of a method call on a program.",
+      "ancestorIds": [
+        "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+      ],
+      "parentId": "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+    },
+    "EBB050742035476CB29C8F9A7778AD89": {
+      "id": "EBB050742035476CB29C8F9A7778AD89",
+      "asnIdentifier": "S21390601",
+      "position": 41000,
+      "depth": 1,
+      "statementNotation": "Pyth-6.5",
+      "statementLabel": "Element",
+      "description": "Implement lists, sets, dictionaries, and tuples as function parameters, return values and internal variables within function bodies.",
+      "ancestorIds": [
+        "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+      ],
+      "parentId": "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+    },
+    "3CE9C5B81B174F0FB9BFAD2030D853E4": {
+      "id": "3CE9C5B81B174F0FB9BFAD2030D853E4",
+      "asnIdentifier": "S21390600",
+      "position": 40000,
+      "depth": 1,
+      "statementNotation": "Pyth-6.4",
+      "statementLabel": "Element",
+      "description": "Explain the operations that can be applied to data structures using Python including lists and dictionaries as objects that can be changed, and strings and tuples as object that cannot be changed.",
+      "ancestorIds": [
+        "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+      ],
+      "parentId": "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+    },
+    "9497BBB24D3A44058A33F0DD4D05073B": {
+      "id": "9497BBB24D3A44058A33F0DD4D05073B",
+      "asnIdentifier": "S21390599",
+      "position": 39000,
+      "depth": 1,
+      "statementNotation": "Pyth-6.3",
+      "statementLabel": "Element",
+      "description": "Determine which data structures are most appropriate to model the program data (list, tuple, dictionary, or set).",
+      "ancestorIds": [
+        "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+      ],
+      "parentId": "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+    },
+    "6EDC8CBF90BD402CB79E9AFF3A5A4045": {
+      "id": "6EDC8CBF90BD402CB79E9AFF3A5A4045",
+      "asnIdentifier": "S21390598",
+      "position": 38000,
+      "depth": 1,
+      "statementNotation": "Pyth-6.2",
+      "statementLabel": "Element",
+      "description": "Identify a data structure as a collection of data values and types of data structures in the Python programming language (list, tuple, dictionary and set).",
+      "ancestorIds": [
+        "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+      ],
+      "parentId": "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+    },
+    "35053322CEA24A25BA085C257D300538": {
+      "id": "35053322CEA24A25BA085C257D300538",
+      "asnIdentifier": "S21390597",
+      "position": 37000,
+      "depth": 1,
+      "statementNotation": "Pyth-6.1",
+      "statementLabel": "Element",
+      "description": "Identify a list as an ordered series of data under one variable name and accessed with numeric indices.",
+      "ancestorIds": [
+        "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+      ],
+      "parentId": "61EF5C99B3474DC8BDB1E8D8AB991E3A"
+    },
+    "61EF5C99B3474DC8BDB1E8D8AB991E3A": {
+      "id": "61EF5C99B3474DC8BDB1E8D8AB991E3A",
+      "asnIdentifier": "S21390596",
+      "position": 36000,
+      "depth": 0,
+      "statementNotation": "Pyth-6",
+      "statementLabel": "Standard",
+      "description": "Analyze data structures in programs using Python.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A8C6548DAAF945488CF7304EC9B6BFA3": {
+      "id": "A8C6548DAAF945488CF7304EC9B6BFA3",
+      "asnIdentifier": "S21390595",
+      "position": 35000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.9",
+      "statementLabel": "Element",
+      "description": "Use external Python libraries to produce multi-media (visual or audio) outputs.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "C8C2A286E9244DA490B64DDBDCF9F822": {
+      "id": "C8C2A286E9244DA490B64DDBDCF9F822",
+      "asnIdentifier": "S21390594",
+      "position": 34000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.8",
+      "statementLabel": "Element",
+      "description": "Implement different types of functions in a program including those with return statements and different parameters.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "8B88AD54DCC749169FC825CD40B622C9": {
+      "id": "8B88AD54DCC749169FC825CD40B622C9",
+      "asnIdentifier": "S21390593",
+      "position": 33000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.7",
+      "statementLabel": "Element",
+      "description": "Describe how a function is implemented within a program.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "280F77A1A6F44D2F9CF53DA3064461A3": {
+      "id": "280F77A1A6F44D2F9CF53DA3064461A3",
+      "asnIdentifier": "S21390592",
+      "position": 32000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.6",
+      "statementLabel": "Element",
+      "description": "Analyze the effect of a variable in a conditional statement and a loop.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "4A20786A43B94EA1A0415D4081F165FE": {
+      "id": "4A20786A43B94EA1A0415D4081F165FE",
+      "asnIdentifier": "S21390591",
+      "position": 31000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.5",
+      "statementLabel": "Element",
+      "description": "Describe the difference between for loops, while loops, for-each loops, infinite loops, and nested loops.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "40ED87B0FA3E43E488C9EC7CC625B9F3": {
+      "id": "40ED87B0FA3E43E488C9EC7CC625B9F3",
+      "asnIdentifier": "S21390590",
+      "position": 30000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.4",
+      "statementLabel": "Element",
+      "description": "Implement loops in programs using continue, break, and pass keywords.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "D3092A1EE34048DD8B51FC8EB56F302E": {
+      "id": "D3092A1EE34048DD8B51FC8EB56F302E",
+      "asnIdentifier": "S21390589",
+      "position": 29000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.3",
+      "statementLabel": "Element",
+      "description": "Implement conditional statements with the use of mathematical, relational, and Boolean operators.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "D10BE461C2834533AEF72CFD3CBEFF89": {
+      "id": "D10BE461C2834533AEF72CFD3CBEFF89",
+      "asnIdentifier": "S21390588",
+      "position": 28000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.2",
+      "statementLabel": "Element",
+      "description": "Identify and describe the structure of different types of conditional statements (if statements).",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "A75AABFFFA9F4F0C9A6F9B78779F84C3": {
+      "id": "A75AABFFFA9F4F0C9A6F9B78779F84C3",
+      "asnIdentifier": "S21390587",
+      "position": 27000,
+      "depth": 1,
+      "statementNotation": "Pyth-5.1",
+      "statementLabel": "Element",
+      "description": "Analyze how control structures are used in programs using Python.",
+      "ancestorIds": [
+        "9552665C8E984509A996CF5E7BD01231"
+      ],
+      "parentId": "9552665C8E984509A996CF5E7BD01231"
+    },
+    "9552665C8E984509A996CF5E7BD01231": {
+      "id": "9552665C8E984509A996CF5E7BD01231",
+      "asnIdentifier": "S21390586",
+      "position": 26000,
+      "depth": 0,
+      "statementNotation": "Pyth-5",
+      "statementLabel": "Standard",
+      "description": "Implement different types of control structures (conditionals, loops, functions) in programs.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0C696944006C4C4B804BDDD7DF7407C9": {
+      "id": "0C696944006C4C4B804BDDD7DF7407C9",
+      "asnIdentifier": "S21390585",
+      "position": 25000,
+      "depth": 1,
+      "statementNotation": "Pyth-4.3",
+      "statementLabel": "Element",
+      "description": "Students will understand the importance of and make use of self-documenting code",
+      "ancestorIds": [
+        "C81E1162D058436BA47CF72E2DAC24EF"
+      ],
+      "parentId": "C81E1162D058436BA47CF72E2DAC24EF"
+    },
+    "54367340A4F94F5AA017CCCB2901464C": {
+      "id": "54367340A4F94F5AA017CCCB2901464C",
+      "asnIdentifier": "S21390584",
+      "position": 24000,
+      "depth": 1,
+      "statementNotation": "Pyth-4.2",
+      "statementLabel": "Element",
+      "description": "Create multi-line comments that highlight the precondition and post condition state of each function",
+      "ancestorIds": [
+        "C81E1162D058436BA47CF72E2DAC24EF"
+      ],
+      "parentId": "C81E1162D058436BA47CF72E2DAC24EF"
+    },
+    "7FAEE8ADF8604770B8B15777640FE108": {
+      "id": "7FAEE8ADF8604770B8B15777640FE108",
+      "asnIdentifier": "S21390583",
+      "position": 23000,
+      "depth": 1,
+      "statementNotation": "Pyth-4.1",
+      "statementLabel": "Element",
+      "description": "Create single-line comments in programs that explain the purpose of each function",
+      "ancestorIds": [
+        "C81E1162D058436BA47CF72E2DAC24EF"
+      ],
+      "parentId": "C81E1162D058436BA47CF72E2DAC24EF"
+    },
+    "C81E1162D058436BA47CF72E2DAC24EF": {
+      "id": "C81E1162D058436BA47CF72E2DAC24EF",
+      "asnIdentifier": "S21390582",
+      "position": 22000,
+      "depth": 0,
+      "statementNotation": "Pyth-4",
+      "statementLabel": "Standard",
+      "description": "Demonstrate and identify the importance of commenting and documentation in coding.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1DACEF1C6DC84C7591CF20452E4B1F9F": {
+      "id": "1DACEF1C6DC84C7591CF20452E4B1F9F",
+      "asnIdentifier": "S21390581",
+      "position": 21000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.9",
+      "statementLabel": "Element",
+      "description": "Describe cryptography in Python as the use of libraries that provide encryption to secure data and information (i.e., cryptographic standard libraries).",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "729A43848351405D93956682EE721960": {
+      "id": "729A43848351405D93956682EE721960",
+      "asnIdentifier": "S21390580",
+      "position": 20000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.8",
+      "statementLabel": "Element",
+      "description": "Convert variable values between different data types in Python.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "F037BAAE1F264040B9FD3519C824296E": {
+      "id": "F037BAAE1F264040B9FD3519C824296E",
+      "asnIdentifier": "S21390579",
+      "position": 19000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.7",
+      "statementLabel": "Element",
+      "description": "Identify and assign values and different data types to a variable in a program.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "6AC986EE99FF4BBEA615418BC0C9C6BC": {
+      "id": "6AC986EE99FF4BBEA615418BC0C9C6BC",
+      "asnIdentifier": "S21390578",
+      "position": 18000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.6",
+      "statementLabel": "Element",
+      "description": "Use arithmetic operators to modify variables in programs.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "772055B050784D348DA1601E487AE4DA": {
+      "id": "772055B050784D348DA1601E487AE4DA",
+      "asnIdentifier": "S21390577",
+      "position": 17000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.5",
+      "statementLabel": "Element",
+      "description": "Use truth tables to simulate the results of Boolean operators.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "684ADDD3DE6F448ABEE271E6B65F382E": {
+      "id": "684ADDD3DE6F448ABEE271E6B65F382E",
+      "asnIdentifier": "S21390576",
+      "position": 16000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.4",
+      "statementLabel": "Element",
+      "description": "Describe and use different types of logical operators in Python.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "95938FF304EA48358A88D92C787CAE9A": {
+      "id": "95938FF304EA48358A88D92C787CAE9A",
+      "asnIdentifier": "S21390575",
+      "position": 15000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.3",
+      "statementLabel": "Element",
+      "description": "Implement scripts that use logical, relational, boolean, and mathematical operators.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "1735314ED66547CDA2EA5AC84982614B": {
+      "id": "1735314ED66547CDA2EA5AC84982614B",
+      "asnIdentifier": "S21390574",
+      "position": 14000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.2",
+      "statementLabel": "Element",
+      "description": "Describe the relationship between variables and values when programming in Python.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "2AF77A3C2FE44414A76109799593C813": {
+      "id": "2AF77A3C2FE44414A76109799593C813",
+      "asnIdentifier": "S21390573",
+      "position": 13000,
+      "depth": 1,
+      "statementNotation": "Pyth-3.1",
+      "statementLabel": "Element",
+      "description": "Describe how procedural programming is implemented using the Python programming language.",
+      "ancestorIds": [
+        "83515BDC80E944609F84A8A7FFA654E6"
+      ],
+      "parentId": "83515BDC80E944609F84A8A7FFA654E6"
+    },
+    "83515BDC80E944609F84A8A7FFA654E6": {
+      "id": "83515BDC80E944609F84A8A7FFA654E6",
+      "asnIdentifier": "S21390572",
+      "position": 12000,
+      "depth": 0,
+      "statementNotation": "Pyth-3",
+      "statementLabel": "Standard",
+      "description": "Describe how procedural programming is implemented using the Python programming language.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D2AA22A348334B3A90858B1E87A67653": {
+      "id": "D2AA22A348334B3A90858B1E87A67653",
+      "asnIdentifier": "S21390571",
+      "position": 11000,
+      "depth": 1,
+      "statementNotation": "Pyth-2.3",
+      "statementLabel": "Element",
+      "description": "Identify different types of errors that can occur including parameter mismatch and scope errors.",
+      "ancestorIds": [
+        "6063DEB8E0194392B033B108E1C531E0"
+      ],
+      "parentId": "6063DEB8E0194392B033B108E1C531E0"
+    },
+    "580AE23DB3B547FFB92342F1593C5302": {
+      "id": "580AE23DB3B547FFB92342F1593C5302",
+      "asnIdentifier": "S21390570",
+      "position": 10000,
+      "depth": 1,
+      "statementNotation": "Pyth-2.2",
+      "statementLabel": "Element",
+      "description": "Use various debugging and testing methods to ensure program correctness.",
+      "ancestorIds": [
+        "6063DEB8E0194392B033B108E1C531E0"
+      ],
+      "parentId": "6063DEB8E0194392B033B108E1C531E0"
+    },
+    "CFB43CC61B154ED5B3580F2184695A53": {
+      "id": "CFB43CC61B154ED5B3580F2184695A53",
+      "asnIdentifier": "S21390569",
+      "position": 9000,
+      "depth": 1,
+      "statementNotation": "Pyth-2.1",
+      "statementLabel": "Element",
+      "description": "Design, develop, debug and implement computer programs.",
+      "ancestorIds": [
+        "6063DEB8E0194392B033B108E1C531E0"
+      ],
+      "parentId": "6063DEB8E0194392B033B108E1C531E0"
+    },
+    "6063DEB8E0194392B033B108E1C531E0": {
+      "id": "6063DEB8E0194392B033B108E1C531E0",
+      "asnIdentifier": "S21390568",
+      "position": 8000,
+      "depth": 0,
+      "statementNotation": "Pyth-2",
+      "statementLabel": "Standard",
+      "description": "Develop techniques for debugging a program.",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "69B84BD346384F53A5504794275B9A57": {
+      "id": "69B84BD346384F53A5504794275B9A57",
+      "asnIdentifier": "S21390567",
+      "position": 7000,
+      "depth": 1,
+      "statementNotation": "Pyth-1.6",
+      "statementLabel": "Element",
+      "description": "Describe advantages and disadvantages of information security when creating programs using Python.",
+      "ancestorIds": [
+        "BD18D69054ED4CC58ABCBAB06C14194E"
+      ],
+      "parentId": "BD18D69054ED4CC58ABCBAB06C14194E"
+    },
+    "CB2772CCF46C4114B2677B41324BD555": {
+      "id": "CB2772CCF46C4114B2677B41324BD555",
+      "asnIdentifier": "S21390566",
+      "position": 6000,
+      "depth": 1,
+      "statementNotation": "Pyth-1.5",
+      "statementLabel": "Element",
+      "description": "Create graphical organizers to model classes, attributes, methods and object relationships.",
+      "ancestorIds": [
+        "BD18D69054ED4CC58ABCBAB06C14194E"
+      ],
+      "parentId": "BD18D69054ED4CC58ABCBAB06C14194E"
+    },
+    "73319781E8A445B5BADCA3F1EFB8C1BF": {
+      "id": "73319781E8A445B5BADCA3F1EFB8C1BF",
+      "asnIdentifier": "S21390565",
+      "position": 5000,
+      "depth": 1,
+      "statementNotation": "Pyth-1.4",
+      "statementLabel": "Element",
+      "description": "Describe the process of compiling and running a program in Python.",
+      "ancestorIds": [
+        "BD18D69054ED4CC58ABCBAB06C14194E"
+      ],
+      "parentId": "BD18D69054ED4CC58ABCBAB06C14194E"
+    },
+    "FBCBDF5940EC45BC9642B647942322D0": {
+      "id": "FBCBDF5940EC45BC9642B647942322D0",
+      "asnIdentifier": "S21390564",
+      "position": 4000,
+      "depth": 1,
+      "statementNotation": "Pyth-1.3",
+      "statementLabel": "Element",
+      "description": "Describe the characteristics of input and output in a Python programming environment.",
+      "ancestorIds": [
+        "BD18D69054ED4CC58ABCBAB06C14194E"
+      ],
+      "parentId": "BD18D69054ED4CC58ABCBAB06C14194E"
+    },
+    "B411F5EB1093419D8A68430FF3DB5030": {
+      "id": "B411F5EB1093419D8A68430FF3DB5030",
+      "asnIdentifier": "S21390563",
+      "position": 3000,
+      "depth": 1,
+      "statementNotation": "Pyth-1.2",
+      "statementLabel": "Element",
+      "description": "Analyze a program and describe the structures of Python code.",
+      "ancestorIds": [
+        "BD18D69054ED4CC58ABCBAB06C14194E"
+      ],
+      "parentId": "BD18D69054ED4CC58ABCBAB06C14194E"
+    },
+    "1FAECC9834AB4642BB0E1E7463A8F5EE": {
+      "id": "1FAECC9834AB4642BB0E1E7463A8F5EE",
+      "asnIdentifier": "S21390562",
+      "position": 2000,
+      "depth": 1,
+      "statementNotation": "Pyth-1.1",
+      "statementLabel": "Element",
+      "description": "Describe how computing principles are represented in the Python programming environment.",
+      "ancestorIds": [
+        "BD18D69054ED4CC58ABCBAB06C14194E"
+      ],
+      "parentId": "BD18D69054ED4CC58ABCBAB06C14194E"
+    },
+    "BD18D69054ED4CC58ABCBAB06C14194E": {
+      "id": "BD18D69054ED4CC58ABCBAB06C14194E",
+      "asnIdentifier": "S21390561",
+      "position": 1000,
+      "depth": 0,
+      "statementNotation": "Pyth-1",
+      "statementLabel": "Standard",
+      "description": "Use computational thinking and the Python programming language to solve problems and create programs for real world applications such as game development, data analysis, and the arts.",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

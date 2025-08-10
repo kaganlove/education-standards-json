@@ -1,0 +1,3085 @@
+{
+  "id": "9DF41AC6840842B682C6F1FD73F3B699",
+  "title": "A2-Level Computer Science",
+  "subject": "Computer Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "WJEC AS/A Level Computer Science Specification",
+    "sourceURL": "https://www.wjec.co.uk/media/wl4kj5l1/wjec-gce-computer-science-spec-from-2015.pdf"
+  },
+  "jurisdiction": {
+    "id": "F25E911D901C413884A7905DF0EBD7F2",
+    "title": "WJEC"
+  },
+  "standards": {
+    "DFDA005516044164BD9A21C8CB0A893D": {
+      "id": "DFDA005516044164BD9A21C8CB0A893D",
+      "asnIdentifier": null,
+      "position": 175000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.8.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe black hat hacking, white hat hacking and penetration testing.",
+      "comments": [],
+      "ancestorIds": [
+        "8C11653F9C7C4DBB93E41B8592DE044E",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8C11653F9C7C4DBB93E41B8592DE044E"
+    },
+    "18EFB93658ED46F3B5C7852B6EF2AAAD": {
+      "id": "18EFB93658ED46F3B5C7852B6EF2AAAD",
+      "asnIdentifier": null,
+      "position": 174000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.8.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe types and mechanisms of malicious software and their vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "8C11653F9C7C4DBB93E41B8592DE044E",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8C11653F9C7C4DBB93E41B8592DE044E"
+    },
+    "8C11653F9C7C4DBB93E41B8592DE044E": {
+      "id": "8C11653F9C7C4DBB93E41B8592DE044E",
+      "asnIdentifier": null,
+      "position": 173000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "4.8.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Malicious software and mechanisms of attack and defence",
+      "comments": [],
+      "ancestorIds": [
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "EAAFD7CC60FD4FB2B796DA337F5ACE9A"
+    },
+    "D897F576C28F4E318BAC7273005B15A3": {
+      "id": "D897F576C28F4E318BAC7273005B15A3",
+      "asnIdentifier": null,
+      "position": 172000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.8.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the complexities of capturing, storing and processing biometric data.",
+      "comments": [],
+      "ancestorIds": [
+        "8190B38DAE8D47F2B5251B93B438001F",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8190B38DAE8D47F2B5251B93B438001F"
+    },
+    "1E644A98260549D1ACE7132484429E01": {
+      "id": "1E644A98260549D1ACE7132484429E01",
+      "asnIdentifier": null,
+      "position": 171000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.8.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits and drawbacks of biometric technologies.",
+      "comments": [],
+      "ancestorIds": [
+        "8190B38DAE8D47F2B5251B93B438001F",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8190B38DAE8D47F2B5251B93B438001F"
+    },
+    "D1B8657C9BDB4054B23B1EF6D20D692B": {
+      "id": "D1B8657C9BDB4054B23B1EF6D20D692B",
+      "asnIdentifier": null,
+      "position": 170000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.8.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the purpose and use of contemporary biometric technologies.",
+      "comments": [],
+      "ancestorIds": [
+        "8190B38DAE8D47F2B5251B93B438001F",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8190B38DAE8D47F2B5251B93B438001F"
+    },
+    "8190B38DAE8D47F2B5251B93B438001F": {
+      "id": "8190B38DAE8D47F2B5251B93B438001F",
+      "asnIdentifier": null,
+      "position": 169000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "4.8.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Biometrics",
+      "comments": [],
+      "ancestorIds": [
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "EAAFD7CC60FD4FB2B796DA337F5ACE9A"
+    },
+    "6C716C70C50F45FD8431839120810204": {
+      "id": "6C716C70C50F45FD8431839120810204",
+      "asnIdentifier": null,
+      "position": 168000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "4.8.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare cryptographic methods and their relative strength.",
+      "comments": [],
+      "ancestorIds": [
+        "813EF88565814DB59C7042849385A266",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "813EF88565814DB59C7042849385A266"
+    },
+    "5FA8ADB7114F4428B48820081B2A64A5": {
+      "id": "5FA8ADB7114F4428B48820081B2A64A5",
+      "asnIdentifier": null,
+      "position": 167000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.8.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Follow algorithms and programs used in cryptography.",
+      "comments": [],
+      "ancestorIds": [
+        "813EF88565814DB59C7042849385A266",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "813EF88565814DB59C7042849385A266"
+    },
+    "A9BA774674CC4C03B86995148F073057": {
+      "id": "A9BA774674CC4C03B86995148F073057",
+      "asnIdentifier": null,
+      "position": 166000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.8.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe techniques of cryptography and their role in protecting data.",
+      "comments": [],
+      "ancestorIds": [
+        "813EF88565814DB59C7042849385A266",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "813EF88565814DB59C7042849385A266"
+    },
+    "7603A51F01234EB49E626E5F4627F88F": {
+      "id": "7603A51F01234EB49E626E5F4627F88F",
+      "asnIdentifier": null,
+      "position": 165000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.8.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the need for and the purpose of cryptography.",
+      "comments": [],
+      "ancestorIds": [
+        "813EF88565814DB59C7042849385A266",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "813EF88565814DB59C7042849385A266"
+    },
+    "813EF88565814DB59C7042849385A266": {
+      "id": "813EF88565814DB59C7042849385A266",
+      "asnIdentifier": null,
+      "position": 164000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.8.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cryptography",
+      "comments": [],
+      "ancestorIds": [
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "EAAFD7CC60FD4FB2B796DA337F5ACE9A"
+    },
+    "169B461B752F49FC98FA1CDDD9A08785": {
+      "id": "169B461B752F49FC98FA1CDDD9A08785",
+      "asnIdentifier": null,
+      "position": 163000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.8.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the special security and integrity problems which can arise during online updating of files.",
+      "comments": [],
+      "ancestorIds": [
+        "A4E22786F10B48E7BB7F4E121FE51CB4",
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "A4E22786F10B48E7BB7F4E121FE51CB4"
+    },
+    "A4E22786F10B48E7BB7F4E121FE51CB4": {
+      "id": "A4E22786F10B48E7BB7F4E121FE51CB4",
+      "asnIdentifier": null,
+      "position": 162000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.8.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Protecting data integrity",
+      "comments": [],
+      "ancestorIds": [
+        "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "EAAFD7CC60FD4FB2B796DA337F5ACE9A"
+    },
+    "EAAFD7CC60FD4FB2B796DA337F5ACE9A": {
+      "id": "EAAFD7CC60FD4FB2B796DA337F5ACE9A",
+      "asnIdentifier": null,
+      "position": 161000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "4.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data security and integrity processes",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "A7EE5D48C24F47C3A2EC3B0FE692A6EB": {
+      "id": "A7EE5D48C24F47C3A2EC3B0FE692A6EB",
+      "asnIdentifier": null,
+      "position": 160000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.7.E.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss the possible effects of the internet upon professional groups and the wider community.",
+      "comments": [],
+      "ancestorIds": [
+        "86CF7AB18A88432EB6F8DA2D1B57EEB7",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "86CF7AB18A88432EB6F8DA2D1B57EEB7"
+    },
+    "8495C1DCF30D44C2A0D8BF735FC0476B": {
+      "id": "8495C1DCF30D44C2A0D8BF735FC0476B",
+      "asnIdentifier": null,
+      "position": 159000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.7.E.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe common contemporary applications.",
+      "comments": [],
+      "ancestorIds": [
+        "86CF7AB18A88432EB6F8DA2D1B57EEB7",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "86CF7AB18A88432EB6F8DA2D1B57EEB7"
+    },
+    "6EB9E5024CE9479DB85F30A7A2A5EDE0": {
+      "id": "6EB9E5024CE9479DB85F30A7A2A5EDE0",
+      "asnIdentifier": null,
+      "position": 158000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.7.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the use of search engines on the internet.",
+      "comments": [],
+      "ancestorIds": [
+        "86CF7AB18A88432EB6F8DA2D1B57EEB7",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "86CF7AB18A88432EB6F8DA2D1B57EEB7"
+    },
+    "86CF7AB18A88432EB6F8DA2D1B57EEB7": {
+      "id": "86CF7AB18A88432EB6F8DA2D1B57EEB7",
+      "asnIdentifier": null,
+      "position": 157000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "4.7.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Internet and Intranet",
+      "comments": [],
+      "ancestorIds": [
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "393B22FA367E4E11B948CC0A1CFCAA84"
+    },
+    "9B46D0F78E9F4694B8678C8E0345877E": {
+      "id": "9B46D0F78E9F4694B8678C8E0345877E",
+      "asnIdentifier": null,
+      "position": 156000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.7.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss the possible effects of expert systems on professional groups and the wider community.",
+      "comments": [],
+      "ancestorIds": [
+        "C26B2E39CD83419BAD9706D8EA9B7B46",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "C26B2E39CD83419BAD9706D8EA9B7B46"
+    },
+    "C26B2E39CD83419BAD9706D8EA9B7B46": {
+      "id": "C26B2E39CD83419BAD9706D8EA9B7B46",
+      "asnIdentifier": null,
+      "position": 155000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "4.7.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Expert systems",
+      "comments": [],
+      "ancestorIds": [
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "393B22FA367E4E11B948CC0A1CFCAA84"
+    },
+    "5A05EB3FD83343989AB0658BF6C428CF": {
+      "id": "5A05EB3FD83343989AB0658BF6C428CF",
+      "asnIdentifier": null,
+      "position": 154000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.7.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the benefits and implications of automation.",
+      "comments": [],
+      "ancestorIds": [
+        "9325B493DF8B4D33ADF14CBCB91E356A",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "9325B493DF8B4D33ADF14CBCB91E356A"
+    },
+    "1881774A58344FB68DC0559493E5B4BF": {
+      "id": "1881774A58344FB68DC0559493E5B4BF",
+      "asnIdentifier": null,
+      "position": 153000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.7.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the nature and scope of computer control and automation.",
+      "comments": [],
+      "ancestorIds": [
+        "9325B493DF8B4D33ADF14CBCB91E356A",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "9325B493DF8B4D33ADF14CBCB91E356A"
+    },
+    "9325B493DF8B4D33ADF14CBCB91E356A": {
+      "id": "9325B493DF8B4D33ADF14CBCB91E356A",
+      "asnIdentifier": null,
+      "position": 152000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "4.7.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Control systems",
+      "comments": [],
+      "ancestorIds": [
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "393B22FA367E4E11B948CC0A1CFCAA84"
+    },
+    "526F0EDD2F074A2EA94FAFA79C236196": {
+      "id": "526F0EDD2F074A2EA94FAFA79C236196",
+      "asnIdentifier": null,
+      "position": 151000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.7.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that some computer applications are safety related and require a high level of dependability, and hence that the development of safety critical systems is a highly specialised field.",
+      "comments": [],
+      "ancestorIds": [
+        "D335EE7F94704C3198EA355E9F8AF7C2",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "D335EE7F94704C3198EA355E9F8AF7C2"
+    },
+    "D335EE7F94704C3198EA355E9F8AF7C2": {
+      "id": "D335EE7F94704C3198EA355E9F8AF7C2",
+      "asnIdentifier": null,
+      "position": 150000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.7.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Safety related systems",
+      "comments": [],
+      "ancestorIds": [
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "393B22FA367E4E11B948CC0A1CFCAA84"
+    },
+    "85A6997C27CC4F188F305B0D2CBD3FE6": {
+      "id": "85A6997C27CC4F188F305B0D2CBD3FE6",
+      "asnIdentifier": null,
+      "position": 149000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.7.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the use of a range of types of software including safety related, control, expert, wide and local area information exchange systems.",
+      "comments": [],
+      "ancestorIds": [
+        "5E1665630B5D45879814994E107FA20B",
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "5E1665630B5D45879814994E107FA20B"
+    },
+    "5E1665630B5D45879814994E107FA20B": {
+      "id": "5E1665630B5D45879814994E107FA20B",
+      "asnIdentifier": null,
+      "position": 148000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.7.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Types of software",
+      "comments": [],
+      "ancestorIds": [
+        "393B22FA367E4E11B948CC0A1CFCAA84",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "393B22FA367E4E11B948CC0A1CFCAA84"
+    },
+    "393B22FA367E4E11B948CC0A1CFCAA84": {
+      "id": "393B22FA367E4E11B948CC0A1CFCAA84",
+      "asnIdentifier": null,
+      "position": 147000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "4.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The need for different types of software systems and their attributes",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "7DCA33B4467A4DA3B12450E82332A750": {
+      "id": "7DCA33B4467A4DA3B12450E82332A750",
+      "asnIdentifier": null,
+      "position": 146000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.6.D.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the role of time-slicing, polling and threading.",
+      "comments": [],
+      "ancestorIds": [
+        "1A0FCFCA495944BD978FFBA072680EED",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "1A0FCFCA495944BD978FFBA072680EED"
+    },
+    "45D6FA8B16304BA18E6D0C1D09BC1151": {
+      "id": "45D6FA8B16304BA18E6D0C1D09BC1151",
+      "asnIdentifier": null,
+      "position": 145000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.6.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the three basic states of a process: running, ready and blocked.",
+      "comments": [],
+      "ancestorIds": [
+        "1A0FCFCA495944BD978FFBA072680EED",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "1A0FCFCA495944BD978FFBA072680EED"
+    },
+    "45F2F18A160A419187610926FBA74034": {
+      "id": "45F2F18A160A419187610926FBA74034",
+      "asnIdentifier": null,
+      "position": 144000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.6.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the principles of high level scheduling: processor allocation, allocation of devices and the significance of job priorities.",
+      "comments": [],
+      "ancestorIds": [
+        "1A0FCFCA495944BD978FFBA072680EED",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "1A0FCFCA495944BD978FFBA072680EED"
+    },
+    "1A0FCFCA495944BD978FFBA072680EED": {
+      "id": "1A0FCFCA495944BD978FFBA072680EED",
+      "asnIdentifier": null,
+      "position": 143000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "4.6.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Scheduling",
+      "comments": [],
+      "ancestorIds": [
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "04CCAD1E44DA40689FFF7341A9A4D73D"
+    },
+    "0237D9AEE8174690AF89883A5021443B": {
+      "id": "0237D9AEE8174690AF89883A5021443B",
+      "asnIdentifier": null,
+      "position": 142000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.6.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe buffering and explain why double buffering is used.",
+      "comments": [],
+      "ancestorIds": [
+        "11F3FD1AD398483284C3F701A919D3DF",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "11F3FD1AD398483284C3F701A919D3DF"
+    },
+    "20AE5669D51348D3AC0735BE5851F884": {
+      "id": "20AE5669D51348D3AC0735BE5851F884",
+      "asnIdentifier": null,
+      "position": 141000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.6.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe methods of data transfer including the use of buffers to allow for differences in speed of devices.",
+      "comments": [],
+      "ancestorIds": [
+        "11F3FD1AD398483284C3F701A919D3DF",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "11F3FD1AD398483284C3F701A919D3DF"
+    },
+    "BC86886B1BDD425C9F5C1B8DC294EE2B": {
+      "id": "BC86886B1BDD425C9F5C1B8DC294EE2B",
+      "asnIdentifier": null,
+      "position": 140000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.6.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the reasons for, and possible consequences of, partitioning of main memory.",
+      "comments": [],
+      "ancestorIds": [
+        "11F3FD1AD398483284C3F701A919D3DF",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "11F3FD1AD398483284C3F701A919D3DF"
+    },
+    "11F3FD1AD398483284C3F701A919D3DF": {
+      "id": "11F3FD1AD398483284C3F701A919D3DF",
+      "asnIdentifier": null,
+      "position": 139000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "4.6.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Memory management and buffering",
+      "comments": [],
+      "ancestorIds": [
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "04CCAD1E44DA40689FFF7341A9A4D73D"
+    },
+    "E443E5A7A0C84913AEBE3DD7518537EA": {
+      "id": "E443E5A7A0C84913AEBE3DD7518537EA",
+      "asnIdentifier": null,
+      "position": 138000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.6.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the factors involved in allocating differing priorities.",
+      "comments": [],
+      "ancestorIds": [
+        "6C0F6ED6D01E489AA2815828B540360E",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "6C0F6ED6D01E489AA2815828B540360E"
+    },
+    "845C174C93F74D978633845782F12C9C": {
+      "id": "845C174C93F74D978633845782F12C9C",
+      "asnIdentifier": null,
+      "position": 137000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.6.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe interrupt handling and the use of priorities.",
+      "comments": [],
+      "ancestorIds": [
+        "6C0F6ED6D01E489AA2815828B540360E",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "6C0F6ED6D01E489AA2815828B540360E"
+    },
+    "78FDDDCEB1B64E77910F661F32BB8103": {
+      "id": "78FDDDCEB1B64E77910F661F32BB8103",
+      "asnIdentifier": null,
+      "position": 136000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.6.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe a range of conditions or events which could generate interrupts.",
+      "comments": [],
+      "ancestorIds": [
+        "6C0F6ED6D01E489AA2815828B540360E",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "6C0F6ED6D01E489AA2815828B540360E"
+    },
+    "6C0F6ED6D01E489AA2815828B540360E": {
+      "id": "6C0F6ED6D01E489AA2815828B540360E",
+      "asnIdentifier": null,
+      "position": 135000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interrupts",
+      "comments": [],
+      "ancestorIds": [
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "04CCAD1E44DA40689FFF7341A9A4D73D"
+    },
+    "D204ED3B33104CF78ED1B0143D2D9B92": {
+      "id": "D204ED3B33104CF78ED1B0143D2D9B92",
+      "asnIdentifier": null,
+      "position": 134000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.6.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the following types of system: batch, single-user (standalone), multi-user (multi-access), multi-tasking and multi-programming.",
+      "comments": [],
+      "ancestorIds": [
+        "E065DCA1BDEE445A857CC53A25C77B88",
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "E065DCA1BDEE445A857CC53A25C77B88"
+    },
+    "E065DCA1BDEE445A857CC53A25C77B88": {
+      "id": "E065DCA1BDEE445A857CC53A25C77B88",
+      "asnIdentifier": null,
+      "position": 133000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Types of operating system",
+      "comments": [],
+      "ancestorIds": [
+        "04CCAD1E44DA40689FFF7341A9A4D73D",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "04CCAD1E44DA40689FFF7341A9A4D73D"
+    },
+    "04CCAD1E44DA40689FFF7341A9A4D73D": {
+      "id": "04CCAD1E44DA40689FFF7341A9A4D73D",
+      "asnIdentifier": null,
+      "position": 132000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The operating system",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "E67486ABA4184E8B8017A7A2205FDBA5": {
+      "id": "E67486ABA4184E8B8017A7A2205FDBA5",
+      "asnIdentifier": null,
+      "position": 131000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.5.F.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe distributed databases and the advantages of such distribution.",
+      "comments": [],
+      "ancestorIds": [
+        "189A831ED38E4FCBB24177171BD04627",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "189A831ED38E4FCBB24177171BD04627"
+    },
+    "E75D2EA805724B9D8FDBAF2C3BCD18AE": {
+      "id": "E75D2EA805724B9D8FDBAF2C3BCD18AE",
+      "asnIdentifier": null,
+      "position": 130000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.5.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain that distribution can apply to both data and processing.",
+      "comments": [],
+      "ancestorIds": [
+        "189A831ED38E4FCBB24177171BD04627",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "189A831ED38E4FCBB24177171BD04627"
+    },
+    "189A831ED38E4FCBB24177171BD04627": {
+      "id": "189A831ED38E4FCBB24177171BD04627",
+      "asnIdentifier": null,
+      "position": 129000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "4.5.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Distributed systems",
+      "comments": [],
+      "ancestorIds": [
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8DE1F50527B5406FBB28303ABD2CBE1C"
+    },
+    "632852E1B0EC4EC29CAF97EAB188D4B0": {
+      "id": "632852E1B0EC4EC29CAF97EAB188D4B0",
+      "asnIdentifier": null,
+      "position": 128000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.5.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain what is meant by Big Data, predictive analytics, data warehousing and data mining.",
+      "comments": [],
+      "ancestorIds": [
+        "A776E45F21CB451381181B3FC7CD6630",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "A776E45F21CB451381181B3FC7CD6630"
+    },
+    "A776E45F21CB451381181B3FC7CD6630": {
+      "id": "A776E45F21CB451381181B3FC7CD6630",
+      "asnIdentifier": null,
+      "position": 127000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "4.5.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Data",
+      "comments": [],
+      "ancestorIds": [
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8DE1F50527B5406FBB28303ABD2CBE1C"
+    },
+    "9ADA5577931F4F879658884A21CF09EA": {
+      "id": "9ADA5577931F4F879658884A21CF09EA",
+      "asnIdentifier": null,
+      "position": 126000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.5.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of a database management system (DBMS) and data dictionaries.",
+      "comments": [],
+      "ancestorIds": [
+        "852D42C1B46F4F418FFF87C8508CE8C4",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "852D42C1B46F4F418FFF87C8508CE8C4"
+    },
+    "852D42C1B46F4F418FFF87C8508CE8C4": {
+      "id": "852D42C1B46F4F418FFF87C8508CE8C4",
+      "asnIdentifier": null,
+      "position": 125000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "4.5.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Database management \rsystems",
+      "comments": [],
+      "ancestorIds": [
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8DE1F50527B5406FBB28303ABD2CBE1C"
+    },
+    "574170DD1F0F4C4A8ED79B116FC84FE6": {
+      "id": "574170DD1F0F4C4A8ED79B116FC84FE6",
+      "asnIdentifier": null,
+      "position": 124000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.5.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct and run queries using Structured Query Language (SQL).",
+      "comments": [],
+      "ancestorIds": [
+        "1B3753ADE40743738BBA05B9B538C046",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "1B3753ADE40743738BBA05B9B538C046"
+    },
+    "B4A27B8B9A8F48DDB5D961FAA0A05ECC": {
+      "id": "B4A27B8B9A8F48DDB5D961FAA0A05ECC",
+      "asnIdentifier": null,
+      "position": 123000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.5.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of query languages.",
+      "comments": [],
+      "ancestorIds": [
+        "1B3753ADE40743738BBA05B9B538C046",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "1B3753ADE40743738BBA05B9B538C046"
+    },
+    "1B3753ADE40743738BBA05B9B538C046": {
+      "id": "1B3753ADE40743738BBA05B9B538C046",
+      "asnIdentifier": null,
+      "position": 122000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "4.5.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Searching data",
+      "comments": [],
+      "ancestorIds": [
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8DE1F50527B5406FBB28303ABD2CBE1C"
+    },
+    "9FB5E00C154D43099053D298C600210B": {
+      "id": "9FB5E00C154D43099053D298C600210B",
+      "asnIdentifier": null,
+      "position": 121000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.5.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and apply appropriate techniques for data validation and verification of data in databases.",
+      "comments": [],
+      "ancestorIds": [
+        "913419FB58954E00816A268B4F82F305",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "913419FB58954E00816A268B4F82F305"
+    },
+    "913419FB58954E00816A268B4F82F305": {
+      "id": "913419FB58954E00816A268B4F82F305",
+      "asnIdentifier": null,
+      "position": 120000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data validation and verification",
+      "comments": [],
+      "ancestorIds": [
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8DE1F50527B5406FBB28303ABD2CBE1C"
+    },
+    "5A5AAE83E1A446B48A9A86910E00F760": {
+      "id": "5A5AAE83E1A446B48A9A86910E00F760",
+      "asnIdentifier": null,
+      "position": 119000,
+      "depth": 3,
+      "listId": "v",
+      "statementNotation": "4.5.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how the data can be manipulated to provide the user with useful information.",
+      "comments": [],
+      "ancestorIds": [
+        "CA80E898773841FF9AC34A213699B005",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "CA80E898773841FF9AC34A213699B005"
+    },
+    "546A7F9F28234E5D92D1DB86CE3C3878": {
+      "id": "546A7F9F28234E5D92D1DB86CE3C3878",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "4.5.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and apply entity relationship modelling and use it to analyse problems.",
+      "comments": [],
+      "ancestorIds": [
+        "CA80E898773841FF9AC34A213699B005",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "CA80E898773841FF9AC34A213699B005"
+    },
+    "59DEEB33779C4CE38907A1D10E61FAC0": {
+      "id": "59DEEB33779C4CE38907A1D10E61FAC0",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.5.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Restructure data into third normal form.",
+      "comments": [],
+      "ancestorIds": [
+        "CA80E898773841FF9AC34A213699B005",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "CA80E898773841FF9AC34A213699B005"
+    },
+    "F77DA5858FB94765B06A4A25121B909A": {
+      "id": "F77DA5858FB94765B06A4A25121B909A",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.5.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain what is meant by relational database organisation and data normalisation (first, second and third normal forms).",
+      "comments": [],
+      "ancestorIds": [
+        "CA80E898773841FF9AC34A213699B005",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "CA80E898773841FF9AC34A213699B005"
+    },
+    "3B1B919B73EA4FF595A6006D63121E3A": {
+      "id": "3B1B919B73EA4FF595A6006D63121E3A",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.5.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain what is meant by data consistency, data redundancy and data independence.",
+      "comments": [],
+      "ancestorIds": [
+        "CA80E898773841FF9AC34A213699B005",
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "CA80E898773841FF9AC34A213699B005"
+    },
+    "CA80E898773841FF9AC34A213699B005": {
+      "id": "CA80E898773841FF9AC34A213699B005",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Databases and distributed systems",
+      "comments": [],
+      "ancestorIds": [
+        "8DE1F50527B5406FBB28303ABD2CBE1C",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8DE1F50527B5406FBB28303ABD2CBE1C"
+    },
+    "8DE1F50527B5406FBB28303ABD2CBE1C": {
+      "id": "8DE1F50527B5406FBB28303ABD2CBE1C",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Databases and distributed systems",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "A9D9A75D033D45EC9EF3DAE15FFAF8C6": {
+      "id": "A9D9A75D033D45EC9EF3DAE15FFAF8C6",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "4.4.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the techniques used to manage overflow and the need for file re-organisation.",
+      "comments": [],
+      "ancestorIds": [
+        "A4296E01CCC9414F80B918FE17B2C1A9",
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "A4296E01CCC9414F80B918FE17B2C1A9"
+    },
+    "2D1C9B22901F4BAB8B35E45DE81C61EE": {
+      "id": "2D1C9B22901F4BAB8B35E45DE81C61EE",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.4.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the use of multi-level indexes.",
+      "comments": [],
+      "ancestorIds": [
+        "A4296E01CCC9414F80B918FE17B2C1A9",
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "A4296E01CCC9414F80B918FE17B2C1A9"
+    },
+    "9EB69C469365449884ED2C7E8187FEA0": {
+      "id": "9EB69C469365449884ED2C7E8187FEA0",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.4.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare different hashing algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "A4296E01CCC9414F80B918FE17B2C1A9",
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "A4296E01CCC9414F80B918FE17B2C1A9"
+    },
+    "6D477C2E5F424B538E958DB71A04DE7E": {
+      "id": "6D477C2E5F424B538E958DB71A04DE7E",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.4.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of, and be able to use, a hashing algorithm.",
+      "comments": [],
+      "ancestorIds": [
+        "A4296E01CCC9414F80B918FE17B2C1A9",
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "A4296E01CCC9414F80B918FE17B2C1A9"
+    },
+    "A4296E01CCC9414F80B918FE17B2C1A9": {
+      "id": "A4296E01CCC9414F80B918FE17B2C1A9",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.4.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "File organisation",
+      "comments": [],
+      "ancestorIds": [
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "2A4E94F8A84B4455ADB6E74B48C17396"
+    },
+    "B6CF09879035404EBDCE7EF495889D79": {
+      "id": "B6CF09879035404EBDCE7EF495889D79",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.4.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how files may be created, organised, updated and processed by programs.",
+      "comments": [],
+      "ancestorIds": [
+        "F62B5ED855974A90A14250D89FD4E85F",
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "F62B5ED855974A90A14250D89FD4E85F"
+    },
+    "F62B5ED855974A90A14250D89FD4E85F": {
+      "id": "F62B5ED855974A90A14250D89FD4E85F",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "File design",
+      "comments": [],
+      "ancestorIds": [
+        "2A4E94F8A84B4455ADB6E74B48C17396",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "2A4E94F8A84B4455ADB6E74B48C17396"
+    },
+    "2A4E94F8A84B4455ADB6E74B48C17396": {
+      "id": "2A4E94F8A84B4455ADB6E74B48C17396",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Organisation and structure of data",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "196DA2A174354869B18868FF664B77AD": {
+      "id": "196DA2A174354869B18868FF664B77AD",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 3,
+      "listId": "viii",
+      "statementNotation": "4.3.A.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the causes of overflow and underflow.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "8E7336F314C34315BA8F9CC590F59310": {
+      "id": "8E7336F314C34315BA8F9CC590F59310",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 3,
+      "listId": "vii",
+      "statementNotation": "4.3.A.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and use shift functions: logical and arithmetic shifts. Interpret and apply shifts in algorithms and programs.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "966BD414C05F48C3B3C61A245FEC14E2": {
+      "id": "966BD414C05F48C3B3C61A245FEC14E2",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 3,
+      "listId": "vi",
+      "statementNotation": "4.3.A.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe truncation and rounding, and explain their effect upon accuracy.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "BB53F085274D4900B66D53F3B471234B": {
+      "id": "BB53F085274D4900B66D53F3B471234B",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 3,
+      "listId": "v",
+      "statementNotation": "4.3.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert between real number and floating point form.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "660A4BCDB29F45D4B11A0CB82FBC0FB7": {
+      "id": "660A4BCDB29F45D4B11A0CB82FBC0FB7",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "4.3.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "State the advantages and disadvantages of representing numbers in integer and floating point forms.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "9F3A5AB71B2741DD8C5580D5DC793CBF": {
+      "id": "9F3A5AB71B2741DD8C5580D5DC793CBF",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.3.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the nature and uses of floating point form.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "42F2682D0F39434BA1F4CC48CD963DD9": {
+      "id": "42F2682D0F39434BA1F4CC48CD963DD9",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.3.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the representation of positive and negative integers in a fixed-length store using both two’s complement, and sign and magnitude representation.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "067E8763146D437F9F6B0C76A081EF08": {
+      "id": "067E8763146D437F9F6B0C76A081EF08",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.3.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply binary arithmetic techniques.",
+      "comments": [],
+      "ancestorIds": [
+        "8D8FF13780494A79831F4CA5D14CCB86",
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8D8FF13780494A79831F4CA5D14CCB86"
+    },
+    "8D8FF13780494A79831F4CA5D14CCB86": {
+      "id": "8D8FF13780494A79831F4CA5D14CCB86",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Representation of numbers as bit patterns",
+      "comments": [],
+      "ancestorIds": [
+        "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "F91C1BFC4D804B1DB13AF0C4DB2ED06E"
+    },
+    "F91C1BFC4D804B1DB13AF0C4DB2ED06E": {
+      "id": "F91C1BFC4D804B1DB13AF0C4DB2ED06E",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data representation and data types",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "C9B833401348458C90E1021888655F2B": {
+      "id": "C9B833401348458C90E1021888655F2B",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.2.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the internet in terms of a world-wide communications infrastructure.",
+      "comments": [],
+      "ancestorIds": [
+        "B3070163CD744708A2A347E2337C0579",
+        "99F28BB06590433FA5A6DE9A2EFD3DD8",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "B3070163CD744708A2A347E2337C0579"
+    },
+    "BD4C9CF53A5E4C91B64CAB24834650D0": {
+      "id": "BD4C9CF53A5E4C91B64CAB24834650D0",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.2.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate lowest cost routes on a network.",
+      "comments": [],
+      "ancestorIds": [
+        "B3070163CD744708A2A347E2337C0579",
+        "99F28BB06590433FA5A6DE9A2EFD3DD8",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "B3070163CD744708A2A347E2337C0579"
+    },
+    "204D9B51B9754E4AA821E25687D1DBD8": {
+      "id": "204D9B51B9754E4AA821E25687D1DBD8",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.2.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate data transfer rates on a network.",
+      "comments": [],
+      "ancestorIds": [
+        "B3070163CD744708A2A347E2337C0579",
+        "99F28BB06590433FA5A6DE9A2EFD3DD8",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "B3070163CD744708A2A347E2337C0579"
+    },
+    "B3070163CD744708A2A347E2337C0579": {
+      "id": "B3070163CD744708A2A347E2337C0579",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communication networks",
+      "comments": [],
+      "ancestorIds": [
+        "99F28BB06590433FA5A6DE9A2EFD3DD8",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "99F28BB06590433FA5A6DE9A2EFD3DD8"
+    },
+    "99F28BB06590433FA5A6DE9A2EFD3DD8": {
+      "id": "99F28BB06590433FA5A6DE9A2EFD3DD8",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data transmission",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "8EFF5F36FAD848FF9D9A9E272BC729BD": {
+      "id": "8EFF5F36FAD848FF9D9A9E272BC729BD",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.1.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the hardware required to make a wireless connection and explain how this might be achieved using contemporary wireless technologies.",
+      "comments": [],
+      "ancestorIds": [
+        "14CD7440DBE047FB82D76F097C82CA26",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "14CD7440DBE047FB82D76F097C82CA26"
+    },
+    "B1DC656E26314AFA951BC3E9E587433D": {
+      "id": "B1DC656E26314AFA951BC3E9E587433D",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.1.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and describe applications where connecting a portable device to a network is required.",
+      "comments": [],
+      "ancestorIds": [
+        "14CD7440DBE047FB82D76F097C82CA26",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "14CD7440DBE047FB82D76F097C82CA26"
+    },
+    "14CD7440DBE047FB82D76F097C82CA26": {
+      "id": "14CD7440DBE047FB82D76F097C82CA26",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "4.1.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networking",
+      "comments": [],
+      "ancestorIds": [
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "9E4E6B29212349FDA670BE0D096EEE03"
+    },
+    "2CBBFC1D67D245B6B97A1FA08B714B12": {
+      "id": "2CBBFC1D67D245B6B97A1FA08B714B12",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.1.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and differentiate between voice input for command and control systems to operate a computer system, vocabulary dictation systems for general input and voice print recognition for security. Discuss the suitability of each system in different situations.",
+      "comments": [],
+      "ancestorIds": [
+        "E5FC2494C23C429A9173419E8290A230",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "E5FC2494C23C429A9173419E8290A230"
+    },
+    "E5FC2494C23C429A9173419E8290A230": {
+      "id": "E5FC2494C23C429A9173419E8290A230",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "4.1.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Input / output",
+      "comments": [],
+      "ancestorIds": [
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "9E4E6B29212349FDA670BE0D096EEE03"
+    },
+    "FF537BBC99614195A3B7A020549865A8": {
+      "id": "FF537BBC99614195A3B7A020549865A8",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.1.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write simple programs in assembly language and demonstrate how these programs could be executed.",
+      "comments": [],
+      "ancestorIds": [
+        "2B3DE3E75F834C74B4A9DE48FB4423E4",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "2B3DE3E75F834C74B4A9DE48FB4423E4"
+    },
+    "2B3DE3E75F834C74B4A9DE48FB4423E4": {
+      "id": "2B3DE3E75F834C74B4A9DE48FB4423E4",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "4.1.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Assembly language programming",
+      "comments": [],
+      "ancestorIds": [
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "9E4E6B29212349FDA670BE0D096EEE03"
+    },
+    "86BED2E4806F4EDC9CFD8FDE669F9628": {
+      "id": "86BED2E4806F4EDC9CFD8FDE669F9628",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "4.1.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Calculate the runtime of given tasks as a result of parallelisation and evaluate the effect of parallelisation.",
+      "comments": [],
+      "ancestorIds": [
+        "FB7557F3031A4BC8B12FD2B69FBD9607",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "FB7557F3031A4BC8B12FD2B69FBD9607"
+    },
+    "A60F65FD93FF4675B0C878AA6E1BF985": {
+      "id": "A60F65FD93FF4675B0C878AA6E1BF985",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "4.1.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and explain the limiting factors to parallelisation in parallel processing.",
+      "comments": [],
+      "ancestorIds": [
+        "FB7557F3031A4BC8B12FD2B69FBD9607",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "FB7557F3031A4BC8B12FD2B69FBD9607"
+    },
+    "8F069D4F198F407397BEDC892ACA02A7": {
+      "id": "8F069D4F198F407397BEDC892ACA02A7",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "4.1.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and describe the main components of contemporary computer architecture.",
+      "comments": [],
+      "ancestorIds": [
+        "FB7557F3031A4BC8B12FD2B69FBD9607",
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "FB7557F3031A4BC8B12FD2B69FBD9607"
+    },
+    "FB7557F3031A4BC8B12FD2B69FBD9607": {
+      "id": "FB7557F3031A4BC8B12FD2B69FBD9607",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "4.1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Architecture",
+      "comments": [],
+      "ancestorIds": [
+        "9E4E6B29212349FDA670BE0D096EEE03",
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "9E4E6B29212349FDA670BE0D096EEE03"
+    },
+    "9E4E6B29212349FDA670BE0D096EEE03": {
+      "id": "9E4E6B29212349FDA670BE0D096EEE03",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hardware and communication",
+      "comments": [],
+      "ancestorIds": [
+        "8142033767A04B95915F3ADB4A9AA60A"
+      ],
+      "parentId": "8142033767A04B95915F3ADB4A9AA60A"
+    },
+    "8142033767A04B95915F3ADB4A9AA60A": {
+      "id": "8142033767A04B95915F3ADB4A9AA60A",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unit 4",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DC12DE439FF748C89D1AD28C16742610": {
+      "id": "DC12DE439FF748C89D1AD28C16742610",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.9.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the role of codes of conduct in promoting professional behaviour.",
+      "comments": [],
+      "ancestorIds": [
+        "B1F2C8E9765C4B218A8F05DD0B11C2EC",
+        "17CB575528E74958ABC71608AD6FAA4F",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "B1F2C8E9765C4B218A8F05DD0B11C2EC"
+    },
+    "B1F2C8E9765C4B218A8F05DD0B11C2EC": {
+      "id": "B1F2C8E9765C4B218A8F05DD0B11C2EC",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.9.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professional behaviour",
+      "comments": [],
+      "ancestorIds": [
+        "17CB575528E74958ABC71608AD6FAA4F",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "17CB575528E74958ABC71608AD6FAA4F"
+    },
+    "17CB575528E74958ABC71608AD6FAA4F": {
+      "id": "17CB575528E74958ABC71608AD6FAA4F",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Economic, moral, legal, ethical and cultural issues relating to computer science",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "5EFD5E7D8A494E13A3FCD1D86FA76AB5": {
+      "id": "5EFD5E7D8A494E13A3FCD1D86FA76AB5",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.8.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Distinguish between and give examples of translation and execution errors.",
+      "comments": [],
+      "ancestorIds": [
+        "2086E1E185E34200BF9483F87F38D1B5",
+        "7E3CF09BEEE94782AF9E38EE94F2027B",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "2086E1E185E34200BF9483F87F38D1B5"
+    },
+    "D032904E2EF34B1DA3D96C941AAE59F7": {
+      "id": "D032904E2EF34B1DA3D96C941AAE59F7",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.8.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the purpose and give examples of the use of compilers, interpreters and assemblers, and distinguish between them.",
+      "comments": [],
+      "ancestorIds": [
+        "2086E1E185E34200BF9483F87F38D1B5",
+        "7E3CF09BEEE94782AF9E38EE94F2027B",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "2086E1E185E34200BF9483F87F38D1B5"
+    },
+    "5467801DBAC84EC4B483E21352D507E3": {
+      "id": "5467801DBAC84EC4B483E21352D507E3",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.8.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the function of translation programs in making source programs executable by the computer.",
+      "comments": [],
+      "ancestorIds": [
+        "2086E1E185E34200BF9483F87F38D1B5",
+        "7E3CF09BEEE94782AF9E38EE94F2027B",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "2086E1E185E34200BF9483F87F38D1B5"
+    },
+    "2086E1E185E34200BF9483F87F38D1B5": {
+      "id": "2086E1E185E34200BF9483F87F38D1B5",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.8.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compilers, interpreters and assemblers",
+      "comments": [],
+      "ancestorIds": [
+        "7E3CF09BEEE94782AF9E38EE94F2027B",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "7E3CF09BEEE94782AF9E38EE94F2027B"
+    },
+    "7E3CF09BEEE94782AF9E38EE94F2027B": {
+      "id": "7E3CF09BEEE94782AF9E38EE94F2027B",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 1,
+      "listId": "8",
+      "statementNotation": "3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Program construction",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "08E7A0F27F954FB39EBDAF7989D0732B": {
+      "id": "08E7A0F27F954FB39EBDAF7989D0732B",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.7.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain program version management.",
+      "comments": [],
+      "ancestorIds": [
+        "03B83168B7E24CBB98472236B413DF24",
+        "64DF7547279F46469DC5759075034820",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "03B83168B7E24CBB98472236B413DF24"
+    },
+    "6FA072264E9A46299EBB62B42A2B4D7D": {
+      "id": "6FA072264E9A46299EBB62B42A2B4D7D",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.7.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the role of appropriate software packages in systems analysis, systems specification, systems design and testing.",
+      "comments": [],
+      "ancestorIds": [
+        "03B83168B7E24CBB98472236B413DF24",
+        "64DF7547279F46469DC5759075034820",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "03B83168B7E24CBB98472236B413DF24"
+    },
+    "029945BCF55D41DBBD963FA856CEAE14": {
+      "id": "029945BCF55D41DBBD963FA856CEAE14",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.7.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the types of software tool that have been designed to assist the software engineering process.",
+      "comments": [],
+      "ancestorIds": [
+        "03B83168B7E24CBB98472236B413DF24",
+        "64DF7547279F46469DC5759075034820",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "03B83168B7E24CBB98472236B413DF24"
+    },
+    "03B83168B7E24CBB98472236B413DF24": {
+      "id": "03B83168B7E24CBB98472236B413DF24",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.7.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software tools",
+      "comments": [],
+      "ancestorIds": [
+        "64DF7547279F46469DC5759075034820",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "64DF7547279F46469DC5759075034820"
+    },
+    "64DF7547279F46469DC5759075034820": {
+      "id": "64DF7547279F46469DC5759075034820",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 1,
+      "listId": "7",
+      "statementNotation": "3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software engineering",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "18A7E897625F4F67931C4B6CEBBFD056": {
+      "id": "18A7E897625F4F67931C4B6CEBBFD056",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.6.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe criteria for the evaluation of computer based solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "9D15A81B90E14AA8B0537E65F9612890",
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "9D15A81B90E14AA8B0537E65F9612890"
+    },
+    "9D15A81B90E14AA8B0537E65F9612890": {
+      "id": "9D15A81B90E14AA8B0537E65F9612890",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "3.6.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design evaluation",
+      "comments": [],
+      "ancestorIds": [
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "501CF6F5EAC24C04A63198AA12321233"
+    },
+    "7A054FDE8E904379BE653A054C6DF4AE": {
+      "id": "7A054FDE8E904379BE653A054C6DF4AE",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.6.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the need for a design review to: check the correspondence between a design and its specification; confirm that the most appropriate techniques have been used; confirm that the user interface is appropriate.",
+      "comments": [],
+      "ancestorIds": [
+        "1E265455F7BB44A8AFE4CF82C6EC0CE1",
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "1E265455F7BB44A8AFE4CF82C6EC0CE1"
+    },
+    "1E265455F7BB44A8AFE4CF82C6EC0CE1": {
+      "id": "1E265455F7BB44A8AFE4CF82C6EC0CE1",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "3.6.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design validation",
+      "comments": [],
+      "ancestorIds": [
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "501CF6F5EAC24C04A63198AA12321233"
+    },
+    "1D8FDC52DAC34D93BCAC83E5D5AAE3A3": {
+      "id": "1D8FDC52DAC34D93BCAC83E5D5AAE3A3",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.6.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the problems of ambiguity that can be associated with input that is spoken.",
+      "comments": [],
+      "ancestorIds": [
+        "1FA1EA2C505E4BC8BED1CD3D1D634449",
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "1FA1EA2C505E4BC8BED1CD3D1D634449"
+    },
+    "BB3B42B87FD04016B2C61BF48AF5942F": {
+      "id": "BB3B42B87FD04016B2C61BF48AF5942F",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.6.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the potential for a natural language interface.",
+      "comments": [],
+      "ancestorIds": [
+        "1FA1EA2C505E4BC8BED1CD3D1D634449",
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "1FA1EA2C505E4BC8BED1CD3D1D634449"
+    },
+    "FDDD6D92D87B4D089A30019893BCC849": {
+      "id": "FDDD6D92D87B4D089A30019893BCC849",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.6.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss contemporary approaches to the problem of communication with computers.",
+      "comments": [],
+      "ancestorIds": [
+        "1FA1EA2C505E4BC8BED1CD3D1D634449",
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "1FA1EA2C505E4BC8BED1CD3D1D634449"
+    },
+    "1FA1EA2C505E4BC8BED1CD3D1D634449": {
+      "id": "1FA1EA2C505E4BC8BED1CD3D1D634449",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.6.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Human-computer interaction",
+      "comments": [],
+      "ancestorIds": [
+        "501CF6F5EAC24C04A63198AA12321233",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "501CF6F5EAC24C04A63198AA12321233"
+    },
+    "501CF6F5EAC24C04A63198AA12321233": {
+      "id": "501CF6F5EAC24C04A63198AA12321233",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "System design",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "1DC63A4B73F84184BEF8D041770AE711": {
+      "id": "1DC63A4B73F84184BEF8D041770AE711",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.5.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain at which stage of the development which pieces of documentation would be produced.",
+      "comments": [],
+      "ancestorIds": [
+        "A2A0DEB3B2BE4855A01E7205245EA7D6",
+        "A89E2BD3FA274513A6D647121493B3FE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A2A0DEB3B2BE4855A01E7205245EA7D6"
+    },
+    "A2A0DEB3B2BE4855A01E7205245EA7D6": {
+      "id": "A2A0DEB3B2BE4855A01E7205245EA7D6",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "3.5.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Documentation",
+      "comments": [],
+      "ancestorIds": [
+        "A89E2BD3FA274513A6D647121493B3FE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A89E2BD3FA274513A6D647121493B3FE"
+    },
+    "B2C20608F8614ECFAEB7A6969ED49FC1": {
+      "id": "B2C20608F8614ECFAEB7A6969ED49FC1",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.5.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe different appropriate approaches to analysis and design, including Waterfall and Agile.",
+      "comments": [],
+      "ancestorIds": [
+        "799B153E2AB248A3B0CAAA097A94A75C",
+        "A89E2BD3FA274513A6D647121493B3FE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "799B153E2AB248A3B0CAAA097A94A75C"
+    },
+    "799B153E2AB248A3B0CAAA097A94A75C": {
+      "id": "799B153E2AB248A3B0CAAA097A94A75C",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.5.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approaches",
+      "comments": [],
+      "ancestorIds": [
+        "A89E2BD3FA274513A6D647121493B3FE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A89E2BD3FA274513A6D647121493B3FE"
+    },
+    "A89E2BD3FA274513A6D647121493B3FE": {
+      "id": "A89E2BD3FA274513A6D647121493B3FE",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systems analysis",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "B42622FACAFA415BBA96D0DD719E988B": {
+      "id": "B42622FACAFA415BBA96D0DD719E988B",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 3,
+      "listId": "v",
+      "statementNotation": "3.4.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret and use formal methods of expressing language syntax: syntax diagrams and Backus-Naur form (extended Backus-Naur form is not to be used).",
+      "comments": [],
+      "ancestorIds": [
+        "E112F0E65F474C6589DBAA48D826EF66",
+        "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "E112F0E65F474C6589DBAA48D826EF66"
+    },
+    "F3F46EEA3D2B47DA9BA085F1AC7B016A": {
+      "id": "F3F46EEA3D2B47DA9BA085F1AC7B016A",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "3.4.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify ambiguities in natural language and explain the need for computer languages to have an unambiguous syntax.",
+      "comments": [],
+      "ancestorIds": [
+        "E112F0E65F474C6589DBAA48D826EF66",
+        "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "E112F0E65F474C6589DBAA48D826EF66"
+    },
+    "8C4E15C2FA224F039C282EB6456374E0": {
+      "id": "8C4E15C2FA224F039C282EB6456374E0",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.4.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the need for the standardisation of computer languages, and the potential difficulties involved in agreeing and implementing standards.",
+      "comments": [],
+      "ancestorIds": [
+        "E112F0E65F474C6589DBAA48D826EF66",
+        "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "E112F0E65F474C6589DBAA48D826EF66"
+    },
+    "DC58D148811A4A46A2D37E6BCBD1EFCC": {
+      "id": "DC58D148811A4A46A2D37E6BCBD1EFCC",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.4.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the role of an object-oriented approach to programming and the relationship between object, class and method.",
+      "comments": [],
+      "ancestorIds": [
+        "E112F0E65F474C6589DBAA48D826EF66",
+        "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "E112F0E65F474C6589DBAA48D826EF66"
+    },
+    "F9B4212B499E485F9803AC7C3107B94A": {
+      "id": "F9B4212B499E485F9803AC7C3107B94A",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.4.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the nature and relative advantages of different programming paradigms, and identify possible situations where they may be used.",
+      "comments": [],
+      "ancestorIds": [
+        "E112F0E65F474C6589DBAA48D826EF66",
+        "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "E112F0E65F474C6589DBAA48D826EF66"
+    },
+    "E112F0E65F474C6589DBAA48D826EF66": {
+      "id": "E112F0E65F474C6589DBAA48D826EF66",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.4.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Principles of programming",
+      "comments": [],
+      "ancestorIds": [
+        "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "DDFEC8FBE6594A3CA8FDF69590A6E6EE"
+    },
+    "DDFEC8FBE6594A3CA8FDF69590A6E6EE": {
+      "id": "DDFEC8FBE6594A3CA8FDF69590A6E6EE",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Principles of programming",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "1D2EF53088414A5D9AF6776FDCB307A4": {
+      "id": "1D2EF53088414A5D9AF6776FDCB307A4",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.J.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Big O notation to determine the complexity and efficiency of given algorithms in terms of their execution time, their memory requirements and between algorithms that perform the same task.",
+      "comments": [],
+      "ancestorIds": [
+        "EE62B70AAB194F5B8A59A1623D8589A6",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "EE62B70AAB194F5B8A59A1623D8589A6"
+    },
+    "EE62B70AAB194F5B8A59A1623D8589A6": {
+      "id": "EE62B70AAB194F5B8A59A1623D8589A6",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "J",
+      "statementNotation": "3.3.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Comparing Algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "2AFFF77B1C554623B1CCB19211559660": {
+      "id": "2AFFF77B1C554623B1CCB19211559660",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.3.I.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of a given algorithm by showing the effects of test data.",
+      "comments": [],
+      "ancestorIds": [
+        "CF66CB46D8A5428790BD04ADFDFF1BD8",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "CF66CB46D8A5428790BD04ADFDFF1BD8"
+    },
+    "51661AEEE23847D2B8083B69049673B8": {
+      "id": "51661AEEE23847D2B8083B69049673B8",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.3.I.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Dry-run a program or algorithm in order to identify possible errors, including logical errors.",
+      "comments": [],
+      "ancestorIds": [
+        "CF66CB46D8A5428790BD04ADFDFF1BD8",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "CF66CB46D8A5428790BD04ADFDFF1BD8"
+    },
+    "87A9C28B2ABF46A2B3E83C934D480621": {
+      "id": "87A9C28B2ABF46A2B3E83C934D480621",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.I.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select appropriate test data to dry-run a program or algorithm in order to identify possible errors. (Including logical Errors - Unit 3)",
+      "comments": [],
+      "ancestorIds": [
+        "CF66CB46D8A5428790BD04ADFDFF1BD8",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "CF66CB46D8A5428790BD04ADFDFF1BD8"
+    },
+    "CF66CB46D8A5428790BD04ADFDFF1BD8": {
+      "id": "CF66CB46D8A5428790BD04ADFDFF1BD8",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "I",
+      "statementNotation": "3.3.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Testing",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "1E90260B9C874BDA8B2869A4BF1C9E2A": {
+      "id": "1E90260B9C874BDA8B2869A4BF1C9E2A",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.3.H.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and explain the efficiency of data compression algorithms in terms of compression ratio, compression time, decompression time and saving percentage.",
+      "comments": [],
+      "ancestorIds": [
+        "541D7D6520A8434A918AAC8E6D953852",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "541D7D6520A8434A918AAC8E6D953852"
+    },
+    "26326E03F98A42F1BC9E468B12E2CA73": {
+      "id": "26326E03F98A42F1BC9E468B12E2CA73",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.H.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain data compression and how data compression algorithms are used.",
+      "comments": [],
+      "ancestorIds": [
+        "541D7D6520A8434A918AAC8E6D953852",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "541D7D6520A8434A918AAC8E6D953852"
+    },
+    "541D7D6520A8434A918AAC8E6D953852": {
+      "id": "541D7D6520A8434A918AAC8E6D953852",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "H",
+      "statementNotation": "3.3.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compression",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "EFB4399A70BF4C1CBF765D4A13C564EB": {
+      "id": "EFB4399A70BF4C1CBF765D4A13C564EB",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.G.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write and interpret algorithms used in the traversal of data structures.",
+      "comments": [],
+      "ancestorIds": [
+        "CBD6007D1BA24B5F86335C7B927740E6",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "CBD6007D1BA24B5F86335C7B927740E6"
+    },
+    "CBD6007D1BA24B5F86335C7B927740E6": {
+      "id": "CBD6007D1BA24B5F86335C7B927740E6",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "G",
+      "statementNotation": "3.3.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Traversal of data structures",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "B717C16BEA8E456B89B0922CF09107A6": {
+      "id": "B717C16BEA8E456B89B0922CF09107A6",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.F.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify, use and explain logical operators in algorithms and programs, including NAND and NOR.",
+      "comments": [],
+      "ancestorIds": [
+        "F3BB10FD33D648B3A63A4F08CC87A4D6",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "F3BB10FD33D648B3A63A4F08CC87A4D6"
+    },
+    "F3BB10FD33D648B3A63A4F08CC87A4D6": {
+      "id": "F3BB10FD33D648B3A63A4F08CC87A4D6",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "F",
+      "statementNotation": "3.3.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Logical operations in algorithms and programs",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "381121FB189A40E398F2D7461E148844": {
+      "id": "381121FB189A40E398F2D7461E148844",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "3.3.E.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write search and sort algorithms and programs.",
+      "comments": [],
+      "ancestorIds": [
+        "FCBCF870A5B54A319F418F479EB04CCF",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "FCBCF870A5B54A319F418F479EB04CCF"
+    },
+    "79323EFC4E8A4406A2A420442387CBC4": {
+      "id": "79323EFC4E8A4406A2A420442387CBC4",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.3.E.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Follow search and sort algorithms and programs and make alterations to such algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "FCBCF870A5B54A319F418F479EB04CCF",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "FCBCF870A5B54A319F418F479EB04CCF"
+    },
+    "93104EF60A9744428C2FE89A85BDB2BF": {
+      "id": "93104EF60A9744428C2FE89A85BDB2BF",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.3.E.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Big O notation to determine the efficiency of linear and binary searches in terms of execution time and space requirements and to compare the efficiency of different searching algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "FCBCF870A5B54A319F418F479EB04CCF",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "FCBCF870A5B54A319F418F479EB04CCF"
+    },
+    "C60315C32D284F86B4280C8DF7C8E5CC": {
+      "id": "C60315C32D284F86B4280C8DF7C8E5CC",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.E.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and apply a shortest-path algorithm.",
+      "comments": [],
+      "ancestorIds": [
+        "FCBCF870A5B54A319F418F479EB04CCF",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "FCBCF870A5B54A319F418F479EB04CCF"
+    },
+    "FCBCF870A5B54A319F418F479EB04CCF": {
+      "id": "FCBCF870A5B54A319F418F479EB04CCF",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "E",
+      "statementNotation": "3.3.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Searching",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "1FBF82E3A0DF4ACBB394799764BDF5AE": {
+      "id": "1FBF82E3A0DF4ACBB394799764BDF5AE",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "3.3.D.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Big O notation to determine the efficiency of different sorting algorithms in terms of their time and space requirements and to compare the efficiency of different sorting algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "4FDE50BA3F544E4F8FF4BF9F840CA1A5",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "4FDE50BA3F544E4F8FF4BF9F840CA1A5"
+    },
+    "92BC858705B3441BB18E0852C11FCDF8": {
+      "id": "92BC858705B3441BB18E0852C11FCDF8",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.3.D.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the effect of storage space required, number of comparisons of data items, number of exchanges needed and number of passes through the data on the efficiency of a sorting algorithm.",
+      "comments": [],
+      "ancestorIds": [
+        "4FDE50BA3F544E4F8FF4BF9F840CA1A5",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "4FDE50BA3F544E4F8FF4BF9F840CA1A5"
+    },
+    "61978B3831B84BA6A493708658D8D98E": {
+      "id": "61978B3831B84BA6A493708658D8D98E",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.3.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the characteristics of sorting algorithms, including quicksort.",
+      "comments": [],
+      "ancestorIds": [
+        "4FDE50BA3F544E4F8FF4BF9F840CA1A5",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "4FDE50BA3F544E4F8FF4BF9F840CA1A5"
+    },
+    "4E6D1BA81C7A4C69B0E21F4B8DE00783": {
+      "id": "4E6D1BA81C7A4C69B0E21F4B8DE00783",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the need for a variety of sorting algorithms both recursive and non-recursive.",
+      "comments": [],
+      "ancestorIds": [
+        "4FDE50BA3F544E4F8FF4BF9F840CA1A5",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "4FDE50BA3F544E4F8FF4BF9F840CA1A5"
+    },
+    "4FDE50BA3F544E4F8FF4BF9F840CA1A5": {
+      "id": "4FDE50BA3F544E4F8FF4BF9F840CA1A5",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "D",
+      "statementNotation": "3.3.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sorting",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "C99969F2A4104707BEC93C483D8233DB": {
+      "id": "C99969F2A4104707BEC93C483D8233DB",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify, explain and apply appropriate techniques of validation and verification in algorithms and programs.",
+      "comments": [],
+      "ancestorIds": [
+        "C98F15A4451E47F389BD75827AD85B63",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C98F15A4451E47F389BD75827AD85B63"
+    },
+    "C98F15A4451E47F389BD75827AD85B63": {
+      "id": "C98F15A4451E47F389BD75827AD85B63",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "C",
+      "statementNotation": "3.3.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Validation and verification",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "FAC66D7D17FF49BD803DD20225336D93": {
+      "id": "FAC66D7D17FF49BD803DD20225336D93",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the use of recursion in algorithms and programs and consider the potential elegance of this approach.",
+      "comments": [],
+      "ancestorIds": [
+        "6E9DF26533BC478B8450D5A92AD982E2",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "6E9DF26533BC478B8450D5A92AD982E2"
+    },
+    "6E9DF26533BC478B8450D5A92AD982E2": {
+      "id": "6E9DF26533BC478B8450D5A92AD982E2",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "B",
+      "statementNotation": "3.3.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recursion",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "4C2DD52722CF4EBFB21B75A2EDC8EA1C": {
+      "id": "4C2DD52722CF4EBFB21B75A2EDC8EA1C",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.3.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the term algorithm and describe common methods of defining algorithms, including pseudo-code, flowcharts and structured English.",
+      "comments": [],
+      "ancestorIds": [
+        "A4FC5B57AD9B4C5692296DDA106FD396",
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A4FC5B57AD9B4C5692296DDA106FD396"
+    },
+    "A4FC5B57AD9B4C5692296DDA106FD396": {
+      "id": "A4FC5B57AD9B4C5692296DDA106FD396",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.3.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms and programs",
+      "comments": [],
+      "ancestorIds": [
+        "A87CF2E4E9154153B4EE2D5782AF3EB5",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "A87CF2E4E9154153B4EE2D5782AF3EB5"
+    },
+    "A87CF2E4E9154153B4EE2D5782AF3EB5": {
+      "id": "A87CF2E4E9154153B4EE2D5782AF3EB5",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms and programs",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "0A6D520C4BAB4D88816D9E728C3758BE": {
+      "id": "0A6D520C4BAB4D88816D9E728C3758BE",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.2.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simplify Boolean expressions using Boolean identities, rules and De Morgan’s laws.",
+      "comments": [],
+      "ancestorIds": [
+        "C8FB9EA314934D869C28F050872EC3DA",
+        "672BA68B1CBD48ED9508A4FBCB699036",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C8FB9EA314934D869C28F050872EC3DA"
+    },
+    "B81719EF70C847BDA15462403DD20134": {
+      "id": "B81719EF70C847BDA15462403DD20134",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.2.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply logical operations to combinations of conditions in programming, including clearing registers, masking and encryption.",
+      "comments": [],
+      "ancestorIds": [
+        "C8FB9EA314934D869C28F050872EC3DA",
+        "672BA68B1CBD48ED9508A4FBCB699036",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C8FB9EA314934D869C28F050872EC3DA"
+    },
+    "F7BF15B89AB14B6FB3A4B7BEA6B06379": {
+      "id": "F7BF15B89AB14B6FB3A4B7BEA6B06379",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.2.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw truth tables for Boolean expressions, including NAND and NOR logical operations.",
+      "comments": [],
+      "ancestorIds": [
+        "C8FB9EA314934D869C28F050872EC3DA",
+        "672BA68B1CBD48ED9508A4FBCB699036",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C8FB9EA314934D869C28F050872EC3DA"
+    },
+    "C8FB9EA314934D869C28F050872EC3DA": {
+      "id": "C8FB9EA314934D869C28F050872EC3DA",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.2.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Logical Operations",
+      "comments": [],
+      "ancestorIds": [
+        "672BA68B1CBD48ED9508A4FBCB699036",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "672BA68B1CBD48ED9508A4FBCB699036"
+    },
+    "672BA68B1CBD48ED9508A4FBCB699036": {
+      "id": "672BA68B1CBD48ED9508A4FBCB699036",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Logical Operations",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "DF09565D1D1641B7A5A3BBC87569FB13": {
+      "id": "DF09565D1D1641B7A5A3BBC87569FB13",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 3,
+      "listId": "iv",
+      "statementNotation": "3.1.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent the operation of linked lists and trees using pointers and arrays.",
+      "comments": [],
+      "ancestorIds": [
+        "C4C4ACA8A90C47A58D53984A1378E760",
+        "483F6151D0AB4EACA3543090C6C1EB5E",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C4C4ACA8A90C47A58D53984A1378E760"
+    },
+    "54AB8243F4EA44F1B169D3F3E6DBB848": {
+      "id": "54AB8243F4EA44F1B169D3F3E6DBB848",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 3,
+      "listId": "iii",
+      "statementNotation": "3.1.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent the operation of stacks and queues using pointers and arrays.",
+      "comments": [],
+      "ancestorIds": [
+        "C4C4ACA8A90C47A58D53984A1378E760",
+        "483F6151D0AB4EACA3543090C6C1EB5E",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C4C4ACA8A90C47A58D53984A1378E760"
+    },
+    "97EEEA37BEEC4035A9F1755236B6B6DA": {
+      "id": "97EEEA37BEEC4035A9F1755236B6B6DA",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 3,
+      "listId": "ii",
+      "statementNotation": "3.1.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the manipulation of arrays (up to three dimensions).",
+      "comments": [],
+      "ancestorIds": [
+        "C4C4ACA8A90C47A58D53984A1378E760",
+        "483F6151D0AB4EACA3543090C6C1EB5E",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C4C4ACA8A90C47A58D53984A1378E760"
+    },
+    "7A90EAE649A54A4F9A1B78D38A26E652": {
+      "id": "7A90EAE649A54A4F9A1B78D38A26E652",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "3.1.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe, interpret and manipulate data structures including arrays (up to three dimensions), stacks, queues, trees, linked lists and hash tables.",
+      "comments": [],
+      "ancestorIds": [
+        "C4C4ACA8A90C47A58D53984A1378E760",
+        "483F6151D0AB4EACA3543090C6C1EB5E",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "C4C4ACA8A90C47A58D53984A1378E760"
+    },
+    "C4C4ACA8A90C47A58D53984A1378E760": {
+      "id": "C4C4ACA8A90C47A58D53984A1378E760",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "A",
+      "statementNotation": "3.1.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data structures",
+      "comments": [],
+      "ancestorIds": [
+        "483F6151D0AB4EACA3543090C6C1EB5E",
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "483F6151D0AB4EACA3543090C6C1EB5E"
+    },
+    "483F6151D0AB4EACA3543090C6C1EB5E": {
+      "id": "483F6151D0AB4EACA3543090C6C1EB5E",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Structures",
+      "comments": [],
+      "ancestorIds": [
+        "5ED2A20E6C13465EB829930D7915DAF7"
+      ],
+      "parentId": "5ED2A20E6C13465EB829930D7915DAF7"
+    },
+    "5ED2A20E6C13465EB829930D7915DAF7": {
+      "id": "5ED2A20E6C13465EB829930D7915DAF7",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Unit 3",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

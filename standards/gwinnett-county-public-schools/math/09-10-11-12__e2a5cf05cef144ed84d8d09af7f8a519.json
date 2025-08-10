@@ -1,0 +1,1271 @@
+{
+  "id": "E2A5CF05CEF144ED84D8D09AF7F8A519",
+  "title": "Applications of Linear Algebra in Computer Science",
+  "subject": "Math",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://docs.google.com/spreadsheets/d/12DKBMxMRUj4sjx8zBfG9sYYt6am06P1lc6Vd7FkArHQ/edit?usp=sharing",
+    "title": "GCPS AKS_Curriculum"
+  },
+  "jurisdiction": {
+    "id": "AA0ABAE558D14AF590FC6F19D8A4D9A3",
+    "title": "Gwinnett County Public Schools"
+  },
+  "standards": {
+    "A30F6A4A97D14F11A09383856F3B812B": {
+      "id": "A30F6A4A97D14F11A09383856F3B812B",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.L.61",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.L.61: perform a machine learning lab on a large set of health care data that incorporates concepts of linear programming",
+      "comments": [],
+      "ancestorIds": [
+        "515E47C3FFFF4F16A79C16AC1945BD66",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "515E47C3FFFF4F16A79C16AC1945BD66"
+    },
+    "8DA33BD12EBE4B5187301F9AE6549672": {
+      "id": "8DA33BD12EBE4B5187301F9AE6549672",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.L.60",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.L.60: perform a Python lab to explore concepts of linear programming",
+      "comments": [],
+      "ancestorIds": [
+        "515E47C3FFFF4F16A79C16AC1945BD66",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "515E47C3FFFF4F16A79C16AC1945BD66"
+    },
+    "EAF5E98EFD104D1CA162E3626B61D141": {
+      "id": "EAF5E98EFD104D1CA162E3626B61D141",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.L.59",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.L.59: explore samples of linear programming cases including the diet problem, the vertices of polyhedra (polyhedral combinatorics), the simplex algorithm, game theory, nonzero-sum games, and compressed sensing for MRI imaging",
+      "comments": [],
+      "ancestorIds": [
+        "515E47C3FFFF4F16A79C16AC1945BD66",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "515E47C3FFFF4F16A79C16AC1945BD66"
+    },
+    "515E47C3FFFF4F16A79C16AC1945BD66": {
+      "id": "515E47C3FFFF4F16A79C16AC1945BD66",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 1,
+      "listId": "L",
+      "statementNotation": "MALACS.L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.L: Linear Programming",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "30F34FEF0238473BA8AB092593C462D3": {
+      "id": "30F34FEF0238473BA8AB092593C462D3",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "MALACS.K.58",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.58: utilize eigenvalues/vectors and single value decomposition to program face recognition software (Eigenfaces)",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "EFCA9C46CB044CD9AFA0CFB21007AD7F": {
+      "id": "EFCA9C46CB044CD9AFA0CFB21007AD7F",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "MALACS.K.57",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.57: connect use of the determinant and eigenvectors to code functionality of Google's PageRank search engine in Python",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "20AB9A22F5B940CCA46D35FABFC64ECF": {
+      "id": "20AB9A22F5B940CCA46D35FABFC64ECF",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MALACS.K.56",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.56: find the determinant, minors, and cofactors of a given matrix and use the determinant to find whether a given matrix is singular/non-singular; use determinant properties to characterize eigenvalues",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "8097E5FB06424244AE6B284492DF0A11": {
+      "id": "8097E5FB06424244AE6B284492DF0A11",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MALACS.K.55",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.55: discuss how Markov chains work to model various concepts such as population movement, dance patterns, literary documents, and Google's search engine PageRank",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "D1BF8D5475464263A5577ECD79837320": {
+      "id": "D1BF8D5475464263A5577ECD79837320",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MALACS.K.54",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.54: determine an orthogonal matrix that diagonalizes a given matrix",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "D25AADC43E134CBE8CA2FADFD63DEED5": {
+      "id": "D25AADC43E134CBE8CA2FADFD63DEED5",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.K.53",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.53: find the eigenvalues of a given symmetric matrix and find the dimension of the corresponding eigenspace",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "B1EAACFB263A4E59A8726B3FAAA4B247": {
+      "id": "B1EAACFB263A4E59A8726B3FAAA4B247",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.K.52",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.52: find a nonsingular matrix(D) for a given matrix (if one exists) such that D^-1AD is diagonal; find a basis for the domain of a linear transformation such that the matrix of the linear transformation relative to the basis is diagonal",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "5756B0EEB39B405D84F8DF314962F181": {
+      "id": "5756B0EEB39B405D84F8DF314962F181",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.K.51",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.51: find the characteristic equation and eigenvalues/corresponding eigenvectors of a given matrix and determine if the matrix is diagonizable/symmetric/orthogonal",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "D4413E07BF2743AD9506B472F4B80544": {
+      "id": "D4413E07BF2743AD9506B472F4B80544",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.K.50",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K.50: verify the eigenvalue/eigenvector of a given matrix while understanding the geometric interpretation and coordinate representation; connect to the Internet Worm case of 1988; perform eigen theorem proofs",
+      "comments": [],
+      "ancestorIds": [
+        "0A17DA9379324C968E611065518D90D1",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0A17DA9379324C968E611065518D90D1"
+    },
+    "0A17DA9379324C968E611065518D90D1": {
+      "id": "0A17DA9379324C968E611065518D90D1",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 1,
+      "listId": "K",
+      "statementNotation": "MALACS.K",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.K: The Eigenvalue/Eigenvector",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "6117943580EA4931BFAE3D3BAE824E6B": {
+      "id": "6117943580EA4931BFAE3D3BAE824E6B",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.J.49",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.J.49: define and demonstrate the Fourier transform connecting how a sound is stored as a sequence of amplitude samples and how the Fast Fourier Transform Algorithm is utilized/derived/coded",
+      "comments": [],
+      "ancestorIds": [
+        "11A8A37288BF494B8B67E4106146B598",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "11A8A37288BF494B8B67E4106146B598"
+    },
+    "02D6CFB99D47480BAC2178F6C30D4CEA": {
+      "id": "02D6CFB99D47480BAC2178F6C30D4CEA",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.J.48",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.J.48: understand how images and sounds can be represented as wavelets and the bases representation of wavelets as well as wavelet transformation, implementation, and decomposition, perform Python lab on using wavelets to perform file compression",
+      "comments": [],
+      "ancestorIds": [
+        "11A8A37288BF494B8B67E4106146B598",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "11A8A37288BF494B8B67E4106146B598"
+    },
+    "614C84F0C2C343819E0570CF32505A82": {
+      "id": "614C84F0C2C343819E0570CF32505A82",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.J.47",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.J.47: utilize compression by suppression to find the closest k-sparse vector coordinate representation in terms of an orthogonal basis",
+      "comments": [],
+      "ancestorIds": [
+        "11A8A37288BF494B8B67E4106146B598",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "11A8A37288BF494B8B67E4106146B598"
+    },
+    "11A8A37288BF494B8B67E4106146B598": {
+      "id": "11A8A37288BF494B8B67E4106146B598",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 1,
+      "listId": "J",
+      "statementNotation": "MALACS.J",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.J: Special Bases",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "715EBE2251514F6BA9D355710B4CDEFB": {
+      "id": "715EBE2251514F6BA9D355710B4CDEFB",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MALACS.I.46",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.I.46: define and perform QR factorization of a matrix to compute solutions to the matrix equation Ax=b; use to perform the application of least squares to find the line or curve of best fit (linear/quadratic) to approximate data in the industrial espionage problem/sensor node problem/machine learning problem",
+      "comments": [],
+      "ancestorIds": [
+        "F582346522B84A46B2303500960CB3B3",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F582346522B84A46B2303500960CB3B3"
+    },
+    "21167900E9A8446D93084E7628363176": {
+      "id": "21167900E9A8446D93084E7628363176",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.I.45",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.I.45: use orthogonalization to find the closest point in the span of many vectors, compute a basis/subset basis, direct sums of complements",
+      "comments": [],
+      "ancestorIds": [
+        "F582346522B84A46B2303500960CB3B3",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F582346522B84A46B2303500960CB3B3"
+    },
+    "EC05D9C40C50467D882258FC865BF4A6": {
+      "id": "EC05D9C40C50467D882258FC865BF4A6",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.I.44",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.I.44: given the solution space of a homogenous system of linear equations, find an orthonormal basis",
+      "comments": [],
+      "ancestorIds": [
+        "F582346522B84A46B2303500960CB3B3",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F582346522B84A46B2303500960CB3B3"
+    },
+    "40BF1606D815464CA922C5AB9A42061E": {
+      "id": "40BF1606D815464CA922C5AB9A42061E",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.I.43",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.I.43: find an orthogonal basis for a given basis/subspace/inner product space by applying the Gram-Schmidt orthonormalization process",
+      "comments": [],
+      "ancestorIds": [
+        "F582346522B84A46B2303500960CB3B3",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F582346522B84A46B2303500960CB3B3"
+    },
+    "69350B0A09A649E1AC84CDC9D10A28E6": {
+      "id": "69350B0A09A649E1AC84CDC9D10A28E6",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.I.42",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.I.42: determine if two given vectors/sets of vectors(complements)/subspaces are orthogonal, parallel, or neither; find the orthogonal component of a given subspace",
+      "comments": [],
+      "ancestorIds": [
+        "F582346522B84A46B2303500960CB3B3",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F582346522B84A46B2303500960CB3B3"
+    },
+    "F582346522B84A46B2303500960CB3B3": {
+      "id": "F582346522B84A46B2303500960CB3B3",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 1,
+      "listId": "I",
+      "statementNotation": "MALACS.I",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.I: Orthogonalization",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "3856CB0873CF495E8828E3928A1A0685": {
+      "id": "3856CB0873CF495E8828E3928A1A0685",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.H.41",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.H.41: understand how factoring integers can be performed using Euclid's algorithm and utilizing prime set factors in Python",
+      "comments": [],
+      "ancestorIds": [
+        "8E5754D4184140E5972C8225E9F37E99",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8E5754D4184140E5972C8225E9F37E99"
+    },
+    "5F70A663EF4B47F8AF26111E400F19D7": {
+      "id": "5F70A663EF4B47F8AF26111E400F19D7",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.H.40",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.H.40: understand how Threshold Secret Sharing works in conjunction with Gaussian Elimination through a programming lab in Python",
+      "comments": [],
+      "ancestorIds": [
+        "8E5754D4184140E5972C8225E9F37E99",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8E5754D4184140E5972C8225E9F37E99"
+    },
+    "EFCCEAE78B054389AEE6BB200AB3C7B8": {
+      "id": "EFCCEAE78B054389AEE6BB200AB3C7B8",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.H.39",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.H.39: solve systems of linear equations and finding the basis for a Null space by use of Gaussian Elimination, Gauss-Jordan Elimination, LU factorization, and Cramer's Rule; show how the simple authentication scheme can be attacked/improved over GF(2) using Guassian Elimination",
+      "comments": [],
+      "ancestorIds": [
+        "8E5754D4184140E5972C8225E9F37E99",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8E5754D4184140E5972C8225E9F37E99"
+    },
+    "BDCF2441B9A2462EB26E48F8C7CC2DC6": {
+      "id": "BDCF2441B9A2462EB26E48F8C7CC2DC6",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.H.38",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.H.38: use elementary row operations to create matrices in row-echelon and reduced row-echelon form",
+      "comments": [],
+      "ancestorIds": [
+        "8E5754D4184140E5972C8225E9F37E99",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8E5754D4184140E5972C8225E9F37E99"
+    },
+    "8E5754D4184140E5972C8225E9F37E99": {
+      "id": "8E5754D4184140E5972C8225E9F37E99",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "H",
+      "statementNotation": "MALACS.H",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.H: Gaussian Elimination",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "30AB4D7BAF9E4568B1226478EF0E8989": {
+      "id": "30AB4D7BAF9E4568B1226478EF0E8989",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "11",
+      "statementNotation": "MALACS.G.37",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.37: understand if a linear function is invertible utilizing the concept of dimension and determine if a function is onto or one-to-one; discuss in connection with Kernal-Image Theorem and Rank-Nullity Theorem, demonstrate using checksums",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "E0DA454C9E1B4319A42B7B179F68F721": {
+      "id": "E0DA454C9E1B4319A42B7B179F68F721",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "MALACS.G.36",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.36: utilize direct sum to add vector spaces and find the basis for the direct sum and understand if two subspaces are complementary",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "1A7FB53170764DE2B0D59E08E103DF75": {
+      "id": "1A7FB53170764DE2B0D59E08E103DF75",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "MALACS.G.35",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.35: discuss rank theorem and demonstrate its use via the Simple Authentication Schema in computer science",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "5CF2A943319F404389D06720F9EDEBF8": {
+      "id": "5CF2A943319F404389D06720F9EDEBF8",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "MALACS.G.34",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.34: define and determine the dimension and rank of a basis (and therefore vector space); use it to prove the Morphing Lemma and prove the Superset-Basis Lemma",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "A801259632EB4C2785327F9FFDB1BA8C": {
+      "id": "A801259632EB4C2785327F9FFDB1BA8C",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MALACS.G.33",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.33: connect the Exchange Lemma to the concept of camera image perspective rendering in a Python lab",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "FB201A33D28A4CBCB60D838E12FE8198": {
+      "id": "FB201A33D28A4CBCB60D838E12FE8198",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MALACS.G.32",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.32: find the transition matrix from one basis to another (i.e., change of basis)",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "4EB6E182D8AF4630BEB2C6B68C55CB40": {
+      "id": "4EB6E182D8AF4630BEB2C6B68C55CB40",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MALACS.G.31",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.31: determine whether a given set of vectors in a vector space forms a basis for that vector space and recognize standards bases in the vector spaces nth dimensional Euclidean space, the set of all polynomials of degree greater than or equal to n",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "42ACCB2125D3421690DFCD23865F0E49": {
+      "id": "42ACCB2125D3421690DFCD23865F0E49",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.G.30",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.30: demonstrate that every vector space has a basis and any finite set of vectors contains a basis for its span (e.g., Subset-Basis Lemma)",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "945188B759004F0B9B326C5A82BF7A6A": {
+      "id": "945188B759004F0B9B326C5A82BF7A6A",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.G.29",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.29: define what it means for vectors to be linearly dependent and linearly independent and define the Superfluous-Vector Lemma; perform tests of linear dependence",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "27136B89AD8C4534A4859577D3D308B6": {
+      "id": "27136B89AD8C4534A4859577D3D308B6",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.G.28",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.28: review the minimum spanning forest problem in GF(2) in connection with the Grow and Shrink Algorithms and how to formulate the problem in linear algebra",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "24C8B0E603F54F1BBFA57441FE7C652C": {
+      "id": "24C8B0E603F54F1BBFA57441FE7C652C",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.G.27",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G.27: define the coordinate representation of a basis and connect to lossy compression in computer science; find a basis for the column or row space of a matrix, and find a basis for and the dimension of the nullspace of a matrix",
+      "comments": [],
+      "ancestorIds": [
+        "4C54FF117A0A449ABFF5383682AEA22E",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "4C54FF117A0A449ABFF5383682AEA22E"
+    },
+    "4C54FF117A0A449ABFF5383682AEA22E": {
+      "id": "4C54FF117A0A449ABFF5383682AEA22E",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "G",
+      "statementNotation": "MALACS.G",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.G: The Basis and Dimension",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "A0E27DCAA1924D29A977BC34D73451B2": {
+      "id": "A0E27DCAA1924D29A977BC34D73451B2",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MALACS.F.26",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.26: program transformations in 2D geometry using Python and concepts of matrix operations",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "C5078BA582E94FAABB1F4D2165C5A4B8": {
+      "id": "C5078BA582E94FAABB1F4D2165C5A4B8",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MALACS.F.25",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.25: program error correcting code concepts such as Hamming's code using matrix operations",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "F245A72FD2F841A5BE0A6C0CBAEA3FFD": {
+      "id": "F245A72FD2F841A5BE0A6C0CBAEA3FFD",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MALACS.F.24",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.24: factor a given matrix into the product of two elementary matrices, find the adjoint of a matrix and use it to find the inverse of the matrix (understanding the conditions for invertibility) or solve a system of linear equations",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "AA0950D66F7241C6A178C88B15279525": {
+      "id": "AA0950D66F7241C6A178C88B15279525",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.F.23",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.23: define and understand what the null space is by connecting to concepts of homogenous linear systems/matrix equations, and error correcting codes such as linear codes and Hamming's code",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "2030AD93B9E3430EBD37D5412A460313": {
+      "id": "2030AD93B9E3430EBD37D5412A460313",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.F.22",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.22: perform matrix operations including transpose, addition, scaler multiplication, dot product, and multiplication; compute the inner and outer product",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "C033DFF7720D43D0A990E11CCEE5EA33": {
+      "id": "C033DFF7720D43D0A990E11CCEE5EA33",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.F.21",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.21: generate an augmented coefficient matrix from a system of linear equations",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "FFAD34C420764DCB9CBDBB0791D57AE3": {
+      "id": "FFAD34C420764DCB9CBDBB0791D57AE3",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.F.20",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F.20: review the structure of a matrix and composition of the identity matrix, determine the size, transpose, inverse, rank, and LU-factorization of a matrix; interpret matrices as vectors",
+      "comments": [],
+      "ancestorIds": [
+        "5A8E180A62C14AABA0A30FCE427630F8",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "5A8E180A62C14AABA0A30FCE427630F8"
+    },
+    "5A8E180A62C14AABA0A30FCE427630F8": {
+      "id": "5A8E180A62C14AABA0A30FCE427630F8",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "F",
+      "statementNotation": "MALACS.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.F: Matrices",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "06C6B518AA234EB1AAADA441A9819065": {
+      "id": "06C6B518AA234EB1AAADA441A9819065",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MALACS.E.19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E.19: determine if a linear combination is an affine combination and determine if an affine space exists by translating a vector space, represent and affine space as a solution set to a linear system",
+      "comments": [],
+      "ancestorIds": [
+        "99C51F2738BA4983A24F2EA300D39C51",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "99C51F2738BA4983A24F2EA300D39C51"
+    },
+    "35FD831B5ED74219AA4C8A588843DB19": {
+      "id": "35FD831B5ED74219AA4C8A588843DB19",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MALACS.E.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E.18: find whether a vector is a linear combination of a given finite set of vectors in a vector space and provide this linear combination",
+      "comments": [],
+      "ancestorIds": [
+        "99C51F2738BA4983A24F2EA300D39C51",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "99C51F2738BA4983A24F2EA300D39C51"
+    },
+    "67B3A6D7BE504D419CA55FEC404D9C1A": {
+      "id": "67B3A6D7BE504D419CA55FEC404D9C1A",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.E.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E.17: determine whether a provided subset of a vector space is a subspace and find the dimension of a subspace",
+      "comments": [],
+      "ancestorIds": [
+        "99C51F2738BA4983A24F2EA300D39C51",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "99C51F2738BA4983A24F2EA300D39C51"
+    },
+    "27D873CA3A3B4B0BAA92821C0239C37A": {
+      "id": "27D873CA3A3B4B0BAA92821C0239C37A",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.E.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E.16: determine if a given set of vectors in a vector space is a spanning set for that vector space and if they are linearly independent",
+      "comments": [],
+      "ancestorIds": [
+        "99C51F2738BA4983A24F2EA300D39C51",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "99C51F2738BA4983A24F2EA300D39C51"
+    },
+    "3A35CCFFB7F34CFAA93794B3D410EB16": {
+      "id": "3A35CCFFB7F34CFAA93794B3D410EB16",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.E.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E.15: define span and what it means for linear combinations to be a span of vectors; connect span to simple authentication schemes; understand the geometric depiction of the span of vectors over R and the geometry of solution sets of homogenous linear equations and systems; understand the geometric interpretations of R^2 and R^3",
+      "comments": [],
+      "ancestorIds": [
+        "99C51F2738BA4983A24F2EA300D39C51",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "99C51F2738BA4983A24F2EA300D39C51"
+    },
+    "AE476BD6C38544CDB645454961668CE7": {
+      "id": "AE476BD6C38544CDB645454961668CE7",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.E.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E.14: define and discuss uses of linear combinations and understand how to solve for coefficients or linear combinations, connect to programmed/solved lights out game",
+      "comments": [],
+      "ancestorIds": [
+        "99C51F2738BA4983A24F2EA300D39C51",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "99C51F2738BA4983A24F2EA300D39C51"
+    },
+    "99C51F2738BA4983A24F2EA300D39C51": {
+      "id": "99C51F2738BA4983A24F2EA300D39C51",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "MALACS.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.E: Vector Spaces",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "C8D079D057DF437DB7C42DEA33DFEBBC": {
+      "id": "C8D079D057DF437DB7C42DEA33DFEBBC",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MALACS.D.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.D.13: solve triangular systems of linear equations using upper-triangular systems, backward substitution, and other algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "0BC32A7DC91B4D29BEE45A223268E9BE",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0BC32A7DC91B4D29BEE45A223268E9BE"
+    },
+    "500520746D5248F996824A4426C06E86": {
+      "id": "500520746D5248F996824A4426C06E86",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MALACS.D.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.D.12: use the dot product to display the concept of simple authentication schemes and interacting with them, and performing a senator voting record analysis",
+      "comments": [],
+      "ancestorIds": [
+        "0BC32A7DC91B4D29BEE45A223268E9BE",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0BC32A7DC91B4D29BEE45A223268E9BE"
+    },
+    "2B761CBA56944B08AD1AE015A0BDFF39": {
+      "id": "2B761CBA56944B08AD1AE015A0BDFF39",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.D.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.D.11: connect use of vectors in Galois Field(2) by applying concepts of perfect secrecy, all-or-nothing secret sharing, and programming/solving lights out games",
+      "comments": [],
+      "ancestorIds": [
+        "0BC32A7DC91B4D29BEE45A223268E9BE",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0BC32A7DC91B4D29BEE45A223268E9BE"
+    },
+    "7F2334B8F2CF4BAB90709241681CCE27": {
+      "id": "7F2334B8F2CF4BAB90709241681CCE27",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.D.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.D.10: find the distance, its unit vector in the same or opposite direction, the projection of a vector onto a given vector or vector space, dot product, inner product, cross product, and angle between two vectors in Euclidean space",
+      "comments": [],
+      "ancestorIds": [
+        "0BC32A7DC91B4D29BEE45A223268E9BE",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0BC32A7DC91B4D29BEE45A223268E9BE"
+    },
+    "486CFEDA13E74E1D9FB5804905AE7A84": {
+      "id": "486CFEDA13E74E1D9FB5804905AE7A84",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.D.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.D.9: perform vector operations in R(n) including addition, scalar multiplication, and dot product; review concepts of convex and affine combinations; represent and perform these operations using dictionaries and the Vec.py class in Python",
+      "comments": [],
+      "ancestorIds": [
+        "0BC32A7DC91B4D29BEE45A223268E9BE",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "0BC32A7DC91B4D29BEE45A223268E9BE"
+    },
+    "0BC32A7DC91B4D29BEE45A223268E9BE": {
+      "id": "0BC32A7DC91B4D29BEE45A223268E9BE",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "MALACS.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.D: The Vector",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "036B82468E224CEBAC04BD6106DF1092": {
+      "id": "036B82468E224CEBAC04BD6106DF1092",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.C.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.C.8: work with the Galois Field to understand further concepts in perfect secrecy and network coding (i.e., providing efficiency in streaming services)",
+      "comments": [],
+      "ancestorIds": [
+        "DC40668FCE694DD18DDB34B068E199CA",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "DC40668FCE694DD18DDB34B068E199CA"
+    },
+    "AE2DB1409DF3468EBC1A2F02029E6A47": {
+      "id": "AE2DB1409DF3468EBC1A2F02029E6A47",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.C.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.C.7: understand how complex numbers connect to the unit circle and represent them in polar form; perform transformations in polar form and utilize Euler's formula/The First Law of Exponentiation to understand these transformations; connect to performing image transformation on a computer graphic program",
+      "comments": [],
+      "ancestorIds": [
+        "DC40668FCE694DD18DDB34B068E199CA",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "DC40668FCE694DD18DDB34B068E199CA"
+    },
+    "6F36499F5A2240BAB63CB64983E86BF0": {
+      "id": "6F36499F5A2240BAB63CB64983E86BF0",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.C.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.C.6: perform operations of complex number numbers (e.g., absolute value, adding, multiplying) and understand how they produce different transformations",
+      "comments": [],
+      "ancestorIds": [
+        "DC40668FCE694DD18DDB34B068E199CA",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "DC40668FCE694DD18DDB34B068E199CA"
+    },
+    "DC40668FCE694DD18DDB34B068E199CA": {
+      "id": "DC40668FCE694DD18DDB34B068E199CA",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "MALACS.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.C: The Complex Field",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "0D81011C03D8468981B9E0150ED1D3E5": {
+      "id": "0D81011C03D8468981B9E0150ED1D3E5",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MALACS.B.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.B.5: program input and output features to read from and write to files in Python",
+      "comments": [],
+      "ancestorIds": [
+        "F843412C5F2F4A5688BBBD72E43B0701",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F843412C5F2F4A5688BBBD72E43B0701"
+    },
+    "F1C3F5265B644D0895D0E3C0CBD5AD9D": {
+      "id": "F1C3F5265B644D0895D0E3C0CBD5AD9D",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.B.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.B.4: understand how to program and utilize modules and control statements (e.g., loops, conditionals, grouping) in Python",
+      "comments": [],
+      "ancestorIds": [
+        "F843412C5F2F4A5688BBBD72E43B0701",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F843412C5F2F4A5688BBBD72E43B0701"
+    },
+    "664DB04899214C84B38491265C21F4D3": {
+      "id": "664DB04899214C84B38491265C21F4D3",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.B.3: utilize sets, lists, dictionaries, comprehensions, indexing, and tuples in Python",
+      "comments": [],
+      "ancestorIds": [
+        "F843412C5F2F4A5688BBBD72E43B0701",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "F843412C5F2F4A5688BBBD72E43B0701"
+    },
+    "F843412C5F2F4A5688BBBD72E43B0701": {
+      "id": "F843412C5F2F4A5688BBBD72E43B0701",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "MALACS.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.B: Python Programming",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "5D79746F89C64BC685BA46325BA4327D": {
+      "id": "5D79746F89C64BC685BA46325BA4327D",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MALACS.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.A.2: review Python psuedo random number generation, calculating probability distribution and interpreting probability events through application of Caesar's Cypher and other examples of cryptosystems",
+      "comments": [],
+      "ancestorIds": [
+        "C3E6E2977FAC4334849FB8DC47156001",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "C3E6E2977FAC4334849FB8DC47156001"
+    },
+    "8CC26937815541B38020E7128BF96628": {
+      "id": "8CC26937815541B38020E7128BF96628",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MALACS.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.A.1: review function notation, domain/co-domain, identity/associativity, inverse/invertibility connecting to the computer science concept of perfect secrecy (i.e., encryption)",
+      "comments": [],
+      "ancestorIds": [
+        "C3E6E2977FAC4334849FB8DC47156001",
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "C3E6E2977FAC4334849FB8DC47156001"
+    },
+    "C3E6E2977FAC4334849FB8DC47156001": {
+      "id": "C3E6E2977FAC4334849FB8DC47156001",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "MALACS.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS.A: Functions and Linear Equations",
+      "comments": [],
+      "ancestorIds": [
+        "8552252B99564496854F5CD265B7032B"
+      ],
+      "parentId": "8552252B99564496854F5CD265B7032B"
+    },
+    "8552252B99564496854F5CD265B7032B": {
+      "id": "8552252B99564496854F5CD265B7032B",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "MALACS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MALACS: Applications of Linear Algebra in Computer Science",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

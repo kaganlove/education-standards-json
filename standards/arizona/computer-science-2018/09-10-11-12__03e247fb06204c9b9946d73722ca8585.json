@@ -1,0 +1,816 @@
+{
+  "id": "03E247FB06204C9B9946D73722CA8585",
+  "title": "High School",
+  "subject": "Computer Science (2018-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Arizona Computer Science Standards Adopted October 2018",
+    "sourceURL": "https://www.azed.gov/sites/default/files/2018/10/Arizona%20Computer%20Science%20Standards_Full_Final%2006.24.2019_0.pdf?id=5bc909eb1dcb2510102f55a1"
+  },
+  "jurisdiction": {
+    "id": "0B41FFF6B5114EB0B8A89CE0E70E22D8",
+    "title": "Arizona"
+  },
+  "standards": {
+    "A97EF8A33A98450393591B7035D25159": {
+      "id": "A97EF8A33A98450393591B7035D25159",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS.IC.SLE.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.",
+      "comments": [],
+      "ancestorIds": [
+        "C8F427970E4B4E8BB3C34886130B2A7F",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "C8F427970E4B4E8BB3C34886130B2A7F"
+    },
+    "EF3E9EF98507413BB4CF9841E4A44A11": {
+      "id": "EF3E9EF98507413BB4CF9841E4A44A11",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.IC.SLE.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the privacy concerns related to the collection and generation of data through automated processes that may not be\nevident to users.",
+      "comments": [],
+      "ancestorIds": [
+        "C8F427970E4B4E8BB3C34886130B2A7F",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "C8F427970E4B4E8BB3C34886130B2A7F"
+    },
+    "D425D745DD024239980E54FF71BFCC1E": {
+      "id": "D425D745DD024239980E54FF71BFCC1E",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.IC.SLE.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the beneficial and harmful effects that intellectual property laws can have on innovation.",
+      "comments": [],
+      "ancestorIds": [
+        "C8F427970E4B4E8BB3C34886130B2A7F",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "C8F427970E4B4E8BB3C34886130B2A7F"
+    },
+    "C8F427970E4B4E8BB3C34886130B2A7F": {
+      "id": "C8F427970E4B4E8BB3C34886130B2A7F",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.IC.SLE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Safety, Law, and Ethics (SLE)",
+      "comments": [],
+      "ancestorIds": [
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "3134A35D8CEF40EEB81689E81E980633"
+    },
+    "E8F0C82763904913B3EA08295FCD8AEA": {
+      "id": "E8F0C82763904913B3EA08295FCD8AEA",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.IC.SI.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the impact of collaborative tools and methods that increase social connectivity.",
+      "comments": [],
+      "ancestorIds": [
+        "EE542481A9FE4A65AD625F115BF199CC",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "EE542481A9FE4A65AD625F115BF199CC"
+    },
+    "EE542481A9FE4A65AD625F115BF199CC": {
+      "id": "EE542481A9FE4A65AD625F115BF199CC",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.IC.SI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Social Interactions (SI)",
+      "comments": [],
+      "ancestorIds": [
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "3134A35D8CEF40EEB81689E81E980633"
+    },
+    "851B2B8D8F8E40FD91D6294A786CFAB4": {
+      "id": "851B2B8D8F8E40FD91D6294A786CFAB4",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS.IC.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate ways a given algorithm applies to problems across disciplines.",
+      "comments": [],
+      "ancestorIds": [
+        "D2DF6615B08C48CE96A63DCEB40D20C5",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "D2DF6615B08C48CE96A63DCEB40D20C5"
+    },
+    "3CCF01DC537043CE8BC36988126D4D68": {
+      "id": "3CCF01DC537043CE8BC36988126D4D68",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.IC.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Test and refine computational artifacts to reduce bias and equity deficits.",
+      "comments": [],
+      "ancestorIds": [
+        "D2DF6615B08C48CE96A63DCEB40D20C5",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "D2DF6615B08C48CE96A63DCEB40D20C5"
+    },
+    "D45462DDE96E472B95D19C335FC9FD34": {
+      "id": "D45462DDE96E472B95D19C335FC9FD34",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.IC.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the ways access to computing impacts personal, ethical, social, economic, and cultural practices.",
+      "comments": [],
+      "ancestorIds": [
+        "D2DF6615B08C48CE96A63DCEB40D20C5",
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "D2DF6615B08C48CE96A63DCEB40D20C5"
+    },
+    "D2DF6615B08C48CE96A63DCEB40D20C5": {
+      "id": "D2DF6615B08C48CE96A63DCEB40D20C5",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.IC.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Culture (C)",
+      "comments": [],
+      "ancestorIds": [
+        "3134A35D8CEF40EEB81689E81E980633"
+      ],
+      "parentId": "3134A35D8CEF40EEB81689E81E980633"
+    },
+    "3134A35D8CEF40EEB81689E81E980633": {
+      "id": "3134A35D8CEF40EEB81689E81E980633",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "HS.IC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept: Impacts of Computing (IC)",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AF12A01DD7C64FE19F79AD1AE3B071B5": {
+      "id": "AF12A01DD7C64FE19F79AD1AE3B071B5",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS.AP.PD.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.",
+      "comments": [],
+      "ancestorIds": [
+        "1D85BEB02353422AB6B95AB137402437",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "1D85BEB02353422AB6B95AB137402437"
+    },
+    "742A951AFE36443BAA80DA3501CEAD21": {
+      "id": "742A951AFE36443BAA80DA3501CEAD21",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.AP.PD.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use team roles and collaborative tools to design and iteratively develop computational artifacts.",
+      "comments": [],
+      "ancestorIds": [
+        "1D85BEB02353422AB6B95AB137402437",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "1D85BEB02353422AB6B95AB137402437"
+    },
+    "5F0480C7FFAB408A9939EC76EF1CD608": {
+      "id": "5F0480C7FFAB408A9939EC76EF1CD608",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.AP.PD.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate and refine computational artifacts to make them more usable and accessible.",
+      "comments": [],
+      "ancestorIds": [
+        "1D85BEB02353422AB6B95AB137402437",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "1D85BEB02353422AB6B95AB137402437"
+    },
+    "1D85BEB02353422AB6B95AB137402437": {
+      "id": "1D85BEB02353422AB6B95AB137402437",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.AP.PD",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Program Development (PD)",
+      "comments": [],
+      "ancestorIds": [
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "95105189600F4D378267D073C1CC6036"
+    },
+    "56FD5C799DFB48EFA9CA1A3E0665E6C5": {
+      "id": "56FD5C799DFB48EFA9CA1A3E0665E6C5",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.AP.M.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use procedures within a program, combinations of data and procedures, or independent but interrelated programs to design and\niteratively develop computational artifacts. ",
+      "comments": [],
+      "ancestorIds": [
+        "676B3C44EB884AE9BB0142C172161055",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "676B3C44EB884AE9BB0142C172161055"
+    },
+    "C9A10E2A2EEA4FE1BF553BD432833D56": {
+      "id": "C9A10E2A2EEA4FE1BF553BD432833D56",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.AP.M.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decompose problems into smaller components using constructs such as procedures, modules, and/or objects.",
+      "comments": [],
+      "ancestorIds": [
+        "676B3C44EB884AE9BB0142C172161055",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "676B3C44EB884AE9BB0142C172161055"
+    },
+    "676B3C44EB884AE9BB0142C172161055": {
+      "id": "676B3C44EB884AE9BB0142C172161055",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.AP.M",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Modularity (M)",
+      "comments": [],
+      "ancestorIds": [
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "95105189600F4D378267D073C1CC6036"
+    },
+    "2444023A4ACA492CB0973FEEB5981E1C": {
+      "id": "2444023A4ACA492CB0973FEEB5981E1C",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.AP.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use events that initiate instructions to design and iteratively develop computational artifacts",
+      "comments": [],
+      "ancestorIds": [
+        "FE8D63DEB87D4CAC8337D2EF2A1BE7F8",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "FE8D63DEB87D4CAC8337D2EF2A1BE7F8"
+    },
+    "37F858AD58FB428B953ABF6168549C3C": {
+      "id": "37F858AD58FB428B953ABF6168549C3C",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.AP.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Justify the selection of specific control structures and explain the benefits and drawbacks of choices made, when tradeoffs involve\nreadability and program performance.",
+      "comments": [],
+      "ancestorIds": [
+        "FE8D63DEB87D4CAC8337D2EF2A1BE7F8",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "FE8D63DEB87D4CAC8337D2EF2A1BE7F8"
+    },
+    "FE8D63DEB87D4CAC8337D2EF2A1BE7F8": {
+      "id": "FE8D63DEB87D4CAC8337D2EF2A1BE7F8",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.AP.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Control (C)",
+      "comments": [],
+      "ancestorIds": [
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "95105189600F4D378267D073C1CC6036"
+    },
+    "34FE0E52A3F24C1FB9545EB987F47E2E": {
+      "id": "34FE0E52A3F24C1FB9545EB987F47E2E",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.AP.V.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.",
+      "comments": [],
+      "ancestorIds": [
+        "687DF8E0FC8E4A66A5752632019A1B4D",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "687DF8E0FC8E4A66A5752632019A1B4D"
+    },
+    "687DF8E0FC8E4A66A5752632019A1B4D": {
+      "id": "687DF8E0FC8E4A66A5752632019A1B4D",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.AP.V",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Variables (V)",
+      "comments": [],
+      "ancestorIds": [
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "95105189600F4D378267D073C1CC6036"
+    },
+    "606172D1ACDA48CCA1D0F9CB4229D030": {
+      "id": "606172D1ACDA48CCA1D0F9CB4229D030",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.AP.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create prototypes that use algorithms for practical intent, personal expression, or to address a societal issue",
+      "comments": [],
+      "ancestorIds": [
+        "B745375FB870421F8EEE2CD068EAAC0A",
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "B745375FB870421F8EEE2CD068EAAC0A"
+    },
+    "B745375FB870421F8EEE2CD068EAAC0A": {
+      "id": "B745375FB870421F8EEE2CD068EAAC0A",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.AP.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Algorithms (A)",
+      "comments": [],
+      "ancestorIds": [
+        "95105189600F4D378267D073C1CC6036"
+      ],
+      "parentId": "95105189600F4D378267D073C1CC6036"
+    },
+    "95105189600F4D378267D073C1CC6036": {
+      "id": "95105189600F4D378267D073C1CC6036",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "HS.AP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept: Algorithms and Programming (AP) ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6C1C5DB177E6463B99DA07923DCD6522": {
+      "id": "6C1C5DB177E6463B99DA07923DCD6522",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.DA.IM.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze computational models to better understand real-world phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "71891C3F17644F4EA2F40497114BF78B",
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "71891C3F17644F4EA2F40497114BF78B"
+    },
+    "71891C3F17644F4EA2F40497114BF78B": {
+      "id": "71891C3F17644F4EA2F40497114BF78B",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.DA.IM",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Inference and Models (IM)",
+      "comments": [],
+      "ancestorIds": [
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "6568933BAB2D46538E482D133852A2A4"
+    },
+    "E53D30370F4248C0AD0F967D2676E029": {
+      "id": "E53D30370F4248C0AD0F967D2676E029",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.DA.S.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the tradeoffs in how and where data is stored.",
+      "comments": [],
+      "ancestorIds": [
+        "28ED18F941FA4259ABA81A358FB8057A",
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "28ED18F941FA4259ABA81A358FB8057A"
+    },
+    "C9AA321F793D4C9097CDB738A5E9047A": {
+      "id": "C9AA321F793D4C9097CDB738A5E9047A",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.DA.S.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate between different bit representations of real-world phenomena, such as characters, numbers, and images.",
+      "comments": [],
+      "ancestorIds": [
+        "28ED18F941FA4259ABA81A358FB8057A",
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "28ED18F941FA4259ABA81A358FB8057A"
+    },
+    "28ED18F941FA4259ABA81A358FB8057A": {
+      "id": "28ED18F941FA4259ABA81A358FB8057A",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.DA.S",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Storage (S)",
+      "comments": [],
+      "ancestorIds": [
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "6568933BAB2D46538E482D133852A2A4"
+    },
+    "21236ABB1E0F4E44B2D4EDEE8F9FE1D8": {
+      "id": "21236ABB1E0F4E44B2D4EDEE8F9FE1D8",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.DA.CVT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create interactive data visualizations using software tools to help others better understand real-world phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "71203668C16F4172A23E8C779ED23E89",
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "71203668C16F4172A23E8C779ED23E89"
+    },
+    "71203668C16F4172A23E8C779ED23E89": {
+      "id": "71203668C16F4172A23E8C779ED23E89",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.DA.CVT",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Collection, Visualization and Transformation (CVT)",
+      "comments": [],
+      "ancestorIds": [
+        "6568933BAB2D46538E482D133852A2A4"
+      ],
+      "parentId": "6568933BAB2D46538E482D133852A2A4"
+    },
+    "6568933BAB2D46538E482D133852A2A4": {
+      "id": "6568933BAB2D46538E482D133852A2A4",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "HS.DA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept: Data and Analysis (DA) ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FED9B6334F874A15BEE5FE84DEB181A4": {
+      "id": "FED9B6334F874A15BEE5FE84DEB181A4",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.NI.NCO.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology, and\naddressing.",
+      "comments": [],
+      "ancestorIds": [
+        "83E43C2C56F54C0D8854E06C602FE6E8",
+        "A5F096A2D2D3421AB261B29DB09CE25A"
+      ],
+      "parentId": "83E43C2C56F54C0D8854E06C602FE6E8"
+    },
+    "83E43C2C56F54C0D8854E06C602FE6E8": {
+      "id": "83E43C2C56F54C0D8854E06C602FE6E8",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.NI.NCO",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Network, Communication, and Organization (NCO)",
+      "comments": [],
+      "ancestorIds": [
+        "A5F096A2D2D3421AB261B29DB09CE25A"
+      ],
+      "parentId": "A5F096A2D2D3421AB261B29DB09CE25A"
+    },
+    "5A1698DB6F3E468B8C57D2C88182BC22": {
+      "id": "5A1698DB6F3E468B8C57D2C88182BC22",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "HS.NI.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare various security measures, considering tradeoffs between the usability and security of a computing system. ",
+      "comments": [],
+      "ancestorIds": [
+        "2AA2B0081F9E4CF9BB7693A163D7D900",
+        "A5F096A2D2D3421AB261B29DB09CE25A"
+      ],
+      "parentId": "2AA2B0081F9E4CF9BB7693A163D7D900"
+    },
+    "522189ED85F947AA805343AA1D7674D5": {
+      "id": "522189ED85F947AA805343AA1D7674D5",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "HS.NI.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts.",
+      "comments": [],
+      "ancestorIds": [
+        "2AA2B0081F9E4CF9BB7693A163D7D900",
+        "A5F096A2D2D3421AB261B29DB09CE25A"
+      ],
+      "parentId": "2AA2B0081F9E4CF9BB7693A163D7D900"
+    },
+    "06349C6A160F4BE0AC35B3C29D2A22C4": {
+      "id": "06349C6A160F4BE0AC35B3C29D2A22C4",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.NI.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how sensitive data can be affected by malware and other attacks.",
+      "comments": [],
+      "ancestorIds": [
+        "2AA2B0081F9E4CF9BB7693A163D7D900",
+        "A5F096A2D2D3421AB261B29DB09CE25A"
+      ],
+      "parentId": "2AA2B0081F9E4CF9BB7693A163D7D900"
+    },
+    "2AA2B0081F9E4CF9BB7693A163D7D900": {
+      "id": "2AA2B0081F9E4CF9BB7693A163D7D900",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.NI.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Cybersecurity (C)",
+      "comments": [],
+      "ancestorIds": [
+        "A5F096A2D2D3421AB261B29DB09CE25A"
+      ],
+      "parentId": "A5F096A2D2D3421AB261B29DB09CE25A"
+    },
+    "A5F096A2D2D3421AB261B29DB09CE25A": {
+      "id": "A5F096A2D2D3421AB261B29DB09CE25A",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "HS.NI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept: Networks and the Internet (NI) ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5DA9A5B3C956429B8E204BEE6105CA58": {
+      "id": "5DA9A5B3C956429B8E204BEE6105CA58",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.CS.T.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.",
+      "comments": [],
+      "ancestorIds": [
+        "AD120DDE40924D09B2F2AA7106D00883",
+        "C26C70148AA64C2DB3F41584059CC243"
+      ],
+      "parentId": "AD120DDE40924D09B2F2AA7106D00883"
+    },
+    "AD120DDE40924D09B2F2AA7106D00883": {
+      "id": "AD120DDE40924D09B2F2AA7106D00883",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.CS.T",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Troubleshooting (T)",
+      "comments": [],
+      "ancestorIds": [
+        "C26C70148AA64C2DB3F41584059CC243"
+      ],
+      "parentId": "C26C70148AA64C2DB3F41584059CC243"
+    },
+    "49EA2135F9EC4A649AE100B4E3CA7059": {
+      "id": "49EA2135F9EC4A649AE100B4E3CA7059",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.CS.HS.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe levels of abstraction and interactions between application software, system software, and hardware layers. ",
+      "comments": [],
+      "ancestorIds": [
+        "37A1C05E7EDC41EAAA804958EE101ED1",
+        "C26C70148AA64C2DB3F41584059CC243"
+      ],
+      "parentId": "37A1C05E7EDC41EAAA804958EE101ED1"
+    },
+    "37A1C05E7EDC41EAAA804958EE101ED1": {
+      "id": "37A1C05E7EDC41EAAA804958EE101ED1",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.CS.HS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Hardware and Software (HS)",
+      "comments": [],
+      "ancestorIds": [
+        "C26C70148AA64C2DB3F41584059CC243"
+      ],
+      "parentId": "C26C70148AA64C2DB3F41584059CC243"
+    },
+    "C6F6011582464288A9F3C1CDB3127D88": {
+      "id": "C6F6011582464288A9F3C1CDB3127D88",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "HS.CS.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects.",
+      "comments": [],
+      "ancestorIds": [
+        "EC47F2734CA3459E86705A32BFCC761D",
+        "C26C70148AA64C2DB3F41584059CC243"
+      ],
+      "parentId": "EC47F2734CA3459E86705A32BFCC761D"
+    },
+    "EC47F2734CA3459E86705A32BFCC761D": {
+      "id": "EC47F2734CA3459E86705A32BFCC761D",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "HS.CS.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Subconcept: Devices (D)",
+      "comments": [],
+      "ancestorIds": [
+        "C26C70148AA64C2DB3F41584059CC243"
+      ],
+      "parentId": "C26C70148AA64C2DB3F41584059CC243"
+    },
+    "C26C70148AA64C2DB3F41584059CC243": {
+      "id": "C26C70148AA64C2DB3F41584059CC243",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "HS.CS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept: Computing Systems (CS)",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,767 @@
+{
+  "id": "CB962E7994A7475398CE2E5A7E72BE40",
+  "title": "Differential Equations",
+  "subject": "Math",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://docs.google.com/spreadsheets/d/12DKBMxMRUj4sjx8zBfG9sYYt6am06P1lc6Vd7FkArHQ/edit?usp=sharing",
+    "title": "GCPS AKS_Curriculum"
+  },
+  "jurisdiction": {
+    "id": "AA0ABAE558D14AF590FC6F19D8A4D9A3",
+    "title": "Gwinnett County Public Schools"
+  },
+  "standards": {
+    "6DE14F5C7C864434B1BB187AD478D7DE": {
+      "id": "6DE14F5C7C864434B1BB187AD478D7DE",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MADE.F.37",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.F.37: identify and describe the contribution of several key mathematicians and scientists to the field of differential equations",
+      "comments": [],
+      "ancestorIds": [
+        "5DE5534842F642F68815F9F4228CB6A8",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5DE5534842F642F68815F9F4228CB6A8"
+    },
+    "5DE5534842F642F68815F9F4228CB6A8": {
+      "id": "5DE5534842F642F68815F9F4228CB6A8",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "F",
+      "statementNotation": "MADE.F",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.F: Mathematical Connections",
+      "comments": [],
+      "ancestorIds": [
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "AEF17F82F0E44B079FB59F46873157D2"
+    },
+    "F317B96906894B219B1FBEF9F7FEF5F7": {
+      "id": "F317B96906894B219B1FBEF9F7FEF5F7",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MADE.E.36",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.E.36: find series solutions to first and second order non-linear initial value problems",
+      "comments": [],
+      "ancestorIds": [
+        "6460B8B486CB4A1881B22E2B6F00E88D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "6460B8B486CB4A1881B22E2B6F00E88D"
+    },
+    "0B0CA3812ACB439388107E4B00A56033": {
+      "id": "0B0CA3812ACB439388107E4B00A56033",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MADE.E.35",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.E.35: recognize ordinary points, recurrence relations, and changing indexes as it relates to series solutions to ODE’s",
+      "comments": [],
+      "ancestorIds": [
+        "6460B8B486CB4A1881B22E2B6F00E88D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "6460B8B486CB4A1881B22E2B6F00E88D"
+    },
+    "F8A3CCD934B14687BC5987961BD6319F": {
+      "id": "F8A3CCD934B14687BC5987961BD6319F",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MADE.E.34",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.E.34: review Power Series as an introduction to series solutions of differential equations",
+      "comments": [],
+      "ancestorIds": [
+        "6460B8B486CB4A1881B22E2B6F00E88D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "6460B8B486CB4A1881B22E2B6F00E88D"
+    },
+    "6460B8B486CB4A1881B22E2B6F00E88D": {
+      "id": "6460B8B486CB4A1881B22E2B6F00E88D",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "E",
+      "statementNotation": "MADE.E",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.E: Series Solutions",
+      "comments": [],
+      "ancestorIds": [
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "AEF17F82F0E44B079FB59F46873157D2"
+    },
+    "D01F32DC6F4D4B46BA26B1061C8AABDF": {
+      "id": "D01F32DC6F4D4B46BA26B1061C8AABDF",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "MADE.D.33",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.33: solve linear systems of differential equations using Laplace transforms",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "43836B3DCC0F44A29EBB165151C9B3C6": {
+      "id": "43836B3DCC0F44A29EBB165151C9B3C6",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MADE.D.32",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.32: find the Laplace transform of, the Dirac Delta function",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "D2FCB0D1A5B947FE9811F15898F92B14": {
+      "id": "D2FCB0D1A5B947FE9811F15898F92B14",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MADE.D.31",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.31: recognize the general uniqueness and existence of solutions for Step functions, and will use the Laplace transform to find solutions to Step functions.",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "884DF5D4944A4161B23E99E263160B08": {
+      "id": "884DF5D4944A4161B23E99E263160B08",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MADE.D.30",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.30: write piecewise functions as compositions of Step (Heaviside) functions",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "201FA4A830EC419089A5C530A8219D00": {
+      "id": "201FA4A830EC419089A5C530A8219D00",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MADE.D.29",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.29: solve first and second order differential equations using Laplace transforms that apply to real world fields such as Electrical and Mechanical Engineering",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "DD2B9EB718EB4647B61347E6FDA48278": {
+      "id": "DD2B9EB718EB4647B61347E6FDA48278",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MADE.D.28",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.28: discuss the main properties of the Laplace transform which make it useful for solving initial value problems",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "DEDE491C2A1349ECA0DE08009B874C52": {
+      "id": "DEDE491C2A1349ECA0DE08009B874C52",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MADE.D.27",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.27: perform inverse Laplace transforms using a variety of techniques, such as but not limited to, algebraic manipulation partial fraction decomposition",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "859BCB8193E54DA7952473C564B1A7B4": {
+      "id": "859BCB8193E54DA7952473C564B1A7B4",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MADE.D.26",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D.26: use the integral definition to perform Laplace transforms for functions, such as, but not limited to polynomials, exponentials, and trigonometric functions; use a Laplace table to accurately and efficiently identify Laplace transforms, such as, but not limited to, the\ntransforms for polynomials, exponentials, and trigonometric functions, and the\nproduct of these functions",
+      "comments": [],
+      "ancestorIds": [
+        "321F651BF429479E8C3A4547A42A47E9",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "321F651BF429479E8C3A4547A42A47E9"
+    },
+    "321F651BF429479E8C3A4547A42A47E9": {
+      "id": "321F651BF429479E8C3A4547A42A47E9",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "MADE.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.D: Laplace Transforms",
+      "comments": [],
+      "ancestorIds": [
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "AEF17F82F0E44B079FB59F46873157D2"
+    },
+    "4292AD16F9074711A1B38EEE575647C5": {
+      "id": "4292AD16F9074711A1B38EEE575647C5",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MADE.C.25",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C.25: apply various population models derived from locally linear systems including Lotka-Volterra, competition and cooperation models",
+      "comments": [],
+      "ancestorIds": [
+        "27557357F7C84F5E891A6848CFB1ED4E",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "27557357F7C84F5E891A6848CFB1ED4E"
+    },
+    "30714589779E4DB883E5C906552F6D99": {
+      "id": "30714589779E4DB883E5C906552F6D99",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MADE.C.24",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C.24: plot locally linear systems by hand and using modeling software",
+      "comments": [],
+      "ancestorIds": [
+        "27557357F7C84F5E891A6848CFB1ED4E",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "27557357F7C84F5E891A6848CFB1ED4E"
+    },
+    "A2922E7DDB614D0BABE069E18BE6638E": {
+      "id": "A2922E7DDB614D0BABE069E18BE6638E",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MADE.C.23",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C.23: determine which non-linear systems are locally linear, and identify the systems’ behavior about each critical point",
+      "comments": [],
+      "ancestorIds": [
+        "27557357F7C84F5E891A6848CFB1ED4E",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "27557357F7C84F5E891A6848CFB1ED4E"
+    },
+    "0738B54D937846189FB5677063AAF637": {
+      "id": "0738B54D937846189FB5677063AAF637",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MADE.C.22",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C.22: solve non-homogeneous systems of ODE’s using the method of undetermined coefficients and variation of parameters",
+      "comments": [],
+      "ancestorIds": [
+        "27557357F7C84F5E891A6848CFB1ED4E",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "27557357F7C84F5E891A6848CFB1ED4E"
+    },
+    "430541B5F3C746B7A88C0CFAF38058E0": {
+      "id": "430541B5F3C746B7A88C0CFAF38058E0",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MADE.C.21",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C.21: draw Phase Portraits for solutions of homogeneous systems with constant coefficients by hand and using a modeling software",
+      "comments": [],
+      "ancestorIds": [
+        "27557357F7C84F5E891A6848CFB1ED4E",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "27557357F7C84F5E891A6848CFB1ED4E"
+    },
+    "20C07F13972548D09B6A8A8F40844CD1": {
+      "id": "20C07F13972548D09B6A8A8F40844CD1",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MADE.C.20",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C.20: solve constant coefficient homogeneous systems using eigenvalues and eigenvectors; solve systems with real, distinct eigenvalues, as well as those with repeated and imaginary eigenvalues",
+      "comments": [],
+      "ancestorIds": [
+        "27557357F7C84F5E891A6848CFB1ED4E",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "27557357F7C84F5E891A6848CFB1ED4E"
+    },
+    "27557357F7C84F5E891A6848CFB1ED4E": {
+      "id": "27557357F7C84F5E891A6848CFB1ED4E",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "MADE.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.C: Systems of Differential Equations",
+      "comments": [],
+      "ancestorIds": [
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "AEF17F82F0E44B079FB59F46873157D2"
+    },
+    "BF7368BC832F467A87539E0A9DDBCB50": {
+      "id": "BF7368BC832F467A87539E0A9DDBCB50",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "MADE.B.19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.19: recognize systems of differential equations and the basic existence and uniqueness results for the corresponding initial value problems",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "AC2688012666423A9A872A26FE758774": {
+      "id": "AC2688012666423A9A872A26FE758774",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "MADE.B.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.18: when given a solution to a non-homogeneous second order equation, find a second linearly dependent solution using reduction of order",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "DCC54F1992A14FE381BC5FD10399B7EB": {
+      "id": "DCC54F1992A14FE381BC5FD10399B7EB",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "MADE.B.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.17: solve special case non-homogeneous second order ODE’s including Cauchy-Euler Equations",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "79E100AE43B846B7BA4CE67D58C70E7C": {
+      "id": "79E100AE43B846B7BA4CE67D58C70E7C",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MADE.B.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.16: solve higher order constant coefficient homogeneous equations",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "26D19A746EB64995B1CEA29FB34661E6": {
+      "id": "26D19A746EB64995B1CEA29FB34661E6",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MADE.B.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.15: recognize the structure of solution sets to higher order linear differential equations, the basic Existence and Uniqueness Theorem, and the generalization of the Wronskian for higher order equations.",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "23B47775A3B14F54B3A566B3C4AE88CE": {
+      "id": "23B47775A3B14F54B3A566B3C4AE88CE",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MADE.B.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.14: recognize the existence and uniqueness of solutions for second order linear differential equations and a fundamental set of solutions; verify that two solutions form a fundamental set by taking the Wronskian",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "6E81E7D4DC954CA58B2743464C2E91A0": {
+      "id": "6E81E7D4DC954CA58B2743464C2E91A0",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MADE.B.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.13: use vector function notation when discussing the structure of solutions sets for homogeneous systems as it pertains to the Wronskian",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "4E87AB94F73C4599A84075254098BC73": {
+      "id": "4E87AB94F73C4599A84075254098BC73",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MADE.B.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.12: solve second order differential equations that apply to various real-world models such as mass-spring systems, electric circuits, and economic growth",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "3CA451D4792C491E8158832493F3A493": {
+      "id": "3CA451D4792C491E8158832493F3A493",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MADE.B.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.11: solve second order linear homogeneous and non-homogeneous equations by finding characteristic equations, using the method of undetermined coefficients and variation of parameters",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "2267441F043B4ED7B14FE89900DABF93": {
+      "id": "2267441F043B4ED7B14FE89900DABF93",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MADE.B.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B.10: determine whether a first or second order differential equation has a unique solution over a given interval by working with the Existence and Uniqueness Theorem",
+      "comments": [],
+      "ancestorIds": [
+        "8CA7ACE86EA346EA936CA7569B7E0E4D",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "8CA7ACE86EA346EA936CA7569B7E0E4D"
+    },
+    "8CA7ACE86EA346EA936CA7569B7E0E4D": {
+      "id": "8CA7ACE86EA346EA936CA7569B7E0E4D",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "MADE.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.B: Second and Higher Order Differential Equations",
+      "comments": [],
+      "ancestorIds": [
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "AEF17F82F0E44B079FB59F46873157D2"
+    },
+    "661EE0B636F8466E9D226EDDAB14C2BC": {
+      "id": "661EE0B636F8466E9D226EDDAB14C2BC",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "MADE.A.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.9: solve first order Exact Equations",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "566EE023FD274F0A9AD82535B7AAD40A": {
+      "id": "566EE023FD274F0A9AD82535B7AAD40A",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "MADE.A.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.8: partially differentiate functions of multiple variables as it pertains to Exact Equations for first order differential equations",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "8F5D9B03FC9F42C1942565EBFD8C3B50": {
+      "id": "8F5D9B03FC9F42C1942565EBFD8C3B50",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "MADE.A.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.7: draw and interpret real world solutions to first order differential equations using modeling software",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "8960AB7C829D4D95B1F0936BBB7F93A7": {
+      "id": "8960AB7C829D4D95B1F0936BBB7F93A7",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "MADE.A.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.6: solve first order differential equations that apply to various real-world models including falling bodies, mixtures, population and the Logistic equation, continuously compounded interest, and other physics application",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "1EF7483849B04FF1AD2855C3E3C2B38F": {
+      "id": "1EF7483849B04FF1AD2855C3E3C2B38F",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "MADE.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.5: draw direction fields containing solution curves for first order differential equations by hand and using modeling software",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "0B007A927B3747299D172E05A0B37454": {
+      "id": "0B007A927B3747299D172E05A0B37454",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "MADE.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.4: use modeling software to solve more complex first order differential equations",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "737B7F6F0F654CEEB3377F90EFF55AAC": {
+      "id": "737B7F6F0F654CEEB3377F90EFF55AAC",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MADE.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.3: solve first order differential equations and initial value problems using integrating factors",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "E31E846305264E45B47534FE01A83356": {
+      "id": "E31E846305264E45B47534FE01A83356",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MADE.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.2: solve separable differential equations for general solutions and initial value problems",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "4AC24ED700954C38B7C1EDBD3D796AB8": {
+      "id": "4AC24ED700954C38B7C1EDBD3D796AB8",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MADE.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A.1: classify differential equation by type (i.e. ordinary/partial), order, and linearity",
+      "comments": [],
+      "ancestorIds": [
+        "5C90A94E3949440185FD4ADACCDC0C3B",
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "5C90A94E3949440185FD4ADACCDC0C3B"
+    },
+    "5C90A94E3949440185FD4ADACCDC0C3B": {
+      "id": "5C90A94E3949440185FD4ADACCDC0C3B",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "MADE.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE.A: First Order Differential Equations",
+      "comments": [],
+      "ancestorIds": [
+        "AEF17F82F0E44B079FB59F46873157D2"
+      ],
+      "parentId": "AEF17F82F0E44B079FB59F46873157D2"
+    },
+    "AEF17F82F0E44B079FB59F46873157D2": {
+      "id": "AEF17F82F0E44B079FB59F46873157D2",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "MADE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MADE: Differential Equations",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

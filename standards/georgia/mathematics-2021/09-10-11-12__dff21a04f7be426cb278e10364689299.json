@@ -1,0 +1,915 @@
+{
+  "id": "DFF21A04F7BE426CB278E10364689299",
+  "title": "Differential Equations",
+  "subject": "Mathematics (2021-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Georgia’s K-12 Mathematics Standards-Implementation SY2023-2024",
+    "sourceURL": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/3aa09b4f-d702-42e4-9cf0-aba50651b2c2/1223",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "FF6AC94AD539485D9C8E9EACF9B4CB74": {
+      "id": "FF6AC94AD539485D9C8E9EACF9B4CB74",
+      "asnIdentifier": null,
+      "position": 7028,
+      "depth": 2,
+      "listId": "5.8",
+      "statementNotation": "DE.AR.5.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve linear systems of differential equations using Laplace transforms.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "F4CFD1CE1F0E4123963BCA4413203E34": {
+      "id": "F4CFD1CE1F0E4123963BCA4413203E34",
+      "asnIdentifier": null,
+      "position": 7027,
+      "depth": 2,
+      "listId": "5.7",
+      "statementNotation": "DE.AR.5.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the Laplace transform of the Dirac delta function.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "E319ACA4508247C9893B6EA38C22C00A": {
+      "id": "E319ACA4508247C9893B6EA38C22C00A",
+      "asnIdentifier": null,
+      "position": 7026,
+      "depth": 2,
+      "listId": "5.6",
+      "statementNotation": "DE.AR.5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the general uniqueness and existence of solutions for step functions, and use Laplace transforms to find solutions to step functions.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "2C3DD50D15784263A88C97C36CFB5137": {
+      "id": "2C3DD50D15784263A88C97C36CFB5137",
+      "asnIdentifier": null,
+      "position": 7025,
+      "depth": 2,
+      "listId": "5.5",
+      "statementNotation": "DE.AR.5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write piecewise functions as compositions of step (Heaviside) functions.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "72A6FB0BCB8543A0A58FD1FE0723DC9E": {
+      "id": "72A6FB0BCB8543A0A58FD1FE0723DC9E",
+      "asnIdentifier": null,
+      "position": 7024,
+      "depth": 2,
+      "listId": "5.4",
+      "statementNotation": "DE.AR.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve first- and second-order differential equations using Laplace transforms that apply to fields such as electrical and mechanical engineering.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "62438108F86C4779925F2FF94CC172A5": {
+      "id": "62438108F86C4779925F2FF94CC172A5",
+      "asnIdentifier": null,
+      "position": 7023,
+      "depth": 2,
+      "listId": "5.3",
+      "statementNotation": "DE.AR.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform inverse Laplace transforms using a variety of techniques.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "463A746A28054B6380BEFFB61C79DECE": {
+      "id": "463A746A28054B6380BEFFB61C79DECE",
+      "asnIdentifier": null,
+      "position": 7022,
+      "depth": 2,
+      "listId": "5.2",
+      "statementNotation": "DE.AR.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a Laplace table to accurately and efficiently identify Laplace transforms.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "B39DC8B35C6A4CB5BBC1FEB6D3F00A6A": {
+      "id": "B39DC8B35C6A4CB5BBC1FEB6D3F00A6A",
+      "asnIdentifier": null,
+      "position": 7021,
+      "depth": 2,
+      "listId": "5.1",
+      "statementNotation": "DE.AR.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the integral definition to perform Laplace transforms for functions.",
+      "comments": [],
+      "ancestorIds": [
+        "488497C04E514F80A4F32311D80271B9",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "488497C04E514F80A4F32311D80271B9"
+    },
+    "488497C04E514F80A4F32311D80271B9": {
+      "id": "488497C04E514F80A4F32311D80271B9",
+      "asnIdentifier": null,
+      "position": 7020,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "DE.AR.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems using Laplace transforms to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "76A837D5BBA545028AACE7613C5A01C2"
+    },
+    "817F82B7ED514D61BACDE6F34BD73373": {
+      "id": "817F82B7ED514D61BACDE6F34BD73373",
+      "asnIdentifier": null,
+      "position": 7019,
+      "depth": 2,
+      "listId": "4.7",
+      "statementNotation": "DE.AR.4.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use population models derived from locally linear systems.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "9355A0321F9F429487F4B239BF0DD9A6": {
+      "id": "9355A0321F9F429487F4B239BF0DD9A6",
+      "asnIdentifier": null,
+      "position": 7018,
+      "depth": 2,
+      "listId": "4.6",
+      "statementNotation": "DE.AR.4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Plot locally linear systems.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "0F96A75104004635B684BED5E4CA1B4D": {
+      "id": "0F96A75104004635B684BED5E4CA1B4D",
+      "asnIdentifier": null,
+      "position": 7017,
+      "depth": 2,
+      "listId": "4.5",
+      "statementNotation": "DE.AR.4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine which non-linear systems are locally linear and identify the behavior of the system about each critical point.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "D3FCC7AE0C3E40BAA2EB7608EA91BEFA": {
+      "id": "D3FCC7AE0C3E40BAA2EB7608EA91BEFA",
+      "asnIdentifier": null,
+      "position": 7016,
+      "depth": 2,
+      "listId": "4.4",
+      "statementNotation": "DE.AR.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve non-homogeneous systems of ordinary differential equations using the method of undetermined coefficients and variation of parameters.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "2CCFFC31F62B48B0AE8213F7989774D8": {
+      "id": "2CCFFC31F62B48B0AE8213F7989774D8",
+      "asnIdentifier": null,
+      "position": 7015,
+      "depth": 2,
+      "listId": "4.3",
+      "statementNotation": "DE.AR.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw phase portraits for solutions of homogeneous systems with constant coefficients.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "6B590C7EB88A48B98D64B290E84AA31E": {
+      "id": "6B590C7EB88A48B98D64B290E84AA31E",
+      "asnIdentifier": null,
+      "position": 7014,
+      "depth": 2,
+      "listId": "4.2",
+      "statementNotation": "DE.AR.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve constant coefficient homogeneous systems using eigenvalues and eigenvectors. Solve systems with real, distinct eigenvalues, as well as those with repeated and imaginary eigenvalues.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "14D3A0E7CBBC45C8B92A6854F3E1C622": {
+      "id": "14D3A0E7CBBC45C8B92A6854F3E1C622",
+      "asnIdentifier": null,
+      "position": 7013,
+      "depth": 2,
+      "listId": "4.1",
+      "statementNotation": "DE.AR.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a contextual situation results in a system of differential equations and apply the basic existence and uniqueness results for the corresponding initial value problems.",
+      "comments": [],
+      "ancestorIds": [
+        "17AF39C721BA44C595EA309F06E4E410",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "17AF39C721BA44C595EA309F06E4E410"
+    },
+    "17AF39C721BA44C595EA309F06E4E410": {
+      "id": "17AF39C721BA44C595EA309F06E4E410",
+      "asnIdentifier": null,
+      "position": 7012,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "DE.AR.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems involving systems of differential equations to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "76A837D5BBA545028AACE7613C5A01C2"
+    },
+    "E4827265818E4CE783F6C0D73C4E5AD9": {
+      "id": "E4827265818E4CE783F6C0D73C4E5AD9",
+      "asnIdentifier": null,
+      "position": 7011,
+      "depth": 2,
+      "listId": "3.11",
+      "statementNotation": "DE.AR.3.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find series solutions to first and second-order non-linear initial value problems.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "4A7712B09B38453DB10CE9F0025AA943": {
+      "id": "4A7712B09B38453DB10CE9F0025AA943",
+      "asnIdentifier": null,
+      "position": 7010,
+      "depth": 2,
+      "listId": "3.10",
+      "statementNotation": "DE.AR.3.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine ordinary points, recurrence relations, and change the index as they relate to series solutions to ordinary differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "2C1D836E942C44C7A0430D191F12CECE": {
+      "id": "2C1D836E942C44C7A0430D191F12CECE",
+      "asnIdentifier": null,
+      "position": 7009,
+      "depth": 2,
+      "listId": "3.9",
+      "statementNotation": "DE.AR.3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find a second linearly dependent solution using reduction of order when given a solution to a non-homogeneous second-order differential equation.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "C261BBB6E1014EDFAF1E7391C341E6AD": {
+      "id": "C261BBB6E1014EDFAF1E7391C341E6AD",
+      "asnIdentifier": null,
+      "position": 7008,
+      "depth": 2,
+      "listId": "3.8",
+      "statementNotation": "DE.AR.3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve special case non-homogeneous second order ordinary differential equations including Cauchy-Euler Equations.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "240DC4A3C1FC42A9B14220D22D9343F1": {
+      "id": "240DC4A3C1FC42A9B14220D22D9343F1",
+      "asnIdentifier": null,
+      "position": 7007,
+      "depth": 2,
+      "listId": "3.7",
+      "statementNotation": "DE.AR.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve higher-order constant coefficient homogeneous differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "5B4BEFFD35CD471E856B43E383588B09": {
+      "id": "5B4BEFFD35CD471E856B43E383588B09",
+      "asnIdentifier": null,
+      "position": 7006,
+      "depth": 2,
+      "listId": "3.6",
+      "statementNotation": "DE.AR.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the structure of solution set to higher-order differential equations, apply the basic Existence and Uniqueness Theorem to higher-order differential equations, and use the generalizations of the Wronksian for higher order differential equations.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "BF5B0A1D6C9044DABBF9B7FF63C11EF2": {
+      "id": "BF5B0A1D6C9044DABBF9B7FF63C11EF2",
+      "asnIdentifier": null,
+      "position": 7005,
+      "depth": 2,
+      "listId": "3.5",
+      "statementNotation": "DE.AR.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the existence and uniqueness of solutions for second-order linear differential equations, determine a fundamental set of solutions, and verify that two solutions form a fundamental set by taking the Wronskian.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "4B0BEB626CEC49A7A71E15F2524D0C05": {
+      "id": "4B0BEB626CEC49A7A71E15F2524D0C05",
+      "asnIdentifier": null,
+      "position": 7004,
+      "depth": 2,
+      "listId": "3.4",
+      "statementNotation": "DE.AR.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use vector function notation when discussing the structure of solution sets for homogeneous systems as it pertains to the Wronskian.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "DFC8BAA06749444C98F92C7A220B6EA7": {
+      "id": "DFC8BAA06749444C98F92C7A220B6EA7",
+      "asnIdentifier": null,
+      "position": 7003,
+      "depth": 2,
+      "listId": "3.3",
+      "statementNotation": "DE.AR.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve second-order differential equations that apply to various real-world models.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "AC428100E60C4A6BB127BAEFC41C0506": {
+      "id": "AC428100E60C4A6BB127BAEFC41C0506",
+      "asnIdentifier": null,
+      "position": 7002,
+      "depth": 2,
+      "listId": "3.2",
+      "statementNotation": "DE.AR.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve second-order linear homogeneous and non-homogeneous differential equations by finding characteristic equations, using the method of undetermined coefficients and variation of parameters.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "337E833611614E10AE65237310481F0E": {
+      "id": "337E833611614E10AE65237310481F0E",
+      "asnIdentifier": null,
+      "position": 7001,
+      "depth": 2,
+      "listId": "3.1",
+      "statementNotation": "DE.AR.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a first- or second-order differential equation has a unique solution over a given interval by applying the Existence and Uniqueness Theorem.",
+      "comments": [],
+      "ancestorIds": [
+        "42D98F5A65B04247BB53DB509B928468",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "42D98F5A65B04247BB53DB509B928468"
+    },
+    "42D98F5A65B04247BB53DB509B928468": {
+      "id": "42D98F5A65B04247BB53DB509B928468",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "DE.AR.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems involving second and higher order differential equations to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "76A837D5BBA545028AACE7613C5A01C2"
+    },
+    "88669AC3AA724A808056ABD582E6C0FA": {
+      "id": "88669AC3AA724A808056ABD582E6C0FA",
+      "asnIdentifier": null,
+      "position": 6006,
+      "depth": 2,
+      "listId": "2.6",
+      "statementNotation": "DE.AR.2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve first-order linear differential equations that apply to various real-world models including falling bodies, mixtures, population and the logistic equation, continuously compounded interest, and other physics applications.",
+      "comments": [],
+      "ancestorIds": [
+        "FDC947AD1BE841D79B05E0E53C2AB220",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "FDC947AD1BE841D79B05E0E53C2AB220"
+    },
+    "A55F5468A63345A6A777325377331EFF": {
+      "id": "A55F5468A63345A6A777325377331EFF",
+      "asnIdentifier": null,
+      "position": 6005,
+      "depth": 2,
+      "listId": "2.5",
+      "statementNotation": "DE.AR.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Draw direction fields containing solutions curves for first-order differential equations by hand and using modeling.",
+      "comments": [],
+      "ancestorIds": [
+        "FDC947AD1BE841D79B05E0E53C2AB220",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "FDC947AD1BE841D79B05E0E53C2AB220"
+    },
+    "26FB4C56317646D7A23F543142BFF805": {
+      "id": "26FB4C56317646D7A23F543142BFF805",
+      "asnIdentifier": null,
+      "position": 6004,
+      "depth": 2,
+      "listId": "2.4",
+      "statementNotation": "DE.AR.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use modeling or numerical methods to approximate solutions of first-order differential equations in context.",
+      "comments": [],
+      "ancestorIds": [
+        "FDC947AD1BE841D79B05E0E53C2AB220",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "FDC947AD1BE841D79B05E0E53C2AB220"
+    },
+    "C2B8F070FBE24DF1BB7E7DF160298C0A": {
+      "id": "C2B8F070FBE24DF1BB7E7DF160298C0A",
+      "asnIdentifier": null,
+      "position": 6003,
+      "depth": 2,
+      "listId": "2.3",
+      "statementNotation": "DE.AR.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve first-order linear differential equations and initial value problems using integrating factors.",
+      "comments": [],
+      "ancestorIds": [
+        "FDC947AD1BE841D79B05E0E53C2AB220",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "FDC947AD1BE841D79B05E0E53C2AB220"
+    },
+    "B11C9C893DC04A6996F271A518BB3184": {
+      "id": "B11C9C893DC04A6996F271A518BB3184",
+      "asnIdentifier": null,
+      "position": 6002,
+      "depth": 2,
+      "listId": "2.2",
+      "statementNotation": "DE.AR.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve separable differential equations for general solutions and initial value problems.",
+      "comments": [],
+      "ancestorIds": [
+        "FDC947AD1BE841D79B05E0E53C2AB220",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "FDC947AD1BE841D79B05E0E53C2AB220"
+    },
+    "5B9A0CB50B23483A97865AA59D913540": {
+      "id": "5B9A0CB50B23483A97865AA59D913540",
+      "asnIdentifier": null,
+      "position": 6001,
+      "depth": 2,
+      "listId": "2.1",
+      "statementNotation": "DE.AR.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify differential equations by order and linearity.",
+      "comments": [],
+      "ancestorIds": [
+        "FDC947AD1BE841D79B05E0E53C2AB220",
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "FDC947AD1BE841D79B05E0E53C2AB220"
+    },
+    "FDC947AD1BE841D79B05E0E53C2AB220": {
+      "id": "FDC947AD1BE841D79B05E0E53C2AB220",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "DE.AR.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve contextual, mathematical problems involving first-order differential equations to explain real-life phenomena.",
+      "comments": [],
+      "ancestorIds": [
+        "76A837D5BBA545028AACE7613C5A01C2"
+      ],
+      "parentId": "76A837D5BBA545028AACE7613C5A01C2"
+    },
+    "76A837D5BBA545028AACE7613C5A01C2": {
+      "id": "76A837D5BBA545028AACE7613C5A01C2",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Abstract Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "41FA2AC72B06481180F5D9DE51034905": {
+      "id": "41FA2AC72B06481180F5D9DE51034905",
+      "asnIdentifier": null,
+      "position": 4004,
+      "depth": 2,
+      "listId": "1.4",
+      "statementNotation": "DE.MM.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use various mathematical representations and structures with this information to represent and solve real-life problems.",
+      "comments": [],
+      "ancestorIds": [
+        "60FA2DF9C5594A49B819468F12571460",
+        "267274132428497A8F8B0BE13263B436"
+      ],
+      "parentId": "60FA2DF9C5594A49B819468F12571460"
+    },
+    "47B7FD10B4794E1AA799F062EBC49B2F": {
+      "id": "47B7FD10B4794E1AA799F062EBC49B2F",
+      "asnIdentifier": null,
+      "position": 4003,
+      "depth": 2,
+      "listId": "1.3",
+      "statementNotation": "DE.MM.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using abstract and quantitative reasoning, make decisions about information and data from a contextual situation.",
+      "comments": [],
+      "ancestorIds": [
+        "60FA2DF9C5594A49B819468F12571460",
+        "267274132428497A8F8B0BE13263B436"
+      ],
+      "parentId": "60FA2DF9C5594A49B819468F12571460"
+    },
+    "8E436DEA388C4EA8963F6B13E85A2D4E": {
+      "id": "8E436DEA388C4EA8963F6B13E85A2D4E",
+      "asnIdentifier": null,
+      "position": 4002,
+      "depth": 2,
+      "listId": "1.2",
+      "statementNotation": "DE.MM.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create mathematical models to explain phenomena that exist in the natural sciences, social sciences, liberal arts, fine and performing arts, and/or humanities contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "60FA2DF9C5594A49B819468F12571460",
+        "267274132428497A8F8B0BE13263B436"
+      ],
+      "parentId": "60FA2DF9C5594A49B819468F12571460"
+    },
+    "B57D50A190464EED821EC56BE9715E58": {
+      "id": "B57D50A190464EED821EC56BE9715E58",
+      "asnIdentifier": null,
+      "position": 4001,
+      "depth": 2,
+      "listId": "1.1",
+      "statementNotation": "DE.MM.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain contextual, mathematical problems using a mathematical model.",
+      "comments": [],
+      "ancestorIds": [
+        "60FA2DF9C5594A49B819468F12571460",
+        "267274132428497A8F8B0BE13263B436"
+      ],
+      "parentId": "60FA2DF9C5594A49B819468F12571460"
+    },
+    "60FA2DF9C5594A49B819468F12571460": {
+      "id": "60FA2DF9C5594A49B819468F12571460",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "DE.MM.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply mathematics to real-life situations; model real-life phenomena using mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "267274132428497A8F8B0BE13263B436"
+      ],
+      "parentId": "267274132428497A8F8B0BE13263B436"
+    },
+    "267274132428497A8F8B0BE13263B436": {
+      "id": "267274132428497A8F8B0BE13263B436",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mathematical Modeling ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "784A1EA47DA54EF4AF1F424C1B7CE3F6": {
+      "id": "784A1EA47DA54EF4AF1F424C1B7CE3F6",
+      "asnIdentifier": null,
+      "position": 2007,
+      "depth": 2,
+      "listId": "0.8",
+      "statementNotation": "DE.MP.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look for and express regularity in repeated reasoning.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "D69DC058471A4537854B7D1DD5F0609C": {
+      "id": "D69DC058471A4537854B7D1DD5F0609C",
+      "asnIdentifier": null,
+      "position": 2006,
+      "depth": 2,
+      "listId": "0.7",
+      "statementNotation": "DE.MP.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look for and make use of structure.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "A7130F57FC954922B0AA43126E704A9E": {
+      "id": "A7130F57FC954922B0AA43126E704A9E",
+      "asnIdentifier": null,
+      "position": 2005,
+      "depth": 2,
+      "listId": "0.6",
+      "statementNotation": "DE.MP.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attend to precision.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "37F9EC7EAE1E4C16B390F95022F1C747": {
+      "id": "37F9EC7EAE1E4C16B390F95022F1C747",
+      "asnIdentifier": null,
+      "position": 2004,
+      "depth": 2,
+      "listId": "0.5",
+      "statementNotation": "DE.MP.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use appropriate tools strategically.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "A44FBC2C797349928E38078249D8D102": {
+      "id": "A44FBC2C797349928E38078249D8D102",
+      "asnIdentifier": null,
+      "position": 2003,
+      "depth": 2,
+      "listId": "0.4",
+      "statementNotation": "DE.MP.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model with mathematics.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "A64743B79D314C32A91B30E84FC31885": {
+      "id": "A64743B79D314C32A91B30E84FC31885",
+      "asnIdentifier": null,
+      "position": 2002,
+      "depth": 2,
+      "listId": "0.3",
+      "statementNotation": "DE.MP.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct viable arguments and critique the reasoning of others.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "AF6632A562C94FC8A18F7F6EDFE44783": {
+      "id": "AF6632A562C94FC8A18F7F6EDFE44783",
+      "asnIdentifier": null,
+      "position": 2001,
+      "depth": 2,
+      "listId": "0.2",
+      "statementNotation": "DE.MP.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reason abstractly and quantitatively.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "1E5A1FF6A13441F0A9C7A7AC4261EF3C": {
+      "id": "1E5A1FF6A13441F0A9C7A7AC4261EF3C",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "0.1",
+      "statementNotation": "DE.MP.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make sense of problems and persevere in solving them.",
+      "comments": [],
+      "ancestorIds": [
+        "2198D3B33D7A4C2B8C18948E98B999B2",
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "2198D3B33D7A4C2B8C18948E98B999B2"
+    },
+    "2198D3B33D7A4C2B8C18948E98B999B2": {
+      "id": "2198D3B33D7A4C2B8C18948E98B999B2",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "0",
+      "statementNotation": "DE.MP",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Display perseverance and patience in problem-solving. Demonstrate skills and strategies needed to succeed in mathematics, including critical thinking, reasoning, and effective collaboration and expression. Seek help and apply feedback. Set and monitor goals.",
+      "comments": [],
+      "ancestorIds": [
+        "93E79367F70E412A9D6B28677CE1488B"
+      ],
+      "parentId": "93E79367F70E412A9D6B28677CE1488B"
+    },
+    "93E79367F70E412A9D6B28677CE1488B": {
+      "id": "93E79367F70E412A9D6B28677CE1488B",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mathematical Practices ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

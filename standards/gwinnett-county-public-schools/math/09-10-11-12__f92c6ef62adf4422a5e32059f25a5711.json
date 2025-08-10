@@ -1,0 +1,242 @@
+{
+  "id": "F92C6EF62ADF4422A5E32059F25A5711",
+  "title": "Multivariable Calculus",
+  "subject": "Math",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://docs.google.com/spreadsheets/d/12DKBMxMRUj4sjx8zBfG9sYYt6am06P1lc6Vd7FkArHQ/edit?usp=sharing",
+    "title": "GCPS AKS_Curriculum"
+  },
+  "jurisdiction": {
+    "id": "AA0ABAE558D14AF590FC6F19D8A4D9A3",
+    "title": "Gwinnett County Public Schools"
+  },
+  "standards": {
+    "258338AB5E204B18AC8FDD750AF5839B": {
+      "id": "258338AB5E204B18AC8FDD750AF5839B",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MAMC.D.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.D.9: use, apply, and solve linear first-order differential equations; solve linear first-order differential equations of the form y' + p(x)y = q(x) with an integrating factor; solve homogeneous linear first-order differential equations using a variable substitution; solve Clairaut equations; explore the concepts of families of solutions and envelopes; write linear first-order differential equations that represent real-world phenomena and solve them, such as those arising from Kirchhoff's Law and mixing problems; students will solve linear second-order differential equations of the form y''+ p(x)y' + q(x)y = c using the characteristic equation where the characteristic equation has two real roots, one real root, or no real roots",
+      "comments": [],
+      "ancestorIds": [
+        "B2E1730FE71D4AB3A9E2A66BCD5C352A",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "B2E1730FE71D4AB3A9E2A66BCD5C352A"
+    },
+    "B2E1730FE71D4AB3A9E2A66BCD5C352A": {
+      "id": "B2E1730FE71D4AB3A9E2A66BCD5C352A",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "MAMC.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.D: Differential Equations",
+      "comments": [],
+      "ancestorIds": [
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "5D77D1179A7A43BBBB5841C594F6D22F"
+    },
+    "28C681ADEE9641E1A6ECD4B3A1E8F713": {
+      "id": "28C681ADEE9641E1A6ECD4B3A1E8F713",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MAMC.C.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.C.8: apply and interpret the theorems of Green, Stokes, and Gauss. a. Apply line and surface integrals to functions representing real-world phenomena. b. Recognize, understand, and use line integrals that are independence of path. c. Define and apply the gradient, the divergence, and the curl in terms of integrals of vectors",
+      "comments": [],
+      "ancestorIds": [
+        "7974EF383813442DA517CA82EA96CD06",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "7974EF383813442DA517CA82EA96CD06"
+    },
+    "07B76932DD964DE19D32F87CA5AF8F66": {
+      "id": "07B76932DD964DE19D32F87CA5AF8F66",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MAMC.C.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.C.7: integrate functions of the form z = f(x, y) or w = f(x, y, z); define, use, and interpret double and triple integrals in terms of volume and mass; represent integrals of vectors as double and triple integrals; integrate functions through various techniques such as changing the order of integration, substituting variables, or changing to polar coordinates",
+      "comments": [],
+      "ancestorIds": [
+        "7974EF383813442DA517CA82EA96CD06",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "7974EF383813442DA517CA82EA96CD06"
+    },
+    "7974EF383813442DA517CA82EA96CD06": {
+      "id": "7974EF383813442DA517CA82EA96CD06",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "MAMC.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.C: Integration",
+      "comments": [],
+      "ancestorIds": [
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "5D77D1179A7A43BBBB5841C594F6D22F"
+    },
+    "2E21B3FB79AD4E9E92C3D43458279C6E": {
+      "id": "2E21B3FB79AD4E9E92C3D43458279C6E",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MAMC.B.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.B.6: define and apply the gradient, the divergence, and curl in terms of differential vector operations",
+      "comments": [],
+      "ancestorIds": [
+        "5750735722504FBDBDC0227B5F1C6CA3",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "5750735722504FBDBDC0227B5F1C6CA3"
+    },
+    "1FCFC88BEC844D279525CC804AEBBFBD": {
+      "id": "1FCFC88BEC844D279525CC804AEBBFBD",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MAMC.B.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.B.5: explore, find, use, and apply partial differentiation of functions of two independent variables of the form z = f(x, y) and implicit functions of the form f(x, y, z) = 0; approximate the partial derivatives at a point of a function defined by a table of data; find expressions for the first and second partial derivatives of a function; define and apply the total differential to approximate real-world phenomena; represent the partial derivatives of a system of two functions in two variables using the Jacobian; find the partial derivatives of the composition of functions using the general chain rule; apply partial differentiation to problems of optimization, including problems requiring the use of the Lagrange multiplier; investigate the differential, tangent plane, and normal lines",
+      "comments": [],
+      "ancestorIds": [
+        "5750735722504FBDBDC0227B5F1C6CA3",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "5750735722504FBDBDC0227B5F1C6CA3"
+    },
+    "5750735722504FBDBDC0227B5F1C6CA3": {
+      "id": "5750735722504FBDBDC0227B5F1C6CA3",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "MAMC.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.B: Derivatives",
+      "comments": [],
+      "ancestorIds": [
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "5D77D1179A7A43BBBB5841C594F6D22F"
+    },
+    "3365EAA44E7743938117D17F2D79B6EC": {
+      "id": "3365EAA44E7743938117D17F2D79B6EC",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "MAMC.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.A.3: explore functions of two independent variables of the form z = f(x, y) and implicit functions of the form f(x, y, z) = 0; evaluate such functions at a point in the plane; graph the level curves of such functions.; determine points or regions of discontinuity of such functions",
+      "comments": [],
+      "ancestorIds": [
+        "06B6DFDDF74E4B98B46862AF579D554A",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "06B6DFDDF74E4B98B46862AF579D554A"
+    },
+    "CD8D159B602A4467A01690527FF4D600": {
+      "id": "CD8D159B602A4467A01690527FF4D600",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "MAMC.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.A.2: recognize and apply properties of matrices; find the determinants of 2-by-2 and 3-by-3 matrices; represent a 3-by-3 system of linear equations as a matrix and solve the system in multiple ways the inverse matrix, row operations, and Cramer's Rule; apply properties of similar and orthogonal matrices to prove statements about matrices; find and apply the eigenvectors and eigenvalues of a 3-by-3 matrix; determine if a given set is a vector space; determine whether a vector v is a linear combination of the vectors in S; express a vector in a linearly independent set as a linear combination of the vectors in the set; determine whether a given set of vectors span; determine whether a set of vectors is linearly independent or linearly dependent; show that a set of vectors is a basis for a vector space; find a basis for the null space, row space, and column space of a matrix; find the rank and nullity of a matrix",
+      "comments": [],
+      "ancestorIds": [
+        "06B6DFDDF74E4B98B46862AF579D554A",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "06B6DFDDF74E4B98B46862AF579D554A"
+    },
+    "B2CF4822D5D94366AC43E9211CE8355F": {
+      "id": "B2CF4822D5D94366AC43E9211CE8355F",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "MAMC.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.A.1: investigate the relationship between points, lines, and planes in three-dimensions; represent equations of lines in space using vectors; express analytic geometry of three dimensions (equations of planes, parallelism, perpendicularity, angles) in terms of the dot product and cross product of vectors; . recognize conic sections and identify quadric surfaces",
+      "comments": [],
+      "ancestorIds": [
+        "06B6DFDDF74E4B98B46862AF579D554A",
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "06B6DFDDF74E4B98B46862AF579D554A"
+    },
+    "06B6DFDDF74E4B98B46862AF579D554A": {
+      "id": "06B6DFDDF74E4B98B46862AF579D554A",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "MAMC.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC.A: Algebra",
+      "comments": [],
+      "ancestorIds": [
+        "5D77D1179A7A43BBBB5841C594F6D22F"
+      ],
+      "parentId": "5D77D1179A7A43BBBB5841C594F6D22F"
+    },
+    "5D77D1179A7A43BBBB5841C594F6D22F": {
+      "id": "5D77D1179A7A43BBBB5841C594F6D22F",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "I",
+      "statementNotation": "MAMC",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "MAMC: Multivariable Calculus",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

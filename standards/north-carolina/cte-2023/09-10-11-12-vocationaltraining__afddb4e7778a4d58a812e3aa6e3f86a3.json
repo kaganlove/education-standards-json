@@ -1,0 +1,618 @@
+{
+  "id": "AFDDB4E7778A4D58A812E3AA6E3F86A3",
+  "title": "Introduction to Computer Science (CS10) (2024)",
+  "subject": "CTE (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12",
+    "VocationalTraining"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "North Carolina Department of Public Instruction",
+    "sourceURL": "https://center.ncsu.edu/nccte-cms/course_standards.php?choice=course&course_id=1798&cluster_id=-1&pathway_id=&sel_type=C&sel_id=1798&career_code=&cred_id=-1"
+  },
+  "jurisdiction": {
+    "id": "8A257771396B4F0792EB9D6020CC9089",
+    "title": "North Carolina"
+  },
+  "standards": {
+    "5643E9F5A3FD4F71B4B496E2CA57151A": {
+      "id": "5643E9F5A3FD4F71B4B496E2CA57151A",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "11.03",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and call simple functions. ",
+      "comments": [],
+      "ancestorIds": [
+        "58EFED6D7CA247F989B64D7F54D6BE2C"
+      ],
+      "parentId": "58EFED6D7CA247F989B64D7F54D6BE2C"
+    },
+    "B62C4D96EE224B5CB64D6CEC40DD3FF5": {
+      "id": "B62C4D96EE224B5CB64D6CEC40DD3FF5",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "11.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain why and how functions can make code easier to read and maintain. ",
+      "comments": [],
+      "ancestorIds": [
+        "58EFED6D7CA247F989B64D7F54D6BE2C"
+      ],
+      "parentId": "58EFED6D7CA247F989B64D7F54D6BE2C"
+    },
+    "6361E13A91524BEE91311B86AAABE08D": {
+      "id": "6361E13A91524BEE91311B86AAABE08D",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "11.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize functions in programs as a form of abstraction. ",
+      "comments": [],
+      "ancestorIds": [
+        "58EFED6D7CA247F989B64D7F54D6BE2C"
+      ],
+      "parentId": "58EFED6D7CA247F989B64D7F54D6BE2C"
+    },
+    "58EFED6D7CA247F989B64D7F54D6BE2C": {
+      "id": "58EFED6D7CA247F989B64D7F54D6BE2C",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 0,
+      "listId": "11",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand functions. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "114B5E546F904626A53864ADE1AA4321": {
+      "id": "114B5E546F904626A53864ADE1AA4321",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "10.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Practice creating, storing and retrieving list values. ",
+      "comments": [],
+      "ancestorIds": [
+        "25EEEA19895F40DAAB52B2A1EB19136B"
+      ],
+      "parentId": "25EEEA19895F40DAAB52B2A1EB19136B"
+    },
+    "041B339E92AE43CFA718FDD4A85D5BE5": {
+      "id": "041B339E92AE43CFA718FDD4A85D5BE5",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "10.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand common list operations. ",
+      "comments": [],
+      "ancestorIds": [
+        "25EEEA19895F40DAAB52B2A1EB19136B"
+      ],
+      "parentId": "25EEEA19895F40DAAB52B2A1EB19136B"
+    },
+    "25EEEA19895F40DAAB52B2A1EB19136B": {
+      "id": "25EEEA19895F40DAAB52B2A1EB19136B",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 0,
+      "listId": "10",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F6C0728538364011B140664881158A19": {
+      "id": "F6C0728538364011B140664881158A19",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "9.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Convert numbers from base-10 (decimal) to binary and decimal. ",
+      "comments": [],
+      "ancestorIds": [
+        "F1FF2CDF2F3F4541B4A280EEEAFE5F6E"
+      ],
+      "parentId": "F1FF2CDF2F3F4541B4A280EEEAFE5F6E"
+    },
+    "FF75C6A97B7A47D98060E8AAEABA56F4": {
+      "id": "FF75C6A97B7A47D98060E8AAEABA56F4",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 1,
+      "listId": "9.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the base-2 (binary) number system. ",
+      "comments": [],
+      "ancestorIds": [
+        "F1FF2CDF2F3F4541B4A280EEEAFE5F6E"
+      ],
+      "parentId": "F1FF2CDF2F3F4541B4A280EEEAFE5F6E"
+    },
+    "F1FF2CDF2F3F4541B4A280EEEAFE5F6E": {
+      "id": "F1FF2CDF2F3F4541B4A280EEEAFE5F6E",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 0,
+      "listId": "9",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what bits and bytes are and how they relate to computers. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "E753A5B8924C4C0BB51B19BD78E5D3E5": {
+      "id": "E753A5B8924C4C0BB51B19BD78E5D3E5",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 1,
+      "listId": "8.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a program that uses Booleans and Boolean operators. ",
+      "comments": [],
+      "ancestorIds": [
+        "A00D6272C52441AA882F12B0D39AEDC5"
+      ],
+      "parentId": "A00D6272C52441AA882F12B0D39AEDC5"
+    },
+    "32168D956C00437BBF14D12DCE574E6E": {
+      "id": "32168D956C00437BBF14D12DCE574E6E",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "8.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply Boolean expressions inside conditional (If/then and loops). ",
+      "comments": [],
+      "ancestorIds": [
+        "A00D6272C52441AA882F12B0D39AEDC5"
+      ],
+      "parentId": "A00D6272C52441AA882F12B0D39AEDC5"
+    },
+    "A00D6272C52441AA882F12B0D39AEDC5": {
+      "id": "A00D6272C52441AA882F12B0D39AEDC5",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 0,
+      "listId": "8",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what Booleans and Boolean operators are and why and when to use them. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FCD631314D74475FAD2A590FEA70B9CB": {
+      "id": "FCD631314D74475FAD2A590FEA70B9CB",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "7.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a program that uses coordinates. ",
+      "comments": [],
+      "ancestorIds": [
+        "FE91FAEF99F942B2BB9B98354E02397D"
+      ],
+      "parentId": "FE91FAEF99F942B2BB9B98354E02397D"
+    },
+    "8243A7EA12714BFEBC42B7AA1DB242CD": {
+      "id": "8243A7EA12714BFEBC42B7AA1DB242CD",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "7.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate how a sprite or game character moves across the output screen using a coordinate system. ",
+      "comments": [],
+      "ancestorIds": [
+        "FE91FAEF99F942B2BB9B98354E02397D"
+      ],
+      "parentId": "FE91FAEF99F942B2BB9B98354E02397D"
+    },
+    "FE91FAEF99F942B2BB9B98354E02397D": {
+      "id": "FE91FAEF99F942B2BB9B98354E02397D",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 0,
+      "listId": "7",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand coordinate grid system. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "97F20A9F151D49C6BC54C45985ACF468": {
+      "id": "97F20A9F151D49C6BC54C45985ACF468",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "6.03",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct programs that include events. ",
+      "comments": [],
+      "ancestorIds": [
+        "30B2F6D7F504444DA7F8C5E6BA2D6077"
+      ],
+      "parentId": "30B2F6D7F504444DA7F8C5E6BA2D6077"
+    },
+    "BB9CD32CC45C48A6A941E286B5465D64": {
+      "id": "BB9CD32CC45C48A6A941E286B5465D64",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "6.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a program that uses iteration and looping, including nested loops. ",
+      "comments": [],
+      "ancestorIds": [
+        "30B2F6D7F504444DA7F8C5E6BA2D6077"
+      ],
+      "parentId": "30B2F6D7F504444DA7F8C5E6BA2D6077"
+    },
+    "603543BB56AD4095BE531139F4704DAB": {
+      "id": "603543BB56AD4095BE531139F4704DAB",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "6.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze when to implement loops as a form of iteration. ",
+      "comments": [],
+      "ancestorIds": [
+        "30B2F6D7F504444DA7F8C5E6BA2D6077"
+      ],
+      "parentId": "30B2F6D7F504444DA7F8C5E6BA2D6077"
+    },
+    "30B2F6D7F504444DA7F8C5E6BA2D6077": {
+      "id": "30B2F6D7F504444DA7F8C5E6BA2D6077",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the iteration in programming. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "308A039D70B34822ACC84B717473E145": {
+      "id": "308A039D70B34822ACC84B717473E145",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "5.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a program that correctly and effectively implements conditionals. ",
+      "comments": [],
+      "ancestorIds": [
+        "B5AB60520D5A4070AB4D2E9E49EA3DCC"
+      ],
+      "parentId": "B5AB60520D5A4070AB4D2E9E49EA3DCC"
+    },
+    "43B0268DED944FE8880C59FD4934F764": {
+      "id": "43B0268DED944FE8880C59FD4934F764",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "5.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize â€˜Ifâ€¦thenâ€™ and â€˜Ifâ€¦thenâ€¦elseâ€™ statements to yield specified outcomes. ",
+      "comments": [],
+      "ancestorIds": [
+        "B5AB60520D5A4070AB4D2E9E49EA3DCC"
+      ],
+      "parentId": "B5AB60520D5A4070AB4D2E9E49EA3DCC"
+    },
+    "B5AB60520D5A4070AB4D2E9E49EA3DCC": {
+      "id": "B5AB60520D5A4070AB4D2E9E49EA3DCC",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what conditional statements are and how to implement them in a program. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "153EEC2BB3714E528D27B5D0D392DBF5": {
+      "id": "153EEC2BB3714E528D27B5D0D392DBF5",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "4.03",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs that use variables to store and modify data. ",
+      "comments": [],
+      "ancestorIds": [
+        "D55BB29969E144F8A557EEAB183E2E5D"
+      ],
+      "parentId": "D55BB29969E144F8A557EEAB183E2E5D"
+    },
+    "C9487D48958A4D05821FA4FC20705A4F": {
+      "id": "C9487D48958A4D05821FA4FC20705A4F",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "4.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply basic mathematical operators for variable values. ",
+      "comments": [],
+      "ancestorIds": [
+        "D55BB29969E144F8A557EEAB183E2E5D"
+      ],
+      "parentId": "D55BB29969E144F8A557EEAB183E2E5D"
+    },
+    "03A151AD27CD41F2AF844F1885ECFD52": {
+      "id": "03A151AD27CD41F2AF844F1885ECFD52",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "4.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Declare, initialize, and assign values to constants and variables using meaningful names. ",
+      "comments": [],
+      "ancestorIds": [
+        "D55BB29969E144F8A557EEAB183E2E5D"
+      ],
+      "parentId": "D55BB29969E144F8A557EEAB183E2E5D"
+    },
+    "D55BB29969E144F8A557EEAB183E2E5D": {
+      "id": "D55BB29969E144F8A557EEAB183E2E5D",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand what variables are and how to use them in a program. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "07368E4F85F14A6397F9389A926B3C50": {
+      "id": "07368E4F85F14A6397F9389A926B3C50",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "3.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implement flowcharts and pseudocode to address complex problems as algorithms. ",
+      "comments": [],
+      "ancestorIds": [
+        "2D6BD5DF224848ADBC9F51E566A3FF4B"
+      ],
+      "parentId": "2D6BD5DF224848ADBC9F51E566A3FF4B"
+    },
+    "A5B7409A2E0A4D59B3EA5724351058B0": {
+      "id": "A5B7409A2E0A4D59B3EA5724351058B0",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "3.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define an algorithm as a sequence of instructions that can be processed by a computer. ",
+      "comments": [],
+      "ancestorIds": [
+        "2D6BD5DF224848ADBC9F51E566A3FF4B"
+      ],
+      "parentId": "2D6BD5DF224848ADBC9F51E566A3FF4B"
+    },
+    "2D6BD5DF224848ADBC9F51E566A3FF4B": {
+      "id": "2D6BD5DF224848ADBC9F51E566A3FF4B",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand algorithms. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0ED5C0BF8F37488482838AB0D1FDDBE7": {
+      "id": "0ED5C0BF8F37488482838AB0D1FDDBE7",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "2.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize public domain or creative commons media to avoid copying or using material created by others without permission. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4956851DA8F4A16B2CD8B281B7DF311"
+      ],
+      "parentId": "E4956851DA8F4A16B2CD8B281B7DF311"
+    },
+    "14FB8B94EBE84832A810DFCFF5FE2176": {
+      "id": "14FB8B94EBE84832A810DFCFF5FE2176",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "2.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate the social and economic implications of privacy in the context of safety, law, and ethics. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4956851DA8F4A16B2CD8B281B7DF311"
+      ],
+      "parentId": "E4956851DA8F4A16B2CD8B281B7DF311"
+    },
+    "E4956851DA8F4A16B2CD8B281B7DF311": {
+      "id": "E4956851DA8F4A16B2CD8B281B7DF311",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand ethics in computer science. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5152AB1E3AE64267901A1CEB8801042D": {
+      "id": "5152AB1E3AE64267901A1CEB8801042D",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "1.04",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the importance of documenting, commenting, and debugging code to make the program easier to read. ",
+      "comments": [],
+      "ancestorIds": [
+        "111F6C2F60234341A43EFE1B87682AB0"
+      ],
+      "parentId": "111F6C2F60234341A43EFE1B87682AB0"
+    },
+    "54B6EE7E5BDB4047872403359FBCC250": {
+      "id": "54B6EE7E5BDB4047872403359FBCC250",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "1.03",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recall the variety of inputs that a computer takes in and the outputs a computer sends to the user. ",
+      "comments": [],
+      "ancestorIds": [
+        "111F6C2F60234341A43EFE1B87682AB0"
+      ],
+      "parentId": "111F6C2F60234341A43EFE1B87682AB0"
+    },
+    "1DAC050C43FC40839FC744FE873A17A7": {
+      "id": "1DAC050C43FC40839FC744FE873A17A7",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 1,
+      "listId": "1.02",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilize the design thinking process to develop an understanding of a problem or user need in order to design an optimal solution. ",
+      "comments": [],
+      "ancestorIds": [
+        "111F6C2F60234341A43EFE1B87682AB0"
+      ],
+      "parentId": "111F6C2F60234341A43EFE1B87682AB0"
+    },
+    "B1FB08D5003A49C596C0D9D198ED8121": {
+      "id": "B1FB08D5003A49C596C0D9D198ED8121",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1.01",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the function of common physical components of computing systems (hardware) with appropriate terminology. ",
+      "comments": [],
+      "ancestorIds": [
+        "111F6C2F60234341A43EFE1B87682AB0"
+      ],
+      "parentId": "111F6C2F60234341A43EFE1B87682AB0"
+    },
+    "111F6C2F60234341A43EFE1B87682AB0": {
+      "id": "111F6C2F60234341A43EFE1B87682AB0",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the components of computers and computer programming. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

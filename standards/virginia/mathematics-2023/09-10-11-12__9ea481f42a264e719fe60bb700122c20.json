@@ -1,0 +1,1837 @@
+{
+  "id": "9EA481F42A264E719FE60BB700122C20",
+  "title": "Discrete Mathematics",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Mathematics Standards of Learning for Virginia Public Schools",
+    "sourceURL": "https://www.doe.virginia.gov/home/showpublisheddocument/48908/638325354847170000",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "27D1AF28D2F54DD3A69C057DDA772BD0",
+    "title": "Virginia"
+  },
+  "standards": {
+    "17571316B75149839059D044E5BBC154": {
+      "id": "17571316B75149839059D044E5BBC154",
+      "asnIdentifier": null,
+      "position": 1123,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.CM.4.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze how the equivalence of P- and NP-class problems might impact society. ",
+      "comments": [],
+      "ancestorIds": [
+        "32C809D7B65E48E09ED0CE7BE85B9553",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "52AD70424DFB4D53A0DBF13337211AD4": {
+      "id": "52AD70424DFB4D53A0DBF13337211AD4",
+      "asnIdentifier": null,
+      "position": 1122,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.CM.4.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the P versus NP problem and defend a justification for equality, inequality, or\nundecidability. ",
+      "comments": [],
+      "ancestorIds": [
+        "32C809D7B65E48E09ED0CE7BE85B9553",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "108437B63C1C4C1D9A0D61861AB27068": {
+      "id": "108437B63C1C4C1D9A0D61861AB27068",
+      "asnIdentifier": null,
+      "position": 1121,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.CM.4.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the halting problem and explain how it characterizes the fundamental limitations of\ncomputation and undecidability.",
+      "comments": [],
+      "ancestorIds": [
+        "32C809D7B65E48E09ED0CE7BE85B9553",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "E1649BB7A64247E48CB3D64B84F2FC77": {
+      "id": "E1649BB7A64247E48CB3D64B84F2FC77",
+      "asnIdentifier": null,
+      "position": 1120,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.CM.4.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe Turing machines and how they are used to test the limits of computation. ",
+      "comments": [],
+      "ancestorIds": [
+        "32C809D7B65E48E09ED0CE7BE85B9553",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "5D242148926A4327B306DDC38F660D87": {
+      "id": "5D242148926A4327B306DDC38F660D87",
+      "asnIdentifier": null,
+      "position": 1119,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.CM.4.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe maximum complexity of an algorithm using Big O notation.",
+      "comments": [],
+      "ancestorIds": [
+        "32C809D7B65E48E09ED0CE7BE85B9553",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "32C809D7B65E48E09ED0CE7BE85B9553": {
+      "id": "32C809D7B65E48E09ED0CE7BE85B9553",
+      "asnIdentifier": null,
+      "position": 1117,
+      "depth": 1,
+      "listId": "CM.4",
+      "statementNotation": "DM.CM.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will analyze the limitations of algorithms and their contextual\nrelationships in computing. ",
+      "comments": [],
+      "ancestorIds": [
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": "3A5E3134BEA64FE69697E4CEE2B52C92"
+    },
+    "FB6AA58BBD284D66BC34202C332997BF": {
+      "id": "FB6AA58BBD284D66BC34202C332997BF",
+      "asnIdentifier": null,
+      "position": 1116,
+      "depth": 3,
+      "listId": "i",
+      "statementNotation": "DM.CM.3.i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply modular arithmetic to problems in context (e.g., cryptography, International Standard\nBook Number (ISBN), International Bank Account Number (IBAN)).",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "AE02E66FA7E346BCB27C455AD4E0CD8E": {
+      "id": "AE02E66FA7E346BCB27C455AD4E0CD8E",
+      "asnIdentifier": null,
+      "position": 1115,
+      "depth": 3,
+      "listId": "h",
+      "statementNotation": "DM.CM.3.h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform operations within modular arithmetic.",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "B3A7D6FAED2743AE8155718A6EDADC0B": {
+      "id": "B3A7D6FAED2743AE8155718A6EDADC0B",
+      "asnIdentifier": null,
+      "position": 1114,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "DM.CM.3.g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine congruence within modular arithmetic.",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "FAF88718B8D94E06975DFA24DF19D2D9": {
+      "id": "FAF88718B8D94E06975DFA24DF19D2D9",
+      "asnIdentifier": null,
+      "position": 1113,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.CM.3.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the relationship between divisibility and modulus.",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "1525283BBB9B46BABDBAF0609FD92CB9": {
+      "id": "1525283BBB9B46BABDBAF0609FD92CB9",
+      "asnIdentifier": null,
+      "position": 1112,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.CM.3.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe modular arithmetic in context (e.g., clocks, days of the week, measures of time).",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "48C75997728049D2BFAD2C69DBF4A5EA": {
+      "id": "48C75997728049D2BFAD2C69DBF4A5EA",
+      "asnIdentifier": null,
+      "position": 1111,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.CM.3.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how the complexity of prime factorization is used in cryptography.",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "A8BA981353BB4348A2D1E755FD1AB5A9": {
+      "id": "A8BA981353BB4348A2D1E755FD1AB5A9",
+      "asnIdentifier": null,
+      "position": 1110,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.CM.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the Fundamental Theorem of Arithmetic.",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "CA9E24C6403045DB8407577AB0336597": {
+      "id": "CA9E24C6403045DB8407577AB0336597",
+      "asnIdentifier": null,
+      "position": 1109,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.CM.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the evolution of cipher systems. ",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "DE093F6A19B5425A9EDB8D232559427B": {
+      "id": "DE093F6A19B5425A9EDB8D232559427B",
+      "asnIdentifier": null,
+      "position": 1108,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.CM.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast ciphers and codes.",
+      "comments": [],
+      "ancestorIds": [
+        "279923735C164ED3AFF26335E9FE95D2",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "279923735C164ED3AFF26335E9FE95D2": {
+      "id": "279923735C164ED3AFF26335E9FE95D2",
+      "asnIdentifier": null,
+      "position": 1106,
+      "depth": 1,
+      "listId": "CM.3",
+      "statementNotation": "DM.CM.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will identify and apply cryptographic methods.",
+      "comments": [],
+      "ancestorIds": [
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": "3A5E3134BEA64FE69697E4CEE2B52C92"
+    },
+    "C3BFBA533D5D41AD82C83D874B38B426": {
+      "id": "C3BFBA533D5D41AD82C83D874B38B426",
+      "asnIdentifier": null,
+      "position": 1105,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.CM.2.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine if a recursive solution is more efficient than an iterative solution.",
+      "comments": [],
+      "ancestorIds": [
+        "951548E632D848EEA32487D5B760F194",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "94E63375E4824D4EA97ABAE15B6745E5": {
+      "id": "94E63375E4824D4EA97ABAE15B6745E5",
+      "asnIdentifier": null,
+      "position": 1104,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.CM.2.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use recursive processes to generate the Fibonacci sequence. ",
+      "comments": [],
+      "ancestorIds": [
+        "951548E632D848EEA32487D5B760F194",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "630F147AEEC44E7EB15FDA900FF72DE6": {
+      "id": "630F147AEEC44E7EB15FDA900FF72DE6",
+      "asnIdentifier": null,
+      "position": 1103,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.CM.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use recursive processes to create fractals.",
+      "comments": [],
+      "ancestorIds": [
+        "951548E632D848EEA32487D5B760F194",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "A0272C1660E4484CB87368637B2870C8": {
+      "id": "A0272C1660E4484CB87368637B2870C8",
+      "asnIdentifier": null,
+      "position": 1102,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.CM.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use recursive processes to model growth and decay.",
+      "comments": [],
+      "ancestorIds": [
+        "951548E632D848EEA32487D5B760F194",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "B8B4F3983EC8427B86DC4CE0FCD09811": {
+      "id": "B8B4F3983EC8427B86DC4CE0FCD09811",
+      "asnIdentifier": null,
+      "position": 1101,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.CM.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast iterative and recursive processes.",
+      "comments": [],
+      "ancestorIds": [
+        "951548E632D848EEA32487D5B760F194",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "951548E632D848EEA32487D5B760F194": {
+      "id": "951548E632D848EEA32487D5B760F194",
+      "asnIdentifier": null,
+      "position": 1099,
+      "depth": 1,
+      "listId": "CM.2",
+      "statementNotation": "DM.CM.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will use recursive processes.",
+      "comments": [],
+      "ancestorIds": [
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": "3A5E3134BEA64FE69697E4CEE2B52C92"
+    },
+    "E768382BB2024D2699A18AE596F5BDBA": {
+      "id": "E768382BB2024D2699A18AE596F5BDBA",
+      "asnIdentifier": null,
+      "position": 1098,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.CM.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the average, best-case, and worst-case reasoning for different searches.",
+      "comments": [],
+      "ancestorIds": [
+        "3C6E86B5684B49BDB3E08CFA781D8E70",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "558FA94958194AC9B8FF2798C1299EC7": {
+      "id": "558FA94958194AC9B8FF2798C1299EC7",
+      "asnIdentifier": null,
+      "position": 1097,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.CM.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select and apply search algorithms to analyze problems.",
+      "comments": [],
+      "ancestorIds": [
+        "3C6E86B5684B49BDB3E08CFA781D8E70",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "0A3F10225C4E41C08616CBF88E2D706C": {
+      "id": "0A3F10225C4E41C08616CBF88E2D706C",
+      "asnIdentifier": null,
+      "position": 1096,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.CM.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the knapsack and bin-packing problems.",
+      "comments": [],
+      "ancestorIds": [
+        "3C6E86B5684B49BDB3E08CFA781D8E70",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "2813667410A54751A0C39FF0ED7DC018": {
+      "id": "2813667410A54751A0C39FF0ED7DC018",
+      "asnIdentifier": null,
+      "position": 1095,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.CM.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the advantages and disadvantages of various sorting algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "3C6E86B5684B49BDB3E08CFA781D8E70",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "1E639CAF197C4F34973290D4AB2B5B61": {
+      "id": "1E639CAF197C4F34973290D4AB2B5B61",
+      "asnIdentifier": null,
+      "position": 1094,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.CM.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select and apply a sorting algorithm, such as a bubble sort, merge sort, or network sort.",
+      "comments": [],
+      "ancestorIds": [
+        "3C6E86B5684B49BDB3E08CFA781D8E70",
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": null
+    },
+    "3C6E86B5684B49BDB3E08CFA781D8E70": {
+      "id": "3C6E86B5684B49BDB3E08CFA781D8E70",
+      "asnIdentifier": null,
+      "position": 1092,
+      "depth": 1,
+      "listId": "CM.1",
+      "statementNotation": "DM.CM.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will describe and apply sorting and searching algorithms used in\nprocessing and communicating information. ",
+      "comments": [],
+      "ancestorIds": [
+        "3A5E3134BEA64FE69697E4CEE2B52C92"
+      ],
+      "parentId": "3A5E3134BEA64FE69697E4CEE2B52C92"
+    },
+    "3A5E3134BEA64FE69697E4CEE2B52C92": {
+      "id": "3A5E3134BEA64FE69697E4CEE2B52C92",
+      "asnIdentifier": null,
+      "position": 1091,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computational Methods",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "31AB585C941940C7908270C59197128C": {
+      "id": "31AB585C941940C7908270C59197128C",
+      "asnIdentifier": null,
+      "position": 1090,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.GT.5.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and test scheduling algorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "79185026AB7B4467AAE0E91019898CD3",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "9E0F188F12684DA79FC8480D41B51F7C": {
+      "id": "9E0F188F12684DA79FC8480D41B51F7C",
+      "asnIdentifier": null,
+      "position": 1089,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.GT.5.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the list-processing algorithm to determine an optimal schedule.",
+      "comments": [],
+      "ancestorIds": [
+        "79185026AB7B4467AAE0E91019898CD3",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "0606E157B41A482CB8EBB1D9E6A8036E": {
+      "id": "0606E157B41A482CB8EBB1D9E6A8036E",
+      "asnIdentifier": null,
+      "position": 1088,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.GT.5.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the critical path to determine the earliest completion time (minimum project time).",
+      "comments": [],
+      "ancestorIds": [
+        "79185026AB7B4467AAE0E91019898CD3",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "8273C53138B14FD3B70A104BEBB570CA": {
+      "id": "8273C53138B14FD3B70A104BEBB570CA",
+      "asnIdentifier": null,
+      "position": 1087,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.GT.5.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Specify in a digraph the order in which tests are to be performed.",
+      "comments": [],
+      "ancestorIds": [
+        "79185026AB7B4467AAE0E91019898CD3",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "79185026AB7B4467AAE0E91019898CD3": {
+      "id": "79185026AB7B4467AAE0E91019898CD3",
+      "asnIdentifier": null,
+      "position": 1085,
+      "depth": 1,
+      "listId": "GT.5",
+      "statementNotation": "DM.GT.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will use algorithms to schedule tasks to determine a minimum project\ntime.",
+      "comments": [],
+      "ancestorIds": [
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": "055E2F6C7A824C25B133DC9D4F1F806F"
+    },
+    "8CFDA8E7BB054E65A4C0B9B478D5140D": {
+      "id": "8CFDA8E7BB054E65A4C0B9B478D5140D",
+      "asnIdentifier": null,
+      "position": 1084,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.GT.4.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Dijkstra’s algorithm to determine the shortest spanning tree of a connected graph.",
+      "comments": [],
+      "ancestorIds": [
+        "7A58BC021B4940B189EE62F8802F8E49",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "579A8E861C84467798EB1839BC4B88DC": {
+      "id": "579A8E861C84467798EB1839BC4B88DC",
+      "asnIdentifier": null,
+      "position": 1083,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.GT.4.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Prim’s algorithm to determine the shortest spanning tree of a connected graph. ",
+      "comments": [],
+      "ancestorIds": [
+        "7A58BC021B4940B189EE62F8802F8E49",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "1E721D414B0648D3B2CD6FE106BFF2AD": {
+      "id": "1E721D414B0648D3B2CD6FE106BFF2AD",
+      "asnIdentifier": null,
+      "position": 1082,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.GT.4.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Kruskal’s algorithm to determine the shortest spanning tree of a connected graph.",
+      "comments": [],
+      "ancestorIds": [
+        "7A58BC021B4940B189EE62F8802F8E49",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "516A27D9DBDD47B5AA283B218D582108": {
+      "id": "516A27D9DBDD47B5AA283B218D582108",
+      "asnIdentifier": null,
+      "position": 1081,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.GT.4.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Recognize algorithms such as nearest neighbor, brute force, and cheapest link as they apply to\ngraphs.",
+      "comments": [],
+      "ancestorIds": [
+        "7A58BC021B4940B189EE62F8802F8E49",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "7A58BC021B4940B189EE62F8802F8E49": {
+      "id": "7A58BC021B4940B189EE62F8802F8E49",
+      "asnIdentifier": null,
+      "position": 1079,
+      "depth": 1,
+      "listId": "GT.4",
+      "statementNotation": "DM.GT.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will recognize and apply algorithms to solve configuration, conflict-resolution, and sorting problems.",
+      "comments": [],
+      "ancestorIds": [
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": "055E2F6C7A824C25B133DC9D4F1F806F"
+    },
+    "5E64C9B228DC44E7A8FFD96C5F6EF534": {
+      "id": "5E64C9B228DC44E7A8FFD96C5F6EF534",
+      "asnIdentifier": null,
+      "position": 1078,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.GT.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use graph coloring to determine the chromatic number of a graph. ",
+      "comments": [],
+      "ancestorIds": [
+        "F4622FFBA84741789CFDBA7C5ED40C20",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "3AD99336A01B4CC98BE3C4028B32A75D": {
+      "id": "3AD99336A01B4CC98BE3C4028B32A75D",
+      "asnIdentifier": null,
+      "position": 1077,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.GT.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use graphs to resolve conflicts that arise in scheduling.",
+      "comments": [],
+      "ancestorIds": [
+        "F4622FFBA84741789CFDBA7C5ED40C20",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "7D599CB855DB44C89DF1E23F8BD9363C": {
+      "id": "7D599CB855DB44C89DF1E23F8BD9363C",
+      "asnIdentifier": null,
+      "position": 1076,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.GT.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model projects consisting of several subtasks, using a graph.",
+      "comments": [],
+      "ancestorIds": [
+        "F4622FFBA84741789CFDBA7C5ED40C20",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "F4622FFBA84741789CFDBA7C5ED40C20": {
+      "id": "F4622FFBA84741789CFDBA7C5ED40C20",
+      "asnIdentifier": null,
+      "position": 1074,
+      "depth": 1,
+      "listId": "GT.3",
+      "statementNotation": "DM.GT.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will apply graphs to conflict-resolution problems, such as graph\ncoloring, scheduling, matching, and optimization. ",
+      "comments": [],
+      "ancestorIds": [
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": "055E2F6C7A824C25B133DC9D4F1F806F"
+    },
+    "976129DF2E664AB2B7BFE7F5FC9D36E9": {
+      "id": "976129DF2E664AB2B7BFE7F5FC9D36E9",
+      "asnIdentifier": null,
+      "position": 1073,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.GT.2.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use an Euler circuit algorithm to solve optimization problems.",
+      "comments": [],
+      "ancestorIds": [
+        "9C0E55147222488791DA501E4F5DAE45",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "DBCA2B6CBC94483CA2DE8AEB0FB63E53": {
+      "id": "DBCA2B6CBC94483CA2DE8AEB0FB63E53",
+      "asnIdentifier": null,
+      "position": 1072,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.GT.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Count the number of Hamilton circuits for a complete graph with n vertices.",
+      "comments": [],
+      "ancestorIds": [
+        "9C0E55147222488791DA501E4F5DAE45",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "E471E8DC43F94BE08E169946442B5A93": {
+      "id": "E471E8DC43F94BE08E169946442B5A93",
+      "asnIdentifier": null,
+      "position": 1071,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.GT.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a graph has a Hamilton circuit or path, and determine the circuit or path, if\nit exists.",
+      "comments": [],
+      "ancestorIds": [
+        "9C0E55147222488791DA501E4F5DAE45",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "27D8B16672F640A09D0B87F8DEE2CC96": {
+      "id": "27D8B16672F640A09D0B87F8DEE2CC96",
+      "asnIdentifier": null,
+      "position": 1070,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.GT.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a graph has an Euler circuit or path, and determine the circuit or path, if it\nexists.",
+      "comments": [],
+      "ancestorIds": [
+        "9C0E55147222488791DA501E4F5DAE45",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "9C0E55147222488791DA501E4F5DAE45": {
+      "id": "9C0E55147222488791DA501E4F5DAE45",
+      "asnIdentifier": null,
+      "position": 1068,
+      "depth": 1,
+      "listId": "GT.2",
+      "statementNotation": "DM.GT.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will solve problems through analysis and application of circuits, cycles,\nEuler paths, Euler circuits, Hamilton paths, and Hamilton circuits. Optimal\nsolutions will be determined using existing algorithms and student-created\nalgorithms.",
+      "comments": [],
+      "ancestorIds": [
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": "055E2F6C7A824C25B133DC9D4F1F806F"
+    },
+    "8B6075566A664DF584C10FE90B08160F": {
+      "id": "8B6075566A664DF584C10FE90B08160F",
+      "asnIdentifier": null,
+      "position": 1067,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "DM.GT.1.g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine when graphs are trees.",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "23F73156548B4BD6AC69B11B87CAAA85": {
+      "id": "23F73156548B4BD6AC69B11B87CAAA85",
+      "asnIdentifier": null,
+      "position": 1066,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.GT.1.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use directed graphs (digraphs) to represent situations with restrictions in traversal\npossibilities.",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "15F915DB234341D2957D450479810CFC": {
+      "id": "15F915DB234341D2957D450479810CFC",
+      "asnIdentifier": null,
+      "position": 1065,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.GT.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze the relationship between faces, edges, and vertices using Euler’s formula\n(F = E – V + 2).",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "055221A91BA6417AB9AB688AD8096CF0": {
+      "id": "055221A91BA6417AB9AB688AD8096CF0",
+      "asnIdentifier": null,
+      "position": 1064,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.GT.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a graph is planar or nonplanar.",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "5B6E9C70AF9541169BAE362FDA829445": {
+      "id": "5B6E9C70AF9541169BAE362FDA829445",
+      "asnIdentifier": null,
+      "position": 1063,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.GT.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and describe degree and connectedness.",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "539C25DD521B4165A85F072350FFB48A": {
+      "id": "539C25DD521B4165A85F072350FFB48A",
+      "asnIdentifier": null,
+      "position": 1062,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.GT.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use graphs to map situations in which the vertices represent objects, and edges represent a\nparticular relationship between objects.",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "267F01235071442CA7CC52E1DDBC0F00": {
+      "id": "267F01235071442CA7CC52E1DDBC0F00",
+      "asnIdentifier": null,
+      "position": 1061,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.GT.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate the basic terminology of graph theory (e.g., vertex, edge, graph, degree of a vertex).",
+      "comments": [],
+      "ancestorIds": [
+        "BA11326D97ED4952BF5FC8535457A0BB",
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": null
+    },
+    "BA11326D97ED4952BF5FC8535457A0BB": {
+      "id": "BA11326D97ED4952BF5FC8535457A0BB",
+      "asnIdentifier": null,
+      "position": 1059,
+      "depth": 1,
+      "listId": "GT.1",
+      "statementNotation": "DM.GT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will represent problems using vertex-edge graphs. The concepts of\ndegree, connectedness, paths, planarity, and directed graphs will be analyzed.",
+      "comments": [],
+      "ancestorIds": [
+        "055E2F6C7A824C25B133DC9D4F1F806F"
+      ],
+      "parentId": "055E2F6C7A824C25B133DC9D4F1F806F"
+    },
+    "055E2F6C7A824C25B133DC9D4F1F806F": {
+      "id": "055E2F6C7A824C25B133DC9D4F1F806F",
+      "asnIdentifier": null,
+      "position": 1058,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph Theory",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4B57923996DF49BA9C7680F717003AE8": {
+      "id": "4B57923996DF49BA9C7680F717003AE8",
+      "asnIdentifier": null,
+      "position": 1057,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.SNT.3.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the Fibonacci numbers within Pascal’s Triangle. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4CFF68CEA0A48C387C478D1F17B7DC6",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "2F09E3CE8B124BF792E2C18A0C55CCA0": {
+      "id": "2F09E3CE8B124BF792E2C18A0C55CCA0",
+      "asnIdentifier": null,
+      "position": 1056,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.SNT.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare the binomial coefficient to the calculation of combinations.",
+      "comments": [],
+      "ancestorIds": [
+        "E4CFF68CEA0A48C387C478D1F17B7DC6",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "EF63F6B9AB2E4F5F8A981DA12A9C2B6C": {
+      "id": "EF63F6B9AB2E4F5F8A981DA12A9C2B6C",
+      "asnIdentifier": null,
+      "position": 1055,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.SNT.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Expand binomials having positive integral exponents, using the Binomial Theorem and\nPascal’s Triangle. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4CFF68CEA0A48C387C478D1F17B7DC6",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "C99C49803936419E9C8E7DC097ACE26F": {
+      "id": "C99C49803936419E9C8E7DC097ACE26F",
+      "asnIdentifier": null,
+      "position": 1054,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.SNT.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct Pascal’s Triangle. ",
+      "comments": [],
+      "ancestorIds": [
+        "E4CFF68CEA0A48C387C478D1F17B7DC6",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "E4CFF68CEA0A48C387C478D1F17B7DC6": {
+      "id": "E4CFF68CEA0A48C387C478D1F17B7DC6",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 1,
+      "listId": "SNT.3",
+      "statementNotation": "DM.SNT.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will use Pascal’s Triangle to analyze numerical patterns and\nrelationships.",
+      "comments": [],
+      "ancestorIds": [
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": "4930160D26DC40EFB9D99D922A468CB4"
+    },
+    "57AC2E6F764E44CEA9BDB98AB6A0E612": {
+      "id": "57AC2E6F764E44CEA9BDB98AB6A0E612",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.SNT.2.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct a proof by induction using principles of combinatorics.",
+      "comments": [],
+      "ancestorIds": [
+        "BC881ED78E284698AC9CF7978BF9636A",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "326D6A54560E408C849B563BF05C6979": {
+      "id": "326D6A54560E408C849B563BF05C6979",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.SNT.2.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the pigeonhole principle to solve packing problems to facilitate proofs.",
+      "comments": [],
+      "ancestorIds": [
+        "BC881ED78E284698AC9CF7978BF9636A",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "F8EB2E8E2C804C589D299727A3A61EC8": {
+      "id": "F8EB2E8E2C804C589D299727A3A61EC8",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.SNT.2.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the number of permutations possible when r objects selected from n objects are\nordered. ",
+      "comments": [],
+      "ancestorIds": [
+        "BC881ED78E284698AC9CF7978BF9636A",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "F3E01BF091C944B9A7B81B3B8D5AF731": {
+      "id": "F3E01BF091C944B9A7B81B3B8D5AF731",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.SNT.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the number of combinations possible when subsets of r elements are selected from\na set of n elements without regard to order. ",
+      "comments": [],
+      "ancestorIds": [
+        "BC881ED78E284698AC9CF7978BF9636A",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "172F8306BE214FA6BA10158062CB45E6": {
+      "id": "172F8306BE214FA6BA10158062CB45E6",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.SNT.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the Fundamental (Basic) Counting Principle to determine the number of possible\noutcomes of an event. ",
+      "comments": [],
+      "ancestorIds": [
+        "BC881ED78E284698AC9CF7978BF9636A",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "30A142CB4B5D49C2B3584023D4A1EEBD": {
+      "id": "30A142CB4B5D49C2B3584023D4A1EEBD",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.SNT.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a tree diagram to represent relationships between independent events.",
+      "comments": [],
+      "ancestorIds": [
+        "BC881ED78E284698AC9CF7978BF9636A",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "BC881ED78E284698AC9CF7978BF9636A": {
+      "id": "BC881ED78E284698AC9CF7978BF9636A",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 1,
+      "listId": "SNT.2",
+      "statementNotation": "DM.SNT.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will apply the formulas of combinatorics.",
+      "comments": [],
+      "ancestorIds": [
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": "4930160D26DC40EFB9D99D922A468CB4"
+    },
+    "543C74535A0A42F3B7CCA56FF903183E": {
+      "id": "543C74535A0A42F3B7CCA56FF903183E",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "DM.SNT.1.g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the properties of set operations to prove set equality.",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "9D15020E5FB94E489D2A29302E861FE9": {
+      "id": "9D15020E5FB94E489D2A29302E861FE9",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.SNT.1.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the principle of inclusion and exclusion to determine the size of a set.",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "3424586D4C174A3384DC61396A9CBD8D": {
+      "id": "3424586D4C174A3384DC61396A9CBD8D",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.SNT.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the laws of set theory (e.g., associative, commutative, distributive, De Morgan’s\nLaw).",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "233900E8925F443B922E557E3F390F5C": {
+      "id": "233900E8925F443B922E557E3F390F5C",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.SNT.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct new sets using the set operations intersection, union, difference, and complement.",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "43B3CBEC643B4D1CA0A82E5893404A13": {
+      "id": "43B3CBEC643B4D1CA0A82E5893404A13",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.SNT.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe a set using set-builder notation.",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "FABB94F099684809B6EB9868B5274EEF": {
+      "id": "FABB94F099684809B6EB9868B5274EEF",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.SNT.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Express relationships between sets using Venn diagrams.",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "B2585B2EBD5E4313A6E6703698E1D2C1": {
+      "id": "B2585B2EBD5E4313A6E6703698E1D2C1",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.SNT.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast sets, relations, and functions.",
+      "comments": [],
+      "ancestorIds": [
+        "E132A3F23B67413486284CD2D16F6E66",
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": null
+    },
+    "E132A3F23B67413486284CD2D16F6E66": {
+      "id": "E132A3F23B67413486284CD2D16F6E66",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 1,
+      "listId": "SNT.1",
+      "statementNotation": "DM.SNT.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will identify and use the properties of sets and set operations. ",
+      "comments": [],
+      "ancestorIds": [
+        "4930160D26DC40EFB9D99D922A468CB4"
+      ],
+      "parentId": "4930160D26DC40EFB9D99D922A468CB4"
+    },
+    "4930160D26DC40EFB9D99D922A468CB4": {
+      "id": "4930160D26DC40EFB9D99D922A468CB4",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Set and Number Theory",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5C4E48F3E95640FD90DFE26CA6D3471D": {
+      "id": "5C4E48F3E95640FD90DFE26CA6D3471D",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.LR.4.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prove the Binomial Theorem through mathematical induction.",
+      "comments": [],
+      "ancestorIds": [
+        "7F1B97981DB4427ABBB516E476166C7E",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "1FDA05F756FF481B8606428AC1E1974A": {
+      "id": "1FDA05F756FF481B8606428AC1E1974A",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.LR.4.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct induction proofs involving a divisibility argument.",
+      "comments": [],
+      "ancestorIds": [
+        "7F1B97981DB4427ABBB516E476166C7E",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "80C123850A4B4C92AA9CDA0EBBF6D09B": {
+      "id": "80C123850A4B4C92AA9CDA0EBBF6D09B",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.LR.4.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the relationship between weak and strong induction.",
+      "comments": [],
+      "ancestorIds": [
+        "7F1B97981DB4427ABBB516E476166C7E",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "1BC4636BD81B421CA4014188B19CC390": {
+      "id": "1BC4636BD81B421CA4014188B19CC390",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.LR.4.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast inductive and deductive reasoning.",
+      "comments": [],
+      "ancestorIds": [
+        "7F1B97981DB4427ABBB516E476166C7E",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "7F1B97981DB4427ABBB516E476166C7E": {
+      "id": "7F1B97981DB4427ABBB516E476166C7E",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "LR.4",
+      "statementNotation": "DM.LR.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will use mathematical induction to prove formulas and mathematical\nstatements.",
+      "comments": [],
+      "ancestorIds": [
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": "655131E30518444B89582E1230CFB192"
+    },
+    "3DD35432A59944DDBFD656F9C1B2B230": {
+      "id": "3DD35432A59944DDBFD656F9C1B2B230",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 3,
+      "listId": "h",
+      "statementNotation": "DM.LR.3.h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Design simple combinational networks that use NAND (AND followed by NOT), NOR (OR\nfollowed by NOT), and XOR (exclusive-OR) gates.",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "1DCCD85E766B4015964BBE2F1115F3A1": {
+      "id": "1DCCD85E766B4015964BBE2F1115F3A1",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "DM.LR.3.g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze a combinational network using Boolean expressions. ",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "45F6E12700C74F2EB76D7EF78F5933A2": {
+      "id": "45F6E12700C74F2EB76D7EF78F5933A2",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.LR.3.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the relationship between Boolean algebra and electronic circuits.",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "9089F6920BF642B0BF83E7295B25F6B8": {
+      "id": "9089F6920BF642B0BF83E7295B25F6B8",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.LR.3.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the operation of discrete logic gates.",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "F0C27DEC0DBE4E8FA4A19292544742EB": {
+      "id": "F0C27DEC0DBE4E8FA4A19292544742EB",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.LR.3.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Generate truth tables that encode the truth and falsity of two or more statements.",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "D9591A0F123347A1936E5DE694E1EDD2": {
+      "id": "D9591A0F123347A1936E5DE694E1EDD2",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.LR.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply Boolean algebra to prove identities and simplify expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "ACE788891AB947E5A055D2225947C6DB": {
+      "id": "ACE788891AB947E5A055D2225947C6DB",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.LR.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent verbal statements as Boolean expressions. ",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "753116C0E7824B07A8FF7B748D850FC9": {
+      "id": "753116C0E7824B07A8FF7B748D850FC9",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.LR.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain basic properties of Boolean algebra: duality, complements, and standard forms. ",
+      "comments": [],
+      "ancestorIds": [
+        "0B58C7F8391B4647BA89016148E3343C",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "0B58C7F8391B4647BA89016148E3343C": {
+      "id": "0B58C7F8391B4647BA89016148E3343C",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 1,
+      "listId": "LR.3",
+      "statementNotation": "DM.LR.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will apply Boolean algebra to represent and analyze the function of\nlogical gates and circuits. ",
+      "comments": [],
+      "ancestorIds": [
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": "655131E30518444B89582E1230CFB192"
+    },
+    "930C0E75DCAA400F88A7339519B5A6D2": {
+      "id": "930C0E75DCAA400F88A7339519B5A6D2",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.LR.2.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use a truth table to prove the logical equivalence of statements.",
+      "comments": [],
+      "ancestorIds": [
+        "3A9961AFD2AF40CCA8057B85CDC180CA",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "A2C6C66D7E314D9295503C93CF1B30D2": {
+      "id": "A2C6C66D7E314D9295503C93CF1B30D2",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.LR.2.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Construct induction proofs involving summations and inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "3A9961AFD2AF40CCA8057B85CDC180CA",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "051FD6D486C2490C9DF006A70AFE1D3B": {
+      "id": "051FD6D486C2490C9DF006A70AFE1D3B",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.LR.2.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the rules of inference to construct direct proofs and proofs by contradiction. ",
+      "comments": [],
+      "ancestorIds": [
+        "3A9961AFD2AF40CCA8057B85CDC180CA",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "161DACF061B3426386FDC73D0A1B6B11": {
+      "id": "161DACF061B3426386FDC73D0A1B6B11",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.LR.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Deduce the best type of proof for a given problem.",
+      "comments": [],
+      "ancestorIds": [
+        "3A9961AFD2AF40CCA8057B85CDC180CA",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "F6403142416843CEADCB69BF5289F707": {
+      "id": "F6403142416843CEADCB69BF5289F707",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.LR.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Outline the basic structure of a proof technique (e.g., direct proof, proof by contradiction,\ninduction).",
+      "comments": [],
+      "ancestorIds": [
+        "3A9961AFD2AF40CCA8057B85CDC180CA",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "883627318C27450F84A5343A0AF94BB9": {
+      "id": "883627318C27450F84A5343A0AF94BB9",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.LR.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply informal logical reasoning to contextual problems (e.g., predicting the behavior of\nsoftware, solving puzzles).",
+      "comments": [],
+      "ancestorIds": [
+        "3A9961AFD2AF40CCA8057B85CDC180CA",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "3A9961AFD2AF40CCA8057B85CDC180CA": {
+      "id": "3A9961AFD2AF40CCA8057B85CDC180CA",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "LR.2",
+      "statementNotation": "DM.LR.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will apply logic and proof techniques in the construction of a sound\nargument.",
+      "comments": [],
+      "ancestorIds": [
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": "655131E30518444B89582E1230CFB192"
+    },
+    "6215D34E794C42938581C09AF0C5E756": {
+      "id": "6215D34E794C42938581C09AF0C5E756",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 3,
+      "listId": "g",
+      "statementNotation": "DM.LR.1.g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply logical reasoning to model contextual situations and make decisions.",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "06BB97B276194A72898580BEC8FCCB40": {
+      "id": "06BB97B276194A72898580BEC8FCCB40",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 3,
+      "listId": "f",
+      "statementNotation": "DM.LR.1.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the rules of inference and model basic logical statements including De Morgan’s\nLaw.",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "4B1A21B8EE4D4A30980094DA0856955A": {
+      "id": "4B1A21B8EE4D4A30980094DA0856955A",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 3,
+      "listId": "e",
+      "statementNotation": "DM.LR.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construct a truth table to display all possible input combinations and their outputs.",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "18075812E962413EA2637F4F7845FEDB": {
+      "id": "18075812E962413EA2637F4F7845FEDB",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 3,
+      "listId": "d",
+      "statementNotation": "DM.LR.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how symbolic logic can be used to map the processes of computer applications.",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "0339BB8599264AA48844B6FBB3E4D5B4": {
+      "id": "0339BB8599264AA48844B6FBB3E4D5B4",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": "DM.LR.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a conditional statement as its converse, inverse, and contrapositive.",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "87761CDBB9D840AE8C818AE7DDE54A6D": {
+      "id": "87761CDBB9D840AE8C818AE7DDE54A6D",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "DM.LR.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Express logical statements in symbolic form. ",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "BCD3B24C2C9C430C87426A0174B572EC": {
+      "id": "BCD3B24C2C9C430C87426A0174B572EC",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "DM.LR.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use Venn diagrams to codify and solve logic problems.",
+      "comments": [],
+      "ancestorIds": [
+        "C6FD0382C709498DB8294F5B5EB11AEC",
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": null
+    },
+    "C6FD0382C709498DB8294F5B5EB11AEC": {
+      "id": "C6FD0382C709498DB8294F5B5EB11AEC",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "LR.1",
+      "statementNotation": "DM.LR.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The student will use reasoning to develop and apply logical arguments.",
+      "comments": [],
+      "ancestorIds": [
+        "655131E30518444B89582E1230CFB192"
+      ],
+      "parentId": "655131E30518444B89582E1230CFB192"
+    },
+    "655131E30518444B89582E1230CFB192": {
+      "id": "655131E30518444B89582E1230CFB192",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Logical Reasoning",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

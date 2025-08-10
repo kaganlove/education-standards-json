@@ -1,0 +1,912 @@
+{
+  "id": "519A8345F83842E1B87EB13A7F821153",
+  "title": "Algebra I",
+  "subject": "Mathematics Content Connectors (2024-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "2024 Indiana Content Connectors: Algebra I",
+    "sourceURL": "https://www.in.gov/doe/files/AlgebraI-Math-Content-Connectors.docx.pdf"
+  },
+  "jurisdiction": {
+    "id": "0F7091AB177F40D8B71B326CAFD13C8D",
+    "title": "Indiana"
+  },
+  "standards": {
+    "ACAC766314BC457781D03D232A843407": {
+      "id": "ACAC766314BC457781D03D232A843407",
+      "asnIdentifier": null,
+      "position": 1053,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.DS.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a two-way frequency table, calculate relative\nfrequencies for rows or columns. ",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD7711450745BB9AB4C6DFBFC659B7",
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "1EBD7711450745BB9AB4C6DFBFC659B7"
+    },
+    "1EBD7711450745BB9AB4C6DFBFC659B7": {
+      "id": "1EBD7711450745BB9AB4C6DFBFC659B7",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "AI.DS.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize bivariate categorical data in two-way frequency\ntables. Interpret relative frequencies in the contexts of the data\n(including joint, marginal, and conditional relative frequencies).\nRecognize possible associations and trends in data.",
+      "comments": [],
+      "ancestorIds": [
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "C08AFA47721A4DDD9C54084FB085CD44"
+    },
+    "4E3985EB9FF54CA2B12C5C2C279EC328": {
+      "id": "4E3985EB9FF54CA2B12C5C2C279EC328",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.DS.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine if the correlation coefficient, measured from 0 to\n1, is a strong or weak correlation. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "19910327EBD3404D9555CD73306E1FF2",
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "19910327EBD3404D9555CD73306E1FF2"
+    },
+    "E3098E9BDC214B7EAEE4C51C9DE2C789": {
+      "id": "E3098E9BDC214B7EAEE4C51C9DE2C789",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.DS.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the line of best fit to find points that can be used to\nanswer questions about data. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "19910327EBD3404D9555CD73306E1FF2",
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "19910327EBD3404D9555CD73306E1FF2"
+    },
+    "19910327EBD3404D9555CD73306E1FF2": {
+      "id": "19910327EBD3404D9555CD73306E1FF2",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "AI.DS.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use technology to find a linear function that models a\nrelationship between two quantitative variables to make predictions\nand interpret the slope and y-intercept. Using technology, compute and\ninterpret the correlation coefficient. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "C08AFA47721A4DDD9C54084FB085CD44"
+    },
+    "65E985E70336429FBAEA3E7534FD9D82": {
+      "id": "65E985E70336429FBAEA3E7534FD9D82",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.DS.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Select the model that represents biased or unbiased\nstatistics and data and therefore might be misleading. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "7CE71C4C4E2E438B954317767268458E",
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "7CE71C4C4E2E438B954317767268458E"
+    },
+    "7CE71C4C4E2E438B954317767268458E": {
+      "id": "7CE71C4C4E2E438B954317767268458E",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "AI.DS.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that statistics and data are non-neutral and\ndesigned to serve a particular interest. Analyze the possibilities for\nwhose interest might be served and how the representations might be\nmisleading. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "C08AFA47721A4DDD9C54084FB085CD44"
+    },
+    "01354C1D124347FE9A6096AA7E0F3F9C": {
+      "id": "01354C1D124347FE9A6096AA7E0F3F9C",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.DS.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a statistical situation, identify it as a sample survey,\nexperiment, or an observational study. Recognize the purpose of\nusing a random sample.",
+      "comments": [],
+      "ancestorIds": [
+        "CE2084FA9680405BA9C2610AEE565807",
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "CE2084FA9680405BA9C2610AEE565807"
+    },
+    "CE2084FA9680405BA9C2610AEE565807": {
+      "id": "CE2084FA9680405BA9C2610AEE565807",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AI.DS.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret statistics as a process for making inferences about a\npopulation based on a random sample from that population. Recognize\nthe purposes of and differences among sample surveys, experiments,\nand observational studies; explain how randomization relates to each.\n(E) ",
+      "comments": [],
+      "ancestorIds": [
+        "C08AFA47721A4DDD9C54084FB085CD44"
+      ],
+      "parentId": "C08AFA47721A4DDD9C54084FB085CD44"
+    },
+    "C08AFA47721A4DDD9C54084FB085CD44": {
+      "id": "C08AFA47721A4DDD9C54084FB085CD44",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "DS",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Analysis & Statistics",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "958BBB6F6D604E46843E32C22599D238": {
+      "id": "958BBB6F6D604E46843E32C22599D238",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.QE.6a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify zeros of quadratic functions. Understand that\nquadratic equations have 2, 1, or no real solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "3FB7FEBCD094441785ACC3085AC7E674",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "3FB7FEBCD094441785ACC3085AC7E674"
+    },
+    "3FB7FEBCD094441785ACC3085AC7E674": {
+      "id": "3FB7FEBCD094441785ACC3085AC7E674",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "AI.QE.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the relationships among a solution of a quadratic\nequation, a zero of the function, an x-intercept of the graph, and the\nfactors of the expression. Explain that every quadratic has two\ncomplex solutions, which may or may not be real solutions.",
+      "comments": [],
+      "ancestorIds": [
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "F3356FE5997147599590D258C9D2C571"
+    },
+    "C231786FCDE94006A7327D91D10815FC": {
+      "id": "C231786FCDE94006A7327D91D10815FC",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.QE.5b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a graph of an exponential and quadratic function\nidentify key features such as zeros and extreme values. ",
+      "comments": [],
+      "ancestorIds": [
+        "1F5EDFB6C10B481C87AEFE87EA1031DB",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "1F5EDFB6C10B481C87AEFE87EA1031DB"
+    },
+    "34726676B83E4B7A9D933C9355054A81": {
+      "id": "34726676B83E4B7A9D933C9355054A81",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.QE.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph exponential and quadratic functions with the aid of\ntechnology. ",
+      "comments": [],
+      "ancestorIds": [
+        "1F5EDFB6C10B481C87AEFE87EA1031DB",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "1F5EDFB6C10B481C87AEFE87EA1031DB"
+    },
+    "1F5EDFB6C10B481C87AEFE87EA1031DB": {
+      "id": "1F5EDFB6C10B481C87AEFE87EA1031DB",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "AI.QE.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph exponential and quadratic functions with and without\ntechnology. Identify and describe key features, such as zeros, lines of\nsymmetry, and extreme values in real-world and other mathematical\nproblems involving quadratic functions with and without technology;\ninterpret the results in the real-world contexts.",
+      "comments": [],
+      "ancestorIds": [
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "F3356FE5997147599590D258C9D2C571"
+    },
+    "449173E21FAE47669900295493D1A33F": {
+      "id": "449173E21FAE47669900295493D1A33F",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.QE.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Using technology, determine if a point lies on a quadratic\nfunction. ",
+      "comments": [],
+      "ancestorIds": [
+        "A87803FDE5794298B1956E700ACBCA5D",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "A87803FDE5794298B1956E700ACBCA5D"
+    },
+    "A87803FDE5794298B1956E700ACBCA5D": {
+      "id": "A87803FDE5794298B1956E700ACBCA5D",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "AI.QE.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world problems using quadratic equations in\none or two variables and solve such problems with technology.\nInterpret the solution(s), and determine whether they are reasonable.\n(E) ",
+      "comments": [],
+      "ancestorIds": [
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "F3356FE5997147599590D258C9D2C571"
+    },
+    "616853DD81BA4DD293524C8C21C354A2": {
+      "id": "616853DD81BA4DD293524C8C21C354A2",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.QE.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve quadratic equations using square roots, factoring,\nand the quadratic formula. ",
+      "comments": [],
+      "ancestorIds": [
+        "684974B478EC4F539EA037E94A3B01AE",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "684974B478EC4F539EA037E94A3B01AE"
+    },
+    "684974B478EC4F539EA037E94A3B01AE": {
+      "id": "684974B478EC4F539EA037E94A3B01AE",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "AI.QE.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve quadratic equations in one variable by inspection (e.g.,\nfor x\n2 = 49), finding square roots, using the quadratic formula, and\nfactoring, as appropriate to the initial form of the equation.",
+      "comments": [],
+      "ancestorIds": [
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "F3356FE5997147599590D258C9D2C571"
+    },
+    "912E4FC4D75A4ED6B42FE2675E7D5250": {
+      "id": "912E4FC4D75A4ED6B42FE2675E7D5250",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.QE.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world or mathematical problems of an\nexponential equation of the form y = ab\nx\n, and identify the a-value as\nthe initial value (or y-intercept) and the b-value as the growth or decay\nfactor. ",
+      "comments": [],
+      "ancestorIds": [
+        "5F40FB393EDC471CA80F2FCCD4381DB6",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "5F40FB393EDC471CA80F2FCCD4381DB6"
+    },
+    "5F40FB393EDC471CA80F2FCCD4381DB6": {
+      "id": "5F40FB393EDC471CA80F2FCCD4381DB6",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "AI.QE.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world and other mathematical problems that\ncan be modeled with simple exponential functions using tables,\ngraphs, and equations of the form y = ab\nx\n(for integer values of x > 1,\nrational values of b > 0 and b ≠ 1 ) with and without technology;\ninterpret the values of a and b.",
+      "comments": [],
+      "ancestorIds": [
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "F3356FE5997147599590D258C9D2C571"
+    },
+    "BA2A81E477454952928D46DAA9E564BE": {
+      "id": "BA2A81E477454952928D46DAA9E564BE",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.QE.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify a function as linear or exponential given a graph,\ntable, or real-world problem. Understand that linear functions grow by\nequal differences and exponential functions grow by equal factors.\n(E)",
+      "comments": [],
+      "ancestorIds": [
+        "764D97D7460C47C68B3B8E8B4DD0C1F2",
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "764D97D7460C47C68B3B8E8B4DD0C1F2"
+    },
+    "764D97D7460C47C68B3B8E8B4DD0C1F2": {
+      "id": "764D97D7460C47C68B3B8E8B4DD0C1F2",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AI.QE.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Distinguish between situations that can be modeled with\nlinear functions and exponential functions. Understand that linear\nfunctions grow by equal differences over equal intervals, and that\nexponential functions grow by equal factors over equal intervals.\nCompare linear functions and exponential functions that model\nreal-world situations using tables, graphs, and equations. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "F3356FE5997147599590D258C9D2C571"
+      ],
+      "parentId": "F3356FE5997147599590D258C9D2C571"
+    },
+    "F3356FE5997147599590D258C9D2C571": {
+      "id": "F3356FE5997147599590D258C9D2C571",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "QE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Quadratic and Exponential Equations and Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3C7BD25F24D647E588C6AA9A16563622": {
+      "id": "3C7BD25F24D647E588C6AA9A16563622",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.SEI.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the solution set to a system of inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "B8FF649CCB9F4B3FA59C97CEC0CD8BA9",
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "B8FF649CCB9F4B3FA59C97CEC0CD8BA9"
+    },
+    "4D1FF5E841E34639B6DF6B07735316AF": {
+      "id": "4D1FF5E841E34639B6DF6B07735316AF",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.SEI.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify a system of linear inequalities that represents a\ngiven real-world problem.",
+      "comments": [],
+      "ancestorIds": [
+        "B8FF649CCB9F4B3FA59C97CEC0CD8BA9",
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "B8FF649CCB9F4B3FA59C97CEC0CD8BA9"
+    },
+    "B8FF649CCB9F4B3FA59C97CEC0CD8BA9": {
+      "id": "B8FF649CCB9F4B3FA59C97CEC0CD8BA9",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "AI.SEI.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world problems using a system of two linear\ninequalities in two variables. Graph the solution set to a system of\nlinear inequalities in two variables as the intersection of the\ncorresponding half-planes with and without technology. Interpret the\nsolution set, and determine whether it is reasonable.",
+      "comments": [],
+      "ancestorIds": [
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "863FD72A15A94F9B99C7FFA1C8C3B193"
+    },
+    "7395A473A8F24D65964D26F9595784DB": {
+      "id": "7395A473A8F24D65964D26F9595784DB",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.SEI.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph a system of linear equations that represents a\nreal-world problem and determine the reasonableness of the solution.\nIdentify a solution to a system of linear equations. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "D1C094851CCC48959F46C013A7BE17F9",
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "D1C094851CCC48959F46C013A7BE17F9"
+    },
+    "D1C094851CCC48959F46C013A7BE17F9": {
+      "id": "D1C094851CCC48959F46C013A7BE17F9",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "AI.SEI.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write and graph a system of two linear equations in two\nvariables that represents a real-world problem and solve the problem\ngraphically and algebraically with and without technology. Interpret the\nsolution, and determine whether the solution is reasonable. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "863FD72A15A94F9B99C7FFA1C8C3B193"
+    },
+    "887988CF0AF841EB99C30D473068B6CF": {
+      "id": "887988CF0AF841EB99C30D473068B6CF",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.SEI.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify solutions to real-world linear inequalities given the\ngraph. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "A6498CF30EAC4219A408F3BE465973C0",
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "A6498CF30EAC4219A408F3BE465973C0"
+    },
+    "0726F9D9271C4706BE52DDA335C8FB68": {
+      "id": "0726F9D9271C4706BE52DDA335C8FB68",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.SEI.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify a two-variable linear inequality that represents a\nreal-world problem. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "A6498CF30EAC4219A408F3BE465973C0",
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "A6498CF30EAC4219A408F3BE465973C0"
+    },
+    "A6498CF30EAC4219A408F3BE465973C0": {
+      "id": "A6498CF30EAC4219A408F3BE465973C0",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AI.SEI.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world problems using linear inequalities in\ntwo variables and solve such problems; interpret the solution set, and\ndetermine whether it is reasonable. Graph the solutions to a linear\ninequality in two variables as a half-plane. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "863FD72A15A94F9B99C7FFA1C8C3B193"
+      ],
+      "parentId": "863FD72A15A94F9B99C7FFA1C8C3B193"
+    },
+    "863FD72A15A94F9B99C7FFA1C8C3B193": {
+      "id": "863FD72A15A94F9B99C7FFA1C8C3B193",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "SEI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Systems of Linear Equations and Inequalities ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5C8D64D5807D4F2385ECFAD5020FBED2": {
+      "id": "5C8D64D5807D4F2385ECFAD5020FBED2",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.L.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve linear and quadratic equations, including formulas, for a\nspecified variable limited to simple quadratic formulas (e.g., A = pi*r\n2\n).",
+      "comments": [],
+      "ancestorIds": [
+        "25B6B9C1EDB84F1AA3D7F1FE75BB055C",
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "25B6B9C1EDB84F1AA3D7F1FE75BB055C"
+    },
+    "25B6B9C1EDB84F1AA3D7F1FE75BB055C": {
+      "id": "25B6B9C1EDB84F1AA3D7F1FE75BB055C",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "AI.L.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve linear and quadratic equations and formulas for a\nspecified variable to highlight a quantity of interest, using the same\nreasoning as in solving equations. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "BE63EC1A87F342628A23F7A024A786B8"
+    },
+    "458E42D876E440E28AB8722C12D73CC6": {
+      "id": "458E42D876E440E28AB8722C12D73CC6",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.L.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world problems that can be modeled with a\nlinear function (in slope-intercept form) using equations, graphs, and\ntables. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "13BF7086D2674596AD877AE7FE9173B9",
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "13BF7086D2674596AD877AE7FE9173B9"
+    },
+    "13BF7086D2674596AD877AE7FE9173B9": {
+      "id": "13BF7086D2674596AD877AE7FE9173B9",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "AI.L.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world problems that can be modeled with a\nlinear function using equations, graphs, and tables, including with\ntechnology. Translate fluently among these representations and\ninterpret the slope and intercepts. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "BE63EC1A87F342628A23F7A024A786B8"
+    },
+    "2DA63179638A48AEBFDCD18801CC9EAD": {
+      "id": "2DA63179638A48AEBFDCD18801CC9EAD",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.L.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent linear functions using multiple representations.\nRecognize equations of lines in multiple forms (slope-intercept form\nand standard form). Describe the attributes revealed by various forms\nof linear functions. ",
+      "comments": [],
+      "ancestorIds": [
+        "789AC84BEC724155B041E23CC36C7D20",
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "789AC84BEC724155B041E23CC36C7D20"
+    },
+    "789AC84BEC724155B041E23CC36C7D20": {
+      "id": "789AC84BEC724155B041E23CC36C7D20",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "AI.L.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Represent linear functions as graphs from equations (with\nemphasis on technology), equations from graphs, and equations from\ntables and other given information (e.g., from a given point on a line\nand the slope of the line). Find the equations of a line in a\nslope-intercept, point-slope, and standard forms. Recognize that\ndifferent forms reveal more or less information about a given situation\nbased on the form used.",
+      "comments": [],
+      "ancestorIds": [
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "BE63EC1A87F342628A23F7A024A786B8"
+    },
+    "B352E385DE90444FABF82072513745CA": {
+      "id": "B352E385DE90444FABF82072513745CA",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "AI.L.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve multi-step linear equations and inequalities in one\nvariable. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "9F81550117B34A36B69CCEB4FC72BFCB",
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "9F81550117B34A36B69CCEB4FC72BFCB"
+    },
+    "857C556A3C5F403B99EDB32E6BC38927": {
+      "id": "857C556A3C5F403B99EDB32E6BC38927",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.L.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write a one-variable equation or inequality given a\nword-problem. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "9F81550117B34A36B69CCEB4FC72BFCB",
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "9F81550117B34A36B69CCEB4FC72BFCB"
+    },
+    "9F81550117B34A36B69CCEB4FC72BFCB": {
+      "id": "9F81550117B34A36B69CCEB4FC72BFCB",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AI.L.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent real-world problems using linear equations and\ninequalities in one variable, including those with rational number\ncoefficients and variables on both sides of the equal sign. Solve them\nfluently, explaining the process used and justify the choice of a solution\nmethod. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "BE63EC1A87F342628A23F7A024A786B8"
+      ],
+      "parentId": "BE63EC1A87F342628A23F7A024A786B8"
+    },
+    "BE63EC1A87F342628A23F7A024A786B8": {
+      "id": "BE63EC1A87F342628A23F7A024A786B8",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "L",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Linear Equations, Inequalities, and Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "35A4E2179FFA4431A0761268470E10D2": {
+      "id": "35A4E2179FFA4431A0761268470E10D2",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.NF.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given the graph of a function, identify its key features\n(domain, range, intercept(s), increasing, and decreasing). Given the\nkey features (domain, range, increasing, and decreasing) of a\nfunction, determine the graph that indicates the key feature. Identify\nindependent and dependent variables of a function. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "FB50A179431B4D2294826358A09F1BA8",
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "FB50A179431B4D2294826358A09F1BA8"
+    },
+    "FB50A179431B4D2294826358A09F1BA8": {
+      "id": "FB50A179431B4D2294826358A09F1BA8",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "AI.NF.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe, qualitatively, the functional relationship between two\nquantities by analyzing key features of a graph. Sketch a graph that\nexhibits given key features of a function that has been verbally\ndescribed, including intercepts, where the function is increasing or\ndecreasing, where the function is positive or negative, and any relative\nmaximum or minimum values. Identify the independent and dependent\nvariables. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "C646A8BE31B54FBE8DCFD84C41DD191B"
+    },
+    "0C20ACE9D91549369B00742A6365FB99": {
+      "id": "0C20ACE9D91549369B00742A6365FB99",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.NF.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate functions for given elements of the domain.",
+      "comments": [],
+      "ancestorIds": [
+        "5FA5DD409E1C41AC8939633CF968429A",
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "5FA5DD409E1C41AC8939633CF968429A"
+    },
+    "5FA5DD409E1C41AC8939633CF968429A": {
+      "id": "5FA5DD409E1C41AC8939633CF968429A",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "AI.NF.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate functions for given elements of the domain, and\ninterpret statements in function notation in terms of a context.",
+      "comments": [],
+      "ancestorIds": [
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "C646A8BE31B54FBE8DCFD84C41DD191B"
+    },
+    "C2691980F1714A8CB84B588D69A26592": {
+      "id": "C2691980F1714A8CB84B588D69A26592",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.NF.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the domain and range of a table or graph.\nUnderstand the domain is the independent variable and the range is\nthe dependent variable. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "A65BAA37550940618C84F80FEB19A4FB",
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "A65BAA37550940618C84F80FEB19A4FB"
+    },
+    "A65BAA37550940618C84F80FEB19A4FB": {
+      "id": "A65BAA37550940618C84F80FEB19A4FB",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "AI.NF.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend understanding of independent/dependent variables to\nencompass domain/range, as applied to relations using tables, graphs,\nverbal descriptions, and equations. (E) ",
+      "comments": [],
+      "ancestorIds": [
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "C646A8BE31B54FBE8DCFD84C41DD191B"
+    },
+    "E0B4C2B32A074667AA0323A387FC5860": {
+      "id": "E0B4C2B32A074667AA0323A387FC5860",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.NF.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add, subtract, and multiply monomials and binomials. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "0DDF4BE8E4E54A6687396F0666E47C6B",
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "0DDF4BE8E4E54A6687396F0666E47C6B"
+    },
+    "0DDF4BE8E4E54A6687396F0666E47C6B": {
+      "id": "0DDF4BE8E4E54A6687396F0666E47C6B",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "AI.NF.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add, subtract, and multiply polynomials. Divide polynomials\nby monomials. Use these operations to rewrite algebraic expressions\nin equivalent forms, and justify them with algebraic properties. (E)",
+      "comments": [],
+      "ancestorIds": [
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "C646A8BE31B54FBE8DCFD84C41DD191B"
+    },
+    "6DD0B41F947742EF94E38767D762D84A": {
+      "id": "6DD0B41F947742EF94E38767D762D84A",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "AI.NF.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simplify square roots of non-perfect square whole numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "2CA8925D6A0F4A4C976B62D52D406E26",
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "2CA8925D6A0F4A4C976B62D52D406E26"
+    },
+    "2CA8925D6A0F4A4C976B62D52D406E26": {
+      "id": "2CA8925D6A0F4A4C976B62D52D406E26",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "AI.NF.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simplify square roots of monomial algebraic expressions,\nincluding non-perfect squares.",
+      "comments": [],
+      "ancestorIds": [
+        "C646A8BE31B54FBE8DCFD84C41DD191B"
+      ],
+      "parentId": "C646A8BE31B54FBE8DCFD84C41DD191B"
+    },
+    "C646A8BE31B54FBE8DCFD84C41DD191B": {
+      "id": "C646A8BE31B54FBE8DCFD84C41DD191B",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "NF",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Number Systems, Expressions, and Functions ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

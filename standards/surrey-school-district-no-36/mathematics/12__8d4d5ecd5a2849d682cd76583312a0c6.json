@@ -1,0 +1,662 @@
+{
+  "id": "8D4D5ECD5A2849D682CD76583312A0C6",
+  "title": "Grade 12 - Computer Science",
+  "subject": "Mathematics",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {},
+  "jurisdiction": {
+    "id": "E5C475D6241A494582FC636F11097670",
+    "title": "Surrey School District (No 36)"
+  },
+  "standards": {
+    "BDA542723F0040D4BA9389F206B39039": {
+      "id": "BDA542723F0040D4BA9389F206B39039",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "i",
+      "statementNotation": "i",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ways to model mathematical problems",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "A6C3437C23084CD69495A7217BA0C06A": {
+      "id": "A6C3437C23084CD69495A7217BA0C06A",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "h",
+      "statementNotation": "h",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "encapsulation of data",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "328D086705434831AC267B2F93AB00D5": {
+      "id": "328D086705434831AC267B2F93AB00D5",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "g",
+      "statementNotation": "g",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "persistent memory",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "0617E6A9E73D40B99A01F2B5FF816813": {
+      "id": "0617E6A9E73D40B99A01F2B5FF816813",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "f",
+      "statementNotation": "f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "recursive problem solving",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "84D652AA73E943D1A6F1A8A733A722FD": {
+      "id": "84D652AA73E943D1A6F1A8A733A722FD",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "e",
+      "statementNotation": "e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "use of Big-O notation to help predict run-time performance",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "924A1358C1FD452D8E085A40D4B0F71B": {
+      "id": "924A1358C1FD452D8E085A40D4B0F71B",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "classical algorithms, including sorting and searching",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "C9E2D92B8E9545828161840B3A88CE78": {
+      "id": "C9E2D92B8E9545828161840B3A88CE78",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "uses of multidimensional arrays",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "CD53FB11301C43C5A1DEB39074C24DEB": {
+      "id": "CD53FB11301C43C5A1DEB39074C24DEB",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ways in which data structures are organized in memory",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "E4936DC32F1449F89FC17D1300C8639B": {
+      "id": "E4936DC32F1449F89FC17D1300C8639B",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "access variables in memory",
+      "comments": [],
+      "ancestorIds": [
+        "A45C01BC2AAD4064A4E444158A2A4066"
+      ],
+      "parentId": null
+    },
+    "A45C01BC2AAD4064A4E444158A2A4066": {
+      "id": "A45C01BC2AAD4064A4E444158A2A4066",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 0,
+      "listId": "C",
+      "statementNotation": "C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Content",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8392DE89C25940ECA7ABEA07B24B8FD0": {
+      "id": "8392DE89C25940ECA7ABEA07B24B8FD0",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Incorporate First Peoples worldviews, perspectives, knowledge, and practices to make connections with computer science concepts",
+      "comments": [],
+      "ancestorIds": [
+        "91236ECE5225468AA9B821F898402243",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "91236ECE5225468AA9B821F898402243"
+    },
+    "5E9E31A0C11B4C9AB67012623D87CE92": {
+      "id": "5E9E31A0C11B4C9AB67012623D87CE92",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use mistakes as opportunities to advance learning",
+      "comments": [],
+      "ancestorIds": [
+        "91236ECE5225468AA9B821F898402243",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "91236ECE5225468AA9B821F898402243"
+    },
+    "E615177B62FA4C9C8A3AD77F936555B0": {
+      "id": "E615177B62FA4C9C8A3AD77F936555B0",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Connect mathematical and computer science concepts with each other, other areas, and personal interests",
+      "comments": [],
+      "ancestorIds": [
+        "91236ECE5225468AA9B821F898402243",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "91236ECE5225468AA9B821F898402243"
+    },
+    "C9A1EA1B7F8740639517581A9C01FC5A": {
+      "id": "C9A1EA1B7F8740639517581A9C01FC5A",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reflect on mathematical and computational thinking",
+      "comments": [],
+      "ancestorIds": [
+        "91236ECE5225468AA9B821F898402243",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "91236ECE5225468AA9B821F898402243"
+    },
+    "91236ECE5225468AA9B821F898402243": {
+      "id": "91236ECE5225468AA9B821F898402243",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "5",
+      "statementNotation": "5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Connecting and reflecting",
+      "comments": [],
+      "ancestorIds": [
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+    },
+    "ED7C7F9A99934EEFB4027F084A2A0058": {
+      "id": "ED7C7F9A99934EEFB4027F084A2A0058",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Take risks when offering ideas in classroom discourse",
+      "comments": [],
+      "ancestorIds": [
+        "64DB0467B47348699F2B2F9B2CAE0C6B",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "64DB0467B47348699F2B2F9B2CAE0C6B"
+    },
+    "452181DC0F464EDE8ADC52FC20D1A669": {
+      "id": "452181DC0F464EDE8ADC52FC20D1A669",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use computer science and mathematical vocabulary and language to contribute to discussions in the classroom",
+      "comments": [],
+      "ancestorIds": [
+        "64DB0467B47348699F2B2F9B2CAE0C6B",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "64DB0467B47348699F2B2F9B2CAE0C6B"
+    },
+    "685435B2A9DF44F5A45FF01AC9667FE8": {
+      "id": "685435B2A9DF44F5A45FF01AC9667FE8",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent computer science ideas in concrete, pictorial, and symbolic forms",
+      "comments": [],
+      "ancestorIds": [
+        "64DB0467B47348699F2B2F9B2CAE0C6B",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "64DB0467B47348699F2B2F9B2CAE0C6B"
+    },
+    "AEE4ACE8EE5842DFA2A780178BC18042": {
+      "id": "AEE4ACE8EE5842DFA2A780178BC18042",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain and justify computer science ideas and decisions in many ways",
+      "comments": [],
+      "ancestorIds": [
+        "64DB0467B47348699F2B2F9B2CAE0C6B",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "64DB0467B47348699F2B2F9B2CAE0C6B"
+    },
+    "64DB0467B47348699F2B2F9B2CAE0C6B": {
+      "id": "64DB0467B47348699F2B2F9B2CAE0C6B",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "4",
+      "statementNotation": "4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communicating and representing",
+      "comments": [],
+      "ancestorIds": [
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+    },
+    "42F4B0A303AB4ADBA89E9C21C3849FD3": {
+      "id": "42F4B0A303AB4ADBA89E9C21C3849FD3",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "e",
+      "statementNotation": "e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Engage in problem-solving experiences connected with place, story, cultural practices, and perspectives relevant to local First Peoples communities, the local community, and other cultures",
+      "comments": [],
+      "ancestorIds": [
+        "13F608FB419D4CF39AEAF7EAE4682E4D",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "13F608FB419D4CF39AEAF7EAE4682E4D"
+    },
+    "425FB3B6F9B04D708A53D50921AE609F": {
+      "id": "425FB3B6F9B04D708A53D50921AE609F",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve problems with persistence and a positive disposition ",
+      "comments": [],
+      "ancestorIds": [
+        "13F608FB419D4CF39AEAF7EAE4682E4D",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "13F608FB419D4CF39AEAF7EAE4682E4D"
+    },
+    "E5E5BDF504234B3E886F5072AD3E55C0": {
+      "id": "E5E5BDF504234B3E886F5072AD3E55C0",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply flexible and strategic approaches to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "13F608FB419D4CF39AEAF7EAE4682E4D",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "13F608FB419D4CF39AEAF7EAE4682E4D"
+    },
+    "4066091E22C9491CA6BF562473BF525D": {
+      "id": "4066091E22C9491CA6BF562473BF525D",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Visualize to explore and illustrate computer science concepts and relationships",
+      "comments": [],
+      "ancestorIds": [
+        "13F608FB419D4CF39AEAF7EAE4682E4D",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "13F608FB419D4CF39AEAF7EAE4682E4D"
+    },
+    "9DF0AC31D46944CFB1911538E31A93B7": {
+      "id": "9DF0AC31D46944CFB1911538E31A93B7",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop, demonstrate, and apply conceptual understanding through experimentation, inquiry, and problem solving",
+      "comments": [],
+      "ancestorIds": [
+        "13F608FB419D4CF39AEAF7EAE4682E4D",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "13F608FB419D4CF39AEAF7EAE4682E4D"
+    },
+    "13F608FB419D4CF39AEAF7EAE4682E4D": {
+      "id": "13F608FB419D4CF39AEAF7EAE4682E4D",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understanding and solving",
+      "comments": [],
+      "ancestorIds": [
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+    },
+    "C1B1BDE2E9994B7F8DD8E569D4EC061E": {
+      "id": "C1B1BDE2E9994B7F8DD8E569D4EC061E",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Think creatively and with curiosity and wonder when exploring problems",
+      "comments": [],
+      "ancestorIds": [
+        "8E04ECDC79104FA3BDDA943883AEC53E",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "8E04ECDC79104FA3BDDA943883AEC53E"
+    },
+    "208217250DD4447FABA0CD58094A2B83": {
+      "id": "208217250DD4447FABA0CD58094A2B83",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model with mathematics in situational contexts",
+      "comments": [],
+      "ancestorIds": [
+        "8E04ECDC79104FA3BDDA943883AEC53E",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "8E04ECDC79104FA3BDDA943883AEC53E"
+    },
+    "D70707092ABA4EEC8190882ED4B80A8D": {
+      "id": "D70707092ABA4EEC8190882ED4B80A8D",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explore, analyze, and apply mathematical ideas and computer science concepts using reason, technology, and other tools",
+      "comments": [],
+      "ancestorIds": [
+        "8E04ECDC79104FA3BDDA943883AEC53E",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "8E04ECDC79104FA3BDDA943883AEC53E"
+    },
+    "A0D8AC0789ED4A5AAEDB23A7F14C2B47": {
+      "id": "A0D8AC0789ED4A5AAEDB23A7F14C2B47",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop fluent, flexible, and strategic thinking to analyze and create algorithms",
+      "comments": [],
+      "ancestorIds": [
+        "8E04ECDC79104FA3BDDA943883AEC53E",
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "8E04ECDC79104FA3BDDA943883AEC53E"
+    },
+    "8E04ECDC79104FA3BDDA943883AEC53E": {
+      "id": "8E04ECDC79104FA3BDDA943883AEC53E",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning and modelling",
+      "comments": [],
+      "ancestorIds": [
+        "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+      ],
+      "parentId": "3D2F248F5E4341B9B0CCFBF2D4EC3182"
+    },
+    "3D2F248F5E4341B9B0CCFBF2D4EC3182": {
+      "id": "3D2F248F5E4341B9B0CCFBF2D4EC3182",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 0,
+      "listId": "B",
+      "statementNotation": "B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Curricular Competency",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "74021DC8209D43E29F710971AECFF7EB": {
+      "id": "74021DC8209D43E29F710971AECFF7EB",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "e",
+      "statementNotation": "e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data representation allows us to understand and solve problems efficiently.",
+      "comments": [],
+      "ancestorIds": [
+        "AA2E9ABF3E8B4BD9823BA3142D7E6BE2",
+        "90E2913E0C1F4204A22E6BDAA71F3927"
+      ],
+      "parentId": "AA2E9ABF3E8B4BD9823BA3142D7E6BE2"
+    },
+    "2858A85D71E44B299628831222EC9F63": {
+      "id": "2858A85D71E44B299628831222EC9F63",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "d",
+      "statementNotation": "d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solving problems is a creative process.",
+      "comments": [],
+      "ancestorIds": [
+        "AA2E9ABF3E8B4BD9823BA3142D7E6BE2",
+        "90E2913E0C1F4204A22E6BDAA71F3927"
+      ],
+      "parentId": "AA2E9ABF3E8B4BD9823BA3142D7E6BE2"
+    },
+    "79BE99F4DD81464D933328B26DF84DE8": {
+      "id": "79BE99F4DD81464D933328B26DF84DE8",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "c",
+      "statementNotation": "c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Programming is a tool that allows us to implement computational thinking.",
+      "comments": [],
+      "ancestorIds": [
+        "AA2E9ABF3E8B4BD9823BA3142D7E6BE2",
+        "90E2913E0C1F4204A22E6BDAA71F3927"
+      ],
+      "parentId": "AA2E9ABF3E8B4BD9823BA3142D7E6BE2"
+    },
+    "003316B5921F449D9115D876E5DD4231": {
+      "id": "003316B5921F449D9115D876E5DD4231",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "b",
+      "statementNotation": "b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms are essential in solving problems computationally.",
+      "comments": [],
+      "ancestorIds": [
+        "AA2E9ABF3E8B4BD9823BA3142D7E6BE2",
+        "90E2913E0C1F4204A22E6BDAA71F3927"
+      ],
+      "parentId": "AA2E9ABF3E8B4BD9823BA3142D7E6BE2"
+    },
+    "52E8A006A6724A93B962106354413598": {
+      "id": "52E8A006A6724A93B962106354413598",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decomposition and abstraction help us to solve difficult problems by managing complexity.",
+      "comments": [],
+      "ancestorIds": [
+        "AA2E9ABF3E8B4BD9823BA3142D7E6BE2",
+        "90E2913E0C1F4204A22E6BDAA71F3927"
+      ],
+      "parentId": "AA2E9ABF3E8B4BD9823BA3142D7E6BE2"
+    },
+    "AA2E9ABF3E8B4BD9823BA3142D7E6BE2": {
+      "id": "AA2E9ABF3E8B4BD9823BA3142D7E6BE2",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Big Ideas",
+      "comments": [],
+      "ancestorIds": [
+        "90E2913E0C1F4204A22E6BDAA71F3927"
+      ],
+      "parentId": "90E2913E0C1F4204A22E6BDAA71F3927"
+    },
+    "90E2913E0C1F4204A22E6BDAA71F3927": {
+      "id": "90E2913E0C1F4204A22E6BDAA71F3927",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A",
+      "statementNotation": "A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "COMPUTER SCIENCE 12",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

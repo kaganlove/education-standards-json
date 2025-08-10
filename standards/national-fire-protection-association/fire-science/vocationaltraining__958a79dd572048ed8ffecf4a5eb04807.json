@@ -1,0 +1,931 @@
+{
+  "id": "958A79DD572048ED8FFECF4A5EB04807",
+  "title": "Fire Science",
+  "subject": "Fire Science",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "VocationalTraining"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "NFPA 1001; Standard for Fire Fighter Professional Qualifications",
+    "sourceURL": "https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=1001"
+  },
+  "jurisdiction": {
+    "id": "D7D79D9E152A47808D826D3DD37149E8",
+    "title": "National Fire Protection Association"
+  },
+  "standards": {
+    "68090D3B8EF847B58CD3A81DECF9BAE5": {
+      "id": "68090D3B8EF847B58CD3A81DECF9BAE5",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 1,
+      "listId": "6.2.3",
+      "statementNotation": "6.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Emergency Medical Technician. Performs scene size up,\nevaluates scene safety, and recognizes the need for higher levels\nof medical care as it relates to patient assessment, airway\nmanagement, breathing and circulation, bleeding, shock\nmanagement, and immobilizing potential spinal or other bone\nfractures as approved by AHJ.",
+      "comments": [],
+      "ancestorIds": [
+        "861C4881BA4E4238991B7DB6EBF98D16"
+      ],
+      "parentId": "861C4881BA4E4238991B7DB6EBF98D16"
+    },
+    "2C8930F8CA9541DAB467940FF3393AB5": {
+      "id": "2C8930F8CA9541DAB467940FF3393AB5",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 1,
+      "listId": "6.2.2",
+      "statementNotation": "6.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": " Emergency Medical Responder (also known as Medical\nFirst Responder). With a limited amount of equipment,\nanswers emergency calls to provide efficient and immediate\ncare to ill and injured patients focused on lifesaving interventions.",
+      "comments": [],
+      "ancestorIds": [
+        "861C4881BA4E4238991B7DB6EBF98D16"
+      ],
+      "parentId": "861C4881BA4E4238991B7DB6EBF98D16"
+    },
+    "B4F157E5D70A495BA8FDFD8ADBA6CA89": {
+      "id": "B4F157E5D70A495BA8FDFD8ADBA6CA89",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "6.2.1",
+      "statementNotation": "6.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "First Aid Provider. Performs minimum emergency\nmedical care performance capabilities for entry-level personnel\nthat are developed and validated by the AHJ to include infection control, CPR/AED, bleeding control, and shock management.",
+      "comments": [],
+      "ancestorIds": [
+        "861C4881BA4E4238991B7DB6EBF98D16"
+      ],
+      "parentId": "861C4881BA4E4238991B7DB6EBF98D16"
+    },
+    "861C4881BA4E4238991B7DB6EBF98D16": {
+      "id": "861C4881BA4E4238991B7DB6EBF98D16",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 0,
+      "listId": "6.2",
+      "statementNotation": "6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Levels of Training and Service. Emergency medical services shall include at least one of the following:\n(1) First aid provider\n(2) Emergency medical responder (also known as medical first responder)\n(3) Emergency medical technician\n(4) Advanced emergency medical technician\n(5) Paramedic",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3EDDF2FEF953481991B33D74775F7E35": {
+      "id": "3EDDF2FEF953481991B33D74775F7E35",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 1,
+      "listId": "6.1.1",
+      "statementNotation": "6.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The AHJ shall determine the level of emergency medical\nservices to be provided.",
+      "comments": [],
+      "ancestorIds": [
+        "B87CD644126546F5BF4302ADF5F652E5"
+      ],
+      "parentId": "B87CD644126546F5BF4302ADF5F652E5"
+    },
+    "B87CD644126546F5BF4302ADF5F652E5": {
+      "id": "B87CD644126546F5BF4302ADF5F652E5",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 0,
+      "listId": "6.1",
+      "statementNotation": "6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "General EMS Requirments",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3986ACEAC1D544DBB665578C85354D3C": {
+      "id": "3986ACEAC1D544DBB665578C85354D3C",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 1,
+      "listId": "5.5.5",
+      "statementNotation": "5.5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform an annual service test on fire hose, given a\npump, a marking device, pressure gauges, a timer, record\nsheets, and related equipment, so that procedures are followed, the condition of the hose is evaluated, any damaged hose is\nremoved from service, and the results are recorded.",
+      "comments": [],
+      "ancestorIds": [
+        "5020AD0DAEB342F28BC19B1DB8A61E8B"
+      ],
+      "parentId": "5020AD0DAEB342F28BC19B1DB8A61E8B"
+    },
+    "072DAB4738CE4A7792AC0A463D705441": {
+      "id": "072DAB4738CE4A7792AC0A463D705441",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "5.5.4",
+      "statementNotation": "5.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maintain power plants, power tools, and lighting equipment, given tools and manufacturers’ instructions, so that\nequipment is clean and maintained according to manufacturer\nand departmental guidelines, maintenance is recorded, and\nequipment is placed in a ready state or reported otherwise.",
+      "comments": [],
+      "ancestorIds": [
+        "5020AD0DAEB342F28BC19B1DB8A61E8B"
+      ],
+      "parentId": "5020AD0DAEB342F28BC19B1DB8A61E8B"
+    },
+    "B4417EE28B2A4E66A735156A6A20F195": {
+      "id": "B4417EE28B2A4E66A735156A6A20F195",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 1,
+      "listId": "5.5.3",
+      "statementNotation": "5.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prepare a preincident survey, given forms, necessary\ntools, and an assignment, so that all required occupancy information is recorded, items of concern are noted, and accurate\nsketches or diagrams are prepared.",
+      "comments": [],
+      "ancestorIds": [
+        "5020AD0DAEB342F28BC19B1DB8A61E8B"
+      ],
+      "parentId": "5020AD0DAEB342F28BC19B1DB8A61E8B"
+    },
+    "16AAC39C3594401A94028229A96270CD": {
+      "id": "16AAC39C3594401A94028229A96270CD",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "5.5.2",
+      "statementNotation": "5.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Present fire safety information to station visitors or\nsmall groups, given prepared materials, so that all information\nis presented, the information is accurate, and questions are\nanswered or referred. ",
+      "comments": [],
+      "ancestorIds": [
+        "5020AD0DAEB342F28BC19B1DB8A61E8B"
+      ],
+      "parentId": "5020AD0DAEB342F28BC19B1DB8A61E8B"
+    },
+    "CCABBD255A064738986A5FA47D3A220A": {
+      "id": "CCABBD255A064738986A5FA47D3A220A",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "5.5.1",
+      "statementNotation": "5.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform a fire safety survey in an occupied structure,\ngiven survey forms and procedures, so that fire and life safety\nhazards are identified, recommendations for their correction\nare made to the occupant, and unresolved issues are referred\nto the proper authority.",
+      "comments": [],
+      "ancestorIds": [
+        "5020AD0DAEB342F28BC19B1DB8A61E8B"
+      ],
+      "parentId": "5020AD0DAEB342F28BC19B1DB8A61E8B"
+    },
+    "5020AD0DAEB342F28BC19B1DB8A61E8B": {
+      "id": "5020AD0DAEB342F28BC19B1DB8A61E8B",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 0,
+      "listId": "5.5",
+      "statementNotation": "5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fire and Life Safety Initiatives, Preparedness, and Maintenance. This duty shall involve performing activities related to\nreducing the loss of life and property due to fire through\nhazard identification, inspection, and response readiness,\naccording to the JPRs in 5.5.1 through 5.5.5.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "1E9937F64270488C992EDCB00BFA42DF": {
+      "id": "1E9937F64270488C992EDCB00BFA42DF",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 1,
+      "listId": "5.4.2",
+      "statementNotation": "5.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Assist rescue operation teams, given standard operating\nprocedures, necessary rescue equipment, and an assignment,\nso that procedures are followed, rescue items are recognized\nand retrieved in the time as prescribed by the AHJ, and the\nassignment is completed.",
+      "comments": [],
+      "ancestorIds": [
+        "CA9C0CD2DDA24145812BD7ED098F3BAD"
+      ],
+      "parentId": "CA9C0CD2DDA24145812BD7ED098F3BAD"
+    },
+    "94968347BAB849DC974E9FCA92003DD6": {
+      "id": "94968347BAB849DC974E9FCA92003DD6",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 1,
+      "listId": "5.4.1",
+      "statementNotation": "5.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extricate a victim entrapped in a motor vehicle as part\nof a team, given stabilization and extrication tools, so that the\nvehicle is stabilized, the victim is disentangled without further\ninjury, and hazards are managed.",
+      "comments": [],
+      "ancestorIds": [
+        "CA9C0CD2DDA24145812BD7ED098F3BAD"
+      ],
+      "parentId": "CA9C0CD2DDA24145812BD7ED098F3BAD"
+    },
+    "CA9C0CD2DDA24145812BD7ED098F3BAD": {
+      "id": "CA9C0CD2DDA24145812BD7ED098F3BAD",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 0,
+      "listId": "5.4",
+      "statementNotation": "5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rescue Operations. This duty shall involve performing\nactivities related to accessing and disentangling victims from\nmotor vehicle accidents and helping special rescue teams, according to the JPRs in 5.4.1 and 5.4.2",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "62AE618C01E1422D883099E777002CC6": {
+      "id": "62AE618C01E1422D883099E777002CC6",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "5.3.4",
+      "statementNotation": "5.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Protect evidence of fire cause and origin, given a flash‐\nlight and overhaul tools, so that the evidence is noted and\nprotected from further disturbance until investigators can\narrive on the scene.",
+      "comments": [],
+      "ancestorIds": [
+        "8A460251C7734ECCA8675DDB1A50FDF5"
+      ],
+      "parentId": "8A460251C7734ECCA8675DDB1A50FDF5"
+    },
+    "604A2C2F440E44DBB09893014A4FD9D3": {
+      "id": "604A2C2F440E44DBB09893014A4FD9D3",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "5.3.3",
+      "statementNotation": "5.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Control a flammable gas cylinder fire, operating as a\nmember of a team, given an assignment, a cylinder outside of a\nstructure, an attack line, PPE, and tools, so that crew integrity is\nmaintained, contents are identified, safe havens are identified\nprior to advancing, open valves are closed, flames are not extinguished unless the leaking gas is eliminated, the cylinder is\ncooled, cylinder integrity is evaluated, hazardous conditions are\nrecognized and acted upon, and the cylinder is faced during\napproach and retreat.",
+      "comments": [],
+      "ancestorIds": [
+        "8A460251C7734ECCA8675DDB1A50FDF5"
+      ],
+      "parentId": "8A460251C7734ECCA8675DDB1A50FDF5"
+    },
+    "4D8FE8B091F44D828C172578BFF9904E": {
+      "id": "4D8FE8B091F44D828C172578BFF9904E",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "5.3.2",
+      "statementNotation": "5.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Coordinate an interior attack line for a team’s accomplishment of an assignment in a structure fire, given attack\nlines, personnel, PPE, and tools, so that crew integrity is established; attack techniques are selected for the given level of the fire (e.g., attic, grade level, upper levels, or basement); attack\ntechniques are communicated to the attack teams; constant\nteam coordination is maintained; fire growth and development\nis continuously evaluated; search, rescue, and ventilation\nrequirements are communicated or managed; hazards are\nreported to the attack teams; and incident command is\napprised of changing conditions.",
+      "comments": [],
+      "ancestorIds": [
+        "8A460251C7734ECCA8675DDB1A50FDF5"
+      ],
+      "parentId": "8A460251C7734ECCA8675DDB1A50FDF5"
+    },
+    "1FACE3C33F5D47109808F27B4ED78822": {
+      "id": "1FACE3C33F5D47109808F27B4ED78822",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "5.3.1",
+      "statementNotation": "5.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extinguish an ignitable liquid fire, operating as a\nmember of a team, given an assignment, an attack line, PPE, a\nfoam proportioning device, a nozzle, foam concentrates, and a\nwater supply, so that the correct type of foam concentrate is\nselected for the given fuel and conditions, a properly proportioned foam stream is applied to the surface of the fuel to create and maintain a foam blanket, fire is extinguished, re-ignition is prevented, team protection is maintained with a foam\nstream, and the hazard is faced until retreat to safe haven is\nreached.",
+      "comments": [],
+      "ancestorIds": [
+        "8A460251C7734ECCA8675DDB1A50FDF5"
+      ],
+      "parentId": "8A460251C7734ECCA8675DDB1A50FDF5"
+    },
+    "8A460251C7734ECCA8675DDB1A50FDF5": {
+      "id": "8A460251C7734ECCA8675DDB1A50FDF5",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 0,
+      "listId": "5.3",
+      "statementNotation": "5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fireground Operations. This duty shall involve performing activities necessary to ensure life safety, fire control, and\nproperty conservation, according to the JPRs in 5.3.1 through\n5.3.4.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AF96EB53E990442992FE6FD9D9F9CA4E": {
+      "id": "AF96EB53E990442992FE6FD9D9F9CA4E",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "5.2.2",
+      "statementNotation": "5.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communicate the need for team assistance, given fire\ndepartment communications equipment, SOPs, and a team, so\nthat the supervisor is consistently informed of team needs,\ndepartmental SOPs are followed, and the assignment is accomplished safely.",
+      "comments": [],
+      "ancestorIds": [
+        "82B9A758705A497DB80EF6F5686F90D8"
+      ],
+      "parentId": "82B9A758705A497DB80EF6F5686F90D8"
+    },
+    "B6D8F87A085840308CEB4D8FD7B6BDC6": {
+      "id": "B6D8F87A085840308CEB4D8FD7B6BDC6",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "5.2.1",
+      "statementNotation": "5.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complete a basic incident report, given the report\nforms, guidelines, and information, so that all pertinent information is recorded, the information is accurate, and the report\nis complete",
+      "comments": [],
+      "ancestorIds": [
+        "82B9A758705A497DB80EF6F5686F90D8"
+      ],
+      "parentId": "82B9A758705A497DB80EF6F5686F90D8"
+    },
+    "82B9A758705A497DB80EF6F5686F90D8": {
+      "id": "82B9A758705A497DB80EF6F5686F90D8",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 0,
+      "listId": "5.2",
+      "statementNotation": "5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fire Department Communications. This duty shall involve\nperforming activities related to initiating and reporting responses, according to the JPRs in 5.2.1 and 5.2.2.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "888BEBFF30CB4113AA8FC305B8D3A283": {
+      "id": "888BEBFF30CB4113AA8FC305B8D3A283",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 1,
+      "listId": "5.1.1",
+      "statementNotation": "5.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Responsibilities of\nthe Fire Fighter II in assuming and transferring command\nwithin an incident management system, performing assigned\nduties in conformance with applicable NFPA and other safety\nregulations and AHJ procedures, and the role of a Fire Fighter\nII within the organization.",
+      "comments": [],
+      "ancestorIds": [
+        "BB832EED032F49A1A7F274D311AEC77A"
+      ],
+      "parentId": "BB832EED032F49A1A7F274D311AEC77A"
+    },
+    "BB832EED032F49A1A7F274D311AEC77A": {
+      "id": "BB832EED032F49A1A7F274D311AEC77A",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 0,
+      "listId": "5.1",
+      "statementNotation": "5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "For qualification at Level II, the Fire Fighter II\nshall meet the general knowledge requirements in 5.1.1, the\ngeneral skill requirements in 5.1.2, the JPRs defined in Sections\n5.2 through 5.5 of this standard, the requirements defined in\nChapter 4, and knowledge of the Incident Management System\nsections of ICS 200 as described.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "043C6CEA03604BB2ADEF6A81A8AAFBB0": {
+      "id": "043C6CEA03604BB2ADEF6A81A8AAFBB0",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 1,
+      "listId": "4.5.2",
+      "statementNotation": "4.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Clean, inspect, and return fire hose to service, given\nwashing equipment, water, detergent, tools, and replacement\ngaskets, so that damage is noted and corrected, the hose is\nclean, and the equipment is placed in a ready state for service.",
+      "comments": [],
+      "ancestorIds": [
+        "90F89D29550042D7A34EA957389B966B"
+      ],
+      "parentId": "90F89D29550042D7A34EA957389B966B"
+    },
+    "64BFF98CF1FB4E75BE69B26B9C212D89": {
+      "id": "64BFF98CF1FB4E75BE69B26B9C212D89",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "4.5.1",
+      "statementNotation": "4.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Clean and check ladders, ventilation equipment, SCBA,\nropes, salvage equipment, and hand tools, given cleaning tools,\ncleaning supplies, and an assignment, so that equipment is\nclean and maintained according to manufacturer’s or depart‐\nmental guidelines, maintenance is recorded, and equipment is\nplaced in a ready state or reported otherwise.",
+      "comments": [],
+      "ancestorIds": [
+        "90F89D29550042D7A34EA957389B966B"
+      ],
+      "parentId": "90F89D29550042D7A34EA957389B966B"
+    },
+    "90F89D29550042D7A34EA957389B966B": {
+      "id": "90F89D29550042D7A34EA957389B966B",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 0,
+      "listId": "4.5",
+      "statementNotation": "4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Preparedness and Maintenance. This duty shall involve\nperforming activities that reduce the loss of life and property\ndue to fire through response readiness, according to the JPRs\nin 4.5.1 and 4.5.2",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "3BC3558128C341138931F009D144C464": {
+      "id": "3BC3558128C341138931F009D144C464",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "4.3.21",
+      "statementNotation": "4.3.21",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Air Monitoring. Operate an air-monitoring instrument,\ngiven an air monitor and an assignment or task, so that the\ndevice is operated and the firefighter recognizes the high- or\nlow-level alarms of the air monitor and takes action to mitigate\nthe hazard.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "1996616D9EAF4833A55A3902E20D8FE5": {
+      "id": "1996616D9EAF4833A55A3902E20D8FE5",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 1,
+      "listId": "4.3.20",
+      "statementNotation": "4.3.20",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tie a knot appropriate for hoisting tools, given PPE,\ntools, ropes, and an assignment, so that the knots used are\nappropriate for hoisting tools securely and as directed.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "5C1323C36BE34DCDA9350084ED527D5D": {
+      "id": "5C1323C36BE34DCDA9350084ED527D5D",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "4.3.19",
+      "statementNotation": "4.3.19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Combat a ground cover fire operating as a member of\na team, given protective clothing, SCBA (if needed), hose lines,\nextinguishers or hand tools, and an assignment, so that threats\nto property are reported, threats to personal safety are recognized, retreat is quickly accomplished when warranted, and the\nassignment is completed.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "128798CA9C9B456987944AC0B5C8D018": {
+      "id": "128798CA9C9B456987944AC0B5C8D018",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 1,
+      "listId": "4.3.18",
+      "statementNotation": "4.3.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Turn off building utilities, given tools and an assignment, so that the assignment is safely completed.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "72EFE0D05C924E62B62E1471C7646736": {
+      "id": "72EFE0D05C924E62B62E1471C7646736",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "4.3.17",
+      "statementNotation": "4.3.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Operate emergency scene lighting, given fire service\nlighting equipment, power supply, and an assignment, so that\nemergency scene lighting equipment is operated within the\nmanufacturer’s listed safety precautions.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "05D5A744FD9C46D3ADED41BB94D8E7EF": {
+      "id": "05D5A744FD9C46D3ADED41BB94D8E7EF",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "4.3.16",
+      "statementNotation": "4.3.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extinguish incipient Class A, Class B, and Class C fires,\ngiven a selection of portable fire extinguishers, so that the\ncorrect extinguisher is chosen, the fire is completely extinguished, and correct extinguisher-handling techniques are followed.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "50AAE36D4E504B6ABDE334B009092FE0": {
+      "id": "50AAE36D4E504B6ABDE334B009092FE0",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "4.3.15",
+      "statementNotation": "4.3.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Connect a fire department pumper to a water supply\nas a member of a team, given supply or intake hose, hose tools,\nand a fire hydrant or static water source, so that connections\nare tight and water flow is unobstructed.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "3B019EC550E549F095ACD510B0CC1212": {
+      "id": "3B019EC550E549F095ACD510B0CC1212",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 1,
+      "listId": "4.3.14",
+      "statementNotation": "4.3.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conserve property as a member of a team, given\nsalvage tools and equipment and an assignment, so that the\nbuilding and its contents are protected from further damage.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "5EFD21C2AE274713917FF5FA01F38A27": {
+      "id": "5EFD21C2AE274713917FF5FA01F38A27",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "4.3.13",
+      "statementNotation": "4.3.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Overhaul a fire scene, given PPE, an attack line, hand\ntools, a flashlight, and an assignment, so that structural integrity is not compromised, all hidden fires are discovered, fire\ncause evidence is preserved, and the fire is extinguished",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "BEF4F009027547B0B5FB854393601424": {
+      "id": "BEF4F009027547B0B5FB854393601424",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "4.3.12",
+      "statementNotation": "4.3.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform vertical ventilation on a structure as part of a\nteam, given an assignment, PPE, ground and roof ladders, and\ntools, so that ladders are positioned for ventilation, a specified\nopening is created, all ventilation barriers are removed, structural integrity is not compromised, products of combustion are\nreleased from the structure, and the team retreats from the\narea when ventilation is accomplished.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "150C2838C9A8429493B05A80773DC517": {
+      "id": "150C2838C9A8429493B05A80773DC517",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "4.3.11",
+      "statementNotation": "4.3.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform horizontal ventilation on a structure operating\nas part of a team, given an assignment, PPE, ventilation tools,\nequipment, and ladders, so that the ventilation openings are\nfree of obstructions, tools are used as designed, ladders are\ncorrectly placed, ventilation devices are correctly placed, and\nthe structure is cleared of smoke.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "EB9507AC08AF43E6BB5977C78AAB8DC3": {
+      "id": "EB9507AC08AF43E6BB5977C78AAB8DC3",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "4.3.10",
+      "statementNotation": "4.3.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attack an interior structure fire operating as a\nmember of a team, given an attack line, ladders when needed,\npersonal protective equipment, tools, and an assignment, so\nthat team integrity is maintained, the attack line is deployed for\nadvancement, ladders are correctly placed when used, access is\ngained into the fire area, effective water application practices\nare used, the fire is approached correctly, attack techniques\nfacilitate suppression given the level of the fire, hidden fires are\nlocated and controlled, the correct body posture is maintained,\nhazards are recognized and managed, and the fire is brought\nunder control",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "626D7B9FF352490AB7D3F90F455E3136": {
+      "id": "626D7B9FF352490AB7D3F90F455E3136",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "4.3.9",
+      "statementNotation": "4.3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conduct a search and rescue in a structure operating as\na member of a team, given an assignment, obscured vision\nconditions, personal protective equipment, a flashlight, forcible entry tools, hose lines, and ladders when necessary, so that\nladders are correctly placed when used, all assigned areas are\nsearched, all victims are located and removed, team integrity is\nmaintained, and team members’ safety, including respiratory\nprotection, is not compromised.\n",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "B77408DDBD6B47F89B7BE5EAD0E03EDC": {
+      "id": "B77408DDBD6B47F89B7BE5EAD0E03EDC",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "4.3.8",
+      "statementNotation": "4.3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extinguish fires in exterior Class A materials, given fires\nin stacked or piled and small unattached structures or storage\ncontainers that can be fought from the exterior, attack lines,\nhand tools and master stream devices, and an assignment, so\nthat exposures are protected, the spread of fire is stopped,\ncollapse hazards are avoided, water application is effective, the fire is extinguished, and signs of the origin area(s) and arson\nare preserved.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "2C77172DCDCD44FE931273CF04DD307C": {
+      "id": "2C77172DCDCD44FE931273CF04DD307C",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 1,
+      "listId": "4.3.7",
+      "statementNotation": "4.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attack a passenger vehicle fire operating as a member\nof a team, given PPE, an attack line, and hand tools, so that\nhazards are avoided, leaking flammable liquids are identified\nand controlled, protection from flash fires is maintained, all\nvehicle compartments are overhauled, and the fire is extinguished.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "145632374E42410DAEE4B6A3B9153CCE": {
+      "id": "145632374E42410DAEE4B6A3B9153CCE",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 1,
+      "listId": "4.3.6",
+      "statementNotation": "4.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Set up, mount, ascend, dismount, and descend ground\nladders, given single and extension ladders, an assignment, and\nteam members if needed, so that hazards are assessed, the\nladder is stable, the angle is correct for climbing, extension\nladders are extended to the necessary height with the y\nlocked, the top is placed against a reliable structural component, and the assignment is accomplished.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "43E4361A829C4E2A8551B745D08229B4": {
+      "id": "43E4361A829C4E2A8551B745D08229B4",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 1,
+      "listId": "4.3.5",
+      "statementNotation": "4.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exit a hazardous area as a team, given vision-obscured\nconditions, so that a safe haven is found before exhausting the\nair supply, others are not endangered, and the team integrity is\nmaintained.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "631698B282AA4A8EB54DE76D695C6D68": {
+      "id": "631698B282AA4A8EB54DE76D695C6D68",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "4.3.4",
+      "statementNotation": "4.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Force entry into a structure, given PPE, tools, and an\nassignment, so that the tools are used as designed, the barrier is\nremoved, and the opening is in a safe condition and ready for\nentry. ",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "EC59F307252242549C1665BDDB41A8C4": {
+      "id": "EC59F307252242549C1665BDDB41A8C4",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "4.3.3",
+      "statementNotation": "4.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Establish and operate in work areas at emergency\nscenes, given protective equipment, traffic and scene control\ndevices, structure fire and roadway emergency scenes, traffic\nhazards and downed electrical wires, photovoltaic power\nsystems, battery storage systems, an assignment, and SOPs, so\nthat procedures are followed, protective equipment is worn,\nprotected work areas are established as directed using traffic\nand scene control devices, and the fire fighter performs\nassigned tasks only in established, protected work areas.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "2F431043AC0240D2AD0434BB51DD82DB": {
+      "id": "2F431043AC0240D2AD0434BB51DD82DB",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "4.3.2",
+      "statementNotation": "4.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Respond on apparatus to an emergency scene, given\npersonal protective clothing and other necessary PPE, so that\nthe apparatus is correctly mounted and dismounted, seat belts\nare used while the vehicle is in motion, and other personal\nprotective equipment is correctly used.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "E81B1DABF423443E95DDAAFDA5FA5B4F": {
+      "id": "E81B1DABF423443E95DDAAFDA5FA5B4F",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "4.3.1",
+      "statementNotation": "4.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use self-contained breathing apparatus (SCBA) during\nemergency operations, given SCBA and other PPE, so that the\nSCBA is correctly donned, the SCBA is correctly worn, control‐\nled breathing techniques are used, emergency procedures are\nenacted if the SCBA fails, all low-air warnings are recognized,\nrespiratory protection is not intentionally compromised, and\nhazardous areas are exited prior to air depletion.",
+      "comments": [],
+      "ancestorIds": [
+        "648F7902066646F68AB4FF8192BD88F3"
+      ],
+      "parentId": "648F7902066646F68AB4FF8192BD88F3"
+    },
+    "648F7902066646F68AB4FF8192BD88F3": {
+      "id": "648F7902066646F68AB4FF8192BD88F3",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 0,
+      "listId": "4.3",
+      "statementNotation": "4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fireground Operations. This duty shall involve performing activities necessary to ensure life safety, re control, and\nproperty conservation,  according to the JPRs in 4.3.1 through\n4.3.21.\n",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6DF400E4EF1C47489EEBF9EE00992BCC": {
+      "id": "6DF400E4EF1C47489EEBF9EE00992BCC",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 1,
+      "listId": "4.2.4",
+      "statementNotation": "4.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Activate an emergency call for assistance, given visionobscured conditions, PPE, and department SOPs, so that the fire fighter can be located and rescued.",
+      "comments": [],
+      "ancestorIds": [
+        "2CEF53FF736145BEA4DD0364A0F866B5"
+      ],
+      "parentId": "2CEF53FF736145BEA4DD0364A0F866B5"
+    },
+    "8AA4C9D934F44C19A38C7C3F688B35E7": {
+      "id": "8AA4C9D934F44C19A38C7C3F688B35E7",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "4.2.3",
+      "statementNotation": "4.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Transmit and receive messages via the re department\nradio, given a re department radio and operating procedures, so that the information is accurate, complete, clear, and\nrelayed within the time established by the AHJ.",
+      "comments": [],
+      "ancestorIds": [
+        "2CEF53FF736145BEA4DD0364A0F866B5"
+      ],
+      "parentId": "2CEF53FF736145BEA4DD0364A0F866B5"
+    },
+    "269F6EC4AC5A42A6AAE635343BEE3A9B": {
+      "id": "269F6EC4AC5A42A6AAE635343BEE3A9B",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 1,
+      "listId": "4.2.2",
+      "statementNotation": "4.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Receive a telephone call, given a fire department phone,\nso that procedures for answering the phone are used and the\ncaller’s information is relayed",
+      "comments": [],
+      "ancestorIds": [
+        "2CEF53FF736145BEA4DD0364A0F866B5"
+      ],
+      "parentId": "2CEF53FF736145BEA4DD0364A0F866B5"
+    },
+    "E8C2DE76A2B2446FABE44E69755A118C": {
+      "id": "E8C2DE76A2B2446FABE44E69755A118C",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "4.2.1",
+      "statementNotation": "4.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Initiate the response to a reported emergency, given\nthe report of an emergency, fire department SOPs, and\ncommunications equipment, so that all necessary information\nis obtained, communications equipment is operated correctly,\nand the information is relayed promptly and accurately to the\ndispatch center",
+      "comments": [],
+      "ancestorIds": [
+        "2CEF53FF736145BEA4DD0364A0F866B5"
+      ],
+      "parentId": "2CEF53FF736145BEA4DD0364A0F866B5"
+    },
+    "2CEF53FF736145BEA4DD0364A0F866B5": {
+      "id": "2CEF53FF736145BEA4DD0364A0F866B5",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 0,
+      "listId": "4.2",
+      "statementNotation": "4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fire Department Communications. This duty shall involve\ninitiating responses, receiving telephone calls, and using fire\ndepartment communications equipment to correctly relay\nverbal or written information, according to the JPRs in 4.2.1\nthrough 4.2.4",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "43571EACE1844E6798C889D82A219431": {
+      "id": "43571EACE1844E6798C889D82A219431",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "4.1.2",
+      "statementNotation": "4.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "General Skill Requirements. The ability to don personal\nprotective clothing, doff personal protective clothing, perform field reduction of contaminants and prepare for reuse, hoist\ntools and equipment using ropes and the correct knot, and\nlocate information in departmental documents and standard\nor code materials",
+      "comments": [],
+      "ancestorIds": [
+        "9E406B272AB449E4BD9AC0D0B01F3D64"
+      ],
+      "parentId": "9E406B272AB449E4BD9AC0D0B01F3D64"
+    },
+    "352A189B8036401888393925CF39682A": {
+      "id": "352A189B8036401888393925CF39682A",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "4.1.1",
+      "statementNotation": "4.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The organization\nof the fire department; the role of the Fire Fighter I in the\norganization; The mission of fire service; The fire department’s standard operating procedures (SOPs) and rules and regulations as they apply to the Fire Fighter I; The value of fire and life safety initiatives in support of the fire department mission and to reduce fire fighter line-of-duty injuries and fatalities; the role of other agencies as they relate to the fire department; the signs and symptoms of behavioral and emotional distress; aspects of the fire department’s member assistance program; the importance of physical fitness and a healthy lifestyle to the performance of the duties of a fire fighter; the critical aspects of NFPA 1500",
+      "comments": [],
+      "ancestorIds": [
+        "9E406B272AB449E4BD9AC0D0B01F3D64"
+      ],
+      "parentId": "9E406B272AB449E4BD9AC0D0B01F3D64"
+    },
+    "9E406B272AB449E4BD9AC0D0B01F3D64": {
+      "id": "9E406B272AB449E4BD9AC0D0B01F3D64",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "4.1",
+      "statementNotation": "4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "General. For qualification at Level I, the fire fighter candidate shall meet the general knowledge requirements in 4.1.1,\nthe general skill requirements in 4.1.2, the JPRs defined in\nSections 4.2 through 4.5 of this standard, knowledge of the\nincident management system, and the requirements defined in\nChapter 5 as well as mission-specific competencies in\nSection 6.2, Personal Protective Equipment, and Section 6.6,\nProduct Control, of NFPA 1072.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

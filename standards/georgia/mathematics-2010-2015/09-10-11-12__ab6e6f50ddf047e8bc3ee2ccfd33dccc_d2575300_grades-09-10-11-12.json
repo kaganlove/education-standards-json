@@ -1,0 +1,896 @@
+{
+  "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC_D2575300_grades-09-10-11-12",
+  "title": "Statistical Reasoning",
+  "subject": "Mathematics (2010-2015)",
+  "normalizedSubject": "Math",
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+    "rightsHolder": "Desire2Learn Incorporated",
+    "title": "CC BY 3.0 US"
+  },
+  "document": {
+    "id": "D2575300",
+    "valid": "2014",
+    "title": "Georgia Statistical Reasoning Standards",
+    "sourceURL": "https://www.georgiastandards.org/Common-Core/Common%20Core%20Frameworks/CCGPS-Math-9-12-Statistical-Reasoning.pdf",
+    "asnIdentifier": "D2575300",
+    "publicationStatus": "Deprecated"
+  },
+  "jurisdiction": {
+    "id": "AB6E6F50DDF047E8BC3EE2CCFD33DCCC",
+    "title": "Georgia"
+  },
+  "standards": {
+    "BB9218AEDE9D4379811E41E1F7F00C2A": {
+      "id": "BB9218AEDE9D4379811E41E1F7F00C2A",
+      "asnIdentifier": "S2576326",
+      "position": 59000,
+      "depth": 3,
+      "statementNotation": "MSRIR2.b",
+      "listId": "b.",
+      "description": "Create an appropriate simulated sampling distribution (using technology) and develop a p-value.",
+      "ancestorIds": [
+        "E7B37DBF887947A2AA638E47318E62D3",
+        "D4CE65B6AB4248668677DF8716DCF15B",
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "E7B37DBF887947A2AA638E47318E62D3"
+    },
+    "1EA0AF87243F48E29C166E68E0A96292": {
+      "description": "Create an appropriate simulated sampling distribution (using technology) and develop a margin of error.",
+      "id": "1EA0AF87243F48E29C166E68E0A96292",
+      "asnIdentifier": "S2576325",
+      "position": 58000,
+      "depth": 3,
+      "statementNotation": "MSRIR2.a",
+      "listId": "a.",
+      "ancestorIds": [
+        "E7B37DBF887947A2AA638E47318E62D3",
+        "D4CE65B6AB4248668677DF8716DCF15B",
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "E7B37DBF887947A2AA638E47318E62D3"
+    },
+    "E7B37DBF887947A2AA638E47318E62D3": {
+      "statementNotation": "MSRIR2",
+      "description": "Students will understand that when randomness is incorporated into a sampling or experimental procedure, probability provides a way to describe the 'long-run' behavior of a statistic as described by its sampling distribution.",
+      "comments": [
+        "Students will be able to create simulated sampling distributions and understand how to use the sampling distribution to make predictions about a population parameter(s) or the difference in treatment effects."
+      ],
+      "id": "E7B37DBF887947A2AA638E47318E62D3",
+      "asnIdentifier": "S2576323",
+      "position": 57000,
+      "depth": 2,
+      "ancestorIds": [
+        "D4CE65B6AB4248668677DF8716DCF15B",
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "D4CE65B6AB4248668677DF8716DCF15B"
+    },
+    "4FB15B169F1B4F27A04F0209E4499E0B": {
+      "description": "Using simulation, determine the appropriate model to decide if there is a difference between two treatment effects.",
+      "id": "4FB15B169F1B4F27A04F0209E4499E0B",
+      "asnIdentifier": "S2576322",
+      "position": 56000,
+      "depth": 3,
+      "statementNotation": "MSRIR1.b",
+      "listId": "b.",
+      "ancestorIds": [
+        "3434DF4417D948D1865318707057A890",
+        "D4CE65B6AB4248668677DF8716DCF15B",
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "3434DF4417D948D1865318707057A890"
+    },
+    "E00B9D12F0204AE0B03A37FD261F08F4": {
+      "listId": "a.",
+      "description": "Using simulation, determine the appropriate model to decide if there is a difference between two population parameters.",
+      "id": "E00B9D12F0204AE0B03A37FD261F08F4",
+      "asnIdentifier": "S2576321",
+      "position": 55000,
+      "depth": 3,
+      "statementNotation": "MSRIR1.a",
+      "ancestorIds": [
+        "3434DF4417D948D1865318707057A890",
+        "D4CE65B6AB4248668677DF8716DCF15B",
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "3434DF4417D948D1865318707057A890"
+    },
+    "3434DF4417D948D1865318707057A890": {
+      "description": "Students will ask if the difference between two sample proportions or two sample means is due to random variation or if the difference is significant.",
+      "comments": [
+        "Students will be able to determine if there are differences between two population parameters or treatment effects."
+      ],
+      "id": "3434DF4417D948D1865318707057A890",
+      "asnIdentifier": "S2576319",
+      "position": 54000,
+      "depth": 2,
+      "statementNotation": "MSRIR1",
+      "ancestorIds": [
+        "D4CE65B6AB4248668677DF8716DCF15B",
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "D4CE65B6AB4248668677DF8716DCF15B"
+    },
+    "D4CE65B6AB4248668677DF8716DCF15B": {
+      "id": "D4CE65B6AB4248668677DF8716DCF15B",
+      "asnIdentifier": "S2575317",
+      "position": 53000,
+      "depth": 1,
+      "description": "Students will interpret results and make connections to the original question.",
+      "ancestorIds": [
+        "30C1086512A44F83B9FD586E5586767B"
+      ],
+      "parentId": "30C1086512A44F83B9FD586E5586767B"
+    },
+    "30C1086512A44F83B9FD586E5586767B": {
+      "position": 52000,
+      "depth": 0,
+      "description": "Interpret Results",
+      "id": "30C1086512A44F83B9FD586E5586767B",
+      "asnIdentifier": "S2575307",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "AF7212401A974B949E165C89E2F1354F": {
+      "listId": "c.",
+      "description": "Distinguish between association and causation.",
+      "id": "AF7212401A974B949E165C89E2F1354F",
+      "asnIdentifier": "S2576318",
+      "position": 51000,
+      "depth": 3,
+      "statementNotation": "MSRAD3.c",
+      "ancestorIds": [
+        "4DDCD537553C49CCA1E763689941ED6D",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "4DDCD537553C49CCA1E763689941ED6D"
+    },
+    "FC09050A401F401D841B37118E57458C": {
+      "id": "FC09050A401F401D841B37118E57458C",
+      "asnIdentifier": "S2576317",
+      "position": 50000,
+      "depth": 3,
+      "statementNotation": "MSRAD3.b",
+      "listId": "b.",
+      "description": "Make predictions and draw conclusions from two-variable data based on data displays.",
+      "ancestorIds": [
+        "4DDCD537553C49CCA1E763689941ED6D",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "4DDCD537553C49CCA1E763689941ED6D"
+    },
+    "735BA4A8186B47748FBD54B7E3A3501C": {
+      "asnIdentifier": "S2576316",
+      "position": 49000,
+      "depth": 4,
+      "statementNotation": "MSRAD3.a.iii",
+      "listId": "iii.",
+      "description": "Analyze patterns and trends in data displays.",
+      "id": "735BA4A8186B47748FBD54B7E3A3501C",
+      "ancestorIds": [
+        "61F5BB833A0D4BEEBEE6D785451ED710",
+        "4DDCD537553C49CCA1E763689941ED6D",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "61F5BB833A0D4BEEBEE6D785451ED710"
+    },
+    "8DB945ECA14D44A195FF10963CC66E53": {
+      "listId": "ii.",
+      "description": "Create two-way tables for two-variable categorical data.",
+      "id": "8DB945ECA14D44A195FF10963CC66E53",
+      "asnIdentifier": "S2576315",
+      "position": 48000,
+      "depth": 4,
+      "statementNotation": "MSRAD3.a.ii",
+      "ancestorIds": [
+        "61F5BB833A0D4BEEBEE6D785451ED710",
+        "4DDCD537553C49CCA1E763689941ED6D",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "61F5BB833A0D4BEEBEE6D785451ED710"
+    },
+    "E3E2E9AE2F0B4F5CB817CAAD1545A385": {
+      "id": "E3E2E9AE2F0B4F5CB817CAAD1545A385",
+      "asnIdentifier": "S2576314",
+      "position": 47000,
+      "depth": 4,
+      "statementNotation": "MSRAD3.a.i",
+      "listId": "i.",
+      "description": "Create scatter plots for two-variable numerical data.",
+      "ancestorIds": [
+        "61F5BB833A0D4BEEBEE6D785451ED710",
+        "4DDCD537553C49CCA1E763689941ED6D",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "61F5BB833A0D4BEEBEE6D785451ED710"
+    },
+    "61F5BB833A0D4BEEBEE6D785451ED710": {
+      "depth": 3,
+      "statementNotation": "MSRAD3.a",
+      "listId": "a.",
+      "description": "Analyze associations between two variables.",
+      "id": "61F5BB833A0D4BEEBEE6D785451ED710",
+      "asnIdentifier": "S2576313",
+      "position": 46000,
+      "ancestorIds": [
+        "4DDCD537553C49CCA1E763689941ED6D",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "4DDCD537553C49CCA1E763689941ED6D"
+    },
+    "4DDCD537553C49CCA1E763689941ED6D": {
+      "asnIdentifier": "S2576311",
+      "position": 45000,
+      "depth": 2,
+      "statementNotation": "MSRAD3",
+      "description": "Students will determine if an association exists between two variables (pattern or trend in bivariate data) and use values of one variable to predict values of another variable.",
+      "comments": [
+        "Students will analyze associations between variables and make predictions from one variable to another."
+      ],
+      "id": "4DDCD537553C49CCA1E763689941ED6D",
+      "ancestorIds": [
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "7AB2D247040D4DFD8275A5226105562D"
+    },
+    "E0213B36EE0A4ED78393F2620EA5D6C9": {
+      "id": "E0213B36EE0A4ED78393F2620EA5D6C9",
+      "asnIdentifier": "S2576310",
+      "position": 44000,
+      "depth": 3,
+      "statementNotation": "MSRAD2.b",
+      "listId": "b.",
+      "description": "Use graphical and numerical attributes of distributions to make comparisons between distributions.",
+      "ancestorIds": [
+        "DDE5FCE5045A40C6946E008584F41EC5",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "DDE5FCE5045A40C6946E008584F41EC5"
+    },
+    "3FFC91D293044D45949F0974FE02E400": {
+      "depth": 3,
+      "statementNotation": "MSRAD2.a",
+      "listId": "a.",
+      "description": "Construct appropriate graphical displays of distributions.",
+      "id": "3FFC91D293044D45949F0974FE02E400",
+      "asnIdentifier": "S2576309",
+      "position": 43000,
+      "ancestorIds": [
+        "DDE5FCE5045A40C6946E008584F41EC5",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "DDE5FCE5045A40C6946E008584F41EC5"
+    },
+    "DDE5FCE5045A40C6946E008584F41EC5": {
+      "id": "DDE5FCE5045A40C6946E008584F41EC5",
+      "asnIdentifier": "S2576307",
+      "position": 42000,
+      "depth": 2,
+      "statementNotation": "MSRAD2",
+      "description": "Students will use distributions to compare two or more groups.",
+      "comments": [
+        "Students will compare two or more groups by analyzing distributions."
+      ],
+      "ancestorIds": [
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "7AB2D247040D4DFD8275A5226105562D"
+    },
+    "7B8ABB205B4741E88A8FFBC70D5C7352": {
+      "id": "7B8ABB205B4741E88A8FFBC70D5C7352",
+      "asnIdentifier": "S2576306",
+      "position": 41000,
+      "depth": 4,
+      "statementNotation": "MSRAD1.b.ii",
+      "listId": "ii.",
+      "description": "Describe and interpret patterns that exist for the distribution.",
+      "ancestorIds": [
+        "334EB5436C7A420FA68D5748B8B2CA2D",
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "334EB5436C7A420FA68D5748B8B2CA2D"
+    },
+    "3B582BD4AAD44A8DBEAFF0579772C622": {
+      "description": "Describe and interpret the modal category for the distribution.",
+      "id": "3B582BD4AAD44A8DBEAFF0579772C622",
+      "asnIdentifier": "S2576305",
+      "position": 40000,
+      "depth": 4,
+      "statementNotation": "MSRAD1.b.i",
+      "listId": "i.",
+      "ancestorIds": [
+        "334EB5436C7A420FA68D5748B8B2CA2D",
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "334EB5436C7A420FA68D5748B8B2CA2D"
+    },
+    "334EB5436C7A420FA68D5748B8B2CA2D": {
+      "statementNotation": "MSRAD1.b",
+      "listId": "b.",
+      "description": "Describe the distribution for categorical data.",
+      "id": "334EB5436C7A420FA68D5748B8B2CA2D",
+      "asnIdentifier": "S2576304",
+      "position": 39000,
+      "depth": 3,
+      "ancestorIds": [
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "16E4E80895A7489791F0994CEE488F26"
+    },
+    "6DF1A1F2BFCA40E2AB092FF911007E0A": {
+      "depth": 4,
+      "statementNotation": "MSRAD1.a.iv",
+      "listId": "iv.",
+      "description": "Describe and interpret any outliers or gaps in the distribution.",
+      "id": "6DF1A1F2BFCA40E2AB092FF911007E0A",
+      "asnIdentifier": "S2576303",
+      "position": 38000,
+      "ancestorIds": [
+        "D9767DBB091E43829FED90976C9A0C8E",
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "D9767DBB091E43829FED90976C9A0C8E"
+    },
+    "43981FB5509D4A1CB2F410C2B31021A5": {
+      "id": "43981FB5509D4A1CB2F410C2B31021A5",
+      "asnIdentifier": "S2576302",
+      "position": 37000,
+      "depth": 4,
+      "statementNotation": "MSRAD1.a.iii",
+      "listId": "iii.",
+      "description": "Describe and interpret the patterns in variability for the distribution.",
+      "ancestorIds": [
+        "D9767DBB091E43829FED90976C9A0C8E",
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "D9767DBB091E43829FED90976C9A0C8E"
+    },
+    "8896F8E6196C4624B2BF4E96FBFCF0E5": {
+      "position": 36000,
+      "depth": 4,
+      "statementNotation": "MSRAD1.a.ii",
+      "listId": "ii.",
+      "description": "Describe and interpret the measures of center for the distribution.",
+      "id": "8896F8E6196C4624B2BF4E96FBFCF0E5",
+      "asnIdentifier": "S2576301",
+      "ancestorIds": [
+        "D9767DBB091E43829FED90976C9A0C8E",
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "D9767DBB091E43829FED90976C9A0C8E"
+    },
+    "4778AF9E874946F0AAB1EBEE2D1FF672": {
+      "depth": 4,
+      "statementNotation": "MSRAD1.a.i",
+      "listId": "i.",
+      "description": "Describe and interpret the shape of the distribution.",
+      "id": "4778AF9E874946F0AAB1EBEE2D1FF672",
+      "asnIdentifier": "S2576300",
+      "position": 35000,
+      "ancestorIds": [
+        "D9767DBB091E43829FED90976C9A0C8E",
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "D9767DBB091E43829FED90976C9A0C8E"
+    },
+    "D9767DBB091E43829FED90976C9A0C8E": {
+      "description": "Describe the distribution for quantitative data.",
+      "id": "D9767DBB091E43829FED90976C9A0C8E",
+      "asnIdentifier": "S2576299",
+      "position": 34000,
+      "depth": 3,
+      "statementNotation": "MSRAD1.a",
+      "listId": "a.",
+      "ancestorIds": [
+        "16E4E80895A7489791F0994CEE488F26",
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "16E4E80895A7489791F0994CEE488F26"
+    },
+    "16E4E80895A7489791F0994CEE488F26": {
+      "description": "Students will use distributions to identify the key features of the data collected.",
+      "comments": [
+        "Students will describe the distribution for quantitative and categorical data."
+      ],
+      "id": "16E4E80895A7489791F0994CEE488F26",
+      "asnIdentifier": "S2576297",
+      "position": 33000,
+      "depth": 2,
+      "statementNotation": "MSRAD1",
+      "ancestorIds": [
+        "7AB2D247040D4DFD8275A5226105562D",
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "7AB2D247040D4DFD8275A5226105562D"
+    },
+    "7AB2D247040D4DFD8275A5226105562D": {
+      "id": "7AB2D247040D4DFD8275A5226105562D",
+      "asnIdentifier": "S2575316",
+      "position": 32000,
+      "depth": 1,
+      "description": "Students will select appropriate graphical and numerical methods and use these methods to analyze the data.",
+      "ancestorIds": [
+        "497DDB9B74794FDDBAA4C02EBB454B41"
+      ],
+      "parentId": "497DDB9B74794FDDBAA4C02EBB454B41"
+    },
+    "497DDB9B74794FDDBAA4C02EBB454B41": {
+      "id": "497DDB9B74794FDDBAA4C02EBB454B41",
+      "asnIdentifier": "S2575306",
+      "position": 31000,
+      "depth": 0,
+      "description": "Analyze Data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D8FA58AEA4DE491CBB41D44E269D3CD1": {
+      "position": 30000,
+      "depth": 3,
+      "statementNotation": "MSRCD4.c",
+      "listId": "c.",
+      "description": "Recognize that sample size impacts the precision with which estimates of the population parameters can be made (larger the sample size the more precision).",
+      "id": "D8FA58AEA4DE491CBB41D44E269D3CD1",
+      "asnIdentifier": "S2576296",
+      "ancestorIds": [
+        "2422FA2991FD4502B3F2EBF3C94E46B3",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "2422FA2991FD4502B3F2EBF3C94E46B3"
+    },
+    "5EF4CAE9645D4D2FAA739C5FFA019BD9": {
+      "description": "Recognize that random selection from a population plays a different role than random assignment in an experiment.",
+      "id": "5EF4CAE9645D4D2FAA739C5FFA019BD9",
+      "asnIdentifier": "S2576295",
+      "position": 29000,
+      "depth": 3,
+      "statementNotation": "MSRCD4.b",
+      "listId": "b.",
+      "ancestorIds": [
+        "2422FA2991FD4502B3F2EBF3C94E46B3",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "2422FA2991FD4502B3F2EBF3C94E46B3"
+    },
+    "1C7A2FED6CC04D019F7FF5B1831D912E": {
+      "depth": 3,
+      "statementNotation": "MSRCD4.a",
+      "listId": "a.",
+      "description": "Recognize that randomization reduces bias where bias occurs when certain outcomes are systematically more likely to appear.",
+      "id": "1C7A2FED6CC04D019F7FF5B1831D912E",
+      "asnIdentifier": "S2576294",
+      "position": 28000,
+      "ancestorIds": [
+        "2422FA2991FD4502B3F2EBF3C94E46B3",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "2422FA2991FD4502B3F2EBF3C94E46B3"
+    },
+    "2422FA2991FD4502B3F2EBF3C94E46B3": {
+      "asnIdentifier": "S2576292",
+      "position": 27000,
+      "depth": 2,
+      "statementNotation": "MSRCD4",
+      "description": "Students will distinguish between the role of randomness and the role of sample size with respect to using a statistic from a sample to estimate a population parameter.",
+      "comments": [
+        "Students will be able to distinguish the roles of randomization and sample size with designing studies."
+      ],
+      "id": "2422FA2991FD4502B3F2EBF3C94E46B3",
+      "ancestorIds": [
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "F38B89485731430AA375F75C1D9CBC9E"
+    },
+    "AD67F45F097C400AB90DC2C6F2B7C8F3": {
+      "position": 26000,
+      "depth": 3,
+      "statementNotation": "MSRCD3.b",
+      "listId": "b.",
+      "description": "Determine the appropriate scope of inference for the study design used.",
+      "id": "AD67F45F097C400AB90DC2C6F2B7C8F3",
+      "asnIdentifier": "S2576291",
+      "ancestorIds": [
+        "40DF73D7261F4ABD8332F0DE41A0CA39",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "40DF73D7261F4ABD8332F0DE41A0CA39"
+    },
+    "4516979C58024E7D961AB7B3C86196DC": {
+      "statementNotation": "MSRCD3.a",
+      "listId": "a.",
+      "description": "Determine the type of study design appropriate for answering a statistical question.",
+      "id": "4516979C58024E7D961AB7B3C86196DC",
+      "asnIdentifier": "S2576290",
+      "position": 25000,
+      "depth": 3,
+      "ancestorIds": [
+        "40DF73D7261F4ABD8332F0DE41A0CA39",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "40DF73D7261F4ABD8332F0DE41A0CA39"
+    },
+    "40DF73D7261F4ABD8332F0DE41A0CA39": {
+      "comments": [
+        "Students will be able to distinguish between the three types of study designs for collecting data (sample survey, experiment, and observational study) and know the scope of the interpretation for each design type."
+      ],
+      "id": "40DF73D7261F4ABD8332F0DE41A0CA39",
+      "asnIdentifier": "S2576288",
+      "position": 24000,
+      "depth": 2,
+      "statementNotation": "MSRCD3",
+      "description": "Students will distinguish between the three types of study designs for collecting data (sample survey, experiment, and observational study) and will know the scope of the interpretation for each design type.",
+      "ancestorIds": [
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "F38B89485731430AA375F75C1D9CBC9E"
+    },
+    "9640417178214131B2BCD8B6E8CE6C3B": {
+      "id": "9640417178214131B2BCD8B6E8CE6C3B",
+      "asnIdentifier": "S2576287",
+      "position": 23000,
+      "depth": 3,
+      "statementNotation": "MSRCD2.b",
+      "listId": "b.",
+      "description": "Randomly assign treatments to experimental subjects or objects.",
+      "ancestorIds": [
+        "2457BE54A4024A4EAAAB1122375A1CB2",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "2457BE54A4024A4EAAAB1122375A1CB2"
+    },
+    "0977F91DFD7A4AFA887D349DB70C30B7": {
+      "id": "0977F91DFD7A4AFA887D349DB70C30B7",
+      "asnIdentifier": "S2576286",
+      "position": 22000,
+      "depth": 3,
+      "statementNotation": "MSRCD2.a",
+      "listId": "a.",
+      "description": "Implement a simple random sample.",
+      "ancestorIds": [
+        "2457BE54A4024A4EAAAB1122375A1CB2",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "2457BE54A4024A4EAAAB1122375A1CB2"
+    },
+    "2457BE54A4024A4EAAAB1122375A1CB2": {
+      "asnIdentifier": "S2576284",
+      "position": 21000,
+      "depth": 2,
+      "statementNotation": "MSRCD2",
+      "description": "Students will understand that randomness should be incorporated into a sampling or experimental procedure.",
+      "comments": [
+        "Students will be able to implement a reasonable random method for selecting a sample or for assigning treatments in an experiment."
+      ],
+      "id": "2457BE54A4024A4EAAAB1122375A1CB2",
+      "ancestorIds": [
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "F38B89485731430AA375F75C1D9CBC9E"
+    },
+    "334840245E05417296C0606B16C803B0": {
+      "id": "334840245E05417296C0606B16C803B0",
+      "asnIdentifier": "S2576283",
+      "position": 20000,
+      "depth": 4,
+      "statementNotation": "MSRCD1.b.ii",
+      "listId": "ii.",
+      "description": "Create a sampling distribution of a statistic by taking repeated samples from a population (either hands-on or by simulation with technology).",
+      "ancestorIds": [
+        "926D075B3C6140269EE6CCAD64AF188B",
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "926D075B3C6140269EE6CCAD64AF188B"
+    },
+    "FC566C68FF4D4DF9A156EB669D1FDD2A": {
+      "position": 19000,
+      "depth": 4,
+      "statementNotation": "MSRCD1.b.i",
+      "listId": "i.",
+      "description": "Create a sample data distribution by taking a sample from a defined population and summarizing the data in a distribution.",
+      "id": "FC566C68FF4D4DF9A156EB669D1FDD2A",
+      "asnIdentifier": "S2576282",
+      "ancestorIds": [
+        "926D075B3C6140269EE6CCAD64AF188B",
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "926D075B3C6140269EE6CCAD64AF188B"
+    },
+    "926D075B3C6140269EE6CCAD64AF188B": {
+      "statementNotation": "MSRCD1.b",
+      "listId": "b.",
+      "description": "Students will create sample data distributions and a sampling distribution.",
+      "id": "926D075B3C6140269EE6CCAD64AF188B",
+      "asnIdentifier": "S2576281",
+      "position": 18000,
+      "depth": 3,
+      "ancestorIds": [
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "C7BC554A477B424893B9DB228DBC7289"
+    },
+    "5BCFC4DDEDCE42428E84D21A63E70393": {
+      "position": 17000,
+      "depth": 4,
+      "statementNotation": "MSRCD1.a.iii",
+      "listId": "iii.",
+      "description": "Recognize a sampling distribution is the distribution of a sample statistic (such as a sample mean or a sample proportion) obtained from repeated samples. The sampling distribution provides the key for determining how close to expect a sample statistic approximates the population parameter.",
+      "id": "5BCFC4DDEDCE42428E84D21A63E70393",
+      "asnIdentifier": "S2576280",
+      "ancestorIds": [
+        "97A0E5A25824460682229EB5993643B1",
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "97A0E5A25824460682229EB5993643B1"
+    },
+    "3BBE6AAF68AC446D8F13BF3ECCB03175": {
+      "listId": "ii.",
+      "description": "Recognize a sample data distribution is taken from a population distribution and the data distribution is what is seen in practice hoping it approximates the population distribution.",
+      "id": "3BBE6AAF68AC446D8F13BF3ECCB03175",
+      "asnIdentifier": "S2576279",
+      "position": 16000,
+      "depth": 4,
+      "statementNotation": "MSRCD1.a.ii",
+      "ancestorIds": [
+        "97A0E5A25824460682229EB5993643B1",
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "97A0E5A25824460682229EB5993643B1"
+    },
+    "C6C7546E074546F1ACEE0D4CC14E4CDF": {
+      "depth": 4,
+      "statementNotation": "MSRCD1.a.i",
+      "listId": "i.",
+      "description": "Recognize a population distribution has fixed values of its parameters that are usually unknown.",
+      "id": "C6C7546E074546F1ACEE0D4CC14E4CDF",
+      "asnIdentifier": "S2576278",
+      "position": 15000,
+      "ancestorIds": [
+        "97A0E5A25824460682229EB5993643B1",
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "97A0E5A25824460682229EB5993643B1"
+    },
+    "97A0E5A25824460682229EB5993643B1": {
+      "position": 14000,
+      "depth": 3,
+      "statementNotation": "MSRCD1.a",
+      "listId": "a.",
+      "description": "Students will identify the three types of distributions.",
+      "id": "97A0E5A25824460682229EB5993643B1",
+      "asnIdentifier": "S2576277",
+      "ancestorIds": [
+        "C7BC554A477B424893B9DB228DBC7289",
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "C7BC554A477B424893B9DB228DBC7289"
+    },
+    "C7BC554A477B424893B9DB228DBC7289": {
+      "statementNotation": "MSRCD1",
+      "description": "Students will distinguish between a population distribution, a sample data distribution, and a sampling distribution.",
+      "id": "C7BC554A477B424893B9DB228DBC7289",
+      "asnIdentifier": "S2576276",
+      "position": 13000,
+      "depth": 2,
+      "ancestorIds": [
+        "F38B89485731430AA375F75C1D9CBC9E",
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "F38B89485731430AA375F75C1D9CBC9E"
+    },
+    "F38B89485731430AA375F75C1D9CBC9E": {
+      "asnIdentifier": "S2575314",
+      "position": 12000,
+      "depth": 1,
+      "description": "Students will design and implement a plan to collect the appropriate data to answer the statistical question.",
+      "id": "F38B89485731430AA375F75C1D9CBC9E",
+      "ancestorIds": [
+        "0E340B4244B3442BA25FA814E2112BD0"
+      ],
+      "parentId": "0E340B4244B3442BA25FA814E2112BD0"
+    },
+    "0E340B4244B3442BA25FA814E2112BD0": {
+      "id": "0E340B4244B3442BA25FA814E2112BD0",
+      "asnIdentifier": "S2575305",
+      "position": 11000,
+      "depth": 0,
+      "description": "Collect Data",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EC330A440845481EBC06CA1B0512DAE7": {
+      "asnIdentifier": "S2576275",
+      "position": 10000,
+      "depth": 3,
+      "statementNotation": "MSRFQ2.b",
+      "listId": "b.",
+      "description": "Determine the type of data used to produce a given graphical display.",
+      "id": "EC330A440845481EBC06CA1B0512DAE7",
+      "ancestorIds": [
+        "8C11EF642A2B47AFB2414A5DCED1AA9C",
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "8C11EF642A2B47AFB2414A5DCED1AA9C"
+    },
+    "6D320C835A07431180D5864F265A6DA5": {
+      "listId": "a.",
+      "description": "Determine the appropriate graphical display for each type of data.",
+      "id": "6D320C835A07431180D5864F265A6DA5",
+      "asnIdentifier": "S2576274",
+      "position": 9000,
+      "depth": 3,
+      "statementNotation": "MSRFQ2.a",
+      "ancestorIds": [
+        "8C11EF642A2B47AFB2414A5DCED1AA9C",
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "8C11EF642A2B47AFB2414A5DCED1AA9C"
+    },
+    "8C11EF642A2B47AFB2414A5DCED1AA9C": {
+      "comments": [
+        "Students will be able to identify the difference between categorical and quantitative (numerical) data."
+      ],
+      "id": "8C11EF642A2B47AFB2414A5DCED1AA9C",
+      "asnIdentifier": "S2576272",
+      "position": 8000,
+      "depth": 2,
+      "statementNotation": "MSRFQ2",
+      "description": "Students will identify whether the data are categorical or quantitative (numerical).",
+      "ancestorIds": [
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "3642CA68D56240EABA28021862461668"
+    },
+    "E4DF5696C250419EA01697A34453E9E3": {
+      "asnIdentifier": "S2576271",
+      "position": 7000,
+      "depth": 3,
+      "statementNotation": "MSRFQ1.d",
+      "listId": "d.",
+      "description": "Interpret results by interpreting the analysis and relating the interpretation to the original question.",
+      "id": "E4DF5696C250419EA01697A34453E9E3",
+      "ancestorIds": [
+        "2F8D12F43C914BA396F5AD21CEE7C5C9",
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "2F8D12F43C914BA396F5AD21CEE7C5C9"
+    },
+    "FBCE9EB09A074CE4B2813DE209E2D59E": {
+      "depth": 3,
+      "statementNotation": "MSRFQ1.c",
+      "listId": "c.",
+      "description": "Analyze data by selecting appropriate graphical and numerical methods and using these methods to analyze the data.",
+      "id": "FBCE9EB09A074CE4B2813DE209E2D59E",
+      "asnIdentifier": "S2576270",
+      "position": 6000,
+      "ancestorIds": [
+        "2F8D12F43C914BA396F5AD21CEE7C5C9",
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "2F8D12F43C914BA396F5AD21CEE7C5C9"
+    },
+    "D6514A1A9941429B82FCC1520666CA59": {
+      "statementNotation": "MSRFQ1.b",
+      "listId": "b.",
+      "description": "Collect data by designing a plan to collect appropriate data and employ the plan to collect the data.",
+      "id": "D6514A1A9941429B82FCC1520666CA59",
+      "asnIdentifier": "S2576269",
+      "position": 5000,
+      "depth": 3,
+      "ancestorIds": [
+        "2F8D12F43C914BA396F5AD21CEE7C5C9",
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "2F8D12F43C914BA396F5AD21CEE7C5C9"
+    },
+    "06059E982B7643739D145641D07AFCEF": {
+      "listId": "a.",
+      "description": "Formulate questions to clarify the problem at hand and formulate one (or more) questions that can be answered with data.",
+      "id": "06059E982B7643739D145641D07AFCEF",
+      "asnIdentifier": "S2576268",
+      "position": 4000,
+      "depth": 3,
+      "statementNotation": "MSRFQ1.a",
+      "ancestorIds": [
+        "2F8D12F43C914BA396F5AD21CEE7C5C9",
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "2F8D12F43C914BA396F5AD21CEE7C5C9"
+    },
+    "2F8D12F43C914BA396F5AD21CEE7C5C9": {
+      "id": "2F8D12F43C914BA396F5AD21CEE7C5C9",
+      "asnIdentifier": "S2576267",
+      "position": 3000,
+      "depth": 2,
+      "statementNotation": "MSRFQ1",
+      "description": "Students will apply the statistical method to real-world situations.",
+      "ancestorIds": [
+        "3642CA68D56240EABA28021862461668",
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "3642CA68D56240EABA28021862461668"
+    },
+    "3642CA68D56240EABA28021862461668": {
+      "id": "3642CA68D56240EABA28021862461668",
+      "asnIdentifier": "S2575313",
+      "position": 2000,
+      "depth": 1,
+      "description": "Students will formulate questions to clarify the problem at hand and formulate one (or more) questions that can be answered with data.",
+      "ancestorIds": [
+        "32BC57DD56C34B16BECD4CD6080BFB50"
+      ],
+      "parentId": "32BC57DD56C34B16BECD4CD6080BFB50"
+    },
+    "32BC57DD56C34B16BECD4CD6080BFB50": {
+      "depth": 0,
+      "description": "Formulate Questions",
+      "id": "32BC57DD56C34B16BECD4CD6080BFB50",
+      "asnIdentifier": "S2575303",
+      "position": 1000,
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

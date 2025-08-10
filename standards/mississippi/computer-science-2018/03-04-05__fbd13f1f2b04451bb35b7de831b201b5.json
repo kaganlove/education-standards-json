@@ -1,0 +1,962 @@
+{
+  "id": "FBD13F1F2B04451BB35B7DE831B201B5",
+  "title": "Grades 3-5",
+  "subject": "Computer Science (2018-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "03",
+    "04",
+    "05"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "sourceURL": "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/SEC/2018_MCCRS_CS.pdf",
+    "title": "2018 Mississippi College- and Career-Readiness Standards for Computer Science",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "78D64C532B604AC7BC15E6578C381017",
+    "title": "Mississippi"
+  },
+  "standards": {
+    "F5C3318B297141978F6626EF11CFD27E": {
+      "id": "F5C3318B297141978F6626EF11CFD27E",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "IC.1B.4a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should consider the licenses on computational artifacts that they wish to use. For example, the license on a downloaded image or audio file may have restrictions that prohibit modification, require attribution, or prohibit use entirely.",
+      "comments": [],
+      "ancestorIds": [
+        "5674FE4C36C4436791018482A2BF9891",
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "5674FE4C36C4436791018482A2BF9891"
+    },
+    "5674FE4C36C4436791018482A2BF9891": {
+      "id": "5674FE4C36C4436791018482A2BF9891",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 1,
+      "listId": "4 ",
+      "statementNotation": "IC.1B.4 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use public domain or creative commons media and refrain from copying or using material created by others without permission. [SAFETY, LAW, & ETHICS] (P7.3)\nEthical complications arise from the opportunities provided by computing. The ease of sending and receiving copies of media on the Internet, such as video, photos, and music, creates the opportunity for unauthorized use, such as online piracy, and disregard of copyrights.",
+      "comments": [],
+      "ancestorIds": [
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "282047F1A5D34B51A0FB8A17653F9CAB"
+    },
+    "EE9FF54506B1448BBAD129E1BD82E0F0": {
+      "id": "EE9FF54506B1448BBAD129E1BD82E0F0",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "IC.1B.3a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will collaborate and receive feedback from others. For example, students could seek feedback from other groups in their class or students at another grade level. Or, with guidance from their teacher, they could use video conferencing tools or other online collaborative spaces, such as blogs, wikis, forums, or website comments, to gather feedback from individuals and groups about programming projects.",
+      "comments": [],
+      "ancestorIds": [
+        "35FF294703A14AF884A3CDFCC5AD0C50",
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "35FF294703A14AF884A3CDFCC5AD0C50"
+    },
+    "35FF294703A14AF884A3CDFCC5AD0C50": {
+      "id": "35FF294703A14AF884A3CDFCC5AD0C50",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "3 ",
+      "statementNotation": "IC.1B.3 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Seek diverse perspectives for the purpose of improving computational artifacts. [SOCIAL INTERACTIONS] (P1.1)\nComputing provides the possibility for collaboration and sharing of ideas and allows the benefit of diverse perspectives.",
+      "comments": [],
+      "ancestorIds": [
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "282047F1A5D34B51A0FB8A17653F9CAB"
+    },
+    "C98A88706F5044C4AC308353E9F68476": {
+      "id": "C98A88706F5044C4AC308353E9F68476",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "IC.1B.2a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students will demonstrate an understanding of diversity in ability and interests by developing artifacts and tools that use different methods of communication and/or appeal to different users. For example, students may consider using both speech and text when they wish to convey information in a game. They may also wish to vary the types of programs they create, knowing that not everyone shares their own tastes.",
+      "comments": [],
+      "ancestorIds": [
+        "907EA85CFB8F4A1087D15E3D06C65E02",
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "907EA85CFB8F4A1087D15E3D06C65E02"
+    },
+    "907EA85CFB8F4A1087D15E3D06C65E02": {
+      "id": "907EA85CFB8F4A1087D15E3D06C65E02",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 1,
+      "listId": "2 ",
+      "statementNotation": "IC.1B.2 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users. [CULTURE] (P1.2)\nThe development and modification of computing technology are driven by people’s needs and wants and can affect groups differently. Anticipating the needs and wants of diverse end users requires students to purposefully consider potential perspectives of users with different backgrounds, ability levels, points of view, and disabilities.",
+      "comments": [],
+      "ancestorIds": [
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "282047F1A5D34B51A0FB8A17653F9CAB"
+    },
+    "773ABA74A0164897B9248D91F7076B67": {
+      "id": "773ABA74A0164897B9248D91F7076B67",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "IC.1B.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students, with guidance from their teacher, should discuss topics that relate to the history of technology and the changes in the world due to technology. Topics could be based on current news content, such as robotics, wireless Internet, mobile computing devices, GPS systems, wearable computing, or how social media has influenced social and political changes.",
+      "comments": [],
+      "ancestorIds": [
+        "22900894199647919C364F777D30A0B0",
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "22900894199647919C364F777D30A0B0"
+    },
+    "22900894199647919C364F777D30A0B0": {
+      "id": "22900894199647919C364F777D30A0B0",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 1,
+      "listId": "1 ",
+      "statementNotation": "IC.1B.1 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss computing technologies that have changed the world and express how those technologies influence and are influenced by cultural practices. [CULTURE] (P7.1)\nNew computing technology is created and existing technologies are modified for many reasons, including to increase their benefits, decrease their risks, and meet societal needs.",
+      "comments": [],
+      "ancestorIds": [
+        "282047F1A5D34B51A0FB8A17653F9CAB"
+      ],
+      "parentId": "282047F1A5D34B51A0FB8A17653F9CAB"
+    },
+    "282047F1A5D34B51A0FB8A17653F9CAB": {
+      "id": "282047F1A5D34B51A0FB8A17653F9CAB",
+      "asnIdentifier": null,
+      "position": 45001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conceptual Understanding: Computing affects many aspects of the world in both positive and negative ways at local, national, and global levels. Individuals and communities influence computing through their behaviors and cultural and social interactions, and in turn, computing influences new cultural practices. An informed and responsible person should understand the social implications of the digital world, including equity and access to computing.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CCA378D47C3E4817B2561CA54EC28B0C": {
+      "id": "CCA378D47C3E4817B2561CA54EC28B0C",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 0,
+      "listId": "IC",
+      "statementNotation": "IC.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Impacts of Computing",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D9DECCC8321C4C1DB171D1FF5C5C487C": {
+      "id": "D9DECCC8321C4C1DB171D1FF5C5C487C",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.10a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should explain code choices using comments within the code, presentations, and demonstrations. These explanations could manifest themselves as in-line code comments for collaborators and assessors or as part of a summative presentation, such as a code walk-through or coding journal.",
+      "comments": [],
+      "ancestorIds": [
+        "84234E8AA66C47EAA39723020336BEF9",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "84234E8AA66C47EAA39723020336BEF9"
+    },
+    "84234E8AA66C47EAA39723020336BEF9": {
+      "id": "84234E8AA66C47EAA39723020336BEF9",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "10 ",
+      "statementNotation": "AP.1B.10 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe choices made during program development using code comments, presentations, and demonstrations. [PROGRAM DEVELOPMENT] (P7.2)\nPeople communicate about their code to help others understand and use their programs. Another purpose of communicating one's design choices is to show an understanding of one's work.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "81B132B584ED42A5A5DD0B035654E135": {
+      "id": "81B132B584ED42A5A5DD0B035654E135",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.9a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should take turns in different roles during program development, such as note taker, facilitator, program tester, or “driver” of the computer.",
+      "comments": [],
+      "ancestorIds": [
+        "C2825D3CC657496EA607DF8F6C097CDF",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "C2825D3CC657496EA607DF8F6C097CDF"
+    },
+    "C2825D3CC657496EA607DF8F6C097CDF": {
+      "id": "C2825D3CC657496EA607DF8F6C097CDF",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "9",
+      "statementNotation": "AP.1B.9 T",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Take on varying roles, with teacher guidance, when collaborating with peers during the design, implementation, and review stages of program development. [PROGRAM DEVELOPMENT] (P2.2)\nCollaborative computing is the process of performing a computational task by working in pairs or on teams. Because it involves asking for the contributions and feedback of others, effective collaboration can lead to better outcomes than working independently.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "918FA7BCE53E413894BB0F0DF89F19A2": {
+      "id": "918FA7BCE53E413894BB0F0DF89F19A2",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.8a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to identify and debug simple errors in programs they create and in programs created by others.",
+      "comments": [],
+      "ancestorIds": [
+        "257F0FC0FBE74825B7ED959730D2E8EB",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "257F0FC0FBE74825B7ED959730D2E8EB"
+    },
+    "257F0FC0FBE74825B7ED959730D2E8EB": {
+      "id": "257F0FC0FBE74825B7ED959730D2E8EB",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "8 ",
+      "statementNotation": "AP.1B.8 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. [PROGRAM DEVELOPMENT] (P6.1, P6.2)\nAs students develop programs, they should continuously test those programs to see that they do what was expected and fix (debug), any errors.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "49B7B82623074425BD37E983F5683464": {
+      "id": "49B7B82623074425BD37E983F5683464",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "b ",
+      "statementNotation": "AP.1B.7b ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should also consider common licenses that place limitations or restrictions on the use of computational artifacts, such as images and music downloaded from the Internet. At this stage, attribution should be written in the format required by the teacher and should always be included on any programs shared online.",
+      "comments": [],
+      "ancestorIds": [
+        "E8329F2E2C7F4A488A28D42BB212D125",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "E8329F2E2C7F4A488A28D42BB212D125"
+    },
+    "DC9B7310ADEE4152A35F0FB50604B19E": {
+      "id": "DC9B7310ADEE4152A35F0FB50604B19E",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.7a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should identify instances of remixing, when ideas are borrowed and iterated upon, and credit the original creator.",
+      "comments": [],
+      "ancestorIds": [
+        "E8329F2E2C7F4A488A28D42BB212D125",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "E8329F2E2C7F4A488A28D42BB212D125"
+    },
+    "E8329F2E2C7F4A488A28D42BB212D125": {
+      "id": "E8329F2E2C7F4A488A28D42BB212D125",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "7 ",
+      "statementNotation": "AP.1B.7 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Observe intellectual property rights and give appropriate attribution when creating or remixing programs. [PROGRAM DEVELOPMENT] (P7.3)\nIntellectual property rights can vary by country, but copyright laws give the creator of a work a set of rights that prevents others from copying the work and using it in ways that they may not like.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "DB482090590B48B5B31001534221BAA2": {
+      "id": "DB482090590B48B5B31001534221BAA2",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "b ",
+      "statementNotation": "AP.1B.6b ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should document the plan as, for example, a storyboard, flowchart, pseudocode, or story map.",
+      "comments": [],
+      "ancestorIds": [
+        "070B4995B6234E7DAD5B701CDD575BA0",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "070B4995B6234E7DAD5B701CDD575BA0"
+    },
+    "2EC808334C3F4A808D4623A856526852": {
+      "id": "2EC808334C3F4A808D4623A856526852",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.6a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students outline key features, time and resource constraints, and user expectations.",
+      "comments": [],
+      "ancestorIds": [
+        "070B4995B6234E7DAD5B701CDD575BA0",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "070B4995B6234E7DAD5B701CDD575BA0"
+    },
+    "070B4995B6234E7DAD5B701CDD575BA0": {
+      "id": "070B4995B6234E7DAD5B701CDD575BA0",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 1,
+      "listId": "6 ",
+      "statementNotation": "AP.1B.6 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use an iterative process to plan the development of a program by including others' perspectives and considering user preferences. [PROGRAM DEVELOPMENT] (P1.1, P5.1)\nPlanning is an important part of the iterative process of program development.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "CED80D4892BD4E8EAF35AC0DE952CA5B": {
+      "id": "CED80D4892BD4E8EAF35AC0DE952CA5B",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.5a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to modify and/or reuse portions of an existing program into their own work to create something new. For example, students could modify prewritten code from a single-player game to create a two-player game with slightly different rules, remix and add another scene to an animated story, use code to make a ball bounce from another program in a new basketball game, or modify an image created by another student.",
+      "comments": [],
+      "ancestorIds": [
+        "697C3A5C632648DAA220193C033476C2",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "697C3A5C632648DAA220193C033476C2"
+    },
+    "697C3A5C632648DAA220193C033476C2": {
+      "id": "697C3A5C632648DAA220193C033476C2",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 1,
+      "listId": "5 ",
+      "statementNotation": "AP.1B.5 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modify, remix, or incorporate portions of an existing program into one's own work to develop something new or add more advanced features. [MODULARITY] (P5.3)\nPrograms can be broken down into smaller parts, which can be incorporated into new or existing programs.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "D383C8BF08AD4B64B88895C4B7525543": {
+      "id": "D383C8BF08AD4B64B88895C4B7525543",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.4a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to break down problems into smaller, simpler tasks. For example, students could create an animation by separating a story into different scenes. For each scene, they would select a background, place characters, and program actions.",
+      "comments": [],
+      "ancestorIds": [
+        "960923DCD1D1432BBA0BB483A0F85897",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "960923DCD1D1432BBA0BB483A0F85897"
+    },
+    "960923DCD1D1432BBA0BB483A0F85897": {
+      "id": "960923DCD1D1432BBA0BB483A0F85897",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "4 ",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. [MODULARITY] (P3.2)\nDecomposition is the act of breaking down tasks into simpler tasks.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "6E608A797D79490DAE26132A9C668EE9": {
+      "id": "6E608A797D79490DAE26132A9C668EE9",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.3a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to create programs that include sequences, events, loops, and conditionals. For example, students could write a program to explain the water cycle. When a specific component is clicked (event), the program would show information about that part of the water cycle. Conditionals allow for the execution of a portion of code in a program when a certain condition is true. For example, students could write a math game that asks multiplication fact questions and then uses a conditional to check whether or not the answer that was entered is correct. Loops allow for the repetition of a sequence of code multiple times. For example, in a program that produces an animation about a famous historical character, students could use a loop to have the character walk across the screen as they introduce themselves.",
+      "comments": [],
+      "ancestorIds": [
+        "D9D579CEC0DA40F797CAA63FFEACCDE1",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "D9D579CEC0DA40F797CAA63FFEACCDE1"
+    },
+    "D9D579CEC0DA40F797CAA63FFEACCDE1": {
+      "id": "D9D579CEC0DA40F797CAA63FFEACCDE1",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "3 ",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs that include sequences, events, loops, and conditionals. [CONTROL] (P5.2)\nControl structures specify the order (sequence) in which instructions are executed within a program and can be combined to support the creation of more complex programs. Events allow portions of a program to run based on a specific action.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "A4793F9CF3314808A2B5B279C12AD568": {
+      "id": "A4793F9CF3314808A2B5B279C12AD568",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.2a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should understand how to use variables to store and modify data. For example, students may use mathematical operations to add to the score of a game or subtract from the number of lives available in a game. The use of a variable as a countdown timer is another example.",
+      "comments": [],
+      "ancestorIds": [
+        "F9DFBF5CC3394C16AC34F8B013442CD5",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "F9DFBF5CC3394C16AC34F8B013442CD5"
+    },
+    "F9DFBF5CC3394C16AC34F8B013442CD5": {
+      "id": "F9DFBF5CC3394C16AC34F8B013442CD5",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 1,
+      "listId": "2 ",
+      "statementNotation": "AP.1B.2 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create programs that use variables to store and modify data. [VARIABLES] (P5.2)\nVariables are used to store and modify data. ",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "FDDB4EE5810D449391B63818610A4025": {
+      "id": "FDDB4EE5810D449391B63818610A4025",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "AP.1B.1a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to look at different ways to solve the same task and decide which would be the best solution. For example, students could use a map and plan multiple algorithms to get from one point to another. They could look at routes suggested by mapping software and change the route to something that would be better based on which route is shortest or fastest or would avoid a problem. Students might compare algorithms that describe how to get ready for school. Another example might be to write different algorithms to draw a regular polygon and determine which algorithm would be the easiest to modify or repurpose to draw a different polygon.",
+      "comments": [],
+      "ancestorIds": [
+        "176BDF6964BB4304B744F9331F35DDD7",
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "176BDF6964BB4304B744F9331F35DDD7"
+    },
+    "176BDF6964BB4304B744F9331F35DDD7": {
+      "id": "176BDF6964BB4304B744F9331F35DDD7",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "1 ",
+      "statementNotation": "AP.1B.1 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and refine multiple algorithms for the same task and determine which is the most appropriate. [ALGORITHMS] (P6.3, P3.3)\nDifferent algorithms can achieve the same result, though sometimes one algorithm might be most appropriate for a specific situation.",
+      "comments": [],
+      "ancestorIds": [
+        "14EE9F12871A4D2C9C1D1B66825FD0B1"
+      ],
+      "parentId": "14EE9F12871A4D2C9C1D1B66825FD0B1"
+    },
+    "14EE9F12871A4D2C9C1D1B66825FD0B1": {
+      "id": "14EE9F12871A4D2C9C1D1B66825FD0B1",
+      "asnIdentifier": null,
+      "position": 22001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conceptual Understanding: An algorithm is a sequence of steps designed to accomplish a specific task. Algorithms are translated into programs, or code, to provide instructions for computing devices. Algorithms and programming control all computing systems, empowering people to communicate with the world in new ways and solve compelling problems. The development process to create meaningful and efficient programs involves choosing which information to use and how to process and store it, breaking apart large problems into smaller ones, recombining existing solutions, and analyzing different solutions.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9B4DC624E00C4D6898B70708893D64F5": {
+      "id": "9B4DC624E00C4D6898B70708893D64F5",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 0,
+      "listId": "AP",
+      "statementNotation": "AP.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algorithms and Programming",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "59AF01664E56464AB41B86948577FB3D": {
+      "id": "59AF01664E56464AB41B86948577FB3D",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "DA.1B.3a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to manipulate data through their use of software to complete tasks on a computing device. For example, saving, retrieving, and deleting files are all instances of manipulating data.",
+      "comments": [],
+      "ancestorIds": [
+        "6074C1E4DFD440339237F1CEB55795B3",
+        "F82FFB8FBA784353B744744AAFF9C812"
+      ],
+      "parentId": "6074C1E4DFD440339237F1CEB55795B3"
+    },
+    "6074C1E4DFD440339237F1CEB55795B3": {
+      "id": "6074C1E4DFD440339237F1CEB55795B3",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "3 ",
+      "statementNotation": "DA.1B.3 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Store, copy, search, retrieve, modify, and delete information using a computing device and define the information stored as data. [STORAGE] (P4.2)\nAll information stored and processed by a computing device is referred to as data. Data can be images, text documents, audio files, software programs or apps, video files, etc. ",
+      "comments": [],
+      "ancestorIds": [
+        "F82FFB8FBA784353B744744AAFF9C812"
+      ],
+      "parentId": "F82FFB8FBA784353B744744AAFF9C812"
+    },
+    "962686E76E3A46D5B846E8A254B00C7A": {
+      "id": "962686E76E3A46D5B846E8A254B00C7A",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "DA.1B.2a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to refer to data to highlight or propose cause-and-effect relationships and predict outcomes when communicating an idea. For example, in order to explore the relationship between speed, time, and distance, students could operate a robot at uniform speed and at increasing time intervals to predict how far the robot travels at that speed. In order to make an accurate prediction, one or two attempts of differing times would not be enough. The robot may also collect temperature data from a sensor, but that data would not be relevant for the task. Students must also make accurate measurements of the distance the robot travels in order to develop a valid prediction. Students could record the temperature at noon each day as a basis to show that temperatures are higher in certain months of the year. If temperatures are not recorded on non-school days or are recorded incorrectly or at different times of the day, the data would be incomplete and the ideas being communicated could be inaccurate. Students may also record the day of the week on which the data was collected, but this would have no relevance to whether temperatures are higher or lower. In order to have sufficient and accurate data on which to communicate the idea, students might want to use data provided by a governmental weather agency.",
+      "comments": [],
+      "ancestorIds": [
+        "3167BE7783FB42FAAF7D8F5C5610D37F",
+        "F82FFB8FBA784353B744744AAFF9C812"
+      ],
+      "parentId": "3167BE7783FB42FAAF7D8F5C5610D37F"
+    },
+    "3167BE7783FB42FAAF7D8F5C5610D37F": {
+      "id": "3167BE7783FB42FAAF7D8F5C5610D37F",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 1,
+      "listId": "2 ",
+      "statementNotation": "DA.1B.2 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use data to highlight or propose cause-and-effect relationships, predict outcomes, or communicate an idea. [INFERENCE & MODELS] (P7.1)\nThe accuracy of data analysis is related to how realistically data is represented. Inferences or predictions based on data are less likely to be accurate if the data is not sufficient or if the data is incorrect in some way.",
+      "comments": [],
+      "ancestorIds": [
+        "F82FFB8FBA784353B744744AAFF9C812"
+      ],
+      "parentId": "F82FFB8FBA784353B744744AAFF9C812"
+    },
+    "ABEF88DC1B4D4ED88AAA6E5DEA518E95": {
+      "id": "ABEF88DC1B4D4ED88AAA6E5DEA518E95",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "DA.1B.1a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to collect data and present the information in an organized way to highlight relationships and support a claim.",
+      "comments": [],
+      "ancestorIds": [
+        "240B5D05FCFA4567AA964804192E5747",
+        "F82FFB8FBA784353B744744AAFF9C812"
+      ],
+      "parentId": "240B5D05FCFA4567AA964804192E5747"
+    },
+    "240B5D05FCFA4567AA964804192E5747": {
+      "id": "240B5D05FCFA4567AA964804192E5747",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "1 ",
+      "statementNotation": "DA.1B.1 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Organize and present collected data visually to highlight relationships and support a claim. [COLLECTION, VISUALIZATION, & TRANSFORMATION] (P7.1)\nRaw data has little meaning on its own. Data is often sorted or grouped to provide additional clarity. Organizing data can make interpreting and communicating it to others easier. Data points can be clustered by a number of commonalities. The same data could be manipulated in different ways to emphasize particular aspects or parts of the data set. For example, a data set of sports teams could be sorted by wins, points scored, or points allowed, and a data set of weather information could be sorted by high temperatures, low temperatures, or precipitation.",
+      "comments": [],
+      "ancestorIds": [
+        "F82FFB8FBA784353B744744AAFF9C812"
+      ],
+      "parentId": "F82FFB8FBA784353B744744AAFF9C812"
+    },
+    "F82FFB8FBA784353B744744AAFF9C812": {
+      "id": "F82FFB8FBA784353B744744AAFF9C812",
+      "asnIdentifier": null,
+      "position": 15001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conceptual understanding: Computing systems exist to process data. The amount of digital data generated in the world is rapidly expanding, so the need to process data effectively is increasingly important. Data is collected and stored so that it can be analyzed to better understand the world and make more accurate predictions.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "93126C196A8D4778A83B0D0041DF6437": {
+      "id": "93126C196A8D4778A83B0D0041DF6437",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 0,
+      "listId": "DA",
+      "statementNotation": "DA.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data and Analysis",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "FB7755BB8A264C5287D2C1DA7026FD62": {
+      "id": "FB7755BB8A264C5287D2C1DA7026FD62",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "b ",
+      "statementNotation": "NI.1B.2b ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to list several real-world cybersecurity issues and discuss how personal information can be protected. Students could discuss or use a journaling or blogging activity to explain, orally or in writing, topics that relate to personal cybersecurity issues. Discussion topics could be based on current events related to cybersecurity or topics that are applicable to students, such as the necessity of backing up data to guard against loss, how to create strong passwords and the importance of not sharing passwords, or why we should install and keep antivirus software updated to protect data and systems.",
+      "comments": [],
+      "ancestorIds": [
+        "E08C9F6414D545D5AE2862C89FBD6F15",
+        "8219DC3C3EBB44449DA7748499E94108"
+      ],
+      "parentId": "E08C9F6414D545D5AE2862C89FBD6F15"
+    },
+    "19886E7097F44104B58596711DF0673C": {
+      "id": "19886E7097F44104B58596711DF0673C",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "NI.1B.2a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to explain what passwords are and why we use them, and use strong passwords to protect devices and information from unauthorized access.\nLearning to protect one's device or information from unwanted use by others is an essential first step in learning about cybersecurity. Students are not required to use multiple strong passwords. They should appropriately use and protect the passwords they are required to use.",
+      "comments": [],
+      "ancestorIds": [
+        "E08C9F6414D545D5AE2862C89FBD6F15",
+        "8219DC3C3EBB44449DA7748499E94108"
+      ],
+      "parentId": "E08C9F6414D545D5AE2862C89FBD6F15"
+    },
+    "E08C9F6414D545D5AE2862C89FBD6F15": {
+      "id": "E08C9F6414D545D5AE2862C89FBD6F15",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 1,
+      "listId": "2 ",
+      "statementNotation": "NI.1B.2 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Discuss real-world cybersecurity problems and how personal information can be protected. [CYBERSECURITY] (P3.1, 7.3)\nJust as we protect our personal property offline, we also need to protect our devices and the information stored on them. Information can be protected using various security measures. These measures can be physical and/or digital.",
+      "comments": [],
+      "ancestorIds": [
+        "8219DC3C3EBB44449DA7748499E94108"
+      ],
+      "parentId": "8219DC3C3EBB44449DA7748499E94108"
+    },
+    "DA9F7DF950F9427B85E06FA8DCEC97B4": {
+      "id": "DA9F7DF950F9427B85E06FA8DCEC97B4",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "NI.1B.1a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should demonstrate their understanding of how information flows over networks and the Internet. This could be accomplished, for instance, by drawing a model of the way packets are transmitted, programming an animation to show how packets are transmitted, or demonstrating this through an unplugged activity which has them act it out in some way.",
+      "comments": [],
+      "ancestorIds": [
+        "6614325CCCF747E59C265941C874847B",
+        "8219DC3C3EBB44449DA7748499E94108"
+      ],
+      "parentId": "6614325CCCF747E59C265941C874847B"
+    },
+    "6614325CCCF747E59C265941C874847B": {
+      "id": "6614325CCCF747E59C265941C874847B",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 1,
+      "listId": "1 ",
+      "statementNotation": "NI.1B.1 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the Internet, and reassembled at the destination. [NETWORK COMMUNICATION & ORGANIZATION] (P4.4)\nInformation is sent and received over physical or wireless paths. It is broken down into smaller pieces called packets, which are sent independently and reassembled at the destination.",
+      "comments": [],
+      "ancestorIds": [
+        "8219DC3C3EBB44449DA7748499E94108"
+      ],
+      "parentId": "8219DC3C3EBB44449DA7748499E94108"
+    },
+    "8219DC3C3EBB44449DA7748499E94108": {
+      "id": "8219DC3C3EBB44449DA7748499E94108",
+      "asnIdentifier": null,
+      "position": 9001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conceptual understanding: Computing devices typically do not operate in isolation. Networks connect computing devices to share information and resources and are an increasingly integral part of computing.  Networks and communication systems provide greater connectivity in the computing world by providing fast, secure communication and facilitating innovation.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A95781F7377340F4BEA0618D618A086C": {
+      "id": "A95781F7377340F4BEA0618D618A086C",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 0,
+      "listId": "NI",
+      "statementNotation": "NI.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networks and the Internet",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CA886EB46229430D9867F5DF479F5B1A": {
+      "id": "CA886EB46229430D9867F5DF479F5B1A",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "b ",
+      "statementNotation": "CS.1B.3b ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should identify and implement various troubleshooting strategies. Such strategies may include rebooting the device, checking for power, checking network availability, closing and reopening an app, making sure speakers are turned on or headphones are plugged in, and making sure that the caps lock key is not on, to solve these problems, when possible.",
+      "comments": [],
+      "ancestorIds": [
+        "1AFC0DAA01644BAEA290BD129E6445EC",
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "1AFC0DAA01644BAEA290BD129E6445EC"
+    },
+    "38A8EA41815C450F96BC747442BC8C6C": {
+      "id": "38A8EA41815C450F96BC747442BC8C6C",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "a ",
+      "statementNotation": "CS.1B.3a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should be able to identify common hardware and software problems. Types of problems students might encounter include the device not responding, no power, no network, app crashing, no sound, or password entry not working.",
+      "comments": [],
+      "ancestorIds": [
+        "1AFC0DAA01644BAEA290BD129E6445EC",
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "1AFC0DAA01644BAEA290BD129E6445EC"
+    },
+    "1AFC0DAA01644BAEA290BD129E6445EC": {
+      "id": "1AFC0DAA01644BAEA290BD129E6445EC",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "CS.1B.3 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine potential solutions to solve simple hardware and software problems using common troubleshooting strategies. [TROUBLESHOOTING] (P6.2)\nAlthough computing systems may vary, common troubleshooting strategies can be used on all of them.",
+      "comments": [],
+      "ancestorIds": [
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "6DE3048F6F7846A2AFC4B2329E3E9963"
+    },
+    "1083CD3F397646B1825708FA8532D6C8": {
+      "id": "1083CD3F397646B1825708FA8532D6C8",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.1B.2a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should model how computer hardware and software work together to accomplish tasks. Students could draw a model on paper or in a drawing program, program an animation to demonstrate it, or demonstrate it by acting this out in some way.",
+      "comments": [],
+      "ancestorIds": [
+        "BB0531EE504742AD83222B7551DCBB67",
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "BB0531EE504742AD83222B7551DCBB67"
+    },
+    "BB0531EE504742AD83222B7551DCBB67": {
+      "id": "BB0531EE504742AD83222B7551DCBB67",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 1,
+      "listId": "2 ",
+      "statementNotation": "CS.1B.2 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Model how computer hardware and software work together as a system to accomplish tasks. [HARDWARE & SOFTWARE] (P4.4)\nIn order for a person to accomplish tasks with a computer, both hardware and software are needed. At this stage, a model should only include the basic elements of a computer system, such as input, output, processor, sensors, and storage.",
+      "comments": [],
+      "ancestorIds": [
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "6DE3048F6F7846A2AFC4B2329E3E9963"
+    },
+    "546717248B0D43A9906B2E3D731F604F": {
+      "id": "546717248B0D43A9906B2E3D731F604F",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "a",
+      "statementNotation": "CS.1B.1a ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Students should describe how devices and components interact using correct terminology.",
+      "comments": [],
+      "ancestorIds": [
+        "33A48D02196E412A8CFA61774AC31EED",
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "33A48D02196E412A8CFA61774AC31EED"
+    },
+    "33A48D02196E412A8CFA61774AC31EED": {
+      "id": "33A48D02196E412A8CFA61774AC31EED",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "CS.1B.1 ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe how internal and external parts of computing devices function to form a system. [DEVICES] (P7.2)\nComputing devices often depend on other devices or components. For example, a robot depends on a physically attached light sensor to detect changes in brightness, whereas the light sensor depends on the robot for power. Keyboard input or a mouse click could cause an action to happen or information to be displayed on a screen; this could only happen because the computer has a processor to evaluate what is happening externally and produce corresponding responses.",
+      "comments": [],
+      "ancestorIds": [
+        "6DE3048F6F7846A2AFC4B2329E3E9963"
+      ],
+      "parentId": "6DE3048F6F7846A2AFC4B2329E3E9963"
+    },
+    "6DE3048F6F7846A2AFC4B2329E3E9963": {
+      "id": "6DE3048F6F7846A2AFC4B2329E3E9963",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conceptual understanding: People interact with a wide variety of computing devices that collect, store, analyze, and act upon information in ways that can affect human capabilities both positively and negatively. The physical components (hardware) and instructions (software) that make up a computing system communicate and process information in digital form. An understanding of hardware and software is useful when troubleshooting a computing system that does not work as intended. ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DE4BFE76D55F4B28AE615CCF4FC183B3": {
+      "id": "DE4BFE76D55F4B28AE615CCF4FC183B3",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "CS",
+      "statementNotation": "CS.1B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Computing Systems ",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

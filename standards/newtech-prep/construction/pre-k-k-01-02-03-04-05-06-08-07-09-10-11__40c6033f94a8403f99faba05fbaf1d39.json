@@ -1,0 +1,930 @@
+{
+  "id": "40C6033F94A8403F99FABA05FBAF1D39",
+  "title": "Construction Year 1",
+  "subject": "Construction",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "Pre-K",
+    "K",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "08",
+    "07",
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {},
+  "jurisdiction": {
+    "id": "06808C9CAB7745AF8B4EA01E70B4EFA3",
+    "title": "NEWTech Prep"
+  },
+  "standards": {
+    "AC666F7A8C1A4C80B1B03BDE611889BE": {
+      "id": "AC666F7A8C1A4C80B1B03BDE611889BE",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4EED84BE46FA49E2A4C74A959340A7F4": {
+      "id": "4EED84BE46FA49E2A4C74A959340A7F4",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Paint",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "FA56C9CD32AE4E84A9E7699B1B19FA84": {
+      "id": "FA56C9CD32AE4E84A9E7699B1B19FA84",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Drywall/Tape/Texture",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "888DDBD45C5D4E3AA7987FECCB065435": {
+      "id": "888DDBD45C5D4E3AA7987FECCB065435",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Door and Window install",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "A275F1620DB34F9B9992B4E825373625": {
+      "id": "A275F1620DB34F9B9992B4E825373625",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "HVAC Basic",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "4F3548B383B048A2A34BD7EC37282766": {
+      "id": "4F3548B383B048A2A34BD7EC37282766",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Electrical Basic",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "29A46E8548C1457298835B672C255759": {
+      "id": "29A46E8548C1457298835B672C255759",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Plumbing Basic",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "0C9C4D3B776E4BFB91474FE7DD7A574F": {
+      "id": "0C9C4D3B776E4BFB91474FE7DD7A574F",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Stairway",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "6D376E0E1E72447D87EBCE83318D6FAA": {
+      "id": "6D376E0E1E72447D87EBCE83318D6FAA",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Roofing",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "1C416E9D5026431F9600B062C06D8B83": {
+      "id": "1C416E9D5026431F9600B062C06D8B83",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Thermal and Moisture Protection",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "E1D69683573544EAA917251E0AB80FCA": {
+      "id": "E1D69683573544EAA917251E0AB80FCA",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exterior Siding",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "EA031836185A4D0E86987B8D787EC4EE": {
+      "id": "EA031836185A4D0E86987B8D787EC4EE",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Roof Framing System",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "C5C2914E890C4726BC224C9966B08756": {
+      "id": "C5C2914E890C4726BC224C9966B08756",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Wall Framing  System",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "6F046BB152DF4FF7AE9C76F6B1DAA82E": {
+      "id": "6F046BB152DF4FF7AE9C76F6B1DAA82E",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Floor Framing System",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "11BBAD7AFF1240998617F479A129D399": {
+      "id": "11BBAD7AFF1240998617F479A129D399",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic Footing and Foundation",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "99D04FFEC2364AE89E28462D4E743AA8": {
+      "id": "99D04FFEC2364AE89E28462D4E743AA8",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic Crane and Rigging ",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "CBAFF4C9E8D34F318568868C9FFACF79": {
+      "id": "CBAFF4C9E8D34F318568868C9FFACF79",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of Transit and lasar Levels",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "4BAD4EBB1FA54601909B9E2FAE918F7E": {
+      "id": "4BAD4EBB1FA54601909B9E2FAE918F7E",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Estimate Materials and job cost",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "12A9556A9A134061946F233469190559": {
+      "id": "12A9556A9A134061946F233469190559",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Look up and interpret codes",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "AC37066020A146A9B30F02185E3EB39E": {
+      "id": "AC37066020A146A9B30F02185E3EB39E",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic understanding of Blue prints ",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "374A910069684509BDC215DBF7945165": {
+      "id": "374A910069684509BDC215DBF7945165",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic use of Power Tools",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "B8D1CD7EBE3748D892D8688898B17313": {
+      "id": "B8D1CD7EBE3748D892D8688898B17313",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic use of  Hand Tools",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "6034C27F150342EBA2542AEAE4420794": {
+      "id": "6034C27F150342EBA2542AEAE4420794",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reading Tape Measure",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "146DEC4C18A545F19D9BDD4C525B61AD": {
+      "id": "146DEC4C18A545F19D9BDD4C525B61AD",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Ladder/ Scaffold system",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "86F9CE9BA6304579A00B6B150C488288": {
+      "id": "86F9CE9BA6304579A00B6B150C488288",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fall protection",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "CC64D90989544A8DA9BF020C033AFFC5": {
+      "id": "CC64D90989544A8DA9BF020C033AFFC5",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Jobsite Safety",
+      "comments": [],
+      "ancestorIds": [
+        "827AF374B6944A5FA469383188755A30",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "827AF374B6944A5FA469383188755A30"
+    },
+    "827AF374B6944A5FA469383188755A30": {
+      "id": "827AF374B6944A5FA469383188755A30",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construction Skills",
+      "comments": [],
+      "ancestorIds": [
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "7074D6E8CE284538BC91CA4EB4B1D29F"
+    },
+    "2DC318F4A64E418886E52578A831B6E8": {
+      "id": "2DC318F4A64E418886E52578A831B6E8",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Additional Accomplishments",
+      "comments": [],
+      "ancestorIds": [
+        "3F3CC8AB71644CC283EEC15A6601C23E",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "3F3CC8AB71644CC283EEC15A6601C23E"
+    },
+    "E2A7B2A07677458983445BEA8531C3DF": {
+      "id": "E2A7B2A07677458983445BEA8531C3DF",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Flagger Certification",
+      "comments": [],
+      "ancestorIds": [
+        "3F3CC8AB71644CC283EEC15A6601C23E",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "3F3CC8AB71644CC283EEC15A6601C23E"
+    },
+    "8F21FF82B36241E78897CE92B99594CD": {
+      "id": "8F21FF82B36241E78897CE92B99594CD",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fork Lift Certication ",
+      "comments": [],
+      "ancestorIds": [
+        "3F3CC8AB71644CC283EEC15A6601C23E",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "3F3CC8AB71644CC283EEC15A6601C23E"
+    },
+    "A867A0F759ED478480E70D8DEFE47671": {
+      "id": "A867A0F759ED478480E70D8DEFE47671",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "First Aid Card",
+      "comments": [],
+      "ancestorIds": [
+        "3F3CC8AB71644CC283EEC15A6601C23E",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "3F3CC8AB71644CC283EEC15A6601C23E"
+    },
+    "B9249A13CF72428DB3E613F9EB4BBF34": {
+      "id": "B9249A13CF72428DB3E613F9EB4BBF34",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "OSHA 10",
+      "comments": [],
+      "ancestorIds": [
+        "3F3CC8AB71644CC283EEC15A6601C23E",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "3F3CC8AB71644CC283EEC15A6601C23E"
+    },
+    "3F3CC8AB71644CC283EEC15A6601C23E": {
+      "id": "3F3CC8AB71644CC283EEC15A6601C23E",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Certification ",
+      "comments": [],
+      "ancestorIds": [
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "7074D6E8CE284538BC91CA4EB4B1D29F"
+    },
+    "6DF8294B4ED446EEB53727D76A769344": {
+      "id": "6DF8294B4ED446EEB53727D76A769344",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Time management",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "FDA0952B087846DDBEDD4D3A3B682028": {
+      "id": "FDA0952B087846DDBEDD4D3A3B682028",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professional Appearance",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "F01C9EBEF2B4408EA6B4FC5E37EEA435": {
+      "id": "F01C9EBEF2B4408EA6B4FC5E37EEA435",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Harassment Training",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "6DC23B55DF3F48A9923B5F1C67BB3E2F": {
+      "id": "6DC23B55DF3F48A9923B5F1C67BB3E2F",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attention to Detail",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "EC9E8B31103643E78B8D1751A1A74486": {
+      "id": "EC9E8B31103643E78B8D1751A1A74486",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Dependability",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "43A346B9788448078E3828067A341CC9": {
+      "id": "43A346B9788448078E3828067A341CC9",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Problem Solving",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "CA6599A05A49425788211B494087E784": {
+      "id": "CA6599A05A49425788211B494087E784",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Appropriate use of cell phone",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "ECDDE9440B9F40B3A2EAB8D7DB4E135C": {
+      "id": "ECDDE9440B9F40B3A2EAB8D7DB4E135C",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demostrates maturity at work",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "A57EE12B7DA24DDE970465B6FE08E06C": {
+      "id": "A57EE12B7DA24DDE970465B6FE08E06C",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Listen and follow direction",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "AA0BC82C48A6476C924981960062A441": {
+      "id": "AA0BC82C48A6476C924981960062A441",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Industry appropriate dress",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "F4EA8CE3813F41A7B8585351C9460A4D": {
+      "id": "F4EA8CE3813F41A7B8585351C9460A4D",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Handles redirection ",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "281408AC32614DBC93D48A86D2FEDEC0": {
+      "id": "281408AC32614DBC93D48A86D2FEDEC0",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Resolves Conflicts ",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "FEB9905C83044EEF973CAFB92E034E20": {
+      "id": "FEB9905C83044EEF973CAFB92E034E20",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Teamwork Skills",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "52F04E288B934A3AA89EC98CB54121E1": {
+      "id": "52F04E288B934A3AA89EC98CB54121E1",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Approriate Language Skills",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "A7AB6C8CD08C4E908FF788F77F98EEA0": {
+      "id": "A7AB6C8CD08C4E908FF788F77F98EEA0",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Communicates effectively",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "12AE329A443E4ED0AAF47BF5C17329F6": {
+      "id": "12AE329A443E4ED0AAF47BF5C17329F6",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Self-starter/ Self-directed",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "7CEADE6A077745B08CCD352AEF651317": {
+      "id": "7CEADE6A077745B08CCD352AEF651317",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Positive Attitude and Effort",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "527583312F4445D5B0869AC0EC296009": {
+      "id": "527583312F4445D5B0869AC0EC296009",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Attendance/ Promptness",
+      "comments": [],
+      "ancestorIds": [
+        "D507488DC3EE416085DB63774E8668EF",
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "D507488DC3EE416085DB63774E8668EF"
+    },
+    "D507488DC3EE416085DB63774E8668EF": {
+      "id": "D507488DC3EE416085DB63774E8668EF",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Professionalism",
+      "comments": [],
+      "ancestorIds": [
+        "7074D6E8CE284538BC91CA4EB4B1D29F"
+      ],
+      "parentId": "7074D6E8CE284538BC91CA4EB4B1D29F"
+    },
+    "7074D6E8CE284538BC91CA4EB4B1D29F": {
+      "id": "7074D6E8CE284538BC91CA4EB4B1D29F",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Construction Year 1",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

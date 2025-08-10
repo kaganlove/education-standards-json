@@ -1,0 +1,563 @@
+{
+  "id": "1501FC36FD434B6D944090B220B216F7",
+  "title": "Welding 1",
+  "subject": "CTE (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Skilled and Technical Sciences PROGRAM OF STUDY STANDARDS 2023–2024",
+    "sourceURL": "https://www.education.ne.gov/wp-content/uploads/2023/07/STS-updated-7.5.23.pdf"
+  },
+  "jurisdiction": {
+    "id": "12FDD9CA15FC49259C2EF4BB13D59D2F",
+    "title": "Nebraska"
+  },
+  "standards": {
+    "E80EB4C16D2146A58D5EF6E25D18BD78": {
+      "id": "E80EB4C16D2146A58D5EF6E25D18BD78",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "d",
+      "statementNotation": "STS.HS.36.6.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Produce a product with the welding processes that are available.",
+      "comments": [],
+      "ancestorIds": [
+        "DE19451850CA47D295F7BD836591D710"
+      ],
+      "parentId": "DE19451850CA47D295F7BD836591D710"
+    },
+    "54D3F1909D884E308C64571308A88FF1": {
+      "id": "54D3F1909D884E308C64571308A88FF1",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 1,
+      "listId": "c",
+      "statementNotation": "STS.HS.36.6.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create fillet welds with no welding defects according to AWS standards.",
+      "comments": [],
+      "ancestorIds": [
+        "DE19451850CA47D295F7BD836591D710"
+      ],
+      "parentId": "DE19451850CA47D295F7BD836591D710"
+    },
+    "113DFDA86B464FB69B1C555DA4294F61": {
+      "id": "113DFDA86B464FB69B1C555DA4294F61",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 1,
+      "listId": "b",
+      "statementNotation": "STS.HS.36.6.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create groove joints with no welding defects according to AWS standards.",
+      "comments": [],
+      "ancestorIds": [
+        "DE19451850CA47D295F7BD836591D710"
+      ],
+      "parentId": "DE19451850CA47D295F7BD836591D710"
+    },
+    "BEE1418BC4D14C2BB2247CA8BCB73643": {
+      "id": "BEE1418BC4D14C2BB2247CA8BCB73643",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "a",
+      "statementNotation": "STS.HS.36.6.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create a pad of surface welds with no welding defects according to AWS standards.",
+      "comments": [],
+      "ancestorIds": [
+        "DE19451850CA47D295F7BD836591D710"
+      ],
+      "parentId": "DE19451850CA47D295F7BD836591D710"
+    },
+    "DE19451850CA47D295F7BD836591D710": {
+      "id": "DE19451850CA47D295F7BD836591D710",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 0,
+      "listId": "6",
+      "statementNotation": "STS.HS.36.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Join material using any methods of welding procedure in the\n flat and horizontal positions.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9F8E63977B8C40EEA92EB63E7DAD4001": {
+      "id": "9F8E63977B8C40EEA92EB63E7DAD4001",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 1,
+      "listId": "d",
+      "statementNotation": "STS.HS.36.5.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform an arc cutting operation.",
+      "comments": [],
+      "ancestorIds": [
+        "48494C74330C4DEAB9ABA80245036920"
+      ],
+      "parentId": "48494C74330C4DEAB9ABA80245036920"
+    },
+    "CB9739DAC11A402CB1CCF8709AD03913": {
+      "id": "CB9739DAC11A402CB1CCF8709AD03913",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "c",
+      "statementNotation": "STS.HS.36.5.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform a hot (flame) source cutting operation.",
+      "comments": [],
+      "ancestorIds": [
+        "48494C74330C4DEAB9ABA80245036920"
+      ],
+      "parentId": "48494C74330C4DEAB9ABA80245036920"
+    },
+    "2F144DF6FD094A7FB44DB728B66989A7": {
+      "id": "2F144DF6FD094A7FB44DB728B66989A7",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 1,
+      "listId": "b",
+      "statementNotation": "STS.HS.36.5.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform mechanical cutting procedure.",
+      "comments": [],
+      "ancestorIds": [
+        "48494C74330C4DEAB9ABA80245036920"
+      ],
+      "parentId": "48494C74330C4DEAB9ABA80245036920"
+    },
+    "C5BFBCA15B6349F5B881D79922FC84D2": {
+      "id": "C5BFBCA15B6349F5B881D79922FC84D2",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 1,
+      "listId": "a",
+      "statementNotation": "STS.HS.36.5.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform an abrasive cutting procedure. ",
+      "comments": [],
+      "ancestorIds": [
+        "48494C74330C4DEAB9ABA80245036920"
+      ],
+      "parentId": "48494C74330C4DEAB9ABA80245036920"
+    },
+    "48494C74330C4DEAB9ABA80245036920": {
+      "id": "48494C74330C4DEAB9ABA80245036920",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "STS.HS.36.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform metal cutting operations.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6E3D23DCE8864C74AA57C0CB9EEE0F23": {
+      "id": "6E3D23DCE8864C74AA57C0CB9EEE0F23",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "e",
+      "statementNotation": "STS.HS.36.4.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine types of fasteners, adhesives, and finishes used for welding.",
+      "comments": [],
+      "ancestorIds": [
+        "29215DA0A63D4C4D8609359246CA05F7"
+      ],
+      "parentId": "29215DA0A63D4C4D8609359246CA05F7"
+    },
+    "C183738B4DDD48159C6A8BB50D7B43AC": {
+      "id": "C183738B4DDD48159C6A8BB50D7B43AC",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "d",
+      "statementNotation": "STS.HS.36.4.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the filler material used in welding.",
+      "comments": [],
+      "ancestorIds": [
+        "29215DA0A63D4C4D8609359246CA05F7"
+      ],
+      "parentId": "29215DA0A63D4C4D8609359246CA05F7"
+    },
+    "A6028FB16CD342ABADD2D43972E52562": {
+      "id": "A6028FB16CD342ABADD2D43972E52562",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 1,
+      "listId": "c",
+      "statementNotation": "STS.HS.36.4.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the material used in welding.",
+      "comments": [],
+      "ancestorIds": [
+        "29215DA0A63D4C4D8609359246CA05F7"
+      ],
+      "parentId": "29215DA0A63D4C4D8609359246CA05F7"
+    },
+    "86671912229344C8AF0BF2445E01D397": {
+      "id": "86671912229344C8AF0BF2445E01D397",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 1,
+      "listId": "b",
+      "statementNotation": "STS.HS.36.4.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify welding equipment and proper set up procedures according to the\n manufacturer's recommendations.",
+      "comments": [],
+      "ancestorIds": [
+        "29215DA0A63D4C4D8609359246CA05F7"
+      ],
+      "parentId": "29215DA0A63D4C4D8609359246CA05F7"
+    },
+    "96B0426E94F044998BB217526337E200": {
+      "id": "96B0426E94F044998BB217526337E200",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "a",
+      "statementNotation": "STS.HS.36.4.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify tools and their use in welding.",
+      "comments": [],
+      "ancestorIds": [
+        "29215DA0A63D4C4D8609359246CA05F7"
+      ],
+      "parentId": "29215DA0A63D4C4D8609359246CA05F7"
+    },
+    "29215DA0A63D4C4D8609359246CA05F7": {
+      "id": "29215DA0A63D4C4D8609359246CA05F7",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "STS.HS.36.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine the materials, tools, and equipment needed to weld.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9484BA16CF4741F5AA7A8515ECBF0E3B": {
+      "id": "9484BA16CF4741F5AA7A8515ECBF0E3B",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "e",
+      "statementNotation": "STS.HS.36.3.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain information from a welding procedure sheet.",
+      "comments": [],
+      "ancestorIds": [
+        "BB927D2A2C6B46F1A3BE98771C77F692"
+      ],
+      "parentId": "BB927D2A2C6B46F1A3BE98771C77F692"
+    },
+    "56D7FBBE00704FF2BB82151C1DD9CC16": {
+      "id": "56D7FBBE00704FF2BB82151C1DD9CC16",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 1,
+      "listId": "d",
+      "statementNotation": "STS.HS.36.3.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain welding symbols according to the AWS.",
+      "comments": [],
+      "ancestorIds": [
+        "BB927D2A2C6B46F1A3BE98771C77F692"
+      ],
+      "parentId": "BB927D2A2C6B46F1A3BE98771C77F692"
+    },
+    "1A5375E47F79451F9CBD05893E2C77CB": {
+      "id": "1A5375E47F79451F9CBD05893E2C77CB",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 1,
+      "listId": "c",
+      "statementNotation": "STS.HS.36.3.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain mechanical drawings according to the\n American National Standards Institute (ANSI).",
+      "comments": [],
+      "ancestorIds": [
+        "BB927D2A2C6B46F1A3BE98771C77F692"
+      ],
+      "parentId": "BB927D2A2C6B46F1A3BE98771C77F692"
+    },
+    "653FFF3DB4BF4A85ADD37F496B88D7FD": {
+      "id": "653FFF3DB4BF4A85ADD37F496B88D7FD",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 1,
+      "listId": "b",
+      "statementNotation": "STS.HS.36.3.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Measure metric and imperial measurements with an\n accuracy of a millimeter or 1/16 of an inch. ",
+      "comments": [],
+      "ancestorIds": [
+        "BB927D2A2C6B46F1A3BE98771C77F692"
+      ],
+      "parentId": "BB927D2A2C6B46F1A3BE98771C77F692"
+    },
+    "FE1DBC705EF547FA82782CC7B8A3A690": {
+      "id": "FE1DBC705EF547FA82782CC7B8A3A690",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "a",
+      "statementNotation": "STS.HS.36.3.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define welding terminology.",
+      "comments": [],
+      "ancestorIds": [
+        "BB927D2A2C6B46F1A3BE98771C77F692"
+      ],
+      "parentId": "BB927D2A2C6B46F1A3BE98771C77F692"
+    },
+    "BB927D2A2C6B46F1A3BE98771C77F692": {
+      "id": "BB927D2A2C6B46F1A3BE98771C77F692",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "STS.HS.36.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the use of welding communications.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5D67B4FB4F4046C0833B25EA6285D667": {
+      "id": "5D67B4FB4F4046C0833B25EA6285D667",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 1,
+      "listId": "d",
+      "statementNotation": "STS.HS.36.2.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the training, education, certification and licensing requirements\n for careers in the welding industry.",
+      "comments": [],
+      "ancestorIds": [
+        "5806628573474FF9BDAD4F7F94079E18"
+      ],
+      "parentId": "5806628573474FF9BDAD4F7F94079E18"
+    },
+    "5D12FB51BC03477EA88E3224FAD0ABDF": {
+      "id": "5D12FB51BC03477EA88E3224FAD0ABDF",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 1,
+      "listId": "c",
+      "statementNotation": "STS.HS.36.2.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the responsibilities and characteristics of professionals\n in the welding industry.",
+      "comments": [],
+      "ancestorIds": [
+        "5806628573474FF9BDAD4F7F94079E18"
+      ],
+      "parentId": "5806628573474FF9BDAD4F7F94079E18"
+    },
+    "D2BF478AFFC640B9A684E4EF45A134C0": {
+      "id": "D2BF478AFFC640B9A684E4EF45A134C0",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "b",
+      "statementNotation": "STS.HS.36.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify employment trends in the welding industry.",
+      "comments": [],
+      "ancestorIds": [
+        "5806628573474FF9BDAD4F7F94079E18"
+      ],
+      "parentId": "5806628573474FF9BDAD4F7F94079E18"
+    },
+    "83CD7973C00F487581F61133B82D7D18": {
+      "id": "83CD7973C00F487581F61133B82D7D18",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 1,
+      "listId": "a",
+      "statementNotation": "STS.HS.36.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe work behaviors needed to be employable.",
+      "comments": [],
+      "ancestorIds": [
+        "5806628573474FF9BDAD4F7F94079E18"
+      ],
+      "parentId": "5806628573474FF9BDAD4F7F94079E18"
+    },
+    "5806628573474FF9BDAD4F7F94079E18": {
+      "id": "5806628573474FF9BDAD4F7F94079E18",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "STS.HS.36.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain career opportunities in the welding industry.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9F79A24D567B4F1CB9C673B9F4746472": {
+      "id": "9F79A24D567B4F1CB9C673B9F4746472",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "f",
+      "statementNotation": "STS.HS.36.1.f",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Demonstrate proper handling and storing of materials.",
+      "comments": [],
+      "ancestorIds": [
+        "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+      ],
+      "parentId": "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+    },
+    "87BD12AD8411401EB6B35531AAB9B4BE": {
+      "id": "87BD12AD8411401EB6B35531AAB9B4BE",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 1,
+      "listId": "e",
+      "statementNotation": "STS.HS.36.1.e",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the main hazards that are possible in the lab setting.",
+      "comments": [],
+      "ancestorIds": [
+        "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+      ],
+      "parentId": "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+    },
+    "033CDF45739D45BCAEAE9DAE2E07BDE9": {
+      "id": "033CDF45739D45BCAEAE9DAE2E07BDE9",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 1,
+      "listId": "d",
+      "statementNotation": "STS.HS.36.1.d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Employ the safe application of tools and machines.",
+      "comments": [],
+      "ancestorIds": [
+        "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+      ],
+      "parentId": "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+    },
+    "37106C46FFAC4F92B2E0AAFBED1A82BA": {
+      "id": "37106C46FFAC4F92B2E0AAFBED1A82BA",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "c",
+      "statementNotation": "STS.HS.36.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Employ eye protection in compliance with Neb. Rev. Statute 79-715.",
+      "comments": [],
+      "ancestorIds": [
+        "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+      ],
+      "parentId": "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+    },
+    "35D0A8DD1E1A43EFAD54EA0D4D8E2379": {
+      "id": "35D0A8DD1E1A43EFAD54EA0D4D8E2379",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 1,
+      "listId": "b",
+      "statementNotation": "STS.HS.36.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Employ appropriate Personal Protective Equipment (PPE) while in the lab setting.",
+      "comments": [],
+      "ancestorIds": [
+        "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+      ],
+      "parentId": "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+    },
+    "C25A4F7414674F53AD3794592751D5CC": {
+      "id": "C25A4F7414674F53AD3794592751D5CC",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "a",
+      "statementNotation": "STS.HS.36.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complete applicable safety assessment with 100% accuracy.",
+      "comments": [],
+      "ancestorIds": [
+        "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+      ],
+      "parentId": "0E7EF0D5C6154E8AA21DA6E431BA05F2"
+    },
+    "0E7EF0D5C6154E8AA21DA6E431BA05F2": {
+      "id": "0E7EF0D5C6154E8AA21DA6E431BA05F2",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "STS.HS.36.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Apply safety principles, practices, philosophy, and guidelines to the\n work environment.",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "id": "D60FCA9617D842CB8031432C637EB273",
+  "title": "High School - Algebra",
+  "subject": "Mathematics (2023-)",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "New Jersey Student Learning Standards Mathematics (NJSLS—Mathematics)",
+    "sourceURL": "https://airtable.com/appAqCJWFHZMaNUh2/tblGy4kx6tGuscLHj/viwE5G0UuqG8WME5q/recg1OQXCSeuJPkcb/fldIxltCXshIi374r/attQThKD0HEWuLGJA?blocks=hide"
+  },
+  "jurisdiction": {
+    "id": "BD9F1823F64844E38377E11EB39F173B",
+    "title": "New Jersey"
+  },
+  "standards": {
+    "0AD54B3BA451411FAC611254626C6D5C": {
+      "id": "0AD54B3BA451411FAC611254626C6D5C",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.SSE.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derive and/or explain the formula for the sum of a finite geometric series (when the\ncommon ratio is not 1), and use the formula to solve problems. For example, calculate\nmortgage payments.",
+      "comments": [],
+      "ancestorIds": [
+        "44A28CF4B82C4499A627BCCD210A1A89",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "44A28CF4B82C4499A627BCCD210A1A89"
+    },
+    "559119A0F2114BD09FDF03D88820BB6D": {
+      "id": "559119A0F2114BD09FDF03D88820BB6D",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 3,
+      "listId": "c",
+      "statementNotation": " A.SSE.B.1.c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the properties of exponents to transform expressions for exponential\nfunctions. For example, the expression 1.15^t can be rewritten as (1.15^(1/12) )^12t≈1.012^12t to reveal the\napproximate equivalent monthly interest rate if the annual rate is 15%.",
+      "comments": [],
+      "ancestorIds": [
+        "42E07529C0F94C9FB9FEC17288B3A3F0",
+        "44A28CF4B82C4499A627BCCD210A1A89",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "42E07529C0F94C9FB9FEC17288B3A3F0"
+    },
+    "EC2776FC006845568E89BD480628F790": {
+      "id": "EC2776FC006845568E89BD480628F790",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "A.SSE.B.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complete the square in a quadratic expression to reveal the maximum or\nminimum value of the function it defines.",
+      "comments": [],
+      "ancestorIds": [
+        "42E07529C0F94C9FB9FEC17288B3A3F0",
+        "44A28CF4B82C4499A627BCCD210A1A89",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "42E07529C0F94C9FB9FEC17288B3A3F0"
+    },
+    "9A83F714FF8F493DA31C2974F049C30D": {
+      "id": "9A83F714FF8F493DA31C2974F049C30D",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "A.SSE.B.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Factor a quadratic expression to reveal the zeros of the function it defines.",
+      "comments": [],
+      "ancestorIds": [
+        "42E07529C0F94C9FB9FEC17288B3A3F0",
+        "44A28CF4B82C4499A627BCCD210A1A89",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "42E07529C0F94C9FB9FEC17288B3A3F0"
+    },
+    "42E07529C0F94C9FB9FEC17288B3A3F0": {
+      "id": "42E07529C0F94C9FB9FEC17288B3A3F0",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.SSE.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Choose and produce an equivalent form of an expression to reveal and explain properties\nof the quantity represented by the expression. ",
+      "comments": [],
+      "ancestorIds": [
+        "44A28CF4B82C4499A627BCCD210A1A89",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "44A28CF4B82C4499A627BCCD210A1A89"
+    },
+    "44A28CF4B82C4499A627BCCD210A1A89": {
+      "id": "44A28CF4B82C4499A627BCCD210A1A89",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "A.SSE.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Write expressions in equivalent forms to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+    },
+    "8856A8F78EE042BAA7CAD830CF054F6B": {
+      "id": "8856A8F78EE042BAA7CAD830CF054F6B",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.SSE.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the structure of an expression to identify ways to rewrite it. For example, see x^4-y^4 as (x^2 )^2-(y^2 )^2, thus recognizing it as a difference of squares that can be factored as (x^2-y^2 )(x^2+y^2).",
+      "comments": [],
+      "ancestorIds": [
+        "2DC52274DCA44BB49770EFB9BA13E3B1",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "2DC52274DCA44BB49770EFB9BA13E3B1"
+    },
+    "E3CABA204B1A474381B14CA4B0C0153E": {
+      "id": "E3CABA204B1A474381B14CA4B0C0153E",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "A.SSE.A.1.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret complicated expressions by viewing one or more of their parts as a\nsingle entity. For example, interpret P(1+r)^n as the product of P and a factor not depending\non P.",
+      "comments": [],
+      "ancestorIds": [
+        "98D2698068BC4FE5B270EF2DB1FEA74F",
+        "2DC52274DCA44BB49770EFB9BA13E3B1",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "98D2698068BC4FE5B270EF2DB1FEA74F"
+    },
+    "D34DBD0CE2A04B15B197D9F3F262C0D7": {
+      "id": "D34DBD0CE2A04B15B197D9F3F262C0D7",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "A.SSE.A.1.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret parts of an expression, such as terms, factors, and coefficients.",
+      "comments": [],
+      "ancestorIds": [
+        "98D2698068BC4FE5B270EF2DB1FEA74F",
+        "2DC52274DCA44BB49770EFB9BA13E3B1",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "98D2698068BC4FE5B270EF2DB1FEA74F"
+    },
+    "98D2698068BC4FE5B270EF2DB1FEA74F": {
+      "id": "98D2698068BC4FE5B270EF2DB1FEA74F",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.SSE.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret expressions that represent a quantity in terms of its context.",
+      "comments": [],
+      "ancestorIds": [
+        "2DC52274DCA44BB49770EFB9BA13E3B1",
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "2DC52274DCA44BB49770EFB9BA13E3B1"
+    },
+    "2DC52274DCA44BB49770EFB9BA13E3B1": {
+      "id": "2DC52274DCA44BB49770EFB9BA13E3B1",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "A.SSE.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpret the structure of expressions",
+      "comments": [],
+      "ancestorIds": [
+        "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+      ],
+      "parentId": "6E5AB7CB4CC84CE3BAE901CB4362E67A"
+    },
+    "6E5AB7CB4CC84CE3BAE901CB4362E67A": {
+      "id": "6E5AB7CB4CC84CE3BAE901CB4362E67A",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 0,
+      "listId": "SSE",
+      "statementNotation": "A.SSE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Seeing Structure in Expressions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "887FA0619C574D4F851A014BF33A9D0F": {
+      "id": "887FA0619C574D4F851A014BF33A9D0F",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "A.REI.D.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graph the solutions to a linear inequality in two variables as a half plane (excluding the\nboundary in the case of a strict inequality), and graph the solution set to a system of linear\ninequalities in two variables as the intersection of the corresponding half-planes.",
+      "comments": [],
+      "ancestorIds": [
+        "77B3E1B91F114D558B0E3CB22994782E",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "77B3E1B91F114D558B0E3CB22994782E"
+    },
+    "F635C6BF2AF74E75AA9072216A061FE2": {
+      "id": "F635C6BF2AF74E75AA9072216A061FE2",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.REI.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain why the x-coordinates of the points where the graphs of the equations y=f(x) and y=f(x) intersect are the solutions of the equation f(x)=g(x); find the solutions approximately, e.g., using\ntechnology to graph the functions, make tables of values, or find successive\napproximations. Include cases where f(x) and/or g(x) are linear, polynomial, rational, absolute\nvalue, exponential, and logarithmic functions. ",
+      "comments": [],
+      "ancestorIds": [
+        "77B3E1B91F114D558B0E3CB22994782E",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "77B3E1B91F114D558B0E3CB22994782E"
+    },
+    "3EEC4FA1DC9D4A45BF7667174B59D3E5": {
+      "id": "3EEC4FA1DC9D4A45BF7667174B59D3E5",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.REI.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that the graph of an equation in two variables is the set of all its solutions\nplotted in the coordinate plane, often forming a curve (which could be a line).",
+      "comments": [],
+      "ancestorIds": [
+        "77B3E1B91F114D558B0E3CB22994782E",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "77B3E1B91F114D558B0E3CB22994782E"
+    },
+    "77B3E1B91F114D558B0E3CB22994782E": {
+      "id": "77B3E1B91F114D558B0E3CB22994782E",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "A.REI.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent and solve equations and inequalities graphically",
+      "comments": [],
+      "ancestorIds": [
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "95088D6D9CD54A26AD770292D61C711F"
+    },
+    "32F508547D1F497CABE70819467F0838": {
+      "id": "32F508547D1F497CABE70819467F0838",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "A.REI.C.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the inverse of a matrix if it exists and use it to solve systems of linear equations\n(using technology for matrices of dimension 3 × 3 or greater).",
+      "comments": [],
+      "ancestorIds": [
+        "240016072B354F32B57758512CEB1B17",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "240016072B354F32B57758512CEB1B17"
+    },
+    "04B682586ED24104BF9611A809D913FF": {
+      "id": "04B682586ED24104BF9611A809D913FF",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "A.REI.C.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent a system of linear equations as a single matrix equation in a vector variable.",
+      "comments": [],
+      "ancestorIds": [
+        "240016072B354F32B57758512CEB1B17",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "240016072B354F32B57758512CEB1B17"
+    },
+    "05B3471C10554EDA843711A489B7B375": {
+      "id": "05B3471C10554EDA843711A489B7B375",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "A.REI.C.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve a simple system consisting of a linear equation and a quadratic equation in two\nvariables algebraically and graphically. For example, find the points of intersection\nbetween the line y=-3x and the circle x^2+y^2=3.",
+      "comments": [],
+      "ancestorIds": [
+        "240016072B354F32B57758512CEB1B17",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "240016072B354F32B57758512CEB1B17"
+    },
+    "7DC06B95FE784CE684C6255744ADCDC5": {
+      "id": "7DC06B95FE784CE684C6255744ADCDC5",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.REI.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve systems of linear equations algebraically (include using the elimination method)\nand graphically, focusing on pairs of linear equations in two variables.",
+      "comments": [],
+      "ancestorIds": [
+        "240016072B354F32B57758512CEB1B17",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "240016072B354F32B57758512CEB1B17"
+    },
+    "03018FEFEBBD4C2A872EAE4A8FB4F208": {
+      "id": "03018FEFEBBD4C2A872EAE4A8FB4F208",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.REI.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prove that, given a system of two equations in two variables, replacing one equation by\nthe sum of that equation and a multiple of the other produces a system with the same\nsolutions.",
+      "comments": [],
+      "ancestorIds": [
+        "240016072B354F32B57758512CEB1B17",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "240016072B354F32B57758512CEB1B17"
+    },
+    "240016072B354F32B57758512CEB1B17": {
+      "id": "240016072B354F32B57758512CEB1B17",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "A.REI.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve systems of equations",
+      "comments": [],
+      "ancestorIds": [
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "95088D6D9CD54A26AD770292D61C711F"
+    },
+    "4F2ED87853094907A7ECD9C42D4D51BB": {
+      "id": "4F2ED87853094907A7ECD9C42D4D51BB",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 3,
+      "listId": "b",
+      "statementNotation": "A.REI.B.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve quadratic equations by inspection (e.g., for x^2=49), taking square roots,\ncompleting the square, the quadratic formula and factoring, as appropriate to the\ninitial form of the equation. Recognize when the quadratic formula gives complex\nsolutions and write them as a±bi for real numbers a and b. ",
+      "comments": [],
+      "ancestorIds": [
+        "48FA6AD8DFFF44FF924B2381BB7CA455",
+        "61ACC12F78354A2797E66DAD6481FE02",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "48FA6AD8DFFF44FF924B2381BB7CA455"
+    },
+    "2B5CCAA8AFD4454BAC400F6E623C7048": {
+      "id": "2B5CCAA8AFD4454BAC400F6E623C7048",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 3,
+      "listId": "a",
+      "statementNotation": "A.REI.B.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the method of completing the square to transform any quadratic equation in x\ninto an equation of the form (x-p)^2=q that has the same solutions. Derive the quadratic\nformula from this form.  ",
+      "comments": [],
+      "ancestorIds": [
+        "48FA6AD8DFFF44FF924B2381BB7CA455",
+        "61ACC12F78354A2797E66DAD6481FE02",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "48FA6AD8DFFF44FF924B2381BB7CA455"
+    },
+    "48FA6AD8DFFF44FF924B2381BB7CA455": {
+      "id": "48FA6AD8DFFF44FF924B2381BB7CA455",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.REI.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve quadratic equations in one variable.",
+      "comments": [],
+      "ancestorIds": [
+        "61ACC12F78354A2797E66DAD6481FE02",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "61ACC12F78354A2797E66DAD6481FE02"
+    },
+    "EB6E40E81F0A4A27B85786ECD993BEAA": {
+      "id": "EB6E40E81F0A4A27B85786ECD993BEAA",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.REI.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve linear equations and inequalities in one variable, including equations with\ncoefficients represented by letters.",
+      "comments": [],
+      "ancestorIds": [
+        "61ACC12F78354A2797E66DAD6481FE02",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "61ACC12F78354A2797E66DAD6481FE02"
+    },
+    "61ACC12F78354A2797E66DAD6481FE02": {
+      "id": "61ACC12F78354A2797E66DAD6481FE02",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "A.REI.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve equations and inequalities in one variable",
+      "comments": [],
+      "ancestorIds": [
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "95088D6D9CD54A26AD770292D61C711F"
+    },
+    "6DDFA0D26FF24D58A9335C65E5B49E13": {
+      "id": "6DDFA0D26FF24D58A9335C65E5B49E13",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.REI.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve simple rational and radical equations in one variable, and give examples showing\nhow extraneous solutions may arise.",
+      "comments": [],
+      "ancestorIds": [
+        "334682DBAFC74349A24E7CD798F2D0F2",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "334682DBAFC74349A24E7CD798F2D0F2"
+    },
+    "C16DBC8D8F3D438EB471099A377E6DA0": {
+      "id": "C16DBC8D8F3D438EB471099A377E6DA0",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.REI.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain each step in solving a simple equation as following from the equality of numbers\nasserted at the previous step, starting from the assumption that the original equation has a\nsolution. Construct a viable argument to justify a solution method.",
+      "comments": [],
+      "ancestorIds": [
+        "334682DBAFC74349A24E7CD798F2D0F2",
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "334682DBAFC74349A24E7CD798F2D0F2"
+    },
+    "334682DBAFC74349A24E7CD798F2D0F2": {
+      "id": "334682DBAFC74349A24E7CD798F2D0F2",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "A.REI.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand solving equations as a process of reasoning and explain the reasoning",
+      "comments": [],
+      "ancestorIds": [
+        "95088D6D9CD54A26AD770292D61C711F"
+      ],
+      "parentId": "95088D6D9CD54A26AD770292D61C711F"
+    },
+    "95088D6D9CD54A26AD770292D61C711F": {
+      "id": "95088D6D9CD54A26AD770292D61C711F",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 0,
+      "listId": "REI",
+      "statementNotation": "A.REI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning with Equations and Inequalities",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5EE4AE06094848E198D84C0777B5C424": {
+      "id": "5EE4AE06094848E198D84C0777B5C424",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "A.CED.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in\nsolving equations. For example, rearrange Ohm’s law V=IR to highlight resistance R.  ",
+      "comments": [],
+      "ancestorIds": [
+        "043BE8BAC69F412E9C0D7F8EEBED73FD",
+        "E45E5EC7C86540CC932B37E5174A61ED"
+      ],
+      "parentId": "043BE8BAC69F412E9C0D7F8EEBED73FD"
+    },
+    "0FEA69145EC249FA85C31BA76E79E40B": {
+      "id": "0FEA69145EC249FA85C31BA76E79E40B",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "A.CED.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent constraints by equations or inequalities, and by systems of equations and/or\ninequalities, and interpret solutions as viable or nonviable options in a modeling context.\nFor example, represent inequalities describing nutritional and cost constraints on\ncombinations of different foods. ",
+      "comments": [],
+      "ancestorIds": [
+        "043BE8BAC69F412E9C0D7F8EEBED73FD",
+        "E45E5EC7C86540CC932B37E5174A61ED"
+      ],
+      "parentId": "043BE8BAC69F412E9C0D7F8EEBED73FD"
+    },
+    "A2D58659CBC04A12981608013916D474": {
+      "id": "A2D58659CBC04A12981608013916D474",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.CED.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create equations in two or more variables to represent relationships between quantities;\ngraph equations on coordinate axes with labels and scales. ",
+      "comments": [],
+      "ancestorIds": [
+        "043BE8BAC69F412E9C0D7F8EEBED73FD",
+        "E45E5EC7C86540CC932B37E5174A61ED"
+      ],
+      "parentId": "043BE8BAC69F412E9C0D7F8EEBED73FD"
+    },
+    "CE471A3857D64BE3AA44B45A98751E86": {
+      "id": "CE471A3857D64BE3AA44B45A98751E86",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.CED.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create equations and inequalities in one variable and use them to solve problems. Include\nequations arising from linear and quadratic functions, and simple rational and exponential\nfunctions.  ",
+      "comments": [],
+      "ancestorIds": [
+        "043BE8BAC69F412E9C0D7F8EEBED73FD",
+        "E45E5EC7C86540CC932B37E5174A61ED"
+      ],
+      "parentId": "043BE8BAC69F412E9C0D7F8EEBED73FD"
+    },
+    "043BE8BAC69F412E9C0D7F8EEBED73FD": {
+      "id": "043BE8BAC69F412E9C0D7F8EEBED73FD",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "A.CED.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create equations that describe numbers or relationships",
+      "comments": [],
+      "ancestorIds": [
+        "E45E5EC7C86540CC932B37E5174A61ED"
+      ],
+      "parentId": "E45E5EC7C86540CC932B37E5174A61ED"
+    },
+    "E45E5EC7C86540CC932B37E5174A61ED": {
+      "id": "E45E5EC7C86540CC932B37E5174A61ED",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 0,
+      "listId": "CED",
+      "statementNotation": "A.CED",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Creating Equations",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EA38298388E14E6D89137C9AFDEA874E": {
+      "id": "EA38298388E14E6D89137C9AFDEA874E",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.APR.D.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that rational expressions form a system analogous to the rational numbers,\nclosed under addition, subtraction, multiplication, and division by a nonzero rational\nexpression; add, subtract, multiply, and divide rational expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "538C45F8D79649BFB20C0894BF0118AF",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "538C45F8D79649BFB20C0894BF0118AF"
+    },
+    "048826D5E32E4D5FB773241E207B3E0B": {
+      "id": "048826D5E32E4D5FB773241E207B3E0B",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.APR.D.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rewrite simple rational expressions in different forms; write (a(x))/(b(x)) in the form q(x)+(r(x))/(b(x)), where a(x), b(x), q(x), and r(x) are polynomials with the degree of r(x) less than the degree of b(x) using inspection, long\ndivision, or, for the more complicated examples, a computer algebra system.",
+      "comments": [],
+      "ancestorIds": [
+        "538C45F8D79649BFB20C0894BF0118AF",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "538C45F8D79649BFB20C0894BF0118AF"
+    },
+    "538C45F8D79649BFB20C0894BF0118AF": {
+      "id": "538C45F8D79649BFB20C0894BF0118AF",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 1,
+      "listId": "D",
+      "statementNotation": "A.APR.D",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rewrite rational expressions",
+      "comments": [],
+      "ancestorIds": [
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "0028675C4F0B45BDBD521D495541795C"
+    },
+    "2703A283B2C4487480E764DC5FE7C82E": {
+      "id": "2703A283B2C4487480E764DC5FE7C82E",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.APR.C.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know and apply the Binomial Theorem for the expansion of (x+y)^n in powers of x and y for a\npositive integer n, where x and y are any numbers, with coefficients determined for example\nby Pascal’s Triangle. (Clarification: The Binomial Theorem can be proved by\nmathematical induction or by a combinatorial argument.)",
+      "comments": [],
+      "ancestorIds": [
+        "4FB0621535DF435EB840032997BCEEB2",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "4FB0621535DF435EB840032997BCEEB2"
+    },
+    "DB5CAF96240C4B7AA28648BBBABEEFEB": {
+      "id": "DB5CAF96240C4B7AA28648BBBABEEFEB",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.APR.C.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Prove polynomial identities and use them to describe numerical relationships. For\nexample, the difference of two squares; the sum and difference of two cubes; the\npolynomial identity (x^2+y^2 )^2=(x^2-y^2 )^2+(2xy)^2 can be used to generate Pythagorean triples.",
+      "comments": [],
+      "ancestorIds": [
+        "4FB0621535DF435EB840032997BCEEB2",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "4FB0621535DF435EB840032997BCEEB2"
+    },
+    "4FB0621535DF435EB840032997BCEEB2": {
+      "id": "4FB0621535DF435EB840032997BCEEB2",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "C",
+      "statementNotation": "A.APR.C",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use polynomial identities to solve problems",
+      "comments": [],
+      "ancestorIds": [
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "0028675C4F0B45BDBD521D495541795C"
+    },
+    "9E11D018E01448FFAD443C95F8866478": {
+      "id": "9E11D018E01448FFAD443C95F8866478",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "A.APR.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.",
+      "comments": [],
+      "ancestorIds": [
+        "701BF7C9DEE54F1BB9AE98EEA5807804",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "701BF7C9DEE54F1BB9AE98EEA5807804"
+    },
+    "B62FD3A1625C46D58C3E1EC2B1BFF303": {
+      "id": "B62FD3A1625C46D58C3E1EC2B1BFF303",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.APR.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know and apply the Remainder Theorem: For a polynomial p(x) and a number a, the\nremainder on division by x-a is p(a), so p(a) = 0 if and only if x-a is a factor of p(x) .",
+      "comments": [],
+      "ancestorIds": [
+        "701BF7C9DEE54F1BB9AE98EEA5807804",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "701BF7C9DEE54F1BB9AE98EEA5807804"
+    },
+    "701BF7C9DEE54F1BB9AE98EEA5807804": {
+      "id": "701BF7C9DEE54F1BB9AE98EEA5807804",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "A.APR.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the relationship between zeros and factors of polynomials",
+      "comments": [],
+      "ancestorIds": [
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "0028675C4F0B45BDBD521D495541795C"
+    },
+    "8340288CF0134D35887D009C7F77DD56": {
+      "id": "8340288CF0134D35887D009C7F77DD56",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "A.APR.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand that polynomials form a system analogous to the integers, namely, they are\nclosed under the operations of addition, subtraction, and multiplication; add, subtract, and\nmultiply polynomials.",
+      "comments": [],
+      "ancestorIds": [
+        "4641A5364E5C4C22B3722C658CEC2CEA",
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "4641A5364E5C4C22B3722C658CEC2CEA"
+    },
+    "4641A5364E5C4C22B3722C658CEC2CEA": {
+      "id": "4641A5364E5C4C22B3722C658CEC2CEA",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "A.APR.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform arithmetic operations on polynomials",
+      "comments": [],
+      "ancestorIds": [
+        "0028675C4F0B45BDBD521D495541795C"
+      ],
+      "parentId": "0028675C4F0B45BDBD521D495541795C"
+    },
+    "0028675C4F0B45BDBD521D495541795C": {
+      "id": "0028675C4F0B45BDBD521D495541795C",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "APR",
+      "statementNotation": "A.APR",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Arithmetic with Polynomials and Rational Expressions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

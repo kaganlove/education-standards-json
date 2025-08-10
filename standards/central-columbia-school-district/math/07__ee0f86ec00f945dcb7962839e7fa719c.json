@@ -1,0 +1,870 @@
+{
+  "id": "EE0F86EC00F945DCB7962839E7FA719C",
+  "title": "Grade 7",
+  "subject": "Math",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "07"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Pennsylvania Assessment Anchors and Eligible Content",
+    "sourceURL": "http://static.pdesas.org/content/documents/Grade%207%20Mathematics%20Assessment%20Anchors.pdf"
+  },
+  "jurisdiction": {
+    "id": "887AA8A30A8F4244875AEB31C87B5546",
+    "title": "Central Columbia School District"
+  },
+  "standards": {
+    "EE5CEC649B9A4E3B9471DFC217CE53F3": {
+      "id": "EE5CEC649B9A4E3B9471DFC217CE53F3",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "M07.D-S.3.2.3",
+      "statementLabel": null,
+      "description": "Find probabilities of independent compound events using organized lists, tables, tree diagrams, and simulation.",
+      "ancestorIds": [
+        "E1A150BB3A994CEDBBF4B4F74F170425",
+        "B74D5AC408DB44F581E3F069D736121B",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "E1A150BB3A994CEDBBF4B4F74F170425"
+    },
+    "4291B9EB55484D85856CF2642DE1D1FE": {
+      "id": "4291B9EB55484D85856CF2642DE1D1FE",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.D-S.3.2.2",
+      "statementLabel": null,
+      "description": "Find the probability of a simple event, including the probability of a simple event not occurring.",
+      "ancestorIds": [
+        "E1A150BB3A994CEDBBF4B4F74F170425",
+        "B74D5AC408DB44F581E3F069D736121B",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "E1A150BB3A994CEDBBF4B4F74F170425"
+    },
+    "812689E96FA34AA2B7C1B1851C195DF8": {
+      "id": "812689E96FA34AA2B7C1B1851C195DF8",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.D-S.3.2.1",
+      "statementLabel": null,
+      "description": "Determine the probability of a chance event given relative frequency. Predict the approximate relative frequency given the probability.",
+      "ancestorIds": [
+        "E1A150BB3A994CEDBBF4B4F74F170425",
+        "B74D5AC408DB44F581E3F069D736121B",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "E1A150BB3A994CEDBBF4B4F74F170425"
+    },
+    "E1A150BB3A994CEDBBF4B4F74F170425": {
+      "id": "E1A150BB3A994CEDBBF4B4F74F170425",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "M07.D-S.3.2",
+      "statementLabel": null,
+      "description": "Use probability to predict outcomes.",
+      "ancestorIds": [
+        "B74D5AC408DB44F581E3F069D736121B",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "B74D5AC408DB44F581E3F069D736121B"
+    },
+    "13413CF9A8614EE7ACD9EDAD4AD58869": {
+      "id": "13413CF9A8614EE7ACD9EDAD4AD58869",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.D-S.3.1.1",
+      "statementLabel": null,
+      "description": "Predict or determine whether some outcomes are certain, more likely, less likely, equally likely, or impossible (i.e., a probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event).",
+      "ancestorIds": [
+        "5235409FB60743418FD1F84D0B0F877B",
+        "B74D5AC408DB44F581E3F069D736121B",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "5235409FB60743418FD1F84D0B0F877B"
+    },
+    "5235409FB60743418FD1F84D0B0F877B": {
+      "id": "5235409FB60743418FD1F84D0B0F877B",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.D-S.3.1",
+      "statementLabel": null,
+      "description": "Predict or determine the likelihood of outcomes.",
+      "ancestorIds": [
+        "B74D5AC408DB44F581E3F069D736121B",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "B74D5AC408DB44F581E3F069D736121B"
+    },
+    "B74D5AC408DB44F581E3F069D736121B": {
+      "id": "B74D5AC408DB44F581E3F069D736121B",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "3",
+      "statementNotation": "M07.D-S.3",
+      "statementLabel": null,
+      "description": "Investigate chance processes and develop, use, and evaluate probability models.",
+      "ancestorIds": [
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "B8423D3883184ED2862D6CD5A6482F6C"
+    },
+    "898786F737444D3B8E77363B6A453069": {
+      "id": "898786F737444D3B8E77363B6A453069",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.D-S.2.1.1",
+      "statementLabel": null,
+      "description": "Compare two numerical data distributions using measures of center and variability.",
+      "ancestorIds": [
+        "371E914E93D2481BA812171FAA6B9143",
+        "F888DD96368D4F73B36E690DC06013B9",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "371E914E93D2481BA812171FAA6B9143"
+    },
+    "371E914E93D2481BA812171FAA6B9143": {
+      "id": "371E914E93D2481BA812171FAA6B9143",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.D-S.2.1",
+      "statementLabel": null,
+      "description": "Use statistical measures to compare two numerical data distributions.",
+      "ancestorIds": [
+        "F888DD96368D4F73B36E690DC06013B9",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "F888DD96368D4F73B36E690DC06013B9"
+    },
+    "F888DD96368D4F73B36E690DC06013B9": {
+      "id": "F888DD96368D4F73B36E690DC06013B9",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "M07.D-S.2",
+      "statementLabel": null,
+      "description": "Draw comparative inferences about populations.",
+      "ancestorIds": [
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "B8423D3883184ED2862D6CD5A6482F6C"
+    },
+    "E02CDE391D68490DBC279CCB9BC5EC17": {
+      "id": "E02CDE391D68490DBC279CCB9BC5EC17",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.D-S.1.1.2",
+      "statementLabel": null,
+      "description": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest.",
+      "ancestorIds": [
+        "04A8C39AFD1946C98279E4B6C1BD7BB5",
+        "065DEDEB2A5E4648A512838D83CE41EF",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "04A8C39AFD1946C98279E4B6C1BD7BB5"
+    },
+    "DECE9EF4BCFE42CBB78714CB935E60BD": {
+      "id": "DECE9EF4BCFE42CBB78714CB935E60BD",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.D-S.1.1.1",
+      "statementLabel": null,
+      "description": "Determine whether a sample is a random sample given a real-world situation.",
+      "ancestorIds": [
+        "04A8C39AFD1946C98279E4B6C1BD7BB5",
+        "065DEDEB2A5E4648A512838D83CE41EF",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "04A8C39AFD1946C98279E4B6C1BD7BB5"
+    },
+    "04A8C39AFD1946C98279E4B6C1BD7BB5": {
+      "id": "04A8C39AFD1946C98279E4B6C1BD7BB5",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.D-S.1.1",
+      "statementLabel": null,
+      "description": "Use random samples.",
+      "ancestorIds": [
+        "065DEDEB2A5E4648A512838D83CE41EF",
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "065DEDEB2A5E4648A512838D83CE41EF"
+    },
+    "065DEDEB2A5E4648A512838D83CE41EF": {
+      "id": "065DEDEB2A5E4648A512838D83CE41EF",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "M07.D-S.1",
+      "statementLabel": null,
+      "description": "Use random sampling to draw inferences about a population.",
+      "ancestorIds": [
+        "B8423D3883184ED2862D6CD5A6482F6C"
+      ],
+      "parentId": "B8423D3883184ED2862D6CD5A6482F6C"
+    },
+    "B8423D3883184ED2862D6CD5A6482F6C": {
+      "id": "B8423D3883184ED2862D6CD5A6482F6C",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 0,
+      "listId": "D-S",
+      "statementNotation": "M07.D-S",
+      "statementLabel": null,
+      "description": "Statistics and Probability",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A4F20A129314419BA0602474BEECC18C": {
+      "id": "A4F20A129314419BA0602474BEECC18C",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.C-G.2.2.2",
+      "statementLabel": null,
+      "description": "Solve real-world and mathematical problems involving area, volume, and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms. Formulas will be provided.",
+      "ancestorIds": [
+        "B45F83D4D9A7442F8A89103D91039EED",
+        "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "B45F83D4D9A7442F8A89103D91039EED"
+    },
+    "EFF68139D4CD40C3A1E80742E548EF4D": {
+      "id": "EFF68139D4CD40C3A1E80742E548EF4D",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.C-G.2.2.1",
+      "statementLabel": null,
+      "description": "Find the area and circumference of a circle. Solve problems involving area and circumference of a circle(s). Formulas will be provided.",
+      "ancestorIds": [
+        "B45F83D4D9A7442F8A89103D91039EED",
+        "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "B45F83D4D9A7442F8A89103D91039EED"
+    },
+    "B45F83D4D9A7442F8A89103D91039EED": {
+      "id": "B45F83D4D9A7442F8A89103D91039EED",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "M07.C-G.2.2",
+      "statementLabel": null,
+      "description": "Determine circumference, area, surface area, and volume.",
+      "ancestorIds": [
+        "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "E3D8F0E4ECC0482DBC6C03ADD5C0F544"
+    },
+    "8DB8739758714F88856FA919D3B574F7": {
+      "id": "8DB8739758714F88856FA919D3B574F7",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.C-G.2.1.2",
+      "statementLabel": null,
+      "description": "Identify and use properties of angles formed when two parallel lines are cut by a transversal (e.g., angles may include alternate interior, alternate exterior, vertical, corresponding).",
+      "ancestorIds": [
+        "00A8C38A13744BA4A00A8529B56E1800",
+        "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "00A8C38A13744BA4A00A8529B56E1800"
+    },
+    "48C2BB6C86F54A418377B741543C3955": {
+      "id": "48C2BB6C86F54A418377B741543C3955",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.C-G.2.1.1",
+      "statementLabel": null,
+      "description": "Identify and use properties of supplementary, complementary, and adjacent angles in a multi- step problem to write and solve simple equations for an unknown angle in a figure.",
+      "ancestorIds": [
+        "00A8C38A13744BA4A00A8529B56E1800",
+        "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "00A8C38A13744BA4A00A8529B56E1800"
+    },
+    "00A8C38A13744BA4A00A8529B56E1800": {
+      "id": "00A8C38A13744BA4A00A8529B56E1800",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.C-G.2.1",
+      "statementLabel": null,
+      "description": "Identify, use, and describe properties of angles and their measures.",
+      "ancestorIds": [
+        "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "E3D8F0E4ECC0482DBC6C03ADD5C0F544"
+    },
+    "E3D8F0E4ECC0482DBC6C03ADD5C0F544": {
+      "id": "E3D8F0E4ECC0482DBC6C03ADD5C0F544",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "M07.C-G.2",
+      "statementLabel": null,
+      "description": "Solve real-world and mathematical problems involving angle measure, circumference, area, surface area, and volume.",
+      "ancestorIds": [
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "38657A53274A4D45B8769F630C52470C"
+    },
+    "2A346AE57A364AE2A1849DF0B5A070C1": {
+      "id": "2A346AE57A364AE2A1849DF0B5A070C1",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "M07.C-G.1.1.4",
+      "statementLabel": null,
+      "description": "Describe the two-dimensional figures that result from slicing three-dimensional figures.",
+      "ancestorIds": [
+        "9949D3F30C2F4C9AA0BFAFBF2D9D9E52",
+        "56EBFEC2B2394639AEF23B877F8F55AB",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "9949D3F30C2F4C9AA0BFAFBF2D9D9E52"
+    },
+    "58677284FAC3424BB621FB609083B522": {
+      "id": "58677284FAC3424BB621FB609083B522",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "M07.C-G.1.1.3",
+      "statementLabel": null,
+      "description": "Use and apply the triangle inequality theorem.",
+      "ancestorIds": [
+        "9949D3F30C2F4C9AA0BFAFBF2D9D9E52",
+        "56EBFEC2B2394639AEF23B877F8F55AB",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "9949D3F30C2F4C9AA0BFAFBF2D9D9E52"
+    },
+    "A4563BE7AA314B01AA5C285D241147E0": {
+      "id": "A4563BE7AA314B01AA5C285D241147E0",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.C-G.1.1.2",
+      "statementLabel": null,
+      "description": "Identify or describe the properties of all types of triangles based on angle and side measures.",
+      "ancestorIds": [
+        "9949D3F30C2F4C9AA0BFAFBF2D9D9E52",
+        "56EBFEC2B2394639AEF23B877F8F55AB",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "9949D3F30C2F4C9AA0BFAFBF2D9D9E52"
+    },
+    "B4D41E519AC342629F9B3BF42006F157": {
+      "id": "B4D41E519AC342629F9B3BF42006F157",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.C-G.1.1.1",
+      "statementLabel": null,
+      "description": "Solve problems involving scale drawings of geometric figures, including finding length and area.",
+      "ancestorIds": [
+        "9949D3F30C2F4C9AA0BFAFBF2D9D9E52",
+        "56EBFEC2B2394639AEF23B877F8F55AB",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "9949D3F30C2F4C9AA0BFAFBF2D9D9E52"
+    },
+    "9949D3F30C2F4C9AA0BFAFBF2D9D9E52": {
+      "id": "9949D3F30C2F4C9AA0BFAFBF2D9D9E52",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.C-G.1.1",
+      "statementLabel": null,
+      "description": "Describe and apply properties of geometric figures.",
+      "ancestorIds": [
+        "56EBFEC2B2394639AEF23B877F8F55AB",
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "56EBFEC2B2394639AEF23B877F8F55AB"
+    },
+    "56EBFEC2B2394639AEF23B877F8F55AB": {
+      "id": "56EBFEC2B2394639AEF23B877F8F55AB",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "M07.C-G.1",
+      "statementLabel": null,
+      "description": "Demonstrate an understanding of geometric figures and their properties.",
+      "ancestorIds": [
+        "38657A53274A4D45B8769F630C52470C"
+      ],
+      "parentId": "38657A53274A4D45B8769F630C52470C"
+    },
+    "38657A53274A4D45B8769F630C52470C": {
+      "id": "38657A53274A4D45B8769F630C52470C",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 0,
+      "listId": "C-G",
+      "statementNotation": "M07.C-G",
+      "statementLabel": null,
+      "description": "Geometry",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8D41063A788F40B0A7D1920CE913C314": {
+      "id": "8D41063A788F40B0A7D1920CE913C314",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.B-E.2.3.1",
+      "statementLabel": null,
+      "description": "Determine the reasonableness of answer(s) or interpret the solution(s) in the context of the problem.",
+      "ancestorIds": [
+        "2989BC243F644471B6E4EAE5921D57FF",
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "2989BC243F644471B6E4EAE5921D57FF"
+    },
+    "2989BC243F644471B6E4EAE5921D57FF": {
+      "id": "2989BC243F644471B6E4EAE5921D57FF",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "M07.B-E.2.3",
+      "statementLabel": null,
+      "description": "Determine the reasonableness of the answer(s) in problem- solving situations.",
+      "ancestorIds": [
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "9B804AAECEA049008448F6449AA89C06"
+    },
+    "81CC7E5E22EB450BB0238971B7FD3452": {
+      "id": "81CC7E5E22EB450BB0238971B7FD3452",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.B-E.2.2.2",
+      "statementLabel": null,
+      "description": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers, and graph the solution set of the inequality.",
+      "ancestorIds": [
+        "2C6C065CF1E24BF7B29EA3A839EF8759",
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "2C6C065CF1E24BF7B29EA3A839EF8759"
+    },
+    "F6E17807967F4D2995DC4175B9F7AF3C": {
+      "id": "F6E17807967F4D2995DC4175B9F7AF3C",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.B-E.2.2.1",
+      "statementLabel": null,
+      "description": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers.",
+      "ancestorIds": [
+        "2C6C065CF1E24BF7B29EA3A839EF8759",
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "2C6C065CF1E24BF7B29EA3A839EF8759"
+    },
+    "2C6C065CF1E24BF7B29EA3A839EF8759": {
+      "id": "2C6C065CF1E24BF7B29EA3A839EF8759",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "M07.B-E.2.2",
+      "statementLabel": null,
+      "description": "Use variables to represent quantities in a real-world or mathematical problem and construct simple equations and inequalities to solve problems.",
+      "ancestorIds": [
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "9B804AAECEA049008448F6449AA89C06"
+    },
+    "E449AD8D180D4C189E53BF688EE4E837": {
+      "id": "E449AD8D180D4C189E53BF688EE4E837",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.B-E.2.1.1",
+      "statementLabel": null,
+      "description": "Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate.",
+      "ancestorIds": [
+        "97270F5DE61A43EAB50213EB7873062A",
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "97270F5DE61A43EAB50213EB7873062A"
+    },
+    "97270F5DE61A43EAB50213EB7873062A": {
+      "id": "97270F5DE61A43EAB50213EB7873062A",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.B-E.2.1",
+      "statementLabel": null,
+      "description": "Solve multi-step real-world and mathematical problems posed with positive and negative rational numbers.",
+      "ancestorIds": [
+        "9B804AAECEA049008448F6449AA89C06",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "9B804AAECEA049008448F6449AA89C06"
+    },
+    "9B804AAECEA049008448F6449AA89C06": {
+      "id": "9B804AAECEA049008448F6449AA89C06",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 1,
+      "listId": "2",
+      "statementNotation": "M07.B-E.2",
+      "statementLabel": null,
+      "description": "Solve real-world and mathematical problems using numerical and algebraic expressions, equations, and inequalities.",
+      "ancestorIds": [
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "0DB02614353C419EAE2B5D7FC2CC8EF1"
+    },
+    "6373EDDA223F47DC90EABBDA4D1B512E": {
+      "id": "6373EDDA223F47DC90EABBDA4D1B512E",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.B-E.1.1.1",
+      "statementLabel": null,
+      "description": " Apply properties of operations to add, subtract, factor, and expand linear expressions with rational coefficients.",
+      "ancestorIds": [
+        "A81C4F64492F4C45929F9762F5C490B7",
+        "9CFD654852C845E6855350F9D68DAA19",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "A81C4F64492F4C45929F9762F5C490B7"
+    },
+    "A81C4F64492F4C45929F9762F5C490B7": {
+      "id": "A81C4F64492F4C45929F9762F5C490B7",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.B-E.1.1",
+      "statementLabel": null,
+      "description": "Use properties of operations to generate equivalent expressions.",
+      "ancestorIds": [
+        "9CFD654852C845E6855350F9D68DAA19",
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "9CFD654852C845E6855350F9D68DAA19"
+    },
+    "9CFD654852C845E6855350F9D68DAA19": {
+      "id": "9CFD654852C845E6855350F9D68DAA19",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "M07.B-E.1 ",
+      "statementLabel": null,
+      "description": "Represent expressions in equivalent forms.",
+      "ancestorIds": [
+        "0DB02614353C419EAE2B5D7FC2CC8EF1"
+      ],
+      "parentId": "0DB02614353C419EAE2B5D7FC2CC8EF1"
+    },
+    "0DB02614353C419EAE2B5D7FC2CC8EF1": {
+      "id": "0DB02614353C419EAE2B5D7FC2CC8EF1",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 0,
+      "listId": "B-E",
+      "statementNotation": "M07.B-E ",
+      "statementLabel": null,
+      "description": "Expressions and Equations",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6DA6B1D228EE4FB79A478E4775055CB5": {
+      "id": "6DA6B1D228EE4FB79A478E4775055CB5",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 3,
+      "listId": "6",
+      "statementNotation": "M07.A-R.1.1.6",
+      "statementLabel": null,
+      "description": "Use proportional relationships to solve multi-step ratio and percent problems. ",
+      "ancestorIds": [
+        "7831961FD8B8403098C3DEC3C4CC0239",
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "7831961FD8B8403098C3DEC3C4CC0239"
+    },
+    "7FA997CFEB734FCEB962410339AF0D4C": {
+      "id": "7FA997CFEB734FCEB962410339AF0D4C",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 3,
+      "listId": "5",
+      "statementNotation": "M07.A-R.1.1.5",
+      "statementLabel": null,
+      "description": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, r), where r is the unit rate.",
+      "ancestorIds": [
+        "7831961FD8B8403098C3DEC3C4CC0239",
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "7831961FD8B8403098C3DEC3C4CC0239"
+    },
+    "D9A95E7E7E4444368E198AD8CD293FEA": {
+      "id": "D9A95E7E7E4444368E198AD8CD293FEA",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 3,
+      "listId": "4",
+      "statementNotation": "M07.A-R.1.1.4",
+      "statementLabel": null,
+      "description": "Represent proportional relationships by equations.",
+      "ancestorIds": [
+        "7831961FD8B8403098C3DEC3C4CC0239",
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "7831961FD8B8403098C3DEC3C4CC0239"
+    },
+    "93A6B731C9154B9981EFFF212F9A4557": {
+      "id": "93A6B731C9154B9981EFFF212F9A4557",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "M07.A-R.1.1.3",
+      "statementLabel": null,
+      "description": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
+      "ancestorIds": [
+        "7831961FD8B8403098C3DEC3C4CC0239",
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "7831961FD8B8403098C3DEC3C4CC0239"
+    },
+    "430CF495C56A458486A1AF3FFBE5531E": {
+      "id": "430CF495C56A458486A1AF3FFBE5531E",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.A-R.1.1.2",
+      "statementLabel": null,
+      "description": "Determine whether two quantities are proportionally related (e.g., by testing for equivalent ratios in a table, graphing on a coordinate plane and observing whether the graph is a straight line through the origin).",
+      "ancestorIds": [
+        "7831961FD8B8403098C3DEC3C4CC0239",
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "7831961FD8B8403098C3DEC3C4CC0239"
+    },
+    "E687E1E90FE5496B8F171E9F786B5E22": {
+      "id": "E687E1E90FE5496B8F171E9F786B5E22",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.A-R.1.1.1",
+      "statementLabel": null,
+      "description": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas, and other quantities measured in like or different units. ",
+      "ancestorIds": [
+        "7831961FD8B8403098C3DEC3C4CC0239",
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "7831961FD8B8403098C3DEC3C4CC0239"
+    },
+    "7831961FD8B8403098C3DEC3C4CC0239": {
+      "id": "7831961FD8B8403098C3DEC3C4CC0239",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.A-R.1.1",
+      "statementLabel": null,
+      "description": "Analyze, recognize, and represent proportional relationships and use them to solve real-world and mathematical problems.",
+      "ancestorIds": [
+        "B8C9E55E8D914318827CEA19A992B391",
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "B8C9E55E8D914318827CEA19A992B391"
+    },
+    "B8C9E55E8D914318827CEA19A992B391": {
+      "id": "B8C9E55E8D914318827CEA19A992B391",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "M07.A-R.1",
+      "statementLabel": null,
+      "description": "Demonstrate an understanding of proportional relationships.",
+      "ancestorIds": [
+        "8DD45ECC469F4D63A402D210FAFECD9C"
+      ],
+      "parentId": "8DD45ECC469F4D63A402D210FAFECD9C"
+    },
+    "8DD45ECC469F4D63A402D210FAFECD9C": {
+      "id": "8DD45ECC469F4D63A402D210FAFECD9C",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 0,
+      "listId": "A-R",
+      "statementNotation": "M07.A-R",
+      "statementLabel": null,
+      "description": "Ratios and Proportional Relationships",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A4D9F462961B4304BD5337DC6E3FB29B": {
+      "id": "A4D9F462961B4304BD5337DC6E3FB29B",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 3,
+      "listId": "3",
+      "statementNotation": "M07.A-N.1.1.3",
+      "statementLabel": null,
+      "description": "Apply properties of operations to multiply and divide rational numbers, including real-world contexts; demonstrate that the decimal form of a rational number terminates or eventually repeats.",
+      "ancestorIds": [
+        "A5631943F948491EBEF2338C883329BD",
+        "2922B00EE0764C9688369D6DA82C0A57",
+        "507911237ED44EEF9A5161167DD3131A"
+      ],
+      "parentId": "A5631943F948491EBEF2338C883329BD"
+    },
+    "3BB170EADDA9461298519B1A0C44446C": {
+      "id": "3BB170EADDA9461298519B1A0C44446C",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 3,
+      "listId": "2",
+      "statementNotation": "M07.A-N.1.1.2",
+      "statementLabel": null,
+      "description": "Represent addition and subtraction on a horizontal or vertical number line.",
+      "ancestorIds": [
+        "A5631943F948491EBEF2338C883329BD",
+        "2922B00EE0764C9688369D6DA82C0A57",
+        "507911237ED44EEF9A5161167DD3131A"
+      ],
+      "parentId": "A5631943F948491EBEF2338C883329BD"
+    },
+    "020F1F8DA38F48088D6D73D2EF39F8DA": {
+      "id": "020F1F8DA38F48088D6D73D2EF39F8DA",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 3,
+      "listId": "1",
+      "statementNotation": "M07.A-N.1.1.1",
+      "statementLabel": null,
+      "description": "Apply properties of operations to add and subtract rational numbers, including real-world contexts.",
+      "ancestorIds": [
+        "A5631943F948491EBEF2338C883329BD",
+        "2922B00EE0764C9688369D6DA82C0A57",
+        "507911237ED44EEF9A5161167DD3131A"
+      ],
+      "parentId": "A5631943F948491EBEF2338C883329BD"
+    },
+    "A5631943F948491EBEF2338C883329BD": {
+      "id": "A5631943F948491EBEF2338C883329BD",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M07.A-N.1.1",
+      "statementLabel": null,
+      "description": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
+      "ancestorIds": [
+        "2922B00EE0764C9688369D6DA82C0A57",
+        "507911237ED44EEF9A5161167DD3131A"
+      ],
+      "parentId": "2922B00EE0764C9688369D6DA82C0A57"
+    },
+    "2922B00EE0764C9688369D6DA82C0A57": {
+      "id": "2922B00EE0764C9688369D6DA82C0A57",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "M07.A-N.1",
+      "statementLabel": null,
+      "description": "Apply and extend previous understandings of operations to add, subtract, multiply, and divide rational numbers.",
+      "ancestorIds": [
+        "507911237ED44EEF9A5161167DD3131A"
+      ],
+      "parentId": "507911237ED44EEF9A5161167DD3131A"
+    },
+    "507911237ED44EEF9A5161167DD3131A": {
+      "id": "507911237ED44EEF9A5161167DD3131A",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A-N",
+      "statementNotation": "M07.A-N",
+      "statementLabel": null,
+      "description": "The Number System",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

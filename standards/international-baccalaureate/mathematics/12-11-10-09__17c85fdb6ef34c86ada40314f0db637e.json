@@ -1,0 +1,2934 @@
+{
+  "id": "17C85FDB6EF34C86ADA40314F0DB637E",
+  "title": "IB Mathematics Analysis and Approaches Standards (2019-2020)",
+  "subject": "Mathematics",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12",
+    "11",
+    "10",
+    "09"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Mathematics: analysis and approaches guide",
+    "sourceURL": "https://drive.google.com/file/d/1SV4Kv-yv2dYYfFOzVj4euBfpoq50Hg44/view?usp=sharing"
+  },
+  "jurisdiction": {
+    "id": "6C108E8EC1944844B15FEFE71337CFB6",
+    "title": "International Baccalaureate"
+  },
+  "standards": {
+    "DD3BE5FA8D2143148729E502C714E5F0": {
+      "id": "DD3BE5FA8D2143148729E502C714E5F0",
+      "asnIdentifier": null,
+      "position": 174000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.19b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maclaurin series developed from differential\nequations.",
+      "comments": [],
+      "ancestorIds": [
+        "4387C74E504146AAB637CF4DD166BC08",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "4387C74E504146AAB637CF4DD166BC08"
+    },
+    "F0A15EFA60AE4040BE5D7FC49CB63463": {
+      "id": "F0A15EFA60AE4040BE5D7FC49CB63463",
+      "asnIdentifier": null,
+      "position": 173000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.19a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of simple substitution, products, integration and\ndifferentiation to obtain other series.",
+      "comments": [],
+      "ancestorIds": [
+        "4387C74E504146AAB637CF4DD166BC08",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "4387C74E504146AAB637CF4DD166BC08"
+    },
+    "4387C74E504146AAB637CF4DD166BC08": {
+      "id": "4387C74E504146AAB637CF4DD166BC08",
+      "asnIdentifier": null,
+      "position": 172000,
+      "depth": 1,
+      "listId": "5.19",
+      "statementNotation": "AHL.5.19",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Maclaurin series to obtain expansions for\ne\nx\n, sinx, cosx, arctanx, ln(1 + x),\n(1 + x)\np\n, p ∈ Q.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "F21DCC1D213646808C84C3487BBC730C": {
+      "id": "F21DCC1D213646808C84C3487BBC730C",
+      "asnIdentifier": null,
+      "position": 171000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.18c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solution of y′ + P(x)y = Q(x), using the integrating\nfactor.",
+      "comments": [],
+      "ancestorIds": [
+        "C0439379F5624562884B8B0326F7F98F",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "C0439379F5624562884B8B0326F7F98F"
+    },
+    "53E375A234E344CC9C0EF336B0C762F6": {
+      "id": "53E375A234E344CC9C0EF336B0C762F6",
+      "asnIdentifier": null,
+      "position": 170000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.18b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Homogeneous differential equation dy\ndx\n= f(\ny\nx\n)\nusing the substitution y = vx.",
+      "comments": [],
+      "ancestorIds": [
+        "C0439379F5624562884B8B0326F7F98F",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "C0439379F5624562884B8B0326F7F98F"
+    },
+    "C6F9231703B341C19B3069F6A7104078": {
+      "id": "C6F9231703B341C19B3069F6A7104078",
+      "asnIdentifier": null,
+      "position": 169000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.18a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Variables separable.",
+      "comments": [],
+      "ancestorIds": [
+        "C0439379F5624562884B8B0326F7F98F",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "C0439379F5624562884B8B0326F7F98F"
+    },
+    "C0439379F5624562884B8B0326F7F98F": {
+      "id": "C0439379F5624562884B8B0326F7F98F",
+      "asnIdentifier": null,
+      "position": 168000,
+      "depth": 1,
+      "listId": "5.18",
+      "statementNotation": "AHL.5.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "First order differential equations.\nNumerical solution of dy\ndx\n= f(x, y)\nusing Euler’s method.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "2B76CE95B87848D2A99DAC9E4456C53A": {
+      "id": "2B76CE95B87848D2A99DAC9E4456C53A",
+      "asnIdentifier": null,
+      "position": 167000,
+      "depth": 1,
+      "listId": "5.17",
+      "statementNotation": "AHL.5.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Area of the region enclosed by a curve and the y-\naxis in a given interval.\n\nVolumes of revolution about the x-axis or y-axis.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "EA49323195A14604A528348D4332A86A": {
+      "id": "EA49323195A14604A528348D4332A86A",
+      "asnIdentifier": null,
+      "position": 166000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.16b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Repeated integration by parts.",
+      "comments": [],
+      "ancestorIds": [
+        "F2BD8F1E4F4F4481A9DCE151B1EE5864",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "F2BD8F1E4F4F4481A9DCE151B1EE5864"
+    },
+    "ED4F7067B6534BD49A7BEAB74347C186": {
+      "id": "ED4F7067B6534BD49A7BEAB74347C186",
+      "asnIdentifier": null,
+      "position": 165000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.16a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integration by parts.",
+      "comments": [],
+      "ancestorIds": [
+        "F2BD8F1E4F4F4481A9DCE151B1EE5864",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "F2BD8F1E4F4F4481A9DCE151B1EE5864"
+    },
+    "F2BD8F1E4F4F4481A9DCE151B1EE5864": {
+      "id": "F2BD8F1E4F4F4481A9DCE151B1EE5864",
+      "asnIdentifier": null,
+      "position": 164000,
+      "depth": 1,
+      "listId": "5.16",
+      "statementNotation": "AHL.5.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integration by substitution.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "691A1AA430924C0EB88F5F29F52595BD": {
+      "id": "691A1AA430924C0EB88F5F29F52595BD",
+      "asnIdentifier": null,
+      "position": 163000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.15b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of partial fractions to rearrange the integrand.",
+      "comments": [],
+      "ancestorIds": [
+        "C0AC0355019347A6817CD218C93E62F1",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "C0AC0355019347A6817CD218C93E62F1"
+    },
+    "B4A112DAD37D45C69CE01DCBC0FBCAED": {
+      "id": "B4A112DAD37D45C69CE01DCBC0FBCAED",
+      "asnIdentifier": null,
+      "position": 162000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.15a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Indefinite integrals of the derivatives of any of the\nabove functions.\nThe composites of any of these with a linear\nfunction.",
+      "comments": [],
+      "ancestorIds": [
+        "C0AC0355019347A6817CD218C93E62F1",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "C0AC0355019347A6817CD218C93E62F1"
+    },
+    "C0AC0355019347A6817CD218C93E62F1": {
+      "id": "C0AC0355019347A6817CD218C93E62F1",
+      "asnIdentifier": null,
+      "position": 161000,
+      "depth": 1,
+      "listId": "5.15",
+      "statementNotation": "AHL.5.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivatives of tanx, secx, cosecx, cotx, a\nx\n, logax, arcsinx, arccosx, arctanx.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "6A6F8077F1E0447B9EF9B25F63CDE334": {
+      "id": "6A6F8077F1E0447B9EF9B25F63CDE334",
+      "asnIdentifier": null,
+      "position": 160000,
+      "depth": 1,
+      "listId": "5.14",
+      "statementNotation": "AHL.5.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implicit differentiation.\nRelated rates of change.\nOptimisation problems.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "087ECB2E1A0F4F768E0F032FFA58B684": {
+      "id": "087ECB2E1A0F4F768E0F032FFA58B684",
+      "asnIdentifier": null,
+      "position": 159000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.13a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Repeated use of l’Hôpital’s rule.",
+      "comments": [],
+      "ancestorIds": [
+        "EBF14451A84C4160BBC12ED45394E4D9",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "EBF14451A84C4160BBC12ED45394E4D9"
+    },
+    "EBF14451A84C4160BBC12ED45394E4D9": {
+      "id": "EBF14451A84C4160BBC12ED45394E4D9",
+      "asnIdentifier": null,
+      "position": 158000,
+      "depth": 1,
+      "listId": "5.13",
+      "statementNotation": "AHL.5.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The evaluation of limits of the form lim\nx → a\nf(x)\ng(x)\nand\n\nlim\nx → ∞\nf(x)\ng(x)\nusing l’Hôpital’s rule or the Maclaurin\nseries.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "4E744CC744D141C4945D87BC4CA64DA5": {
+      "id": "4E744CC744D141C4945D87BC4CA64DA5",
+      "asnIdentifier": null,
+      "position": 157000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.12b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Higher derivatives.",
+      "comments": [],
+      "ancestorIds": [
+        "66504E257B6749B3AD3D4B4AFACD54B2",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "66504E257B6749B3AD3D4B4AFACD54B2"
+    },
+    "5047B7F78B804E78B5A5A39FBF48A918": {
+      "id": "5047B7F78B804E78B5A5A39FBF48A918",
+      "asnIdentifier": null,
+      "position": 156000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.5.12a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understanding of limits (convergence and\ndivergence).\nDefinition of derivative from first principles\nf ′(x) = lim\nh → 0\nf(x + h) − f(x)\nh\n.",
+      "comments": [],
+      "ancestorIds": [
+        "66504E257B6749B3AD3D4B4AFACD54B2",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "66504E257B6749B3AD3D4B4AFACD54B2"
+    },
+    "66504E257B6749B3AD3D4B4AFACD54B2": {
+      "id": "66504E257B6749B3AD3D4B4AFACD54B2",
+      "asnIdentifier": null,
+      "position": 155000,
+      "depth": 1,
+      "listId": "5.12",
+      "statementNotation": "AHL.5.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Informal understanding of continuity and\ndifferentiability of a function at a point.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "07E85CF4B8C1447B885CED3C9D5E4285": {
+      "id": "07E85CF4B8C1447B885CED3C9D5E4285",
+      "asnIdentifier": null,
+      "position": 154000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.11a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Areas of a region enclosed by a curve y = f(x) and\nthe x-axis, where f(x) can be positive or negative,\nwithout the use of technology.\nAreas between curves.",
+      "comments": [],
+      "ancestorIds": [
+        "BDC546030EF04A909C360BC418218CE5",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "BDC546030EF04A909C360BC418218CE5"
+    },
+    "BDC546030EF04A909C360BC418218CE5": {
+      "id": "BDC546030EF04A909C360BC418218CE5",
+      "asnIdentifier": null,
+      "position": 153000,
+      "depth": 1,
+      "listId": "5.11",
+      "statementNotation": "SL.5.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals, including analytical approach.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "64A72C752F754867B7631EF9E0A2B8D1": {
+      "id": "64A72C752F754867B7631EF9E0A2B8D1",
+      "asnIdentifier": null,
+      "position": 152000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.10b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integration by inspection (reverse chain rule) or by\nsubstitution for expressions of the form:\n∫ kg′(x)f(g(x))dx.",
+      "comments": [],
+      "ancestorIds": [
+        "02B3E69494624DA8ACD099E45EB0CFFB",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "02B3E69494624DA8ACD099E45EB0CFFB"
+    },
+    "7D1713A630A5453FADFD8E40734EF797": {
+      "id": "7D1713A630A5453FADFD8E40734EF797",
+      "asnIdentifier": null,
+      "position": 151000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.10a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The composites of any of these with the linear\nfunction ax + b.",
+      "comments": [],
+      "ancestorIds": [
+        "02B3E69494624DA8ACD099E45EB0CFFB",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "02B3E69494624DA8ACD099E45EB0CFFB"
+    },
+    "02B3E69494624DA8ACD099E45EB0CFFB": {
+      "id": "02B3E69494624DA8ACD099E45EB0CFFB",
+      "asnIdentifier": null,
+      "position": 150000,
+      "depth": 1,
+      "listId": "5.10",
+      "statementNotation": "SL.5.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Indefinite integral of x\nn\n(n ∈ Q), sinx, cosx,\n1\nx\nand e",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "0D75176678204621996153DF62DEB97F": {
+      "id": "0D75176678204621996153DF62DEB97F",
+      "asnIdentifier": null,
+      "position": 149000,
+      "depth": 1,
+      "listId": "5.9",
+      "statementNotation": "SL.5.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Kinematic problems involving displacement s,\nvelocity v, acceleration a and total distance\ntravelled.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "16F495605D93477C9964119796E9920A": {
+      "id": "16F495605D93477C9964119796E9920A",
+      "asnIdentifier": null,
+      "position": 148000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.8b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Points of inflexion with zero and non-zero gradients.",
+      "comments": [],
+      "ancestorIds": [
+        "1AE25A962ED54F3BA9E480671B03C285",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "1AE25A962ED54F3BA9E480671B03C285"
+    },
+    "D6CC3F9C45D646309EA4C7051E74E771": {
+      "id": "D6CC3F9C45D646309EA4C7051E74E771",
+      "asnIdentifier": null,
+      "position": 147000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.8a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Optimization.",
+      "comments": [],
+      "ancestorIds": [
+        "1AE25A962ED54F3BA9E480671B03C285",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "1AE25A962ED54F3BA9E480671B03C285"
+    },
+    "1AE25A962ED54F3BA9E480671B03C285": {
+      "id": "1AE25A962ED54F3BA9E480671B03C285",
+      "asnIdentifier": null,
+      "position": 146000,
+      "depth": 1,
+      "listId": "5.8",
+      "statementNotation": "SL.5.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Local maximum and minimum points.\nTesting for maximum and minimum.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "0EB56AC30B6B4AA3B3E6F02DE63C117A": {
+      "id": "0EB56AC30B6B4AA3B3E6F02DE63C117A",
+      "asnIdentifier": null,
+      "position": 145000,
+      "depth": 1,
+      "listId": "5.7",
+      "statementNotation": "SL.5.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The second derivative.\nGraphical behaviour of functions, including the\nrelationship between the graphs of f , f ′ and f''.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "4C89C22AA834455C8F1564B84E330913": {
+      "id": "4C89C22AA834455C8F1564B84E330913",
+      "asnIdentifier": null,
+      "position": 144000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.6a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The chain rule for composite functions. The product and quotient rules.",
+      "comments": [],
+      "ancestorIds": [
+        "CD71E14F835E4D38B5BB7A4008CE3872",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "CD71E14F835E4D38B5BB7A4008CE3872"
+    },
+    "CD71E14F835E4D38B5BB7A4008CE3872": {
+      "id": "CD71E14F835E4D38B5BB7A4008CE3872",
+      "asnIdentifier": null,
+      "position": 143000,
+      "depth": 1,
+      "listId": "5.6",
+      "statementNotation": "SL.5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivative of x\nn\n(n ∈ Q), sinx, cosx, e\nx\nand lnx.\nDifferentiation of a sum and a multiple of these\nfunctions.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "757A8A0BE527475EA465B42D5BF75777": {
+      "id": "757A8A0BE527475EA465B42D5BF75777",
+      "asnIdentifier": null,
+      "position": 142000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.5b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definite integrals using technology.\nArea of a region enclosed by a curve y = f(x)\nand the x -axis, where f(x) > 0.",
+      "comments": [],
+      "ancestorIds": [
+        "8BA864A65A974B10AB2E67738AF5B14B",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "8BA864A65A974B10AB2E67738AF5B14B"
+    },
+    "B2837525D57D45E29DAC2143D80AF44D": {
+      "id": "B2837525D57D45E29DAC2143D80AF44D",
+      "asnIdentifier": null,
+      "position": 141000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Anti-differentiation with a boundary condition to\ndetermine the constant term.",
+      "comments": [],
+      "ancestorIds": [
+        "8BA864A65A974B10AB2E67738AF5B14B",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "8BA864A65A974B10AB2E67738AF5B14B"
+    },
+    "8BA864A65A974B10AB2E67738AF5B14B": {
+      "id": "8BA864A65A974B10AB2E67738AF5B14B",
+      "asnIdentifier": null,
+      "position": 140000,
+      "depth": 1,
+      "listId": "5.5",
+      "statementNotation": "SL.5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction to integration as anti-differentiation of\nfunctions of the form f(x) = axn + bxn − 1 + ....,\nwhere n ∈ Z, n ≠ − 1",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "8644ADEBFAF940B59E250FA40E9089A9": {
+      "id": "8644ADEBFAF940B59E250FA40E9089A9",
+      "asnIdentifier": null,
+      "position": 139000,
+      "depth": 1,
+      "listId": "5.4",
+      "statementNotation": "SL.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tangents and normals at a given point, and their\nequations.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "C9BC2AAD8D6D46E592F99994F01C5277": {
+      "id": "C9BC2AAD8D6D46E592F99994F01C5277",
+      "asnIdentifier": null,
+      "position": 138000,
+      "depth": 1,
+      "listId": "5.3",
+      "statementNotation": "SL.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivative of f(x) = axn\n\nis f ′(x) = anxn − 1\n\n, n ∈ Z\n\nThe derivative of functions of the form\nf(x) = axn + bxn − 1 + . . .\nwhere all exponents are integers.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "37B9AD66985745A1A46DAD0C0D21FA81": {
+      "id": "37B9AD66985745A1A46DAD0C0D21FA81",
+      "asnIdentifier": null,
+      "position": 137000,
+      "depth": 1,
+      "listId": "5.2",
+      "statementNotation": "SL.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Increasing and decreasing functions.\nGraphical interpretation of\nf ′(x) > 0, f ′(x) = 0, f ′(x) < 0.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "A38E993AB14E4EE38A5FB71788DBDD43": {
+      "id": "A38E993AB14E4EE38A5FB71788DBDD43",
+      "asnIdentifier": null,
+      "position": 136000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.5.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derivative interpreted as gradient function and as\nrate of change.",
+      "comments": [],
+      "ancestorIds": [
+        "997E6D7CF1A24A388737E7E5729232D2",
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "997E6D7CF1A24A388737E7E5729232D2"
+    },
+    "997E6D7CF1A24A388737E7E5729232D2": {
+      "id": "997E6D7CF1A24A388737E7E5729232D2",
+      "asnIdentifier": null,
+      "position": 135000,
+      "depth": 1,
+      "listId": "5.1",
+      "statementNotation": "SL.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction to the concept of a limit.",
+      "comments": [],
+      "ancestorIds": [
+        "D86A0E8CDFE54217B80233A43D2225EF"
+      ],
+      "parentId": "D86A0E8CDFE54217B80233A43D2225EF"
+    },
+    "D86A0E8CDFE54217B80233A43D2225EF": {
+      "id": "D86A0E8CDFE54217B80233A43D2225EF",
+      "asnIdentifier": null,
+      "position": 134000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Topic 5: Calculus",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EA92134C511B432E9453321E59E0D6B6": {
+      "id": "EA92134C511B432E9453321E59E0D6B6",
+      "asnIdentifier": null,
+      "position": 133000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AhL.4.14d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The effect of linear transformations of X.",
+      "comments": [],
+      "ancestorIds": [
+        "F3C121E24E684DDD9551915C0B717C52",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "F3C121E24E684DDD9551915C0B717C52"
+    },
+    "11FE7B5875DF492EA5B89143932FCDD3": {
+      "id": "11FE7B5875DF492EA5B89143932FCDD3",
+      "asnIdentifier": null,
+      "position": 132000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AhL.4.14c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mean, variance and standard deviation of both\ndiscrete and continuous random variables.",
+      "comments": [],
+      "ancestorIds": [
+        "F3C121E24E684DDD9551915C0B717C52",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "F3C121E24E684DDD9551915C0B717C52"
+    },
+    "80A7ACD5216E4CA7B4E6A6C664CD2CE1": {
+      "id": "80A7ACD5216E4CA7B4E6A6C664CD2CE1",
+      "asnIdentifier": null,
+      "position": 131000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.4.14b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mode and median of continuous random variables.",
+      "comments": [],
+      "ancestorIds": [
+        "F3C121E24E684DDD9551915C0B717C52",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "F3C121E24E684DDD9551915C0B717C52"
+    },
+    "10790DC91F0C470D9CCF274C30260512": {
+      "id": "10790DC91F0C470D9CCF274C30260512",
+      "asnIdentifier": null,
+      "position": 130000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL.4.14a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Continuous random variables and their probability\ndensity functions.",
+      "comments": [],
+      "ancestorIds": [
+        "F3C121E24E684DDD9551915C0B717C52",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "F3C121E24E684DDD9551915C0B717C52"
+    },
+    "F3C121E24E684DDD9551915C0B717C52": {
+      "id": "F3C121E24E684DDD9551915C0B717C52",
+      "asnIdentifier": null,
+      "position": 129000,
+      "depth": 1,
+      "listId": "4.14",
+      "statementNotation": "AHL.4.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Variance of a discrete random variable.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "1583885A2D8245A2AA9E5CD52C004791": {
+      "id": "1583885A2D8245A2AA9E5CD52C004791",
+      "asnIdentifier": null,
+      "position": 128000,
+      "depth": 1,
+      "listId": "4.13",
+      "statementNotation": "AHL.4.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of Bayes’ theorem for a maximum of three\nevents.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "45A4F5CEF6CC4393892AADF65DF7A6CA": {
+      "id": "45A4F5CEF6CC4393892AADF65DF7A6CA",
+      "asnIdentifier": null,
+      "position": 127000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.12a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inverse normal calculations where mean and\nstandard deviation are unknown.",
+      "comments": [],
+      "ancestorIds": [
+        "96CB431D921B4FAD9A2A609394A453C2",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "96CB431D921B4FAD9A2A609394A453C2"
+    },
+    "96CB431D921B4FAD9A2A609394A453C2": {
+      "id": "96CB431D921B4FAD9A2A609394A453C2",
+      "asnIdentifier": null,
+      "position": 126000,
+      "depth": 1,
+      "listId": "4.12",
+      "statementNotation": "SL.4.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Standardization of normal variables (z- values).",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "3C87180096974485B816C5DB4295F50B": {
+      "id": "3C87180096974485B816C5DB4295F50B",
+      "asnIdentifier": null,
+      "position": 125000,
+      "depth": 1,
+      "listId": "4.11",
+      "statementNotation": "SL.4.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Formal definition and use of the formulae:\nP(A|B) = P(A ∩ B)\nP(B)\nfor conditional probabilities, and\nP(A|B) = P(A) = P(A|B′) for independent events.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "E16AFE099C41483B9352AC569751B01A": {
+      "id": "E16AFE099C41483B9352AC569751B01A",
+      "asnIdentifier": null,
+      "position": 124000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.10a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of the equation for prediction purposes.",
+      "comments": [],
+      "ancestorIds": [
+        "DBBDB4EAF96946A984314E9D0086A868",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "DBBDB4EAF96946A984314E9D0086A868"
+    },
+    "DBBDB4EAF96946A984314E9D0086A868": {
+      "id": "DBBDB4EAF96946A984314E9D0086A868",
+      "asnIdentifier": null,
+      "position": 123000,
+      "depth": 1,
+      "listId": "4.10",
+      "statementNotation": "SL.4.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Equation of the regression line of x on y.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "6247D1B3AFBA4BC0ABD75810804E1C4C": {
+      "id": "6247D1B3AFBA4BC0ABD75810804E1C4C",
+      "asnIdentifier": null,
+      "position": 122000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.9b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Inverse normal calculations",
+      "comments": [],
+      "ancestorIds": [
+        "1BE4507FA1A54DA0902C25DBF56A25F0",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1BE4507FA1A54DA0902C25DBF56A25F0"
+    },
+    "D01AD79AF79447CE92012326C7F46064": {
+      "id": "D01AD79AF79447CE92012326C7F46064",
+      "asnIdentifier": null,
+      "position": 121000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.9a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Normal probability calculations.",
+      "comments": [],
+      "ancestorIds": [
+        "1BE4507FA1A54DA0902C25DBF56A25F0",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1BE4507FA1A54DA0902C25DBF56A25F0"
+    },
+    "1BE4507FA1A54DA0902C25DBF56A25F0": {
+      "id": "1BE4507FA1A54DA0902C25DBF56A25F0",
+      "asnIdentifier": null,
+      "position": 120000,
+      "depth": 1,
+      "listId": "4.9",
+      "statementNotation": "SL.4.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The normal distribution and curve.\nProperties of the normal distribution.\nDiagrammatic representation.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "AD0310F07D724B858059F806CD489904": {
+      "id": "AD0310F07D724B858059F806CD489904",
+      "asnIdentifier": null,
+      "position": 119000,
+      "depth": 1,
+      "listId": "4.8",
+      "statementNotation": "SL.4.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Binomial distribution.\nMean and variance of the binomial distribution.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "38CB5B007E044BFBA4D080C41FD3B427": {
+      "id": "38CB5B007E044BFBA4D080C41FD3B427",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 1,
+      "listId": "4.7",
+      "statementNotation": "SL.4.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept of discrete random variables and their\nprobability distributions.\nExpected value (mean), for discrete data.\nApplications.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "8728691AA70B478F9D0C667D39B9C952": {
+      "id": "8728691AA70B478F9D0C667D39B9C952",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.6c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Independent events: P(A ∩ B) = P(A)P(B).",
+      "comments": [],
+      "ancestorIds": [
+        "76D3AC43621449C4BDD6F3E9E9C558DF",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "76D3AC43621449C4BDD6F3E9E9C558DF"
+    },
+    "688BD2E922D848CEA812465530F73DFF": {
+      "id": "688BD2E922D848CEA812465530F73DFF",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.6b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Conditional probability: P(A|B) = P(A ∩ B)\nP(B)",
+      "comments": [],
+      "ancestorIds": [
+        "76D3AC43621449C4BDD6F3E9E9C558DF",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "76D3AC43621449C4BDD6F3E9E9C558DF"
+    },
+    "36980F7FDBD644A4BE23CD095795644F": {
+      "id": "36980F7FDBD644A4BE23CD095795644F",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.6a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Combined events:\nP(A ∪ B) = P(A) + P(B) − P(A ∩ B).\nMutually exclusive events: P(A ∩ B) = 0.",
+      "comments": [],
+      "ancestorIds": [
+        "76D3AC43621449C4BDD6F3E9E9C558DF",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "76D3AC43621449C4BDD6F3E9E9C558DF"
+    },
+    "76D3AC43621449C4BDD6F3E9E9C558DF": {
+      "id": "76D3AC43621449C4BDD6F3E9E9C558DF",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 1,
+      "listId": "4.6",
+      "statementNotation": "SL.4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of Venn diagrams, tree diagrams, sample space\ndiagrams and tables of outcomes to calculate\nprobabilities.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "8D4F6E2C34044F4C83AB5EFFA3F1ECFE": {
+      "id": "8D4F6E2C34044F4C83AB5EFFA3F1ECFE",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Expected number of occurrences.",
+      "comments": [],
+      "ancestorIds": [
+        "44213450B2DE47ADAE27F6175C968917",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "44213450B2DE47ADAE27F6175C968917"
+    },
+    "44213450B2DE47ADAE27F6175C968917": {
+      "id": "44213450B2DE47ADAE27F6175C968917",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 1,
+      "listId": "4.5",
+      "statementNotation": "SL.4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concepts of trial, outcome, equally likely outcomes,\nrelative frequency, sample space (U) and event.\nThe probability of an event A is P(A) = n(A)\nn(U)\n.\n\nThe complementary events A and A′\n(not A).",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "62934FED4BC443EC98013D5F6A28D03F": {
+      "id": "62934FED4BC443EC98013D5F6A28D03F",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.4b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of the equation of the regression line for\nprediction purposes.\nInterpret the meaning of the parameters, a and b, in\na linear regression y = ax + b.",
+      "comments": [],
+      "ancestorIds": [
+        "349D2E17AC8D43E685B7EBFD9824F11A",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "349D2E17AC8D43E685B7EBFD9824F11A"
+    },
+    "A12E1CE42B224006827268D5A8B7D27B": {
+      "id": "A12E1CE42B224006827268D5A8B7D27B",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Scatter diagrams; lines of best fit, by eye, passing\nthrough the mean point.",
+      "comments": [],
+      "ancestorIds": [
+        "349D2E17AC8D43E685B7EBFD9824F11A",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "349D2E17AC8D43E685B7EBFD9824F11A"
+    },
+    "349D2E17AC8D43E685B7EBFD9824F11A": {
+      "id": "349D2E17AC8D43E685B7EBFD9824F11A",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 1,
+      "listId": "4.4",
+      "statementNotation": "SL.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Linear correlation of bivariate data.\nPearson’s product-moment correlation coefficient, r.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "7D5139BAF17549A8BFA8F01872EF5565": {
+      "id": "7D5139BAF17549A8BFA8F01872EF5565",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.3d",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Quartiles of discrete data.",
+      "comments": [],
+      "ancestorIds": [
+        "BB69EA2A078049C5927ED54671F8DB42",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "BB69EA2A078049C5927ED54671F8DB42"
+    },
+    "BBC0E14398224160811F35EBFC9E7E3F": {
+      "id": "BBC0E14398224160811F35EBFC9E7E3F",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.3c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Effect of constant changes on the original data.",
+      "comments": [],
+      "ancestorIds": [
+        "BB69EA2A078049C5927ED54671F8DB42",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "BB69EA2A078049C5927ED54671F8DB42"
+    },
+    "3EA4A46362E64258BDA828EF1C10F873": {
+      "id": "3EA4A46362E64258BDA828EF1C10F873",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.3b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Measures of dispersion (interquartile range,\nstandard deviation and variance).",
+      "comments": [],
+      "ancestorIds": [
+        "BB69EA2A078049C5927ED54671F8DB42",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "BB69EA2A078049C5927ED54671F8DB42"
+    },
+    "B62C58588B1249B78C8CDFC7BAAF8702": {
+      "id": "B62C58588B1249B78C8CDFC7BAAF8702",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modal class. For equal class intervals only.",
+      "comments": [],
+      "ancestorIds": [
+        "BB69EA2A078049C5927ED54671F8DB42",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "BB69EA2A078049C5927ED54671F8DB42"
+    },
+    "BB69EA2A078049C5927ED54671F8DB42": {
+      "id": "BB69EA2A078049C5927ED54671F8DB42",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 1,
+      "listId": "4.3",
+      "statementNotation": "SL.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "CF8EF41EE3104FF487A5F35225C310BD": {
+      "id": "CF8EF41EE3104FF487A5F35225C310BD",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.2b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Production and understanding of box and whisker\ndiagrams.",
+      "comments": [],
+      "ancestorIds": [
+        "64490AD0411744D885E1F439552552A8",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "64490AD0411744D885E1F439552552A8"
+    },
+    "492D47C08A0745B4B35CC7B14BF7B7EE": {
+      "id": "492D47C08A0745B4B35CC7B14BF7B7EE",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Histograms.\nCumulative frequency; cumulative frequency\ngraphs; use to find median, quartiles, percentiles,\nrange and interquartile range (IQR).",
+      "comments": [],
+      "ancestorIds": [
+        "64490AD0411744D885E1F439552552A8",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "64490AD0411744D885E1F439552552A8"
+    },
+    "64490AD0411744D885E1F439552552A8": {
+      "id": "64490AD0411744D885E1F439552552A8",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 1,
+      "listId": "4.2",
+      "statementNotation": "SL.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Presentation of data (discrete and continuous):\nfrequency distributions (tables).",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "E1BFE83BEE2F4DA59AB134CA1662E487": {
+      "id": "E1BFE83BEE2F4DA59AB134CA1662E487",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.1c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sampling techniques and their effectiveness.",
+      "comments": [],
+      "ancestorIds": [
+        "14DDE87C626A42098ED2F78FDBBC10CF",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "14DDE87C626A42098ED2F78FDBBC10CF"
+    },
+    "5C6CB0FF617342F7BF797ED04B4B3AE8": {
+      "id": "5C6CB0FF617342F7BF797ED04B4B3AE8",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.1b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpretation of outliers.",
+      "comments": [],
+      "ancestorIds": [
+        "14DDE87C626A42098ED2F78FDBBC10CF",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "14DDE87C626A42098ED2F78FDBBC10CF"
+    },
+    "EF82A8DFB59C488E9D2E67E49716D825": {
+      "id": "EF82A8DFB59C488E9D2E67E49716D825",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL.4.1a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reliability of data sources and bias in sampling.",
+      "comments": [],
+      "ancestorIds": [
+        "14DDE87C626A42098ED2F78FDBBC10CF",
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "14DDE87C626A42098ED2F78FDBBC10CF"
+    },
+    "14DDE87C626A42098ED2F78FDBBC10CF": {
+      "id": "14DDE87C626A42098ED2F78FDBBC10CF",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 1,
+      "listId": "4.1",
+      "statementNotation": "SL.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concepts of population, sample, random sample,\ndiscrete and continuous data.",
+      "comments": [],
+      "ancestorIds": [
+        "1760EF9283834044B2197C85F0356B7D"
+      ],
+      "parentId": "1760EF9283834044B2197C85F0356B7D"
+    },
+    "1760EF9283834044B2197C85F0356B7D": {
+      "id": "1760EF9283834044B2197C85F0356B7D",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Topic 4: Statistics and probability",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "EB678442DB39402091E307790DA3D171": {
+      "id": "EB678442DB39402091E307790DA3D171",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 1,
+      "listId": "3.18",
+      "statementNotation": "AHL.3.18",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Intersections of: a line with a plane; two planes;\nthree planes.\nAngle between: a line and a plane; two planes.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "FE317DE4A0C5494A8F6290FBB0C7031F": {
+      "id": "FE317DE4A0C5494A8F6290FBB0C7031F",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 1,
+      "listId": "3.17",
+      "statementNotation": "AHL.3.17",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Vector equations of a plane:\nr = a + λb + μc, where b and c are non-parallel\nvectors within the plane.\nr · n = a · n, where n is a normal to the plane and a is\nthe position vector of a point on the plane.\nCartesian equation of a plane ax + by + cz = d.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "06D399B2BA76481D9E2FD9A6C2789774": {
+      "id": "06D399B2BA76481D9E2FD9A6C2789774",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 3.16b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Geometric interpretation of | v × w |",
+      "comments": [],
+      "ancestorIds": [
+        "25303746FFD04327BC9F414EEEC3F263",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "25303746FFD04327BC9F414EEEC3F263"
+    },
+    "FB50343885AC499FB547E8DADED4719B": {
+      "id": "FB50343885AC499FB547E8DADED4719B",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 3.16a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Properties of the vector product.",
+      "comments": [],
+      "ancestorIds": [
+        "25303746FFD04327BC9F414EEEC3F263",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "25303746FFD04327BC9F414EEEC3F263"
+    },
+    "25303746FFD04327BC9F414EEEC3F263": {
+      "id": "25303746FFD04327BC9F414EEEC3F263",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 1,
+      "listId": "3.16",
+      "statementNotation": "AHL.3.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definition of the vector product of two vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "A1033C28CB0A4F39B13AB6FC9E22C5C6": {
+      "id": "A1033C28CB0A4F39B13AB6FC9E22C5C6",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 1,
+      "listId": "3.15",
+      "statementNotation": "AHL.3.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Coincident, parallel, intersecting and skew lines,\ndistinguishing between these cases.\nPoints of intersection.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "D7468BFD3B16466D83D4D138E65C4119": {
+      "id": "D7468BFD3B16466D83D4D138E65C4119",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 3.14b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simple applications to kinematics. Interpretation of λ as time and b as velocity, with |b|\n\nrepresenting speed.",
+      "comments": [],
+      "ancestorIds": [
+        "E1BF3016CED94966BA575459163C7120",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "E1BF3016CED94966BA575459163C7120"
+    },
+    "3F0B6B90C7F34C01A2C9B1FD6E64DFAD": {
+      "id": "3F0B6B90C7F34C01A2C9B1FD6E64DFAD",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 3.14a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The angle between two lines. Using the scalar product of the two direction\n\nvectors.",
+      "comments": [],
+      "ancestorIds": [
+        "E1BF3016CED94966BA575459163C7120",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "E1BF3016CED94966BA575459163C7120"
+    },
+    "E1BF3016CED94966BA575459163C7120": {
+      "id": "E1BF3016CED94966BA575459163C7120",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 1,
+      "listId": "3.14",
+      "statementNotation": "AHL.3.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Vector equation of a line in two and three\ndimensions:\nr = a + λb.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "74B568F280A74CDFA5287C9A0F936DE2": {
+      "id": "74B568F280A74CDFA5287C9A0F936DE2",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 1,
+      "listId": "3.13",
+      "statementNotation": "AHL.3.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The definition of the scalar product of two vectors.\nThe angle between two vectors.\nPerpendicular vectors; parallel vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "C2B131FD2FD14C099D45E3B69FB73A19": {
+      "id": "C2B131FD2FD14C099D45E3B69FB73A19",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 3.12a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Algebraic and geometric approaches to the\nfollowing:\n• the sum and difference of two vectors\n• the zero vector 0, the vector −v\n• multiplication by a scalar, kv, parallel vectors magnitude of a vector, |v|; unit vectors, v\n|v|\n\n•\nposition vectors OA\n→\n= a, OB\n→\n= b\n\n•\ndisplacement vector AB\n→\n= b − a\nProofs of geometrical properties using vectors.",
+      "comments": [],
+      "ancestorIds": [
+        "265902A4099B4C14A3458CF027CDA198",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "265902A4099B4C14A3458CF027CDA198"
+    },
+    "265902A4099B4C14A3458CF027CDA198": {
+      "id": "265902A4099B4C14A3458CF027CDA198",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 1,
+      "listId": "3.12",
+      "statementNotation": "AHL.3.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept of a vector; position vectors; displacement\nvectors.\nRepresentation of vectors using directed line\nsegments.\nBase vectors i, j, k.\nComponents of a vector:\nv =\nv1\nv2\nv3\n= v1i + v2 j + v3k.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "13686D8B416344CABA13A0DAE6DAC2B7": {
+      "id": "13686D8B416344CABA13A0DAE6DAC2B7",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 1,
+      "listId": "3.11",
+      "statementNotation": "AHL.3.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Relationships between trigonometric functions and\nthe symmetry properties of their graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "4E51D601581147D5981F7F0388552C1C": {
+      "id": "4E51D601581147D5981F7F0388552C1C",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 1,
+      "listId": "3.10",
+      "statementNotation": "AHL.3.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compound angle identities.\nDouble angle identity for tan.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "4435CA7F90294F8097CFCC63F4F44858": {
+      "id": "4435CA7F90294F8097CFCC63F4F44858",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 1,
+      "listId": "3.9",
+      "statementNotation": "SL.3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definition of the reciprocal trigonometric ratios secθ, cosecθ and cotθ.\nPythagorean identities:\n1 + tan2\nθ = sec2\nθ\n1 + cot2\nθ = cosec2\nθ\nThe inverse functions f(x) = arcsinx,\nf(x) = arccosx, f(x) = arctanx; their domains and\nranges; their graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "20CC98C761CF4529B9D861E367D871DA": {
+      "id": "20CC98C761CF4529B9D861E367D871DA",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.8a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Equations leading to quadratic equations in\nsinx, cosx or tanx.",
+      "comments": [],
+      "ancestorIds": [
+        "7FE206E862AB48129D2F2C1AA9517ED8",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "7FE206E862AB48129D2F2C1AA9517ED8"
+    },
+    "7FE206E862AB48129D2F2C1AA9517ED8": {
+      "id": "7FE206E862AB48129D2F2C1AA9517ED8",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 1,
+      "listId": "3.8",
+      "statementNotation": "SL.3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solving trigonometric equations in a finite interval,\nboth graphically and analytically.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "9DFC05C595EA46969A74DA95EDEF8DB4": {
+      "id": "9DFC05C595EA46969A74DA95EDEF8DB4",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.7b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Real-life contexts. Examples: height of tide, motion of a Ferris wheel.\nStudents should be aware that not all regression\ntechnology produces trigonometric functions in the\nform f(x) = asin (b (x + c)) + d.",
+      "comments": [],
+      "ancestorIds": [
+        "843BF5ADE4AA40BE93BD1BC53D495BD6",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "843BF5ADE4AA40BE93BD1BC53D495BD6"
+    },
+    "6EBF2C247F7A461E9EAF6E073A393232": {
+      "id": "6EBF2C247F7A461E9EAF6E073A393232",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.7a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Transformations.  Example: y = sinx used to obtain y = 3sin2x by a\nstretch of scale factor 3 in the y direction and a\nstretch of scale factor 1\n2\nin the x direction.\nLink to: transformations of graphs (SL2.11).",
+      "comments": [],
+      "ancestorIds": [
+        "843BF5ADE4AA40BE93BD1BC53D495BD6",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "843BF5ADE4AA40BE93BD1BC53D495BD6"
+    },
+    "843BF5ADE4AA40BE93BD1BC53D495BD6": {
+      "id": "843BF5ADE4AA40BE93BD1BC53D495BD6",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 1,
+      "listId": "3.7",
+      "statementNotation": "SL.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The circular functions sinx, cosx, and tanx;\namplitude, their periodic nature, and their graphs\nComposite functions of the form\nf(x) = asin(b(x + c)) + d.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "1EB98A112F6742938CB239E79A050E90": {
+      "id": "1EB98A112F6742938CB239E79A050E90",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.6a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The relationship between trigonometric ratios.",
+      "comments": [],
+      "ancestorIds": [
+        "E8A7524F8C2045F2A68165EEE343C97D",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "E8A7524F8C2045F2A68165EEE343C97D"
+    },
+    "E8A7524F8C2045F2A68165EEE343C97D": {
+      "id": "E8A7524F8C2045F2A68165EEE343C97D",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 1,
+      "listId": "3.6",
+      "statementNotation": "SL.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The Pythagorean identity cos2\nθ + sin2\nθ = 1.\nDouble angle identities for sine and cosine.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "82DA45E20AE44441B5420843F1881A0E": {
+      "id": "82DA45E20AE44441B5420843F1881A0E",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.5c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extension of the sine rule to the ambiguous case.",
+      "comments": [],
+      "ancestorIds": [
+        "8257859814CA4058BECE0BD2FE7A9AA6",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "8257859814CA4058BECE0BD2FE7A9AA6"
+    },
+    "4DD135C1A9F34461925BCD8B6EA3F8A8": {
+      "id": "4DD135C1A9F34461925BCD8B6EA3F8A8",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.5b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exact values of trigonometric ratios of 0, π\n6\n, π\n4\n, π\n3\n, π\n2\n\nand their multiples.",
+      "comments": [],
+      "ancestorIds": [
+        "8257859814CA4058BECE0BD2FE7A9AA6",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "8257859814CA4058BECE0BD2FE7A9AA6"
+    },
+    "BC07AF13A3BA482CBE7DB401823C138B": {
+      "id": "BC07AF13A3BA482CBE7DB401823C138B",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definition of tanθ as\nsinθ\ncosθ",
+      "comments": [],
+      "ancestorIds": [
+        "8257859814CA4058BECE0BD2FE7A9AA6",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "8257859814CA4058BECE0BD2FE7A9AA6"
+    },
+    "8257859814CA4058BECE0BD2FE7A9AA6": {
+      "id": "8257859814CA4058BECE0BD2FE7A9AA6",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 1,
+      "listId": "3.5",
+      "statementNotation": "SL.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Definition of cosθ, sinθ in terms of the unit circle.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "C0B84A94108A44A3857694AD6C058E2D": {
+      "id": "C0B84A94108A44A3857694AD6C058E2D",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 1,
+      "listId": "3.4",
+      "statementNotation": "SL.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The circle: radian measure of angles; length of an\narc; area of a sector.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "789563EF9B7741D9A025B70825F3DD69": {
+      "id": "789563EF9B7741D9A025B70825F3DD69",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 1,
+      "listId": "3.3",
+      "statementNotation": "SL.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applications of right and non-right angled\ntrigonometry, including Pythagoras’s theorem.\nAngles of elevation and depression. Construction of labelled diagrams from written\nstatements.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "89C1B7627DBC4BD2A7DF1C1B89EB202D": {
+      "id": "89C1B7627DBC4BD2A7DF1C1B89EB202D",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 3.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The sine rule: a\nsinA\n=\nb\nsinB\n=\nc\nsinC\n.\n\nThe cosine rule: c\n2 = a\n2 + b\n2 − 2abcosC;\n\ncosC =\na2 + b\n2 − c2\n2ab .\nArea of a triangle as 1\n2\nabsinC.",
+      "comments": [],
+      "ancestorIds": [
+        "30F4A68D29BC4C46837D2C727FB25AFE",
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "30F4A68D29BC4C46837D2C727FB25AFE"
+    },
+    "30F4A68D29BC4C46837D2C727FB25AFE": {
+      "id": "30F4A68D29BC4C46837D2C727FB25AFE",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 1,
+      "listId": "3.2",
+      "statementNotation": "SL.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of sine, cosine and tangent ratios to find the\nsides and angles of right-angled triangles.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "07314FAC236C4F1A98AF9A4D507F64E7": {
+      "id": "07314FAC236C4F1A98AF9A4D507F64E7",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 1,
+      "listId": "3.1",
+      "statementNotation": "SL.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The distance between two points in three-\ndimensional space, and their midpoint. Volume and surface area of three-dimensional solids\nincluding right-pyramid, right cone, sphere,\nhemisphere and combinations of these solids.\nThe size of an angle between two intersecting lines\nor between a line and a plane.",
+      "comments": [],
+      "ancestorIds": [
+        "1EBD89E3924D4C3B859D73A6B5A1911A"
+      ],
+      "parentId": "1EBD89E3924D4C3B859D73A6B5A1911A"
+    },
+    "1EBD89E3924D4C3B859D73A6B5A1911A": {
+      "id": "1EBD89E3924D4C3B859D73A6B5A1911A",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Topic 3: Geometry and trigonometry",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5F2EF55D197C4883A56DA34304B893AE": {
+      "id": "5F2EF55D197C4883A56DA34304B893AE",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 2.16a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solution of modulus equations and inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "732B733E1E0D48848575784663F73A2B",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "732B733E1E0D48848575784663F73A2B"
+    },
+    "732B733E1E0D48848575784663F73A2B": {
+      "id": "732B733E1E0D48848575784663F73A2B",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 1,
+      "listId": "2.16",
+      "statementNotation": "AHL.2.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The graphs of the functions, y = | f(x)|\nand\ny = f(|x|), y =\n1\nf(x)\n, y = f(ax + b), y = [f(x)]2\n.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "8D78643A2EC345A18A3100D56968E10D": {
+      "id": "8D78643A2EC345A18A3100D56968E10D",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 1,
+      "listId": "2.15",
+      "statementNotation": "AHL.2.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solutions of g(x) ≥ f(x), both graphically and\nanalytically.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "B6841E59C5484C2AB1777B8DE24114F5": {
+      "id": "B6841E59C5484C2AB1777B8DE24114F5",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 2.13b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Self-inverse functions.",
+      "comments": [],
+      "ancestorIds": [
+        "3AE522DE06874A3F935EEECAD25D9AB4",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "3AE522DE06874A3F935EEECAD25D9AB4"
+    },
+    "29B34B3C620F4638A9D6C5ED27F96FEF": {
+      "id": "29B34B3C620F4638A9D6C5ED27F96FEF",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 2.13a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Finding the inverse function, f −1(x),\nincluding domain restriction.",
+      "comments": [],
+      "ancestorIds": [
+        "3AE522DE06874A3F935EEECAD25D9AB4",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "3AE522DE06874A3F935EEECAD25D9AB4"
+    },
+    "3AE522DE06874A3F935EEECAD25D9AB4": {
+      "id": "3AE522DE06874A3F935EEECAD25D9AB4",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 1,
+      "listId": "2.14",
+      "statementNotation": "AHL.2.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Odd and even functions.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "CBE00C9E6343486A8902CA75A1D2D03E": {
+      "id": "CBE00C9E6343486A8902CA75A1D2D03E",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 1,
+      "listId": "2.13",
+      "statementNotation": "AHL.2.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rational functions of the form\nf(x) = ax + b\ncx2 + dx + e\n, and f(x) = ax2 + bx + c",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "AD97DB2BC0D94E599F2A26C9790D1C6E": {
+      "id": "AD97DB2BC0D94E599F2A26C9790D1C6E",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "AHL 2.12a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sum and product of the roots of polynomial\nequations.",
+      "comments": [],
+      "ancestorIds": [
+        "7F86698439624C76B4A52955C64D8908",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "7F86698439624C76B4A52955C64D8908"
+    },
+    "7F86698439624C76B4A52955C64D8908": {
+      "id": "7F86698439624C76B4A52955C64D8908",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "2.12",
+      "statementNotation": "AHL.2.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Polynomial functions, their graphs and equations;\nzeros, roots and factors.\nThe factor and remainder theorems.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "03749DDE639B497FB99DDC27BBBAC5C7": {
+      "id": "03749DDE639B497FB99DDC27BBBAC5C7",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.11a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Composite transformations.",
+      "comments": [],
+      "ancestorIds": [
+        "23A869977207466E94A7A1918FA699A1",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "23A869977207466E94A7A1918FA699A1"
+    },
+    "23A869977207466E94A7A1918FA699A1": {
+      "id": "23A869977207466E94A7A1918FA699A1",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 1,
+      "listId": "2.11",
+      "statementNotation": "SL.2.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Transformations of graphs.\nTranslations: y = f(x) + b; y = f(x − a).\nReflections (in both axes): y = − f(x); y = f( − x).\nVertical stretch with scale factor p: y = p f(x).\nHorizontal stretch with scale factor 1\nq\n: y = f(qx).",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "635EA472F7A94ABFAA6E4AC667605034": {
+      "id": "635EA472F7A94ABFAA6E4AC667605034",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.10b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applications of graphing skills and solving\nequations that relate to real-life situations.",
+      "comments": [],
+      "ancestorIds": [
+        "B60BD679E8B34F348E38B3E13BFDDF5D",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "B60BD679E8B34F348E38B3E13BFDDF5D"
+    },
+    "F91D8EBEAD40401E98281903E8A2F268": {
+      "id": "F91D8EBEAD40401E98281903E8A2F268",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.10a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of technology to solve a variety of equations,\nincluding those where there is no appropriate\nanalytic approach.",
+      "comments": [],
+      "ancestorIds": [
+        "B60BD679E8B34F348E38B3E13BFDDF5D",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "B60BD679E8B34F348E38B3E13BFDDF5D"
+    },
+    "B60BD679E8B34F348E38B3E13BFDDF5D": {
+      "id": "B60BD679E8B34F348E38B3E13BFDDF5D",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 1,
+      "listId": "2.10",
+      "statementNotation": "SL.2.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solving equations, both graphically and analytically.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "4362ADAB88694DF7AE5FD9B651D6238C": {
+      "id": "4362ADAB88694DF7AE5FD9B651D6238C",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 1,
+      "listId": "2.9",
+      "statementNotation": "SL.2.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Exponential functions and their graphs:\nf(x) = a\nx\n, a > 0, f(x) = ex\nLogarithmic functions and their graphs:\nf(x) = logax, x > 0, f(x) = lnx, x > 0.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "F73B3F71A7DE41278E256172F3228072": {
+      "id": "F73B3F71A7DE41278E256172F3228072",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.8a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Rational functions of the form f(x) = ax + b\ncx + d\nand\n\ntheir graphs.\nEquations of vertical and horizontal asymptotes.",
+      "comments": [],
+      "ancestorIds": [
+        "69CDB5A26E704821885E329760149CE4",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "69CDB5A26E704821885E329760149CE4"
+    },
+    "69CDB5A26E704821885E329760149CE4": {
+      "id": "69CDB5A26E704821885E329760149CE4",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 1,
+      "listId": "2.8",
+      "statementNotation": "SL.2.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The reciprocal function f(x) = 1\nx\n, x ≠ 0: its graph\n\nand self-inverse nature.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "741A6746966D433FA8F47CF1FA564A71": {
+      "id": "741A6746966D433FA8F47CF1FA564A71",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.7a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The discriminant Δ = b\n\n2 − 4ac and the nature of the\nroots, that is, two distinct real roots, two equal real\nroots, no real roots.",
+      "comments": [],
+      "ancestorIds": [
+        "458CE72C31604A0493C85947FA02D06B",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "458CE72C31604A0493C85947FA02D06B"
+    },
+    "458CE72C31604A0493C85947FA02D06B": {
+      "id": "458CE72C31604A0493C85947FA02D06B",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 1,
+      "listId": "2.7",
+      "statementNotation": "SL.2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solution of quadratic equations and inequalities.\nThe quadratic formula.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "8811BB4F7E2844F588676DFA0CF72DCC": {
+      "id": "8811BB4F7E2844F588676DFA0CF72DCC",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 1,
+      "listId": "2.6",
+      "statementNotation": "SL.2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The quadratic function f(x) = ax2 + bx + c: its\ngraph, y -intercept (0, c). Axis of symmetry.\nThe form f(x) = a(x − p)(x − q), x- intercepts (p, 0) and (q, 0).\nThe form f(x) = a (x − h)\n\n2 + k, vertex (h, k).",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "065A593B3BA74473A976B52584798973": {
+      "id": "065A593B3BA74473A976B52584798973",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identity function. Finding the inverse function\nf −1(x).",
+      "comments": [],
+      "ancestorIds": [
+        "094987A0CDE542CFB3E15C1369135367",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "094987A0CDE542CFB3E15C1369135367"
+    },
+    "094987A0CDE542CFB3E15C1369135367": {
+      "id": "094987A0CDE542CFB3E15C1369135367",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 1,
+      "listId": "2.5",
+      "statementNotation": "SL.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Composite functions.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "A3BB99B5186C49D8920FF9FFE8E8A73C": {
+      "id": "A3BB99B5186C49D8920FF9FFE8E8A73C",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.4a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Finding the point of intersection of two curves or\nlines using technology.",
+      "comments": [],
+      "ancestorIds": [
+        "C0BA70CAB9A94BA78FCA100C4724994E",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "C0BA70CAB9A94BA78FCA100C4724994E"
+    },
+    "C0BA70CAB9A94BA78FCA100C4724994E": {
+      "id": "C0BA70CAB9A94BA78FCA100C4724994E",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 1,
+      "listId": "2.4",
+      "statementNotation": "SL.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine key features of graphs.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "B84649FF4C9D4E469788F8E5CBC06D28": {
+      "id": "B84649FF4C9D4E469788F8E5CBC06D28",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Creating a sketch from information given or a\ncontext, including transferring a graph from screen\nto paper.\nUsing technology to graph functions including their\nsums and differences.",
+      "comments": [],
+      "ancestorIds": [
+        "14269EA0C35048499C4A818571F4D457",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "14269EA0C35048499C4A818571F4D457"
+    },
+    "14269EA0C35048499C4A818571F4D457": {
+      "id": "14269EA0C35048499C4A818571F4D457",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "SL.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The graph of a function; its equation y = f(x).",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "F09D32E9D42946648D8E70927632370D": {
+      "id": "F09D32E9D42946648D8E70927632370D",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "",
+      "statementNotation": "SL 2.2a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Informal concept that an inverse function reverses\nor undoes the effect of a function.\nInverse function as a reflection in the line y = x, and\nthe notation f −1(x).",
+      "comments": [],
+      "ancestorIds": [
+        "35B1FC281C2B471D8997BA62E2960096",
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "35B1FC281C2B471D8997BA62E2960096"
+    },
+    "35B1FC281C2B471D8997BA62E2960096": {
+      "id": "35B1FC281C2B471D8997BA62E2960096",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "SL.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Concept of a function, domain, range and graph.\nFunction notation, for example f(x), v(t), C(n).\nThe concept of a function as a mathematical model.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "D5011D77DE7B436C9D51E110131F0AA7": {
+      "id": "D5011D77DE7B436C9D51E110131F0AA7",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "SL.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Different forms of the equation of a straight line.\nGradient; intercepts.\nLines with gradients m1 and m2\nParallel lines m1 = m2.\nPerpendicular lines m1 × m2 = − 1.",
+      "comments": [],
+      "ancestorIds": [
+        "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+      ],
+      "parentId": "72EDAA0FB4664B65A5A87D2D1E34C0A4"
+    },
+    "72EDAA0FB4664B65A5A87D2D1E34C0A4": {
+      "id": "72EDAA0FB4664B65A5A87D2D1E34C0A4",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 0,
+      "listId": "Topic 2 ",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "CCC80B38BCF44C2F865FE69E77A5AF41": {
+      "id": "CCC80B38BCF44C2F865FE69E77A5AF41",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.16a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "including cases where there is a unique solution, an\ninfinite number of solutions or no solution.",
+      "comments": [],
+      "ancestorIds": [
+        "2D34DB05A41542A8A96A80A5C827A761",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "2D34DB05A41542A8A96A80A5C827A761"
+    },
+    "2D34DB05A41542A8A96A80A5C827A761": {
+      "id": "2D34DB05A41542A8A96A80A5C827A761",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "1.16",
+      "statementNotation": "AHL.1.16",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solutions of systems of linear equations (a\nmaximum of three equations in three unknowns),",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "72CB543207CE495FBDB7CF9234C372BF": {
+      "id": "72CB543207CE495FBDB7CF9234C372BF",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.15b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of a counterexample to show that a statement is\nnot always true.",
+      "comments": [],
+      "ancestorIds": [
+        "35A1167195964E208FB0250A9A13BEBB",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "35A1167195964E208FB0250A9A13BEBB"
+    },
+    "9FC0E5F92E124F94990C1AA35D44C88C": {
+      "id": "9FC0E5F92E124F94990C1AA35D44C88C",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.15a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Proof by contradiction.",
+      "comments": [],
+      "ancestorIds": [
+        "35A1167195964E208FB0250A9A13BEBB",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "35A1167195964E208FB0250A9A13BEBB"
+    },
+    "35A1167195964E208FB0250A9A13BEBB": {
+      "id": "35A1167195964E208FB0250A9A13BEBB",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "1.15",
+      "statementNotation": "AHL.1.15",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Proof by mathematical induction.",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "F99A5A5607CF40E6842F04074E40E9E7": {
+      "id": "F99A5A5607CF40E6842F04074E40E9E7",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.14b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Powers and roots of complex numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "F50EDBF0398F4B09AC89B71051899616",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "F50EDBF0398F4B09AC89B71051899616"
+    },
+    "EA4832243D5E4CD6AA58B14A4A08A541": {
+      "id": "EA4832243D5E4CD6AA58B14A4A08A541",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.14a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "De Moivre’s theorem and its extension to rational\nexponents.",
+      "comments": [],
+      "ancestorIds": [
+        "F50EDBF0398F4B09AC89B71051899616",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "F50EDBF0398F4B09AC89B71051899616"
+    },
+    "F50EDBF0398F4B09AC89B71051899616": {
+      "id": "F50EDBF0398F4B09AC89B71051899616",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "1.14",
+      "statementNotation": "AHL.1.14",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complex conjugate roots of quadratic and\npolynomial equations with real coefficients.",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "2E3CE0381AB4400D94E1B973F8ABA3E4": {
+      "id": "2E3CE0381AB4400D94E1B973F8ABA3E4",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "1.13",
+      "statementNotation": "AHL.1.13",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modulus–argument (polar) form:\nz = r(cosθ + isinθ) = rcisθ\n.\n\nEuler form:\nz = reiθ\nSums, products and quotients in Cartesian, polar or\nEuler forms and their geometric interpretation.",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "CF4D5C0D72FE438B9AF485BAA2B4DDAB": {
+      "id": "CF4D5C0D72FE438B9AF485BAA2B4DDAB",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.12a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The complex plane.",
+      "comments": [],
+      "ancestorIds": [
+        "B122D76908EC4777831EE45CAD71C5F3",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "B122D76908EC4777831EE45CAD71C5F3"
+    },
+    "B122D76908EC4777831EE45CAD71C5F3": {
+      "id": "B122D76908EC4777831EE45CAD71C5F3",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 2,
+      "listId": "1.12",
+      "statementNotation": "AHL.1.12",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Complex numbers: the number i, where i\n2 = − 1.\nCartesian form z = a + bi; the terms real part,\nimaginary part, conjugate, modulus and argument.",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "3DDAC4FA22C44CA592648A1B37CE07A5": {
+      "id": "3DDAC4FA22C44CA592648A1B37CE07A5",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "1.11",
+      "statementNotation": "AHL.1.11",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Partial fractions.",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "EE003A93C21345F88BC0459292B1734F": {
+      "id": "EE003A93C21345F88BC0459292B1734F",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "AHL 1.10a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extension of the binomial theorem to fractional and\nnegative indices, ie (a + b)\nn\n, n ∈ Q.",
+      "comments": [],
+      "ancestorIds": [
+        "C6E736E577EF4B82B31EAC1526872165",
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "C6E736E577EF4B82B31EAC1526872165"
+    },
+    "C6E736E577EF4B82B31EAC1526872165": {
+      "id": "C6E736E577EF4B82B31EAC1526872165",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "1.10",
+      "statementNotation": "AHL.1.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Counting principles, including permutations and\ncombinations.",
+      "comments": [],
+      "ancestorIds": [
+        "92841D38E58A44C29E849044B2CC73F5",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "92841D38E58A44C29E849044B2CC73F5"
+    },
+    "92841D38E58A44C29E849044B2CC73F5": {
+      "id": "92841D38E58A44C29E849044B2CC73F5",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Additional Higher Level",
+      "comments": [],
+      "ancestorIds": [
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "513058B53E7B462CAB24385277EBECD1"
+    },
+    "0D83890A06B54D2D9ECBE76F31BF53DE": {
+      "id": "0D83890A06B54D2D9ECBE76F31BF53DE",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.9a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use of Pascal’s triangle and C\nn\nr\n.",
+      "comments": [],
+      "ancestorIds": [
+        "220C25088F1F400EA0880B2286EBEF15",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "220C25088F1F400EA0880B2286EBEF15"
+    },
+    "220C25088F1F400EA0880B2286EBEF15": {
+      "id": "220C25088F1F400EA0880B2286EBEF15",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "1.9",
+      "statementNotation": "SL.1.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "The binomial theorem:\nexpansion of (a + b)\nn\n, n ∈ N.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "7099B4BA006C4B6CB150B999ECFEA849": {
+      "id": "7099B4BA006C4B6CB150B999ECFEA849",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 2,
+      "listId": "1.8",
+      "statementNotation": "SL.1.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Sum of infinite convergent geometric sequences.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "308B6A8B06A1442CB83A05E39887FF1B": {
+      "id": "308B6A8B06A1442CB83A05E39887FF1B",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.7c",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solving exponential equations, including using\nlogarithms.",
+      "comments": [],
+      "ancestorIds": [
+        "02C6DDAFE060415C99C1C84E51FF2828",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "02C6DDAFE060415C99C1C84E51FF2828"
+    },
+    "20F3B1ABCC6C412E8CACD37E9E5B98EF": {
+      "id": "20F3B1ABCC6C412E8CACD37E9E5B98EF",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.7b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Change of base of a logarithm.\nlogax =\nlogbx\nlogba\n, for a, b, x > 0",
+      "comments": [],
+      "ancestorIds": [
+        "02C6DDAFE060415C99C1C84E51FF2828",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "02C6DDAFE060415C99C1C84E51FF2828"
+    },
+    "C6C77878E9494DCCBD748BD6D779E502": {
+      "id": "C6C77878E9494DCCBD748BD6D779E502",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.7a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Laws of logarithms.\nlogaxy = logax + logay\nloga\nx\ny\n= logax − logay logax\nm = mlogax\nfor a, x, y > 0",
+      "comments": [],
+      "ancestorIds": [
+        "02C6DDAFE060415C99C1C84E51FF2828",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "02C6DDAFE060415C99C1C84E51FF2828"
+    },
+    "02C6DDAFE060415C99C1C84E51FF2828": {
+      "id": "02C6DDAFE060415C99C1C84E51FF2828",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "1.7",
+      "statementNotation": "SL.1.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Laws of exponents with rational exponents.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "BBA047F39FAA41F68798BEAD13380A3B": {
+      "id": "BBA047F39FAA41F68798BEAD13380A3B",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "1.6",
+      "statementNotation": "SL1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Simple deductive proof, numerical and algebraic;\nhow to lay out a left-hand side to right-hand side\n(LHS to RHS) proof.\nThe symbols and notation for equality and identity.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "18CDDFAF18E6405AA3188FA7B7EB453C": {
+      "id": "18CDDFAF18E6405AA3188FA7B7EB453C",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.5a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Introduction to logarithms with base 10 and e.\nNumerical evaluation of logarithms using\ntechnology.",
+      "comments": [],
+      "ancestorIds": [
+        "F980FFFB0C6E46CDBB32E9808FA7B896",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "F980FFFB0C6E46CDBB32E9808FA7B896"
+    },
+    "F980FFFB0C6E46CDBB32E9808FA7B896": {
+      "id": "F980FFFB0C6E46CDBB32E9808FA7B896",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1.5",
+      "statementNotation": "SL.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Laws of exponents with integer exponents.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "F1923FE42672476899CC7AEBB952B58A": {
+      "id": "F1923FE42672476899CC7AEBB952B58A",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "1.4",
+      "statementNotation": "SL1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Financial applications of geometric sequences and\nseries:\n• compound interest\n• annual depreciation.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "EB61D614CC574B478BB461917BE31E4D": {
+      "id": "EB61D614CC574B478BB461917BE31E4D",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.3a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applications. Examples include the spread of disease, salary\nincrease and decrease and population growth.",
+      "comments": [],
+      "ancestorIds": [
+        "E1DD36F9A1CE4DD89D79A7AB5CECB8E8",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E1DD36F9A1CE4DD89D79A7AB5CECB8E8"
+    },
+    "E1DD36F9A1CE4DD89D79A7AB5CECB8E8": {
+      "id": "E1DD36F9A1CE4DD89D79A7AB5CECB8E8",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "1.3",
+      "statementNotation": "SL.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Geometric sequences and series.\nUse of the formulae for the n th term and the sum of\nthe first n terms of the sequence. Use of sigma notation for the sums of geometric\nsequences.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "FEF82A86CF7E447ABF38E8462C82E248": {
+      "id": "FEF82A86CF7E447ABF38E8462C82E248",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.2.b",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analysis, interpretation and prediction where a\nmodel is not perfectly arithmetic in real life. Students will need to approximate common\ndifferences.",
+      "comments": [],
+      "ancestorIds": [
+        "86014843C747485086D59ADE68F058A4",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "86014843C747485086D59ADE68F058A4"
+    },
+    "9E92FDA738F64DCB9E246DA02F9A9329": {
+      "id": "9E92FDA738F64DCB9E246DA02F9A9329",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 3,
+      "listId": "",
+      "statementNotation": "SL 1.2.a",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applications. Examples include simple interest over a number of\n\nyears.",
+      "comments": [],
+      "ancestorIds": [
+        "86014843C747485086D59ADE68F058A4",
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "86014843C747485086D59ADE68F058A4"
+    },
+    "86014843C747485086D59ADE68F058A4": {
+      "id": "86014843C747485086D59ADE68F058A4",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1.2",
+      "statementNotation": "SL.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Arithmetic sequences and series.\nUse of the formulae for the nth term and the sum of\n\nthe first n terms of the sequence.\nUse of sigma notation for sums of arithmetic\nsequences.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "F29AB85AF8204E85B50E7B4E4D9295FD": {
+      "id": "F29AB85AF8204E85B50E7B4E4D9295FD",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1.1",
+      "statementNotation": "SL.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Operations with numbers in the form a × 10k\nwhere\n\n1 ≤ a < 10 and k is an integer.",
+      "comments": [],
+      "ancestorIds": [
+        "E920A2104D4E47439F2A9A39C2E6112B",
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "E920A2104D4E47439F2A9A39C2E6112B"
+    },
+    "E920A2104D4E47439F2A9A39C2E6112B": {
+      "id": "E920A2104D4E47439F2A9A39C2E6112B",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Standard Level",
+      "comments": [],
+      "ancestorIds": [
+        "513058B53E7B462CAB24385277EBECD1"
+      ],
+      "parentId": "513058B53E7B462CAB24385277EBECD1"
+    },
+    "513058B53E7B462CAB24385277EBECD1": {
+      "id": "513058B53E7B462CAB24385277EBECD1",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "Topic 1 ",
+      "statementNotation": "",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Number and algebra",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

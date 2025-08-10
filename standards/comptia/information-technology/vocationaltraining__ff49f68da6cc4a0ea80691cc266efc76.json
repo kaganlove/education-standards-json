@@ -1,0 +1,3136 @@
+{
+  "id": "FF49F68DA6CC4A0EA80691CC266EFC76",
+  "title": "IT Fundamentals",
+  "subject": "Information Technology",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "VocationalTraining"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "CompTIA IT Fundamentals EXAM CODE FCO-U61",
+    "sourceURL": "https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/fc0-u61_objectives.pdf?sfvrsn=4319a636_10"
+  },
+  "jurisdiction": {
+    "id": "EB75643AF771445DA283A0C2923EF630",
+    "title": "Computing Technology Industry Association"
+  },
+  "standards": {
+    "FEF0BD115B854772A8AE93ECC3998CFD": {
+      "id": "FEF0BD115B854772A8AE93ECC3998CFD",
+      "asnIdentifier": null,
+      "position": 185000,
+      "depth": 2,
+      "listId": "6.7.4",
+      "statementNotation": "ITF6.7.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Disaster recovery (Data restoration, Prioritization, Restoring access)",
+      "comments": [],
+      "ancestorIds": [
+        "36A1CF480F9546FFADC29A064A96F6E7",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "36A1CF480F9546FFADC29A064A96F6E7"
+    },
+    "F57FC06CFA1D49FC9019285550E6ACFA": {
+      "id": "F57FC06CFA1D49FC9019285550E6ACFA",
+      "asnIdentifier": null,
+      "position": 184000,
+      "depth": 2,
+      "listId": "6.7.3",
+      "statementNotation": "ITF6.7.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Backup considerations—location [Stored locally, Cloud storage, On-site vs. off-site]",
+      "comments": [],
+      "ancestorIds": [
+        "36A1CF480F9546FFADC29A064A96F6E7",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "36A1CF480F9546FFADC29A064A96F6E7"
+    },
+    "051064AC1FB54E1F9D0A1D96F12F83B1": {
+      "id": "051064AC1FB54E1F9D0A1D96F12F83B1",
+      "asnIdentifier": null,
+      "position": 183000,
+      "depth": 2,
+      "listId": "6.7.2",
+      "statementNotation": "ITF6.7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Backup considerations—data [File backups, Critical data, Database, OS backups]",
+      "comments": [],
+      "ancestorIds": [
+        "36A1CF480F9546FFADC29A064A96F6E7",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "36A1CF480F9546FFADC29A064A96F6E7"
+    },
+    "DF1E1C92630B4276BB18666788475C91": {
+      "id": "DF1E1C92630B4276BB18666788475C91",
+      "asnIdentifier": null,
+      "position": 182000,
+      "depth": 2,
+      "listId": "6.7.1",
+      "statementNotation": "ITF6.7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fault tolerance (Replication, Redundancy [Data, Network, Power], Contingency plan) ",
+      "comments": [],
+      "ancestorIds": [
+        "36A1CF480F9546FFADC29A064A96F6E7",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "36A1CF480F9546FFADC29A064A96F6E7"
+    },
+    "36A1CF480F9546FFADC29A064A96F6E7": {
+      "id": "36A1CF480F9546FFADC29A064A96F6E7",
+      "asnIdentifier": null,
+      "position": 181000,
+      "depth": 1,
+      "listId": "6.7",
+      "statementNotation": "ITF6.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain business continuity concepts",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "EC9C275DB5ED465BAD24AF5B31B1CA30": {
+      "id": "EC9C275DB5ED465BAD24AF5B31B1CA30",
+      "asnIdentifier": null,
+      "position": 180000,
+      "depth": 2,
+      "listId": "6.6.3",
+      "statementNotation": "ITF6.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data in transit (Email, HTTPS, VPN, Mobile application)",
+      "comments": [],
+      "ancestorIds": [
+        "1D74276E837346849C87B78D03CD1265",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "1D74276E837346849C87B78D03CD1265"
+    },
+    "F4DC7612C63A44898ACE94FE5CE5DED8": {
+      "id": "F4DC7612C63A44898ACE94FE5CE5DED8",
+      "asnIdentifier": null,
+      "position": 179000,
+      "depth": 2,
+      "listId": "6.6.2",
+      "statementNotation": "ITF6.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data at rest (File level, Disk level, Mobile device)",
+      "comments": [],
+      "ancestorIds": [
+        "1D74276E837346849C87B78D03CD1265",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "1D74276E837346849C87B78D03CD1265"
+    },
+    "39F74553B7F545F08F170F02C1FFF651": {
+      "id": "39F74553B7F545F08F170F02C1FFF651",
+      "asnIdentifier": null,
+      "position": 178000,
+      "depth": 2,
+      "listId": "6.6.1",
+      "statementNotation": "ITF6.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Plain text vs. cipher text",
+      "comments": [],
+      "ancestorIds": [
+        "1D74276E837346849C87B78D03CD1265",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "1D74276E837346849C87B78D03CD1265"
+    },
+    "1D74276E837346849C87B78D03CD1265": {
+      "id": "1D74276E837346849C87B78D03CD1265",
+      "asnIdentifier": null,
+      "position": 177000,
+      "depth": 1,
+      "listId": "6.6",
+      "statementNotation": "ITF6.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain common uses of encryption",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "CD4957F1130C44EF9EA0D9D01C8EABB4": {
+      "id": "CD4957F1130C44EF9EA0D9D01C8EABB4",
+      "asnIdentifier": null,
+      "position": 176000,
+      "depth": 2,
+      "listId": "6.5.7",
+      "statementNotation": "ITF6.5.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password reset process",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "F417BA16E0374FD1A22A119C4C2C9119": {
+      "id": "F417BA16E0374FD1A22A119C4C2C9119",
+      "asnIdentifier": null,
+      "position": 175000,
+      "depth": 2,
+      "listId": "6.5.6",
+      "statementNotation": "ITF6.5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password managers",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "66377891102D458DBCCB559C9EB3C8FE": {
+      "id": "66377891102D458DBCCB559C9EB3C8FE",
+      "asnIdentifier": null,
+      "position": 174000,
+      "depth": 2,
+      "listId": "6.5.5",
+      "statementNotation": "ITF6.5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password reuse across sites",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "E1274B801CFD4C56B4014676039303A1": {
+      "id": "E1274B801CFD4C56B4014676039303A1",
+      "asnIdentifier": null,
+      "position": 173000,
+      "depth": 2,
+      "listId": "6.5.4",
+      "statementNotation": "ITF6.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password expiration",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "D0D959760F5F4ABEB34804ED77EFAE82": {
+      "id": "D0D959760F5F4ABEB34804ED77EFAE82",
+      "asnIdentifier": null,
+      "position": 172000,
+      "depth": 2,
+      "listId": "6.5.3",
+      "statementNotation": "ITF6.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password history",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "352C404E04004D8CA862AE6DA9B8C39A": {
+      "id": "352C404E04004D8CA862AE6DA9B8C39A",
+      "asnIdentifier": null,
+      "position": 171000,
+      "depth": 2,
+      "listId": "6.5.2",
+      "statementNotation": "ITF6.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password complexity",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "A481BF90707545E597CDD4187917FCD0": {
+      "id": "A481BF90707545E597CDD4187917FCD0",
+      "asnIdentifier": null,
+      "position": 170000,
+      "depth": 2,
+      "listId": "6.5.1",
+      "statementNotation": "ITF6.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Password length",
+      "comments": [],
+      "ancestorIds": [
+        "8C004A02BA4444DB98C80F26DBA83441",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "8C004A02BA4444DB98C80F26DBA83441"
+    },
+    "8C004A02BA4444DB98C80F26DBA83441": {
+      "id": "8C004A02BA4444DB98C80F26DBA83441",
+      "asnIdentifier": null,
+      "position": 169000,
+      "depth": 1,
+      "listId": "6.5",
+      "statementNotation": "ITF6.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain password best practices",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "636DC3B53757432089303877DF6F4301": {
+      "id": "636DC3B53757432089303877DF6F4301",
+      "asnIdentifier": null,
+      "position": 168000,
+      "depth": 2,
+      "listId": "6.4.4",
+      "statementNotation": "ITF6.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Non-repudiation (Video, Biometrics, Signature, Receipt)",
+      "comments": [],
+      "ancestorIds": [
+        "386105C0CE684A1D9F2F01B8CC59984A",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "386105C0CE684A1D9F2F01B8CC59984A"
+    },
+    "7CA38D83460746FEAF6C33085C43B539": {
+      "id": "7CA38D83460746FEAF6C33085C43B539",
+      "asnIdentifier": null,
+      "position": 167000,
+      "depth": 2,
+      "listId": "6.4.3",
+      "statementNotation": "ITF6.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Accounting (Logs, Tracking, Web browser history)",
+      "comments": [],
+      "ancestorIds": [
+        "386105C0CE684A1D9F2F01B8CC59984A",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "386105C0CE684A1D9F2F01B8CC59984A"
+    },
+    "D8EBE2604DC8487FA66CC149CB89B3DA": {
+      "id": "D8EBE2604DC8487FA66CC149CB89B3DA",
+      "asnIdentifier": null,
+      "position": 166000,
+      "depth": 2,
+      "listId": "6.4.2",
+      "statementNotation": "ITF6.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Authorization (Permissions, Least privilege model, Role-based access [User account types], Rule-based access, Mandatory access controls, Discretionary access controls)",
+      "comments": [],
+      "ancestorIds": [
+        "386105C0CE684A1D9F2F01B8CC59984A",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "386105C0CE684A1D9F2F01B8CC59984A"
+    },
+    "DEBEB02082D54C879B2539D58F523F13": {
+      "id": "DEBEB02082D54C879B2539D58F523F13",
+      "asnIdentifier": null,
+      "position": 165000,
+      "depth": 2,
+      "listId": "6.4.1",
+      "statementNotation": "ITF6.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Authentication (Single factor, Multifactor, Examples of factors [Password, PIN, One-time password, Software token, Hardware token, Biometrics, Specific location, Security questions], Single sign-on)",
+      "comments": [],
+      "ancestorIds": [
+        "386105C0CE684A1D9F2F01B8CC59984A",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "386105C0CE684A1D9F2F01B8CC59984A"
+    },
+    "386105C0CE684A1D9F2F01B8CC59984A": {
+      "id": "386105C0CE684A1D9F2F01B8CC59984A",
+      "asnIdentifier": null,
+      "position": 164000,
+      "depth": 1,
+      "listId": "6.4",
+      "statementNotation": "ITF6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast authentication, authorization, accounting, and non-repudiation concepts",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "B601F761532847F284BE7D048C21EEB2": {
+      "id": "B601F761532847F284BE7D048C21EEB2",
+      "asnIdentifier": null,
+      "position": 163000,
+      "depth": 2,
+      "listId": "6.3.3",
+      "statementNotation": "ITF6.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Handling of confidential information (Passwords, Personal information, Customer information, Company confidential information)",
+      "comments": [],
+      "ancestorIds": [
+        "7BAA3EDF0F5C453B8C93B36AE5058442",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "7BAA3EDF0F5C453B8C93B36AE5058442"
+    },
+    "77588822F1A94B279A6434744314EF63": {
+      "id": "77588822F1A94B279A6434744314EF63",
+      "asnIdentifier": null,
+      "position": 162000,
+      "depth": 2,
+      "listId": "6.3.2",
+      "statementNotation": "ITF6.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Written policies and procedures",
+      "comments": [],
+      "ancestorIds": [
+        "7BAA3EDF0F5C453B8C93B36AE5058442",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "7BAA3EDF0F5C453B8C93B36AE5058442"
+    },
+    "EE5F924EDD6E408987DB4345143988F5": {
+      "id": "EE5F924EDD6E408987DB4345143988F5",
+      "asnIdentifier": null,
+      "position": 161000,
+      "depth": 2,
+      "listId": "6.3.1",
+      "statementNotation": "ITF6.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Expectations of privacy when using: (The Internet [Social networking sites, Email, File sharing, Instant messaging], Mobile applications, Desktop software, Business software, Corporate network)",
+      "comments": [],
+      "ancestorIds": [
+        "7BAA3EDF0F5C453B8C93B36AE5058442",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "7BAA3EDF0F5C453B8C93B36AE5058442"
+    },
+    "7BAA3EDF0F5C453B8C93B36AE5058442": {
+      "id": "7BAA3EDF0F5C453B8C93B36AE5058442",
+      "asnIdentifier": null,
+      "position": 160000,
+      "depth": 1,
+      "listId": "6.3",
+      "statementNotation": "ITF6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize behavioral security concepts",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "F3D5AF036A9B45FAA578F5227A98985C": {
+      "id": "F3D5AF036A9B45FAA578F5227A98985C",
+      "asnIdentifier": null,
+      "position": 159000,
+      "depth": 2,
+      "listId": "6.2.2",
+      "statementNotation": "ITF6.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Device use best practices (Software sources, Validating legitimate sources, Researching legitimate sources, OEM websites vs. third-party websites, Removal of unwanted software, Removal of unnecessary software, Removal of malicious software)",
+      "comments": [],
+      "ancestorIds": [
+        "10462A3C58184CF9A6BE824D1C87FB1C",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "10462A3C58184CF9A6BE824D1C87FB1C"
+    },
+    "F09D4FE81DDC4D90A7C31C685E30F02A": {
+      "id": "F09D4FE81DDC4D90A7C31C685E30F02A",
+      "asnIdentifier": null,
+      "position": 158000,
+      "depth": 2,
+      "listId": "6.2.1",
+      "statementNotation": "ITF6.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Securing devices (mobile/workstation) (Anti-virus/Anti-malware, Changing default passwords, Enabling passwords, Patching/updates)",
+      "comments": [],
+      "ancestorIds": [
+        "10462A3C58184CF9A6BE824D1C87FB1C",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "10462A3C58184CF9A6BE824D1C87FB1C"
+    },
+    "10462A3C58184CF9A6BE824D1C87FB1C": {
+      "id": "10462A3C58184CF9A6BE824D1C87FB1C",
+      "asnIdentifier": null,
+      "position": 157000,
+      "depth": 1,
+      "listId": "6.2",
+      "statementNotation": "ITF6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain methods to secure devices and best practices",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "966CBABE8CB64D308E1ACCFD7B19D2CA": {
+      "id": "966CBABE8CB64D308E1ACCFD7B19D2CA",
+      "asnIdentifier": null,
+      "position": 156000,
+      "depth": 2,
+      "listId": "6.1.3",
+      "statementNotation": "ITF6.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Availability concerns (Denial of service, Power outage, Hardware failure, Destruction, Service outage)",
+      "comments": [],
+      "ancestorIds": [
+        "D671E27599EF4C81988C177C501C3EE9",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "D671E27599EF4C81988C177C501C3EE9"
+    },
+    "797C1EBEBE194A719EE6A0E48149901B": {
+      "id": "797C1EBEBE194A719EE6A0E48149901B",
+      "asnIdentifier": null,
+      "position": 155000,
+      "depth": 2,
+      "listId": "6.1.2",
+      "statementNotation": "ITF6.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Integrity concerns (Man-in-the-Middle, Replay attack, Impersonation, Unauthorized information alteration)",
+      "comments": [],
+      "ancestorIds": [
+        "D671E27599EF4C81988C177C501C3EE9",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "D671E27599EF4C81988C177C501C3EE9"
+    },
+    "29F5100D8E154BB5A4AD3585AEAE6EA0": {
+      "id": "29F5100D8E154BB5A4AD3585AEAE6EA0",
+      "asnIdentifier": null,
+      "position": 154000,
+      "depth": 2,
+      "listId": "6.1.1",
+      "statementNotation": "ITF6.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Confidentiality concerns (Snooping, Eavesdropping, Wiretapping, Social engineering, Dumpster diving)",
+      "comments": [],
+      "ancestorIds": [
+        "D671E27599EF4C81988C177C501C3EE9",
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "D671E27599EF4C81988C177C501C3EE9"
+    },
+    "D671E27599EF4C81988C177C501C3EE9": {
+      "id": "D671E27599EF4C81988C177C501C3EE9",
+      "asnIdentifier": null,
+      "position": 153000,
+      "depth": 1,
+      "listId": "6.1",
+      "statementNotation": "ITF6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize confidentiality, integrity, and availability concerns",
+      "comments": [],
+      "ancestorIds": [
+        "339D3A4721364791B403EAF607A7ADFD"
+      ],
+      "parentId": "339D3A4721364791B403EAF607A7ADFD"
+    },
+    "339D3A4721364791B403EAF607A7ADFD": {
+      "id": "339D3A4721364791B403EAF607A7ADFD",
+      "asnIdentifier": null,
+      "position": 152000,
+      "depth": 0,
+      "listId": "6.0",
+      "statementNotation": "ITF6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Security",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "81221BB6A12244D0B6D5987686A024F5": {
+      "id": "81221BB6A12244D0B6D5987686A024F5",
+      "asnIdentifier": null,
+      "position": 151000,
+      "depth": 2,
+      "listId": "5.3.3",
+      "statementNotation": "ITF5.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Export/import (Database dump, Backup)",
+      "comments": [],
+      "ancestorIds": [
+        "144C01DAABD24ED787DC817E14AF202A",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "144C01DAABD24ED787DC817E14AF202A"
+    },
+    "81FAD0A2FF3849718AA9E1BF349E839F": {
+      "id": "81FAD0A2FF3849718AA9E1BF349E839F",
+      "asnIdentifier": null,
+      "position": 150000,
+      "depth": 2,
+      "listId": "5.3.2",
+      "statementNotation": "ITF5.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Database access methods (Direct/manual access, Programmatic access • User interface/utility access, Query/report builders)",
+      "comments": [],
+      "ancestorIds": [
+        "144C01DAABD24ED787DC817E14AF202A",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "144C01DAABD24ED787DC817E14AF202A"
+    },
+    "F06F6E13DE974FFE8FB9D5E2F70A1644": {
+      "id": "F06F6E13DE974FFE8FB9D5E2F70A1644",
+      "asnIdentifier": null,
+      "position": 149000,
+      "depth": 2,
+      "listId": "5.3.1",
+      "statementNotation": "ITF5.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Relational methods (Data manipulation [Select, Insert, Delete, Update], Data definition [Create, Alter, Drop, Permissions])",
+      "comments": [],
+      "ancestorIds": [
+        "144C01DAABD24ED787DC817E14AF202A",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "144C01DAABD24ED787DC817E14AF202A"
+    },
+    "144C01DAABD24ED787DC817E14AF202A": {
+      "id": "144C01DAABD24ED787DC817E14AF202A",
+      "asnIdentifier": null,
+      "position": 148000,
+      "depth": 1,
+      "listId": "5.3",
+      "statementNotation": "ITF5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Summarize methods used to interface with databases",
+      "comments": [],
+      "ancestorIds": [
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+    },
+    "4310B82408764BEB89C91850B0049422": {
+      "id": "4310B82408764BEB89C91850B0049422",
+      "asnIdentifier": null,
+      "position": 147000,
+      "depth": 2,
+      "listId": "5.2.3",
+      "statementNotation": "ITF5.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Non-relational databases (Key/value databases, Document databases)",
+      "comments": [],
+      "ancestorIds": [
+        "F6890764AB33431B8859934EA7C3EEBB",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F6890764AB33431B8859934EA7C3EEBB"
+    },
+    "306059832B534297873E0599574598DB": {
+      "id": "306059832B534297873E0599574598DB",
+      "asnIdentifier": null,
+      "position": 146000,
+      "depth": 2,
+      "listId": "5.2.2",
+      "statementNotation": "ITF5.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Relational databases (Schema, Tables, Rows/records, Fields/columns, Primary key, Foreign key, Constraints)",
+      "comments": [],
+      "ancestorIds": [
+        "F6890764AB33431B8859934EA7C3EEBB",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F6890764AB33431B8859934EA7C3EEBB"
+    },
+    "9523E293573E4DE79721C9686BB09A99": {
+      "id": "9523E293573E4DE79721C9686BB09A99",
+      "asnIdentifier": null,
+      "position": 145000,
+      "depth": 2,
+      "listId": "5.2.1",
+      "statementNotation": "ITF5.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Structured vs. semi-structured vs. non-structured",
+      "comments": [],
+      "ancestorIds": [
+        "F6890764AB33431B8859934EA7C3EEBB",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F6890764AB33431B8859934EA7C3EEBB"
+    },
+    "F6890764AB33431B8859934EA7C3EEBB": {
+      "id": "F6890764AB33431B8859934EA7C3EEBB",
+      "asnIdentifier": null,
+      "position": 144000,
+      "depth": 1,
+      "listId": "5.2",
+      "statementNotation": "ITF5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast various database structures",
+      "comments": [],
+      "ancestorIds": [
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+    },
+    "F89BCDA5B7314DE595ED9478BDDF0060": {
+      "id": "F89BCDA5B7314DE595ED9478BDDF0060",
+      "asnIdentifier": null,
+      "position": 143000,
+      "depth": 2,
+      "listId": "5.1.4",
+      "statementNotation": "ITF5.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage (Data persistence)",
+      "comments": [],
+      "ancestorIds": [
+        "F5C8F75F4BF04C5EB517923A70FF6EC6",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F5C8F75F4BF04C5EB517923A70FF6EC6"
+    },
+    "85CA0EA862D74835A8278B0C35E49184": {
+      "id": "85CA0EA862D74835A8278B0C35E49184",
+      "asnIdentifier": null,
+      "position": 142000,
+      "depth": 2,
+      "listId": "5.1.3",
+      "statementNotation": "ITF5.1.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Records",
+      "comments": [],
+      "ancestorIds": [
+        "F5C8F75F4BF04C5EB517923A70FF6EC6",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F5C8F75F4BF04C5EB517923A70FF6EC6"
+    },
+    "C7BCA03A25B7470AA038919AE4CA34C9": {
+      "id": "C7BCA03A25B7470AA038919AE4CA34C9",
+      "asnIdentifier": null,
+      "position": 141000,
+      "depth": 2,
+      "listId": "5.1.2",
+      "statementNotation": "ITF5.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Flat file vs. database (Multiple concurrent users, Scalability, Speed, Variety of data)",
+      "comments": [],
+      "ancestorIds": [
+        "F5C8F75F4BF04C5EB517923A70FF6EC6",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F5C8F75F4BF04C5EB517923A70FF6EC6"
+    },
+    "BCD0F23413F8481B8621CF3D0ACCF7EE": {
+      "id": "BCD0F23413F8481B8621CF3D0ACCF7EE",
+      "asnIdentifier": null,
+      "position": 140000,
+      "depth": 2,
+      "listId": "5.1.1",
+      "statementNotation": "ITF5.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Usage of database (Create, Import/input, Query, Reports)",
+      "comments": [],
+      "ancestorIds": [
+        "F5C8F75F4BF04C5EB517923A70FF6EC6",
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "F5C8F75F4BF04C5EB517923A70FF6EC6"
+    },
+    "F5C8F75F4BF04C5EB517923A70FF6EC6": {
+      "id": "F5C8F75F4BF04C5EB517923A70FF6EC6",
+      "asnIdentifier": null,
+      "position": 139000,
+      "depth": 1,
+      "listId": "5.",
+      "statementNotation": "ITF5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain database concepts and the purpose of a database",
+      "comments": [],
+      "ancestorIds": [
+        "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+      ],
+      "parentId": "CF4DE2877CBB4E31B832AB0F7CF0A8A6"
+    },
+    "CF4DE2877CBB4E31B832AB0F7CF0A8A6": {
+      "id": "CF4DE2877CBB4E31B832AB0F7CF0A8A6",
+      "asnIdentifier": null,
+      "position": 138000,
+      "depth": 0,
+      "listId": "5.0",
+      "statementNotation": "ITF5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Database Fundamentals",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "C47A9FB3072945448358BB2B1F712128": {
+      "id": "C47A9FB3072945448358BB2B1F712128",
+      "asnIdentifier": null,
+      "position": 137000,
+      "depth": 2,
+      "listId": "4.3.4",
+      "statementNotation": "ITF4.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Objects (Properties, Attributes, Methods)",
+      "comments": [],
+      "ancestorIds": [
+        "BD07C3B478864AF48627B08F4B092B81",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "BD07C3B478864AF48627B08F4B092B81"
+    },
+    "6A84CE203E41464E9E6A606CA460EF8E": {
+      "id": "6A84CE203E41464E9E6A606CA460EF8E",
+      "asnIdentifier": null,
+      "position": 136000,
+      "depth": 2,
+      "listId": "4.3.3",
+      "statementNotation": "ITF4.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Functions ",
+      "comments": [],
+      "ancestorIds": [
+        "BD07C3B478864AF48627B08F4B092B81",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "BD07C3B478864AF48627B08F4B092B81"
+    },
+    "6132C220B9ED4B7C9FD14E8678747219": {
+      "id": "6132C220B9ED4B7C9FD14E8678747219",
+      "asnIdentifier": null,
+      "position": 135000,
+      "depth": 2,
+      "listId": "4.3.2",
+      "statementNotation": "ITF4.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Containers (Arrays, Vectors)",
+      "comments": [],
+      "ancestorIds": [
+        "BD07C3B478864AF48627B08F4B092B81",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "BD07C3B478864AF48627B08F4B092B81"
+    },
+    "CD04B7EB3A2D447488945A0A86609DF7": {
+      "id": "CD04B7EB3A2D447488945A0A86609DF7",
+      "asnIdentifier": null,
+      "position": 134000,
+      "depth": 2,
+      "listId": "4.3.1",
+      "statementNotation": "ITF4.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identifiers (Variables, Constants)",
+      "comments": [],
+      "ancestorIds": [
+        "BD07C3B478864AF48627B08F4B092B81",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "BD07C3B478864AF48627B08F4B092B81"
+    },
+    "BD07C3B478864AF48627B08F4B092B81": {
+      "id": "BD07C3B478864AF48627B08F4B092B81",
+      "asnIdentifier": null,
+      "position": 133000,
+      "depth": 1,
+      "listId": "4.3",
+      "statementNotation": "ITF4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose and use of programming concepts",
+      "comments": [],
+      "ancestorIds": [
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "5A8248F8556B4BF0A01344F9D6202C2F"
+    },
+    "4A2D6212FEFA47029E8CD6D5839190A9": {
+      "id": "4A2D6212FEFA47029E8CD6D5839190A9",
+      "asnIdentifier": null,
+      "position": 132000,
+      "depth": 2,
+      "listId": "4.2.2",
+      "statementNotation": "ITF4.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Logic components (Branching, Looping)",
+      "comments": [],
+      "ancestorIds": [
+        "435C921B447A452BA14FAD779326A3D6",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "435C921B447A452BA14FAD779326A3D6"
+    },
+    "57A10BD5083546E6A496ED0CC40DE804": {
+      "id": "57A10BD5083546E6A496ED0CC40DE804",
+      "asnIdentifier": null,
+      "position": 131000,
+      "depth": 2,
+      "listId": "4.2.1",
+      "statementNotation": "ITF4.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Organizational techniques (Pseudocode concepts, Flow chart concepts, Sequence)",
+      "comments": [],
+      "ancestorIds": [
+        "435C921B447A452BA14FAD779326A3D6",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "435C921B447A452BA14FAD779326A3D6"
+    },
+    "435C921B447A452BA14FAD779326A3D6": {
+      "id": "435C921B447A452BA14FAD779326A3D6",
+      "asnIdentifier": null,
+      "position": 130000,
+      "depth": 1,
+      "listId": "4.2",
+      "statementNotation": "ITF4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, use programming organizational techniques and interpret logic",
+      "comments": [],
+      "ancestorIds": [
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "5A8248F8556B4BF0A01344F9D6202C2F"
+    },
+    "4C319D25C6E84262A77F7F6C4C5219D3": {
+      "id": "4C319D25C6E84262A77F7F6C4C5219D3",
+      "asnIdentifier": null,
+      "position": 129000,
+      "depth": 2,
+      "listId": "4.1.4",
+      "statementNotation": "ITF4.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Assembly language",
+      "comments": [],
+      "ancestorIds": [
+        "88682BBDEE3D40B094857916E9A06CAB",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "88682BBDEE3D40B094857916E9A06CAB"
+    },
+    "818318EDAF674E9796470A37B3ACC646": {
+      "id": "818318EDAF674E9796470A37B3ACC646",
+      "asnIdentifier": null,
+      "position": 128000,
+      "depth": 2,
+      "listId": "4.1.3",
+      "statementNotation": "ITF4.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Query languages",
+      "comments": [],
+      "ancestorIds": [
+        "88682BBDEE3D40B094857916E9A06CAB",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "88682BBDEE3D40B094857916E9A06CAB"
+    },
+    "E163319198C949E3B40355A8CD703236": {
+      "id": "E163319198C949E3B40355A8CD703236",
+      "asnIdentifier": null,
+      "position": 127000,
+      "depth": 2,
+      "listId": "4.1.2",
+      "statementNotation": "ITF4.1.",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compiled programming languages",
+      "comments": [],
+      "ancestorIds": [
+        "88682BBDEE3D40B094857916E9A06CAB",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "88682BBDEE3D40B094857916E9A06CAB"
+    },
+    "3C72F070B41241B19F3015F0E9D3B7D5": {
+      "id": "3C72F070B41241B19F3015F0E9D3B7D5",
+      "asnIdentifier": null,
+      "position": 126000,
+      "depth": 2,
+      "listId": "4.1.1",
+      "statementNotation": "ITF4.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpreted (Scripting languages, Scripted languages, Markup languages)",
+      "comments": [],
+      "ancestorIds": [
+        "88682BBDEE3D40B094857916E9A06CAB",
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "88682BBDEE3D40B094857916E9A06CAB"
+    },
+    "88682BBDEE3D40B094857916E9A06CAB": {
+      "id": "88682BBDEE3D40B094857916E9A06CAB",
+      "asnIdentifier": null,
+      "position": 125000,
+      "depth": 1,
+      "listId": "4.1",
+      "statementNotation": "ITF4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast programming language categories",
+      "comments": [],
+      "ancestorIds": [
+        "5A8248F8556B4BF0A01344F9D6202C2F"
+      ],
+      "parentId": "5A8248F8556B4BF0A01344F9D6202C2F"
+    },
+    "5A8248F8556B4BF0A01344F9D6202C2F": {
+      "id": "5A8248F8556B4BF0A01344F9D6202C2F",
+      "asnIdentifier": null,
+      "position": 124000,
+      "depth": 0,
+      "listId": "4.0",
+      "statementNotation": "ITF4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software Development Concepts",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0CEA4AAB82CE41D99178F5F06CBB793C": {
+      "id": "0CEA4AAB82CE41D99178F5F06CBB793C",
+      "asnIdentifier": null,
+      "position": 123000,
+      "depth": 2,
+      "listId": "3.6.4",
+      "statementNotation": "ITF3.6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Software installation best practices (Reading instructions, Reading agreements, Advanced options)",
+      "comments": [],
+      "ancestorIds": [
+        "FC430414E48F4B9C97921F64E6420A9D",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "FC430414E48F4B9C97921F64E6420A9D"
+    },
+    "E573FFDC39D84C26A5B056B1DE48A984": {
+      "id": "E573FFDC39D84C26A5B056B1DE48A984",
+      "asnIdentifier": null,
+      "position": 122000,
+      "depth": 2,
+      "listId": "3.6.3",
+      "statementNotation": "ITF3.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Licensing (Single use, Group use/site license, Concurrent license, Open source vs. proprietary, Subscription vs. one-time purchase, Product keys and serial numbers)",
+      "comments": [],
+      "ancestorIds": [
+        "FC430414E48F4B9C97921F64E6420A9D",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "FC430414E48F4B9C97921F64E6420A9D"
+    },
+    "32D83825AA8348E0B795BB068514E68D": {
+      "id": "32D83825AA8348E0B795BB068514E68D",
+      "asnIdentifier": null,
+      "position": 121000,
+      "depth": 2,
+      "listId": "3.6.2",
+      "statementNotation": "ITF3.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cross-platform software (Compatibility concerns)",
+      "comments": [],
+      "ancestorIds": [
+        "FC430414E48F4B9C97921F64E6420A9D",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "FC430414E48F4B9C97921F64E6420A9D"
+    },
+    "8E153C45DC3740C8829742AEFE64E59F": {
+      "id": "8E153C45DC3740C8829742AEFE64E59F",
+      "asnIdentifier": null,
+      "position": 120000,
+      "depth": 2,
+      "listId": "3.6.1",
+      "statementNotation": "ITF3.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Single-platform software",
+      "comments": [],
+      "ancestorIds": [
+        "FC430414E48F4B9C97921F64E6420A9D",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "FC430414E48F4B9C97921F64E6420A9D"
+    },
+    "FC430414E48F4B9C97921F64E6420A9D": {
+      "id": "FC430414E48F4B9C97921F64E6420A9D",
+      "asnIdentifier": null,
+      "position": 119000,
+      "depth": 1,
+      "listId": "3.6",
+      "statementNotation": "ITF3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast general application concepts and uses",
+      "comments": [],
+      "ancestorIds": [
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "EF7E1FC62CD24A1A8F605749CF2137D7"
+    },
+    "51C0F501EC304E75A277073E05B8F038": {
+      "id": "51C0F501EC304E75A277073E05B8F038",
+      "asnIdentifier": null,
+      "position": 118000,
+      "depth": 2,
+      "listId": "3.5.9",
+      "statementNotation": "ITF3.5.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compatible browser for application(s)",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "1E4B4F11C7324D479268D112F7598C38": {
+      "id": "1E4B4F11C7324D479268D112F7598C38",
+      "asnIdentifier": null,
+      "position": 117000,
+      "depth": 2,
+      "listId": "3.5.8",
+      "statementNotation": "ITF3.5.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Script blockers",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "5FC1F416C89E4DAFAD8EA93CB34BA196": {
+      "id": "5FC1F416C89E4DAFAD8EA93CB34BA196",
+      "asnIdentifier": null,
+      "position": 116000,
+      "depth": 2,
+      "listId": "3.5.7",
+      "statementNotation": "ITF3.5.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Popup blockers",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "DB2913B5D6714A308FC46A9972235078": {
+      "id": "DB2913B5D6714A308FC46A9972235078",
+      "asnIdentifier": null,
+      "position": 115000,
+      "depth": 2,
+      "listId": "3.5.6",
+      "statementNotation": "ITF3.5.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Certificates (Valid, Invalid)",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "0A88901025CB4D5AA9394C12462CE180": {
+      "id": "0A88901025CB4D5AA9394C12462CE180",
+      "asnIdentifier": null,
+      "position": 114000,
+      "depth": 2,
+      "listId": "3.5.5",
+      "statementNotation": "ITF3.5.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Proxy settings",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "3A73DE369FA54228923733877DEB582F": {
+      "id": "3A73DE369FA54228923733877DEB582F",
+      "asnIdentifier": null,
+      "position": 113000,
+      "depth": 2,
+      "listId": "3.5.4",
+      "statementNotation": "ITF3.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Private browsing",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "BCD674100BAD4C4C8E05AF4B244DEF38": {
+      "id": "BCD674100BAD4C4C8E05AF4B244DEF38",
+      "asnIdentifier": null,
+      "position": 112000,
+      "depth": 2,
+      "listId": "3.5.3",
+      "statementNotation": "ITF3.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Browser add-ons/extensions (Add, Remove, Enable/disable)",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "296CFED61D2B4BA2A9D6B2CE5DFB9804": {
+      "id": "296CFED61D2B4BA2A9D6B2CE5DFB9804",
+      "asnIdentifier": null,
+      "position": 111000,
+      "depth": 2,
+      "listId": "3.5.2",
+      "statementNotation": "ITF3.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Deactivate client-side scripting",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "45C49F8EAC9948D9BB75D491BCC79864": {
+      "id": "45C49F8EAC9948D9BB75D491BCC79864",
+      "asnIdentifier": null,
+      "position": 110000,
+      "depth": 2,
+      "listId": "3.5.1",
+      "statementNotation": "ITF3.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Caching/clearing cache",
+      "comments": [],
+      "ancestorIds": [
+        "0A87D146ADC644829953D16391897F07",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "0A87D146ADC644829953D16391897F07"
+    },
+    "0A87D146ADC644829953D16391897F07": {
+      "id": "0A87D146ADC644829953D16391897F07",
+      "asnIdentifier": null,
+      "position": 109000,
+      "depth": 1,
+      "listId": "3.5",
+      "statementNotation": "ITF3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, configure and use web browsers",
+      "comments": [],
+      "ancestorIds": [
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "EF7E1FC62CD24A1A8F605749CF2137D7"
+    },
+    "6B4E4834154447149CADA2275E9ADE79": {
+      "id": "6B4E4834154447149CADA2275E9ADE79",
+      "asnIdentifier": null,
+      "position": 108000,
+      "depth": 2,
+      "listId": "3.4.4",
+      "statementNotation": "ITF3.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Application architecture models (One tier, Two tier, Three tier, n-tier)",
+      "comments": [],
+      "ancestorIds": [
+        "6BFA2123C63F46FB8CB1CA5569521C10",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "6BFA2123C63F46FB8CB1CA5569521C10"
+    },
+    "927E1E04131C4E51A25C7CE43AD3C7F4": {
+      "id": "927E1E04131C4E51A25C7CE43AD3C7F4",
+      "asnIdentifier": null,
+      "position": 107000,
+      "depth": 2,
+      "listId": "3.4.3",
+      "statementNotation": "ITF3.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Application delivery methods—Cloud hosted (Internet access required, Service required, Files saved in the cloud)",
+      "comments": [],
+      "ancestorIds": [
+        "6BFA2123C63F46FB8CB1CA5569521C10",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "6BFA2123C63F46FB8CB1CA5569521C10"
+    },
+    "3F27DBDDF5D445D792380C2109ACA1E2": {
+      "id": "3F27DBDDF5D445D792380C2109ACA1E2",
+      "asnIdentifier": null,
+      "position": 106000,
+      "depth": 2,
+      "listId": "3.4.2",
+      "statementNotation": "ITF3.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Application delivery methods—Local network hosted (Network required, Internet access not required)",
+      "comments": [],
+      "ancestorIds": [
+        "6BFA2123C63F46FB8CB1CA5569521C10",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "6BFA2123C63F46FB8CB1CA5569521C10"
+    },
+    "C7D38D36733148CF847D63E0458D7E94": {
+      "id": "C7D38D36733148CF847D63E0458D7E94",
+      "asnIdentifier": null,
+      "position": 105000,
+      "depth": 2,
+      "listId": "3.4.1",
+      "statementNotation": "ITF3.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Application delivery methods—locally installed (Network not required, Application exists locally, Files saved locally)",
+      "comments": [],
+      "ancestorIds": [
+        "6BFA2123C63F46FB8CB1CA5569521C10",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "6BFA2123C63F46FB8CB1CA5569521C10"
+    },
+    "6BFA2123C63F46FB8CB1CA5569521C10": {
+      "id": "6BFA2123C63F46FB8CB1CA5569521C10",
+      "asnIdentifier": null,
+      "position": 104000,
+      "depth": 1,
+      "listId": "3.4",
+      "statementNotation": "ITF3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain methods of application architecture and delivery models",
+      "comments": [],
+      "ancestorIds": [
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "EF7E1FC62CD24A1A8F605749CF2137D7"
+    },
+    "D3F9DC92F15842EF9B9AA2F85247C32E": {
+      "id": "D3F9DC92F15842EF9B9AA2F85247C32E",
+      "asnIdentifier": null,
+      "position": 103000,
+      "depth": 2,
+      "listId": "3.3.3",
+      "statementNotation": "ITF3.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Business software (Database software, Project management software, Business-specific applications, Accounting software)",
+      "comments": [],
+      "ancestorIds": [
+        "809DF20756914773B87E917173009182",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "809DF20756914773B87E917173009182"
+    },
+    "9DB58F55C540482EA9584AAC7A356A4C": {
+      "id": "9DB58F55C540482EA9584AAC7A356A4C",
+      "asnIdentifier": null,
+      "position": 102000,
+      "depth": 2,
+      "listId": "3.3.2",
+      "statementNotation": "ITF3.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Collaboration software (Email client, Conferencing software, Instant messaging software, Online workspace, Document sharing)",
+      "comments": [],
+      "ancestorIds": [
+        "809DF20756914773B87E917173009182",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "809DF20756914773B87E917173009182"
+    },
+    "735A4D3A94F84DAB9CF5A96A16CC3721": {
+      "id": "735A4D3A94F84DAB9CF5A96A16CC3721",
+      "asnIdentifier": null,
+      "position": 101000,
+      "depth": 2,
+      "listId": "3.3.1",
+      "statementNotation": "ITF3.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Productivity software (Word processing software, Spreadsheet software, Presentation software, Web browser, Visual diagramming software)",
+      "comments": [],
+      "ancestorIds": [
+        "809DF20756914773B87E917173009182",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "809DF20756914773B87E917173009182"
+    },
+    "809DF20756914773B87E917173009182": {
+      "id": "809DF20756914773B87E917173009182",
+      "asnIdentifier": null,
+      "position": 100000,
+      "depth": 1,
+      "listId": "3.3",
+      "statementNotation": "ITF3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose and proper use of software",
+      "comments": [],
+      "ancestorIds": [
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "EF7E1FC62CD24A1A8F605749CF2137D7"
+    },
+    "04E07D3EDF2F479DB82486455BA14E01": {
+      "id": "04E07D3EDF2F479DB82486455BA14E01",
+      "asnIdentifier": null,
+      "position": 99000,
+      "depth": 2,
+      "listId": "3.2.8",
+      "statementNotation": "ITF3.2.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interfaces (Console/command line, GUI)",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "CC172B2EB83346979E1CAA5DE41C2783": {
+      "id": "CC172B2EB83346979E1CAA5DE41C2783",
+      "asnIdentifier": null,
+      "position": 98000,
+      "depth": 2,
+      "listId": "3.2.7",
+      "statementNotation": "ITF3.2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Utilities (Task scheduling)",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "DBCDECED46C8433CA8DD6E88703A6A81": {
+      "id": "DBCDECED46C8433CA8DD6E88703A6A81",
+      "asnIdentifier": null,
+      "position": 97000,
+      "depth": 2,
+      "listId": "3.2.6",
+      "statementNotation": "ITF3.2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Drivers",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "71C459CC0BBE4E88800E90D3D393E00E": {
+      "id": "71C459CC0BBE4E88800E90D3D393E00E",
+      "asnIdentifier": null,
+      "position": 96000,
+      "depth": 2,
+      "listId": "3.2.5",
+      "statementNotation": "ITF3.2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Processes",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "76D21A2B5899434D82C407BF071D85BA": {
+      "id": "76D21A2B5899434D82C407BF071D85BA",
+      "asnIdentifier": null,
+      "position": 95000,
+      "depth": 2,
+      "listId": "3.2.4",
+      "statementNotation": "ITF3.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Services",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "A774A9144FC24D68A624B2D943382B67": {
+      "id": "A774A9144FC24D68A624B2D943382B67",
+      "asnIdentifier": null,
+      "position": 94000,
+      "depth": 2,
+      "listId": "3.2.3",
+      "statementNotation": "ITF3.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "File management (Folders/directories, File types and extensions, Permissions)",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "FFE0F0725420486AA6450FB76323E3B4": {
+      "id": "FFE0F0725420486AA6450FB76323E3B4",
+      "asnIdentifier": null,
+      "position": 93000,
+      "depth": 2,
+      "listId": "3.2.2",
+      "statementNotation": "ITF3.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Features (Compression, Encryption, Permissions, Journaling, Limitations, Naming rules)",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "024CE738E0864AFA996170A89D4367D4": {
+      "id": "024CE738E0864AFA996170A89D4367D4",
+      "asnIdentifier": null,
+      "position": 92000,
+      "depth": 2,
+      "listId": "3.2.1",
+      "statementNotation": "ITF3.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "File systems and features (File systems, NTFS, FAT32, HFS, Ext4)",
+      "comments": [],
+      "ancestorIds": [
+        "A6DAE2EAAB824926A5A90C0621DC31E6",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "A6DAE2EAAB824926A5A90C0621DC31E6"
+    },
+    "A6DAE2EAAB824926A5A90C0621DC31E6": {
+      "id": "A6DAE2EAAB824926A5A90C0621DC31E6",
+      "asnIdentifier": null,
+      "position": 91000,
+      "depth": 1,
+      "listId": "3.2",
+      "statementNotation": "ITF3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast components of an operating system",
+      "comments": [],
+      "ancestorIds": [
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "EF7E1FC62CD24A1A8F605749CF2137D7"
+    },
+    "4BC6C88041E94389935EDA795D165562": {
+      "id": "4BC6C88041E94389935EDA795D165562",
+      "asnIdentifier": null,
+      "position": 90000,
+      "depth": 2,
+      "listId": "3.1.8",
+      "statementNotation": "ITF3.1.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Types of OS (Mobile device OS, Workstation OS, Server OS, Embedded OS, Firmware, Hypervisor [Type 1])",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "8C6C589C750241C18ED2BB1D56762D30": {
+      "id": "8C6C589C750241C18ED2BB1D56762D30",
+      "asnIdentifier": null,
+      "position": 89000,
+      "depth": 2,
+      "listId": "3.1.7",
+      "statementNotation": "ITF3.1.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Access control/protection",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "2BAD0A80847F4F0689A4C0349A257218": {
+      "id": "2BAD0A80847F4F0689A4C0349A257218",
+      "asnIdentifier": null,
+      "position": 88000,
+      "depth": 2,
+      "listId": "3.1.6",
+      "statementNotation": "ITF3.1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Device management",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "99E92111FFED4A6F882577259724B85C": {
+      "id": "99E92111FFED4A6F882577259724B85C",
+      "asnIdentifier": null,
+      "position": 87000,
+      "depth": 2,
+      "listId": "3.1.5",
+      "statementNotation": "ITF3.1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Memory management",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "E0BE3F5D3B1A4D6C9B668F199B16602A": {
+      "id": "E0BE3F5D3B1A4D6C9B668F199B16602A",
+      "asnIdentifier": null,
+      "position": 86000,
+      "depth": 2,
+      "listId": "3.1.4",
+      "statementNotation": "ITF3.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Application management",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "B300C7A454D24C7C9FB2D9749E11BDEC": {
+      "id": "B300C7A454D24C7C9FB2D9749E11BDEC",
+      "asnIdentifier": null,
+      "position": 85000,
+      "depth": 2,
+      "listId": "3.1.3",
+      "statementNotation": "ITF3.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Process management/scheduling (Kill process/end task)",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "72D99C4C551C43F89788636E603C61DC": {
+      "id": "72D99C4C551C43F89788636E603C61DC",
+      "asnIdentifier": null,
+      "position": 84000,
+      "depth": 2,
+      "listId": "3.1.2",
+      "statementNotation": "ITF3.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Disk management",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "062E1DFD3F3242DC90636E6805574908": {
+      "id": "062E1DFD3F3242DC90636E6805574908",
+      "asnIdentifier": null,
+      "position": 83000,
+      "depth": 2,
+      "listId": "3.1.1",
+      "statementNotation": "ITF3.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interface between applications and hardware",
+      "comments": [],
+      "ancestorIds": [
+        "E532FFEAE00D42EBAFC5BE982CDED379",
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "E532FFEAE00D42EBAFC5BE982CDED379"
+    },
+    "E532FFEAE00D42EBAFC5BE982CDED379": {
+      "id": "E532FFEAE00D42EBAFC5BE982CDED379",
+      "asnIdentifier": null,
+      "position": 82000,
+      "depth": 1,
+      "listId": "3.1",
+      "statementNotation": "ITF3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of operating systems",
+      "comments": [],
+      "ancestorIds": [
+        "EF7E1FC62CD24A1A8F605749CF2137D7"
+      ],
+      "parentId": "EF7E1FC62CD24A1A8F605749CF2137D7"
+    },
+    "EF7E1FC62CD24A1A8F605749CF2137D7": {
+      "id": "EF7E1FC62CD24A1A8F605749CF2137D7",
+      "asnIdentifier": null,
+      "position": 81000,
+      "depth": 0,
+      "listId": "3.0",
+      "statementNotation": "ITF3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Applications and Software",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "A4AFE9040304416F8A9CED861A718F52": {
+      "id": "A4AFE9040304416F8A9CED861A718F52",
+      "asnIdentifier": null,
+      "position": 80000,
+      "depth": 2,
+      "listId": "2.8.2",
+      "statementNotation": "ITF2.8.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Best practices (Change SSID, Change default password, Encrypted vs. unencrypted [Open, Captive portal, WEP, WPA, WPA2])",
+      "comments": [],
+      "ancestorIds": [
+        "E02C20ED650A4C1A94C256DC3D9F6CF4",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "E02C20ED650A4C1A94C256DC3D9F6CF4"
+    },
+    "9AB678508DAC4802BF82C5D67E0FFCD6": {
+      "id": "9AB678508DAC4802BF82C5D67E0FFCD6",
+      "asnIdentifier": null,
+      "position": 79000,
+      "depth": 2,
+      "listId": "2.8.1",
+      "statementNotation": "ITF2.8.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "802.11a/b/g/n/ac (Older vs. newer standards, Speed limitations, Interference and attenuation factors)",
+      "comments": [],
+      "ancestorIds": [
+        "E02C20ED650A4C1A94C256DC3D9F6CF4",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "E02C20ED650A4C1A94C256DC3D9F6CF4"
+    },
+    "E02C20ED650A4C1A94C256DC3D9F6CF4": {
+      "id": "E02C20ED650A4C1A94C256DC3D9F6CF4",
+      "asnIdentifier": null,
+      "position": 78000,
+      "depth": 1,
+      "listId": "2.8",
+      "statementNotation": "ITF2.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, install, configure and secure a basic wireless network",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "363A00B73C1441F0958AF4B99C26FBD9": {
+      "id": "363A00B73C1441F0958AF4B99C26FBD9",
+      "asnIdentifier": null,
+      "position": 77000,
+      "depth": 2,
+      "listId": "2.7.4",
+      "statementNotation": "ITF2.7.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Devices (Modem, Router, Switch, Access point)",
+      "comments": [],
+      "ancestorIds": [
+        "306CBDD4338D4E89B1353145CF3F661C",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "306CBDD4338D4E89B1353145CF3F661C"
+    },
+    "F31B3FBA82E649A493CE03F5B798BFB6": {
+      "id": "F31B3FBA82E649A493CE03F5B798BFB6",
+      "asnIdentifier": null,
+      "position": 76000,
+      "depth": 2,
+      "listId": "2.7.3",
+      "statementNotation": "ITF2.7.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basic protocols (HTTP/S, POP3, IMAP, SMTP)",
+      "comments": [],
+      "ancestorIds": [
+        "306CBDD4338D4E89B1353145CF3F661C",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "306CBDD4338D4E89B1353145CF3F661C"
+    },
+    "4F6F5BAB236D4685AD05D8F311F7F6DE": {
+      "id": "4F6F5BAB236D4685AD05D8F311F7F6DE",
+      "asnIdentifier": null,
+      "position": 75000,
+      "depth": 2,
+      "listId": "2.7.2",
+      "statementNotation": "ITF2.7.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Device addresses (IP address, MAC address)",
+      "comments": [],
+      "ancestorIds": [
+        "306CBDD4338D4E89B1353145CF3F661C",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "306CBDD4338D4E89B1353145CF3F661C"
+    },
+    "75F5EE9D9E234977AB09B0BCCB58C78E": {
+      "id": "75F5EE9D9E234977AB09B0BCCB58C78E",
+      "asnIdentifier": null,
+      "position": 74000,
+      "depth": 2,
+      "listId": "2.7.1",
+      "statementNotation": "ITF2.7.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Basics of network communication (Basics of packet transmission, DNS, URL-to-IP translation, LAN vs. WAN)",
+      "comments": [],
+      "ancestorIds": [
+        "306CBDD4338D4E89B1353145CF3F661C",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "306CBDD4338D4E89B1353145CF3F661C"
+    },
+    "306CBDD4338D4E89B1353145CF3F661C": {
+      "id": "306CBDD4338D4E89B1353145CF3F661C",
+      "asnIdentifier": null,
+      "position": 73000,
+      "depth": 1,
+      "listId": "2.7",
+      "statementNotation": "ITF2.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain basic networking concepts",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "4658DB65386B4E05B510AB17902A233F": {
+      "id": "4658DB65386B4E05B510AB17902A233F",
+      "asnIdentifier": null,
+      "position": 72000,
+      "depth": 2,
+      "listId": "2.6.7",
+      "statementNotation": "ITF2.6.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "IoT (Home appliances, Home automation devices, Thermostats, Security systems, Modern cars, IP cameras, Streaming media devices, Medical devices)",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "8606DBD7B63A4FF385DA912A6DBF0033": {
+      "id": "8606DBD7B63A4FF385DA912A6DBF0033",
+      "asnIdentifier": null,
+      "position": 71000,
+      "depth": 2,
+      "listId": "2.6.6",
+      "statementNotation": "ITF2.6.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Gaming consoles ",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "BCA93404426D44BE8D7F4B7D3D53B46F": {
+      "id": "BCA93404426D44BE8D7F4B7D3D53B46F",
+      "asnIdentifier": null,
+      "position": 70000,
+      "depth": 2,
+      "listId": "2.6.5",
+      "statementNotation": "ITF2.6.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Servers ",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "78955DBD119E4FE397C0034DC46B677F": {
+      "id": "78955DBD119E4FE397C0034DC46B677F",
+      "asnIdentifier": null,
+      "position": 69000,
+      "depth": 2,
+      "listId": "2.6.4",
+      "statementNotation": "ITF2.6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Workstations ",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "492250BB2E0C4BDCA3DE61D69E40BFB3": {
+      "id": "492250BB2E0C4BDCA3DE61D69E40BFB3",
+      "asnIdentifier": null,
+      "position": 68000,
+      "depth": 2,
+      "listId": "2.6.3",
+      "statementNotation": "ITF2.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Laptops ",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "5D7B409B282748B2AD62ADD081531B9A": {
+      "id": "5D7B409B282748B2AD62ADD081531B9A",
+      "asnIdentifier": null,
+      "position": 67000,
+      "depth": 2,
+      "listId": "2.6.2",
+      "statementNotation": "ITF2.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Tablets",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "744B0DAE38564F918A07F75DC24D20BF": {
+      "id": "744B0DAE38564F918A07F75DC24D20BF",
+      "asnIdentifier": null,
+      "position": 66000,
+      "depth": 2,
+      "listId": "2.6.1",
+      "statementNotation": "ITF2.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Mobile phones",
+      "comments": [],
+      "ancestorIds": [
+        "40600DF5A3464D55BF8A9D0A5639CF36",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "40600DF5A3464D55BF8A9D0A5639CF36"
+    },
+    "40600DF5A3464D55BF8A9D0A5639CF36": {
+      "id": "40600DF5A3464D55BF8A9D0A5639CF36",
+      "asnIdentifier": null,
+      "position": 65000,
+      "depth": 1,
+      "listId": "2.6",
+      "statementNotation": "ITF2.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast common computing devices and their purposes",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "60F7FF1750554C809CA26C0EEC6CFF0B": {
+      "id": "60F7FF1750554C809CA26C0EEC6CFF0B",
+      "asnIdentifier": null,
+      "position": 64000,
+      "depth": 2,
+      "listId": "2.5.4",
+      "statementNotation": "ITF2.5.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cloud storage service",
+      "comments": [],
+      "ancestorIds": [
+        "752848ECC4354DE29A1FE94CB5BC39CE",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "752848ECC4354DE29A1FE94CB5BC39CE"
+    },
+    "86A1D030453C45288AF04F5ECDAE4FFD": {
+      "id": "86A1D030453C45288AF04F5ECDAE4FFD",
+      "asnIdentifier": null,
+      "position": 63000,
+      "depth": 2,
+      "listId": "2.5.3",
+      "statementNotation": "ITF2.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Local network storage types (NAS, File server)",
+      "comments": [],
+      "ancestorIds": [
+        "752848ECC4354DE29A1FE94CB5BC39CE",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "752848ECC4354DE29A1FE94CB5BC39CE"
+    },
+    "6CEFCC40925E49359A3E19DE36F99BAF": {
+      "id": "6CEFCC40925E49359A3E19DE36F99BAF",
+      "asnIdentifier": null,
+      "position": 62000,
+      "depth": 2,
+      "listId": "2.5.2",
+      "statementNotation": "ITF2.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Local storage types (RAM, Hard drive [Solid state vs. spinning disk], Optical, Flash drive)",
+      "comments": [],
+      "ancestorIds": [
+        "752848ECC4354DE29A1FE94CB5BC39CE",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "752848ECC4354DE29A1FE94CB5BC39CE"
+    },
+    "3F12D0C1D5CA4299A8B2D3964EDB0981": {
+      "id": "3F12D0C1D5CA4299A8B2D3964EDB0981",
+      "asnIdentifier": null,
+      "position": 61000,
+      "depth": 2,
+      "listId": "2.5.1",
+      "statementNotation": "ITF2.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Volatile vs. non-volatile",
+      "comments": [],
+      "ancestorIds": [
+        "752848ECC4354DE29A1FE94CB5BC39CE",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "752848ECC4354DE29A1FE94CB5BC39CE"
+    },
+    "752848ECC4354DE29A1FE94CB5BC39CE": {
+      "id": "752848ECC4354DE29A1FE94CB5BC39CE",
+      "asnIdentifier": null,
+      "position": 60000,
+      "depth": 1,
+      "listId": "2.5",
+      "statementNotation": "ITF2.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast storage types",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "1859BDF8FBD24560B1E138DC7AA46C29": {
+      "id": "1859BDF8FBD24560B1E138DC7AA46C29",
+      "asnIdentifier": null,
+      "position": 59000,
+      "depth": 2,
+      "listId": "2.4.4",
+      "statementNotation": "ITF2.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Wireless (Radio frequency, Satellite, Cellular)",
+      "comments": [],
+      "ancestorIds": [
+        "2491C7D986974B9F87ABF751D911785B",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "2491C7D986974B9F87ABF751D911785B"
+    },
+    "660B90EAE2B349AE94E4CAD1072FF5A1": {
+      "id": "660B90EAE2B349AE94E4CAD1072FF5A1",
+      "asnIdentifier": null,
+      "position": 58000,
+      "depth": 2,
+      "listId": "2.4.3",
+      "statementNotation": "ITF2.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "DSL",
+      "comments": [],
+      "ancestorIds": [
+        "2491C7D986974B9F87ABF751D911785B",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "2491C7D986974B9F87ABF751D911785B"
+    },
+    "41B6E4772BC344069E668ED8D289DDDC": {
+      "id": "41B6E4772BC344069E668ED8D289DDDC",
+      "asnIdentifier": null,
+      "position": 57000,
+      "depth": 2,
+      "listId": "2.4.2",
+      "statementNotation": "ITF2.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cable",
+      "comments": [],
+      "ancestorIds": [
+        "2491C7D986974B9F87ABF751D911785B",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "2491C7D986974B9F87ABF751D911785B"
+    },
+    "91B829D0E8214419AA5356D7F5318142": {
+      "id": "91B829D0E8214419AA5356D7F5318142",
+      "asnIdentifier": null,
+      "position": 56000,
+      "depth": 2,
+      "listId": "2.4.1",
+      "statementNotation": "ITF2.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fiber optic",
+      "comments": [],
+      "ancestorIds": [
+        "2491C7D986974B9F87ABF751D911785B",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "2491C7D986974B9F87ABF751D911785B"
+    },
+    "2491C7D986974B9F87ABF751D911785B": {
+      "id": "2491C7D986974B9F87ABF751D911785B",
+      "asnIdentifier": null,
+      "position": 55000,
+      "depth": 1,
+      "listId": "2.4",
+      "statementNotation": "ITF2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast common Internet service types",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "8C2891110F90468CAA75CD6276624209": {
+      "id": "8C2891110F90468CAA75CD6276624209",
+      "asnIdentifier": null,
+      "position": 54000,
+      "depth": 2,
+      "listId": "2.3.10",
+      "statementNotation": "ITF2.3.10",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "NIC (Wired vs. wireless, Onboard vs. add-on card)",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "D6C9E5CF277D4ED3A61F49C9EE72AA34": {
+      "id": "D6C9E5CF277D4ED3A61F49C9EE72AA34",
+      "asnIdentifier": null,
+      "position": 53000,
+      "depth": 2,
+      "listId": "2.3.9",
+      "statementNotation": "ITF2.3.9",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Cooling",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "1D6E44CF77844383BD322306CE3968B8": {
+      "id": "1D6E44CF77844383BD322306CE3968B8",
+      "asnIdentifier": null,
+      "position": 52000,
+      "depth": 2,
+      "listId": "2.3.8",
+      "statementNotation": "ITF2.3.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "GPU",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "B803750B30C343D598443CB0773E124D": {
+      "id": "B803750B30C343D598443CB0773E124D",
+      "asnIdentifier": null,
+      "position": 51000,
+      "depth": 2,
+      "listId": "2.3.7",
+      "statementNotation": "ITF2.3.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage (Hard drive, SSD)",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "C0DFD5C43A7E46559DC7F28D5F99CA85": {
+      "id": "C0DFD5C43A7E46559DC7F28D5F99CA85",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "2.3.6",
+      "statementNotation": "ITF2.3.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "64-bit CPU (Laptop, Workstation, Server)",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "107638FB89C24F6288C341A49E5629AD": {
+      "id": "107638FB89C24F6288C341A49E5629AD",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "2.3.5",
+      "statementNotation": "ITF2.3.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "32-bit CPU (Laptop, Workstation, Server)",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "8AC308658C2D4FCC84840D3FC6C42C73": {
+      "id": "8AC308658C2D4FCC84840D3FC6C42C73",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "2.3.4",
+      "statementNotation": "ITF2.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "ARM CPU (Mobile phone, Tablet)",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "39F279FDC55F4CF088D00D10B13FDEC3": {
+      "id": "39F279FDC55F4CF088D00D10B13FDEC3",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "2.3.3",
+      "statementNotation": "ITF2.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "RAM",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "599F3E57114646F4A694AA4D1544FF13": {
+      "id": "599F3E57114646F4A694AA4D1544FF13",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "2.3.2",
+      "statementNotation": "ITF2.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Firmware/BIOS",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "8F145DF07FCA420F865E4BCA18333562": {
+      "id": "8F145DF07FCA420F865E4BCA18333562",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "2.3.1",
+      "statementNotation": "ITF2.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Motherboard/system board",
+      "comments": [],
+      "ancestorIds": [
+        "B45DB81A42094D8B89EE1E2403F12DAF",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "B45DB81A42094D8B89EE1E2403F12DAF"
+    },
+    "B45DB81A42094D8B89EE1E2403F12DAF": {
+      "id": "B45DB81A42094D8B89EE1E2403F12DAF",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 1,
+      "listId": "2.3",
+      "statementNotation": "ITF2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the purpose of common internal computing components",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "8B606B1A78CB4025AF555270B114762C": {
+      "id": "8B606B1A78CB4025AF555270B114762C",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "2.2.2",
+      "statementNotation": "ITF2.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Installation types (Plug-and-play vs. driver installation, Other required steps, IP-based peripherals, Web-based configuration steps)",
+      "comments": [],
+      "ancestorIds": [
+        "3438B8998ED34EE8BCE791E821DD1D7B",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "3438B8998ED34EE8BCE791E821DD1D7B"
+    },
+    "E6661B499D6A43C385023BC90D26BD8F": {
+      "id": "E6661B499D6A43C385023BC90D26BD8F",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "2.2.1",
+      "statementNotation": "ITF2.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Devices (Printer, Scanner, Keyboard, Mouse, Camera, External Hard Drive, Speakers, Display)",
+      "comments": [],
+      "ancestorIds": [
+        "3438B8998ED34EE8BCE791E821DD1D7B",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "3438B8998ED34EE8BCE791E821DD1D7B"
+    },
+    "3438B8998ED34EE8BCE791E821DD1D7B": {
+      "id": "3438B8998ED34EE8BCE791E821DD1D7B",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 1,
+      "listId": "2.2",
+      "statementNotation": "ITF2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Given a scenario, set up and install common peripheral devices to a laptop/PC",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "F78809A6082045468AEB0F3225AF15AB": {
+      "id": "F78809A6082045468AEB0F3225AF15AB",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "2.1.3",
+      "statementNotation": "ITF2.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Graphic device (VGA, HDMI, DVI, DisplayPort, Mini-DisplayPort)",
+      "comments": [],
+      "ancestorIds": [
+        "93E064BACDB54DBB95CFA1106F735039",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "93E064BACDB54DBB95CFA1106F735039"
+    },
+    "F3D5838066EA43DDA66A18DDA8D31736": {
+      "id": "F3D5838066EA43DDA66A18DDA8D31736",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 2,
+      "listId": "2.1.2",
+      "statementNotation": "ITF2.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Peripheral device (USB, FireWire, Thunderbolt, Bluetooth, RF)",
+      "comments": [],
+      "ancestorIds": [
+        "93E064BACDB54DBB95CFA1106F735039",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "93E064BACDB54DBB95CFA1106F735039"
+    },
+    "FDFEFBFFC0774C7BA9094AFB11940A2B": {
+      "id": "FDFEFBFFC0774C7BA9094AFB11940A2B",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 2,
+      "listId": "2.1.1",
+      "statementNotation": "ITF2.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Networking (Wired [Telephone connector (RJ-11), Ethernet connector (RJ-45)], Wireless [Bluetooth, NFC])",
+      "comments": [],
+      "ancestorIds": [
+        "93E064BACDB54DBB95CFA1106F735039",
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "93E064BACDB54DBB95CFA1106F735039"
+    },
+    "93E064BACDB54DBB95CFA1106F735039": {
+      "id": "93E064BACDB54DBB95CFA1106F735039",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 1,
+      "listId": "2.1",
+      "statementNotation": "ITF2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Classify common types of input/output device interfaces",
+      "comments": [],
+      "ancestorIds": [
+        "D58AF928336E413DB3E8C01E4B68C1BE"
+      ],
+      "parentId": "D58AF928336E413DB3E8C01E4B68C1BE"
+    },
+    "D58AF928336E413DB3E8C01E4B68C1BE": {
+      "id": "D58AF928336E413DB3E8C01E4B68C1BE",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 0,
+      "listId": "2.0",
+      "statementNotation": "ITF2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Infrastructure",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "6D4E9F76FA1B4886898D6354A99F2024": {
+      "id": "6D4E9F76FA1B4886898D6354A99F2024",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "1.6.8",
+      "statementNotation": "ITF1.6.8",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Document findings/lessons learned, actions and outcomes",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "D4D93CB41F274ACEAACF6AB929557915": {
+      "id": "D4D93CB41F274ACEAACF6AB929557915",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "1.6.7",
+      "statementNotation": "ITF1.6.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Verify full system functionality and, if applicable, implement preventive measures",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "D499D6DB9F00461DAA941CE78827BAD7": {
+      "id": "D499D6DB9F00461DAA941CE78827BAD7",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "1.6.6",
+      "statementNotation": "ITF1.6.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Implement the solution or escalate as necessary",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "D6F369DAD3784D3694533489D81C7313": {
+      "id": "D6F369DAD3784D3694533489D81C7313",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "1.6.5",
+      "statementNotation": "ITF1.6.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Establish a plan of action to resolve the problem and identify potential effects",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "53D415DB129E48A7B4FF7EA75D8ACB64": {
+      "id": "53D415DB129E48A7B4FF7EA75D8ACB64",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "1.6.4",
+      "statementNotation": "ITF1.6.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Test the theory to determine the cause (Once the theory is confirmed [confirmed root cause], determine the next steps to resolve the problem, If the theory is not confirmed, establish a new theory or escalate)",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "4C5B2E5354054CDC91751902BB421166": {
+      "id": "4C5B2E5354054CDC91751902BB421166",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "1.6.3",
+      "statementNotation": "ITF1.6.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Establish a theory of probable cause (Question the obvious, Consider multiple approaches, Divide and conquer)",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "72393D75F867449BA51EB06C4AC07CE0": {
+      "id": "72393D75F867449BA51EB06C4AC07CE0",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "1.6.2",
+      "statementNotation": "ITF1.6.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Research knowledge base/Internet, if applicable",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "3C219B84E37345ABAF96C8E15068FA3A": {
+      "id": "3C219B84E37345ABAF96C8E15068FA3A",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "1.6.1",
+      "statementNotation": "ITF1.6.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify the problem (Gather information, Duplicate the problem, if possible, Question users, Identify symptoms, Determine if anything has changed, Approach multiple problems individually)",
+      "comments": [],
+      "ancestorIds": [
+        "FF67768403634DDE91B8F28CCEF9D50F",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "FF67768403634DDE91B8F28CCEF9D50F"
+    },
+    "FF67768403634DDE91B8F28CCEF9D50F": {
+      "id": "FF67768403634DDE91B8F28CCEF9D50F",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 1,
+      "listId": "1.6",
+      "statementNotation": "ITF1.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the troubleshooting methodology",
+      "comments": [],
+      "ancestorIds": [
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "A6FE07C4550349D498EFB0D63E0B5200"
+    },
+    "DDD3C649EBDD491E9EC5FC246B42AD8D": {
+      "id": "DDD3C649EBDD491E9EC5FC246B42AD8D",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "1.5.3",
+      "statementNotation": "ITF1.5.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Processing Speed (MHz, GHz)",
+      "comments": [],
+      "ancestorIds": [
+        "677E23E4CD84449E84F2A017DA3C2418",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "677E23E4CD84449E84F2A017DA3C2418"
+    },
+    "31466E93C1744EF0BB47303EB2262919": {
+      "id": "31466E93C1744EF0BB47303EB2262919",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "1.5.2",
+      "statementNotation": "ITF1.5.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Throughput Unit (bps, Kbps, Mbps, Gbps, Tbps)",
+      "comments": [],
+      "ancestorIds": [
+        "677E23E4CD84449E84F2A017DA3C2418",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "677E23E4CD84449E84F2A017DA3C2418"
+    },
+    "B7E0CDBDA77A4BE09326659D2F830B7F": {
+      "id": "B7E0CDBDA77A4BE09326659D2F830B7F",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 2,
+      "listId": "1.5.1",
+      "statementNotation": "ITF1.5.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage Unit (Bit, Byte, KB, MB, GB, TB, PB)",
+      "comments": [],
+      "ancestorIds": [
+        "677E23E4CD84449E84F2A017DA3C2418",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "677E23E4CD84449E84F2A017DA3C2418"
+    },
+    "677E23E4CD84449E84F2A017DA3C2418": {
+      "id": "677E23E4CD84449E84F2A017DA3C2418",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 1,
+      "listId": "1.5",
+      "statementNotation": "ITF1.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast common units of measure",
+      "comments": [],
+      "ancestorIds": [
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "A6FE07C4550349D498EFB0D63E0B5200"
+    },
+    "09BA479EEDA64DC7945DD7FE51607132": {
+      "id": "09BA479EEDA64DC7945DD7FE51607132",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "1.4.6",
+      "statementNotation": "ITF1.4.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data-driven business decisions (data capture and collection, data correlation, meaningful reporting)",
+      "comments": [],
+      "ancestorIds": [
+        "3073C6BB1B8A459DAB61CA5959AEFFF2",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "3073C6BB1B8A459DAB61CA5959AEFFF2"
+    },
+    "4E55085F41E14E058575E974B47DC28C": {
+      "id": "4E55085F41E14E058575E974B47DC28C",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "1.4.5",
+      "statementNotation": "ITF1.4.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Digital Products",
+      "comments": [],
+      "ancestorIds": [
+        "3073C6BB1B8A459DAB61CA5959AEFFF2",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "3073C6BB1B8A459DAB61CA5959AEFFF2"
+    },
+    "B008561624DC49B8BB38607AAF4E9F98": {
+      "id": "B008561624DC49B8BB38607AAF4E9F98",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "1.4.4",
+      "statementNotation": "ITF1.4.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Intellectual property (trademarks, copyright, patents)",
+      "comments": [],
+      "ancestorIds": [
+        "3073C6BB1B8A459DAB61CA5959AEFFF2",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "3073C6BB1B8A459DAB61CA5959AEFFF2"
+    },
+    "C0AF6598F5B54913B2466328ED56C418": {
+      "id": "C0AF6598F5B54913B2466328ED56C418",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "1.4.3",
+      "statementNotation": "ITF1.4.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Relationship of data to creating information",
+      "comments": [],
+      "ancestorIds": [
+        "3073C6BB1B8A459DAB61CA5959AEFFF2",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "3073C6BB1B8A459DAB61CA5959AEFFF2"
+    },
+    "C789771BEF6C4A7FB2408EA91CB399FF": {
+      "id": "C789771BEF6C4A7FB2408EA91CB399FF",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "1.4.2",
+      "statementNotation": "ITF1.4.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Importance of investing in security",
+      "comments": [],
+      "ancestorIds": [
+        "3073C6BB1B8A459DAB61CA5959AEFFF2",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "3073C6BB1B8A459DAB61CA5959AEFFF2"
+    },
+    "5FCC7F63394C4A7383D1844451967376": {
+      "id": "5FCC7F63394C4A7383D1844451967376",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 2,
+      "listId": "1.4.1",
+      "statementNotation": "ITF1.4.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data and information as assets",
+      "comments": [],
+      "ancestorIds": [
+        "3073C6BB1B8A459DAB61CA5959AEFFF2",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "3073C6BB1B8A459DAB61CA5959AEFFF2"
+    },
+    "3073C6BB1B8A459DAB61CA5959AEFFF2": {
+      "id": "3073C6BB1B8A459DAB61CA5959AEFFF2",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 1,
+      "listId": "1.4",
+      "statementNotation": "ITF1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Explain the value of data and information",
+      "comments": [],
+      "ancestorIds": [
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "A6FE07C4550349D498EFB0D63E0B5200"
+    },
+    "CF1B428AA9644CDC90F208901D03D183": {
+      "id": "CF1B428AA9644CDC90F208901D03D183",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "1.3.4",
+      "statementNotation": "ITF1.3.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Storage",
+      "comments": [],
+      "ancestorIds": [
+        "8F93165C73674F8DB2D081D9BFAC4B90",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8F93165C73674F8DB2D081D9BFAC4B90"
+    },
+    "B274D049AABF4F82871ACCA4DBE06605": {
+      "id": "B274D049AABF4F82871ACCA4DBE06605",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "1.3.3",
+      "statementNotation": "ITF1.3.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Output",
+      "comments": [],
+      "ancestorIds": [
+        "8F93165C73674F8DB2D081D9BFAC4B90",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8F93165C73674F8DB2D081D9BFAC4B90"
+    },
+    "9F21E21729514887B31A6915260FE3C5": {
+      "id": "9F21E21729514887B31A6915260FE3C5",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "1.3.2",
+      "statementNotation": "ITF1.3.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Processing",
+      "comments": [],
+      "ancestorIds": [
+        "8F93165C73674F8DB2D081D9BFAC4B90",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8F93165C73674F8DB2D081D9BFAC4B90"
+    },
+    "C6428887365E4F84AFF7294DEB3C9607": {
+      "id": "C6428887365E4F84AFF7294DEB3C9607",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "1.3.1",
+      "statementNotation": "ITF1.3.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Input",
+      "comments": [],
+      "ancestorIds": [
+        "8F93165C73674F8DB2D081D9BFAC4B90",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8F93165C73674F8DB2D081D9BFAC4B90"
+    },
+    "8F93165C73674F8DB2D081D9BFAC4B90": {
+      "id": "8F93165C73674F8DB2D081D9BFAC4B90",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 1,
+      "listId": "1.3",
+      "statementNotation": "ITF1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Illustrate the basics of computing and processing",
+      "comments": [],
+      "ancestorIds": [
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "A6FE07C4550349D498EFB0D63E0B5200"
+    },
+    "1E62DBFDD8BD4037AF8400B0773E16DA": {
+      "id": "1E62DBFDD8BD4037AF8400B0773E16DA",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1.2.4",
+      "statementNotation": "ITF1.2.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Boolean",
+      "comments": [],
+      "ancestorIds": [
+        "8FC8D89C491D472FB38FAB47D0BE0707",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8FC8D89C491D472FB38FAB47D0BE0707"
+    },
+    "27A2743A708C4AA2A5DCDE33C53A2D33": {
+      "id": "27A2743A708C4AA2A5DCDE33C53A2D33",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 2,
+      "listId": "1.2.3",
+      "statementNotation": "ITF1.2.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Numbers (Integers & Floats)",
+      "comments": [],
+      "ancestorIds": [
+        "8FC8D89C491D472FB38FAB47D0BE0707",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8FC8D89C491D472FB38FAB47D0BE0707"
+    },
+    "E2E2862CC8B6483594A7C0F5676C7864": {
+      "id": "E2E2862CC8B6483594A7C0F5676C7864",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 2,
+      "listId": "1.2.2",
+      "statementNotation": "ITF1.2.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Strings",
+      "comments": [],
+      "ancestorIds": [
+        "8FC8D89C491D472FB38FAB47D0BE0707",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8FC8D89C491D472FB38FAB47D0BE0707"
+    },
+    "71EDC4A288A54BBE88D0D1F95D3A0437": {
+      "id": "71EDC4A288A54BBE88D0D1F95D3A0437",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "1.2.1",
+      "statementNotation": "ITF1.2.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Char",
+      "comments": [],
+      "ancestorIds": [
+        "8FC8D89C491D472FB38FAB47D0BE0707",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "8FC8D89C491D472FB38FAB47D0BE0707"
+    },
+    "8FC8D89C491D472FB38FAB47D0BE0707": {
+      "id": "8FC8D89C491D472FB38FAB47D0BE0707",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 1,
+      "listId": "1.2",
+      "statementNotation": "ITF1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast fundamental data types and their characteristics",
+      "comments": [],
+      "ancestorIds": [
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "A6FE07C4550349D498EFB0D63E0B5200"
+    },
+    "13E24F990FE14644AFAC266942890F8A": {
+      "id": "13E24F990FE14644AFAC266942890F8A",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "1.1.4",
+      "statementNotation": "ITF1.1.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data Representation (ASCII & Unicode)",
+      "comments": [],
+      "ancestorIds": [
+        "AE7EB3DC12A84219895D07877521BF1D",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "AE7EB3DC12A84219895D07877521BF1D"
+    },
+    "A537421BD86C4C53AFA8FC939A9E06C4": {
+      "id": "A537421BD86C4C53AFA8FC939A9E06C4",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "1.1.3",
+      "statementNotation": "ITF1.1.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Decimal",
+      "comments": [],
+      "ancestorIds": [
+        "AE7EB3DC12A84219895D07877521BF1D",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "AE7EB3DC12A84219895D07877521BF1D"
+    },
+    "4D43BDA4C48E442AA6C49833F60E857C": {
+      "id": "4D43BDA4C48E442AA6C49833F60E857C",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1.1.2",
+      "statementNotation": "ITF1.1.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Hexadecimal",
+      "comments": [],
+      "ancestorIds": [
+        "AE7EB3DC12A84219895D07877521BF1D",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "AE7EB3DC12A84219895D07877521BF1D"
+    },
+    "F64A69DF07D14D61A1524DE29A14C8BE": {
+      "id": "F64A69DF07D14D61A1524DE29A14C8BE",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 2,
+      "listId": "1.1.1",
+      "statementNotation": "ITF1.1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Binary",
+      "comments": [],
+      "ancestorIds": [
+        "AE7EB3DC12A84219895D07877521BF1D",
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "AE7EB3DC12A84219895D07877521BF1D"
+    },
+    "AE7EB3DC12A84219895D07877521BF1D": {
+      "id": "AE7EB3DC12A84219895D07877521BF1D",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 1,
+      "listId": "1.1",
+      "statementNotation": "ITF1.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Compare and contrast notational systems",
+      "comments": [],
+      "ancestorIds": [
+        "A6FE07C4550349D498EFB0D63E0B5200"
+      ],
+      "parentId": "A6FE07C4550349D498EFB0D63E0B5200"
+    },
+    "A6FE07C4550349D498EFB0D63E0B5200": {
+      "id": "A6FE07C4550349D498EFB0D63E0B5200",
+      "asnIdentifier": null,
+      "position": 0,
+      "depth": 0,
+      "listId": "1.0",
+      "statementNotation": "ITF1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "IT Concepts and Terminology",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

@@ -1,0 +1,2580 @@
+{
+  "id": "0B99F8BAAE61403B89A16F929CB4416C",
+  "title": "AP Physics C: Electricity and Magnetism",
+  "subject": "AP Physics",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "College Board",
+    "sourceURL": "http://media.collegeboard.com/digitalServices/pdf/ap/ap-physics-c-course-description.pdf"
+  },
+  "jurisdiction": {
+    "id": "0A5FD99233A74D8FA3A74F52E5F6CDEC",
+    "title": "College Board"
+  },
+  "standards": {
+    "0E9EA5303BB14DC3A2F4D8B715FF9974": {
+      "id": "0E9EA5303BB14DC3A2F4D8B715FF9974",
+      "asnIdentifier": null,
+      "position": 5157,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "E.3.a",
+      "statementLabel": null,
+      "description": "Students should be familiar with Maxwell's equations so they can associate each equation with its implications.",
+      "ancestorIds": [
+        "39E2618C76164DF1A97C81919EDB9CA7",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "39E2618C76164DF1A97C81919EDB9CA7"
+    },
+    "39E2618C76164DF1A97C81919EDB9CA7": {
+      "id": "39E2618C76164DF1A97C81919EDB9CA7",
+      "asnIdentifier": null,
+      "position": 5156,
+      "depth": 1,
+      "listId": "3.",
+      "statementNotation": "E.3",
+      "statementLabel": null,
+      "description": "Maxwell's equations",
+      "ancestorIds": [
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "1D2DAE519D7F43E3B387344F2A79871E"
+    },
+    "39FEE8EF929A4BBEA75B3A16C2404244": {
+      "id": "39FEE8EF929A4BBEA75B3A16C2404244",
+      "asnIdentifier": null,
+      "position": 5155,
+      "depth": 3,
+      "listId": "6)",
+      "statementNotation": "E.2.b.6",
+      "statementLabel": null,
+      "description": "Calculate the energy stored in an inductor that has a steady current flowing through it.",
+      "ancestorIds": [
+        "761D845F1946485F9FA7CDB546FC4022",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "761D845F1946485F9FA7CDB546FC4022"
+    },
+    "7C466624797846CA844711ACB2FECD3C": {
+      "id": "7C466624797846CA844711ACB2FECD3C",
+      "asnIdentifier": null,
+      "position": 5154,
+      "depth": 3,
+      "listId": "5)",
+      "statementNotation": "E.2.b.5",
+      "statementLabel": null,
+      "description": "Calculate the rate of change of current in the inductor as a function of time.",
+      "ancestorIds": [
+        "761D845F1946485F9FA7CDB546FC4022",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "761D845F1946485F9FA7CDB546FC4022"
+    },
+    "610FC0E6CC4D432D958310242E492DFC": {
+      "id": "610FC0E6CC4D432D958310242E492DFC",
+      "asnIdentifier": null,
+      "position": 5153,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "E.2.b.4",
+      "statementLabel": null,
+      "description": "Sketch graphs of the current flow through or voltage across the resistors or inductor in a simple series and parallel circuit.",
+      "ancestorIds": [
+        "761D845F1946485F9FA7CDB546FC4022",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "761D845F1946485F9FA7CDB546FC4022"
+    },
+    "412A815906E446419818A0CF88F4E4AF": {
+      "id": "412A815906E446419818A0CF88F4E4AF",
+      "asnIdentifier": null,
+      "position": 5152,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "E.2.b.3",
+      "statementLabel": null,
+      "description": "Calculate the initial transient currents and final steady state currents through any part of a simple series and parallel circuit containing an inductor and one or more resistors.",
+      "ancestorIds": [
+        "761D845F1946485F9FA7CDB546FC4022",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "761D845F1946485F9FA7CDB546FC4022"
+    },
+    "7EEE4D44A74D49B49AB0BE5DF272E1D4": {
+      "id": "7EEE4D44A74D49B49AB0BE5DF272E1D4",
+      "asnIdentifier": null,
+      "position": 5151,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "E.2.b.2",
+      "statementLabel": null,
+      "description": "Solve the differential equation obtained in (1) for the current as a function of time through the battery, using separation of variables.",
+      "ancestorIds": [
+        "761D845F1946485F9FA7CDB546FC4022",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "761D845F1946485F9FA7CDB546FC4022"
+    },
+    "6F3EEADAE5924A4E80213FBE91A76CE4": {
+      "id": "6F3EEADAE5924A4E80213FBE91A76CE4",
+      "asnIdentifier": null,
+      "position": 5150,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "E.2.b.1",
+      "statementLabel": null,
+      "description": "Apply Kirchhoff's rules to a simple LR series circuit to obtain a differential equation for the current as a function of time.",
+      "ancestorIds": [
+        "761D845F1946485F9FA7CDB546FC4022",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "761D845F1946485F9FA7CDB546FC4022"
+    },
+    "761D845F1946485F9FA7CDB546FC4022": {
+      "id": "761D845F1946485F9FA7CDB546FC4022",
+      "asnIdentifier": null,
+      "position": 5149,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "E.2.b",
+      "statementLabel": null,
+      "description": "Students should understand the transient and steady state behavior of DC circuits containing resistors and inductors, so they can:",
+      "ancestorIds": [
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "55AC87D1CF584893A3037013F12F17CC"
+    },
+    "49E2CE33A6F94F128EB3BE828C90B2A3": {
+      "id": "49E2CE33A6F94F128EB3BE828C90B2A3",
+      "asnIdentifier": null,
+      "position": 5148,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "E.2.a.2",
+      "statementLabel": null,
+      "description": "Derive and apply the expression for the self-inductance of a long solenoid.",
+      "ancestorIds": [
+        "F099A58AEC734F749AC1CB7DEC551FF3",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "F099A58AEC734F749AC1CB7DEC551FF3"
+    },
+    "C714BC678B4D491A809C11CD65F75FA0": {
+      "id": "C714BC678B4D491A809C11CD65F75FA0",
+      "asnIdentifier": null,
+      "position": 5147,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "E.2.a.1",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and sense of the emf in an inductor through which a specified changing current is flowing.",
+      "ancestorIds": [
+        "F099A58AEC734F749AC1CB7DEC551FF3",
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "F099A58AEC734F749AC1CB7DEC551FF3"
+    },
+    "F099A58AEC734F749AC1CB7DEC551FF3": {
+      "id": "F099A58AEC734F749AC1CB7DEC551FF3",
+      "asnIdentifier": null,
+      "position": 5146,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "E.2.a",
+      "statementLabel": null,
+      "description": "Students should understand the concept of inductance, so they can:",
+      "ancestorIds": [
+        "55AC87D1CF584893A3037013F12F17CC",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "55AC87D1CF584893A3037013F12F17CC"
+    },
+    "55AC87D1CF584893A3037013F12F17CC": {
+      "id": "55AC87D1CF584893A3037013F12F17CC",
+      "asnIdentifier": null,
+      "position": 5145,
+      "depth": 1,
+      "listId": "2.",
+      "statementNotation": "E.2",
+      "statementLabel": null,
+      "description": "Inductance (including LR and LC circuits)",
+      "ancestorIds": [
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "1D2DAE519D7F43E3B387344F2A79871E"
+    },
+    "008A4BB81A06492D8C4807444F95FF34": {
+      "id": "008A4BB81A06492D8C4807444F95FF34",
+      "asnIdentifier": null,
+      "position": 5144,
+      "depth": 2,
+      "listId": "c)",
+      "statementNotation": "E.1.c",
+      "statementLabel": null,
+      "description": "Students should be able to analyze the forces that act on induced currents so they can determine the mechanical consequences of those forces.",
+      "ancestorIds": [
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "907C1888E09C4ED08AA58E65B7242D8A"
+    },
+    "18276B0AF6424FAFA645D2E82B142875": {
+      "id": "18276B0AF6424FAFA645D2E82B142875",
+      "asnIdentifier": null,
+      "position": 5143,
+      "depth": 4,
+      "listId": "b.",
+      "statementNotation": "E.1.b.2.b",
+      "statementLabel": null,
+      "description": "The magnitude of a related quantity such as magnetic field or area of the loop is a specified non-linear function of time.",
+      "ancestorIds": [
+        "35FC44FE0FE04CF78DEBB4E0110CFD5E",
+        "BB284298F11F423FB66359225364FE52",
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "35FC44FE0FE04CF78DEBB4E0110CFD5E"
+    },
+    "C496E4EC25A0471082AD2D75015E90AF": {
+      "id": "C496E4EC25A0471082AD2D75015E90AF",
+      "asnIdentifier": null,
+      "position": 5142,
+      "depth": 4,
+      "listId": "a.",
+      "statementNotation": "E.1.b.2.a",
+      "statementLabel": null,
+      "description": "The magnitude of a related quantity such as magnetic field or area of the loop is changing at a constant rate.",
+      "ancestorIds": [
+        "35FC44FE0FE04CF78DEBB4E0110CFD5E",
+        "BB284298F11F423FB66359225364FE52",
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "35FC44FE0FE04CF78DEBB4E0110CFD5E"
+    },
+    "35FC44FE0FE04CF78DEBB4E0110CFD5E": {
+      "id": "35FC44FE0FE04CF78DEBB4E0110CFD5E",
+      "asnIdentifier": null,
+      "position": 5141,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "E.1.b.2",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the induced emf and current in a loop of wire or conducting bar under the following conditions.",
+      "ancestorIds": [
+        "BB284298F11F423FB66359225364FE52",
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "BB284298F11F423FB66359225364FE52"
+    },
+    "5DA0F7C1EDCF425DBD3B2413F4C5B1BB": {
+      "id": "5DA0F7C1EDCF425DBD3B2413F4C5B1BB",
+      "asnIdentifier": null,
+      "position": 5140,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "E.1.b.1",
+      "statementLabel": null,
+      "description": "Recognize situations in which changing flux through a loop will cause an induced emf or current in the loop.",
+      "ancestorIds": [
+        "BB284298F11F423FB66359225364FE52",
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "BB284298F11F423FB66359225364FE52"
+    },
+    "BB284298F11F423FB66359225364FE52": {
+      "id": "BB284298F11F423FB66359225364FE52",
+      "asnIdentifier": null,
+      "position": 5139,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "E.1.b",
+      "statementLabel": null,
+      "description": "Students should understand Faraday's law and Lenz's law, so they can:",
+      "ancestorIds": [
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "907C1888E09C4ED08AA58E65B7242D8A"
+    },
+    "3E43E8B76C664E6CAD51C2A2FE258971": {
+      "id": "3E43E8B76C664E6CAD51C2A2FE258971",
+      "asnIdentifier": null,
+      "position": 5138,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "E.1.a.2",
+      "statementLabel": null,
+      "description": "Use integration to calculate the flux of a non-uniform magnetic field, whose magnitude is a function of one coordinate, through a rectangular loop perpendicular to the field.",
+      "ancestorIds": [
+        "90761B4752CA49C59DB8E04EC346F016",
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "90761B4752CA49C59DB8E04EC346F016"
+    },
+    "9BEA22F52F384D8E8F95C24A8EC9E4CF": {
+      "id": "9BEA22F52F384D8E8F95C24A8EC9E4CF",
+      "asnIdentifier": null,
+      "position": 5137,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "E.1.a.1",
+      "statementLabel": null,
+      "description": "Calculate the flux of a uniform magnetic field through a loop of arbitrary orientation.",
+      "ancestorIds": [
+        "90761B4752CA49C59DB8E04EC346F016",
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "90761B4752CA49C59DB8E04EC346F016"
+    },
+    "90761B4752CA49C59DB8E04EC346F016": {
+      "id": "90761B4752CA49C59DB8E04EC346F016",
+      "asnIdentifier": null,
+      "position": 5136,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "E.1.a",
+      "statementLabel": null,
+      "description": "Students should understand the concept of magnetic flux, so they can:",
+      "ancestorIds": [
+        "907C1888E09C4ED08AA58E65B7242D8A",
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "907C1888E09C4ED08AA58E65B7242D8A"
+    },
+    "907C1888E09C4ED08AA58E65B7242D8A": {
+      "id": "907C1888E09C4ED08AA58E65B7242D8A",
+      "asnIdentifier": null,
+      "position": 5135,
+      "depth": 1,
+      "listId": "1.",
+      "statementNotation": "E.1",
+      "statementLabel": null,
+      "description": "Electromagnetic induction (including Faraday's law and Lenz's law)",
+      "ancestorIds": [
+        "1D2DAE519D7F43E3B387344F2A79871E"
+      ],
+      "parentId": "1D2DAE519D7F43E3B387344F2A79871E"
+    },
+    "1D2DAE519D7F43E3B387344F2A79871E": {
+      "id": "1D2DAE519D7F43E3B387344F2A79871E",
+      "asnIdentifier": null,
+      "position": 5134,
+      "depth": 0,
+      "listId": "E.",
+      "statementNotation": "E",
+      "statementLabel": null,
+      "description": "Electromagnetism",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "0AD5D70D6E304F9CB31C1BB91CC37BCB": {
+      "id": "0AD5D70D6E304F9CB31C1BB91CC37BCB",
+      "asnIdentifier": null,
+      "position": 5133,
+      "depth": 2,
+      "listId": "c)",
+      "statementNotation": "D.4.c",
+      "statementLabel": null,
+      "description": "Students should be able to apply the superposition principle so they can determine the magnetic field produced by combinations of the configurations listed above. ",
+      "ancestorIds": [
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "3D2C6B6A96014203A7A093E1A29665D7"
+    },
+    "3B6CC79DCB3B45EDB3FB47C45EA76229": {
+      "id": "3B6CC79DCB3B45EDB3FB47C45EA76229",
+      "asnIdentifier": null,
+      "position": 5132,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "D.4.b.2",
+      "statementLabel": null,
+      "description": "Use Ampere's law, plus symmetry arguments and the right-hand rule, to relate magnetic field strength to current for planar or cylindrical symmetries.",
+      "ancestorIds": [
+        "88F59BC9C1684F20A74F6C4159368B8D",
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "88F59BC9C1684F20A74F6C4159368B8D"
+    },
+    "3E335AC007F24E42A5065814C1862585": {
+      "id": "3E335AC007F24E42A5065814C1862585",
+      "asnIdentifier": null,
+      "position": 5131,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "D.4.b.1",
+      "statementLabel": null,
+      "description": "State the law precisely.",
+      "ancestorIds": [
+        "88F59BC9C1684F20A74F6C4159368B8D",
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "88F59BC9C1684F20A74F6C4159368B8D"
+    },
+    "88F59BC9C1684F20A74F6C4159368B8D": {
+      "id": "88F59BC9C1684F20A74F6C4159368B8D",
+      "asnIdentifier": null,
+      "position": 5130,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "D.4.b",
+      "statementLabel": null,
+      "description": "Students should understand the statement and application of Ampere's law in integral form, so they can:",
+      "ancestorIds": [
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "3D2C6B6A96014203A7A093E1A29665D7"
+    },
+    "4E562945454E4B018F79C8C16B1773F1": {
+      "id": "4E562945454E4B018F79C8C16B1773F1",
+      "asnIdentifier": null,
+      "position": 5129,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "D.4.a.2",
+      "statementLabel": null,
+      "description": "Derive and apply the expression for the magnitude of B on the axis of a circular loop of current.",
+      "ancestorIds": [
+        "AF259A4E678A4CC1B68C715840BBF784",
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "AF259A4E678A4CC1B68C715840BBF784"
+    },
+    "6852FE911F5041DEBB12A3580F8C6B7B": {
+      "id": "6852FE911F5041DEBB12A3580F8C6B7B",
+      "asnIdentifier": null,
+      "position": 5128,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "D.4.a.1",
+      "statementLabel": null,
+      "description": "Deduce the magnitude and direction of the contribution to the magnetic field made by short straight segment of current-carrying wire.",
+      "ancestorIds": [
+        "AF259A4E678A4CC1B68C715840BBF784",
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "AF259A4E678A4CC1B68C715840BBF784"
+    },
+    "AF259A4E678A4CC1B68C715840BBF784": {
+      "id": "AF259A4E678A4CC1B68C715840BBF784",
+      "asnIdentifier": null,
+      "position": 5127,
+      "depth": 2,
+      "listId": "a) ",
+      "statementNotation": "D.4.a",
+      "statementLabel": null,
+      "description": "Students should understand the Biot-Savart law, so they can:",
+      "ancestorIds": [
+        "3D2C6B6A96014203A7A093E1A29665D7",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "3D2C6B6A96014203A7A093E1A29665D7"
+    },
+    "3D2C6B6A96014203A7A093E1A29665D7": {
+      "id": "3D2C6B6A96014203A7A093E1A29665D7",
+      "asnIdentifier": null,
+      "position": 5126,
+      "depth": 1,
+      "listId": "4.",
+      "statementNotation": "D.4",
+      "statementLabel": null,
+      "description": "Biot-Savart law and Ampere's law",
+      "ancestorIds": [
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "A32CF23CBB7F443F98F74F54665EE62B"
+    },
+    "7AE418D3FA484BD29E8F6C79A3B2E5D2": {
+      "id": "7AE418D3FA484BD29E8F6C79A3B2E5D2",
+      "asnIdentifier": null,
+      "position": 5125,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "D.3.a.3",
+      "statementLabel": null,
+      "description": "Calculate the force of attraction or repulsion between two long current-carrying wires.",
+      "ancestorIds": [
+        "89806030AA8D44028A2AE29EE8B273DE",
+        "6D9653956A5F42E9BFA5E42D2A12E85F",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "89806030AA8D44028A2AE29EE8B273DE"
+    },
+    "461CA0BF6B0E4067B706EC396548F506": {
+      "id": "461CA0BF6B0E4067B706EC396548F506",
+      "asnIdentifier": null,
+      "position": 5124,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "D.3.a.2",
+      "statementLabel": null,
+      "description": "Use superposition to determine the magnetic field produced by two long wires.",
+      "ancestorIds": [
+        "89806030AA8D44028A2AE29EE8B273DE",
+        "6D9653956A5F42E9BFA5E42D2A12E85F",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "89806030AA8D44028A2AE29EE8B273DE"
+    },
+    "B5C6D9DF2F1F4AD1A54780CE476F66F6": {
+      "id": "B5C6D9DF2F1F4AD1A54780CE476F66F6",
+      "asnIdentifier": null,
+      "position": 5123,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "D.3.a.1",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the field at a point in the vicinity of such a wire.",
+      "ancestorIds": [
+        "89806030AA8D44028A2AE29EE8B273DE",
+        "6D9653956A5F42E9BFA5E42D2A12E85F",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "89806030AA8D44028A2AE29EE8B273DE"
+    },
+    "89806030AA8D44028A2AE29EE8B273DE": {
+      "id": "89806030AA8D44028A2AE29EE8B273DE",
+      "asnIdentifier": null,
+      "position": 5122,
+      "depth": 2,
+      "listId": "a) ",
+      "statementNotation": "D.3.a",
+      "statementLabel": null,
+      "description": "Students should understand the magnetic field produced by a long straight current-carrying wire, so they can:",
+      "ancestorIds": [
+        "6D9653956A5F42E9BFA5E42D2A12E85F",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "6D9653956A5F42E9BFA5E42D2A12E85F"
+    },
+    "6D9653956A5F42E9BFA5E42D2A12E85F": {
+      "id": "6D9653956A5F42E9BFA5E42D2A12E85F",
+      "asnIdentifier": null,
+      "position": 5121,
+      "depth": 1,
+      "listId": "3.",
+      "statementNotation": "D.3",
+      "statementLabel": null,
+      "description": "Fields of long current-carrying wires",
+      "ancestorIds": [
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "A32CF23CBB7F443F98F74F54665EE62B"
+    },
+    "C38A9BEC0C554CEA97311A0A0B9C33EB": {
+      "id": "C38A9BEC0C554CEA97311A0A0B9C33EB",
+      "asnIdentifier": null,
+      "position": 5120,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "D.2.a.3",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the torque experience by a rectangular loop of wire carrying a current in a magnetic field.",
+      "ancestorIds": [
+        "6831C362666645AF81D67B0B2E159633",
+        "07FECAAACE6A4A54BD49728AC8D14050",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "6831C362666645AF81D67B0B2E159633"
+    },
+    "0BEFD6FA2DB14A73854B594FDE579EFD": {
+      "id": "0BEFD6FA2DB14A73854B594FDE579EFD",
+      "asnIdentifier": null,
+      "position": 5119,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "D.2.a.2",
+      "statementLabel": null,
+      "description": "Indicate the direction of magnetic forces on a current-carrying loop of wire in a magnetic field, and determine how the loop will tend to rotate as a consequence of these forces.",
+      "ancestorIds": [
+        "6831C362666645AF81D67B0B2E159633",
+        "07FECAAACE6A4A54BD49728AC8D14050",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "6831C362666645AF81D67B0B2E159633"
+    },
+    "83876C6C156A47C884E1E4F5188030F5": {
+      "id": "83876C6C156A47C884E1E4F5188030F5",
+      "asnIdentifier": null,
+      "position": 5118,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "D.2.a.1",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the force on a straight segment of current-carrying wire in a uniform magnetic field.",
+      "ancestorIds": [
+        "6831C362666645AF81D67B0B2E159633",
+        "07FECAAACE6A4A54BD49728AC8D14050",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "6831C362666645AF81D67B0B2E159633"
+    },
+    "6831C362666645AF81D67B0B2E159633": {
+      "id": "6831C362666645AF81D67B0B2E159633",
+      "asnIdentifier": null,
+      "position": 5117,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "D.2.a",
+      "statementLabel": null,
+      "description": "Students should understand the force exerted on a current-carrying wire in a magnetic field, so they can:",
+      "ancestorIds": [
+        "07FECAAACE6A4A54BD49728AC8D14050",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "07FECAAACE6A4A54BD49728AC8D14050"
+    },
+    "07FECAAACE6A4A54BD49728AC8D14050": {
+      "id": "07FECAAACE6A4A54BD49728AC8D14050",
+      "asnIdentifier": null,
+      "position": 5116,
+      "depth": 1,
+      "listId": "2.",
+      "statementNotation": "D.2",
+      "statementLabel": null,
+      "description": "Forces on current-carrying wires in magnetic fields",
+      "ancestorIds": [
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "A32CF23CBB7F443F98F74F54665EE62B"
+    },
+    "6E1470297E0641ED962596BD5ED1216F": {
+      "id": "6E1470297E0641ED962596BD5ED1216F",
+      "asnIdentifier": null,
+      "position": 5115,
+      "depth": 3,
+      "listId": "5)",
+      "statementNotation": "D.1.a.5",
+      "statementLabel": null,
+      "description": "Describe under what conditions particles will move with constant velocity through a crossed electric and magnetic fields.",
+      "ancestorIds": [
+        "262DDBE85F4E44F69C32D73C0CE72202",
+        "21786B7AE0A34CC099A1BAD332F1E72B",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "262DDBE85F4E44F69C32D73C0CE72202"
+    },
+    "9EB56AA7A7454EDCA6437C35F0AA4111": {
+      "id": "9EB56AA7A7454EDCA6437C35F0AA4111",
+      "asnIdentifier": null,
+      "position": 5114,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "D.1.a.4",
+      "statementLabel": null,
+      "description": "Derive and apply the formula for the radius of the circular path of a charge that move perpendicular to a uniform magnetic field.",
+      "ancestorIds": [
+        "262DDBE85F4E44F69C32D73C0CE72202",
+        "21786B7AE0A34CC099A1BAD332F1E72B",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "262DDBE85F4E44F69C32D73C0CE72202"
+    },
+    "670B19D203354BE98DB0C2F205A79A27": {
+      "id": "670B19D203354BE98DB0C2F205A79A27",
+      "asnIdentifier": null,
+      "position": 5113,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "D.1.a.3",
+      "statementLabel": null,
+      "description": "Describe the paths of charged particles moving in uniform magnetic fields.",
+      "ancestorIds": [
+        "262DDBE85F4E44F69C32D73C0CE72202",
+        "21786B7AE0A34CC099A1BAD332F1E72B",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "262DDBE85F4E44F69C32D73C0CE72202"
+    },
+    "585E346570BB4B6FB997F38DEF1539C3": {
+      "id": "585E346570BB4B6FB997F38DEF1539C3",
+      "asnIdentifier": null,
+      "position": 5112,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "D.1.a.2",
+      "statementLabel": null,
+      "description": "Deduce the direction of a magnetic field from information about the forces experienced by charged particles moving through that field.",
+      "ancestorIds": [
+        "262DDBE85F4E44F69C32D73C0CE72202",
+        "21786B7AE0A34CC099A1BAD332F1E72B",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "262DDBE85F4E44F69C32D73C0CE72202"
+    },
+    "2EECB0B6DFC14A7483D1CF5B28F76D73": {
+      "id": "2EECB0B6DFC14A7483D1CF5B28F76D73",
+      "asnIdentifier": null,
+      "position": 5111,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "D.1.a.1",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the force in terms of q, v, and B, and explain why the magnetic force can perform no work.",
+      "ancestorIds": [
+        "262DDBE85F4E44F69C32D73C0CE72202",
+        "21786B7AE0A34CC099A1BAD332F1E72B",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "262DDBE85F4E44F69C32D73C0CE72202"
+    },
+    "262DDBE85F4E44F69C32D73C0CE72202": {
+      "id": "262DDBE85F4E44F69C32D73C0CE72202",
+      "asnIdentifier": null,
+      "position": 5110,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "D.1.a",
+      "statementLabel": null,
+      "description": "Students should understand the force experienced by a charged particle in a magnetic field, so they can:",
+      "ancestorIds": [
+        "21786B7AE0A34CC099A1BAD332F1E72B",
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "21786B7AE0A34CC099A1BAD332F1E72B"
+    },
+    "21786B7AE0A34CC099A1BAD332F1E72B": {
+      "id": "21786B7AE0A34CC099A1BAD332F1E72B",
+      "asnIdentifier": null,
+      "position": 5109,
+      "depth": 1,
+      "listId": "1.",
+      "statementNotation": "D.1",
+      "statementLabel": null,
+      "description": "Forces on moving charges in magnetic fields",
+      "ancestorIds": [
+        "A32CF23CBB7F443F98F74F54665EE62B"
+      ],
+      "parentId": "A32CF23CBB7F443F98F74F54665EE62B"
+    },
+    "A32CF23CBB7F443F98F74F54665EE62B": {
+      "id": "A32CF23CBB7F443F98F74F54665EE62B",
+      "asnIdentifier": null,
+      "position": 5108,
+      "depth": 0,
+      "listId": "D.",
+      "statementNotation": "D",
+      "statementLabel": null,
+      "description": "Magnetic Fields",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "769C20DC7A2743AC9DF0CCF2DCFCF484": {
+      "id": "769C20DC7A2743AC9DF0CCF2DCFCF484",
+      "asnIdentifier": null,
+      "position": 5107,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "C.3.b.4",
+      "statementLabel": null,
+      "description": "Analyze the behavior of circuits containing several capacitors and resistors, including analyzing or sketching graphs that correctly indicate how voltages and currents vary with time.",
+      "ancestorIds": [
+        "010821FD3A0644DE849528457003E530",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "010821FD3A0644DE849528457003E530"
+    },
+    "0F61BC410CD44C2D82417B7BEEBE2C4D": {
+      "id": "0F61BC410CD44C2D82417B7BEEBE2C4D",
+      "asnIdentifier": null,
+      "position": 5106,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "C.3.b.3",
+      "statementLabel": null,
+      "description": "Write expressions to describe the time dependence of the stored charge or voltage for the capacitor, or of the current or voltage for the resistor.",
+      "ancestorIds": [
+        "010821FD3A0644DE849528457003E530",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "010821FD3A0644DE849528457003E530"
+    },
+    "A0F148126337475B9A846515F438B8AD": {
+      "id": "A0F148126337475B9A846515F438B8AD",
+      "asnIdentifier": null,
+      "position": 5105,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.3.b.2",
+      "statementLabel": null,
+      "description": "Sketch or identify graphs of stored charge or voltage for the capacitor, or of current or voltage or the resistor, and indicate on the graph the significance of the time constant.",
+      "ancestorIds": [
+        "010821FD3A0644DE849528457003E530",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "010821FD3A0644DE849528457003E530"
+    },
+    "A2C96AC06BE34C67A3C3D749839952F1": {
+      "id": "A2C96AC06BE34C67A3C3D749839952F1",
+      "asnIdentifier": null,
+      "position": 5104,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.3.b.1",
+      "statementLabel": null,
+      "description": "Calculate and interpret the time constant of the circuit.",
+      "ancestorIds": [
+        "010821FD3A0644DE849528457003E530",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "010821FD3A0644DE849528457003E530"
+    },
+    "010821FD3A0644DE849528457003E530": {
+      "id": "010821FD3A0644DE849528457003E530",
+      "asnIdentifier": null,
+      "position": 5103,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "C.3.b",
+      "statementLabel": null,
+      "description": "Students should understand the discharging or charging of a capacitor through a resistor, so they can:",
+      "ancestorIds": [
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "77882B9AED404582B5A7322890CEDDBB"
+    },
+    "8B31459613714F909412B77578123292": {
+      "id": "8B31459613714F909412B77578123292",
+      "asnIdentifier": null,
+      "position": 5102,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "C.3.a.4",
+      "statementLabel": null,
+      "description": "Calculate the voltage or stored charge, under steady-state conditions, for a capacitor connected to a circuit consisting of a battery and resistors.",
+      "ancestorIds": [
+        "5588C75A62DC4D5086FF851C856CBC32",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "5588C75A62DC4D5086FF851C856CBC32"
+    },
+    "EAF86D73345C4E7B9EB613EBE50BAC5D": {
+      "id": "EAF86D73345C4E7B9EB613EBE50BAC5D",
+      "asnIdentifier": null,
+      "position": 5101,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "C.3.a.3",
+      "statementLabel": null,
+      "description": "Determine the ratio of voltages for capacitors connected in series.",
+      "ancestorIds": [
+        "5588C75A62DC4D5086FF851C856CBC32",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "5588C75A62DC4D5086FF851C856CBC32"
+    },
+    "BB31DC35068F4E7FBE5FB283944A64DE": {
+      "id": "BB31DC35068F4E7FBE5FB283944A64DE",
+      "asnIdentifier": null,
+      "position": 5100,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.3.a.2",
+      "statementLabel": null,
+      "description": "Describe how stored charge is divided between capacitors connected in parallel.",
+      "ancestorIds": [
+        "5588C75A62DC4D5086FF851C856CBC32",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "5588C75A62DC4D5086FF851C856CBC32"
+    },
+    "564A2C1E8CD0454F85B14A29A2AF2970": {
+      "id": "564A2C1E8CD0454F85B14A29A2AF2970",
+      "asnIdentifier": null,
+      "position": 5099,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.3.a.1",
+      "statementLabel": null,
+      "description": "Calculate the equivalent capacitance of a series or parallel combination.",
+      "ancestorIds": [
+        "5588C75A62DC4D5086FF851C856CBC32",
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "5588C75A62DC4D5086FF851C856CBC32"
+    },
+    "5588C75A62DC4D5086FF851C856CBC32": {
+      "id": "5588C75A62DC4D5086FF851C856CBC32",
+      "asnIdentifier": null,
+      "position": 5098,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "C.3.a",
+      "statementLabel": null,
+      "description": "Students should understand the t=0 and steady-state behavior of capacitors connected in series or in parallel, so they can:",
+      "ancestorIds": [
+        "77882B9AED404582B5A7322890CEDDBB",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "77882B9AED404582B5A7322890CEDDBB"
+    },
+    "77882B9AED404582B5A7322890CEDDBB": {
+      "id": "77882B9AED404582B5A7322890CEDDBB",
+      "asnIdentifier": null,
+      "position": 5097,
+      "depth": 1,
+      "listId": "3.",
+      "statementNotation": "C.3",
+      "statementLabel": null,
+      "description": "Capacitors in circuits",
+      "ancestorIds": [
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2302B6A5CF1247B28D265C6016198C62"
+    },
+    "E0BE26D8D3CF4520846AB57188F4016E": {
+      "id": "E0BE26D8D3CF4520846AB57188F4016E",
+      "asnIdentifier": null,
+      "position": 5096,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "C.2.d.3",
+      "statementLabel": null,
+      "description": "Assess qualitatively the effect of finite meter resistance on a circuit into which these meters are connected.",
+      "ancestorIds": [
+        "EC2884CAD420425F8DE7D5F3BB0340E0",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "EC2884CAD420425F8DE7D5F3BB0340E0"
+    },
+    "FB46642079B7444EA11A0AB8BC200C50": {
+      "id": "FB46642079B7444EA11A0AB8BC200C50",
+      "asnIdentifier": null,
+      "position": 5095,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.2.d.2",
+      "statementLabel": null,
+      "description": "Identify or show correct methods of connecting meters into circuits in order to measure voltage or current.",
+      "ancestorIds": [
+        "EC2884CAD420425F8DE7D5F3BB0340E0",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "EC2884CAD420425F8DE7D5F3BB0340E0"
+    },
+    "80FAD18F78B14E849FB035B8ACD60C5F": {
+      "id": "80FAD18F78B14E849FB035B8ACD60C5F",
+      "asnIdentifier": null,
+      "position": 5094,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.2.d.1",
+      "statementLabel": null,
+      "description": "State whether the resistance of each is high or low.",
+      "ancestorIds": [
+        "EC2884CAD420425F8DE7D5F3BB0340E0",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "EC2884CAD420425F8DE7D5F3BB0340E0"
+    },
+    "EC2884CAD420425F8DE7D5F3BB0340E0": {
+      "id": "EC2884CAD420425F8DE7D5F3BB0340E0",
+      "asnIdentifier": null,
+      "position": 5094,
+      "depth": 2,
+      "listId": "d)",
+      "statementNotation": "C.2.d",
+      "statementLabel": null,
+      "description": "Students should understand the properties of voltmeters and ammeters, so they can:",
+      "ancestorIds": [
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "65F9FF8A6E6646A595828B784D905C2F"
+    },
+    "BAA482DA91BE49D9814CA53D46E15319": {
+      "id": "BAA482DA91BE49D9814CA53D46E15319",
+      "asnIdentifier": null,
+      "position": 5093,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.2.c.2",
+      "statementLabel": null,
+      "description": "Set up and solve simultaneous equations to determine two unknown currents .",
+      "ancestorIds": [
+        "2A54D427BE71448087B6E4DA6D28028A",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2A54D427BE71448087B6E4DA6D28028A"
+    },
+    "C798EE15415D4A6B82F2BB297341FF87": {
+      "id": "C798EE15415D4A6B82F2BB297341FF87",
+      "asnIdentifier": null,
+      "position": 5093,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.2.c.1",
+      "statementLabel": null,
+      "description": "Determine a single unknown current, voltage or resistance.",
+      "ancestorIds": [
+        "2A54D427BE71448087B6E4DA6D28028A",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2A54D427BE71448087B6E4DA6D28028A"
+    },
+    "2A54D427BE71448087B6E4DA6D28028A": {
+      "id": "2A54D427BE71448087B6E4DA6D28028A",
+      "asnIdentifier": null,
+      "position": 5092,
+      "depth": 2,
+      "listId": "c)",
+      "statementNotation": "C.2.c",
+      "statementLabel": null,
+      "description": "Students should be able to apply Ohm's law and Kirchhoff's rules to direct-current circuits, in order to:",
+      "ancestorIds": [
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "65F9FF8A6E6646A595828B784D905C2F"
+    },
+    "397345887C094F959EA712DA51511432": {
+      "id": "397345887C094F959EA712DA51511432",
+      "asnIdentifier": null,
+      "position": 5092,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.2.b.2",
+      "statementLabel": null,
+      "description": "Calculate the rate at which a battery is supplying energy to a circuit or is being charged up by a circuit.",
+      "ancestorIds": [
+        "64EF246AD38A464DBD42CBD9120D0F72",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "64EF246AD38A464DBD42CBD9120D0F72"
+    },
+    "BA4E6EA79EFA47F59D5803CC583C9A16": {
+      "id": "BA4E6EA79EFA47F59D5803CC583C9A16",
+      "asnIdentifier": null,
+      "position": 5091,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.2.b.1",
+      "statementLabel": null,
+      "description": "Calculate the terminal voltage of a battery of specified emf and internal resistance from which a known current is flowing.",
+      "ancestorIds": [
+        "64EF246AD38A464DBD42CBD9120D0F72",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "64EF246AD38A464DBD42CBD9120D0F72"
+    },
+    "64EF246AD38A464DBD42CBD9120D0F72": {
+      "id": "64EF246AD38A464DBD42CBD9120D0F72",
+      "asnIdentifier": null,
+      "position": 5090,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "C.2.b",
+      "statementLabel": null,
+      "description": "Students should understand the properties of ideal and real batteries, so they can:",
+      "ancestorIds": [
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "65F9FF8A6E6646A595828B784D905C2F"
+    },
+    "C0853D6255B14F2E85FFAE9B384F9016": {
+      "id": "C0853D6255B14F2E85FFAE9B384F9016",
+      "asnIdentifier": null,
+      "position": 5089,
+      "depth": 3,
+      "listId": "5)",
+      "statementNotation": "C.2.a.5",
+      "statementLabel": null,
+      "description": "Design a simple series-parallel circuit that produced a given current through a potential difference across one specified component, and draw a diagram for the circuit using conventional symbols.",
+      "ancestorIds": [
+        "44186E9EBEBE49FF8A050AF0F9824CE7",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "44186E9EBEBE49FF8A050AF0F9824CE7"
+    },
+    "6DA5FDDEEA6946BEB36ABC8434AF8A6A": {
+      "id": "6DA5FDDEEA6946BEB36ABC8434AF8A6A",
+      "asnIdentifier": null,
+      "position": 5088,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "C.2.a.4",
+      "statementLabel": null,
+      "description": "Calculate the voltage, current and power dissipation for any resistor in such a network of resistors connected to a single power supply.",
+      "ancestorIds": [
+        "44186E9EBEBE49FF8A050AF0F9824CE7",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "44186E9EBEBE49FF8A050AF0F9824CE7"
+    },
+    "B35F13523DC948A6A065BB816BF2CEDD": {
+      "id": "B35F13523DC948A6A065BB816BF2CEDD",
+      "asnIdentifier": null,
+      "position": 5087,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "C.2.a.3",
+      "statementLabel": null,
+      "description": "Calculate the equivalent resistance of a network of resistors that can be broken down into series and parallel combinations.",
+      "ancestorIds": [
+        "44186E9EBEBE49FF8A050AF0F9824CE7",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "44186E9EBEBE49FF8A050AF0F9824CE7"
+    },
+    "5CD7BBA03E8A4727875241EEADC6BBE2": {
+      "id": "5CD7BBA03E8A4727875241EEADC6BBE2",
+      "asnIdentifier": null,
+      "position": 5086,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.2.a.2",
+      "statementLabel": null,
+      "description": "Determine the ratio of the voltages across resistors connected in series or the ratio of the currents through resistors connected in parallel.",
+      "ancestorIds": [
+        "44186E9EBEBE49FF8A050AF0F9824CE7",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "44186E9EBEBE49FF8A050AF0F9824CE7"
+    },
+    "CA6FF06592C54C6B8290B37136E8A2DB": {
+      "id": "CA6FF06592C54C6B8290B37136E8A2DB",
+      "asnIdentifier": null,
+      "position": 5085,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.2.a.1",
+      "statementLabel": null,
+      "description": "Identify on a circuit diagram whether resistors are in series or in parallel.",
+      "ancestorIds": [
+        "44186E9EBEBE49FF8A050AF0F9824CE7",
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "44186E9EBEBE49FF8A050AF0F9824CE7"
+    },
+    "44186E9EBEBE49FF8A050AF0F9824CE7": {
+      "id": "44186E9EBEBE49FF8A050AF0F9824CE7",
+      "asnIdentifier": null,
+      "position": 5084,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "C.2.a",
+      "statementLabel": null,
+      "description": "Students should understand the behavior of series and parallel combinations of resistors, so they can:",
+      "ancestorIds": [
+        "65F9FF8A6E6646A595828B784D905C2F",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "65F9FF8A6E6646A595828B784D905C2F"
+    },
+    "65F9FF8A6E6646A595828B784D905C2F": {
+      "id": "65F9FF8A6E6646A595828B784D905C2F",
+      "asnIdentifier": null,
+      "position": 5083,
+      "depth": 1,
+      "listId": "2.",
+      "statementNotation": "C.2",
+      "statementLabel": null,
+      "description": "Steady-state direct current circuits with batteries and resistors only",
+      "ancestorIds": [
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2302B6A5CF1247B28D265C6016198C62"
+    },
+    "2078B095D80F49179BCFFC68721AF141": {
+      "id": "2078B095D80F49179BCFFC68721AF141",
+      "asnIdentifier": null,
+      "position": 5082,
+      "depth": 3,
+      "listId": "6)",
+      "statementNotation": "C.1.b.6",
+      "statementLabel": null,
+      "description": "Apply the relationships for the rate of heat production in a resistor.",
+      "ancestorIds": [
+        "2E778B61069D4B5FBA9860A898DBE1A7",
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2E778B61069D4B5FBA9860A898DBE1A7"
+    },
+    "D009069D01414096BB0CC5AF8D49E023": {
+      "id": "D009069D01414096BB0CC5AF8D49E023",
+      "asnIdentifier": null,
+      "position": 5081,
+      "depth": 3,
+      "listId": "5)",
+      "statementNotation": "C.1.b.5",
+      "statementLabel": null,
+      "description": "Derive expressions that relate the current, voltage and resistance to the rate at which heat is produced when current passes through a resistor.",
+      "ancestorIds": [
+        "2E778B61069D4B5FBA9860A898DBE1A7",
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2E778B61069D4B5FBA9860A898DBE1A7"
+    },
+    "149B16ADF1E7417CA84C07F9B7A77A70": {
+      "id": "149B16ADF1E7417CA84C07F9B7A77A70",
+      "asnIdentifier": null,
+      "position": 5080,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "C.1.b.4",
+      "statementLabel": null,
+      "description": "Derive an expression for the resistance of a resistor of uniform cross-section in terms of its dimensions and the resistivity of the material from which it is constructed.",
+      "ancestorIds": [
+        "2E778B61069D4B5FBA9860A898DBE1A7",
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2E778B61069D4B5FBA9860A898DBE1A7"
+    },
+    "69A0F00B28EF490C99F1513D09D9B064": {
+      "id": "69A0F00B28EF490C99F1513D09D9B064",
+      "asnIdentifier": null,
+      "position": 5079,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "C.1.b.3",
+      "statementLabel": null,
+      "description": "Describe how the resistance of a resistor depends on its length and cross-sectional area, and apply this result in comparing current flow in resistors of different material or different geometry.",
+      "ancestorIds": [
+        "2E778B61069D4B5FBA9860A898DBE1A7",
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2E778B61069D4B5FBA9860A898DBE1A7"
+    },
+    "00AB1FE00DD547F29EFC79A68CAA0DE3": {
+      "id": "00AB1FE00DD547F29EFC79A68CAA0DE3",
+      "asnIdentifier": null,
+      "position": 5078,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "C.1.b.2",
+      "statementLabel": null,
+      "description": "Write a relationship between electric field strength and current density in a conductor, and describe, in terms of the drift velocity of electrons, why such a relationship is possible.",
+      "ancestorIds": [
+        "2E778B61069D4B5FBA9860A898DBE1A7",
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2E778B61069D4B5FBA9860A898DBE1A7"
+    },
+    "E3CED1FEE16B4F46AE9D95B295FA39DE": {
+      "id": "E3CED1FEE16B4F46AE9D95B295FA39DE",
+      "asnIdentifier": null,
+      "position": 5077,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "C.1.b.1",
+      "statementLabel": null,
+      "description": "Relate current and voltage for a resistor.",
+      "ancestorIds": [
+        "2E778B61069D4B5FBA9860A898DBE1A7",
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2E778B61069D4B5FBA9860A898DBE1A7"
+    },
+    "2E778B61069D4B5FBA9860A898DBE1A7": {
+      "id": "2E778B61069D4B5FBA9860A898DBE1A7",
+      "asnIdentifier": null,
+      "position": 5076,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "C.1.b",
+      "statementLabel": null,
+      "description": "Students should understand conductivity, resistivity and resistance, so they can:",
+      "ancestorIds": [
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "5719DA4927E849F68EAED85AE2163721"
+    },
+    "994B5E1B21AC461490B5621488FA2540": {
+      "id": "994B5E1B21AC461490B5621488FA2540",
+      "asnIdentifier": null,
+      "position": 5075,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "C.1.a",
+      "statementLabel": null,
+      "description": "Students should understand the definition of electric current, so they can relate the magnitude and direction of the current to the rate of flow of positive and negative charge.",
+      "ancestorIds": [
+        "5719DA4927E849F68EAED85AE2163721",
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "5719DA4927E849F68EAED85AE2163721"
+    },
+    "5719DA4927E849F68EAED85AE2163721": {
+      "id": "5719DA4927E849F68EAED85AE2163721",
+      "asnIdentifier": null,
+      "position": 5074,
+      "depth": 1,
+      "listId": "1.",
+      "statementNotation": "C.1",
+      "statementLabel": null,
+      "description": "Current, resistance, power",
+      "ancestorIds": [
+        "2302B6A5CF1247B28D265C6016198C62"
+      ],
+      "parentId": "2302B6A5CF1247B28D265C6016198C62"
+    },
+    "2302B6A5CF1247B28D265C6016198C62": {
+      "id": "2302B6A5CF1247B28D265C6016198C62",
+      "asnIdentifier": null,
+      "position": 5073,
+      "depth": 0,
+      "listId": "C.",
+      "statementNotation": "C",
+      "statementLabel": null,
+      "description": "Electric Circuits",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F1D04A0D53CE4DC4B183F342666F2E55": {
+      "id": "F1D04A0D53CE4DC4B183F342666F2E55",
+      "asnIdentifier": null,
+      "position": 5072,
+      "depth": 3,
+      "listId": "2.",
+      "statementNotation": "B.3.a.2",
+      "statementLabel": null,
+      "description": "Analyze situations in which a dielectric slab is inserted between the plates of a capacitor.",
+      "ancestorIds": [
+        "5D5BB52DC39D473B80BF912A75C618E6",
+        "954B5848D0044307BE2230830F0638A2",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5D5BB52DC39D473B80BF912A75C618E6"
+    },
+    "15F3E7FD11DC4575BD7D9256EEADFF51": {
+      "id": "15F3E7FD11DC4575BD7D9256EEADFF51",
+      "asnIdentifier": null,
+      "position": 5071,
+      "depth": 3,
+      "listId": "1.",
+      "statementNotation": "B.3.a.1",
+      "statementLabel": null,
+      "description": "Describe how the insertion of a dielectric between the plates of a charged parallel-plate capacitor affects its capacitance and the field strength and voltage between the plates.",
+      "ancestorIds": [
+        "5D5BB52DC39D473B80BF912A75C618E6",
+        "954B5848D0044307BE2230830F0638A2",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5D5BB52DC39D473B80BF912A75C618E6"
+    },
+    "5D5BB52DC39D473B80BF912A75C618E6": {
+      "id": "5D5BB52DC39D473B80BF912A75C618E6",
+      "asnIdentifier": null,
+      "position": 5070,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "B.3.a",
+      "statementLabel": null,
+      "description": "Students should understand the behavior of dielectrics, so they can:",
+      "ancestorIds": [
+        "954B5848D0044307BE2230830F0638A2",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "954B5848D0044307BE2230830F0638A2"
+    },
+    "954B5848D0044307BE2230830F0638A2": {
+      "id": "954B5848D0044307BE2230830F0638A2",
+      "asnIdentifier": null,
+      "position": 5069,
+      "depth": 1,
+      "listId": "3.",
+      "statementNotation": "B.3",
+      "statementLabel": null,
+      "description": "Dielectrics",
+      "ancestorIds": [
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "551D70DDB33A4CEEADC3826531E7DDDF"
+    },
+    "73CE0FB7246C4487A0AF42254CA2AC96": {
+      "id": "73CE0FB7246C4487A0AF42254CA2AC96",
+      "asnIdentifier": null,
+      "position": 5068,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "B.2.c.2",
+      "statementLabel": null,
+      "description": "Derive an expression for the capacitance of each.",
+      "ancestorIds": [
+        "5F4CE0BC7F38492FB5A5D33D3A31478C",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5F4CE0BC7F38492FB5A5D33D3A31478C"
+    },
+    "98B4BA19024F42C89A300F678606020F": {
+      "id": "98B4BA19024F42C89A300F678606020F",
+      "asnIdentifier": null,
+      "position": 5067,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "B.2.c.1",
+      "statementLabel": null,
+      "description": "Derive the electric field inside each.",
+      "ancestorIds": [
+        "5F4CE0BC7F38492FB5A5D33D3A31478C",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5F4CE0BC7F38492FB5A5D33D3A31478C"
+    },
+    "5F4CE0BC7F38492FB5A5D33D3A31478C": {
+      "id": "5F4CE0BC7F38492FB5A5D33D3A31478C",
+      "asnIdentifier": null,
+      "position": 5066,
+      "depth": 2,
+      "listId": "c)",
+      "statementNotation": "B.2.c",
+      "statementLabel": null,
+      "description": "Students should understand cylindrical and spherical capacitors, so they can:",
+      "ancestorIds": [
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "905DFC0300DC427FA746F0B5D2A042AA"
+    },
+    "AD84BD017D6547B5A11346ABD7018455": {
+      "id": "AD84BD017D6547B5A11346ABD7018455",
+      "asnIdentifier": null,
+      "position": 5065,
+      "depth": 3,
+      "listId": "6)",
+      "statementNotation": "B.2.b.6",
+      "statementLabel": null,
+      "description": "Analyze situations in which capacitor plates are moved apart or moved closer together, or in which a conducting slab is inserted between capacitor plates, either with a battery connected between the plates or with the charge on the plates held fixed.",
+      "ancestorIds": [
+        "0907E1C3E99443BC8103ACC51B5B5EA1",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "0907E1C3E99443BC8103ACC51B5B5EA1"
+    },
+    "7BF927B65B0C4C5BBF68B3AD08688E75": {
+      "id": "7BF927B65B0C4C5BBF68B3AD08688E75",
+      "asnIdentifier": null,
+      "position": 5064,
+      "depth": 3,
+      "listId": "5)",
+      "statementNotation": "B.2.b.5",
+      "statementLabel": null,
+      "description": "Derive and apply expressions for the energy stored in a parallel-plate capacitor and for the energy density in the field between the plates.",
+      "ancestorIds": [
+        "0907E1C3E99443BC8103ACC51B5B5EA1",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "0907E1C3E99443BC8103ACC51B5B5EA1"
+    },
+    "0CF846701D594AACB697BDAC0AE729C7": {
+      "id": "0CF846701D594AACB697BDAC0AE729C7",
+      "asnIdentifier": null,
+      "position": 5063,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "B.2.b.4",
+      "statementLabel": null,
+      "description": "Determine how changes in dimension will affect the value of the capacitance.",
+      "ancestorIds": [
+        "0907E1C3E99443BC8103ACC51B5B5EA1",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "0907E1C3E99443BC8103ACC51B5B5EA1"
+    },
+    "FDF718427B824C83A2AB0E6F50263E8D": {
+      "id": "FDF718427B824C83A2AB0E6F50263E8D",
+      "asnIdentifier": null,
+      "position": 5062,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "B.2.b.3",
+      "statementLabel": null,
+      "description": "Derive an expression for the capacitance of a parallel-plate capacitor.",
+      "ancestorIds": [
+        "0907E1C3E99443BC8103ACC51B5B5EA1",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "0907E1C3E99443BC8103ACC51B5B5EA1"
+    },
+    "576ADF72500C4FE38FC5DCF013E5B5EF": {
+      "id": "576ADF72500C4FE38FC5DCF013E5B5EF",
+      "asnIdentifier": null,
+      "position": 5061,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "B.2.b.2",
+      "statementLabel": null,
+      "description": "Relate the electric field to the density of charge on the plates.",
+      "ancestorIds": [
+        "0907E1C3E99443BC8103ACC51B5B5EA1",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "0907E1C3E99443BC8103ACC51B5B5EA1"
+    },
+    "B1E6BF1E0F8241BABDC32C0E38235801": {
+      "id": "B1E6BF1E0F8241BABDC32C0E38235801",
+      "asnIdentifier": null,
+      "position": 5060,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "B.2.b.1",
+      "statementLabel": null,
+      "description": "Describe the electric field inside a capacitor, and relate the strength of this field to the potential difference between the plate and the plate separation.",
+      "ancestorIds": [
+        "0907E1C3E99443BC8103ACC51B5B5EA1",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "0907E1C3E99443BC8103ACC51B5B5EA1"
+    },
+    "0907E1C3E99443BC8103ACC51B5B5EA1": {
+      "id": "0907E1C3E99443BC8103ACC51B5B5EA1",
+      "asnIdentifier": null,
+      "position": 5059,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "B.2.b",
+      "statementLabel": null,
+      "description": "Students should understand the physics of the parallel-plate capacitor, so they can:",
+      "ancestorIds": [
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "905DFC0300DC427FA746F0B5D2A042AA"
+    },
+    "DF55EFFD9A194A09A136FDCF3F127E39": {
+      "id": "DF55EFFD9A194A09A136FDCF3F127E39",
+      "asnIdentifier": null,
+      "position": 5058,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "B.2.a.3",
+      "statementLabel": null,
+      "description": "Recognize situations in which energy stored in a capacitor is converted to other forms.",
+      "ancestorIds": [
+        "94178C94755B4DBBA4CA4B19F1C00315",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "94178C94755B4DBBA4CA4B19F1C00315"
+    },
+    "6078BAEE910B43F69F43C2B1E2CA2BD1": {
+      "id": "6078BAEE910B43F69F43C2B1E2CA2BD1",
+      "asnIdentifier": null,
+      "position": 5057,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "B.2.a.2",
+      "statementLabel": null,
+      "description": "Relate voltage, charge and stored energy for a capacitor.",
+      "ancestorIds": [
+        "94178C94755B4DBBA4CA4B19F1C00315",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "94178C94755B4DBBA4CA4B19F1C00315"
+    },
+    "057D78328B43496BBD488DEB3CB3608F": {
+      "id": "057D78328B43496BBD488DEB3CB3608F",
+      "asnIdentifier": null,
+      "position": 5056,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "B.2.a.1",
+      "statementLabel": null,
+      "description": "Relate stored charge and voltage for a capacitor.",
+      "ancestorIds": [
+        "94178C94755B4DBBA4CA4B19F1C00315",
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "94178C94755B4DBBA4CA4B19F1C00315"
+    },
+    "94178C94755B4DBBA4CA4B19F1C00315": {
+      "id": "94178C94755B4DBBA4CA4B19F1C00315",
+      "asnIdentifier": null,
+      "position": 5055,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "B.2.a",
+      "statementLabel": null,
+      "description": "Students should understand the definition and function of capacitance, so they can:",
+      "ancestorIds": [
+        "905DFC0300DC427FA746F0B5D2A042AA",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "905DFC0300DC427FA746F0B5D2A042AA"
+    },
+    "905DFC0300DC427FA746F0B5D2A042AA": {
+      "id": "905DFC0300DC427FA746F0B5D2A042AA",
+      "asnIdentifier": null,
+      "position": 5054,
+      "depth": 1,
+      "listId": "2.",
+      "statementNotation": "B.2",
+      "statementLabel": null,
+      "description": "Capacitors",
+      "ancestorIds": [
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "551D70DDB33A4CEEADC3826531E7DDDF"
+    },
+    "F6BAA07DF0AD42AA8C15B8E42D54C24E": {
+      "id": "F6BAA07DF0AD42AA8C15B8E42D54C24E",
+      "asnIdentifier": null,
+      "position": 5053,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "B.1.c.4",
+      "statementLabel": null,
+      "description": "Explain why the electric field outside a closed conducting surface cannot depend on the precise location of charge in the space enclosed by the conductor, and identify the consequences of this result.",
+      "ancestorIds": [
+        "2A6A42DC83A9431B989CB44475E77B54",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "2A6A42DC83A9431B989CB44475E77B54"
+    },
+    "BBA2B9A7FA4E427CA70A066C7D5E92BF": {
+      "id": "BBA2B9A7FA4E427CA70A066C7D5E92BF",
+      "asnIdentifier": null,
+      "position": 5052,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "B.1.c.3",
+      "statementLabel": null,
+      "description": "Explain why there can be no electric field in a charge-free region completely surrounded by a single conductor, and recognize the consequences of this result.",
+      "ancestorIds": [
+        "2A6A42DC83A9431B989CB44475E77B54",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "2A6A42DC83A9431B989CB44475E77B54"
+    },
+    "7959E1DD279147B58B15FE2F57729558": {
+      "id": "7959E1DD279147B58B15FE2F57729558",
+      "asnIdentifier": null,
+      "position": 5051,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "B.1.c.2",
+      "statementLabel": null,
+      "description": "Explain why a neutral conductor is attracted to a charged object.",
+      "ancestorIds": [
+        "2A6A42DC83A9431B989CB44475E77B54",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "2A6A42DC83A9431B989CB44475E77B54"
+    },
+    "E7B1FCBB32CE465395E14715734CC567": {
+      "id": "E7B1FCBB32CE465395E14715734CC567",
+      "asnIdentifier": null,
+      "position": 5050,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "B.1.c.1",
+      "statementLabel": null,
+      "description": "Describe the process of charging by induction.",
+      "ancestorIds": [
+        "2A6A42DC83A9431B989CB44475E77B54",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "2A6A42DC83A9431B989CB44475E77B54"
+    },
+    "2A6A42DC83A9431B989CB44475E77B54": {
+      "id": "2A6A42DC83A9431B989CB44475E77B54",
+      "asnIdentifier": null,
+      "position": 5049,
+      "depth": 2,
+      "listId": "c)",
+      "statementNotation": "B.1.c",
+      "statementLabel": null,
+      "description": "Students should understand induced charge and electrostatic shielding, so they can:",
+      "ancestorIds": [
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "66976DCE9C1940CB9F5AD8C0D549EA2C"
+    },
+    "5DC03C22CCB44628825B31FAFFDE2748": {
+      "id": "5DC03C22CCB44628825B31FAFFDE2748",
+      "asnIdentifier": null,
+      "position": 5048,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "B.1.b",
+      "statementLabel": null,
+      "description": "Students should be able to describe and sketch a graph of the electric field and potential inside and outside a charged conducting sphere.",
+      "ancestorIds": [
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "66976DCE9C1940CB9F5AD8C0D549EA2C"
+    },
+    "783F647423084F57AB849027D8A003A4": {
+      "id": "783F647423084F57AB849027D8A003A4",
+      "asnIdentifier": null,
+      "position": 5047,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "B.1.a.3",
+      "statementLabel": null,
+      "description": "Show that all excess charge on a conductor must reside on its surface and that the field outside the conductor must be perpendicular to the surface.",
+      "ancestorIds": [
+        "5716FE7F3BDF424B9634EB63E6A41BB6",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5716FE7F3BDF424B9634EB63E6A41BB6"
+    },
+    "4038AD2486594E619BEE4982D8272445": {
+      "id": "4038AD2486594E619BEE4982D8272445",
+      "asnIdentifier": null,
+      "position": 5046,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "B.1.a.2",
+      "statementLabel": null,
+      "description": "Explain why a conductor must be an equipotential, and apply this principle in analyzing what happens when conductors are connected by wires.",
+      "ancestorIds": [
+        "5716FE7F3BDF424B9634EB63E6A41BB6",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5716FE7F3BDF424B9634EB63E6A41BB6"
+    },
+    "FD9D4CCFEA7E4E93A65FF4BFA32D801B": {
+      "id": "FD9D4CCFEA7E4E93A65FF4BFA32D801B",
+      "asnIdentifier": null,
+      "position": 5045,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "B.1.a.1",
+      "statementLabel": null,
+      "description": "Explain the mechanics responsible for the absence of electric field inside a conductor, and know that all excess charge must reside on the surface of the conductor.",
+      "ancestorIds": [
+        "5716FE7F3BDF424B9634EB63E6A41BB6",
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "5716FE7F3BDF424B9634EB63E6A41BB6"
+    },
+    "5716FE7F3BDF424B9634EB63E6A41BB6": {
+      "id": "5716FE7F3BDF424B9634EB63E6A41BB6",
+      "asnIdentifier": null,
+      "position": 5044,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "B.1.a",
+      "statementLabel": null,
+      "description": "Students should understand the nature of electric fields in and around conductors, so they can:",
+      "ancestorIds": [
+        "66976DCE9C1940CB9F5AD8C0D549EA2C",
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "66976DCE9C1940CB9F5AD8C0D549EA2C"
+    },
+    "66976DCE9C1940CB9F5AD8C0D549EA2C": {
+      "id": "66976DCE9C1940CB9F5AD8C0D549EA2C",
+      "asnIdentifier": null,
+      "position": 5043,
+      "depth": 1,
+      "listId": "1.",
+      "statementNotation": "B.1",
+      "statementLabel": null,
+      "description": "Electrostatics with conductors",
+      "ancestorIds": [
+        "551D70DDB33A4CEEADC3826531E7DDDF"
+      ],
+      "parentId": "551D70DDB33A4CEEADC3826531E7DDDF"
+    },
+    "551D70DDB33A4CEEADC3826531E7DDDF": {
+      "id": "551D70DDB33A4CEEADC3826531E7DDDF",
+      "asnIdentifier": null,
+      "position": 5042,
+      "depth": 0,
+      "listId": "B.",
+      "statementNotation": "B",
+      "statementLabel": null,
+      "description": "Conductors, capacitors, dielectrics",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "05C967A13C6F400DACC36EF4ABF323E7": {
+      "id": "05C967A13C6F400DACC36EF4ABF323E7",
+      "asnIdentifier": null,
+      "position": 5041,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "A.4.b.4",
+      "statementLabel": null,
+      "description": "Derive expressions for electric potential as a function of position in the above cases.",
+      "ancestorIds": [
+        "24FC7D5786D24576B4AF0E49FE376876",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "24FC7D5786D24576B4AF0E49FE376876"
+    },
+    "6A6323034AAA45F8B7DD87978F114364": {
+      "id": "6A6323034AAA45F8B7DD87978F114364",
+      "asnIdentifier": null,
+      "position": 5040,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "A.4.b.3",
+      "statementLabel": null,
+      "description": "Use superposition to determine the fields of parallel charged planes, coaxial cylinders or concentric spheres.",
+      "ancestorIds": [
+        "24FC7D5786D24576B4AF0E49FE376876",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "24FC7D5786D24576B4AF0E49FE376876"
+    },
+    "B7518488F65A4D8EB6EE1FB052737E61": {
+      "id": "B7518488F65A4D8EB6EE1FB052737E61",
+      "asnIdentifier": null,
+      "position": 5039,
+      "depth": 4,
+      "listId": "b)",
+      "statementNotation": "A.4.b.2.b",
+      "statementLabel": null,
+      "description": "A long, uniformly-charged wire, or thin cylindrical or spherical shell.",
+      "ancestorIds": [
+        "17F9CA25ABA4428BB221170D6D582C13",
+        "24FC7D5786D24576B4AF0E49FE376876",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "17F9CA25ABA4428BB221170D6D582C13"
+    },
+    "025B6F96911C4652B8FC86F12DED5D48": {
+      "id": "025B6F96911C4652B8FC86F12DED5D48",
+      "asnIdentifier": null,
+      "position": 5038,
+      "depth": 4,
+      "listId": "a)",
+      "statementNotation": "A.4.b.2.a",
+      "statementLabel": null,
+      "description": "Oppositely-charged parallel plates.",
+      "ancestorIds": [
+        "17F9CA25ABA4428BB221170D6D582C13",
+        "24FC7D5786D24576B4AF0E49FE376876",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "17F9CA25ABA4428BB221170D6D582C13"
+    },
+    "17F9CA25ABA4428BB221170D6D582C13": {
+      "id": "17F9CA25ABA4428BB221170D6D582C13",
+      "asnIdentifier": null,
+      "position": 5037,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.4.b.2",
+      "statementLabel": null,
+      "description": "Describe qualitatively the patterns and variation with distance of the electric field of:",
+      "ancestorIds": [
+        "24FC7D5786D24576B4AF0E49FE376876",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "24FC7D5786D24576B4AF0E49FE376876"
+    },
+    "62B9FE63074841AFBC4168BB6F325858": {
+      "id": "62B9FE63074841AFBC4168BB6F325858",
+      "asnIdentifier": null,
+      "position": 5036,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.4.b.1",
+      "statementLabel": null,
+      "description": "Identify situations in which the direction of the electric field produced by a charge distribution can be deduced from symmetry considerations.",
+      "ancestorIds": [
+        "24FC7D5786D24576B4AF0E49FE376876",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "24FC7D5786D24576B4AF0E49FE376876"
+    },
+    "24FC7D5786D24576B4AF0E49FE376876": {
+      "id": "24FC7D5786D24576B4AF0E49FE376876",
+      "asnIdentifier": null,
+      "position": 5035,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "A.4.b",
+      "statementLabel": null,
+      "description": "Students should know the fields of highly symmetric charge distributions, so they can:",
+      "ancestorIds": [
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "045DF5DE03564F03B6FE256E6394281A"
+    },
+    "733157DB6FB3402299B92B3434E5B41B": {
+      "id": "733157DB6FB3402299B92B3434E5B41B",
+      "asnIdentifier": null,
+      "position": 5034,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "A.4.a.3",
+      "statementLabel": null,
+      "description": "The electric potential on the axis of a uniformly charged disk.",
+      "ancestorIds": [
+        "06F342D84A844E3A9FBDF7C6DCE641B6",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "06F342D84A844E3A9FBDF7C6DCE641B6"
+    },
+    "41CE39745B4A4A369236DFD24EC433D5": {
+      "id": "41CE39745B4A4A369236DFD24EC433D5",
+      "asnIdentifier": null,
+      "position": 5033,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.4.a.2",
+      "statementLabel": null,
+      "description": "The electric field and potential on the axis of a thin ring of charge, or at the center of a circular arc of charge.",
+      "ancestorIds": [
+        "06F342D84A844E3A9FBDF7C6DCE641B6",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "06F342D84A844E3A9FBDF7C6DCE641B6"
+    },
+    "CA2B04C2BF1A4FAD8DF55352EDD53711": {
+      "id": "CA2B04C2BF1A4FAD8DF55352EDD53711",
+      "asnIdentifier": null,
+      "position": 5032,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.4.a.1",
+      "statementLabel": null,
+      "description": "The electric field of a straight, uniformly charged wire.",
+      "ancestorIds": [
+        "06F342D84A844E3A9FBDF7C6DCE641B6",
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "06F342D84A844E3A9FBDF7C6DCE641B6"
+    },
+    "06F342D84A844E3A9FBDF7C6DCE641B6": {
+      "id": "06F342D84A844E3A9FBDF7C6DCE641B6",
+      "asnIdentifier": null,
+      "position": 5031,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "A.4.a",
+      "statementLabel": null,
+      "description": "Students should be able to use the principle of superposition to calculate by integration:",
+      "ancestorIds": [
+        "045DF5DE03564F03B6FE256E6394281A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "045DF5DE03564F03B6FE256E6394281A"
+    },
+    "045DF5DE03564F03B6FE256E6394281A": {
+      "id": "045DF5DE03564F03B6FE256E6394281A",
+      "asnIdentifier": null,
+      "position": 5030,
+      "depth": 1,
+      "listId": "4. ",
+      "statementNotation": "A.4",
+      "statementLabel": null,
+      "description": "Fields and potentials of other charge distributions",
+      "ancestorIds": [
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "128E6339AC8044D3B4AC8CEF298BC30D"
+    },
+    "3803C6CE209444008D78924359102FF4": {
+      "id": "3803C6CE209444008D78924359102FF4",
+      "asnIdentifier": null,
+      "position": 5029,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "A.3.b.3",
+      "statementLabel": null,
+      "description": "Apply the law to determine the charge density or total charge on a surface in term of the electric field near the surface.",
+      "ancestorIds": [
+        "16E883C9868C47C18167791586C11E1C",
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "16E883C9868C47C18167791586C11E1C"
+    },
+    "710F48D696E040818C2C4DC51072C2C7": {
+      "id": "710F48D696E040818C2C4DC51072C2C7",
+      "asnIdentifier": null,
+      "position": 5028,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.3.b.2",
+      "statementLabel": null,
+      "description": "Apply the law, along with symmetry arguments, to determine the electric field for a planar, spherical or cylindrically symmetric charge distribution.",
+      "ancestorIds": [
+        "16E883C9868C47C18167791586C11E1C",
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "16E883C9868C47C18167791586C11E1C"
+    },
+    "5C90FC8E653F41A080A521C52816069B": {
+      "id": "5C90FC8E653F41A080A521C52816069B",
+      "asnIdentifier": null,
+      "position": 5027,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.3.b.1",
+      "statementLabel": null,
+      "description": "State the law in integral form, and apply it quantitatively to relate flux and electric charge for a specified surface.",
+      "ancestorIds": [
+        "16E883C9868C47C18167791586C11E1C",
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "16E883C9868C47C18167791586C11E1C"
+    },
+    "16E883C9868C47C18167791586C11E1C": {
+      "id": "16E883C9868C47C18167791586C11E1C",
+      "asnIdentifier": null,
+      "position": 5026,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "A.3.b",
+      "statementLabel": null,
+      "description": "Students should understand Gauss's Law, so they can:",
+      "ancestorIds": [
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "1119D348B744484AAB36FF2BA1F631DA"
+    },
+    "7971B738E8464E47BF0084344DC7BE43": {
+      "id": "7971B738E8464E47BF0084344DC7BE43",
+      "asnIdentifier": null,
+      "position": 4026,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "A.3.a.3",
+      "statementLabel": null,
+      "description": "State and apply the relationship between flux and lines of force.",
+      "ancestorIds": [
+        "1A53D93A1F7B4863AF9C7DD743B36612",
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "1A53D93A1F7B4863AF9C7DD743B36612"
+    },
+    "ECDC3D517F724C038D82547A97523DA7": {
+      "id": "ECDC3D517F724C038D82547A97523DA7",
+      "asnIdentifier": null,
+      "position": 4025,
+      "depth": 3,
+      "listId": "2) ",
+      "statementNotation": "A.3.a.2",
+      "statementLabel": null,
+      "description": "Calculate the flux of the electric field through a rectangle when the field is perpendicular to the rectangle and a function of one coordinate only.",
+      "ancestorIds": [
+        "1A53D93A1F7B4863AF9C7DD743B36612",
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "1A53D93A1F7B4863AF9C7DD743B36612"
+    },
+    "EB8CDEF1A9CB4B57B964827A4A4F7D44": {
+      "id": "EB8CDEF1A9CB4B57B964827A4A4F7D44",
+      "asnIdentifier": null,
+      "position": 4024,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.3.a.1",
+      "statementLabel": null,
+      "description": "Calculate the flux of an electric field through an arbitrary surface or of a field uniform in magnitude over a Gaussian surface and perpendicular to it.",
+      "ancestorIds": [
+        "1A53D93A1F7B4863AF9C7DD743B36612",
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "1A53D93A1F7B4863AF9C7DD743B36612"
+    },
+    "1A53D93A1F7B4863AF9C7DD743B36612": {
+      "id": "1A53D93A1F7B4863AF9C7DD743B36612",
+      "asnIdentifier": null,
+      "position": 4023,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "A.3.a",
+      "statementLabel": null,
+      "description": "Students should understand the relationship between electric field and electric flux, so they can:",
+      "ancestorIds": [
+        "1119D348B744484AAB36FF2BA1F631DA",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "1119D348B744484AAB36FF2BA1F631DA"
+    },
+    "1119D348B744484AAB36FF2BA1F631DA": {
+      "id": "1119D348B744484AAB36FF2BA1F631DA",
+      "asnIdentifier": null,
+      "position": 4022,
+      "depth": 1,
+      "listId": "3.",
+      "statementNotation": "A.3",
+      "statementLabel": null,
+      "description": "Gauss's Law",
+      "ancestorIds": [
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "128E6339AC8044D3B4AC8CEF298BC30D"
+    },
+    "030D78B0EA0A4B3685DDF7D7DC5D124D": {
+      "id": "030D78B0EA0A4B3685DDF7D7DC5D124D",
+      "asnIdentifier": null,
+      "position": 4021,
+      "depth": 3,
+      "listId": "8)",
+      "statementNotation": "A.2.b.8",
+      "statementLabel": null,
+      "description": "State the general relationship between field and potential, and define and apply the concept of conservative electric field. ",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "9252FFACE713440084EC304727089924": {
+      "id": "9252FFACE713440084EC304727089924",
+      "asnIdentifier": null,
+      "position": 4020,
+      "depth": 3,
+      "listId": "7)",
+      "statementNotation": "A.2.b.7",
+      "statementLabel": null,
+      "description": "Use integration to determine electric potential difference between two points on a line, given electric field strength as a function of position along that line.",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "0AED5AC8BF7B423DB7C8E4BE436145B5": {
+      "id": "0AED5AC8BF7B423DB7C8E4BE436145B5",
+      "asnIdentifier": null,
+      "position": 4019,
+      "depth": 3,
+      "listId": "6)",
+      "statementNotation": "A.2.b.6",
+      "statementLabel": null,
+      "description": "Calculate the electrostatic potential energy of a system of two or more point charges, and calculate how much work is required to establish the charge system. ",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "94FDD1631FF2492AA9344AF0078DF14E": {
+      "id": "94FDD1631FF2492AA9344AF0078DF14E",
+      "asnIdentifier": null,
+      "position": 4018,
+      "depth": 3,
+      "listId": "5)",
+      "statementNotation": "A.2.b.5",
+      "statementLabel": null,
+      "description": "Calculate how much work is required to move a test charge from one location to another in the field of fixed point charges.",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "7A31A5228D2B45FE86B8956E54232917": {
+      "id": "7A31A5228D2B45FE86B8956E54232917",
+      "asnIdentifier": null,
+      "position": 4017,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "A.2.b.4",
+      "statementLabel": null,
+      "description": "Calculate the potential difference between two points in a uniform electric field, and state which point is at the higher potential.",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "698E77B375414BD9AF9B924B235852E8": {
+      "id": "698E77B375414BD9AF9B924B235852E8",
+      "asnIdentifier": null,
+      "position": 4016,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "A.2.b.3",
+      "statementLabel": null,
+      "description": "Determine the direction and approximate magnitude of the electric field at various positions given a sketch of equipotentials.",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "20A2BB35462C431D9BB346F8B5BF5214": {
+      "id": "20A2BB35462C431D9BB346F8B5BF5214",
+      "asnIdentifier": null,
+      "position": 4015,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.2.b.2",
+      "statementLabel": null,
+      "description": "Calculate the electrical work done on a charge or use conservation of energy to determine the speed of a charge that moves through a specified potential difference. ",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "19C9E08AAB644B248280796727E1CCF5": {
+      "id": "19C9E08AAB644B248280796727E1CCF5",
+      "asnIdentifier": null,
+      "position": 4014,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.2.b.1",
+      "statementLabel": null,
+      "description": "Determine the electric potential in the vicinity of one or more point charges.",
+      "ancestorIds": [
+        "FF23BA4C47594340B4EB1D8FD0D867D0",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "FF23BA4C47594340B4EB1D8FD0D867D0"
+    },
+    "FF23BA4C47594340B4EB1D8FD0D867D0": {
+      "id": "FF23BA4C47594340B4EB1D8FD0D867D0",
+      "asnIdentifier": null,
+      "position": 4013,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "A.2.b",
+      "statementLabel": null,
+      "description": "Students should understand the concept of electric potential, so they can:",
+      "ancestorIds": [
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "C9CCF74F4ED14F66BFE3230B9BDCBB2A"
+    },
+    "76FD670587EB4377A0D0E32ED403AE5D": {
+      "id": "76FD670587EB4377A0D0E32ED403AE5D",
+      "asnIdentifier": null,
+      "position": 4012,
+      "depth": 3,
+      "listId": "6)",
+      "statementNotation": "A.2.a.6",
+      "statementLabel": null,
+      "description": "Analyze the motion of a particle of specified charge and mass in a uniform electric field.",
+      "ancestorIds": [
+        "28A30CA8EC66407FB15BDC43625FEEC6",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "28A30CA8EC66407FB15BDC43625FEEC6"
+    },
+    "8157FD4D872D4E269CEACBA1966BB477": {
+      "id": "8157FD4D872D4E269CEACBA1966BB477",
+      "asnIdentifier": null,
+      "position": 4011,
+      "depth": 3,
+      "listId": "5) ",
+      "statementNotation": "A.2.a.5",
+      "statementLabel": null,
+      "description": "Interpret an electric field diagram.",
+      "ancestorIds": [
+        "28A30CA8EC66407FB15BDC43625FEEC6",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "28A30CA8EC66407FB15BDC43625FEEC6"
+    },
+    "2925EEC5909D4798BB1B24E9CF2C259D": {
+      "id": "2925EEC5909D4798BB1B24E9CF2C259D",
+      "asnIdentifier": null,
+      "position": 4010,
+      "depth": 3,
+      "listId": "4)",
+      "statementNotation": "A.2.a.4",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the force on a positive or negative charge placed in a specified field.",
+      "ancestorIds": [
+        "28A30CA8EC66407FB15BDC43625FEEC6",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "28A30CA8EC66407FB15BDC43625FEEC6"
+    },
+    "44AE00A579FF48C485C9BD69EF853855": {
+      "id": "44AE00A579FF48C485C9BD69EF853855",
+      "asnIdentifier": null,
+      "position": 4009,
+      "depth": 3,
+      "listId": "3)",
+      "statementNotation": "A.2.a.3",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the force on a positive or negative charge placed in a specified field.",
+      "ancestorIds": [
+        "28A30CA8EC66407FB15BDC43625FEEC6",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "28A30CA8EC66407FB15BDC43625FEEC6"
+    },
+    "F636971FFA56469A968289D3D466D256": {
+      "id": "F636971FFA56469A968289D3D466D256",
+      "asnIdentifier": null,
+      "position": 4008,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.2.a.2",
+      "statementLabel": null,
+      "description": "Describe and calculate the electric field of a single point charge.",
+      "ancestorIds": [
+        "28A30CA8EC66407FB15BDC43625FEEC6",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "28A30CA8EC66407FB15BDC43625FEEC6"
+    },
+    "0A9D3495505A411A833C978FCB0473A8": {
+      "id": "0A9D3495505A411A833C978FCB0473A8",
+      "asnIdentifier": null,
+      "position": 4007,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.2.a.1",
+      "statementLabel": null,
+      "description": "Define it in terms of the force on a test charge.",
+      "ancestorIds": [
+        "28A30CA8EC66407FB15BDC43625FEEC6",
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "28A30CA8EC66407FB15BDC43625FEEC6"
+    },
+    "28A30CA8EC66407FB15BDC43625FEEC6": {
+      "id": "28A30CA8EC66407FB15BDC43625FEEC6",
+      "asnIdentifier": null,
+      "position": 4006,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "A.2.a",
+      "statementLabel": null,
+      "description": "Students should understand the concept of electric field, so they can:",
+      "ancestorIds": [
+        "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "C9CCF74F4ED14F66BFE3230B9BDCBB2A"
+    },
+    "C9CCF74F4ED14F66BFE3230B9BDCBB2A": {
+      "id": "C9CCF74F4ED14F66BFE3230B9BDCBB2A",
+      "asnIdentifier": null,
+      "position": 3006,
+      "depth": 1,
+      "listId": "2.",
+      "statementNotation": "A.2",
+      "statementLabel": null,
+      "description": "Electric field and electric potential (including point charges)",
+      "ancestorIds": [
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "128E6339AC8044D3B4AC8CEF298BC30D"
+    },
+    "808E62B3213340678759983081309F2E": {
+      "id": "808E62B3213340678759983081309F2E",
+      "asnIdentifier": null,
+      "position": 2006,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.1.b.2",
+      "statementLabel": null,
+      "description": "Analyze the motion of a particle of specified charge and mass under the influence of an electrostatic force.",
+      "ancestorIds": [
+        "73B5BC1E85134E589A033211D8B6DBFA",
+        "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "73B5BC1E85134E589A033211D8B6DBFA"
+    },
+    "901CB6D8BD0D49B48BC2A63BBC2F00D1": {
+      "id": "901CB6D8BD0D49B48BC2A63BBC2F00D1",
+      "asnIdentifier": null,
+      "position": 2005,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.1.b.1",
+      "statementLabel": null,
+      "description": "Calculate the magnitude and direction of the force on a positive or negative charge due to other specified point charges.",
+      "ancestorIds": [
+        "73B5BC1E85134E589A033211D8B6DBFA",
+        "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "73B5BC1E85134E589A033211D8B6DBFA"
+    },
+    "73B5BC1E85134E589A033211D8B6DBFA": {
+      "id": "73B5BC1E85134E589A033211D8B6DBFA",
+      "asnIdentifier": null,
+      "position": 2004,
+      "depth": 2,
+      "listId": "b)",
+      "statementNotation": "A.1.b",
+      "statementLabel": null,
+      "description": "Students should understand Coulomb's Law and the principle of superposition, so they can:",
+      "ancestorIds": [
+        "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "9C6FE72FB0F44BF2A3E87B2C2C42BAE2"
+    },
+    "42BDA3A8CCA343E18BCF8DD8724BE674": {
+      "id": "42BDA3A8CCA343E18BCF8DD8724BE674",
+      "asnIdentifier": null,
+      "position": 2003,
+      "depth": 3,
+      "listId": "2)",
+      "statementNotation": "A.1.a.2",
+      "statementLabel": null,
+      "description": "Describe the polarization of induced charges.",
+      "ancestorIds": [
+        "4D11131FD08A49329ECC5EEC08D84681",
+        "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "4D11131FD08A49329ECC5EEC08D84681"
+    },
+    "9F7068A456F94A189A474D11E7F82FBB": {
+      "id": "9F7068A456F94A189A474D11E7F82FBB",
+      "asnIdentifier": null,
+      "position": 2002,
+      "depth": 3,
+      "listId": "1)",
+      "statementNotation": "A.1.a.1",
+      "statementLabel": null,
+      "description": "Describe the types of charge and the attraction and repulsion of charges.",
+      "ancestorIds": [
+        "4D11131FD08A49329ECC5EEC08D84681",
+        "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "4D11131FD08A49329ECC5EEC08D84681"
+    },
+    "4D11131FD08A49329ECC5EEC08D84681": {
+      "id": "4D11131FD08A49329ECC5EEC08D84681",
+      "asnIdentifier": null,
+      "position": 2001,
+      "depth": 2,
+      "listId": "a)",
+      "statementNotation": "A.1.a",
+      "statementLabel": null,
+      "description": "Students should understand the concept of electric charge, so they can:",
+      "ancestorIds": [
+        "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "9C6FE72FB0F44BF2A3E87B2C2C42BAE2"
+    },
+    "9C6FE72FB0F44BF2A3E87B2C2C42BAE2": {
+      "id": "9C6FE72FB0F44BF2A3E87B2C2C42BAE2",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "1.",
+      "statementNotation": "A.1",
+      "statementLabel": null,
+      "description": "Charge and Coulomb's Law",
+      "ancestorIds": [
+        "128E6339AC8044D3B4AC8CEF298BC30D"
+      ],
+      "parentId": "128E6339AC8044D3B4AC8CEF298BC30D"
+    },
+    "128E6339AC8044D3B4AC8CEF298BC30D": {
+      "id": "128E6339AC8044D3B4AC8CEF298BC30D",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "A.",
+      "statementNotation": "A",
+      "statementLabel": null,
+      "description": "Electrostatics",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

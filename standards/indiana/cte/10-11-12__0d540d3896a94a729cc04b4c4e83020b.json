@@ -1,0 +1,756 @@
+{
+  "id": "0D540D3896A94A729CC04B4C4E83020B",
+  "title": "Computer Science I",
+  "subject": "CTE",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {},
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "Indiana Department of Education",
+    "publicationStatus": "Published"
+  },
+  "jurisdiction": {
+    "id": "0F7091AB177F40D8B71B326CAFD13C8D",
+    "title": "Indiana"
+  },
+  "standards": {
+    "B87FB5DEB84A4D799B4C49A72767F401": {
+      "id": "B87FB5DEB84A4D799B4C49A72767F401",
+      "asnIdentifier": null,
+      "position": 50000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Interpret input/output",
+      "ancestorIds": [
+        "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A6B8E18D765A49BFBAFE5E7560D8E2A0"
+    },
+    "FCDCDF3A12494E1C99C995D3F0CE0287": {
+      "id": "FCDCDF3A12494E1C99C995D3F0CE0287",
+      "asnIdentifier": null,
+      "position": 49000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Identify cause/effect by explaining input and output",
+      "ancestorIds": [
+        "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A6B8E18D765A49BFBAFE5E7560D8E2A0"
+    },
+    "AD678F70C644406D8914425833D1AB76": {
+      "id": "AD678F70C644406D8914425833D1AB76",
+      "asnIdentifier": null,
+      "position": 48000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Describe how to use a computer program",
+      "ancestorIds": [
+        "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A6B8E18D765A49BFBAFE5E7560D8E2A0"
+    },
+    "6ECC2D62585F43E5B612287210A50E31": {
+      "id": "6ECC2D62585F43E5B612287210A50E31",
+      "asnIdentifier": null,
+      "position": 47000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Explain concepts related to a computer program",
+      "ancestorIds": [
+        "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A6B8E18D765A49BFBAFE5E7560D8E2A0"
+    },
+    "01E10333D18247A4B6D8F22A7ACEAE58": {
+      "id": "01E10333D18247A4B6D8F22A7ACEAE58",
+      "asnIdentifier": null,
+      "position": 46000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Identify the purposes of a computer program",
+      "ancestorIds": [
+        "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A6B8E18D765A49BFBAFE5E7560D8E2A0"
+    },
+    "E1DB434AB4894151BCEB43DA5C22D4F7": {
+      "id": "E1DB434AB4894151BCEB43DA5C22D4F7",
+      "asnIdentifier": null,
+      "position": 45000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Describe the function of a computer program",
+      "ancestorIds": [
+        "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A6B8E18D765A49BFBAFE5E7560D8E2A0"
+    },
+    "A6B8E18D765A49BFBAFE5E7560D8E2A0": {
+      "id": "A6B8E18D765A49BFBAFE5E7560D8E2A0",
+      "asnIdentifier": null,
+      "position": 44000,
+      "depth": 1,
+      "listId": "6",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Students connect an associated task with the code by providing documentation.",
+      "ancestorIds": [
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A3264B71F54041AC858BB82B6AC491B5"
+    },
+    "720F35327ED8482495D402B5BCB82BFB": {
+      "id": "720F35327ED8482495D402B5BCB82BFB",
+      "asnIdentifier": null,
+      "position": 43000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CS1-5.4",
+      "statementLabel": null,
+      "description": "Scrutinize peers code for errors",
+      "ancestorIds": [
+        "32CCE4395E6E4E8AA5480981B4F4A822",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "32CCE4395E6E4E8AA5480981B4F4A822"
+    },
+    "9BF8CAC2E9C74BB2A617B504451AA18F": {
+      "id": "9BF8CAC2E9C74BB2A617B504451AA18F",
+      "asnIdentifier": null,
+      "position": 42000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CS1-5.3",
+      "statementLabel": null,
+      "description": "Perform input validation",
+      "ancestorIds": [
+        "32CCE4395E6E4E8AA5480981B4F4A822",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "32CCE4395E6E4E8AA5480981B4F4A822"
+    },
+    "6BAC439E1D2B434BBF1F61489EFC9DBC": {
+      "id": "6BAC439E1D2B434BBF1F61489EFC9DBC",
+      "asnIdentifier": null,
+      "position": 41000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS1-5.2",
+      "statementLabel": null,
+      "description": "Identify cause/effect for input/output",
+      "ancestorIds": [
+        "32CCE4395E6E4E8AA5480981B4F4A822",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "32CCE4395E6E4E8AA5480981B4F4A822"
+    },
+    "BAD9EF2991E34F2E9A0C5F728C2373B1": {
+      "id": "BAD9EF2991E34F2E9A0C5F728C2373B1",
+      "asnIdentifier": null,
+      "position": 40000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS1-5.1",
+      "statementLabel": null,
+      "description": "Predict and explain output",
+      "ancestorIds": [
+        "32CCE4395E6E4E8AA5480981B4F4A822",
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "32CCE4395E6E4E8AA5480981B4F4A822"
+    },
+    "32CCE4395E6E4E8AA5480981B4F4A822": {
+      "id": "32CCE4395E6E4E8AA5480981B4F4A822",
+      "asnIdentifier": null,
+      "position": 39000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Students prove a computer program solution works by using verification and debugging\ntechniques.",
+      "ancestorIds": [
+        "A3264B71F54041AC858BB82B6AC491B5"
+      ],
+      "parentId": "A3264B71F54041AC858BB82B6AC491B5"
+    },
+    "A3264B71F54041AC858BB82B6AC491B5": {
+      "id": "A3264B71F54041AC858BB82B6AC491B5",
+      "asnIdentifier": null,
+      "position": 38000,
+      "depth": 0,
+      "listId": "5",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Program Verification and Debugging",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "DE5D0338E8DD48BF9E34BE5007600F8B": {
+      "id": "DE5D0338E8DD48BF9E34BE5007600F8B",
+      "asnIdentifier": null,
+      "position": 37000,
+      "depth": 2,
+      "listId": "13",
+      "statementNotation": "CS1-4.13",
+      "statementLabel": null,
+      "description": "Use the order of operations when using calculations",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "DA49DF5B3C8B4F7586320660FFCA1F3B": {
+      "id": "DA49DF5B3C8B4F7586320660FFCA1F3B",
+      "asnIdentifier": null,
+      "position": 36000,
+      "depth": 2,
+      "listId": "12",
+      "statementNotation": "CS1-4.12",
+      "statementLabel": null,
+      "description": "Identify different types of errors and handle them programmatically",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "E0218A84C1BE4772829CE61207D856A2": {
+      "id": "E0218A84C1BE4772829CE61207D856A2",
+      "asnIdentifier": null,
+      "position": 35000,
+      "depth": 2,
+      "listId": "11",
+      "statementNotation": "CS1-4.11",
+      "statementLabel": null,
+      "description": "Identify the parts of the programming platform",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "07032DAF89B549E29CFFABF3AF39FAD8": {
+      "id": "07032DAF89B549E29CFFABF3AF39FAD8",
+      "asnIdentifier": null,
+      "position": 34000,
+      "depth": 2,
+      "listId": "10",
+      "statementNotation": "CS1-4.10",
+      "statementLabel": null,
+      "description": "Define the graphical user interface",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "A413C52BB2AE4BD98CDE771366D46184": {
+      "id": "A413C52BB2AE4BD98CDE771366D46184",
+      "asnIdentifier": null,
+      "position": 33000,
+      "depth": 2,
+      "listId": "9",
+      "statementNotation": "CS1-4.9",
+      "statementLabel": null,
+      "description": "Use functions and methods to break down the program logic and support reuse",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "51B2B64051D340F9B16389F50C18D465": {
+      "id": "51B2B64051D340F9B16389F50C18D465",
+      "asnIdentifier": null,
+      "position": 32000,
+      "depth": 2,
+      "listId": "8",
+      "statementNotation": "CS1-4.8",
+      "statementLabel": null,
+      "description": "Define single and multidimensional Arrays",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "85A23579BA854EA799C75760A5D52DD3": {
+      "id": "85A23579BA854EA799C75760A5D52DD3",
+      "asnIdentifier": null,
+      "position": 31000,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "CS1-4.7",
+      "statementLabel": null,
+      "description": "Use loops (while statements, for statements)",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "A04EC177A1AF440299241F9D029F51DA": {
+      "id": "A04EC177A1AF440299241F9D029F51DA",
+      "asnIdentifier": null,
+      "position": 30000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "CS1-4.6",
+      "statementLabel": null,
+      "description": "Use conditionals (IF statements)",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "7885D64B4D5E4C2CB1E9EFDBB0850708": {
+      "id": "7885D64B4D5E4C2CB1E9EFDBB0850708",
+      "asnIdentifier": null,
+      "position": 29000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CS1-4.5",
+      "statementLabel": null,
+      "description": "Recognize local scope and global scope",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "5D33D1534593455DA2403BC5E3844200": {
+      "id": "5D33D1534593455DA2403BC5E3844200",
+      "asnIdentifier": null,
+      "position": 28000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CS1-4.4",
+      "statementLabel": null,
+      "description": "Recognize data variables and constants",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "0F86D3D238BE41F289A226A69A490B46": {
+      "id": "0F86D3D238BE41F289A226A69A490B46",
+      "asnIdentifier": null,
+      "position": 27000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CS1-4.3",
+      "statementLabel": null,
+      "description": "Define programming structures",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "2ADB807715BF4E04AC4C026128DC4E7C": {
+      "id": "2ADB807715BF4E04AC4C026128DC4E7C",
+      "asnIdentifier": null,
+      "position": 26000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS1-4.2",
+      "statementLabel": null,
+      "description": "Create a computer program that corresponds to an algorithm or proposed solution",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "E7A5D08BAB5A4472887A7D22A08326A5": {
+      "id": "E7A5D08BAB5A4472887A7D22A08326A5",
+      "asnIdentifier": null,
+      "position": 25000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS1-4.1",
+      "statementLabel": null,
+      "description": "Define the process of programming",
+      "ancestorIds": [
+        "4857796003664D9087A470C1416F84D3",
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "4857796003664D9087A470C1416F84D3"
+    },
+    "4857796003664D9087A470C1416F84D3": {
+      "id": "4857796003664D9087A470C1416F84D3",
+      "asnIdentifier": null,
+      "position": 24000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Students create a functional computer program.",
+      "ancestorIds": [
+        "8E38D9C728D54E7BA983F86E60B65DCB"
+      ],
+      "parentId": "8E38D9C728D54E7BA983F86E60B65DCB"
+    },
+    "8E38D9C728D54E7BA983F86E60B65DCB": {
+      "id": "8E38D9C728D54E7BA983F86E60B65DCB",
+      "asnIdentifier": null,
+      "position": 23000,
+      "depth": 0,
+      "listId": "4",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Program Development",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9E156221E8BA4B3EA9E9064D4B0561B1": {
+      "id": "9E156221E8BA4B3EA9E9064D4B0561B1",
+      "asnIdentifier": null,
+      "position": 22000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CS1-3.5",
+      "statementLabel": null,
+      "description": "Explain how the algorithm can be used to solve a problem",
+      "ancestorIds": [
+        "EA3ED89A26E84AF0BEA2152109F955F8",
+        "1D1EB980198141AFB90640152F8F07BB"
+      ],
+      "parentId": "EA3ED89A26E84AF0BEA2152109F955F8"
+    },
+    "C72CE8F962BC4E9FB8D867314A97A5EA": {
+      "id": "C72CE8F962BC4E9FB8D867314A97A5EA",
+      "asnIdentifier": null,
+      "position": 21000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CS1-3.4",
+      "statementLabel": null,
+      "description": "Create a program flowchart and ANSI standard flowcharting symbols to define a\n\nsolution to a programming problem",
+      "ancestorIds": [
+        "EA3ED89A26E84AF0BEA2152109F955F8",
+        "1D1EB980198141AFB90640152F8F07BB"
+      ],
+      "parentId": "EA3ED89A26E84AF0BEA2152109F955F8"
+    },
+    "B0DB59CE25FA4797A6EBEA05BEB1578B": {
+      "id": "B0DB59CE25FA4797A6EBEA05BEB1578B",
+      "asnIdentifier": null,
+      "position": 20000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CS1-3.3",
+      "statementLabel": null,
+      "description": "Use pseudo code to describe a solution to a programming problem",
+      "ancestorIds": [
+        "EA3ED89A26E84AF0BEA2152109F955F8",
+        "1D1EB980198141AFB90640152F8F07BB"
+      ],
+      "parentId": "EA3ED89A26E84AF0BEA2152109F955F8"
+    },
+    "98B51185EED649469E6CCD3A819B6DEF": {
+      "id": "98B51185EED649469E6CCD3A819B6DEF",
+      "asnIdentifier": null,
+      "position": 19000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS1-3.2",
+      "statementLabel": null,
+      "description": "Assess the use of algorithms to provide a solution to a programming problem",
+      "ancestorIds": [
+        "EA3ED89A26E84AF0BEA2152109F955F8",
+        "1D1EB980198141AFB90640152F8F07BB"
+      ],
+      "parentId": "EA3ED89A26E84AF0BEA2152109F955F8"
+    },
+    "114E8CA35DB84AB599878A3072C09D30": {
+      "id": "114E8CA35DB84AB599878A3072C09D30",
+      "asnIdentifier": null,
+      "position": 18000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS1-3.1",
+      "statementLabel": null,
+      "description": "Develop algorithms to solve a computer programming problem(s)",
+      "ancestorIds": [
+        "EA3ED89A26E84AF0BEA2152109F955F8",
+        "1D1EB980198141AFB90640152F8F07BB"
+      ],
+      "parentId": "EA3ED89A26E84AF0BEA2152109F955F8"
+    },
+    "EA3ED89A26E84AF0BEA2152109F955F8": {
+      "id": "EA3ED89A26E84AF0BEA2152109F955F8",
+      "asnIdentifier": null,
+      "position": 17000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Students design a solution to the problem using algorithms.",
+      "ancestorIds": [
+        "1D1EB980198141AFB90640152F8F07BB"
+      ],
+      "parentId": "1D1EB980198141AFB90640152F8F07BB"
+    },
+    "1D1EB980198141AFB90640152F8F07BB": {
+      "id": "1D1EB980198141AFB90640152F8F07BB",
+      "asnIdentifier": null,
+      "position": 16000,
+      "depth": 0,
+      "listId": "3",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Algorithm",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "65108EA9C36F4BC6B7F9BDC2F3C4F868": {
+      "id": "65108EA9C36F4BC6B7F9BDC2F3C4F868",
+      "asnIdentifier": null,
+      "position": 15000,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "CS1-2.6",
+      "statementLabel": null,
+      "description": "Construct a program that opens and closes a file",
+      "ancestorIds": [
+        "6FFAD633296E48FE9232E612185A2FF2",
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "6FFAD633296E48FE9232E612185A2FF2"
+    },
+    "675B12E10BDC4D54A0954441F649BA87": {
+      "id": "675B12E10BDC4D54A0954441F649BA87",
+      "asnIdentifier": null,
+      "position": 14000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CS1-2.5",
+      "statementLabel": null,
+      "description": "Construct the program in a high-level programming language based on a created\n\ndesign",
+      "ancestorIds": [
+        "6FFAD633296E48FE9232E612185A2FF2",
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "6FFAD633296E48FE9232E612185A2FF2"
+    },
+    "2A34BB4557F34EC58D32B113647B6E65": {
+      "id": "2A34BB4557F34EC58D32B113647B6E65",
+      "asnIdentifier": null,
+      "position": 13000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CS1-2.4",
+      "statementLabel": null,
+      "description": "Use debugging techniques to correct and validate the computer program",
+      "ancestorIds": [
+        "6FFAD633296E48FE9232E612185A2FF2",
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "6FFAD633296E48FE9232E612185A2FF2"
+    },
+    "5915B356C21048C3A6886872AE3AAABB": {
+      "id": "5915B356C21048C3A6886872AE3AAABB",
+      "asnIdentifier": null,
+      "position": 12000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CS1-2.3",
+      "statementLabel": null,
+      "description": "Develop programs using reusable modules (modularization)",
+      "ancestorIds": [
+        "6FFAD633296E48FE9232E612185A2FF2",
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "6FFAD633296E48FE9232E612185A2FF2"
+    },
+    "CEB735BC330A460687DDE7C8E6A354E3": {
+      "id": "CEB735BC330A460687DDE7C8E6A354E3",
+      "asnIdentifier": null,
+      "position": 11000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS1-2.2",
+      "statementLabel": null,
+      "description": "Identify programming languages as procedural or object oriented",
+      "ancestorIds": [
+        "6FFAD633296E48FE9232E612185A2FF2",
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "6FFAD633296E48FE9232E612185A2FF2"
+    },
+    "2C98043DCCF84F70A205B34076C9A069": {
+      "id": "2C98043DCCF84F70A205B34076C9A069",
+      "asnIdentifier": null,
+      "position": 10000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS1-2.1",
+      "statementLabel": null,
+      "description": "Construct a program that processes information",
+      "ancestorIds": [
+        "6FFAD633296E48FE9232E612185A2FF2",
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "6FFAD633296E48FE9232E612185A2FF2"
+    },
+    "6FFAD633296E48FE9232E612185A2FF2": {
+      "id": "6FFAD633296E48FE9232E612185A2FF2",
+      "asnIdentifier": null,
+      "position": 9000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Students apply and adapt software tools to develop a computer program. ",
+      "ancestorIds": [
+        "349AC77E19674CDF94BC3E27B5E9F9A9"
+      ],
+      "parentId": "349AC77E19674CDF94BC3E27B5E9F9A9"
+    },
+    "349AC77E19674CDF94BC3E27B5E9F9A9": {
+      "id": "349AC77E19674CDF94BC3E27B5E9F9A9",
+      "asnIdentifier": null,
+      "position": 8000,
+      "depth": 0,
+      "listId": "2",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Software Tools",
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "D90E6D865E934F63A2EC900A85CA708F": {
+      "id": "D90E6D865E934F63A2EC900A85CA708F",
+      "asnIdentifier": null,
+      "position": 7000,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "CS1-1.5",
+      "statementLabel": null,
+      "description": "Identify the standard program flowchart symbols and use them correctly within the\ncontext of the basic control structures of sequence, selection and looping",
+      "ancestorIds": [
+        "39181665239B439DBB469CDC8A233B1A",
+        "4E2916E9E2E74473892F0D14B29A7332"
+      ],
+      "parentId": "39181665239B439DBB469CDC8A233B1A"
+    },
+    "4F5582B5FBE04B48B8BD138FCEBD0D97": {
+      "id": "4F5582B5FBE04B48B8BD138FCEBD0D97",
+      "asnIdentifier": null,
+      "position": 6000,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "CS1-1.4",
+      "statementLabel": null,
+      "description": "Report the program schematics and usage",
+      "ancestorIds": [
+        "39181665239B439DBB469CDC8A233B1A",
+        "4E2916E9E2E74473892F0D14B29A7332"
+      ],
+      "parentId": "39181665239B439DBB469CDC8A233B1A"
+    },
+    "A367E3063DF74A288BFBE9260EED9FCC": {
+      "id": "A367E3063DF74A288BFBE9260EED9FCC",
+      "asnIdentifier": null,
+      "position": 5000,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "CS1-1.3",
+      "statementLabel": null,
+      "description": "Use print charts, file layouts, program narratives, hierarchy charts, and system\nflowcharts, which accurately depict the problem assigned and describe the solution",
+      "ancestorIds": [
+        "39181665239B439DBB469CDC8A233B1A",
+        "4E2916E9E2E74473892F0D14B29A7332"
+      ],
+      "parentId": "39181665239B439DBB469CDC8A233B1A"
+    },
+    "EED84E425EDE49618177F1CCA2FF26C0": {
+      "id": "EED84E425EDE49618177F1CCA2FF26C0",
+      "asnIdentifier": null,
+      "position": 4000,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "CS1-1.2",
+      "statementLabel": null,
+      "description": "Construct interactive computer programs that accept various forms of input and\nproduce various forms of output, as a solution to a computer programming problem",
+      "ancestorIds": [
+        "39181665239B439DBB469CDC8A233B1A",
+        "4E2916E9E2E74473892F0D14B29A7332"
+      ],
+      "parentId": "39181665239B439DBB469CDC8A233B1A"
+    },
+    "C7F737EC9492434895ECD212976F92A7": {
+      "id": "C7F737EC9492434895ECD212976F92A7",
+      "asnIdentifier": null,
+      "position": 3000,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "CS1-1.1",
+      "statementLabel": null,
+      "description": "Identify how to use a computer program to solve a problem",
+      "ancestorIds": [
+        "39181665239B439DBB469CDC8A233B1A",
+        "4E2916E9E2E74473892F0D14B29A7332"
+      ],
+      "parentId": "39181665239B439DBB469CDC8A233B1A"
+    },
+    "39181665239B439DBB469CDC8A233B1A": {
+      "id": "39181665239B439DBB469CDC8A233B1A",
+      "asnIdentifier": null,
+      "position": 2000,
+      "depth": 1,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Students analyze a problem and develop a solution by creating a computer program.",
+      "ancestorIds": [
+        "4E2916E9E2E74473892F0D14B29A7332"
+      ],
+      "parentId": "4E2916E9E2E74473892F0D14B29A7332"
+    },
+    "4E2916E9E2E74473892F0D14B29A7332": {
+      "id": "4E2916E9E2E74473892F0D14B29A7332",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "1",
+      "statementNotation": "",
+      "statementLabel": null,
+      "description": "Problem Analysis",
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}

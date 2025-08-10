@@ -1,0 +1,897 @@
+{
+  "id": "5B0F8C65353A4996959D61E8EC585CB0",
+  "title": "Algebra 2",
+  "subject": "Mathematics (2016-) ",
+  "normalizedSubject": null,
+  "educationLevels": [
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "cspStatus": {
+    "value": "visible",
+    "notes": null
+  },
+  "license": {
+    "title": "CC BY 4.0 US",
+    "URL": "http://creativecommons.org/licenses/by/4.0/us/",
+    "rightsHolder": "Common Curriculum, Inc."
+  },
+  "document": {
+    "title": "6-12 Mathematics Grade-Level Expectations",
+    "sourceURL": "https://dese.mo.gov/media/pdf/curr-mls-standards-math-6-12-sboe-2016"
+  },
+  "jurisdiction": {
+    "id": "175A144B44F94BFAB539F3B571A3A62C",
+    "title": "Missouri"
+  },
+  "standards": {
+    "33E5D1C7718B4950B17682BC71244FC0": {
+      "id": "33E5D1C7718B4950B17682BC71244FC0",
+      "asnIdentifier": null,
+      "position": 1052,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "DSA.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fit a data set to a distribution using its mean and standard deviation to\ndetermine whether the data is approximately normally distributed.",
+      "comments": [],
+      "ancestorIds": [
+        "8C351BBCFD30433EB80C78ADE7F27700",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "8C351BBCFD30433EB80C78ADE7F27700"
+    },
+    "64A13F9216774504AFB5600250D5CB99": {
+      "id": "64A13F9216774504AFB5600250D5CB99",
+      "asnIdentifier": null,
+      "position": 1051,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "DSA.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know and use the characteristics of normally distributed data sets; predict\nwhat percentage of the data will be above or below a given value that is a\nmultiple of standard deviations above or below the mean.  ",
+      "comments": [],
+      "ancestorIds": [
+        "8C351BBCFD30433EB80C78ADE7F27700",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "8C351BBCFD30433EB80C78ADE7F27700"
+    },
+    "8C351BBCFD30433EB80C78ADE7F27700": {
+      "id": "8C351BBCFD30433EB80C78ADE7F27700",
+      "asnIdentifier": null,
+      "position": 1050,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "DSA.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Fit a data set to a normal distribution.",
+      "comments": [],
+      "ancestorIds": [
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "64D4819E3FBF44D39340598C06052CA3"
+    },
+    "06A55EB93E3D451095121C0D9BCA00F4": {
+      "id": "06A55EB93E3D451095121C0D9BCA00F4",
+      "asnIdentifier": null,
+      "position": 1049,
+      "depth": 2,
+      "listId": "7",
+      "statementNotation": "DSA.A.7",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Evaluate reports based on data.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "05C4CA3FA83E48C2B20EEA11C3B7E7E2": {
+      "id": "05C4CA3FA83E48C2B20EEA11C3B7E7E2",
+      "asnIdentifier": null,
+      "position": 1048,
+      "depth": 2,
+      "listId": "6",
+      "statementNotation": "DSA.A.6",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze decisions and strategies using probability concepts.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "018F60AC2C054A27A0C3309AA4A92CB2": {
+      "id": "018F60AC2C054A27A0C3309AA4A92CB2",
+      "asnIdentifier": null,
+      "position": 1047,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "DSA.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and explain how the relative sizes of a sample and the population\naffect the margin of error of predictions.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "B05225A129AB499089C0EE734714125F": {
+      "id": "B05225A129AB499089C0EE734714125F",
+      "asnIdentifier": null,
+      "position": 1046,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "DSA.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use data from a sample to estimate characteristics of the population and\nrecognize the meaning of the margin of error in these estimates.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "0BE1FB73CD204B2E88CC86489CCA9829": {
+      "id": "0BE1FB73CD204B2E88CC86489CCA9829",
+      "asnIdentifier": null,
+      "position": 1045,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "DSA.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe and explain the purposes, relationship to randomization and\ndifferences among sample surveys, experiments and observational studies.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "23F0E334BB5346D2AE865F187F5A5935": {
+      "id": "23F0E334BB5346D2AE865F187F5A5935",
+      "asnIdentifier": null,
+      "position": 1044,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "DSA.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Determine whether a specified model is consistent with a given data set.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "2B831518F52145709098E0F8537610A2": {
+      "id": "2B831518F52145709098E0F8537610A2",
+      "asnIdentifier": null,
+      "position": 1043,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "DSA.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Analyze how random sampling could be used to make inferences about\npopulation parameters.",
+      "comments": [],
+      "ancestorIds": [
+        "77DC824EC24A49BE81C22A12C6911964",
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "77DC824EC24A49BE81C22A12C6911964"
+    },
+    "77DC824EC24A49BE81C22A12C6911964": {
+      "id": "77DC824EC24A49BE81C22A12C6911964",
+      "asnIdentifier": null,
+      "position": 1042,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "DSA.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Make inferences and justify conclusions.",
+      "comments": [],
+      "ancestorIds": [
+        "64D4819E3FBF44D39340598C06052CA3"
+      ],
+      "parentId": "64D4819E3FBF44D39340598C06052CA3"
+    },
+    "64D4819E3FBF44D39340598C06052CA3": {
+      "id": "64D4819E3FBF44D39340598C06052CA3",
+      "asnIdentifier": null,
+      "position": 1041,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "DSA",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Data and Statistical Analysis",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "8B481BAD643A4F9780AC490BF9A073BD": {
+      "id": "8B481BAD643A4F9780AC490BF9A073BD",
+      "asnIdentifier": null,
+      "position": 1040,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "M.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create functions and use them to solve applications of quadratic and\nexponential function model problems.",
+      "comments": [],
+      "ancestorIds": [
+        "5AD64FC3BF4F4750A128DE03280E690F",
+        "05D4DB32E7A8462C8A800686BF24377B"
+      ],
+      "parentId": "5AD64FC3BF4F4750A128DE03280E690F"
+    },
+    "5AD64FC3BF4F4750A128DE03280E690F": {
+      "id": "5AD64FC3BF4F4750A128DE03280E690F",
+      "asnIdentifier": null,
+      "position": 1039,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "M.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use functions to model real-world problems.",
+      "comments": [],
+      "ancestorIds": [
+        "05D4DB32E7A8462C8A800686BF24377B"
+      ],
+      "parentId": "05D4DB32E7A8462C8A800686BF24377B"
+    },
+    "05D4DB32E7A8462C8A800686BF24377B": {
+      "id": "05D4DB32E7A8462C8A800686BF24377B",
+      "asnIdentifier": null,
+      "position": 1038,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "M",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Modeling",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F627306393FD42C7A5CF87E156D00E74": {
+      "id": "F627306393FD42C7A5CF87E156D00E74",
+      "asnIdentifier": null,
+      "position": 1037,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "BF.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Describe the effects of transformations algebraically and graphically, creating\nvertical and horizontal translations, vertical and horizontal reflections and\ndilations (expansions/compressions) for linear, quadratic, cubic, square and\ncube root, absolute value, exponential and logarithmic functions. ",
+      "comments": [],
+      "ancestorIds": [
+        "66ECD94496CE4D289914C2477FF89152",
+        "DA77907353A34B37864B93A7F1C70555"
+      ],
+      "parentId": "66ECD94496CE4D289914C2477FF89152"
+    },
+    "1EA21EFAA9454707B99CC2A2C114186E": {
+      "id": "1EA21EFAA9454707B99CC2A2C114186E",
+      "asnIdentifier": null,
+      "position": 1036,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "BF.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Derive inverses of functions, and compose the inverse with the original\nfunction to show that the functions are inverses.",
+      "comments": [],
+      "ancestorIds": [
+        "66ECD94496CE4D289914C2477FF89152",
+        "DA77907353A34B37864B93A7F1C70555"
+      ],
+      "parentId": "66ECD94496CE4D289914C2477FF89152"
+    },
+    "910928A60CAA48228AF2D49E04DA7FE5": {
+      "id": "910928A60CAA48228AF2D49E04DA7FE5",
+      "asnIdentifier": null,
+      "position": 1035,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "BF.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create new functions by applying the four arithmetic operations and\ncomposition of functions (modifying the domain and range as necessary).",
+      "comments": [],
+      "ancestorIds": [
+        "66ECD94496CE4D289914C2477FF89152",
+        "DA77907353A34B37864B93A7F1C70555"
+      ],
+      "parentId": "66ECD94496CE4D289914C2477FF89152"
+    },
+    "66ECD94496CE4D289914C2477FF89152": {
+      "id": "66ECD94496CE4D289914C2477FF89152",
+      "asnIdentifier": null,
+      "position": 1034,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "BF.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create new functions from existing functions.",
+      "comments": [],
+      "ancestorIds": [
+        "DA77907353A34B37864B93A7F1C70555"
+      ],
+      "parentId": "DA77907353A34B37864B93A7F1C70555"
+    },
+    "DA77907353A34B37864B93A7F1C70555": {
+      "id": "DA77907353A34B37864B93A7F1C70555",
+      "asnIdentifier": null,
+      "position": 1033,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "BF",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Building Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "F170DCBD93704346A26E4AE78AFEEECF": {
+      "id": "F170DCBD93704346A26E4AE78AFEEECF",
+      "asnIdentifier": null,
+      "position": 1032,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "IF.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Translate between equivalent forms of functions.",
+      "comments": [],
+      "ancestorIds": [
+        "B7B843BB234845ED9F7CC3EC5B42280E",
+        "C0C377B80B904981A886E33F722C2EAE"
+      ],
+      "parentId": "B7B843BB234845ED9F7CC3EC5B42280E"
+    },
+    "3ED28EB029304DFABEFA4181F219EA9F": {
+      "id": "3ED28EB029304DFABEFA4181F219EA9F",
+      "asnIdentifier": null,
+      "position": 1031,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "IF.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify and interpret key characteristics of functions represented graphically, with\ntables and with algebraic symbolism to solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "B7B843BB234845ED9F7CC3EC5B42280E",
+        "C0C377B80B904981A886E33F722C2EAE"
+      ],
+      "parentId": "B7B843BB234845ED9F7CC3EC5B42280E"
+    },
+    "B7B843BB234845ED9F7CC3EC5B42280E": {
+      "id": "B7B843BB234845ED9F7CC3EC5B42280E",
+      "asnIdentifier": null,
+      "position": 1030,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "IF.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use and interpret functions.",
+      "comments": [],
+      "ancestorIds": [
+        "C0C377B80B904981A886E33F722C2EAE"
+      ],
+      "parentId": "C0C377B80B904981A886E33F722C2EAE"
+    },
+    "C0C377B80B904981A886E33F722C2EAE": {
+      "id": "C0C377B80B904981A886E33F722C2EAE",
+      "asnIdentifier": null,
+      "position": 1029,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "IF",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Interpreting Functions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "4367CD9C5F6E4940AFAEAAAB426555DE": {
+      "id": "4367CD9C5F6E4940AFAEAAAB426555DE",
+      "asnIdentifier": null,
+      "position": 1028,
+      "depth": 2,
+      "listId": "5",
+      "statementNotation": "APRE.A.5",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Identify zeros of polynomials when suitable factorizations are available, and\nuse the zeros to sketch the function defined by the polynomial.",
+      "comments": [],
+      "ancestorIds": [
+        "012DF8EF9EC44D00A1D74FFBB440E6AE",
+        "C3D83AD6F9BB4A08A49412D5E8857392"
+      ],
+      "parentId": "012DF8EF9EC44D00A1D74FFBB440E6AE"
+    },
+    "14581C0E85F342B5A8ED787C6A3789C4": {
+      "id": "14581C0E85F342B5A8ED787C6A3789C4",
+      "asnIdentifier": null,
+      "position": 1027,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "APRE.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add, subtract, multiply and divide rational expressions. ",
+      "comments": [],
+      "ancestorIds": [
+        "012DF8EF9EC44D00A1D74FFBB440E6AE",
+        "C3D83AD6F9BB4A08A49412D5E8857392"
+      ],
+      "parentId": "012DF8EF9EC44D00A1D74FFBB440E6AE"
+    },
+    "330ADACFE5DD4FE2AE6EB18F39439532": {
+      "id": "330ADACFE5DD4FE2AE6EB18F39439532",
+      "asnIdentifier": null,
+      "position": 1026,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "APRE.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Find the least common multiple of two or more polynomials.",
+      "comments": [],
+      "ancestorIds": [
+        "012DF8EF9EC44D00A1D74FFBB440E6AE",
+        "C3D83AD6F9BB4A08A49412D5E8857392"
+      ],
+      "parentId": "012DF8EF9EC44D00A1D74FFBB440E6AE"
+    },
+    "A40ACF972C3E43D4BF7245120223BFB2": {
+      "id": "A40ACF972C3E43D4BF7245120223BFB2",
+      "asnIdentifier": null,
+      "position": 1025,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "APRE.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand the Remainder Theorem and use it to solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "012DF8EF9EC44D00A1D74FFBB440E6AE",
+        "C3D83AD6F9BB4A08A49412D5E8857392"
+      ],
+      "parentId": "012DF8EF9EC44D00A1D74FFBB440E6AE"
+    },
+    "354729454BB3427A9C459C79E4802D7E": {
+      "id": "354729454BB3427A9C459C79E4802D7E",
+      "asnIdentifier": null,
+      "position": 1024,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "APRE.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend the knowledge of factoring to include factors with complex coefficients.",
+      "comments": [],
+      "ancestorIds": [
+        "012DF8EF9EC44D00A1D74FFBB440E6AE",
+        "C3D83AD6F9BB4A08A49412D5E8857392"
+      ],
+      "parentId": "012DF8EF9EC44D00A1D74FFBB440E6AE"
+    },
+    "012DF8EF9EC44D00A1D74FFBB440E6AE": {
+      "id": "012DF8EF9EC44D00A1D74FFBB440E6AE",
+      "asnIdentifier": null,
+      "position": 1023,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "APRE.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Perform operations on polynomials and rational expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "C3D83AD6F9BB4A08A49412D5E8857392"
+      ],
+      "parentId": "C3D83AD6F9BB4A08A49412D5E8857392"
+    },
+    "C3D83AD6F9BB4A08A49412D5E8857392": {
+      "id": "C3D83AD6F9BB4A08A49412D5E8857392",
+      "asnIdentifier": null,
+      "position": 1022,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "APRE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Arithmetic with Polynomials and Rational Expressions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "5F9547A532CC44EB8FB220E8D01B659C": {
+      "id": "5F9547A532CC44EB8FB220E8D01B659C",
+      "asnIdentifier": null,
+      "position": 1021,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "REI.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and solve systems of equations that may include non-linear equations\nand inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "07457705562C4675B680A8068DD182D4",
+        "0B7FFA598B4D411E84FCF0062C96E1C6"
+      ],
+      "parentId": "07457705562C4675B680A8068DD182D4"
+    },
+    "07457705562C4675B680A8068DD182D4": {
+      "id": "07457705562C4675B680A8068DD182D4",
+      "asnIdentifier": null,
+      "position": 1020,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "REI.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve general systems of equations and inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "0B7FFA598B4D411E84FCF0062C96E1C6"
+      ],
+      "parentId": "0B7FFA598B4D411E84FCF0062C96E1C6"
+    },
+    "E93E43CC84454D83B74443B05F28C718": {
+      "id": "E93E43CC84454D83B74443B05F28C718",
+      "asnIdentifier": null,
+      "position": 1019,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "REI.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve rational equations where numerators and denominators are polynomials\nand where extraneous solutions may result.",
+      "comments": [],
+      "ancestorIds": [
+        "32063EA958044650996815C0015BB605",
+        "0B7FFA598B4D411E84FCF0062C96E1C6"
+      ],
+      "parentId": "32063EA958044650996815C0015BB605"
+    },
+    "1642C448A897429785A9F12987AC0794": {
+      "id": "1642C448A897429785A9F12987AC0794",
+      "asnIdentifier": null,
+      "position": 1018,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "REI.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and solve equations and inequalities, including those that involve\nabsolute value.",
+      "comments": [],
+      "ancestorIds": [
+        "32063EA958044650996815C0015BB605",
+        "0B7FFA598B4D411E84FCF0062C96E1C6"
+      ],
+      "parentId": "32063EA958044650996815C0015BB605"
+    },
+    "32063EA958044650996815C0015BB605": {
+      "id": "32063EA958044650996815C0015BB605",
+      "asnIdentifier": null,
+      "position": 1017,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "REI.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve equations and inequalities.",
+      "comments": [],
+      "ancestorIds": [
+        "0B7FFA598B4D411E84FCF0062C96E1C6"
+      ],
+      "parentId": "0B7FFA598B4D411E84FCF0062C96E1C6"
+    },
+    "0B7FFA598B4D411E84FCF0062C96E1C6": {
+      "id": "0B7FFA598B4D411E84FCF0062C96E1C6",
+      "asnIdentifier": null,
+      "position": 1016,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "REI",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Reasoning with Equations and Inequalities",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "9A5E0226BE984B52836A495043A742CA": {
+      "id": "9A5E0226BE984B52836A495043A742CA",
+      "asnIdentifier": null,
+      "position": 1015,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "SSE.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Understand why logarithmic scales are used, and use them to solve problems.",
+      "comments": [],
+      "ancestorIds": [
+        "4BA1B621D04B411089362953E9EA9948",
+        "33F3EFCBD89B495BA671A21CEDC1C33D"
+      ],
+      "parentId": "4BA1B621D04B411089362953E9EA9948"
+    },
+    "DC45DE92A29C45A1A6A179A4B9BDFAFF": {
+      "id": "DC45DE92A29C45A1A6A179A4B9BDFAFF",
+      "asnIdentifier": null,
+      "position": 1014,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "SSE.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use properties of logarithms to solve equations or find equivalent expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "4BA1B621D04B411089362953E9EA9948",
+        "33F3EFCBD89B495BA671A21CEDC1C33D"
+      ],
+      "parentId": "4BA1B621D04B411089362953E9EA9948"
+    },
+    "907CAA31BC84431E9A867CED32197A9F": {
+      "id": "907CAA31BC84431E9A867CED32197A9F",
+      "asnIdentifier": null,
+      "position": 1013,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "SSE.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use the inverse relationship between exponents and logarithms to solve\nexponential and logarithmic equations.",
+      "comments": [],
+      "ancestorIds": [
+        "4BA1B621D04B411089362953E9EA9948",
+        "33F3EFCBD89B495BA671A21CEDC1C33D"
+      ],
+      "parentId": "4BA1B621D04B411089362953E9EA9948"
+    },
+    "F79B1BBCB72240DEBC6F58E1DECE9E5A": {
+      "id": "F79B1BBCB72240DEBC6F58E1DECE9E5A",
+      "asnIdentifier": null,
+      "position": 1012,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "SSE.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Develop the definition of logarithms based on properties of exponents.",
+      "comments": [],
+      "ancestorIds": [
+        "4BA1B621D04B411089362953E9EA9948",
+        "33F3EFCBD89B495BA671A21CEDC1C33D"
+      ],
+      "parentId": "4BA1B621D04B411089362953E9EA9948"
+    },
+    "4BA1B621D04B411089362953E9EA9948": {
+      "id": "4BA1B621D04B411089362953E9EA9948",
+      "asnIdentifier": null,
+      "position": 1011,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "SSE.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Define and use logarithms.",
+      "comments": [],
+      "ancestorIds": [
+        "33F3EFCBD89B495BA671A21CEDC1C33D"
+      ],
+      "parentId": "33F3EFCBD89B495BA671A21CEDC1C33D"
+    },
+    "33F3EFCBD89B495BA671A21CEDC1C33D": {
+      "id": "33F3EFCBD89B495BA671A21CEDC1C33D",
+      "asnIdentifier": null,
+      "position": 1010,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "SSE",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Seeing Structure in Expressions",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    },
+    "2000EA588F32452A869B6821B577ADDB": {
+      "id": "2000EA588F32452A869B6821B577ADDB",
+      "asnIdentifier": null,
+      "position": 1009,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "NQ.B.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Know and apply the Fundamental Theorem of Algebra.",
+      "comments": [],
+      "ancestorIds": [
+        "EEE729BAA2A24F3AA54CF75774C32CA3",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "EEE729BAA2A24F3AA54CF75774C32CA3"
+    },
+    "DF014A6C60F74C2EB488BCD6A8558480": {
+      "id": "DF014A6C60F74C2EB488BCD6A8558480",
+      "asnIdentifier": null,
+      "position": 1008,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "NQ.B.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add, subtract, multiply and divide complex numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "EEE729BAA2A24F3AA54CF75774C32CA3",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "EEE729BAA2A24F3AA54CF75774C32CA3"
+    },
+    "4184E8F434BC4558B8F95E30094C7929": {
+      "id": "4184E8F434BC4558B8F95E30094C7929",
+      "asnIdentifier": null,
+      "position": 1007,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "NQ.B.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Represent complex numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "EEE729BAA2A24F3AA54CF75774C32CA3",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "EEE729BAA2A24F3AA54CF75774C32CA3"
+    },
+    "EEE729BAA2A24F3AA54CF75774C32CA3": {
+      "id": "EEE729BAA2A24F3AA54CF75774C32CA3",
+      "asnIdentifier": null,
+      "position": 1006,
+      "depth": 1,
+      "listId": "B",
+      "statementNotation": "NQ.B",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Use complex numbers.",
+      "comments": [],
+      "ancestorIds": [
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "D996E151F5B3412E9679C401091279B3"
+    },
+    "6B2CE6DEEB944085A2ED235F66C45CF2": {
+      "id": "6B2CE6DEEB944085A2ED235F66C45CF2",
+      "asnIdentifier": null,
+      "position": 1005,
+      "depth": 2,
+      "listId": "4",
+      "statementNotation": "NQ.A.4",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Solve equations involving rational exponents and/or radicals and identify\nsituations where extraneous solutions may result.",
+      "comments": [],
+      "ancestorIds": [
+        "26BB9F04CC5A4691A7E8B887210775B5",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "26BB9F04CC5A4691A7E8B887210775B5"
+    },
+    "E46F70B51DC3454FB324E34E4945C846": {
+      "id": "E46F70B51DC3454FB324E34E4945C846",
+      "asnIdentifier": null,
+      "position": 1004,
+      "depth": 2,
+      "listId": "3",
+      "statementNotation": "NQ.A.3",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Add, subtract, multiply and divide radical expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "26BB9F04CC5A4691A7E8B887210775B5",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "26BB9F04CC5A4691A7E8B887210775B5"
+    },
+    "0EC5B24C12F8481180444848DC1FDFCD": {
+      "id": "0EC5B24C12F8481180444848DC1FDFCD",
+      "asnIdentifier": null,
+      "position": 1003,
+      "depth": 2,
+      "listId": "2",
+      "statementNotation": "NQ.A.2",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Create and recognize equivalent expressions involving radical and exponential\nforms of expressions.",
+      "comments": [],
+      "ancestorIds": [
+        "26BB9F04CC5A4691A7E8B887210775B5",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "26BB9F04CC5A4691A7E8B887210775B5"
+    },
+    "B7287C11257A4A76B3B7CE569CD14C37": {
+      "id": "B7287C11257A4A76B3B7CE569CD14C37",
+      "asnIdentifier": null,
+      "position": 1002,
+      "depth": 2,
+      "listId": "1",
+      "statementNotation": "NQ.A.1",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend the system of powers and roots to include rational exponents.",
+      "comments": [],
+      "ancestorIds": [
+        "26BB9F04CC5A4691A7E8B887210775B5",
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "26BB9F04CC5A4691A7E8B887210775B5"
+    },
+    "26BB9F04CC5A4691A7E8B887210775B5": {
+      "id": "26BB9F04CC5A4691A7E8B887210775B5",
+      "asnIdentifier": null,
+      "position": 1001,
+      "depth": 1,
+      "listId": "A",
+      "statementNotation": "NQ.A",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Extend and use the relationship between rational exponents and radicals.",
+      "comments": [],
+      "ancestorIds": [
+        "D996E151F5B3412E9679C401091279B3"
+      ],
+      "parentId": "D996E151F5B3412E9679C401091279B3"
+    },
+    "D996E151F5B3412E9679C401091279B3": {
+      "id": "D996E151F5B3412E9679C401091279B3",
+      "asnIdentifier": null,
+      "position": 1000,
+      "depth": 0,
+      "listId": "",
+      "statementNotation": "NQ",
+      "altStatementNotation": null,
+      "statementLabel": null,
+      "description": "Number and Quantity",
+      "comments": [],
+      "ancestorIds": [],
+      "parentId": null
+    }
+  }
+}
