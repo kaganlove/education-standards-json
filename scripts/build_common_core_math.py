@@ -33,7 +33,7 @@ DOMAIN_NAMES = {
     "CC": "Counting and Cardinality",
     "OA": "Operations and Algebraic Thinking",
     "NBT": "Number and Operations in Base Ten",
-    "NF": "Number and Operations in Base Ten",
+    "NF": "Number and Operations—Fractions",
     "MD": "Measurement and Data",
     "G": "Geometry",
     "RP": "Ratios and Proportional Relationships",
@@ -50,6 +50,36 @@ CODE_RE = re.compile(
     r'\b(K|[1-8]|HS)\.(CC|OA|NBT|NF|MD|G|RP|NS|EE|F|SP|N|A|S)\.[A-Z0-9]+\.\d+\b'
 )
 
+STOP_PATTERNS = [
+    r'COMMON CORE STATE STANDARDS for MATHEMATICS',
+    r'Mathematics \| Grade [K1-8]',
+    r'GRADE [K1-8] \| \d+',
+    r'Grade [K1-8] Overview',
+    r'Number and Operations in Base Ten',
+    r'Number and Operations-Fractions',
+    r'Operations and Algebraic Thinking',
+    r'Measurement and Data',
+    r'Geometry',
+    r'The Number System',
+    r'Expressions and Equations',
+    r'Ratios and Proportional Relationships',
+    r'Statistics and Probability',
+    r'Functions',
+    r'Number and Quantity',
+    r'Algebra',
+    r'A\.[A-Z]',
+    r'B\.[A-Z]',
+    r'C\.[A-Z]',
+    r'D\.[A-Z]',
+    r'Grade [1-8] Overview',
+    r'Mathematical Practices',
+    r'In Grade [1-8], instructional time should focus on',
+]
+
+FOOTNOTE_RE = re.compile(r'\b\d+See Glossary.*$', re.IGNORECASE)
+TRAILING_NUM_RE = re.compile(r'\s+\d+\.$')
+GRADE_TRANSITION_RE = re.compile(r'Mathematics \| Grade [K1-8].*$', re.IGNORECASE)
+
 def download_pdf():
     if PDF_PATH.exists():
         print(f"Using existing PDF: {PDF_PATH}")
@@ -62,6 +92,7 @@ def clean_text(text: str) -> str:
     text = text.replace("\u2019", "'").replace("\u2018", "'")
     text = text.replace("\u201c", '"').replace("\u201d", '"')
     text = text.replace("\u2013", "-").replace("\u2014", "-")
+    text = text.replace("�", "?")
     text = re.sub(r'[ \t]+', ' ', text)
     return text
 
@@ -79,6 +110,26 @@ def extract_full_text():
     print(f"Extracted {len(full_text)} characters from PDF")
     return full_text
 
+def trim_statement(statement: str) -> str:
+    statement = re.sub(r'\s+', ' ', statement).strip()
+
+    for pattern in STOP_PATTERNS:
+        m = re.search(pattern, statement)
+        if m:
+            statement = statement[:m.start()].strip()
+
+    statement = FOOTNOTE_RE.sub("", statement)
+    statement = GRADE_TRANSITION_RE.sub("", statement)
+    statement = TRAILING_NUM_RE.sub("", statement)
+
+    # remove stray leading bullets or labels
+    statement = re.sub(r'^[a-d]\.\s*', lambda m: m.group(0), statement)
+
+    # collapse spaces again after trimming
+    statement = re.sub(r'\s+', ' ', statement).strip()
+
+    return statement
+
 def parse_standards(full_text: str):
     matches = list(CODE_RE.finditer(full_text))
     print(f"Found {len(matches)} standard code matches")
@@ -93,8 +144,11 @@ def parse_standards(full_text: str):
         start = match.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(full_text)
 
-        statement = full_text[start:end].strip()
-        statement = re.sub(r'\s+', ' ', statement)
+        raw_statement = full_text[start:end].strip()
+        statement = trim_statement(raw_statement)
+
+        if not statement:
+            continue
 
         grade_code = code.split(".")[0]
         domain_code = code.split(".")[1]
